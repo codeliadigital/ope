@@ -1,0 +1,8 @@
+resumenes-md/
+tests/
+tools/
+README.md
+__pycache__/
+*.pyc
+examenes/
+cuestionarios/
