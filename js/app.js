@@ -1,5 +1,6 @@
 // OPE Enfermería SMS · resúmenes en PDF y tests
-// Aplicación estática: rutas con hash (#/, #/tema/N, #/tema/N/test, #/simulacro)
+// Aplicación estática: rutas con hash (#/, #/tema/N, #/tema/N/test, #/simulacro,
+// #/examenes, #/examenes/ID, #/cuestionarios, #/cuestionarios/ID)
 
 const app = document.getElementById('app');
 const LETTERS = ['a', 'b', 'c', 'd'];
@@ -10,8 +11,12 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 // cargan como <script> y el PDF se muestra con el visor del propio navegador.
 const IS_FILE = location.protocol === 'file:';
 
+// Súbelo cada vez que cambien los archivos de data/ para que nadie vea datos guardados antiguos
+const DATA_V = 5;
+
 let temasPromise = null;
 let testsPromise = null;
+let extraPromise = null;
 let activeQuiz = null;   // test en curso (para avisar antes de salir)
 let viewer = null;       // visor PDF activo
 let currentTema = null;  // { n, setTab }
@@ -27,7 +32,7 @@ function loadScript(src) {
 }
 
 function getTemas() {
-  temasPromise ??= loadScript('data/temas.js').then(() => {
+  temasPromise ??= loadScript(`data/temas.js?v=${DATA_V}`).then(() => {
     if (!window.OPE_TEMAS) throw new Error('No se pudo cargar el índice de temas');
     return window.OPE_TEMAS;
   }).catch((err) => { temasPromise = null; throw err; });
@@ -36,12 +41,21 @@ function getTemas() {
 
 // Todos los tests van en un solo archivo (data/tests.js) que se carga una vez
 function getTest(n) {
-  testsPromise ??= loadScript('data/tests.js').catch((err) => { testsPromise = null; throw err; });
+  testsPromise ??= loadScript(`data/tests.js?v=${DATA_V}`).catch((err) => { testsPromise = null; throw err; });
   return testsPromise.then(() => {
     const data = window.OPE_TESTS?.[n];
     if (!data) throw new Error(`No se pudo cargar el test del tema ${n}`);
     return data;
   });
+}
+
+// Exámenes oficiales y cuestionarios aparte (data/extra.js)
+function getExtra() {
+  extraPromise ??= loadScript(`data/extra.js?v=${DATA_V}`).then(() => {
+    if (!window.OPE_EXAMENES) throw new Error('No se pudieron cargar los exámenes y cuestionarios');
+    return { examenes: window.OPE_EXAMENES, cuestionarios: window.OPE_CUESTIONARIOS || [] };
+  }).catch((err) => { extraPromise = null; throw err; });
+  return extraPromise;
 }
 
 function shuffle(arr) {
@@ -88,6 +102,7 @@ async function route() {
   try {
     if (!Number.isNaN(temaN)) await renderTema(temaN, parts[2] === 'test' ? 'test' : 'resumen');
     else if (parts[0] === 'simulacro') await renderSimulacro();
+    else if (parts[0] === 'examenes' || parts[0] === 'cuestionarios') await renderSets(parts[0], parts[1]);
     else await renderHome();
   } catch (err) {
     console.error(err);
@@ -121,11 +136,13 @@ async function renderHome() {
   app.innerHTML = `
     <section class="hero">
       <h1>Resúmenes y tests de la OPE de Enfermería</h1>
-      <p>${temas.length} temas del programa del Servicio Murciano de Salud. Cada tema tiene su resumen en PDF para leer aquí mismo y un test de 30 preguntas que se corrige al final.</p>
+      <p>${temas.length} temas del programa del Servicio Murciano de Salud. Cada tema tiene su resumen en PDF para leer aquí mismo y un test de al menos 30 preguntas (algunas con imagen) que se corrige al final.</p>
     </section>
     <div class="toolbar-home">
       <input class="search" type="search" placeholder="Buscar por número o palabra (p. ej. 17, vacunas, Ley 55/2003)…" aria-label="Buscar tema">
       <a class="btn accent" href="#/simulacro">Simulacro aleatorio</a>
+      <a class="btn" href="#/examenes">Exámenes de otros años</a>
+      <a class="btn" href="#/cuestionarios">Preguntas trampa y con imagen</a>
     </div>
     <div class="grid"></div>`;
   const grid = app.querySelector('.grid');
@@ -413,14 +430,19 @@ class PdfViewer {
 /* Test: se responde a ritmo propio y se corrige al final              */
 /* ------------------------------------------------------------------ */
 
+// Imagen de una pregunta (ECG, pupilas...); se amplía al pulsar
+const qimg = (q) => (q.img ? `<a class="qimg" href="${esc(q.img)}" target="_blank" rel="noopener" title="Ver la imagen a tamaño completo"><img src="${esc(q.img)}" alt="Imagen de la pregunta"></a>` : '');
+
 class Quiz {
-  constructor(container, questions, { title, showTema = false, onNew = null } = {}) {
+  constructor(container, questions, { title, showTema = false, onNew = null, penalty = 1 / 3, minutes = 0, newLabel = 'Nuevo simulacro' } = {}) {
     this.container = container;
     this.original = questions;
     this.title = title;
     this.showTema = showTema;
     this.onNew = onNew;
-    this.penalty = 1 / 3;
+    this.newLabel = newLabel;
+    this.penalty = penalty;
+    this.minutes = minutes;   // > 0: examen con tiempo; al acabarse se corrige solo
     this.start(questions);
     this.onKey = (e) => this.handleKey(e);
     document.addEventListener('keydown', this.onKey);
@@ -431,11 +453,34 @@ class Quiz {
     this.answers = new Array(questions.length).fill(null);
     this.idx = 0;
     this.finished = false;
+    this.startTimer();
     this.renderQuestion();
+  }
+
+  startTimer() {
+    clearInterval(this.timer);
+    if (!this.minutes) return;
+    this.deadline = Date.now() + this.minutes * 60000;
+    this.timer = setInterval(() => this.tick(), 1000);
+  }
+
+  timeLeft() {
+    const sec = Math.max(0, Math.round((this.deadline - Date.now()) / 1000));
+    const h = Math.floor(sec / 3600), m = Math.floor((sec % 3600) / 60);
+    return { sec, text: `${h ? `${h}:${pad(m)}` : m}:${pad(sec % 60)}` };
+  }
+
+  tick() {
+    if (this.finished || !this.container.isConnected) { clearInterval(this.timer); return; }
+    const { sec, text } = this.timeLeft();
+    const el = this.container.querySelector('.timer');
+    if (el) { el.textContent = `⏱ ${text}`; el.classList.toggle('low', sec <= 300); }
+    if (!sec) { clearInterval(this.timer); alert('Se ha acabado el tiempo. Se corrige el examen con lo que has respondido.'); this.grade(true); }
   }
 
   destroy() {
     document.removeEventListener('keydown', this.onKey);
+    clearInterval(this.timer);
   }
 
   inProgress() {
@@ -452,7 +497,7 @@ class Quiz {
     this.container.innerHTML = `
       <div class="quiz">
         <div class="quiz-bar">
-          <span class="quiz-count">${esc(this.title)} · ${answered} de ${total} respondidas</span>
+          <span class="quiz-count">${esc(this.title)} · ${answered} de ${total} respondidas${this.minutes ? ` <b class="timer">⏱ ${this.timeLeft().text}</b>` : ''}</span>
           <span class="seg">
             <button class="btn small" data-act="shuffle" title="Empezar de nuevo con las preguntas en otro orden">Orden aleatorio</button>
             <button class="btn small accent" data-act="grade">Corregir test</button>
@@ -460,8 +505,9 @@ class Quiz {
         </div>
         <div class="progress"><i style="width:${(answered / total) * 100}%"></i></div>
         <div class="qcard">
-          <div class="qnum">Pregunta ${this.idx + 1} de ${total}${this.showTema ? ` <span class="qtema">· Tema ${q.tema}</span>` : ''}</div>
+          <div class="qnum">Pregunta ${this.idx + 1} de ${total}${this.showTema ? ` <span class="qtema">· Tema ${q.tema}</span>` : ''}${q.anulada ? ' <span class="qnul">Anulada en la plantilla definitiva: no puntúa</span>' : ''}</div>
           <p class="qtext">${esc(q.q)}</p>
+          ${qimg(q)}
           <div class="opts">
             ${q.o.map((o, i) => `
               <button class="opt" data-i="${i}" aria-pressed="${this.answers[this.idx] === i}">
@@ -515,10 +561,11 @@ class Quiz {
     else if (k === 'arrowleft') { e.preventDefault(); this.go(this.idx - 1); }
   }
 
-  grade() {
-    const blank = this.answers.filter((a) => a === null).length;
-    if (blank && !confirm(blank === 1 ? 'Te queda 1 pregunta sin responder. ¿Corregir igualmente?' : `Te quedan ${blank} preguntas sin responder. ¿Corregir igualmente?`)) return;
+  grade(force = false) {
+    const blank = this.answers.filter((a, i) => a === null && !this.questions[i].anulada).length;
+    if (!force && blank && !confirm(blank === 1 ? 'Te queda 1 pregunta sin responder. ¿Corregir igualmente?' : `Te quedan ${blank} preguntas sin responder. ¿Corregir igualmente?`)) return;
     this.finished = true;
+    clearInterval(this.timer);
     this.filter = 'all';
     this.renderResults();
     this.container.scrollIntoView({ block: 'start' });
@@ -528,6 +575,7 @@ class Quiz {
   results() {
     let ok = 0, ko = 0, bl = 0;
     this.questions.forEach((q, i) => {
+      if (q.anulada) return;
       if (this.answers[i] === null) bl++;
       else if (this.answers[i] === q.a) ok++;
       else ko++;
@@ -537,12 +585,13 @@ class Quiz {
 
   renderResults() {
     const { ok, ko, bl } = this.results();
-    const total = this.questions.length;
+    const total = ok + ko + bl;
+    const nul = this.questions.length - total;
     const raw = (ok / total) * 10;
     const net = Math.max(0, ((ok - ko * this.penalty) / total) * 10);
     const fmt = (x) => x.toFixed(2).replace('.', ',');
-    const state = (i) => (this.answers[i] === null ? 'bl' : this.answers[i] === this.questions[i].a ? 'ok' : 'ko');
-    const fails = this.questions.filter((_, i) => state(i) !== 'ok');
+    const state = (i) => (this.questions[i].anulada ? 'nul' : this.answers[i] === null ? 'bl' : this.answers[i] === this.questions[i].a ? 'ok' : 'ko');
+    const fails = this.questions.filter((_, i) => state(i) === 'ko' || state(i) === 'bl');
 
     this.container.innerHTML = `
       <div class="quiz">
@@ -555,6 +604,7 @@ class Quiz {
             <span class="stat ok">${ok} ${ok === 1 ? 'acierto' : 'aciertos'}</span>
             <span class="stat ko">${ko} ${ko === 1 ? 'fallo' : 'fallos'}</span>
             <span class="stat bl">${bl} en blanco</span>
+            ${nul ? `<span class="stat nul">${nul} ${nul === 1 ? 'anulada' : 'anuladas'} (no cuentan)</span>` : ''}
           </div>
           <label class="penal">Penalización por cada fallo:
             <select>
@@ -566,25 +616,27 @@ class Quiz {
           <div class="actions">
             <button class="btn primary" data-act="retry">Repetir test</button>
             ${fails.length ? `<button class="btn" data-act="retry-fails">Repetir solo fallos y en blanco (${fails.length})</button>` : ''}
-            ${this.onNew ? '<button class="btn" data-act="new">Nuevo simulacro</button>' : ''}
+            ${this.onNew ? `<button class="btn" data-act="new">${esc(this.newLabel)}</button>` : ''}
           </div>
         </div>
         <div class="dots" style="margin:0 0 14px">
           ${this.questions.map((_, i) => `<button class="dot ${state(i)}" data-jump="${i}" aria-label="Ver la pregunta ${i + 1}">${i + 1}</button>`).join('')}
         </div>
         <div class="filters" role="group" aria-label="Filtrar corrección">
-          ${[['all', `Todas (${total})`], ['ko', `Fallos (${ko})`], ['bl', `En blanco (${bl})`], ['ok', `Aciertos (${ok})`]]
+          ${[['all', `Todas (${this.questions.length})`], ['ko', `Fallos (${ko})`], ['bl', `En blanco (${bl})`], ['ok', `Aciertos (${ok})`]]
             .map(([k, label]) => `<button class="chip" data-f="${k}" aria-pressed="${this.filter === k}">${label}</button>`).join('')}
         </div>
         <div class="review">
           ${this.questions.map((q, i) => {
             const s = state(i);
             if (this.filter !== 'all' && this.filter !== s) return '';
-            const verdict = s === 'ok' ? 'Correcta' : s === 'ko' ? `Incorrecta · marcaste la ${LETTERS[this.answers[i]]}, la correcta es la ${LETTERS[q.a]}` : `En blanco · la correcta es la ${LETTERS[q.a]}`;
+            const verdict = s === 'nul' ? `Anulada en la plantilla definitiva${q.a != null ? ` · la plantilla provisional daba la ${LETTERS[q.a]}` : ''}`
+              : s === 'ok' ? 'Correcta' : s === 'ko' ? `Incorrecta · marcaste la ${LETTERS[this.answers[i]]}, la correcta es la ${LETTERS[q.a]}` : `En blanco · la correcta es la ${LETTERS[q.a]}`;
             return `
               <article class="ritem ${s}" id="r-${i}">
                 <div class="verdict">${i + 1}. ${verdict}${this.showTema ? ` · Tema ${q.tema}` : ''}</div>
                 <p class="qtext">${esc(q.q)}</p>
+                ${qimg(q)}
                 ${q.o.map((o, j) => {
                   const cls = j === q.a ? 'correct' : j === this.answers[i] ? 'wrong' : '';
                   const tag = j === q.a ? '<span class="tag">✓ correcta</span>' : j === this.answers[i] ? '<span class="tag">✗ tu respuesta</span>' : '';
@@ -609,7 +661,7 @@ class Quiz {
       const el = this.container.querySelector(`#r-${b.dataset.jump}`);
       el?.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }));
-    this.container.querySelector('[data-act="retry"]').addEventListener('click', () => this.start(this.original));
+    this.container.querySelector('[data-act="retry"]').addEventListener('click', () => { this.start(this.original); window.scrollTo(0, 0); });
     this.container.querySelector('[data-act="retry-fails"]')?.addEventListener('click', () => this.start(fails));
     this.container.querySelector('[data-act="new"]')?.addEventListener('click', () => this.onNew());
   }
@@ -680,6 +732,99 @@ async function renderSimulacro() {
     });
   };
   setup();
+}
+
+/* ------------------------------------------------------------------ */
+/* Exámenes oficiales de otros años y cuestionarios aparte             */
+/* ------------------------------------------------------------------ */
+
+const SETS = {
+  examenes: {
+    nav: 'examenes',
+    title: 'Exámenes de otros años',
+    intro: 'Exámenes oficiales de la OPE de Enfermería del Servicio Murciano de Salud, con la plantilla de respuestas oficial. Hazlos como el día del examen: 125 preguntas en 140 minutos, o sin tiempo.',
+    penalty: 0.25,
+  },
+  cuestionarios: {
+    nav: 'cuestionarios',
+    title: 'Preguntas trampa y con imagen',
+    intro: 'Cuestionarios aparte de los temas: los detalles de la práctica diaria que no salen en los manuales pero caen en el examen (como el tubo azul de coagulación del EIR) y preguntas en las que hay que interpretar una imagen (ECG, pupilas, colores).',
+    penalty: 1 / 3,
+  },
+};
+
+async function renderSets(kind, id) {
+  const cfg = SETS[kind];
+  setNav(cfg.nav);
+  const all = (await getExtra())[kind];
+
+  if (!id) {
+    document.title = `${cfg.title} · OPE Enfermería SMS`;
+    app.innerHTML = `
+      <section class="hero"><h1>${cfg.title}</h1><p>${cfg.intro}</p></section>
+      <div class="grid">
+        ${all.map((d) => `
+          <article class="card">
+            <a class="card-head" href="#/${kind}/${d.id}">
+              <span class="card-num">${d.anio ? String(d.anio).slice(2) : d.id === 'imagenes' ? '◉' : '!'}</span>
+              <div>
+                <h2 class="card-title">${esc(d.titulo)}</h2>
+                <div class="card-meta">${d.preguntas.length} preguntas${d.preguntas.some((p) => p.anulada) ? ` · ${d.preguntas.filter((p) => p.anulada).length} anuladas` : ''}</div>
+              </div>
+            </a>
+            <p class="card-desc">${esc(d.descripcion || '')}</p>
+            <div class="card-actions"><a class="btn small primary" href="#/${kind}/${d.id}">${kind === 'examenes' ? 'Hacer examen' : 'Empezar'}</a></div>
+          </article>`).join('')}
+      </div>`;
+    return;
+  }
+
+  const set = all.find((d) => d.id === id);
+  if (!set) throw new Error('Ese cuestionario no existe');
+  document.title = `${set.titulo} · OPE Enfermería SMS`;
+  const questions = set.preguntas.map((p, i) => ({ ...p, id: `${set.id}-${i}` }));
+  const isExam = kind === 'examenes';
+
+  const begin = (minutes, random) => {
+    activeQuiz?.destroy();
+    app.querySelector('.set-quiz').innerHTML = '';
+    app.querySelector('.set-start').hidden = true;
+    activeQuiz = new Quiz(app.querySelector('.set-quiz'), random ? shuffle(questions) : questions, {
+      title: isExam ? `Examen ${set.anio}` : set.titulo.split(':')[0],
+      penalty: cfg.penalty,
+      minutes,
+      onNew: showStart,
+      newLabel: isExam ? 'Volver a empezar' : 'Volver al inicio',
+    });
+    window.scrollTo(0, 0);
+  };
+
+  function showStart() {
+    activeQuiz?.destroy();
+    activeQuiz = null;
+    app.querySelector('.set-quiz').innerHTML = '';
+    app.querySelector('.set-start').hidden = false;
+  }
+
+  app.innerHTML = `
+    <div class="crumbs"><a href="#/${kind}">← ${cfg.title}</a></div>
+    <section class="hero"><h1>${esc(set.titulo)}</h1><p>${esc(set.descripcion || '')}</p></section>
+    <div class="panel set-start">
+      ${isExam ? `
+        <p class="set-note">${questions.length} preguntas con la plantilla de respuestas oficial. Las anuladas en la plantilla definitiva aparecen marcadas y no cuentan para la nota. La nota se calcula sobre 10 y, por defecto, cada fallo resta 1/4 de acierto (puedes cambiarlo al corregir).</p>
+        <div class="actions">
+          <button class="btn primary" data-start="140">Modo examen · 140 minutos</button>
+          <button class="btn" data-start="0">Sin tiempo</button>
+          <button class="btn" data-start="0" data-random="1">Sin tiempo y en orden aleatorio</button>
+        </div>` : `
+        <p class="set-note">${questions.length} preguntas con explicación. Se corrige al final, como los tests de los temas.</p>
+        <div class="actions">
+          <button class="btn primary" data-start="0" data-random="1">Empezar en orden aleatorio</button>
+          <button class="btn" data-start="0">En orden</button>
+        </div>`}
+    </div>
+    <section class="set-quiz"></section>`;
+  app.querySelectorAll('[data-start]').forEach((b) => b.addEventListener('click', () => begin(+b.dataset.start, !!b.dataset.random)));
 }
 
 route();

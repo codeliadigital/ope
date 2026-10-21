@@ -294,3 +294,27 @@ main { padding-top: 20px; padding-bottom: 64px; outline: none; }
   .brand-text { font-size: 15px; }
   .nota { font-size: 38px; }
 }
+
+/* Exámenes, cuestionarios y preguntas con imagen */
+.card-desc { margin: 0; font-size: 14px; color: var(--muted); }
+.set-note { margin: 0 0 4px; color: var(--muted); font-size: 15px; }
+.set-quiz:empty { display: none; }
+.qimg { display: block; margin: -4px 0 14px; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: #fff; }
+.qimg img { display: block; width: 100%; height: auto; max-height: 340px; object-fit: contain; }
+.qnul { margin-left: 6px; padding: 2px 8px; border-radius: 99px; background: var(--blank-bg); color: var(--blank); font-size: 12px; text-transform: none; letter-spacing: 0; }
+.timer { margin-left: 6px; font-variant-numeric: tabular-nums; color: var(--text); }
+.timer.low { color: var(--ko); }
+.stat.nul, .dot.nul { background: var(--surface-2); color: var(--muted); }
+.dot.nul { border-color: var(--border); text-decoration: line-through; }
+.ritem.nul { border-left-color: var(--muted); }
+.ritem.nul .verdict { color: var(--muted); }
+
+/* Barra superior con cuatro secciones en pantallas estrechas */
+@media (max-width: 640px) {
+  .brand-text { display: none; }
+  .topnav { gap: 0; }
+  .topnav a { padding: 6px 8px; font-size: 14px; }
+}
+@media (max-width: 340px) {
+  .topnav a { padding: 6px 5px; font-size: 13px; }
+}

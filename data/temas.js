@@ -109,7 +109,7 @@ window.OPE_TEMAS = [
   "programa": "Educación para la salud: concepto, marco legal y teorías; metodología individual, grupal y comunitaria; técnicas didácticas y materiales; fomento del autocuidado en paciente, cuidador y familia; elaboración, evaluación y sostenibilidad de programas; grupos de autoayuda y agentes de salud. Salud pública: concepto, niveles de prevención, modelos de salud y enfermedad, indicadores de morbilidad, mortalidad, letalidad y esperanza de vida, principales problemas de salud, métodos de priorización, determinantes sociales y práctica basada en la evidencia.",
   "preguntas": 30,
   "pdf": "resumenes/tema-14.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 15,
@@ -133,7 +133,7 @@ window.OPE_TEMAS = [
   "programa": "Inmunizaciones: concepto, inmunidad activa, pasiva y de grupo. Clasificación y tipos de vacunas. Contraindicaciones verdaderas y falsas. Complicaciones y efectos adversos, anafilaxia. Conservación y cadena de frío. Administración, vías, analgesia e intervalos. Calendario de vacunaciones de la Región de Murcia 2025-2026, adultos, grupos de riesgo, personal sanitario y profilaxis antitetánica.",
   "preguntas": 30,
   "pdf": "resumenes/tema-17.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 18,
@@ -141,7 +141,7 @@ window.OPE_TEMAS = [
   "programa": "Higiene en centros sanitarios: conceptos generales, clasificación de Spaulding e higiene de manos. Antisépticos y desinfectantes. El servicio de esterilización. Preparación y tipos de material a esterilizar, métodos de esterilización y controles. Manipulación y conservación del material estéril.",
   "preguntas": 30,
   "pdf": "resumenes/tema-18.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 19,
@@ -149,15 +149,15 @@ window.OPE_TEMAS = [
   "programa": "Infección nosocomial: concepto, cadena epidemiológica y epidemiología (EPINE). Medidas preventivas: precauciones estándar, EPI, higiene de manos y proyectos Zero. Aislamiento hospitalario: concepto, tipos y descripción. Gestión de residuos sanitarios: clasificación y transporte; gestión integral de residuos sanitarios de la Región de Murcia. Salud medioambiental: condicionantes biológicos, físicos y socioculturales.",
   "preguntas": 30,
   "pdf": "resumenes/tema-19.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 20,
   "titulo": "Administración de fármacos por diferentes vías. Cálculo de dosis. Medicación en el domicilio y paciente polimedicado",
   "programa": "Administración de fármacos por diferentes vías: fundamentos de seguridad, farmacocinética, medicamentos de alto riesgo y reacciones adversas; vías enterales, parenterales y tópicas. Cálculo de dosis y fluidoterapia. Administración de medicamentos en el domicilio y seguimiento de pacientes polimedicados: conciliación, deprescripción y adherencia.",
-  "preguntas": 30,
+  "preguntas": 32,
   "pdf": "resumenes/tema-20.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 21,
@@ -203,9 +203,9 @@ window.OPE_TEMAS = [
   "n": 26,
   "titulo": "Cuidados de enfermería en la gestante y la puérpera. Educación maternal. Lactancia natural",
   "programa": "Valoración y cuidados de enfermería en la mujer gestante: alimentación, higiene y cambios fisiológicos. Educación maternal. Problemas más frecuentes durante la gestación. Valoración y cuidados de enfermería en la puérpera: cambios fisiológicos y psicológicos. Lactancia natural.",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-26.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 27,
@@ -219,9 +219,9 @@ window.OPE_TEMAS = [
   "n": 28,
   "titulo": "Valoración y cuidados de enfermería del recién nacido sano. Detección precoz de enfermedades endocrino-metabólicas. Parámetros de desarrollo y crecimiento. Respuesta evolutiva",
   "programa": "Adaptación extrauterina, atención inmediata en paritorio (piel con piel, clampaje, Apgar, profilaxis), valoración física y somatometría, Silverman-Anderson, edad gestacional (Capurro, Ballard), cuidados en planta y al alta, cribados neonatales (talón, hipoacusia, cardiopatías congénitas), crecimiento, reflejos arcaicos e hitos del desarrollo psicomotor.",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-28.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 29,
@@ -237,7 +237,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración del recién nacido enfermo; clasificación y cuidados del prematuro (NIDCAP, hemorragia intraventricular, retinopatía); insuficiencia respiratoria neonatal; enterocolitis necrotizante, atresia de esófago, estenosis de píloro y defectos de pared; deshidratación; ictericia y fototerapia, sepsis, abstinencia, dolor e hipoglucemia; problemas derivados de la hospitalización infantil.",
   "preguntas": 30,
   "pdf": "resumenes/tema-30.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 31,
@@ -253,7 +253,7 @@ window.OPE_TEMAS = [
   "programa": "Cuidados en la adolescencia: pubertad y escala de Tanner, desarrollo psicosocial, entrevista HEEADSSS, PANA, marco legal y confidencialidad, nutrición. Trastornos de la conducta alimentaria: DSM-5, valoración, cribado, criterios de ingreso, síndrome de realimentación y cuidados. Prevención de hábitos tóxicos: ESTUDES, programas de Murcia, CRAFFT, alcohol, vapeo, cannabis, cocaína, hipnosedantes y ciberriesgos.",
   "preguntas": 30,
   "pdf": "resumenes/tema-32.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 33,
@@ -277,7 +277,7 @@ window.OPE_TEMAS = [
   "programa": "Cadena epidemiológica y mecanismos de transmisión. Hepatitis víricas, serología del VHB y vacunación. Tuberculosis: Mantoux, efecto booster, IGRA, tratamiento, toxicidad y recogida de esputo. VIH/SIDA y profilaxis postexposición ocupacional (VIH, VHB, VHC). IRAS: EPINE, Clostridioides difficile, SARM y código sepsis. Aislamientos. Hemocultivos, EPI y gestión de residuos.",
   "preguntas": 30,
   "pdf": "resumenes/tema-35.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 36,
@@ -307,25 +307,25 @@ window.OPE_TEMAS = [
   "n": 39,
   "titulo": "Cuidados de enfermería a personas con problemas neurológicos. Accidente cerebrovascular, epilepsia. Alzheimer y demencias. Otros problemas del sistema nervioso. Procedimientos y técnicas",
   "programa": "Valoración y cuidados de enfermería a personas con problemas neurológicos: accidente cerebrovascular, epilepsia. Alzheimer y demencias. Otros problemas del sistema nervioso (Parkinson, esclerosis múltiple, ELA, miastenia, Guillain-Barré). Procedimientos y técnicas de enfermería (hipertensión intracraneal).",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-39.pdf",
-  "paginas": 4
+  "paginas": 7
  },
  {
   "n": 40,
   "titulo": "Cuidados de enfermería a personas con problemas respiratorios. Insuficiencia respiratoria aguda, EPOC. Otros problemas broncopulmonares. Oxigenoterapia y otras técnicas. Ventilación mecánica invasiva y no invasiva. Oxigenación extracorpórea",
   "programa": "Valoración y cuidados de enfermería a personas con problemas respiratorios: insuficiencia respiratoria aguda, EPOC. Otros problemas broncopulmonares. Procedimientos de enfermería: oxigenoterapia y otras técnicas. Ventilación mecánica invasiva y no invasiva. Sistemas de oxigenación extracorpórea.",
-  "preguntas": 30,
+  "preguntas": 34,
   "pdf": "resumenes/tema-40.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 41,
   "titulo": "Cuidados de enfermería a personas con problemas cardiovasculares. Insuficiencia cardiaca, infarto de miocardio, hipertensión arterial. Otros problemas cardiovasculares. Procedimientos y técnicas",
   "programa": "Valoración y cuidados de enfermería a personas con problemas cardiovasculares: insuficiencia cardiaca, infarto de miocardio, hipertensión arterial. Otros problemas cardiovasculares (valvulopatías, arteriopatía periférica, fibrilación auricular). Procedimientos y técnicas: ECG, presión arterial, monitorización hemodinámica y soporte vital avanzado.",
-  "preguntas": 30,
+  "preguntas": 36,
   "pdf": "resumenes/tema-41.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 42,
@@ -333,31 +333,31 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas en el sistema renal: insuficiencia renal aguda. Otros problemas renales y urológicos. Procedimientos y técnicas de enfermería. Cateterismo vesical: concepto, indicaciones y contraindicaciones del sondaje vesical.",
   "preguntas": 30,
   "pdf": "resumenes/tema-42.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 43,
   "titulo": "Cuidados de enfermería a personas con problemas del sistema músculo-esquelético. Principales problemas del aparato locomotor. Vendajes, inmovilizaciones y otras técnicas",
   "programa": "Valoración y cuidados de enfermería a personas con problemas en el sistema músculo-esquelético. Principales problemas del aparato locomotor (artrosis, artritis, osteoporosis, fracturas, síndrome compartimental). Procedimientos de enfermería: vendajes, inmovilizaciones, tracciones y ayudas a la marcha.",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-43.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 44,
   "titulo": "Cuidados de enfermería a personas con problemas gastrointestinales. Principales problemas del aparato digestivo. Ostomías. Técnicas y procedimientos",
   "programa": "Valoración y cuidados de enfermería a personas con problemas gastrointestinales. Principales problemas del aparato digestivo (esófago, estómago, intestino, vía biliar, hígado y páncreas). Ostomías. Procedimientos: sondaje nasogástrico, enemas, fecalomas y recogida de muestras de heces.",
-  "preguntas": 30,
+  "preguntas": 33,
   "pdf": "resumenes/tema-44.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 45,
   "titulo": "Valoración y cuidados de enfermería a personas con problemas de los órganos de los sentidos. Principales problemas. Procedimientos y técnicas de enfermería",
   "programa": "Valoración y cuidados de enfermería a personas con problemas de los órganos de los sentidos (vista, oído, tacto, gusto y olfato). Principales problemas: glaucoma, cataratas, desprendimiento de retina, DMAE, defectos de refracción, Ménière, tapón de cerumen y neuropatía. Procedimientos: instilación de colirios, lavado ocular y lavado ótico.",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-45.pdf",
-  "paginas": 4
+  "paginas": 7
  },
  {
   "n": 46,
@@ -365,15 +365,15 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas oncológicos. Principales problemas (mucositis, neutropenia febril, náuseas y vómitos, dolor, astenia, urgencias oncológicas). Procedimientos: accesos venosos centrales, administración y manipulación de citostáticos, extravasación, residuos y radioterapia.",
   "preguntas": 30,
   "pdf": "resumenes/tema-46.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 47,
   "titulo": "Valoración y cuidados de enfermería a personas con problemas endocrinológicos. Diabetes. Otros problemas. Procedimientos y técnicas de enfermería",
   "programa": "Valoración y cuidados de enfermería a personas con problemas endocrinológicos. Diabetes mellitus: diagnóstico, complicaciones agudas y crónicas, pie diabético, insulinoterapia y educación. Otros problemas: tiroides, suprarrenales, paratiroides e hipófisis. Procedimientos y técnicas de enfermería.",
-  "preguntas": 30,
+  "preguntas": 32,
   "pdf": "resumenes/tema-47.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 48,
@@ -381,23 +381,23 @@ window.OPE_TEMAS = [
   "programa": "Conceptos de urgencia y emergencia. Sistemas de respuesta a la urgencia y emergencia (Gerencia 061 de la Región de Murcia). Clasificación de pacientes en urgencias: RAC, sistemas de triaje estructurado (ESI, Manchester, SET-MAT) y triaje en incidentes de múltiples víctimas.",
   "preguntas": 30,
   "pdf": "resumenes/tema-48.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 49,
   "titulo": "Valoración y cuidados de enfermería ante situaciones críticas. Politraumatizados, quemados, shock, intoxicaciones. Otras situaciones críticas",
   "programa": "Valoración y cuidados de enfermería ante situaciones críticas: politraumatizados, quemados, shock e intoxicaciones. Otras situaciones críticas: síndrome coronario agudo, edema agudo de pulmón, crisis hipertensivas, estatus epiléptico, anafilaxia, donación en asistolia y parada cardiorrespiratoria.",
-  "preguntas": 30,
+  "preguntas": 35,
   "pdf": "resumenes/tema-49.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 50,
   "titulo": "Valoración y cuidados de enfermería del paciente quirúrgico. Preoperatorio e intraoperatorio",
   "programa": "Valoración y cuidados de enfermería del paciente quirúrgico en el preoperatorio (valoración, preparación, ayuno, medicación, consentimiento) y en el intraoperatorio (bloque quirúrgico, listado de verificación, funciones de enfermería, monitorización, posiciones, seguridad, asepsia, instrumental, suturas y anestesia).",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-50.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 51,
@@ -413,15 +413,15 @@ window.OPE_TEMAS = [
   "programa": "Cuidados de enfermería en pacientes postquirúrgicos: vigilancia postanestésica, recuperación intensificada, drenajes quirúrgicos y torácicos, cicatrización y curas, terapia de presión negativa, cirugía mayor ambulatoria, cirugía menor y continuidad de cuidados al alta.",
   "preguntas": 30,
   "pdf": "resumenes/tema-52.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 53,
   "titulo": "Manejo de heridas. Cuidados generales de la piel",
   "programa": "Manejo de heridas y cuidados generales de la piel: cicatrización, preparación del lecho (TIMERS), escalas de riesgo, úlceras por presión, lesiones por humedad y por adhesivos, úlceras venosas y arteriales, pie diabético, úlceras neoplásicas y quemaduras.",
-  "preguntas": 30,
+  "preguntas": 31,
   "pdf": "resumenes/tema-53.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 54,
