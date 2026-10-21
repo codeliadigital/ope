@@ -11,7 +11,7 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 const IS_FILE = location.protocol === 'file:';
 
 let temasPromise = null;
-const testCache = new Map();
+let testsPromise = null;
 let activeQuiz = null;   // test en curso (para avisar antes de salir)
 let viewer = null;       // visor PDF activo
 let currentTema = null;  // { n, setTab }
@@ -34,15 +34,14 @@ function getTemas() {
   return temasPromise;
 }
 
+// Todos los tests van en un solo archivo (data/tests.js) que se carga una vez
 function getTest(n) {
-  if (!testCache.has(n)) {
-    testCache.set(n, loadScript(`data/tests/tema-${pad(n)}.js`).then(() => {
-      const data = window.OPE_TESTS?.[n];
-      if (!data) throw new Error(`No se pudo cargar el test del tema ${n}`);
-      return data;
-    }).catch((err) => { testCache.delete(n); throw err; }));
-  }
-  return testCache.get(n);
+  testsPromise ??= loadScript('data/tests.js').catch((err) => { testsPromise = null; throw err; });
+  return testsPromise.then(() => {
+    const data = window.OPE_TESTS?.[n];
+    if (!data) throw new Error(`No se pudo cargar el test del tema ${n}`);
+    return data;
+  });
 }
 
 function shuffle(arr) {

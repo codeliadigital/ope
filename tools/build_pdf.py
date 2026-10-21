@@ -1,4 +1,4 @@
-"""Genera los PDF de resumen a partir de contenido/resumenes/tema-NN.md.
+"""Genera los PDF de resumen a partir de resumenes-md/tema-NN.md.
 
 Uso:  python tools/build_pdf.py [NN ...]   (sin argumentos: todos)
 
@@ -25,7 +25,7 @@ import tempfile
 import markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, "contenido", "resumenes")
+SRC = os.path.join(ROOT, "resumenes-md")
 OUT = os.path.join(ROOT, "resumenes")
 CSS = os.path.join(ROOT, "tools", "resumen.css")
 CHROME_CANDIDATES = [

@@ -1,8 +1,9 @@
-"""Valida los tests (data/tests/tema-NN.json) y genera los datos que carga la web.
+"""Valida los tests (tests/tema-NN.json) y genera los datos que carga la web.
 
-Genera data/temas.js y data/tests/tema-NN.js: los mismos datos que los .json, envueltos
-en un script para que la web funcione también abriendo index.html con doble clic
-(file://), donde el navegador no permite leer .json con fetch.
+Genera data/temas.js (índice) y data/tests.js (todas las preguntas en un solo archivo):
+los mismos datos que los .json, envueltos en un script para que la web funcione también
+abriendo index.html con doble clic (file://), donde el navegador no permite leer .json
+con fetch.
 
 Uso:  python tools/build_index.py
 """
@@ -13,7 +14,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TESTS = os.path.join(ROOT, "data", "tests")
+TESTS = os.path.join(ROOT, "tests")
 PDFS = os.path.join(ROOT, "resumenes")
 
 
@@ -57,15 +58,13 @@ def write_js(path, text):
 
 
 def main():
-    temas, failed = [], False
+    temas, tests, failed = [], {}, False
     for f in sorted(os.listdir(TESTS)):
         if not re.match(r"tema-\d\d\.json$", f):
             continue
         data, errs, dist = validate(os.path.join(TESTS, f))
         n = data["tema"]
-        write_js(os.path.join(TESTS, f"tema-{n:02d}.js"),
-                 f"(window.OPE_TESTS = window.OPE_TESTS || {{}})[{n}] = "
-                 f"{json.dumps(data, ensure_ascii=False)};\n")
+        tests[n] = data
         pdf = os.path.join(PDFS, f"tema-{n:02d}.pdf")
         status = "OK" if not errs else "ERROR: " + "; ".join(errs)
         failed |= bool(errs)
@@ -81,10 +80,11 @@ def main():
     temas.sort(key=lambda t: t["n"])
     write_js(os.path.join(ROOT, "data", "temas.js"),
              f"window.OPE_TEMAS = {json.dumps(temas, ensure_ascii=False, indent=1)};\n")
-    old_index = os.path.join(ROOT, "data", "temas.json")
-    if os.path.exists(old_index):
-        os.remove(old_index)
-    print(f"data/temas.js: {len(temas)} temas")
+    write_js(os.path.join(ROOT, "data", "tests.js"),
+             "window.OPE_TESTS = {\n" +
+             ",\n".join(f"{n}: {json.dumps(tests[n], ensure_ascii=False)}" for n in sorted(tests)) +
+             "\n};\n")
+    print(f"data/temas.js y data/tests.js: {len(temas)} temas")
     sys.exit(1 if failed else 0)
 
 

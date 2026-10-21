@@ -10,16 +10,17 @@ No hay servidor ni base de datos: cada persona que entra elige qué estudiar y n
 
 ## Estructura
 
-| Carpeta / archivo | Contenido | ¿Se publica? |
-|---|---|---|
-| `index.html`, `favicon.svg` | Página principal | Sí |
-| `css/`, `js/` | Estilos, aplicación y visor PDF.js | Sí |
-| `resumenes/tema-NN.pdf` | Resúmenes en PDF (el tema 1 es el resumen propio) | Sí |
-| `data/temas.js` | Índice de temas (lo genera `tools/build_index.py`) | Sí |
-| `data/tests/tema-NN.json` | Preguntas de cada test (archivo que se edita) | No (`.vercelignore`) |
-| `data/tests/tema-NN.js` | Las mismas preguntas en el formato que carga la web (lo genera `tools/build_index.py`) | Sí |
-| `contenido/resumenes/tema-NN.md` | Texto fuente de los resúmenes | No (`.vercelignore`) |
-| `tools/` | Scripts para regenerar PDFs e índice | No (`.vercelignore`) |
+| Carpeta / archivo | Contenido | Archivos | ¿Se publica? |
+|---|---|---|---|
+| `index.html`, `favicon.svg`, `README.md`, `.gitignore`, `.vercelignore` | Página principal y configuración | 5 | Sí (salvo el README) |
+| `css/`, `js/` | Estilos, aplicación y visor PDF.js (en `js/pdfjs/`) | 5 | Sí |
+| `data/` | `temas.js` (índice) y `tests.js` (todas las preguntas); los genera `tools/build_index.py` | 2 | Sí |
+| `resumenes/` | Resúmenes en PDF (el tema 1 es el resumen propio) | 56 | Sí |
+| `tools/` | Scripts para regenerar PDFs y datos | 3 | No (`.vercelignore`) |
+| `resumenes-md/` | Texto fuente de los resúmenes (`tema-NN.md`) | 55 | No (`.vercelignore`) |
+| `tests/` | Preguntas de cada test (`tema-NN.json`), el archivo que se edita | 56 | No (`.vercelignore`) |
+
+`tools/`, `resumenes-md/` y `tests/` no hacen falta para que la web funcione; se suben al repositorio solo para poder editar el contenido más adelante.
 
 ## Publicar en GitHub + Vercel
 
@@ -35,7 +36,10 @@ No hay servidor ni base de datos: cada persona que entra elige qué estudiar y n
      git remote add origin https://github.com/TU_USUARIO/ope-enfermeria.git
      git push -u origin main
      ```
-   - **Arrastrando archivos en la web de GitHub**: funciona, pero GitHub solo admite unos 100 archivos por subida; hazlo por carpetas (primero `resumenes`, luego `data`, etc.).
+   - **Arrastrando archivos en la web de GitHub** (*Add file → Upload files*): GitHub admite como máximo 100 archivos por subida, así que hazlo en tres tandas, arrastrando siempre desde dentro de `ope-web` a la página principal del repositorio:
+     1. Los 5 archivos sueltos y las carpetas `css`, `js`, `data`, `resumenes` y `tools` (71 archivos). Con esto la web ya funciona.
+     2. La carpeta `resumenes-md` (55 archivos).
+     3. La carpeta `tests` (56 archivos).
 3. **Vercel**: entra en [vercel.com](https://vercel.com) con tu cuenta de GitHub → *Add New… → Project* → importa el repositorio.
    - *Framework Preset*: **Other**
    - *Build Command*: vacío · *Output Directory*: vacío (raíz) · *Root Directory*: `./`
@@ -58,15 +62,15 @@ Y abre `http://localhost:5173`.
 
 Requisitos: Python 3 con `markdown` y `pymupdf` (`pip install markdown pymupdf`) y Google Chrome o Microsoft Edge instalados.
 
-- **Cambiar un resumen**: edita `contenido/resumenes/tema-NN.md` y regenera el PDF:
+- **Cambiar un resumen**: edita `resumenes-md/tema-NN.md` y regenera el PDF:
   ```bash
   python tools/build_pdf.py NN
   ```
   En el `.md`: `## ` crea una barra de sección, las tablas en formato Markdown se maquetan solas y las líneas que empiezan por `!! ` forman la caja «Trampas de examen».
-- **Cambiar un test**: edita `data/tests/tema-NN.json`. Cada pregunta tiene `q` (enunciado), `o` (4 opciones), `a` (índice de la correcta: 0 = a, 1 = b, 2 = c, 3 = d) y `e` (explicación).
+- **Cambiar un test**: edita `tests/tema-NN.json`. Cada pregunta tiene `q` (enunciado), `o` (4 opciones), `a` (índice de la correcta: 0 = a, 1 = b, 2 = c, 3 = d) y `e` (explicación).
 - **Después de cualquier cambio**, valida y regenera los datos de la web:
   ```bash
   python tools/build_index.py
   ```
-  Comprueba que cada test tiene 30 preguntas con 4 opciones, sin duplicados, y regenera `data/temas.js` y los `data/tests/tema-NN.js`. Si no lo ejecutas, la web seguirá mostrando las preguntas antiguas.
-- Si cambias `js/app.js` o `css/styles.css`, sube el número de `?v=2` en `index.html` (por ejemplo a `?v=3`) para que los navegadores no usen la versión guardada.
+  Comprueba que cada test tiene 30 preguntas con 4 opciones, sin duplicados, y regenera `data/temas.js` y `data/tests.js`. Si no lo ejecutas, la web seguirá mostrando las preguntas antiguas.
+- Si cambias `js/app.js` o `css/styles.css`, sube el número de versión (`?v=…`) que aparece en `index.html` para que los navegadores no usen la versión guardada.
