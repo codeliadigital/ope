@@ -182,6 +182,13 @@
       "o": ["Sedestación estable sin apoyo a los 2 meses", "Sostén cefálico completo a los 9 meses", "Pinza fina pulgar-índice a los 4 meses", "Angustia ante la separación de la figura de apego hacia los 8 meses"],
       "a": 3,
       "e": "La angustia por separación aparece hacia los 8 meses. El sostén cefálico se logra a los 3-4 meses, la sedestación sin apoyo hacia los 7-8 meses y la pinza fina hacia los 10-12 meses."
+    },
+    {
+      "q": "La maniobra de la imagen (cadera en aducción y presión hacia atrás para intentar luxarla) es la de:",
+      "o": ["Ortolani", "Barlow", "Galeazzi", "Moro"],
+      "a": 1,
+      "e": "Barlow = provocación: intenta luxar una cadera inestable (aducción + presión posterior). Ortolani = reducción: abducción con presión anterior, se nota el «clunk» de entrada. Galeazzi valora la dismetría de las rodillas en niños mayores.",
+      "img": "img/preguntas/t28-barlow.jpg"
     }
   ]
 }

@@ -182,6 +182,13 @@
       "o": ["Subir primero las muletas y la pierna afectada", "Subir las dos piernas a la vez sin muletas", "Subir de espaldas", "Subir primero la pierna sana y después las muletas y la pierna afectada"],
       "a": 3,
       "e": "Regla: «la buena sube al cielo, la mala baja al infierno»: se sube primero con la pierna sana y se baja primero con las muletas y la pierna afectada. El peso se apoya en las manos, no en las axilas (riesgo de lesión del nervio radial)."
+    },
+    {
+      "q": "La alineación de los miembros inferiores de la imagen (rodillas que se juntan y tobillos separados) corresponde a:",
+      "o": ["Genu varo", "Genu recurvatum", "Genu valgo", "Alineación normal"],
+      "a": 2,
+      "e": "Genu valgo: rodillas juntas, tobillos separados («en X»); fisiológico entre los 3 y 6 años. Genu varo: rodillas separadas («en paréntesis»), fisiológico hasta los 2 años.",
+      "img": "img/preguntas/t43-valgo.jpg"
     }
   ]
 }

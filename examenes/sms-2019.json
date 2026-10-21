@@ -1,0 +1,1262 @@
+{
+ "id": "sms-2019",
+ "titulo": "OPE Enfermería SMS 2019 · Turno libre (modelo A)",
+ "anio": 2019,
+ "descripcion": "Examen oficial del concurso-oposición de Diplomado Sanitario no Especialista / Enfermería del Servicio Murciano de Salud (2019). 125 preguntas.",
+ "preguntas": [
+  {
+   "q": "Respecto al neumotórax, señale la afirmación incorrecta:",
+   "o": [
+    "El neumotórax catamenial está relacionado con: mujer, menor de 25 años con endometriosis, durante el periodo premenstrual.",
+    "La triada de Gailliard se caracteriza por: disminución o ausencia de vibraciones vocales, hipersonoridad o timpanismo y aumento del murmullo vesicular.",
+    "En el neumotórax a tensión se produce colapso del pulmón ipsilateral y desviación mediastínica contralateral.",
+    "El neumotórax iatrogénico se puede producir como consecuencia de un procedimiento invasivo como: biopsia hepática, cateterización de vena subclavia, lavado broncoalveolar y toracocentesis entre otros."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique lo que haría para administrar una cápsula de gelatina dura con microgránulos de liberación retardada en su interior por sonda nasogástrica:",
+   "o": [
+    "Abrir la cápsula y triturar los microgránulos hasta polvo fino.",
+    "Abrir la cápsula y disolver los microgránulos en agua antes de administrar.",
+    "Su administración por sonda nasogástrica no es recomendable.",
+    "Abrir la cápsula, no triturar los microgránulos y administrar."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale la afirmación correcta respecto a la Enfermedad Pulmonar Obstructiva Crónica (EPOC):",
+   "o": [
+    "En el tratamiento de la EPOC se emplean: broncodilatadores (como los betaadrenérgicos y los anticolinérgicos), corticoides y oxigenoterapia a altos flujos.",
+    "El enfisema centroacinar está localizado principalmente entre los lóbulos superior e inferior del pulmón izquierdo, y en el lóbulo medio del pulmón derecho.",
+    "La EPOC puede causar cor pulmonare que provoca insuficiencia cardíaca en el lado derecho del corazón.",
+    "El enfisema pulmonar se caracteriza por tos con mucosidad abundante y sibilancias."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Hipertensión intracraneal. Señale la afirmación incorrecta:",
+   "o": [
+    "El flujo sanguíneo cerebral depende de la presión arterial, la presión intracraneal y la resistencia que ejercen los vasos cerebrales.",
+    "La tríada de Cushing se caracteriza por: bradicardia, hipertensión arterial y alteraciones respiratorias.",
+    "Como medidas generales se elevará el cabecero 30º, se sedará al paciente, se reducirá la fiebre y se asegurará la respiración, entre otras.",
+    "Como medidas farmacológicas se emplearán diuréticos osmóticos, corticoides, barbitúricos y suero fisiológico hipotónico entre otros."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El catálogo de servicios de la “Ley de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia” incluye:",
+   "o": [
+    "Centros sociales para mayores.",
+    "Centros sociales para menores.",
+    "Centros de acogida y albergues.",
+    "Centros de noche."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Indique en su respuesta quién, de los siguientes autores, promueve el modelo educativo en salud denominado de participación y compromiso:",
+   "o": [
+    "Tones.",
+    "Serrano.",
+    "Salleras.",
+    "Sánchez Martos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En el desarrollo de la visita domiciliaria:",
+   "o": [
+    "Encontramos familias aisladas.",
+    "Se realiza el proceso global de atención de enfermería.",
+    "Descubrimos solo los problemas potenciales de la familia.",
+    "Valoramos planes descuidados establecidos en fase de preparación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones seguiría para la administración de acenocumarol por sonda nasogástrica?:",
+   "o": [
+    "Administrar preferentemente con la nutrición enteral para disminuir molestias gastrointestinales.",
+    "Administrar 1 hora antes o 2 horas después de la nutrición enteral.",
+    "Administrar con doble guante.",
+    "Administrar con mascarilla, protección ocular y bata."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación a la ley de dependencia, es competencia de las comunidades autónomas:",
+   "o": [
+    "Legislación y normativa básica.",
+    "Pago de prestaciones económicas.",
+    "Financiación del nivel mínimo de protección.",
+    "Todas ellas."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Ingresa en el hospital un niño con dificultad respiratoria al que se le ha realizado la escala de Wood-Downes-Ferres. Seleccione la afirmación falsa:",
+   "o": [
+    "Es una escala diseñada para el paciente con asma.",
+    "Una puntuación más alta indica peor estado.",
+    "Valora seis parámetros: sibilantes, tiraje, entrada de aire, alteración de la conciencia, frecuencia respiratoria y frecuencia cardiaca.",
+    "La puntuación mínima es 0 y la máxima es 14 puntos."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué características posee el enfoque cualitativo de investigación?:",
+   "o": [
+    "Utiliza la recolección de datos sin medición numérica para descubrir o afinar preguntas de investigación en el proceso de interpretación.",
+    "Los estudios cualitativos pueden desarrollar preguntas e hipótesis antes, durante o después de la recolección y el análisis de los datos.",
+    "En el caso del proceso cualitativo, la muestra, la recolección y el análisis son fases que se realizan prácticamente de manera simultánea.",
+    "Las respuestas anteriores son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuáles son los fundamentos sobre los que se asienta una anestesia?:",
+   "o": [
+    "Hipnosis, analgesia, relajación muscular, protección neurovegetativa.",
+    "Hipnosis, inducción, relajación muscular, protección neurovegetativa.",
+    "Hipnosis, inducción, depresión, relajación.",
+    "Ninguna es verdadera."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Cuando se vacuna a una niña adolescente de la rubeola sabemos que es una acción propia de:",
+   "o": [
+    "Prevención primaria.",
+    "Prevención secundaria.",
+    "Prevención terciaria.",
+    "Rehabilitación de la salud."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En cuanto a la prevención del embarazo no deseado y las Infecciones de Transmisión Sexual (ITS). Señale la respuesta incorrecta:",
+   "o": [
+    "Se debe realizar educación para la salud de forma multidisciplinar en el ámbito familiar, sanitario, educativo y comunitario.",
+    "La prevención debe comenzar al iniciar las relaciones sexuales, generando confianza en la persona y tratando la sexualidad con naturalidad.",
+    "En los controles de salud la enfermera debe recoger información sobre el inicio de las relaciones sexuales y sus hábitos para aconsejar el mejor método anticonceptivo.",
+    "En el caso de tener relaciones desde hace 4 años y tener la primera citología con resultado de normalidad de hace 1 año, la enfermera realizará otra citología y si vuelve a ser negativa las próximas citologías se realizarán cada 3 años."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la respuesta incorrecta, con respecto a las vacunas indicadas específicamente en un pa- ciente adulto VIH positivo:",
+   "o": [
+    "Vacunación frente a Hepatitis B si tras comprobar marcadores serológicos se comprueba susceptibi- lidad (AntiHBs <10 mUI/mL).",
+    "Vacuna Virus del Papiloma Humano (VPH). En ambos sexos hasta los 25 años de edad, inclusive.",
+    "Vacuna de hepatitis A. Si marcadores negativos de infección pasada (IgG-AntiVHA), dos dosis se- paradas por seis meses.",
+    "Vacunación antigripal anual con vacuna inactivada (dejar, si es posible, dos semanas de intervalo entre la vacuna antineumocócica conjugada y la antigripal)."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Un paciente que impresiona de gravedad, presenta palidez, frialdad y sudoración profusa, está taquipneico, con retraso en el relleno capilar, se observa también ingurgitación yugular y en la auscultación tonos cardiacos apagados, sugiere que el paciente está en shock de tipo:",
+   "o": [
+    "Hipovolémico.",
+    "Cardiogénico.",
+    "Obstructivo.",
+    "Distributivo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Respecto a las tendencias actuales en Atención Primaria es cierto que:",
+   "o": [
+    "La Organización Mundial de la Salud en su “Informe sobre la Salud en 2008” destaca los objetivos cumplidos en la conferencia de Alma-Ata de 1978.",
+    "Bengoa se centra en la vacunación para prevenir las epidemias.",
+    "Los pacientes crónicos son los que menos atención requerirán ya que son los mejor controlados.",
+    "Se deberán reformar las políticas públicas para promover y proteger la salud de las comunidades."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Indique la respuesta incorrecta, con respecto a las etapas de investigación del proceso cualitativo:",
+   "o": [
+    "La revisión de la literatura tiene un rol fundamental.",
+    "Los datos emergen poco a poco.",
+    "El planteamiento del problema es general y amplio.",
+    "El reporte de los resultados es emergente y flexible."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En relación a la higiene hospitalaria. Indique la incorrecta:",
+   "o": [
+    "Es el conjunto de medidas establecidas en el medio ambiente hospitalario con el objetivo de preve- nir infecciones o combatir los riesgos para la salud de pacientes y profesionales.",
+    "Supone la coordinación de la higiene personal y la limpieza y desinfección de espacios y ambientes hospitalarios; siendo éstos considerados como complementos imprescindibles y de primera necesi- dad por los profesionales del sector, contribuyendo de forma fundamental a la calidad asistencial y a la seguridad del paciente.",
+    "La higiene personal se define de forma general como el conjunto de condiciones y prácticas lleva- das a cabo con el fin de preservar el estado de salud de cada individuo y prevenir la transmisión de enfermedades.",
+    "Es la remoción mecánica, empleando agua y detergentes o productos enzimáticos, de cualquier tipo de partícula, ya sea de origen orgánico o inorgánico, de las superficies y objetos en contacto con los pacientes, familiares y profesionales."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Se considera un estilo útil de comunicación para los directores de enfermería a uno de los siguien- tes:",
+   "o": [
+    "Pasivo.",
+    "Agresivo.",
+    "Flexible.",
+    "Asertivo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre el abordaje de síntomas vasomotores y vaginales asocia- dos a la menopausia y postmenopausia, indique qué no recomendaría para el tratamiento de los síntomas vaginales a una mujer de 60 años que acude a su consulta:",
+   "o": [
+    "Uso de pueraria mirifica (fitoestrógeno).",
+    "Uso de crema vaginal con estrógenos.",
+    "Uso de anillo vaginal con estrógenos.",
+    "Evitar la obesidad."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La enfermedad neurodegenerativa caracterizada por un cambio progresivo en la personalidad y el comportamiento y/o por una alteración temprana y progresiva del lenguaje, con relativa preserva- ción de la memoria y capacidades visuoespaciales en los estadios iniciales se denomina:",
+   "o": [
+    "Enfermedad Parkinson.",
+    "Demencia vascular.",
+    "Demencia por cuerpos de Lewy.",
+    "Demencia frontotemporal."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En cumplimiento del deber de prevención de riesgos profesionales, indique la respuesta incorrecta:",
+   "o": [
+    "El empresario designará uno o varios trabajadores para ocuparse de dicha actividad.",
+    "El empresario deberá facilitar a los trabajadores designados el acceso a la información y documentación.",
+    "Los trabajadores designados podrán revelar los datos empresariales a los que tengan acceso como consecuencia del desempeño de sus funciones.",
+    "El empresario concertará el servicio de prevención con una entidad especializada ajena a la empresa."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique la alteración no perteneciente al panel secundario de alteraciones detectadas mediante el Programa para la detección de enfermedades Endocrino-Metabólicas en periodo neonatal, de la Región de Murcia:",
+   "o": [
+    "Deficiencia de acil-CoA deshidrogenasa de cadena corta (SCAD).",
+    "Deficiencia primaria de carnitina (CUD).",
+    "Tirosinemia tipo II (TYR-II).",
+    "Argininemia (ARG)."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Respecto al Virus de Inmunodeficiencia Humana (VIH):",
+   "o": [
+    "Las pruebas de screening serológicas son métodos diagnósticos directos de la infección por VIH, entre los que se encuentran las técnicas inmunoenzimáticas (EIA).",
+    "Western Blot es un método diagnóstico directo más específico que ELISA que confirma la infección por VIH.",
+    "La Organización Mundial de la Salud (OMS) afirma que la circuncisión practicada por personal sanitario cualificado, reduce un 60% el riesgo de que un hombre resulte infectado por VIH al mantener relaciones sexuales heterosexuales.",
+    "Se considera inmunosupresión severa el recuento de linfocitos CD4+ inferior a 500 células/mm3."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Teniendo en cuenta la actualización de 2017 de la Organización Mundial de la Salud (OMS) en se- guridad de vacunas contra el Virus del Papiloma Humano (VPH), señale la respuesta incorrecta:",
+   "o": [
+    "No se identificó ninguna asociación entre la vacuna contra el VPH y el Síndrome de Guillain-Barré (SGB).",
+    "La administración inadvertida de la vacuna contra el VPH durante el embarazo no tiene resultados adversos conocidos en la madre o el bebé.",
+    "La disminución del 60% en la tasa de incidencia de lesiones precancerosas del cuello uterino se produce entre las mujeres más jóvenes.",
+    "Los países con mayor riesgo de cáncer cervical son los que tienen menos probabilidades de haber introducido la vacuna."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Si usted está ante un paciente diagnosticado de accidente cerebrovascular agudo (ACVA) y obser- va que no puede comprender las palabras habladas, dirá que tiene:",
+   "o": [
+    "Afasia sensorial o receptiva.",
+    "Afasia global.",
+    "Afasia motora o expresiva.",
+    "Antihistamínico."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En el campo de la Enfermería Comunitaria las medidas de actuación básicamente legislativas se corresponden con el área de actuación de:",
+   "o": [
+    "La Promoción de la Salud.",
+    "La Protección de la Salud.",
+    "La Prevención individual.",
+    "La Rehabilitación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el método empleado para la eliminación de microorganismos, indique el que elimina el 93.3% de los mismos, mediante:",
+   "o": [
+    "Limpieza, desinfección manual unido a métodos automatizados y monitorización de resultados.",
+    "Limpieza y desinfección manuales eficientes.",
+    "Desinfección con dispositivos automatizados y formación del personal.",
+    "Limpieza, desinfección con dispositivos automatizados y monitorización externa de resultados."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Para una valoración global de los ojos y la visión, ¿qué pares craneales no están incluidos?:",
+   "o": [
+    "II, III, VI y el Patético.",
+    "Trigémino.",
+    "VII.",
+    "Todos deberían evaluarse."
+   ],
+   "a": 3,
+   "anulada": true
+  },
+  {
+   "q": "Sobre los distintos tipos de shock, una de estas respuestas no es correcta:",
+   "o": [
+    "En las etapas iniciales del shock vasogénico las extremidades permanecen calientes.",
+    "El shock neurogénico se debe a la interferencia con el sistema nervioso simpático.",
+    "El shock anafiláctico se debe a vasodilatación masiva de los vasos, debido a la secreción de sustancia como histamina.",
+    "El shock séptico es producido por infecciones, de las cuales las más corrientes son las producidas por bacterias Gram positivas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El tejido fibroso excesivo benigno con cicatriz que excede de los límites de la herida se denomina:",
+   "o": [
+    "Cicatriz dehiscente.",
+    "Cicatriz hipertrófica.",
+    "Queloide.",
+    "Ninguna de las opciones anteriores es correcta."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Al conjunto de medidas que tienen como objetivo mejorar la calidad de vida y el estado de salud de los individuos se denomina:",
+   "o": [
+    "Prevención de la enfermedad.",
+    "Asistencia Sanitaria.",
+    "Promoción de la Salud.",
+    "Curación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Teniendo en cuenta el estilo parental autoritativo y su relación en el desarrollo de hábitos alimentarios en la descendencia. Indique la respuesta correcta:",
+   "o": [
+    "Provoca en la descendencia una ingesta excesiva de alimentos en situaciones donde el control cognitivo se ve mermado.",
+    "Es un estilo parental que conduce a reducir la sensibilidad por las señales internas de saciedad, dando lugar a un estilo alimentario controlado fisiológicamente.",
+    "En este estilo parental se introducen prácticas alimentarias como la modelización.",
+    "Se caracteriza por un ambiente no participativo, donde no se tiene en cuenta la relación entre el estado de ánimo, las emociones y los comportamientos alimentarios."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación a la litiasis renal señale la respuesta incorrecta:",
+   "o": [
+    "La mayoría de los cálculos renales están compuesto por oxalato cálcico.",
+    "El PH urinario bajo favorece la aparición de litiasis de ácido úrico.",
+    "El alopurinol aumenta la producción de ácido úrico aumentando la cristalización del oxalato cálcico.",
+    "La ingesta de líquidos previene la litiasis ya que disminuye la concentración de sustancias litógenas como ácido úrico y calcio y favorece la diuresis movilizando la orina en las vías urinarias."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique la respuesta correcta:",
+   "o": [
+    "Desde el 1 de febrero de 2016 la clasificación CIE-10-ES, sustituye en España a CIE-9-MC.",
+    "La CIE-10-ES integra dos sistemas de estandarización, uno de enfermedades para la codificación de diagnósticos y otro de procedimientos.",
+    "Las respuestas A y B son correctas.",
+    "Todas las respuestas son incorrectas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La visita domiciliaria:",
+   "o": [
+    "Puede ser a demanda o programada.",
+    "No pretende hacer seguimiento de los problemas de salud.",
+    "No puede ser a demanda ni espontánea.",
+    "La realiza solo la enfermera."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el Real Decreto Legislativo 5/2015 de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el alcance de cada sanción se establecerá en función de:",
+   "o": [
+    "El grado de intencionalidad y descuido.",
+    "La negligencia que se revele en la conducta.",
+    "La reiteración o reincidencia.",
+    "Todas son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Qué nervio procedente del antebrazo se aprisiona o atrapa dentro del túnel carpían dando lugar al síndrome del mismo nombre?:",
+   "o": [
+    "Nervio cubital.",
+    "Nervio radial.",
+    "Nervio braquial.",
+    "Nervio mediano."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En la Escala de Rankin modificada, señale la afirmación correcta:",
+   "o": [
+    "El estadio 1 indica una situación basal sin síntomas.",
+    "El estadio 2 indica que necesita ayuda para velar por sus intereses.",
+    "El estadio 4 indica incapacidad moderadamente grave, necesita asistencia aunque sin atención continuada.",
+    "El estadio 5 indica muerte."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La Salud Pública tiene una doble dimensión:",
+   "o": [
+    "Descriptiva e indefinida.",
+    "Definida y normativa.",
+    "Descriptiva y normativa.",
+    "Descriptiva y detallada."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué se entiende por perimenopausia?:",
+   "o": [
+    "Periodo de inestabilidad endocrinológica en la que se manifiestan los primeros síntomas clínicos del fallo ovárico.",
+    "Periodo que comprende los 10 años anteriores a la menopausia.",
+    "Periodo en que la menstruación y la ovulación se vuelven irregulares.",
+    "Todas las respuestas anteriores son incorrectas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La Tetralogía de Fallot se caracteriza por tener 4 lesiones asociadas. Señale la opción incorrecta:",
+   "o": [
+    "Comunicación interventricular.",
+    "Estenosis de la arteria aorta.",
+    "Cabalgamiento de la aorta sobre el ventrículo derecho y el tabique interventricular.",
+    "Hipertrofia de la pared muscular del ventrículo derecho."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Qué es el Proyecto Luz?:",
+   "o": [
+    "Es un programa dirigido a la atención de niñ@s y adolescentes con sospecha de estar siendo objeto de acoso escolar.",
+    "Es un programa dirigido a la atención de mujeres menores de edad que sufren violencia de género.",
+    "Es un programa dirigido a la atención de menores expuestos a violencia de género.",
+    "Es un programa dirigido a la atención de niñ@s y adolescentes con sospecha de estar siendo objeto de abuso sexual infantil."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el artículo 31 de la Ley Orgánica 4/1982 de 9 de junio, de Estatuto de Autonomía para la Región de Murcia, el Presidente (señale la respuesta correcta):",
+   "o": [
+    "Será elegido por mayoría simple en la primera convocatoria y por mayoría absoluta en las siguientes.",
+    "Será elegido por la Asamblea Regional, aunque no sea miembro de la misma.",
+    "Cesa al finalizar el periodo para el que fue elegida la Asamblea Regional.",
+    "El Presidente no podrá delegar temporalmente funciones ejecutivas en sus Consejeros."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La metodología formativa que se basa en el empleo de las nuevas tecnologías e internet para mejorar la calidad del aprendizaje se llama:",
+   "o": [
+    "Formación a distancia.",
+    "E-learning.",
+    "TICS.",
+    "Coaching y Mentoring."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Una función clave de la metodología de un estudio es:",
+   "o": [
+    "Determinar las hipótesis que es preciso comprobar en el estudio.",
+    "Ejercer un control sobre los factores contaminantes en el entorno.",
+    "Identificar las subvenciones y fuentes de financiación.",
+    "Proteger los derechos de los participantes del estudio."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la repercusión visceral, se clasificará al paciente con hipertensión arterial. Señale la incorrecta:",
+   "o": [
+    "En la fase I no presenta alteración orgánica.",
+    "En la fase II presenta, al menos, una de los siguientes signos: hipertrofia ventricular izquierda, estrechez de arterias retinianas y proteinuria y/o aumento de la concentración de creatinina en plasma.",
+    "En la fase III presenta signos y síntomas de lesión en distintos órganos: insuficiencia ventricular izquierda, hemorragia cerebral, hemorragia retiniana, etc.",
+    "En la fase IV presenta fallo en algún órgano como repercusión de la hipertensión arterial, fallo renal, hepático, etc."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Se considera cirugía contaminada:",
+   "o": [
+    "Cuando se entra en una cavidad que contiene microorganismos pero no hay vertido significativo.",
+    "Cuando está perforada una víscera.",
+    "Cuando hay una alteración de la técnica estéril y/o cuando al abrir quirúrgicamente se derrama el contenido de una víscera.",
+    "Cuando los tejidos presentan signos evidentes de infección."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué principio no sería básico en una alimentación saludable, según las Guías Alimentarias para la población española de la Sociedad Española de Nutrición Comunitaria (SENC) (2014-2016)?:",
+   "o": [
+    "Justo.",
+    "Confortable.",
+    "Adaptado.",
+    "Factible."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Un profesional enfermero advierte que el responsable médico ha prescrito a un paciente una dosis inhabitualmente elevada de una medicación. ¿Cuál de las siguientes es la actuación más apropia- da?:",
+   "o": [
+    "Administrar la medicación.",
+    "Notificarlo a quien la prescribió.",
+    "Llamar al farmacéutico.",
+    "Negarse a administrar la medicación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Ingresa una niña con diagnóstico de celiaquía desde hace 10 meses. Son características de esta enfermedad (señale la respuesta incorrecta):",
+   "o": [
+    "Aumento del apetito.",
+    "Pérdida de peso y de masa corporal.",
+    "Diarrea y anemia.",
+    "Alteración del estado de ánimo."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Se puede definir la Epidemiología como:",
+   "o": [
+    "Todas las actividades preventivas de los servicios de salud pública que inciden sobre el individuo tanto si se realizan en una base individual como colectiva.",
+    "El campo de la ciencia médica que se interesa por las relaciones de los diferentes factores y condi- ciones que determinan la frecuencia y distribución de un proceso infeccioso, una enfermedad o un estado fisiológico en una comunidad humana.",
+    "Una actividad organizada de la sociedad para promover, proteger, mejorar y cuando sea necesario, restaurar la salud de los individuos, grupos específicos o de la población entera.",
+    "La ciencia de prevenir las enfermedades, promover la salud y prolongar la vida mediante los esfuer- zos organizativos de la sociedad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La finalidad del vendaje de Velpau es:",
+   "o": [
+    "Inmovilizar hombro.",
+    "Comprimir clavícula.",
+    "Protección de la herida.",
+    "Realizar compresión progresiva."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según la Organización Mundial de la Salud, una de las siguientes no se considera una característi- ca de los nuevos métodos de Educación para la Salud:",
+   "o": [
+    "Utilización de recursos humanos ajenos al Sistema de Salud.",
+    "Nuevos enfoques en relación con la ecología humana.",
+    "Nuevas funciones para los proveedores de Salud.",
+    "Implantación de una tecnología sanitaria independiente de la población a la que va dirigida."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Acude a urgencias una niña de cinco meses con un peso de 7 kg. Los profesionales sospechan de una deshidratación. Ha perdido el 6% del peso corporal y presenta fontanela plana, lengua algo seca, estado neurológico y ojos normales, pliegue con recuperación en menos de 2 segundos, respiración rápida y extremidades frías. Marque la respuesta incorrecta:",
+   "o": [
+    "El grado de deshidratación según la estimación de pérdida de porcentaje de peso corporal es mode- rado.",
+    "Según Fortín y Parent el grado de deshidratación de la niña es moderado.",
+    "La Regla de Holliday calcula la fluidoterapia necesaria para mantener el aporte de líquidos necesa- rio mediante el peso y el porcentaje de pérdida de peso.",
+    "Según la Regla de Holliday a esta niña se le administrarán 700 ml de suero fisiológico intravenoso."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señale la afirmación incorrecta respecto a las características de la personalidad histriónica:",
+   "o": [
+    "Pertenece al grupo B de trastornos de la personalidad.",
+    "Carece de empatía por los demás.",
+    "Se siente incómodo cuando no es el centro de atención.",
+    "Actúa con un comportamiento sexualmente seductor."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El vendaje en el que cada vuelta se superpone parcialmente a la anterior y se usa para vendar miembros se denomina:",
+   "o": [
+    "Vendaje en vuelta circular.",
+    "Vendaje en espiral.",
+    "Vendaje en ocho.",
+    "Vuelta recurrente."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Cuando se escriben de forma adecuada los resultados e indicadores de la NOC:",
+   "o": [
+    "No requieren adaptación personalizada.",
+    "Se dirigen a varios diagnósticos de enfermería.",
+    "Son declaraciones extensas de puntos finales deseados.",
+    "Reflejan los valores del profesional enfermero y el paciente."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El Método de Evaluación 360º, o Evaluación Integral, sirve para (indique la respuesta incorrecta):",
+   "o": [
+    "Evaluar a una organización sanitaria analizando los puestos de trabajo.",
+    "Evaluar las competencias clave para el puesto y la organización.",
+    "Hacer planes de capacitación o detección de necesidades de capacitación.",
+    "Hacer promociones de puesto."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según la Sociedad Española de Nutrición Clínica y Metabolismo (SENPE), indique la respuesta incorrecta sobre Educación Nutricional en Bulimia Nerviosa (BN):",
+   "o": [
+    "La educación nutricional persigue mejorar la actitud y comportamiento en relación a la comida.",
+    "La educación nutricional enfatizará la adecuada selección de alimentos, priorizando aquellos con menor densidad energética y que promueven una mayor saciedad.",
+    "Se trabajará en la calidad de los alimentos, priorizando la incorporación de los alimentos más saludables.",
+    "Se trabajará en el tamaño de las raciones."
+   ],
+   "a": 2,
+   "anulada": true
+  },
+  {
+   "q": "La demografía sanitaria nos suministra los datos de población necesarios para:",
+   "o": [
+    "Planificar y programar en salud pública.",
+    "Elaborar tasas y otros indicadores sanitarios.",
+    "Estudios epidemiológicos.",
+    "Todas son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Uno de los siguientes no se considera un requisito de autocuidado universal:",
+   "o": [
+    "Mantenimiento de un aporte suficiente de aire.",
+    "Mantenimiento de un aporte suficiente de agua.",
+    "Mantenimiento de un equilibrio entre la actividad y el descanso.",
+    "Mantenimiento de un equilibrio entre interacción familiar y social."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Indique la respuesta correcta, en relación a los primeros cambios en el ciclo menstrual que se producen en la mujer premenopáusica:",
+   "o": [
+    "Hipermenorrea.",
+    "Ciclos anovulatorios.",
+    "Proiomenorrea.",
+    "Amenorrea."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La escala EMINA fue desarrollada por:",
+   "o": [
+    "Bárbara Braden y Nancy Bergstrom.",
+    "Norton y McLaren.",
+    "Instituto Catalán de Salud.",
+    "Ninguna es correcta."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de las siguientes situaciones tiene posibilidades de producirse si la definición de objetivos no se redacta bien?:",
+   "o": [
+    "No hay normas con respecto a las cuales comparar los resultados.",
+    "No es posible fijar prioridades en los diagnósticos de enfermería.",
+    "Solo pueden usarse intervenciones de enfermería dependientes.",
+    "Es difícil determinar qué intervenciones de enfermería pueden delegarse."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique la respuesta incorrecta, en relación al Sistema Español de Farmacovigilancia de Medicamentos de Uso Humano (SEFV-H):",
+   "o": [
+    "Está coordinado por la Agencia Española de Medicamentos y Productos Sanitarios a través de la División de Farmacoepidemiología y Farmacovigilancia.",
+    "Se utiliza para facilitar la recogida de información sobre los efectos adversos que pueden ocasionar los medicamentos.",
+    "En cada Comunidad Autónoma existe un centro de farmacoepidemiología, encargado de evaluar y registrar en una base de datos común, denominada FEDRA, estos efectos adversos que se sospe- cha que pueden ser debidos al medicamento.",
+    "Está integrado por 17 centros autonómicos de farmacovigilancia y la Agencia Española de Medica- mentos y Productos Sanitarios."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Teoría del Desarrollo Psicosocial de Erikson:",
+   "o": [
+    "Entre los 3 y los 5 años el niño debe desarrollar su creatividad.",
+    "Entre los 5 y los 13 años el niño debe establecer su propia identidad.",
+    "Entre los 12 y los 20 años el joven debe conseguir la intimidad.",
+    "Entre los 40 y 60 años el adulto siente la necesidad de ser generativo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "De acuerdo con el artículo 12 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿tienen derecho de acceso a la información pública?...:",
+   "o": [
+    "Todos los residentes en España.",
+    "Todos los ciudadanos.",
+    "Los españoles y extranjeros empadronados.",
+    "Todas las personas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Un modelo de cambio de una práctica como consecuencia de la evidencia, aplica una serie de pa- sos (Larrabee, 2009). Señale la respuesta que refleje el número de ellos:",
+   "o": [
+    "Tres.",
+    "Cuatro.",
+    "Seis.",
+    "Ocho."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de las siguientes características no tiene relación con la morbilidad diferencial en la Enfermedad Pulmonar Obstructiva Crónica (EPOC)?:",
+   "o": [
+    "La calidad de vida de las mujeres con EPOC es peor que la de los hombres con EPOC.",
+    "La EPOC está infradiagnosticada, elevándose el infradiagnóstico en el caso de las mujeres.",
+    "La comorbilidad de las mujeres con EPOC es superior a los hombres en el caso de la depresión y la ansiedad.",
+    "La comorbilidad de los hombres con EPOC es superior a las mujeres en diabetes y osteoporosis."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En el manejo de la vía aérea difícil podemos realizar las siguientes maniobras encaminadas a disminuir el riesgo de aspiración pulmonar y a mejorar la visualización de la glotis con el fin de facilitar la intubación ortotraqueal. Indique cuál no es correcta:",
+   "o": [
+    "Maniobra de BURP.",
+    "Maniobra de Cormack.",
+    "Maniobra de Sellick.",
+    "Presión cricoidea."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El profesional enfermero pregunta al paciente: “¿Qué le preocupa más sobre la intervención qui- rúrgica de mañana?”. ¿De qué técnica de comunicación es un ejemplo esta pregunta?:",
+   "o": [
+    "Proporcionar instrucciones generales.",
+    "Buscar aclaración.",
+    "Presentar la realidad.",
+    "Resumir."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Señale la respuesta incorrecta sobre la hepatitis:",
+   "o": [
+    "El mecanismo de transmisión del VHC más frecuente es la transmisión sexual.",
+    "No hay vacuna contra el VHC.",
+    "El VHD solo se da en personas infectadas con el VHB. La vacuna contra la hepatitis B brinda protección frente a la hepatitis D.",
+    "Hay vacunas contra el VHE seguras y eficientes, pero no tienen una distribución amplia."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes escalas nos permite medir la intensidad del dolor?:",
+   "o": [
+    "Escala visual analógica (EVA).",
+    "Escala numérica (EN).",
+    "Escala Categórica (EC).",
+    "Todas son escalas para valorar el dolor."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Indique qué ítem no se valora en el Test del vínculo en el posparto. Postpartum Bonding Questionnaire. (PBQ):",
+   "o": [
+    "Me siento segura cuando lo estoy cuidando.",
+    "Me pone nerviosa.",
+    "Me siento distante.",
+    "Me desagrada abrazarlo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "A un paciente diagnosticado de síndrome de Cushing le recomendaremos una dieta:",
+   "o": [
+    "Alta en sodio.",
+    "Elevada en potasio.",
+    "Baja en proteínas.",
+    "Baja en potasio."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La FDA (Food and Drugs Administration) ha establecido 5 categorías (A, B, C, D y X) para indicar el potencial teratogénico de una sustancia. Usted es enfermero/a en una planta de gestantes, y una de las señoras a las que atiende lleva pautado en su tratamiento diacepam 2,5 mg en desayuno y cena. Indique la categoría a la pertenece dicha sustancia:",
+   "o": [
+    "D.",
+    "B.",
+    "C.",
+    "X."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Todas son complicaciones de una fractura excepto:",
+   "o": [
+    "Síndrome de Sudeck.",
+    "Shock Neurogénico.",
+    "Embolia grasa.",
+    "Contractura isquémica de Volkman."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Con relación a los métodos educativos, señale el enunciado que considere falso:",
+   "o": [
+    "En los métodos indirectos el grupo receptor tiene un papel pasivo.",
+    "En los métodos indirectos se benefician un amplio número de personas.",
+    "En los métodos indirectos los mensajes han de ser complejos y diversos.",
+    "En los métodos indirectos existe bajo coste económico por individuo alcanzado."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Acuden a urgencias una madre con su bebé. Nos indica que se ha tropezado con una silla en casa y se ha caído con el bebé en brazos golpeándose el bebé con la cabeza en el suelo. En este momento el bebé está dormido, pero al hablarle abre los ojos, y balbuceando realiza movimientos con naturalidad. Según la escala de Glasgow modificada para lactantes:",
+   "o": [
+    "Tiene una puntuación de 15.",
+    "Tiene una puntuación de 14.",
+    "Tiene una puntuación de 13.",
+    "Tiene una puntuación de 12."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En el caso de que un paciente sea propenso a desarrollar un problema de salud, ¿qué tipo de es- tado de diagnóstico de enfermería elige el profesional enfermero?:",
+   "o": [
+    "Un diagnóstico de enfermería de riesgo.",
+    "Un diagnóstico de enfermería de bienestar.",
+    "Un diagnóstico de enfermería de Promoción de la salud.",
+    "Un diagnóstico de enfermería actual."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Acude a la consulta de enfermería una paciente vacunada de tuberculosis para realizarle el Mantoux, sin sintomatología, enfermedades, ni situaciones de riesgo. Señale la respuesta incorrecta:",
+   "o": [
+    "Se inyectarán 0,1 ml (2 unidades) de tuberculina PPD/RT23 con una aguja de 26/27G y un ángulo de 10-15º.",
+    "A las 72 horas acude a la consulta de enfermería y se le mide, mediante la técnica de Sokal, el diámetro transversal de la induración producida.",
+    "A falta de induración, un eritema con diámetro mayor de 10 mm indica inyección demasiado profunda y hay que repetir la prueba.",
+    "Las vacunas de sarampión, rubeola y parotiditis administrada el mismo día o en las seis semanas anteriores puede provocar falsos positivos."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de los siguientes criterios de Bradford Hill no es correcto?:",
+   "o": [
+    "La asociación estadística analiza la relación entre el factor causal y el efecto estudiado.",
+    "La consistencia de la asociación trata de averiguar si la relación causa-efecto ha sido confirmada por más de un estudio de investigación, poblaciones diferentes y en distintas circunstancias.",
+    "La plausibilidad se basa en las relaciones causa-efecto establecidas, en función de las cuales, si un factor de riesgo ocasiona un efecto en la salud, otro con características similares origina el mismo efecto.",
+    "Según la especificidad, una causa origina un efecto en particular, aunque un mismo efecto puede ser provocado por varias causas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Las encefalopatías espongiformes transmisibles humanas, la enfermedad neumocócica invasora y la salmonelosis, son enfermedades de declaración obligatoria:",
+   "o": [
+    "De envío de los datos epidemiológicos básicos agrupados en periodos de cuatro semanas.",
+    "De declaración urgente con envío de datos epidemiológicos básicos.",
+    "De declaración semanal con envío de datos epidemiológicos básicos.",
+    "Con datos epidemiológicos básicos en un informe anual."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre Lactancia Materna, indique la respuesta correcta con respecto al seguimiento del lactante amamantado:",
+   "o": [
+    "Vigilar y prestar el apoyo necesario a la lactancia materna en aquellos casos en los que se identifi- que una pérdida neonatal del 6% al alta.",
+    "Se pueden utilizar las curvas de Bertini como el límite que no se debería superar y las curvas de Flaherman como ideal de pérdida de peso del recién nacido sano amamantado al que habría que aproximarse.",
+    "Se deberían de utilizar las curvas de la OMS para realizar el seguimiento del crecimiento del lactan- te puesto que son las únicas que muestran cuál debería de ser el crecimiento en condiciones ópti- mas.",
+    "Se deberían recoger datos como: el sexo, el peso para la edad y la relación longitud/peso para la edad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de estas afirmaciones sobre el uso de la morfina en pacientes terminales es INCORRECTA?:",
+   "o": [
+    "Producen frecuentemente estreñimiento.",
+    "Tiene dosis máxima permitida.",
+    "El riesgo de adicción en pacientes terminales no es un problema.",
+    "Su dispensación en receta se puede pautar desde la consulta de atención primaria."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre la historia clínica no es cierta?:",
+   "o": [
+    "Es el soporte asistencial de todo el sistema de registro de Atención Primaria.",
+    "Es el instrumento básico para asegurar y evaluar la calidad de la atención.",
+    "No es un soporte de las actividades orientadas a la comunidad.",
+    "Es la base de datos epidemiológica más importante."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En un shock anafiláctico, el fármaco de elección es:",
+   "o": [
+    "Atropina.",
+    "Adrenalina.",
+    "Corticoide.",
+    "Antihistamínico."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Los modelos conceptuales en enfermería son:",
+   "o": [
+    "Trabajos que proporcionan una mayor comprensión de la disciplina enfermera y sus aplicaciones profesionales.",
+    "Los fenómenos de enfermería a través del análisis, el razonamiento y la argumentación lógica.",
+    "Los conceptos y sus relaciones que especifican una perspectiva y dan lugar a evidencias entre los fenómenos específicos de la disciplina.",
+    "Utilizados para definir la totalidad de los fenómenos inherentes a una disciplina sanitaria."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señale la respuesta incorrecta, según Selye:",
+   "o": [
+    "La respuesta al estrés se desarrolla en tres etapas: fase de alarma, de resistencia o adaptación y de desgaste.",
+    "Denominó el Síndrome General de Adaptación a la respuesta adaptativa del organismo a los agentes estresantes.",
+    "Se considera el padre del estudio de la adaptación.",
+    "Divide el estrés en eutress y distress."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Una función de dirección de los profesionales enfermeros incluye la determinación de si el pacien- te ha alcanzado los resultados pretendidos diseñados en el plan asistencial. ¿De cuál de las cuatro funciones de dirección es un ejemplo esta situación?:",
+   "o": [
+    "Planificación.",
+    "Organización.",
+    "Dirección.",
+    "Coordinación y control."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el Manual básico de Obstetricia y Ginecología del Ministerio de Sanidad, Servicios Sociales e Igualdad, indique la respuesta incorrecta, en relación a los cuidados que precisa al ingreso una gestante diagnosticada de placenta previa sangrante:",
+   "o": [
+    "Control de la pérdida hemática.",
+    "Administración de profilaxis anti-D si la madre es Rh negativo.",
+    "Realización de pruebas de coagulación.",
+    "Test de Kleinhauer, si hay sospecha de hemorragia fetal."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La Salud Pública se puede definir como:",
+   "o": [
+    "Todas las actividades preventivas de los servicios de salud y que van a incidir sobre los individuos.",
+    "El estado de completo bienestar físico, mental y social y no solo la ausencia de enfermedad.",
+    "El estudio del número de casos nuevos que surgen en una población determinada.",
+    "La ciencia y el arte de impedir enfermedades, prolongar la vida, fomentar la salud y la eficiencia física y mental, mediante el esfuerzo de la comunidad."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Durante su turno de trabajo atiende a una puérpera, a la que se le ha administrado durante el parto sulfato de magnesio para la prevención de las convulsiones, a dosis de 1-1.5 g/hora, intravenoso en perfusión continua. Indique qué controles precisa para su correcta atención:",
+   "o": [
+    "Comprobar la presencia de reflejo pupilar.",
+    "Frecuencia respiratoria >14 respiraciones/min.",
+    "Diuresis >20 ml/hora.",
+    "Este tratamiento debe mantenerse las primeras 12 horas postparto."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señale la respuesta incorrecta en relación a la distribución de frecuencias:",
+   "o": [
+    "La frecuencia absoluta es el número de veces que se repite un valor determinado en un estudio estadístico.",
+    "La suma de todas las frecuencias absolutas da como resultado el número total de datos.",
+    "La frecuencia relativa es el cociente entre la frecuencia absoluta y el número total de datos X 1000.",
+    "La frecuencia relativa acumulada es el cociente entre la frecuencia absoluta acumulada y el número total de datos."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique de las siguientes opciones la que no corresponde, al objeto del Real Decreto 954/2015 de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros:",
+   "o": [
+    "El procedimiento de formación y certificación del enfermero, tanto del responsable de cuidados generales como del responsable de cuidados especializados, como requisito previo y necesario para el pleno desarrollo de las actuaciones referidas en este Real Decreto.",
+    "Las actuaciones de los enfermeros en materia de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, relacionados con su ejercicio profesional.",
+    "La elaboración y validación de los protocolos y guías de práctica clínica y asistencial para la indicación, uso y autorización de dispensación de medicamentos sujetos a prescripción médica por parte de los enfermeros.",
+    "Las disposiciones de este real decreto se aplicarán tanto si las actividades se desarrollan en los servicios sanitarios públicos como si se desarrollan en el ámbito de la sanidad privada."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Respecto a las Infecciones de Transmisión Sexual (ITS), el virus del Papiloma Humano (VPH) y el cáncer de Cérvix (señale la respuesta incorrecta):",
+   "o": [
+    "La biopsia es el método diagnóstico de cáncer de cérvix.",
+    "El tabaco, el alcohol y la multiparidad son factores de riesgo de cáncer de cérvix.",
+    "El preservativo evita el contagio de ITS como el VPH.",
+    "El VPH puede causar verrugas genitales o cáncer de cérvix, vulva, vagina, pene, ano u orofaríngeos."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Cuando existe la obligación de mantener oculto lo que afecta directamente a la profunda intimidad de la persona y cuya divulgación es dañina para la misma, nos referimos al tipo de secreto profe- sional:",
+   "o": [
+    "Secreto prometido.",
+    "Secreto natural.",
+    "Secreto presumido.",
+    "Secreto comprometido."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El implante hormonal es un método anticonceptivo que se caracteriza por (señale la respuesta incorrecta):",
+   "o": [
+    "Mantiene la liberación continua a la sangre de una pequeña cantidad de etonogestrel, hormona femenina similar a los estrógenos.",
+    "Inhibe la ovulación.",
+    "Uso subcutáneo, no biodegradable y radiopaco que causa dificultad en la entrada de los espermatozoides al útero.",
+    "Se considera eficaz y seguro en mujeres entre 18-40 años."
+   ],
+   "a": 0
+  },
+  {
+   "q": "A la unidad básica asistencial del equipo de Atención Primaria pertenecen:",
+   "o": [
+    "Médicos y odontólogos.",
+    "Técnicos sanitarios y matronas.",
+    "Enfermero y médico.",
+    "Pediatras y psiquiatras."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Seleccione la afirmación incorrecta respecto a la reabsorción renal:",
+   "o": [
+    "La mayor reabsorción de magnesio se produce en la rama descendente del Asa de Henle.",
+    "La rama ascendente del asa de Henle es impermeable al agua.",
+    "La vasopresina (ADH) es una hormona que estimula la reabsorción del agua.",
+    "En el túbulo contorneado proximal se lleva a cabo la mayoría de reabsorción de agua."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique de entre los acontecimientos siguientes, cuándo se integra el concepto de Salud Pública dentro de una política de bienestar:",
+   "o": [
+    "Creación de la Escuela Nacional de Sanidad (1924).",
+    "Orden Reguladora del Cuerpo de Enfermeras Visitadoras (1934).",
+    "Creación del Ministerio de Sanidad y Seguridad Social (1977).",
+    "Creación del Sistema Nacional de Salud (1986)."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cómo se modifican los niveles de insulina en estado de ayuno?:",
+   "o": [
+    "Aumenta la insulina y disminuye el glucagón.",
+    "Disminuye la insulina y aumenta el glucagón.",
+    "Aumenta la insulina y aumenta el glucagón.",
+    "Disminuye la insulina y disminuye el glucagón."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la respuesta correcta:",
+   "o": [
+    "En 1757, Johann Julius Walbaum, fue el encargado de introducir una de las prácticas más comunes actualmente en materia de higiene en la asistencia sanitaria: el uso de guantes durante la práctica quirúrgica.",
+    "A finales del siglo XIX, aparecieron los desinfectantes, como el fenol clorado y la desinfección por medio de gases como el óxido de etileno y formaldehído.",
+    "Las aportaciones de Florence Nightingale, descubriendo que las medidas de higiene básica y la correcta oxigenación de los soldados heridos provocaba un descenso en el número de infecciones.",
+    "El médico inglés Joseph Lister, considerado el padre de la cirugía antiséptica moderna, comenzó a poner en práctica principios de antisepsia en el entorno quirúrgico como pulverizaciones de ácido fenólico y el uso de ácido carbónico como antiséptico."
+   ],
+   "a": 3
+  },
+  {
+   "q": "De los siguientes anestésicos locales todos son tipo amiga, excepto:",
+   "o": [
+    "Lidocaína.",
+    "Procaína.",
+    "Mepivacaína.",
+    "Ropivacaína."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "Señale la respuesta correcta respecto a las características del Programa Argos:",
+   "o": [
+    "Prevención del consumo de alcohol y otras drogas en población adolescente.",
+    "Prevención del consumo de alcohol en mujeres gestantes.",
+    "Prevención del consumo de alcohol en mujeres que se encuentren en periodo de lactancia.",
+    "Todas son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Referente a los Planes de Igualdad de Oportunidades entre mujeres y hombres, según la Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protección contra la Violencia de Género en la Región de Murcia, no es cierto que…:",
+   "o": [
+    "El Gobierno Regional aprobará cada Legislatura un Plan General que recoja de forma coordinada y global las líneas de intervención y directrices que deben orientar la actividad de los poderes públicos murcianos en materia de igualdad de Mujeres y Hombres.",
+    "Las funciones de ordenación, planificación y programación dentro de la Comunidad Autónoma de la Región de Murcia, corresponderá al Instituto de Servicios Sociales.",
+    "Las Administraciones públicas contemplarán en sus presupuestos las cantidades necesarias para la elaboración y ejecución de los Planes de Igualdad de Mujeres y Hombres.",
+    "En la elaboración del Plan el Gobierno facilitará la participación del resto de Administraciones públicas de la Región de Murcia y su cumplimiento será objeto de una adecuada evaluación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señale la respuesta incorrecta respecto al dolor en pacientes paliativos:",
+   "o": [
+    "Los antidepresivos, anticonvulsivantes y corticoides son coanalgésicos.",
+    "El inventario breve del dolor es una escala para evaluar el dolor, teniendo en cuenta aspectos emocionales del paciente y la interferencia del dolor en actividades cotidianas.",
+    "Con un diagnóstico, tratamiento y seguimiento adecuados, los opioides son fármacos muy seguros y efectivos.",
+    "El dolor somático se caracteriza por ser difuso y mal localizado, se suele acompañar de síntomas vegetativos."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el enfoque de análisis en progreso de Taylor y Bodgan, para la Investigación Cualitativa, ¿qué acción corresponde a la fase de codificación?:",
+   "o": [
+    "Desarrollar conceptos y proposiciones teóricas.",
+    "Separar los datos.",
+    "Autorreflexión crítica.",
+    "Leer el material bibliográfico."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la combinación de fármacos que se pueden mezclar para su administración por vía subcutánea (SC), mediante un infusor elastomérico:",
+   "o": [
+    "Tramadol + ketorolaco + atropina + clonacepam.",
+    "Morfina + dexametasona + clorpromacina + hioscina.",
+    "Fenobarbital + midazolam + diclofenaco + metoclopramida.",
+    "Furosemida + hioscina + midazolam + haloperidol."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Una úlcera superficial con aspecto de cráter, con pérdida de grosor en la epidermis y dermis es una herida de:",
+   "o": [
+    "Estadio I.",
+    "Estadio II.",
+    "Estadio III.",
+    "Estadio IV."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El consentimiento informado intenta garantizar el respeto al principio de:",
+   "o": [
+    "Justicia.",
+    "Autonomía.",
+    "Derecho.",
+    "Equidad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La finalidad del sondaje nasogástrico es:",
+   "o": [
+    "Preventiva.",
+    "Diagnóstica.",
+    "Terapéutica.",
+    "Todas las respuestas son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿En qué fase de la visita domiciliaria se deben establecer los objetivos?:",
+   "o": [
+    "En la fase de desarrollo.",
+    "En la fase de introducción.",
+    "En la fase de preparación.",
+    "En la fase de evaluación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El tipo de sistema de registro utilizado en un centro de salud, corresponde al elemento:",
+   "o": [
+    "Proceso.",
+    "Resultados.",
+    "Estructura.",
+    "Competencia profesional."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique la respuesta incorrecta sobre los signos y síntomas de mal pronóstico en anorexia nervio- sa, según la Sociedad Española de Nutrición Clínica y Metabolismo (SENPE):",
+   "o": [
+    "Vómitos.",
+    "Comienzo en la adolescencia.",
+    "Coexistencia de enfermedad psiquiátrica.",
+    "Relaciones familiares patológicas/conflictivas."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes prestaciones del Sistema Nacional de Salud, se considera cartera común suplementaria?:",
+   "o": [
+    "Prestación farmacéutica.",
+    "Transporte sanitario urgente.",
+    "Tratamiento en centro sociosanitario.",
+    "RHB."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de estos servicios no es una zona semicrítica de un hospital?:",
+   "o": [
+    "Lencería.",
+    "Consulta infantil.",
+    "Radioterapia.",
+    "Laboratorio de Microbiología."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale la respuesta correcta:",
+   "o": [
+    "El error tipo II se da cuando acepto la hipótesis alternativa y cometo un error.",
+    "El error tipo I se da cuando rechazo la hipótesis nula y cometo un error.",
+    "También se denomina error ALFA al error tipo II.",
+    "Cuando acepto la hipótesis nula y es cierta cometo un error tipo II ó BETA."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el Real Decreto Legislativo 1/2015, de 24 de julio, por el que se aprueba el texto refundido de la Ley de Garantías y Uso racional de los medicamentos y productos sanitarios, ¿qué se entiende por “Producto Sanitario”?:",
+   "o": [
+    "Aquel medicamento elaborado según las normas de correcta elaboración y control de calidad esta- blecidas al efecto y garantizado por un farmacéutico o bajo su dirección, dispensado en oficina de farmacia o servicio farmacéutico, enumerado y descrito por el Formulario Nacional, destinado a su entrega directa a los enfermos a los que abastece dicha farmacia o servicio farmacéutico.",
+    "Toda sustancia o combinación de sustancias que se presente como poseedora de propiedades para el tratamiento o prevención de enfermedades en seres humanos o que pueda usarse en seres hu- manos o administrarse a seres humanos con el fin de restaurar, corregir o modificar las funciones fisiológicas ejerciendo una acción farmacológica, inmunológica o metabólica, o de establecer un diagnóstico médico.",
+    "El medicamento destinado a un paciente individualizado, preparado por un farmacéutico, o bajo su dirección, para cumplimentar expresamente una prescripción facultativa detallada de los principios activos que incluye, según las normas de correcta elaboración y control de calidad establecidas al efecto, dispensado en oficina de farmacia o servicio farmacéutico y con la debida información al usuario.",
+    "Cualquier instrumento, dispositivo, equipo, programa informático, material u otro artículo, utilizado solo o en combinación, incluidos los programas informáticos destinados por su fabricante a finalida- des específicas de diagnóstico y/o terapia y que intervengan en su buen funcionamiento, destinado por el fabricante a ser utilizado en seres humanos con fines de diagnóstico, prevención, control, tratamiento o alivio de una enfermedad, entre otros."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Respecto a las ostomías digestivas, ¿qué afirmación es correcta?:",
+   "o": [
+    "Según su localización podemos clasificarlas como colostomías de descompresión o colostomías de protección.",
+    "No todos los tipos de colostomías podrán ser permanentes o temporales, cada una tiene su indicación.",
+    "La cecostomía es la ostomía de la porción inicial del colon ascendente y las deposiciones serán líquidas.",
+    "Para el cuidado del estoma y la piel circundante, se lava con agua templada y jabón neutro y se aplica un desinfectante acuoso para evitar la infección."
+   ],
+   "a": 2,
+   "anulada": true
+  },
+  {
+   "q": "Precauciones que el personal de enfermería debe de tener para la administración de medicación por vía intramuscular (IM), en un paciente con anticoagulación oral:",
+   "o": [
+    "El volumen a inyectar deberá ser inferior a 4 ml.",
+    "La inyección puede ser más segura en la zona alta del deltoides (zona externa del cuádriceps en casos de deltoides tróficos).",
+    "Después de la administración IM comprimir la zona durante 20 minutos con un manguito de esfin- gomanómetro, manteniendo la presión en la media entre la tensión arterial sistólica y diastólica. En su defecto, la compresión también puede ser manual.",
+    "Todas las respuestas anteriores son incorrectas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación a la espirometría:",
+   "o": [
+    "El patrón respiratorio restrictivo se caracteriza por una relación VEF1/CVF normal o baja.",
+    "Siempre deberá tener un mínimo de tres maniobras satisfactorias para conseguir los criterios de aceptabilidad y reproductibilidad.",
+    "A no ser que se indique lo contrario, se debe evitar la administración de agonistas β-2 Adrenérgicos de acción corta inhalados las 2 horas previas.",
+    "El paciente debe estar en ayunas."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones es una característica de la escala Comfort, utilizada en el recién nacido hospitalizado?:",
+   "o": [
+    "Su objetivo es valorar el estrés del recién nacido.",
+    "Entre sus parámetros valora: calma-agitación, movimientos físicos y tensión facial.",
+    "Su puntuación oscila entre 0-40 puntos.",
+    "Es una escala de ámbito nacional."
+   ],
+   "a": 1
+  }
+ ]
+}

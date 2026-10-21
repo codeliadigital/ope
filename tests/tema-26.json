@@ -182,6 +182,13 @@
       "o": ["Suspender la lactancia hasta que ceda la fiebre", "Dar solo el pecho sano", "Sustituir la lactancia por biberón", "Mantener la lactancia y vaciar bien el pecho afectado, junto con el tratamiento antibiótico"],
       "a": 3,
       "e": "El vaciado es la parte más importante del tratamiento. Si persiste una masa fluctuante, hay que descartar un absceso."
+    },
+    {
+      "q": "La imagen muestra a un lactante mamando. ¿Cómo se valora este agarre?",
+      "o": ["Incorrecto: el mentón no debería tocar el pecho", "Incorrecto: la nariz debería quedar hundida en la mama", "Correcto: boca muy abierta, labios evertidos, mentón pegado al pecho y más areola visible por encima que por debajo", "Correcto solo si el bebé succiona de la punta del pezón"],
+      "a": 2,
+      "e": "Agarre asimétrico profundo: labios evertidos, mentón tocando el pecho, nariz libre, más areola visible arriba y el pezón llega al paladar blando. Succionar solo la punta del pezón produce grietas y mala transferencia de leche.",
+      "img": "img/preguntas/t26-agarre.jpg"
     }
   ]
 }

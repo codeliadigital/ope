@@ -182,6 +182,41 @@
       "o": ["30:2", "15:2", "5:1", "3:1"],
       "a": 1,
       "e": "En el niño se empieza con 5 ventilaciones de rescate, porque la parada suele ser de origen respiratorio. Se comprime 1/3 del diámetro torácico y la desfibrilación es de 4 J/kg."
+    },
+    {
+      "q": "Paciente que no responde y no respira con normalidad. ¿Qué ritmo muestra el monitor?",
+      "o": ["Fibrilación ventricular", "Asistolia", "Actividad eléctrica sin pulso", "Fibrilación auricular rápida"],
+      "a": 0,
+      "e": "FV: actividad caótica sin QRS. Ritmo desfibrilable: descarga inmediata y RCP 2 min; adrenalina 1 mg y amiodarona 300 mg tras la 3.ª descarga.",
+      "img": "img/preguntas/ecg-fv.svg"
+    },
+    {
+      "q": "Parada cardiaca con este ritmo (confirmado en dos derivaciones y con la ganancia adecuada). La actuación correcta es:",
+      "o": ["Desfibrilar tres veces seguidas", "Cardioversión sincronizada", "RCP y adrenalina 1 mg IV lo antes posible", "Amiodarona 300 mg IV"],
+      "a": 2,
+      "e": "Asistolia = ritmo no desfibrilable: compresiones de calidad, adrenalina 1 mg cada 3-5 min desde el principio y buscar causas reversibles (4H y 4T).",
+      "img": "img/preguntas/ecg-asistolia.svg"
+    },
+    {
+      "q": "Paciente sin pulso con este ritmo (taquicardia regular de QRS anchos a ≈ 180 lpm). ¿Qué se debe hacer?",
+      "o": ["Cardioversión sincronizada", "Desfibrilación (no sincronizada) y RCP", "Adenosina 6 mg en bolo", "Maniobras vagales"],
+      "a": 1,
+      "e": "TV sin pulso = ritmo desfibrilable, igual que la FV. La cardioversión sincronizada se reserva para la TV con pulso e inestable.",
+      "img": "img/preguntas/ecg-tv.svg"
+    },
+    {
+      "q": "Paciente en coma, con 6 respiraciones por minuto y las pupilas de la imagen. El antídoto de primera elección es:",
+      "o": ["Flumazenilo", "N-acetilcisteína", "Atropina", "Naloxona"],
+      "a": 3,
+      "e": "Miosis puntiforme + depresión respiratoria + coma = intoxicación por opiáceos: naloxona (IV, IM o intranasal), vigilando la resedación porque dura menos que el opioide.",
+      "img": "img/preguntas/pupilas-miosis.svg"
+    },
+    {
+      "q": "Paciente confuso con las pupilas de la imagen, piel seca y caliente, enrojecimiento, taquicardia y retención urinaria. ¿Qué toxíndrome sugiere?",
+      "o": ["Opioide", "Colinérgico (organofosforados)", "Anticolinérgico", "Sedante-hipnótico"],
+      "a": 2,
+      "e": "Anticolinérgico (antihistamínicos, tricíclicos, atropina): midriasis, piel seca y roja, hipertermia, retención urinaria y delirio. El simpaticomimético también da midriasis pero con sudoración.",
+      "img": "img/preguntas/pupilas-midriasis.svg"
     }
   ]
 }

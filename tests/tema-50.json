@@ -182,6 +182,13 @@
       "o": ["La povidona yodada acuosa", "La clorhexidina alcohólica al 2%", "El alcohol de 70° solo", "El agua oxigenada"],
       "a": 1,
       "e": "El paquete IQZ incluye profilaxis antibiótica en los 60 minutos previos, clorhexidina alcohólica al 2%, eliminación del vello solo con cortadora eléctrica si hace falta, normotermia y glucemia por debajo de 180 mg/dl."
+    },
+    {
+      "q": "En la técnica de la imagen la aguja fina atraviesa la duramadre y llega al espacio subaracnoideo, donde sale LCR. Es la anestesia:",
+      "o": ["Epidural", "Intradural (raquídea o espinal)", "De plexo braquial", "Local infiltrativa"],
+      "a": 1,
+      "e": "Intradural: L3-L4 o L4-L5 (por debajo del cono medular), sale LCR; complicación típica: cefalea pospunción (mejora en decúbito). La epidural no atraviesa la dura (aguja de Tuohy, pérdida de resistencia, catéter).",
+      "img": "img/preguntas/t50-raquidea.jpg"
     }
   ]
 }

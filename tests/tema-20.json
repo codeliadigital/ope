@@ -182,6 +182,20 @@
       "o": ["Test de Batalla", "Test de Morisky-Green", "Test de Haynes-Sackett", "Cuestionario SMAQ"],
       "a": 3,
       "e": "El SMAQ (6 preguntas) detecta las \"vacaciones terapéuticas\". El de Batalla evalúa el conocimiento de la enfermedad y el de Haynes-Sackett fija el umbral en el 80%."
+    },
+    {
+      "q": "En la imagen se representan las cuatro vías parenterales. ¿Con qué ángulo se administra la inyección intradérmica (n.º 4)?",
+      "o": ["90°", "45°", "25-30°", "10-15°"],
+      "a": 3,
+      "e": "IM 90°; SC 45° (90° con aguja corta o pellizco); IV 25-30°; intradérmica 10-15° con el bisel hacia arriba, hasta formar una pápula.",
+      "img": "img/preguntas/t20-angulos.jpg"
+    },
+    {
+      "q": "El catéter venoso periférico de este color, el estándar para fluidoterapia en el adulto, es de calibre:",
+      "o": ["18 G", "20 G", "22 G", "24 G"],
+      "a": 1,
+      "e": "Rosa = 20 G. Naranja 14 G, gris 16 G, verde 18 G, azul 22 G, amarillo 24 G, violeta 26 G.",
+      "img": "img/preguntas/cateter-rosa.svg"
     }
   ]
 }

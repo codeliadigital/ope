@@ -182,6 +182,27 @@
       "o": ["Ablandar las heces duras con aceite", "Administrar contraste de bario", "Administrar medicación que se debe retener 20-30 minutos", "Favorecer la expulsión de gases de la parte final del colon y el recto (efecto carminativo)"],
       "a": 3,
       "e": "La lavativa de Harris es carminativa: sirve para expulsar gases. Los enemas de retención (oleoso, medicamentoso u opaco) deben mantenerse unos 20-30 minutos, y los de limpieza buscan vaciar el colon."
+    },
+    {
+      "q": "La imagen muestra una hernia de hiato en la que el fondo gástrico asciende junto al esófago mientras la unión gastroesofágica permanece en su sitio. Es de tipo:",
+      "o": ["II (paraesofágica o por rodamiento)", "I (por deslizamiento)", "Hernia de Morgagni", "Hernia inguinal indirecta"],
+      "a": 0,
+      "e": "Tipo I (deslizamiento, la más frecuente): sube la unión gastroesofágica, se asocia a reflujo. Tipo II (paraesofágica): la unión queda en su sitio y asciende el fondo; riesgo de vólvulo y estrangulación (cirugía).",
+      "img": "img/preguntas/t44-hernia.jpg"
+    },
+    {
+      "q": "Hemorroides internas que prolapsan con la defecación y precisan reducción manual, como en la imagen. ¿Qué grado tienen?",
+      "o": ["Grado I", "Grado II", "Grado III", "Grado IV"],
+      "a": 2,
+      "e": "Grado I: no prolapsan (sangrado). II: prolapsan y se reducen solas. III: requieren reducción manual. IV: prolapso permanente e irreductible.",
+      "img": "img/preguntas/t44-hemorroides.jpg"
+    },
+    {
+      "q": "La imagen muestra un estoma en el colon ascendente (lado derecho del abdomen). ¿Qué heces cabe esperar?",
+      "o": ["Formadas y sólidas", "Ausencia total de heces", "Duras, cada 3 días", "Líquidas o semilíquidas y más irritantes para la piel"],
+      "a": 3,
+      "e": "Cuanto más proximal el estoma, más líquidas e irritantes las heces (más enzimas, menos absorción de agua). Ascendente e ileostomía: líquidas; sigmoidea (la más frecuente): formadas.",
+      "img": "img/preguntas/t44-colostomia.jpg"
     }
   ]
 }

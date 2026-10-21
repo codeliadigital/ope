@@ -182,6 +182,20 @@
       "o": ["La restricción hídrica (menos de 800-1.000 ml/día)", "Asegurar una ingesta abundante de agua", "Administrar desmopresina", "Administrar suero glucosado al 5% en perfusión rápida"],
       "a": 0,
       "e": "En el SIADH se retiene agua y aparece una hiponatremia dilucional, con riesgo de edema cerebral (vigilancia neurológica). En la diabetes insípida ocurre lo contrario: poliuria masiva, hay que asegurar el agua y se da desmopresina."
+    },
+    {
+      "q": "Al percutir delante del trago, sobre el nervio facial, se contrae la comisura bucal del mismo lado (signo de Chvostek). Indica:",
+      "o": ["Hipercalcemia", "Hipocalcemia", "Hiperpotasemia", "Hiponatremia"],
+      "a": 1,
+      "e": "Chvostek y Trousseau (espasmo carpopedal al inflar el manguito) son signos de hipocalcemia, típica tras tiroidectomía por lesión de las paratiroides. Riesgo de laringoespasmo: gluconato cálcico IV.",
+      "img": "img/preguntas/t47-chvostek.jpg"
+    },
+    {
+      "q": "En el esquema de zonas de inyección de insulina, la zona coloreada en verde (abdomen) es la de absorción:",
+      "o": ["Más lenta", "Intermedia", "Nula", "Más rápida"],
+      "a": 3,
+      "e": "Velocidad de absorción: abdomen (rápida) > brazos > muslos > nalgas (lenta). Rotar dentro de la misma zona, separar los pinchazos ≈ 1 cm y respetar 2-3 cm alrededor del ombligo para evitar lipodistrofias.",
+      "img": "img/preguntas/t47-insulina.jpg"
     }
   ]
 }

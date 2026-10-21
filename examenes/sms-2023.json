@@ -1,0 +1,1263 @@
+{
+ "id": "sms-2023",
+ "titulo": "OPE Enfermería SMS 2023 · Turno libre (modelo A)",
+ "anio": 2023,
+ "descripcion": "Examen oficial del 12 de noviembre de 2023 (OEP 2019, 2020, 2021 y estabilización), Diplomado Sanitario no Especialista / Enfermería del Servicio Murciano de Salud. 125 preguntas.",
+ "preguntas": [
+  {
+   "q": "¿En qué consiste la técnica Mamet?:",
+   "o": [
+    "Es una técnica para valorar la toma de pecho.",
+    "Es una técnica para la extracción manual de leche.",
+    "Es una técnica de relajación.",
+    "Es una técnica para maximizar la extracción doble con sacaleches."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Ante una extravasación por citostáticos, no es una medida a seguir:",
+   "o": [
+    "Interrumpir la perfusión, dejando la cánula in situ.",
+    "Aspirar a través de la cánula para intentar extraer el fármaco.",
+    "Inyectar antídoto alrededor del punto de extravasación para aquellos citostáticos que lo posean.",
+    "Aplicar presión sobre la zona y vendaje."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Qué es la \"inducción\" en el contexto de la anestesia general?:",
+   "o": [
+    "El proceso de finalizar la anestesia y despertar al paciente.",
+    "La administración de anestésicos antes de la intubación del paciente.",
+    "El proceso de mantener al paciente en un estado de anestesia profunda durante la cirugía.",
+    "La administración de analgésicos antes de la cirugía."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En relación a los niveles de planificación y toma de decisiones, la asignación de los recursos y actividades para alcanzar los objetivos son competencias a nivel:",
+   "o": [
+    "Directivo.",
+    "Operativo.",
+    "Táctico.",
+    "Estratégico."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Entre las funciones de los hidrogeles en las heridas, señale la opción correcta:",
+   "o": [
+    "Desbridante autolítico.",
+    "Detiene el exudado.",
+    "Acción antiséptica.",
+    "Acción analgésica."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Interpretación Índice PROFUND. ¿Qué mide?:",
+   "o": [
+    "Estratificación del riesgo de muerte de pacientes pluripatológicos en los siguientes 12 meses.",
+    "Explica y describe gráficamente diferentes grados de fragilidad y discapacidad, de acuerdo con su nivel de vulnerabilidad.",
+    "Es un cribado de ansiedad y depresión en los ancianos.",
+    "Mide el riesgo psicosocial del niño entre 0 y 2 meses."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Otra forma de redactar los diagnósticos de enfermería es utilizar el formato PES. ¿Qué significa la S?:",
+   "o": [
+    "Subjetivo (cómo se siente).",
+    "Sentimientos generados (factores relacionados).",
+    "Signos/síntomas (características definitorias).",
+    "Soluciones planteadas (planificación de los cuidados)."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En cuanto al diagnóstico de Diabetes Mellitus en embarazo, señale la opción incorrecta:",
+   "o": [
+    "Según la SEGO se hace Test de Sullivan a todas las gestantes entre las 24-28 semanas.",
+    "La embarazada debe ingerir un líquido que contiene 50 g de azúcar disueltos en agua sin hacerle previamente una medida de glucemia.",
+    "Se diagnostica diabetes gestacional cuando los resultados igualan o superan los 200 mg/dl y se repetiría el test.",
+    "La SEGO aconseja Prueba de Sullivan en el primer trimestre de embarazo a las gestantes de riesgo con 50 g de azúcar."
+   ],
+   "a": 1,
+   "anulada": true
+  },
+  {
+   "q": "¿Cuál es el propósito de la pausa quirúrgica, que se realiza antes de la incisión quirúrgica, durante la cirugía segura?:",
+   "o": [
+    "Descanso del personal quirúrgico.",
+    "Confirmación de la identidad del paciente.",
+    "Actualización del expediente médico del paciente.",
+    "Evaluación de la técnica quirúrgica."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cómo afecta la nicotina en la fertilidad?:",
+   "o": [
+    "Hay una destrucción parcial de los depósitos de ovocitos.",
+    "Afectación de la actividad ciliar de la mucosa de las trompas.",
+    "La actividad tubárica se estimula y luego se inhibe.",
+    "Todas las opciones son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La capacidad del entrevistador para comprender al paciente en sus preocupaciones cognitivas y emocionales, y ser capaz de transmitir al paciente dicha comprensión se denomina:",
+   "o": [
+    "Asertividad.",
+    "Comprensión.",
+    "Empatía.",
+    "Amabilidad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación con el hábito tabáquico, ¿qué test evalúa la dependencia física?:",
+   "o": [
+    "Test de Russell.",
+    "Test de Nuetz.",
+    "Test de Prochaska y DiClemente.",
+    "Test de Fagerstrom."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el Informe Lalonde, ordene de mayor a menor la contribución relativa a la morbimortalidad de los siguientes determinantes:",
+   "o": [
+    "Comportamientos/estilos de vida, biología humana, elementos del entorno y sistema sanitario.",
+    "Biología humana, entorno, comportamientos/estilo de vida y sistema sanitario.",
+    "Entorno, comportamientos/estilo de vida, biología humana y sistema sanitario.",
+    "Sistema sanitario, comportamientos/estilo de vida, biología humana y entorno."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Respecto a la anticoncepción hormonal combinada (AHC), señale la opción incorrecta:",
+   "o": [
+    "La AHC tiene efecto protector frente al cáncer de ovario y endometrio.",
+    "La AHC no se aconseja en mujeres con enfermedad vascular o migraña con aura.",
+    "La AHC aumenta el riesgo de cáncer colorrectal.",
+    "La AHC incluiría el anillo vaginal, la anticoncepción hormonal oral (AHO) y el parche anticonceptivo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señale la opción incorrecta sobre la Estrategia NAOS:",
+   "o": [
+    "Su lema es: come sano y muévete.",
+    "Es competencia exclusiva del Ministerio de Sanidad.",
+    "Abordará los requisitos que deben cumplir los menús que se ofrezcan en los comedores escolares.",
+    "Regulará la oferta de alimentos con un alto contenido energético pero un bajo valor nutricional, que pueden adquirirse en máquinas expendedoras en los centros docentes."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Una úlcera por presión cicatriza por:",
+   "o": [
+    "Primera intención.",
+    "Segunda intención.",
+    "Tercera intención.",
+    "Cuarta intención."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La definición: “un juicio clínico en relación con la vulnerabilidad de una persona, familia, grupo o comunidad, de desarrollar una respuesta humana no deseada a una afección de salud/proceso vital” hace referencia a (indique la opción correcta):",
+   "o": [
+    "Diagnóstico Enfermero real.",
+    "Diagnóstico Enfermero de síndrome.",
+    "Diagnóstico Enfermero de riesgo.",
+    "Diagnóstico Enfermero de promoción de la salud."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según el artículo 12 de la Ley 5/2001, de 5 de diciembre, de personal estatutario del Servicio Murciano de Salud, éste se clasifica en:",
+   "o": [
+    "Personal universitario, personal con formación profesional y personal con formación no reglada.",
+    "Personal fijo y personal temporal.",
+    "Atendiendo al nivel de titulación exigida para el ingreso, a las funciones que desarrolla y al carácter fijo o temporal de su nombramiento.",
+    "Personal sanitario y personal de gestión y servicios."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la OMS, el lavado rutinario de manos con jabón normal debe realizarse siempre que visiblemente estén sucias y su duración debe ser (señale la opción correcta):",
+   "o": [
+    "De 70 a 90 segundos.",
+    "De 40 a 60 segundos.",
+    "De 2 a 4 minutos.",
+    "De 20 a 30 segundos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En referencia a la transmisión del VIH, ¿cuál es la práctica sexual de mayor riesgo de contagio?:",
+   "o": [
+    "Coito anal receptivo sin preservativo.",
+    "Coito anal insertivo sin protección.",
+    "Penetración anal manual o instrumental.",
+    "Coito vaginal insertivo sin preservativo."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál es la fracción de eyección del ventrículo izquierdo que se considera normal en un ecocardiograma?:",
+   "o": [
+    "Menos del 20%.",
+    "Entre el 30% y el 40%.",
+    "Entre el 50% y el 70%.",
+    "Más del 80%."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Colocaría un vendaje en 8 ante:",
+   "o": [
+    "Fractura de clavícula.",
+    "Fractura costal.",
+    "Fractura supracondílea de húmero.",
+    "Todas son falsas."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Cuando se reclutan sujetos para participar en un estudio sobre los efectos en el equilibrio de un programa de ejercicio, el investigador proporciona información total y completa sobre el propósito del estudio y ofrece a los sujetos la elección de participar o no en el estudio, es un ejemplo de:",
+   "o": [
+    "Anonimato.",
+    "Sesgo.",
+    "Consentimiento informado.",
+    "Confidencialidad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Respecto a la comunicación terapéutica, señale la opción incorrecta:",
+   "o": [
+    "La investigación ha demostrado que la comunicación no interfiere en la adherencia al tratamiento de los pacientes.",
+    "La comunicación impacta directamente sobre el nivel de alfabetización en salud (AS).",
+    "La comunicación es un elemento constitutivo de la salud.",
+    "Es una relación que se establece con el paciente, con su familia y entorno."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La gripe, en España, causa un aumento significativo de hospitalización. Señale el intervalo de edad en el que más fallecimientos se producen:",
+   "o": [
+    "6 – 7 años de edad.",
+    "0 – 5 años de edad.",
+    "1 – 3 años de edad.",
+    "5 – 10 años de edad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señale la opción correcta:",
+   "o": [
+    "El Título I de la Constitución Española se titula “De los derechos fundamentales y de las libertades públicas”.",
+    "El Título I de la Constitución Española se titula “De los derechos fundamentales y de los deberes de los ciudadanos”.",
+    "El Título I de la Constitución Española se titula “De los derechos y deberes fundamentales”.",
+    "El Título I de la Constitución Española se titula “De los derechos y deberes de los ciudadanos”."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El diagnóstico NANDA Síndrome de dolor crónico (00255) tiene entre sus características definitorias (señale la opción incorrecta):",
+   "o": [
+    "Ansiedad.",
+    "Diarrea.",
+    "Fatiga.",
+    "Temor."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál es el trastorno renal caracterizado por la formación de cálculos en el tracto urinario debido a la cristalización de minerales en la orina?:",
+   "o": [
+    "Nefritis.",
+    "Glomerulonefritis.",
+    "Uropatía obstructiva.",
+    "Litiasis renal."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Se considera enfermedad definitoria de SIDA (Síndrome de Inmunodeficiencia Humana Adquirida):",
+   "o": [
+    "Candidiasis orofaríngea.",
+    "Linfadenopatia generalizada persistente.",
+    "Tuberculosis pulmonar o extrapulmonar.",
+    "Neuropatía periférica."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿En qué artículo de la Constitución Española viene reconocido el derecho a la protección de la salud?:",
+   "o": [
+    "Artículo 41.",
+    "Artículo 41.3.",
+    "Artículo 43.",
+    "Las respuestas A y C son correctas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de estos no es un síntoma de riesgo de sobrecarga en el cuidador?:",
+   "o": [
+    "Aumento del número de actividades y relaciones externas a la familia.",
+    "Estado de ánimo más bajo.",
+    "Consumo de antidepresivos y ansiolíticos.",
+    "Estrés: cansancio, insomnio, irritabilidad, frustración, etc."
+   ],
+   "a": 0
+  },
+  {
+   "q": "De las 4 fases evolutivas de Bowlby del proceso de duelo tras una muerte perinatal, ¿en cuál aparece la adjudicación de la culpa?:",
+   "o": [
+    "1ª fase. Choque o incredulidad.",
+    "2ª fase. Nostalgia o búsqueda.",
+    "3ª fase. Desorganización.",
+    "4ª fase. Reorganización."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Entre los derechos individuales del personal estatutario de los Servicios de Salud que figuran en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco, no se encuentra el derecho:",
+   "o": [
+    "A la movilidad voluntaria, promoción interna y desarrollo profesional, en la forma en que prevean las disposiciones en cada caso aplicables.",
+    "A la formación continuada adecuada a la función desempeñada y al reconocimiento de su cualificación profesional en relación a dichas funciones.",
+    "A ser informado de las funciones, tareas, cometidos, programación funcional y objetivos asignados a su unidad, centro o institución, y de los sistemas establecidos para la evaluación del cumplimiento de los mismos.",
+    "A la huelga, garantizándose en todo caso el mantenimiento de los servicios que resulten esenciales para la atención sanitaria a la población."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En un paciente con enfermedad de Crohn, indique la opción correcta:",
+   "o": [
+    "Los cólicos abdominales mejoran tras la ingesta.",
+    "Pueden aparecer abscesos abdominales y anales.",
+    "Se recomienda una dieta rica en residuo.",
+    "Tiene alivio tras defecación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Para conocer si el usuario es cumplidor del tratamiento farmacológico prescrito utilizaremos el test:",
+   "o": [
+    "Test de Washington.",
+    "Test de Arnell.",
+    "Test de Haynes-Sackett.",
+    "Test de Golberg."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La respuesta de Cushing se define como:",
+   "o": [
+    "Aumento de la presión sistólica, taquicardia y ampliación de la presión del pulso.",
+    "Bradicardia, ampliación de la presión del pulso y aumento de la presión sistólica.",
+    "Disminución de la presión sistólica, bradicardia y ampliación de la presión del pulso.",
+    "Ninguna de las opciones es correcta."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Ante un análisis DAFO de situación, podemos aplicar un CAME. ¿Qué significa la M?:",
+   "o": [
+    "Mejorar.",
+    "Mantener.",
+    "Mover.",
+    "Minimizar."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Al valorar el patrón respiratorio de un paciente, identifica un ciclo regular con aumento en la frecuencia y profundidad de las respiraciones alcanzando un nivel máximo y descendiendo después de forma gradual hasta llegar a la apnea. Este patrón respiratorio se denomina:",
+   "o": [
+    "Hiperventilación.",
+    "Kussmaul.",
+    "Cheyne –Stokes.",
+    "Biot."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La vacuna HZ/su (Shingrix®) está recomendada para (señale la opción incorrecta):",
+   "o": [
+    "Trasplante de progenitores hematopoyéticos (TPH) en los últimos 2 años a partir de 18 años de edad.",
+    "Trasplante de órgano sólido (TOS) con tratamiento inmunosupresor o personas que se encuentren en lista de espera para el mismo, a partir de 18 años de edad.",
+    "Hemopatías malignas, a partir de 18 años de edad.",
+    "Población general mayor de 65 años."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Dentro de las acciones biológicas de los estrógenos en el organismo, señale la opción incorrecta:",
+   "o": [
+    "Intervienen en el metabolismo del calcio y fósforo manteniendo la estructura del hueso y previniendo la osteoporosis.",
+    "Tienen una acción sedante sobre el miometrio produciendo relajación a nivel de la musculatura uterina.",
+    "Constituyen un factor protector de la enfermedad cardiovascular en la premenopausia.",
+    "Estimulan el desarrollo de los caracteres sexuales secundarios contribuyendo al reparto de la grasa corporal."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En el contexto de la ventilación mecánica, ¿qué ajuste se utiliza para controlar la cantidad de aire que entra en los pulmones durante la inspiración?:",
+   "o": [
+    "PEEP (presión positiva al final de la espiración).",
+    "FIO2 (fracción inspirada de oxígeno).",
+    "Volumen corriente.",
+    "Presión inspiratoria pico."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Sospechamos fractura en la base del cráneo si encontramos:",
+   "o": [
+    "Midriasis.",
+    "Signo de Battle.",
+    "Anisocoria.",
+    "Signo de Murphy."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Cuando definimos el NIC (del inglés Nursing Interventions Classification) “Ayuda para hacer frente a situaciones difíciles”, ¿en qué campo NIC lo clasificaríamos?:",
+   "o": [
+    "Fisiológico básico.",
+    "Fisiológico complejo.",
+    "Conductual.",
+    "Seguridad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En cuanto al síndrome de abstinencia del recién nacido, señale la opción incorrecta:",
+   "o": [
+    "El recién nacido presenta reflejos hiperactivos.",
+    "El recién nacido tiene un aumento del tono muscular.",
+    "Puede presentar fiebre.",
+    "El recién nacido tiene estreñimiento."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes hormonas es producida por las células alfa de los islotes de Langerhans en el páncreas?:",
+   "o": [
+    "Insulina.",
+    "Somatostatina.",
+    "Cortisol.",
+    "Glucagón."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según Martha Rogers, la persona se define como:",
+   "o": [
+    "Un ser biopsicosocial en constante interacción con un entorno cambiante.",
+    "Una interrelación entre factores psicológicos, fisiológicos, sociales, evolutivos y espirituales.",
+    "Un sistema abierto que interactúa constantemente con otro sistema abierto como el entorno.",
+    "Un ser con necesidades físicas, sociales y emocionales."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según el artículo 1.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria:",
+   "o": [
+    "Todos los españoles.",
+    "Todos los españoles y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional.",
+    "Todos los españoles, dentro y fuera del territorio nacional, y los ciudadanos extranjeros que tengan establecida su residencia en el territorio nacional.",
+    "Ninguna de las opciones es correcta."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Método químico de esterilización de material quirúrgico:",
+   "o": [
+    "Radiaciones ionizantes.",
+    "Flujo laminar.",
+    "Plasma de peróxido de hidrógeno.",
+    "Calor (húmedo o seco)."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Dentro del programa de salud bucodental de la región de Murcia, señale la opción incorrecta:",
+   "o": [
+    "Para que el niño sea beneficiario de este programa debe tener tarjeta sanitaria.",
+    "Pueden formar parte de este programa todos los niños hasta que cumplan 11 años de edad.",
+    "Hay dentistas públicos en las Unidades de Salud Bucodental de los centros de salud y dentistas que atienden en su consulta privada.",
+    "Los responsables del programa son la Consejería de Salud coordinada con el Colegio Oficial de Dentistas de Murcia."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, la atención primaria no comprenderá:",
+   "o": [
+    "La asistencia sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo.",
+    "La indicación o prescripción y la realización, en su caso, de procedimientos diagnósticos y terapéuticos.",
+    "Las actividades en materia de prevención, promoción de la salud, atención familiar y atención comunitaria.",
+    "La rehabilitación a pacientes con déficit funcional recuperable."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Al conjunto de medidas que tienen como objetivo mejorar la calidad de vida y el estado de salud de los individuos se denomina (señale la opción correcta):",
+   "o": [
+    "Prevención de la enfermedad.",
+    "Promoción de la salud.",
+    "Recuperación de la salud.",
+    "Asistencia sanitaria."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En una gasometría arterial, la prueba de Allen se realiza para:",
+   "o": [
+    "Saber cuál es la arteria más fácil de pinchar.",
+    "Diferenciar entre arteria y vena.",
+    "Saber a qué profundidad está la arteria.",
+    "Comprobar la circulación colateral, en caso de que pinchemos la arteria radial."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Sobre las notificaciones de sospechas de reacciones adversas a medicamentos por parte de profesionales sanitarios, señale la opción incorrecta:",
+   "o": [
+    "Comunicar el medicamento(s) sospechoso(s). El nombre del medicamento(s) que se sospecha que ha provocado la reacción. Si se sabe el nombre comercial, se debe comunicar la denominación completa (marca, concentración y presentación).",
+    "Gravedad de la reacción. Describir la reacción adversa incluyendo el diagnóstico, si procede.",
+    "Si se trata de una vacuna u otro medicamento biológico, el nombre de la marca comercial con la denominación completa y su número de lote y fecha de caducidad.",
+    "Mantener el anonimato del paciente según ley de protección de datos."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Las agujas que se utilizan para puncionar un reservorio se llaman:",
+   "o": [
+    "Punta lápiz.",
+    "Hubber.",
+    "Touhy.",
+    "Quincke."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Las patologías reumáticas y ósteo-articulares alteran con frecuencia el patrón funcional de salud:",
+   "o": [
+    "Patrón actividad ejercicio.",
+    "Patrón sueño – descanso.",
+    "Patrón autopercepción – autoconcepto.",
+    "Todas son verdaderas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Vacunación triple vírica en personas mayores de 18 años. Señale la opción incorrecta:",
+   "o": [
+    "Se recomienda la vacunación en personas nacidas en España a partir de 1970 sin historia de vacunación documentada.",
+    "Se recomienda la vacunación a personas no nacidas en España y sin documentación de vacunación previa.",
+    "Cuando proceda, se administrarán dos dosis de TV con un intervalo de al menos cuatro semanas entre dosis.",
+    "En caso de haberse administrado una dosis con anterioridad, se administrarán dos dosis si han pasado más de 3 años de su primovacunación."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En una ingurgitación mamaria con un edema importante, la actuación adecuada sería (señale la opción incorrecta):",
+   "o": [
+    "Se recomienda aplicar frío antes de la toma.",
+    "La ingurgitación suele ocurrir entre el tercer y quinto días después del parto.",
+    "Se recomienda una ducha tibia o caliente o compresas calientes y masaje antes de la toma.",
+    "El uso excesivo del sacaleches puede aumentar la congestión de la mama afectada."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Un paciente se encuentra ingresado a consecuencia de una pancreatitis aguda por litiasis biliar. ¿Cuál de las siguientes manifestaciones nos haría sospechar de un nuevo episodio de pancreatitis?:",
+   "o": [
+    "Dolor epigástrico irradiado a la espalda.",
+    "Hiperglucemia.",
+    "Esteatorrea y diarrea.",
+    "Distensión abdominal."
+   ],
+   "a": 0
+  },
+  {
+   "q": "El valor numérico que indica la diferencia entre el valor máximo y el mínimo de una población o muestra estadística se denomina:",
+   "o": [
+    "Varianza.",
+    "Desviación típica.",
+    "Rango.",
+    "Coeficiente de variación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué maniobra se usa si se sospecha una \"pseudohipertensión\"?:",
+   "o": [
+    "Wide.",
+    "Roller.",
+    "Osler.",
+    "Olsen."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué se entiende por efectividad en una intervención sanitaria?:",
+   "o": [
+    "Capacidad de una intervención para producir efectos medibles en salud cuando se aplica en condiciones y entornos reales o habituales de asistencia.",
+    "Relación entre los productos o resultados asistenciales y los recursos utilizados (o sus costes equivalentes).",
+    "Razón entre el nivel real de uso de un recurso y el máximo nivel teórico alcanzable.",
+    "Cantidad de unidades de producto o servicio obtenidas de la utilización de un recurso."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Durante la menopausia la hormona foliculoestimulante (FSH) se encuentra:",
+   "o": [
+    "Igual que en una mujer fértil.",
+    "Está elevada.",
+    "Se encuentra disminuida como mecanismo de feedback con los estrógenos.",
+    "Tiene variaciones dependiendo fundamentalmente de la raza."
+   ],
+   "a": 1
+  },
+  {
+   "q": "A la situación que se produce cuando las células diferenciadas pierden su organización estructural, lo llamamos:",
+   "o": [
+    "Anaplasia.",
+    "Displasia.",
+    "Hiperplasia.",
+    "Metaplasia."
+   ],
+   "a": 0,
+   "anulada": true
+  },
+  {
+   "q": "En la escala de Lawton y Brody (1969) no se valora:",
+   "o": [
+    "Ir a la compra.",
+    "Preparar la comida.",
+    "Capacidad de utilizar el dinero.",
+    "Subir y bajar escaleras."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Al realizar un estudio demográfico de una población hacemos el índice de Friz con un resultado superior a 160. ¿Cuál es la interpretación de este resultado?:",
+   "o": [
+    "La población estudio es joven.",
+    "La población estudio es vieja.",
+    "La población estudio es madura.",
+    "La población estudio es equitativa."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Referente a la deshidratación en el recién nacido, señale la opción incorrecta:",
+   "o": [
+    "Cuando la deshidratación es > al 15%, puede desencadenarse shock hipovolémico.",
+    "Una deshidratación de más del 10% ya se considera grave.",
+    "La deshidratación se produce por la pérdida de agua y disminución de peso.",
+    "En la deshidratación leve la pérdida de agua es de 5-10%."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En cuanto a la quimioterapia, indique la opción incorrecta:",
+   "o": [
+    "Puede ser curativa, paliativa o coadyuvante.",
+    "Los fármacos citostáticos son específicos para células tumorales.",
+    "Puede producir alteraciones cutáneas.",
+    "Afecta significativamente los precursores sanguíneos de la medula ósea."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La formación continua debe ser entendida como:",
+   "o": [
+    "Un compromiso de los profesionales para mantener actualizada su competencia profesional.",
+    "Una motivación añadida, que posibilita la actualización de la competencia profesional.",
+    "Un proceso dinámico y permanente de desarrollo de la profesionalidad.",
+    "Todas las opciones son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál es la causa más frecuente de hemorragia postparto?:",
+   "o": [
+    "Trauma en el canal del parto.",
+    "Retención de restos placentarios.",
+    "Atonía uterina.",
+    "Alteraciones en la coagulación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De los siguientes alimentos, ¿cuál no debe comer un celíaco?:",
+   "o": [
+    "Frutos secos crudos.",
+    "Las hamburguesas y salchichas elaboradas en la carnicería.",
+    "Huevos.",
+    "Leche."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La tasa bruta de natalidad hace referencia al número de nacimientos vivos:",
+   "o": [
+    "Durante un año, dividido por las mujeres en edad fértil de ese año por 1000.",
+    "Durante un año, dividido por la población total media de ese año por 1000.",
+    "Durante un año, dividido por el número total de mujeres de ese año por 1000.",
+    "Durante un año, dividido por el número total de niños de ese año por 1000."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el Anexo III del Real Decreto 1030/2006, de 15 de septiembre, en la prestación de atención especializada, la hospitalización en régimen de internamiento que se presta a pacientes que requieran cuidados continuados que lo precisen, comprende:",
+   "o": [
+    "La asistencia médica, quirúrgica, obstétrica y pediátrica o la realización de tratamientos o procedimientos diagnósticos.",
+    "La asistencia médica y quirúrgica o la realización de tratamientos o procedimientos diagnósticos.",
+    "La asistencia médica, quirúrgica, obstétrica y pediátrica.",
+    "La asistencia médica, quirúrgica, obstétrica y pediátrica o la realización de tratamientos o procedimientos en régimen ambulatorio."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En referencia a la escala de sobrecarga del cuidador de ZARIT, si obtenemos un resultado de 46 puntos, nos indicará:",
+   "o": [
+    "No existe sobrecarga.",
+    "Sobrecarga intensa.",
+    "Sobrecarga leve.",
+    "Cuidador desbordado."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Entre los síntomas de una úlcera venosa no se incluye:",
+   "o": [
+    "Prurito.",
+    "Dolor al elevar el miembro.",
+    "Pesadez.",
+    "Hormigueo."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Prescripción enfermera. Señale la opción incorrecta:",
+   "o": [
+    "La Ley de garantías y uso racional de los medicamentos y productos sanitarios, confiere a los enfermeros la facultad para, de forma autónoma, indicar, usar y autorizar la dispensación de todos aquellos medicamentos no sujetos a prescripción médica y los productos sanitarios de uso humano.",
+    "El objetivo de elaborar guías es definir los medicamentos, sujetos a prescripción médica, que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación en determinadas situaciones y de forma protocolizada, ya sea para iniciar su uso, modificar la pauta, prorrogar o suspender el tratamiento, en un trabajo colaborativo.",
+    "Se han publicado guías de Enfermería de práctica clínica y asistencial para la indicación, uso y autorización de dispensación por parte de los enfermeros de medicamentos sujetos a prescripción médica en casos de heridas, hipertensión, diabetes mellitus tipo 1 y tipo 2, quemaduras y ostomías.",
+    "Las/los enfermeras/os, en el ejercicio de su actividad profesional, podrán indicar, usar y autorizar la dispensación de medicamentos sujetos a prescripción médica y de productos sanitarios de uso humano, de forma autónoma."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación a la enfermedad de Alzheimer, señale la opción incorrecta:",
+   "o": [
+    "Los cambios cerebrales son visibles en la corteza cerebral.",
+    "Según la OMS, a nivel global afecta más a hombres que a mujeres.",
+    "Es un trastorno degenerativo que afecta a las células cerebrales.",
+    "Aparecen lesiones microscópicas en el tejido cerebral."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Vacuna triple vírica. Señale la opción correcta:",
+   "o": [
+    "La alergia al huevo supone una contraindicación relativa para recibir la vacuna triple vírica.",
+    "En caso de alergia al huevo, es necesario realizar pruebas cutáneas previas con la vacuna.",
+    "Para los nacidos a partir del 1 de enero de 2020, la segunda dosis se administra como vacuna combinada (sarampión, rubeola, parotiditis y varicela).",
+    "La mayoría de las reacciones alérgicas graves tras la recepción de la vacuna ocurren generalmente en personas alérgicas a algún otro componente de la vacuna como gelatina o antibióticos."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Una mujer adolescente que está amamantando pide anticonceptivos. ¿Cuál estaría indicado?:",
+   "o": [
+    "Anticoncepción hormonal oral (AHO).",
+    "DIU.",
+    "Anillo vaginal.",
+    "Píldora con gestágeno únicamente."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale en qué etapa del proceso enfermero se recopilan los datos, pudiendo posteriormente poder identificar y tratar los problemas de enfermería del individuo:",
+   "o": [
+    "Diagnóstico.",
+    "Planificación.",
+    "Valoración.",
+    "Evaluación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de estas enfermedades neumológicas no cursan con la presencia de sibilancias?:",
+   "o": [
+    "Edema agudo de pulmón.",
+    "Bronquitis crónica.",
+    "Neumotórax.",
+    "Asma."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de las siguientes medidas es fundamental para prevenir la hipotermia intraoperatoria en un paciente quirúrgico?:",
+   "o": [
+    "Administrar anestesia tibia.",
+    "Utilizar mantas térmicas o dispositivos de calentamiento.",
+    "Mantener el quirófano a una temperatura elevada.",
+    "Administrar una sobredosis de medicamentos vasodilatadores."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Dentro de las teorías de desarrollo de la conducta humana, señale la opción incorrecta:",
+   "o": [
+    "Teorías psicodinámicas: Freud y Erikson.",
+    "Teorías biológicas: Arnold Gessel.",
+    "Teorías cognitivas: Vygotsky.",
+    "Teorías humanísticas: Maslow y Rogers."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es el objetivo principal del tratamiento de la acidosis metabólica en pacientes críticos?:",
+   "o": [
+    "Corregir el pH sanguíneo.",
+    "Mejorar la función renal.",
+    "Reducir la retención de líquidos.",
+    "Reducir la inflamación."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Vacunación antineumocócica. Vacuna antineumocócica conjugada 20-valente (PCV20) y vacuna polisacárida 23-valente (PPV23). Señale la opción incorrecta:",
+   "o": [
+    "Se dispone de cuatro vacunas antineumocócicas autorizadas.",
+    "Las personas vacunadas con dos dosis de vacuna antineumocócica polisacárida 23-valente (PPV23) separadas por 5 años, que hayan recibido la última dosis a partir de los 65 años, no precisarán más dosis de vacuna antineumocócica.",
+    "La vacuna PCV20 no está autorizada por ficha técnica en menores de 18 años.",
+    "A partir de octubre de 2022, se sustituye la vacuna antineumocócica conjugada 20-valente (PPV23) por la PCV20 en personas a los 60 años de edad."
+   ],
+   "a": 3,
+   "anulada": true
+  },
+  {
+   "q": "Una de las siguientes NO es una característica del Modelo de Acreditación para la formación y la docencia:",
+   "o": [
+    "Alineado con las estrategias y elementos de gestión del Sistema Sanitario.",
+    "Orientado a todos los agentes del Sistema Sanitario (públicos y privados).",
+    "Establece un plan de mejora lineal hacia la consecución de estándares.",
+    "Trata todas las áreas de acreditación desde la misma perspectiva (la de la mejora y la garantía de los servicios que se prestan al ciudadano)."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué es la gestión de casos?:",
+   "o": [
+    "La contratación de una entidad privada para planificar los objetivos y coste de una patología determinada.",
+    "Es un modelo organizativo mixto, de carácter privado y público, que analiza los casos más demandados de salud en un área sanitaria para posteriormente proceder a su planificación y organización.",
+    "Es la coordinación sistemática de la atención que se presta a grupos específicos de pacientes durante un episodio de cuidados.",
+    "Es el cómputo del coste de un plan de cuidados en cualquier organización sanitaria."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Una mujer de 18 años llega a la puerta de urgencias por una agresión sexual. Dentro de las actuaciones de enfermería, señale la opción incorrecta:",
+   "o": [
+    "Colaborar con la forense en el examen físico y entrevista para recogida de datos.",
+    "Colaborar en la recogida de cultivos y muestras según protocolo del hospital.",
+    "Pasar un acompañante siempre para que la mujer esté acompañada.",
+    "Tener una actitud de escucha, a veces silencio, protegiendo la intimidad de la mujer."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de las siguientes enfermedades es de declaración urgente con envío de datos epidemiológicos básicos?:",
+   "o": [
+    "Varicela.",
+    "Lepra.",
+    "Fiebre amarilla.",
+    "Paludismo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Dentro de las contraindicaciones absolutas de los anticonceptivos hormonales combinados (AHC), señale la que no correspondería:",
+   "o": [
+    "Tumores hormonodependientes.",
+    "Trombofilia familiar diagnosticada.",
+    "Varices severas.",
+    "Hiperlipemia severa."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En la ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, se definen las Instrucciones Previas:",
+   "o": [
+    "El documento en el que cualquier persona, capaz y libre, manifiesta anticipadamente su voluntad, con objeto de que ésta se cumpla en el momento en que llegue a situaciones en cuyas circunstancias no sea capaz de expresarlos personalmente, sobre los cuidados y el tratamiento de su salud o, una vez llegado el fallecimiento, sobre el destino de su cuerpo o de los órganos del mismo.",
+    "El documento en el que el representante legal de una persona mayor de edad, incapacitada, manifiesta la voluntad de ésta, con objeto de que ésta se cumpla en circunstancias especiales, sobre los cuidados y el tratamiento de su salud o, una vez llegado el fallecimiento, sobre el destino del cuerpo o de los órganos del mismo.",
+    "El documento en el que una persona mayor de edad, capaz y libre, manifiesta anticipadamente su voluntad, con objeto de que ésta se cumpla en el momento en que llegue a situaciones en cuyas circunstancias no sea capaz de expresarlos personalmente, sobre los cuidados y el tratamiento de su salud o, una vez llegado el fallecimiento, sobre el destino de su cuerpo o de los órganos del mismo.",
+    "Ninguna de las opciones es correcta."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En cuanto al Índice de Pearl, señale la opción incorrecta:",
+   "o": [
+    "Implante subcutáneo: Índice de Pearl 0.08.",
+    "Anillo vagina l: Índice de Pearl 1,23.",
+    "DIU levonorgestrel: Índice de Pearl 0,1.",
+    "Píldora solo gestágena: Índice de Pearl 2,1."
+   ],
+   "a": 3,
+   "anulada": true
+  },
+  {
+   "q": "¿Cuál es el tratamiento inicial de elección en un paciente con una úlcera péptica sangrante que presenta signos de shock hipovolémico?:",
+   "o": [
+    "Endoscopia terapéutica.",
+    "Antibióticos de amplio espectro.",
+    "Infusión de solución salina.",
+    "Cirugía de emergencia."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En la Estrategia de Salud Pública 2022, Línea Estratégica 3: Mejorar la salud y el bienestar de la población a través de la prevención de enfermedades, la promoción de estilos de vida y el fomento de entornos saludables, seguros y sostenibles, tiene como metas las siguientes, excepto una. Señálela:",
+   "o": [
+    "Mejorar las condiciones de vida, el bienestar y salud de la población.",
+    "Contribuir a crear entornos saludables, salutogénicos, seguros, sostenibles y libres de discriminación y violencia.",
+    "Promover los estilos de vida saludables, seguros y sostenibles y fomentar acciones para que las opciones más saludables sean las más fáciles de realizar para la población.",
+    "Asegurar y facilitar la rehabilitación e inserción social."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Qué es la ventilación mecánica no invasiva?:",
+   "o": [
+    "Un dispositivo que ayuda a respirar al paciente mediante la inserción de un tubo en la tráquea.",
+    "Un dispositivo que ayuda a respirar al paciente mediante una máscara facial o nasal.",
+    "Un dispositivo que ayuda a respirar al paciente mediante cánula traqueal.",
+    "Un dispositivo que ayuda a respirar al paciente mediante la inserción de un tubo en la nariz."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Con respecto al sondaje nasogástrico, señale la opción incorrecta:",
+   "o": [
+    "Su uso está indicado para prevenir la broncoaspiración en pacientes intubados.",
+    "Está recomendada en pacientes con esófago obstruido o perforación esofágica.",
+    "Se usa para alimentar a un paciente cuando no puede por vía oral.",
+    "Está indicado su uso para aliviar y/o prevenir la distensión gástrica en caso de posible obstrucción intestinal."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique cómo se denomina al fallo en el reconocimiento o identificación de objetos que puede aparecer en la demencia tipo Alzheimer:",
+   "o": [
+    "Agnosia.",
+    "Apraxia.",
+    "Afasia.",
+    "Ataxia."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Señale cuál es un método cualitativo para la identificación de problemas en la planificación sanitaria:",
+   "o": [
+    "Método Hanlon.",
+    "Diagrama de Pareto.",
+    "Técnica de regresión.",
+    "Técnica Delphi."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Durante la gestación se producen los siguientes cambios (señale la opción incorrecta):",
+   "o": [
+    "Aumento del volumen plasmático, aumento del volumen globular.",
+    "Aumento del volumen de sangre total.",
+    "El tapón mucoso de Hoffmeir obtura el canal cervical impidiendo el acceso de gérmenes.",
+    "Disminución de la velocidad de sedimentación (VSG)."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El artículo 22 del Código Deontológico de la Enfermería española regula:",
+   "o": [
+    "La objeción de conciencia.",
+    "El consentimiento informado.",
+    "El secreto profesional.",
+    "El derecho de los niños."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Respecto a las enfermedades de trasmisión sexual, señale la opción incorrecta:",
+   "o": [
+    "En el cribado de la sífilis prenatal se emplean pruebas reagínicas como RPR.",
+    "La aparición de “células clue” induce a pensar en una infección por Gardnerella Vaginalis.",
+    "La infección por sífilis está producida por el Treponema Pallidum.",
+    "La gonorrea está producida por el virus Neisseria Gonorrhoeae."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En inferencia estadística, el valor de p es un valor de probabilidad, por lo que puede oscilar entre:",
+   "o": [
+    "0 y 1.",
+    "0 y 10.",
+    "0 y 100.",
+    "0 y 1000."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Una dieta sana en el adulto incluye lo siguiente:",
+   "o": [
+    "Las grasas no deberían superar el 50% de la ingesta calórica total.",
+    "Limitar el consumo de azúcar libre a menos del 15% de la ingesta calórica total.",
+    "Mantener el consumo de sal por debajo de 15 gramos diarios.",
+    "Al menos 400 g (o sea, cinco porciones) de frutas y hortalizas al día."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Estratificación de la Población por Grupos de Morbilidad Ajustados (GMA). Señale la opción incorrecta:",
+   "o": [
+    "Su estructura tiene en cuenta dos factores: la multimorbilidad y la complejidad.",
+    "Cada grupo de morbilidad (excepto en población sana) se divide, de manera independiente, en 5 subgrupos o niveles de complejidad.",
+    "Se clasifican 31 grupos de morbilidad ajustados (GMA) resultantes de la combinación de los grupos de morbilidad y el nivel de complejidad.",
+    "Los grupos de morbilidad donde se clasifica a los usuarios no tienen en cuenta las enfermedades agudas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál es el objetivo principal de la terapia de presión negativa (NPWT, por sus siglas en inglés) en el manejo de heridas?:",
+   "o": [
+    "Promover la formación de tejido de granulación.",
+    "Reducir la inflamación.",
+    "Evitar el desbridamiento.",
+    "Inmovilizar la herida."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Serían indicaciones de la visita domiciliaria por parte del profesional sanitario:",
+   "o": [
+    "Usuarios en situación terminal que desean permanecer en su domicilio.",
+    "Si hay que tomar decisiones sobre su institucionalización.",
+    "Si existen barreras arquitectónicas.",
+    "En todos los casos está indicada."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El test más conocido y usado para medir la motivación para dejar de fumar es:",
+   "o": [
+    "Test de Fagerstron.",
+    "Test de Glover-Nilsson.",
+    "Test de Richmond.",
+    "Ninguno de la anteriores es correcto."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señale cuál de las siguientes opciones no es un patrón funcional de M. Gordon:",
+   "o": [
+    "Actividad – Ejercicio.",
+    "Sueño – Descanso.",
+    "Valores y creencias.",
+    "Control del entorno."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Qué anticoncepción oral es la más adecuada en la mujer menopaúsica y hasta cuando mantenerla (señale la opción incorrecta)?:",
+   "o": [
+    "Está recomendada la anticoncepción oral con una dosis alta de etinilestradiol.",
+    "En la práctica clínica la AHO reduce los síntomas asociados a menopausia.",
+    "La formulación más adecuada es aquella con la dosis más baja de etinilestradiol que proporcione un adecuado control del ciclo.",
+    "Se aconseja mantener la anticoncepción hasta los 50 años."
+   ],
+   "a": 0
+  },
+  {
+   "q": "El mapa sanitario de la Región de Murcia se ordena en demarcaciones territoriales denominadas:",
+   "o": [
+    "Equipos de Atención Primaria.",
+    "Zonas Básicas de Salud.",
+    "Áreas de Salud.",
+    "Servicios de Salud."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Dentro de la clasificación de epilepsias, según los rasgos clínicos del ataque epiléptico, señale la opción correcta:",
+   "o": [
+    "Gran mal, pequeño mal.",
+    "Jacksoniana y focal.",
+    "Miscelánea.",
+    "Todas las opciones son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La administración de flujos altos de O2 en pacientes con EPOC:",
+   "o": [
+    "Es beneficioso pues mejora la hipoxemia.",
+    "Puede elevar el nivel de oxígeno en la sangre y desaparece la disnea.",
+    "Elimina el estímulo de la respiración en estos pacientes.",
+    "Ninguna es cierta."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación al término MET (Unidad Metabólica de Reposo), señale la opción correcta:",
+   "o": [
+    "Un MET se define como el costo energético de estar sentado tranquilamente y es equivalente a un consumo de 1 kcal/kg/h.",
+    "El MET es la unidad de medida del índice metabólico y corresponde a 3,5 ml O2/kg x min.",
+    "Los METs se emplean para comparar el coste energético de distintas actividades.",
+    "Todas la opciones son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes hormonas es esencial para el mantenimiento de los niveles adecuados de calcio en el organismo?:",
+   "o": [
+    "Insulina.",
+    "Tiroxina (T4).",
+    "Parathormona (PTH).",
+    "Adrenalina."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Entre las actividades a tener en cuenta con un paciente con trombocitopenia, no se encuentra la de:",
+   "o": [
+    "Explicar signos y complicaciones que deban comunicarse.",
+    "Examinar regularmente las secreciones para detectar presencia de sangrado.",
+    "Aplicar calor local en caso de sangrado activo.",
+    "Realizar higiene bucal con mínima fricción y cepillo blando."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La Enfermería Basada en la Evidencia (EBE) consta de una serie de etapas. Señale cuál es la primera etapa:",
+   "o": [
+    "Búsqueda de evidencias.",
+    "Implementación de los cambios propuestos.",
+    "Formulación de una pregunta relacionada con un problema o incertidumbre de la práctica.",
+    "Evaluación crítica de los cambios."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Dentro de las complicaciones que pueden darse en los trastornos de conducta alimentaria (TCA) en la adolescencia, señale la opción correcta:",
+   "o": [
+    "Anemia.",
+    "Aumento de la hormona de crecimiento (GH).",
+    "Aumento de cortisol.",
+    "Todas las opciones son correctas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el artículo 48 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, para concurrir a exámenes finales y demás pruebas definitivas de aptitud, ¿tendrán derecho a permiso los funcionarios públicos?:",
+   "o": [
+    "Sí, en los términos que se determine.",
+    "Sí, durante los días de su celebración.",
+    "Sí, durante las horas de su celebración.",
+    "Sí, durante el tiempo imprescindible."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el artículo 31 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, se entenderá como «Servicio de Prevención»:",
+   "o": [
+    "Conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes y a los órganos de representación especializados.",
+    "Conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario y a los trabajadores.",
+    "Conjunto de medios humanos y materiales necesarios para realizar las actividades preventivas a fin de garantizar la adecuada protección de la seguridad y la salud de los trabajadores, asesorando y asistiendo para ello al empresario, a los trabajadores y a sus representantes.",
+    "Ninguna de las anteriores es correcta."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Métodos de exploración e investigación de Activos Comunitarios en Salud. Una reunión de un grupo de personas conducida por una persona del grupo de activos en salud, en la que, sobre un mapa de las calles del barrio o de la zona de referencia que inicialmente está vacío, se tiene que llenar con todos los activos identificados, nos referimos a:",
+   "o": [
+    "Paseos comunitarios.",
+    "Photovoice.",
+    "Mapeo directo de activos.",
+    "Grupos de discusión/expertos, grupos focales."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Una puntuación de 5 en la escala de Pfeiffer significa:",
+   "o": [
+    "El usuario tiene un riesgo nutricional moderado.",
+    "El usuario presenta un deterioro cognitivo.",
+    "El usuario tiene buen soporte familiar.",
+    "El usuario presenta sintomatología respiratoria en reposo."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El lavado gástrico está contraindicado en:",
+   "o": [
+    "Ingesta de cáusticos.",
+    "Disminución del reflejo de tos/vómito.",
+    "Ingesta de derivados del petróleo.",
+    "A y B son correctas."
+   ],
+   "a": 3,
+   "anulada": true
+  },
+  {
+   "q": "Señale la opción correcta sobre el proceso enfermero:",
+   "o": [
+    "El uso del proceso enfermero es la base del pensamiento crítico.",
+    "El proceso enfermero únicamente sirve para la planificación y documentación formal de los cuidados.",
+    "El proceso enfermero es un proceso lineal que comienza con la valoración y finaliza con la evaluación.",
+    "En el proceso enfermero no se debe aplicar el pensamiento crítico de cada profesional."
+   ],
+   "a": 0
+  },
+  {
+   "q": "De entre las manifestaciones que se pueden dar en el contexto de la violencia de género, cuando se alude al maltrato contra terceros, como pueden ser las hijas e hijos, con el propósito de dañar y herir a la mujer, hablamos de:",
+   "o": [
+    "Violencia física.",
+    "Violencia económica.",
+    "Violencia vicaria.",
+    "Violencia psicológica."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Una medición del perímetro abdominal en la mujer de 90 cm, indica un nivel de riesgo cardiovascular:",
+   "o": [
+    "Normal.",
+    "Riesgo elevado.",
+    "Bajo riesgo.",
+    "Riesgo muy elevado."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La cadena epidemiológica está formada por:",
+   "o": [
+    "Fuente infección.",
+    "Mecanismo de transmisión.",
+    "Huésped receptivo.",
+    "Todas las opciones anteriores son correctas."
+   ],
+   "a": 3
+  }
+ ]
+}

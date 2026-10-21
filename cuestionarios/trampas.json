@@ -1,0 +1,601 @@
+{
+ "id": "trampas",
+ "titulo": "Preguntas trampa y detalles de la práctica diaria",
+ "descripcion": "Los detalles que no vienen en ningún tema pero caen: colores de tubos, tapones, catéteres, agujas, sondas, jeringas y gases, orden de extracción, cifras de papel de ECG, conservación y técnica menuda.",
+ "preguntas": [
+  {
+   "q": "El tubo de tapón azul claro que se usa para las pruebas de coagulación lleva en su interior:",
+   "o": [
+    "EDTA K3",
+    "Fluoruro sódico y oxalato potásico",
+    "Heparina de litio",
+    "Citrato sódico al 3,2 %"
+   ],
+   "a": 3,
+   "e": "Tapón azul claro = citrato sódico 3,2 % (0,109 M) en proporción sangre/anticoagulante 9:1. Sirve para TP/INR, TTPA, fibrinógeno y dímero D. Fue pregunta del EIR."
+  },
+  {
+   "q": "La proporción sangre:anticoagulante del tubo de coagulación (tapón azul) es:",
+   "o": [
+    "1:4",
+    "4:1",
+    "1:1",
+    "9:1"
+   ],
+   "a": 3,
+   "e": "9 partes de sangre por 1 de citrato (9:1). Por eso hay que llenarlo exactamente hasta la marca: un tubo poco lleno alarga falsamente los tiempos de coagulación."
+  },
+  {
+   "q": "El tubo de tapón morado (lila) contiene:",
+   "o": [
+    "Citrato sódico",
+    "Heparina de litio",
+    "Activador de la coagulación",
+    "EDTA"
+   ],
+   "a": 3,
+   "e": "Morado = EDTA (K2 o K3): quela el calcio. Se usa para el hemograma, la HbA1c y la carga viral. El tubo rosa también lleva EDTA y se reserva para el banco de sangre (grupo y pruebas cruzadas)."
+  },
+  {
+   "q": "Para determinar la glucemia en una muestra que tardará en llegar al laboratorio, el tubo indicado es el de tapón:",
+   "o": [
+    "Gris (fluoruro sódico + oxalato potásico)",
+    "Verde (heparina de litio)",
+    "Rojo (sin aditivo)",
+    "Morado (EDTA)"
+   ],
+   "a": 0,
+   "e": "El fluoruro inhibe la glucólisis de las células sanguíneas (si no, la glucosa baja ≈ 5-7 %/h) y el oxalato anticoagula. También se usa para el lactato y la alcoholemia."
+  },
+  {
+   "q": "El tubo de tapón verde lleva:",
+   "o": [
+    "EDTA",
+    "Heparina (de litio o de sodio)",
+    "Citrato sódico al 3,8 %",
+    "Gel separador sin anticoagulante"
+   ],
+   "a": 1,
+   "e": "Verde = heparina. Da plasma para bioquímica urgente sin esperar a que coagule. La jeringa de gasometría también lleva heparina de litio."
+  },
+  {
+   "q": "La velocidad de sedimentación globular (VSG) se determina en el tubo de tapón negro, que lleva citrato sódico en proporción:",
+   "o": [
+    "9:1",
+    "1:1",
+    "No lleva anticoagulante",
+    "4:1"
+   ],
+   "a": 3,
+   "e": "VSG (Westergren): citrato sódico en proporción 4:1 (4 de sangre por 1 de citrato), tapón negro. No confundir con el azul de coagulación (9:1)."
+  },
+  {
+   "q": "El tubo de tapón amarillo/dorado (o rojo con gel) se caracteriza por llevar:",
+   "o": [
+    "Activador de la coagulación y gel separador para obtener suero",
+    "Heparina y gel para obtener plasma",
+    "EDTA y gel",
+    "Citrato y gel"
+   ],
+   "a": 0,
+   "e": "Tubo de suero: activador (micropartículas de sílice) que acelera la coagulación y gel que separa el suero del coágulo al centrifugar. Bioquímica, serología, hormonas, marcadores. Hay que dejarlo coagular ≈ 30 min antes de centrifugar."
+  },
+  {
+   "q": "Según el orden de extracción recomendado (CLSI) con sistema de vacío, ¿qué se extrae en primer lugar?",
+   "o": [
+    "Tubo de suero",
+    "Tubo de EDTA",
+    "Tubo de citrato",
+    "Frascos de hemocultivo"
+   ],
+   "a": 3,
+   "e": "Orden: hemocultivos → citrato (azul) → suero con o sin gel (rojo/amarillo) → heparina (verde) → EDTA (morado) → fluoruro/oxalato (gris). Así se evita contaminar la muestra estéril y arrastrar aditivos de un tubo a otro."
+  },
+  {
+   "q": "En el orden de extracción, el tubo de EDTA va siempre después del de suero y del de heparina porque:",
+   "o": [
+    "Es el que más sangre necesita",
+    "El EDTA arrastrado a otros tubos quela el calcio y da hipocalcemia e hiperpotasemia falsas",
+    "El EDTA activa la coagulación del resto",
+    "Es el tubo menos importante"
+   ],
+   "a": 1,
+   "e": "La contaminación por EDTA K2/K3 da potasio falsamente alto y calcio falsamente bajo en la bioquímica. Por eso el morado va casi al final, solo antes del gris."
+  },
+  {
+   "q": "Si se extrae con palomilla y el primer tubo es el de coagulación (citrato), se debe:",
+   "o": [
+    "Usar antes un tubo de purga (descarte) para eliminar el aire del tubo de la palomilla",
+    "Extraerlo el último",
+    "Llenarlo hasta la mitad",
+    "Agitarlo enérgicamente después"
+   ],
+   "a": 0,
+   "e": "El aire del alargador de la palomilla ocupa volumen: el tubo de citrato quedaría poco lleno y se alteraría la proporción 9:1. Se purga con un tubo de descarte sin aditivo (o de citrato) que se desecha."
+  },
+  {
+   "q": "Tras llenar un tubo de citrato para coagulación se debe:",
+   "o": [
+    "Invertirlo suavemente 3-4 veces",
+    "Agitarlo con fuerza 10 veces",
+    "No moverlo",
+    "Invertirlo 15-20 veces"
+   ],
+   "a": 0,
+   "e": "Inversiones suaves, nunca agitar (hemólisis): citrato 3-4; suero 5; heparina, EDTA y fluoruro 8-10."
+  },
+  {
+   "q": "El tiempo máximo recomendado de compresión con el torniquete durante la venopunción es de:",
+   "o": [
+    "3 minutos",
+    "5 minutos",
+    "30 segundos exactos",
+    "1 minuto"
+   ],
+   "a": 3,
+   "e": "Más de 1 minuto produce hemoconcentración (proteínas, potasio, calcio, hematocrito falsamente altos). Tampoco se debe pedir al paciente que abra y cierre el puño repetidamente (sube el potasio)."
+  },
+  {
+   "q": "En la extracción de hemocultivos con sistema de vacío y palomilla, se llena primero el frasco:",
+   "o": [
+    "Anaerobio",
+    "Aerobio",
+    "Indistintamente",
+    "Pediátrico"
+   ],
+   "a": 1,
+   "e": "Con palomilla primero el aerobio (el aire del alargador va a parar a él). Con jeringa, primero el anaerobio (para que no le entre aire)."
+  },
+  {
+   "q": "Un catéter venoso periférico de color verde corresponde al calibre:",
+   "o": [
+    "16 G",
+    "18 G",
+    "20 G",
+    "22 G"
+   ],
+   "a": 1,
+   "e": "Códigos de color: 14 G naranja, 16 G gris, 18 G verde, 20 G rosa, 22 G azul, 24 G amarillo, 26 G violeta. A menor número de Gauge, mayor calibre."
+  },
+  {
+   "q": "El catéter periférico de mayor calibre de los siguientes es el:",
+   "o": [
+    "Rosa",
+    "Azul",
+    "Amarillo",
+    "Naranja"
+   ],
+   "a": 3,
+   "e": "Naranja = 14 G, el más grueso de uso habitual (politraumatizado, shock, transfusión masiva). Azul es 22 G y amarillo 24 G (neonatos)."
+  },
+  {
+   "q": "El cono de la aguja hipodérmica de 23 G (habitual para la vía IM en el deltoides de un adulto delgado o la SC) es de color:",
+   "o": [
+    "Verde",
+    "Negro",
+    "Naranja",
+    "Azul"
+   ],
+   "a": 3,
+   "e": "Agujas (ISO 6009): 21 G verde, 22 G negro, 23 G azul, 25 G naranja, 27 G gris, 18 G rosa. La naranja (25 G) es la subcutánea; la gris (27 G), la intradérmica."
+  },
+  {
+   "q": "La aguja que se suele usar para la vía intradérmica (Mantoux) es la:",
+   "o": [
+    "Gris, 27 G",
+    "Verde, 21 G",
+    "Negra, 22 G",
+    "Rosa, 18 G"
+   ],
+   "a": 0,
+   "e": "Intradérmica: aguja fina 26-27 G, bisel hacia arriba, ángulo de 10-15° y pápula visible. En el Mantoux se inyectan 0,1 ml (2 UT de PPD RT-23)."
+  },
+  {
+   "q": "En la escala French (Charrière), una sonda de 18 Fr mide de diámetro externo:",
+   "o": [
+    "6 mm",
+    "1,8 mm",
+    "18 mm",
+    "3 mm"
+   ],
+   "a": 0,
+   "e": "1 Fr = 0,33 mm → 18 Fr ≈ 6 mm. A mayor número French, mayor calibre (al revés que el Gauge)."
+  },
+  {
+   "q": "El código de color habitual de la válvula de una sonda Foley de 16 Fr es:",
+   "o": [
+    "Verde",
+    "Naranja",
+    "Rojo",
+    "Blanco"
+   ],
+   "a": 1,
+   "e": "Sondas vesicales: 12 Fr blanco, 14 Fr verde, 16 Fr naranja, 18 Fr rojo, 20 Fr amarillo, 22 Fr violeta. En la mujer adulta se usa habitualmente 14-16 Fr."
+  },
+  {
+   "q": "Según la norma ISO de etiquetado de jeringas en anestesia, las jeringas de opioides (fentanilo, morfina) llevan etiqueta de color:",
+   "o": [
+    "Rojo fluorescente",
+    "Amarillo",
+    "Violeta",
+    "Azul"
+   ],
+   "a": 3,
+   "e": "Inductores amarillo; benzodiacepinas naranja; relajantes musculares rojo fluorescente; opioides azul; vasopresores violeta; anestésicos locales gris; anticolinérgicos verde. Los antagonistas llevan rayas blancas sobre el color del grupo que revierten."
+  },
+  {
+   "q": "La etiqueta de la jeringa de rocuronio (relajante muscular) es de color:",
+   "o": [
+    "Rojo fluorescente",
+    "Gris",
+    "Verde",
+    "Azul con rayas blancas"
+   ],
+   "a": 0,
+   "e": "Relajantes musculares: rojo fluorescente. Su reversor (sugammadex, neostigmina) va en rojo con rayas blancas."
+  },
+  {
+   "q": "La etiqueta de la jeringa de naloxona (antagonista opioide) es:",
+   "o": [
+    "Azul liso",
+    "Rojo con rayas blancas",
+    "Azul con rayas blancas",
+    "Amarillo"
+   ],
+   "a": 2,
+   "e": "Los antagonistas llevan el color del grupo que antagonizan con rayas blancas: naloxona → azul con rayas blancas; flumazenilo → naranja con rayas blancas."
+  },
+  {
+   "q": "En las botellas de gases medicinales (norma UNE-EN 1089-3), la ojiva del oxígeno es de color:",
+   "o": [
+    "Verde",
+    "Azul",
+    "Negro",
+    "Blanco"
+   ],
+   "a": 3,
+   "e": "Oxígeno: ojiva blanca. Protóxido de nitrógeno: azul. Aire medicinal: blanco y negro. CO₂: gris. Nitrógeno: negro. Helio: marrón. Mezcla O₂/N₂O al 50 %: blanco y azul. El cuerpo de las botellas medicinales es blanco. El antiguo «verde para el oxígeno» ya no es válido."
+  },
+  {
+   "q": "La botella de aire medicinal tiene la ojiva de color:",
+   "o": [
+    "Blanco y negro",
+    "Gris",
+    "Azul y blanco",
+    "Marrón"
+   ],
+   "a": 0,
+   "e": "Aire medicinal: cuartos alternos blancos y negros (mezcla de O₂ = blanco y N₂ = negro)."
+  },
+  {
+   "q": "En el electrocardiograma de 12 derivaciones, el electrodo de miembro de color rojo se coloca en:",
+   "o": [
+    "Pierna izquierda",
+    "Brazo derecho",
+    "Brazo izquierdo",
+    "Pierna derecha"
+   ],
+   "a": 1,
+   "e": "Código europeo (IEC): rojo brazo derecho, amarillo brazo izquierdo, verde pierna izquierda, negro pierna derecha (tierra). Regla: «el semáforo empieza en el brazo derecho y gira en sentido horario; el negro, al suelo»."
+  },
+  {
+   "q": "El electrodo precordial V1 se coloca en el:",
+   "o": [
+    "4.º espacio intercostal, borde paraesternal izquierdo",
+    "5.º espacio intercostal, línea medioclavicular izquierda",
+    "4.º espacio intercostal, borde paraesternal derecho",
+    "2.º espacio intercostal, borde paraesternal derecho"
+   ],
+   "a": 2,
+   "e": "V1: 4.º EIC paraesternal derecho. V2: 4.º EIC paraesternal izquierdo. V4: 5.º EIC línea medioclavicular. V3 entre V2 y V4. V5 línea axilar anterior y V6 axilar media, a la altura de V4."
+  },
+  {
+   "q": "En el papel del ECG a velocidad estándar (25 mm/s), un cuadrado pequeño (1 mm) equivale a:",
+   "o": [
+    "0,04 s",
+    "0,20 s",
+    "0,10 s",
+    "1 s"
+   ],
+   "a": 0,
+   "e": "1 mm = 0,04 s; cuadrado grande (5 mm) = 0,20 s; 5 cuadrados grandes = 1 s. En vertical, 10 mm = 1 mV. FC aproximada = 300 / n.º de cuadrados grandes entre dos R."
+  },
+  {
+   "q": "Si entre dos ondas R consecutivas hay 4 cuadrados grandes, la frecuencia cardiaca aproximada es:",
+   "o": [
+    "60 lpm",
+    "100 lpm",
+    "75 lpm",
+    "50 lpm"
+   ],
+   "a": 2,
+   "e": "300 / 4 = 75 lpm (secuencia 300-150-100-75-60-50). Si el ritmo es irregular, contar los QRS en 6 s (30 cuadrados grandes) y multiplicar por 10."
+  },
+  {
+   "q": "El intervalo PR normal en el adulto mide:",
+   "o": [
+    "0,04-0,10 s",
+    "0,12-0,20 s",
+    "0,20-0,30 s",
+    "Menos de 0,12 s"
+   ],
+   "a": 1,
+   "e": "PR normal 0,12-0,20 s (3-5 cuadrados pequeños). PR > 0,20 s constante = BAV de 1.er grado. QRS normal < 0,12 s."
+  },
+  {
+   "q": "La anchura correcta del manguito del esfigmomanómetro debe cubrir aproximadamente:",
+   "o": [
+    "El 20 % de la circunferencia del brazo",
+    "El 100 % de la circunferencia del brazo",
+    "El 60 % de la longitud del brazo",
+    "El 40 % de la circunferencia del brazo (y la cámara, el 80 %)"
+   ],
+   "a": 3,
+   "e": "Cámara de anchura ≈ 40 % y longitud ≈ 80 % de la circunferencia del brazo. Manguito pequeño → sobreestima la PA; grande → la infraestima."
+  },
+  {
+   "q": "Las vacunas deben conservarse en la nevera a una temperatura de:",
+   "o": [
+    "0-4 °C",
+    "-20 °C",
+    "+2 a +8 °C",
+    "8-15 °C"
+   ],
+   "a": 2,
+   "e": "Cadena de frío: +2 a +8 °C, registrando máxima y mínima. Lo que más daña la mayoría de vacunas inactivadas con adyuvante de aluminio es la congelación (prueba de agitación)."
+  },
+  {
+   "q": "En la recogida de orina de 24 horas, la primera micción de la mañana del día de inicio:",
+   "o": [
+    "Se recoge en el bote",
+    "Se desecha, y se recoge la del día siguiente a la misma hora",
+    "Se recoge solo si es abundante",
+    "Se envía aparte"
+   ],
+   "a": 1,
+   "e": "Se vacía la vejiga y se desecha esa orina, anotando la hora; a partir de ahí se recoge todo, incluida la primera micción del día siguiente a la misma hora."
+  },
+  {
+   "q": "Para un urocultivo en un adulto continente la muestra correcta es:",
+   "o": [
+    "La primera parte del chorro de cualquier micción",
+    "Orina de la bolsa colectora",
+    "Orina de 24 horas",
+    "El chorro medio, preferiblemente de la primera micción de la mañana, tras lavado de genitales"
+   ],
+   "a": 3,
+   "e": "Chorro medio de la primera orina de la mañana (más concentrada), tras lavar con agua y jabón (sin antisépticos). En el sondado, por el punto de punción de la sonda, nunca de la bolsa."
+  },
+  {
+   "q": "La adrenalina en la anafilaxia del adulto se administra preferentemente:",
+   "o": [
+    "0,5 mg IM en la cara anterolateral del muslo",
+    "1 mg IV en bolo",
+    "0,5 mg SC en el deltoides",
+    "1 mg IM en el glúteo"
+   ],
+   "a": 0,
+   "e": "Adrenalina 1 mg/ml (1:1000): 0,5 mg IM en el vasto externo (niños 0,01 mg/kg, máx. 0,5 mg). Repetible a los 5 min. La IV (1 mg) se reserva para la parada."
+  },
+  {
+   "q": "El dorsoglúteo ha dejado de ser de elección para la vía IM principalmente por:",
+   "o": [
+    "Ser muy doloroso",
+    "El riesgo de lesión del nervio ciático",
+    "Tener poca masa muscular",
+    "Absorber muy rápido"
+   ],
+   "a": 1,
+   "e": "Riesgo de lesionar el ciático y de inyectar en tejido graso. Se prefiere el ventroglúteo (de elección en adultos) y el vasto externo (lactantes)."
+  },
+  {
+   "q": "El volumen máximo recomendado para una inyección IM en el deltoides de un adulto es:",
+   "o": [
+    "5 ml",
+    "3 ml",
+    "2 ml",
+    "0,5 ml"
+   ],
+   "a": 2,
+   "e": "Deltoides ≈ 2 ml; ventroglúteo y vasto externo hasta ≈ 5 ml (dorsoglúteo hasta 5 ml); lactantes ≈ 0,5-1 ml en el vasto externo."
+  },
+  {
+   "q": "La técnica en Z en la inyección intramuscular sirve para:",
+   "o": [
+    "Evitar el reflujo del fármaco al tejido subcutáneo",
+    "Acelerar la absorción",
+    "Reducir el riesgo de infección",
+    "Poder inyectar más volumen"
+   ],
+   "a": 0,
+   "e": "Desplazar la piel 2-3 cm antes de pinchar y soltarla al retirar la aguja: el trayecto queda en zigzag y el fármaco (hierro, haloperidol depot) no rezuma ni tiñe la piel."
+  },
+  {
+   "q": "En la vía subcutánea con aguja corta (insulina, heparina) no se debe:",
+   "o": [
+    "Pellizcar la piel",
+    "Inyectar en el abdomen",
+    "Aspirar antes de inyectar",
+    "Rotar las zonas"
+   ],
+   "a": 2,
+   "e": "En la SC no se aspira. Con la heparina, además, no se frota y la burbuja de aire de la jeringa precargada no se purga."
+  },
+  {
+   "q": "La medición de la sonda nasogástrica por el método NEX se realiza desde:",
+   "o": [
+    "La boca al ombligo",
+    "La punta de la nariz al lóbulo de la oreja y de ahí al apéndice xifoides",
+    "La nariz al ombligo pasando por el mentón",
+    "El lóbulo de la oreja a la mamila"
+   ],
+   "a": 1,
+   "e": "NEX = Nose-Earlobe-Xiphoid. Se marca la longitud en la sonda. La comprobación de la colocación más fiable al pie de cama es el pH del aspirado (≤ 5,5); de referencia, la radiografía. La auscultación del aire insuflado ya no se considera fiable."
+  },
+  {
+   "q": "Un pH del aspirado gástrico que confirma razonablemente la posición gástrica de la sonda es:",
+   "o": [
+    "≥ 7",
+    "Entre 7 y 8",
+    "≤ 5,5",
+    "Cualquier pH si sale contenido"
+   ],
+   "a": 2,
+   "e": "pH ≤ 5,5 = gástrico. Los IBP y la nutrición continua pueden subirlo; si dudas, radiografía."
+  },
+  {
+   "q": "La glucemia capilar se obtiene preferentemente pinchando en:",
+   "o": [
+    "La yema central del dedo índice",
+    "El lóbulo de la oreja siempre",
+    "La cara lateral de la yema de los dedos 3.º o 4.º",
+    "El talón en el adulto"
+   ],
+   "a": 2,
+   "e": "Cara lateral de la yema (menos terminaciones nerviosas), rotando dedos. Manos lavadas con agua tibia y bien secas: los restos de alcohol o de azúcar (fruta) alteran el resultado. En el neonato, cara lateral del talón."
+  },
+  {
+   "q": "Para el cálculo rápido de la FiO₂ con gafas nasales, cada litro por minuto de oxígeno aumenta la FiO₂ aproximadamente:",
+   "o": [
+    "1 %",
+    "4 %",
+    "10 %",
+    "20 %"
+   ],
+   "a": 1,
+   "e": "FiO₂ ≈ 21 % + 4 % por litro (1 l ≈ 24 %, 2 l ≈ 28 %, 3 l ≈ 32 %, 4 l ≈ 36 %). Por encima de 4-6 l/min irritan y apenas suben la FiO₂."
+  },
+  {
+   "q": "La mascarilla con reservorio debe funcionar con un flujo mínimo de:",
+   "o": [
+    "10-15 l/min, con la bolsa inflada antes de colocarla",
+    "2-4 l/min",
+    "5 l/min",
+    "El que tolere el paciente, sin mínimo"
+   ],
+   "a": 0,
+   "e": "Flujo 10-15 l/min para que el reservorio no se colapse (FiO₂ 60-90 %). Por debajo, el paciente reinhala CO₂."
+  },
+  {
+   "q": "En el sistema de drenaje torácico, el burbujeo continuo en la cámara del sello de agua indica:",
+   "o": [
+    "Funcionamiento normal",
+    "Que el pulmón se ha reexpandido",
+    "Fuga aérea",
+    "Obstrucción del tubo"
+   ],
+   "a": 2,
+   "e": "Burbujeo en el sello de agua = fuga aérea (del paciente o del sistema). La oscilación con la respiración indica permeabilidad. El burbujeo suave en la cámara de aspiración (sistemas húmedos) sí es normal."
+  },
+  {
+   "q": "¿Cuál es el orden correcto de retirada del EPI en un aislamiento (tras quitarse los guantes)?",
+   "o": [
+    "Mascarilla, gafas, bata",
+    "Gafas, mascarilla, bata",
+    "Bata, gafas y mascarilla (la mascarilla la última, fuera de la habitación)",
+    "Da igual el orden"
+   ],
+   "a": 2,
+   "e": "Retirada: guantes → (higiene de manos) → gafas o pantalla → bata → mascarilla/respirador, que se quita la última y fuera de la habitación, tocando solo las gomas. Colocación: bata → mascarilla → gafas → guantes. (Variante OMS: guantes y bata juntos.)"
+  },
+  {
+   "q": "El tiempo de fricción recomendado para la higiene de manos con solución hidroalcohólica es de:",
+   "o": [
+    "10-15 s",
+    "20-30 s",
+    "40-60 s",
+    "2 minutos"
+   ],
+   "a": 1,
+   "e": "Solución hidroalcohólica 20-30 s; lavado con agua y jabón 40-60 s. Ante C. difficile o norovirus: agua y jabón (el alcohol no destruye esporas)."
+  },
+  {
+   "q": "En un paciente con Clostridioides difficile, la higiene de manos tras atenderlo debe hacerse con:",
+   "o": [
+    "Solución hidroalcohólica",
+    "Clorhexidina alcohólica",
+    "Agua y jabón",
+    "Povidona yodada"
+   ],
+   "a": 2,
+   "e": "Las esporas resisten al alcohol: lavado mecánico con agua y jabón y aislamiento de contacto. Limpieza del entorno con lejía."
+  },
+  {
+   "q": "El tiempo de secado de la clorhexidina alcohólica al 2 % antes de la punción o la incisión es aproximadamente de:",
+   "o": [
+    "No hace falta esperar",
+    "5 segundos",
+    "10 minutos",
+    "30 segundos a 2 minutos (hasta que seque al aire)"
+   ],
+   "a": 3,
+   "e": "Dejar secar al aire (≈ 30 s en piel seca, 2 min en zonas húmedas; en quirófano, sin charcos, por riesgo de incendio). No soplar ni secar con gasa."
+  },
+  {
+   "q": "La prueba de Mantoux se lee a las:",
+   "o": [
+    "24 horas",
+    "48-72 horas, midiendo la induración (no el eritema)",
+    "7 días",
+    "1 hora"
+   ],
+   "a": 1,
+   "e": "Lectura a 48-72 h midiendo en milímetros el diámetro transversal de la induración, nunca el eritema. En España se suele considerar positiva a partir de 5 mm."
+  },
+  {
+   "q": "El frasco de un colirio multidosis, una vez abierto, se desecha por norma general a los:",
+   "o": [
+    "7 días",
+    "3 meses",
+    "28 días",
+    "6 meses"
+   ],
+   "a": 2,
+   "e": "Colirios multidosis: 28 días tras abrirlos (anotar la fecha). Entre dos colirios esperar 5-10 min; la pomada siempre al final."
+  },
+  {
+   "q": "El contenedor de residuos citostáticos (grupo VI) en el SMS es de color:",
+   "o": [
+    "Azul",
+    "Amarillo",
+    "Negro",
+    "Verde"
+   ],
+   "a": 0,
+   "e": "Citostáticos (grupo VI): contenedor rígido azul, incineración > 1.000 °C. Punzantes: contenedor rígido amarillo (grupo III). Los contenedores de punzantes se llenan como máximo hasta 3/4."
+  },
+  {
+   "q": "En la clasificación de triaje Manchester, el nivel amarillo (urgente) tiene un tiempo máximo de atención de:",
+   "o": [
+    "10 minutos",
+    "60 minutos",
+    "120 minutos",
+    "240 minutos"
+   ],
+   "a": 1,
+   "e": "Manchester: rojo inmediato (0), naranja 10 min, amarillo 60 min, verde 120 min, azul 240 min."
+  },
+  {
+   "q": "En la relación compresión:ventilación de la RCP pediátrica con dos reanimadores sanitarios, la proporción es:",
+   "o": [
+    "30:2",
+    "5:1",
+    "15:2",
+    "3:1"
+   ],
+   "a": 2,
+   "e": "Niños con dos reanimadores sanitarios: 15:2 (con 5 ventilaciones de rescate iniciales). Un solo reanimador lego: 30:2. Neonato: 3:1."
+  },
+  {
+   "q": "La profundidad de las compresiones torácicas en el adulto debe ser de:",
+   "o": [
+    "2-3 cm",
+    "4 cm exactos",
+    "5-6 cm, a 100-120 compresiones por minuto",
+    "Más de 7 cm"
+   ],
+   "a": 2,
+   "e": "Adulto: 5-6 cm a 100-120/min, permitiendo la reexpansión completa. Lactante: al menos 1/3 del diámetro (≈ 4 cm); niño ≈ 5 cm."
+  }
+ ]
+}

@@ -182,6 +182,13 @@
       "o": ["Aplicar la crema sobre todo entre los dedos", "No usar nunca crema hidratante", "Aplicar crema en la planta y el dorso, evitando siempre los espacios interdigitales", "Mantener los pies en remojo 20 minutos antes de la crema"],
       "a": 2,
       "e": "La crema entre los dedos favorece la maceración y las micosis. Además se secan bien los espacios interdigitales, se comprueba el agua con el codo, se inspecciona el pie a diario y se usan calcetines de algodón claros."
+    },
+    {
+      "q": "En la prueba de Weber de la imagen el sonido se lateraliza hacia el oído enfermo. Esto indica una hipoacusia:",
+      "o": ["Neurosensorial del oído enfermo", "De transmisión (conductiva) del oído enfermo", "Neurosensorial del oído sano", "Es un resultado normal"],
+      "a": 1,
+      "e": "Weber: diapasón de 512 Hz en el vértex. Conductiva (tapón, otitis): se oye más en el oído enfermo (falta el enmascaramiento del ruido ambiental). Neurosensorial: se lateraliza al oído sano.",
+      "img": "img/preguntas/t45-weber.jpg"
     }
   ]
 }

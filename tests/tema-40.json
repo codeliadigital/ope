@@ -182,6 +182,34 @@
       "o": ["La modalidad veno-venosa da soporte cardíaco y respiratorio", "La modalidad veno-arterial solo da soporte respiratorio", "Si sube el CO₂, se debe aumentar el volumen corriente del respirador", "La modalidad veno-venosa da soporte solo respiratorio, y la veno-arterial, respiratorio y circulatorio"],
       "a": 3,
       "e": "La ECMO VV requiere que el corazón funcione; la VA se usa en shock cardiogénico o parada refractaria y obliga a vigilar la isquemia de la pierna canulada. Si sube el CO₂ se aumenta el gas de barrido; el ventilador se mantiene en reposo pulmonar."
+    },
+    {
+      "q": "En el esquema, el ruido n.º 1, agudo, inspiratorio y originado en la vía aérea superior (laringe-tráquea), es:",
+      "o": ["Sibilancias", "Estridor", "Roncus", "Crepitantes"],
+      "a": 1,
+      "e": "Estridor: obstrucción de la vía aérea alta (laringitis, epiglotitis, cuerpo extraño), se oye sin fonendo. Sibilancias: bronquios pequeños, sobre todo espiratorias (asma, EPOC).",
+      "img": "img/preguntas/t40-ruidos.jpg"
+    },
+    {
+      "q": "El ruido n.º 4, discontinuo, que se produce en los alvéolos al reabrirse (como frotar un mechón de pelo junto al oído), típico de la insuficiencia cardiaca o la neumonía, es:",
+      "o": ["Crepitantes", "Roce pleural", "Sibilancias", "Estridor"],
+      "a": 0,
+      "e": "Crepitantes (estertores finos): apertura de alvéolos con líquido o exudado, al final de la inspiración, en las bases (ICC, neumonía, fibrosis).",
+      "img": "img/preguntas/t40-ruidos.jpg"
+    },
+    {
+      "q": "El ruido n.º 5, que se origina en las hojas pleurales inflamadas, suena como cuero que roza y no se modifica con la tos, es:",
+      "o": ["Roncus", "Crepitantes", "Roce (frote) pleural", "Estridor"],
+      "a": 2,
+      "e": "Roce pleural: pleuritis; en ambas fases respiratorias y desaparece si se acumula derrame. Los roncus (secreciones en bronquios grandes) sí cambian con la tos.",
+      "img": "img/preguntas/t40-ruidos.jpg"
+    },
+    {
+      "q": "Botella de gas medicinal con la ojiva completamente blanca. Contiene:",
+      "o": ["Aire medicinal", "Oxígeno", "Óxido nitroso", "Dióxido de carbono"],
+      "a": 1,
+      "e": "Ojiva blanca = oxígeno (UNE-EN 1089-3). Aire medicinal: blanco y negro; N₂O: azul; CO₂: gris.",
+      "img": "img/preguntas/botella-oxigeno.svg"
     }
   ]
 }

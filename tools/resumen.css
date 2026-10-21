@@ -154,3 +154,23 @@ h2.bloque {
   padding: 7pt 0;
   margin-top: 16pt;
 }
+
+figure {
+  margin: 8pt 0 10pt;
+  text-align: center;
+  break-inside: avoid;
+}
+
+figure img {
+  max-width: 100%;
+  max-height: 120mm;
+  border: 0.6pt solid #d6dbe1;
+  border-radius: 2pt;
+}
+
+figcaption {
+  margin-top: 3pt;
+  font-size: 8.4pt;
+  font-style: italic;
+  color: #4b5563;
+}

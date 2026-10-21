@@ -182,6 +182,13 @@
       "o": ["Una quemadura solar en la espalda", "Una quemadura de segundo grado en ambas manos", "Una quemadura de segundo grado superficial del 3% en un muslo", "Una flictena de 2 cm en el antebrazo"],
       "a": 1,
       "e": "Se derivan las quemaduras en cara, manos, pies, genitales o grandes articulaciones, las de más del 15% en adultos (10% en niños), las de tercer grado de más del 2%, las eléctricas, las químicas, las circunferenciales y las que tienen inhalación."
+    },
+    {
+      "q": "Lesión por presión con pérdida total del grosor de la piel y grasa subcutánea visible, sin exposición de hueso, tendón ni músculo, como la de la imagen. ¿Qué categoría tiene?",
+      "o": ["Categoría I", "Categoría II", "Categoría III", "Categoría IV"],
+      "a": 2,
+      "e": "I: eritema no blanqueable con piel intacta. II: pérdida parcial (ampolla o úlcera superficial). III: pérdida total de la piel, se ve grasa, puede haber tunelizaciones. IV: hueso, tendón o músculo expuestos.",
+      "img": "img/preguntas/t53-upp.jpg"
     }
   ]
 }

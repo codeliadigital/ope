@@ -182,6 +182,48 @@
       "o": ["Mantener ciclos 30:2", "Ventilar a 20 respiraciones por minuto", "Detener las compresiones para cada ventilación", "Compresiones continuas a 100-120/min y unas 10 ventilaciones por minuto, sin hiperventilar"],
       "a": 3,
       "e": "Con vía aérea avanzada las compresiones no se interrumpen y se ventila unas 10 veces por minuto. La hiperventilación aumenta la presión intratorácica y reduce el retorno venoso."
+    },
+    {
+      "q": "En la colocación de los electrodos precordiales de la imagen, el electrodo rojo (V1) se coloca en el:",
+      "o": ["4.º espacio intercostal, borde paraesternal derecho", "4.º espacio intercostal, borde paraesternal izquierdo", "5.º espacio intercostal, línea medioclavicular izquierda", "5.º espacio intercostal, línea axilar media"],
+      "a": 0,
+      "e": "V1 4.º EIC paraesternal derecho (rojo), V2 4.º EIC paraesternal izquierdo (amarillo), V3 entre V2 y V4 (verde), V4 5.º EIC medioclavicular (marrón), V5 axilar anterior (negro), V6 axilar media (violeta).",
+      "img": "img/preguntas/t41-electrodos.jpg"
+    },
+    {
+      "q": "Paciente de 78 años con palpitaciones y este trazado (RR irregular, sin ondas P). ¿Cuál es la complicación principal que hay que prevenir?",
+      "o": ["Hipoglucemia", "Bloqueo AV completo", "Embolia sistémica (ictus)", "Hiperpotasemia"],
+      "a": 2,
+      "e": "Fibrilación auricular: la aurícula no se contrae y se forman trombos (orejuela izquierda). Se valora la anticoagulación con la escala CHA₂DS₂-VASc.",
+      "img": "img/preguntas/ecg-fa.svg"
+    },
+    {
+      "q": "¿Qué ritmo muestra este trazado, con la línea de base en «dientes de sierra»?",
+      "o": ["Fibrilación auricular", "Taquicardia ventricular", "Ritmo sinusal", "Flutter auricular"],
+      "a": 3,
+      "e": "Flutter: ondas F regulares a ≈ 300/min, en dientes de sierra en II, III y aVF. Con conducción 2:1 la FC suele ser ≈ 150 lpm; aquí, 4:1 (≈ 75 lpm).",
+      "img": "img/preguntas/ecg-flutter.svg"
+    },
+    {
+      "q": "Dolor torácico opresivo de 30 minutos con este trazado en II, III y aVF. ¿Qué actuación es prioritaria?",
+      "o": ["Activar el Código Infarto para la reperfusión urgente", "Repetir el ECG en 24 horas", "Administrar adenosina en bolo", "Cardioversión sincronizada"],
+      "a": 0,
+      "e": "Elevación del ST en derivaciones inferiores = IAMCEST inferior: reperfusión (ICP primaria) cuanto antes. En el inferior, registrar también V3R-V4R (ventrículo derecho).",
+      "img": "img/preguntas/ecg-elevacion-st.svg"
+    },
+    {
+      "q": "Trazado con ondas P y QRS disociados, sin relación entre ellos, y QRS anchos a ≈ 35 lpm. El diagnóstico es:",
+      "o": ["BAV de 1.er grado", "BAV de 2.º grado Mobitz I", "Fibrilación auricular lenta", "BAV completo (3.er grado)"],
+      "a": 3,
+      "e": "Disociación AV completa con ritmo de escape ventricular lento y ancho: riesgo de síncope (Stokes-Adams). Tratamiento: marcapasos.",
+      "img": "img/preguntas/ecg-bav3.svg"
+    },
+    {
+      "q": "En este ritmo sinusal aparece un latido adelantado, ancho, sin P previa y seguido de una pausa. Es una:",
+      "o": ["Extrasístole auricular", "Extrasístole ventricular", "Onda P bloqueada", "Taquicardia ventricular"],
+      "a": 1,
+      "e": "Extrasístole ventricular: QRS prematuro y ancho, sin P, con pausa compensadora completa. Tres o más seguidas a > 100 lpm = taquicardia ventricular.",
+      "img": "img/preguntas/ecg-extrasistole.svg"
     }
   ]
 }

@@ -14,6 +14,7 @@ Formato del .md:
   ## == BLOQUE B · ...     -> separador grande de bloque
   !! texto                 -> líneas seguidas = caja "TRAMPAS DE EXAMEN"
   ?? texto                 -> líneas seguidas = caja "CLAVE" (??: Título cambia el título)
+  [[img: archivo.jpg | pie]] -> figura con imagen de resumenes-md/img/ y pie de foto
 """
 import html
 import os
@@ -64,6 +65,13 @@ def preprocess(body):
                 i += 1
             out += ["", box(kind, title, items), ""]
             continue
+        m = re.match(r"^\[\[img:\s*([^|\]]+?)\s*\|\s*(.+?)\s*\]\]$", line)
+        if m:
+            src = "file:///" + os.path.join(SRC, "img", m.group(1)).replace("\\", "/")
+            out += ["", f'<figure><img src="{src}" alt="{html.escape(m.group(2))}">'
+                        f'<figcaption>{inline(m.group(2))}</figcaption></figure>', ""]
+            i += 1
+            continue
         m = re.match(r"^## ==\s*(.+)$", line)
         if m:
             out += ["", f'<h2 class="bloque">{inline(m.group(1))}</h2>', ""]
@@ -108,6 +116,7 @@ def build(num, chrome):
     subprocess.run([
         chrome, "--headless", "--disable-gpu", "--no-pdf-header-footer",
         f"--user-data-dir={os.path.join(tmpdir, 'prof')}",
+        "--allow-file-access-from-files",
         f"--print-to-pdf={pdf_path}", "file:///" + html_path.replace("\\", "/"),
     ], check=True, capture_output=True, timeout=120)
     try:

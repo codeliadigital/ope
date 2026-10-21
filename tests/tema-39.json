@@ -182,6 +182,13 @@
       "o": ["Bajar la cámara al suelo", "Elevar la cámara por encima de la cabeza", "Retirar el drenaje", "Pinzar temporalmente el sistema para evitar un vaciado brusco de LCR"],
       "a": 3,
       "e": "Antes de cualquier movilización se cierra el drenaje para evitar un vaciado descontrolado de LCR (colapso ventricular, sangrado). El cero se calibra a la altura del trago (agujero de Monro) y se mantiene la asepsia."
+    },
+    {
+      "q": "Paciente con TCE: la pupila derecha está dilatada y no reacciona a la luz, como en la imagen. Este hallazgo sugiere compresión del par craneal:",
+      "o": ["II (óptico)", "III (motor ocular común)", "IV (troclear)", "VI (motor ocular externo)"],
+      "a": 1,
+      "e": "El III par lleva las fibras parasimpáticas que contraen la pupila; su compresión por herniación uncal da midriasis arreactiva del mismo lado. Es un signo de alarma neuroquirúrgica.",
+      "img": "img/preguntas/pupilas-anisocoria.svg"
     }
   ]
 }
