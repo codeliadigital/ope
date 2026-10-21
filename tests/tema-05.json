@@ -1,0 +1,187 @@
+{
+  "tema": 5,
+  "titulo": "Derechos de los usuarios, igualdad y violencia de género. Personal estatutario del SMS",
+  "programa": "Derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia. Garantías de accesibilidad, derecho a la información, intimidad y confidencialidad, libre elección. Garantía y derecho de la persona en el proceso de muerte. Voluntad anticipada y su Registro. Igualdad entre mujeres y hombres y protección contra la violencia de género en la Región de Murcia. Personal estatutario: clasificación, situaciones, incompatibilidades, derechos, deberes y régimen disciplinario.",
+  "preguntas": [
+    {
+      "q": "Los derechos de los \"primeros mil días\" (P1000D) introducidos en Murcia por la Ley 12/2018 abarcan:",
+      "o": ["Desde el nacimiento hasta los 1.000 días de vida", "Desde la concepción hasta los 2 años de edad", "Los tres primeros años de vida", "Desde la semana 12 de gestación hasta los 2 años"],
+      "a": 1,
+      "e": "P1000D = 270 días de gestación + 365 días del primer año + 365 del segundo: desde la concepción hasta los 2 años."
+    },
+    {
+      "q": "Para facilitar el contacto piel con piel durante una cesárea, la enfermera debe colocar:",
+      "o": ["Los electrodos en el tórax y el manguito en el brazo no dominante", "Los electrodos en la espalda y el manguito en el brazo", "Los electrodos en el tórax y el manguito en la pierna", "Los electrodos en la espalda y el manguito de tensión en la pierna"],
+      "a": 3,
+      "e": "ECG en la región interescapular y TA en la pantorrilla, para dejar libres el pecho y los brazos de la madre."
+    },
+    {
+      "q": "El derecho del paciente a no ser informado sobre su proceso:",
+      "o": ["Debe expresarse de forma libre y quedar registrado en la historia clínica", "Se presume si el paciente no hace preguntas", "Puede ejercerlo la familia en nombre del paciente capaz", "Es absoluto, incluso si hay riesgo para terceros"],
+      "a": 0,
+      "e": "Debe ser libre, claro y voluntario, y documentarse en la historia, designando en su caso a un tercero. Cede si hay riesgo para terceros."
+    },
+    {
+      "q": "Un menor de 13 años va a someterse a un procedimiento y sus padres ya han firmado el consentimiento por representación. Respecto al menor:",
+      "o": ["No es necesario informarle, porque ya han firmado sus padres", "Decide él, porque es mayor de 12 años", "Debe ser informado y escuchado obligatoriamente", "Decide el juez si hay discrepancias"],
+      "a": 2,
+      "e": "Por debajo de 16 años consienten los representantes, pero desde los 12 años (o si es maduro) el menor debe ser informado y oído."
+    },
+    {
+      "q": "El plazo máximo del SMS para emitir el informe de segunda opinión médica es de:",
+      "o": ["15 días naturales", "15 días hábiles", "30 días hábiles", "1 mes"],
+      "a": 1,
+      "e": "Decreto 106/2007: 15 días hábiles. Si se incumple, el paciente puede acudir a otro centro con los gastos a cargo del SMS."
+    },
+    {
+      "q": "¿En cuál de estos casos NO procede solicitar segunda opinión médica en el SMS?",
+      "o": ["Un proceso oncológico activo", "La confirmación de una enfermedad rara", "Una enfermedad neurológica degenerativa", "Una hipertensión arterial leve"],
+      "a": 3,
+      "e": "Se limita a procesos graves: cáncer, enfermedades neurológicas degenerativas o desmielinizantes, enfermedades raras y cirugías complejas de alto riesgo."
+    },
+    {
+      "q": "Un paciente en lista de espera quirúrgica pide aplazar voluntariamente su operación por un viaje. Respecto a la garantía de demora máxima:",
+      "o": ["El cómputo del plazo se detiene", "Puede exigir que el SMS le pague una clínica privada", "El plazo garantizado pasa a ser de 180 días", "Pierde el derecho a ser operado en el SMS"],
+      "a": 0,
+      "e": "La garantía solo cubre la demora estructural. El aplazamiento voluntario o la contraindicación clínica suspenden el cómputo."
+    },
+    {
+      "q": "El cupo máximo de tarjetas sanitarias individuales para una enfermera de Atención Primaria del SMS es de:",
+      "o": ["1.200", "1.500", "1.800", "2.000"],
+      "a": 2,
+      "e": "Enfermera: 1.800 TSI de todas las edades; médico de familia: 1.500 (≥ 14 años); pediatra: 1.200."
+    },
+    {
+      "q": "Para cambiar la enfermera o el pediatra asignados a un menor de 10 años, el SMS exige:",
+      "o": ["La firma del progenitor que acude al centro", "La firma de ambos progenitores o tutores", "Un informe del pediatra", "La conformidad del propio menor"],
+      "a": 1,
+      "e": "La solicitud de cambio de profesional para menores debe ir firmada por ambos progenitores o representantes legales."
+    },
+    {
+      "q": "La Región de Murcia implantó la libre elección de enfermera en Atención Primaria mediante el programa:",
+      "o": ["SIPS", "Selene", "OMI-AP", "Civitas Enfermera"],
+      "a": 3,
+      "e": "Civitas Enfermera (2013): el ciudadano elige a su enfermera de AP y su nombre figura en la TSI. El SIPS es el registro de datos de profesionales."
+    },
+    {
+      "q": "La organización y funcionamiento del Registro de Instrucciones Previas de la Región de Murcia se regula en el:",
+      "o": ["Decreto 80/2005", "Decreto 25/2006", "Decreto 106/2007", "Decreto 339/2009"],
+      "a": 0,
+      "e": "Decreto 80/2005 (instrucciones previas); 25/2006 (demora máxima); 106/2007 (segunda opinión); 339/2009 (SIPS)."
+    },
+    {
+      "q": "Un paciente firma sus instrucciones previas ante tres testigos: su cónyuge, su hermano y un amigo. El documento:",
+      "o": ["Es válido, porque hay tres testigos", "Es válido si después lo ratifica un notario", "No es válido, porque como máximo uno de los testigos puede tener parentesco hasta el 2.º grado o vínculo matrimonial", "Es válido si el representante lo acepta"],
+      "a": 2,
+      "e": "Dos de los tres testigos no pueden tener parentesco hasta el 2.º grado ni relación matrimonial, patrimonial o laboral con el otorgante."
+    },
+    {
+      "q": "La Comisión de Garantía y Evaluación de la eutanasia de la Región de Murcia está formada por:",
+      "o": ["9 miembros, 3 de ellos enfermeras", "11 miembros, 2 de ellos enfermeras", "11 miembros, 3 de ellos enfermeras", "10 miembros, 2 de ellos enfermeras"],
+      "a": 1,
+      "e": "11 miembros: 5 médicos, 3 juristas, 2 enfermeras y 1 farmacéutico (Orden de 20 de mayo de 2021)."
+    },
+    {
+      "q": "Sobre la objeción de conciencia a la prestación de ayuda para morir (LO 3/2021):",
+      "o": ["Un hospital puede objetar si lo hacen todos sus profesionales", "Puede manifestarse de forma verbal en el momento de la prestación", "Solo pueden ejercerla los médicos", "Es individual, se manifiesta de forma anticipada y por escrito, y el SMS debe garantizar la prestación"],
+      "a": 3,
+      "e": "La objeción es un derecho individual. Las instituciones no pueden objetar y deben reorganizarse para garantizar la prestación."
+    },
+    {
+      "q": "En el suicidio médicamente asistido:",
+      "o": ["El profesional prescribe o facilita la sustancia y el paciente se la autoadministra", "La enfermera administra la sustancia letal", "El médico administra la sustancia por vía intravenosa", "Se retira el soporte vital a petición de la familia"],
+      "a": 0,
+      "e": "En la eutanasia el profesional administra la sustancia; en el suicidio asistido es el propio paciente quien se la administra."
+    },
+    {
+      "q": "La concentración masiva de mujeres en profesiones de cuidados con menor prestigio y salario se denomina:",
+      "o": ["Techo de cristal", "Acción positiva", "Suelo pegajoso", "Transversalidad"],
+      "a": 2,
+      "e": "Suelo pegajoso = segregación horizontal. Techo de cristal = barrera vertical para acceder a puestos directivos."
+    },
+    {
+      "q": "Según la Ley 7/2007, las medidas de acción positiva son:",
+      "o": ["Permanentes e incorporadas al estatuto del personal", "Temporales, y deben desaparecer cuando se alcance la igualdad", "Exclusivas de las empresas privadas", "Contrarias al principio de igualdad"],
+      "a": 1,
+      "e": "Son medidas compensatorias temporales para corregir una desigualdad de partida."
+    },
+    {
+      "q": "La evaluación del impacto por razón de género de las disposiciones de carácter general en la Región de Murcia:",
+      "o": ["La realiza el Instituto de la Mujer tras su publicación", "Es opcional", "Solo se exige a las leyes estatales", "Es obligatoria y previa a su aprobación"],
+      "a": 3,
+      "e": "Debe acompañar a todo proyecto de disposición general antes de su aprobación; la elabora la Unidad de Igualdad de la Consejería."
+    },
+    {
+      "q": "El orden de las fases del ciclo de la violencia de Lenore Walker es:",
+      "o": ["Acumulación de tensión, explosión y luna de miel", "Explosión, acumulación de tensión y luna de miel", "Luna de miel, explosión y acumulación de tensión", "Aislamiento, control y explosión"],
+      "a": 0,
+      "e": "Tensión → explosión (agresión aguda) → luna de miel (arrepentimiento). El ciclo se repite cada vez más rápido."
+    },
+    {
+      "q": "Una mujer acude a urgencias tras una agresión sexual por un desconocido en la vía pública. En la Región de Murcia:",
+      "o": ["No es violencia de género, porque no hay relación de pareja", "Solo se activa el protocolo si presenta denuncia", "La Ley 7/2007 incluye este supuesto y se atiende con el protocolo de violencia de género", "Se deriva exclusivamente a la policía"],
+      "a": 2,
+      "e": "La LO 1/2004 exige vínculo de pareja, pero la ley murciana amplía la protección a cualquier agresión contra la mujer por el hecho de serlo."
+    },
+    {
+      "q": "Una paciente con lesiones compatibles con maltrato manifiesta que no quiere denunciar. La enfermera:",
+      "o": ["No debe emitir el parte, por respeto a su confidencialidad", "Debe emitir de oficio el parte judicial de lesiones y remitirlo al Juzgado de Guardia", "Solo emitirá el parte si la paciente lo autoriza por escrito", "Solo avisará a la policía si las lesiones son graves"],
+      "a": 1,
+      "e": "El parte de lesiones es obligatorio y de oficio, independientemente de la voluntad de denunciar; prevalece sobre el secreto profesional."
+    },
+    {
+      "q": "Sobre la atención de menores de 18 años en los CAVI de la Región de Murcia:",
+      "o": ["Está prohibida en todos los casos", "Se atiende a cualquier menor sin requisitos", "Solo si existe denuncia previa", "Es excepcional y requiere el consentimiento escrito de los progenitores o tutores"],
+      "a": 3,
+      "e": "Los CAVI atienden a mayores de 18 sin necesidad de denuncia; las menores, excepcionalmente, con consentimiento escrito de padres o tutores."
+    },
+    {
+      "q": "Según la Ley 5/2001, el personal de enfermería del SMS pertenece al:",
+      "o": ["Grupo A, subgrupo A2", "Grupo A, subgrupo A1", "Grupo B", "Grupo C, subgrupo C1"],
+      "a": 0,
+      "e": "Enfermería = A2. El Grupo B exige título de Técnico Superior de FP; el C1, bachiller o técnico (TCAE)."
+    },
+    {
+      "q": "Tras el RDL 12/2022, un nombramiento de personal estatutario interino por exceso o acumulación de tareas no puede superar:",
+      "o": ["3 años", "6 meses en un periodo de 12 meses", "9 meses en un periodo de 18 meses", "1 año"],
+      "a": 2,
+      "e": "Acumulación de tareas: 9 meses en 18. Vacante y programas temporales: 3 años. El nombramiento eventual desapareció."
+    },
+    {
+      "q": "Una enfermera estatutaria se encuentra de baja por incapacidad temporal. Su situación administrativa es:",
+      "o": ["Suspensión de funciones", "Servicio activo", "Excedencia forzosa", "Servicios especiales"],
+      "a": 1,
+      "e": "La IT, las vacaciones, los permisos, la maternidad o paternidad y la huelga se consideran servicio activo."
+    },
+    {
+      "q": "Para solicitar la excedencia voluntaria por interés particular se exige haber prestado servicios efectivos durante al menos:",
+      "o": ["1 año", "2 años", "3 años", "5 años"],
+      "a": 3,
+      "e": "Se exigen 5 años inmediatamente anteriores. La de agrupación familiar no exige tiempo previo."
+    },
+    {
+      "q": "En la excedencia por razón de violencia de género, la enfermera:",
+      "o": ["Percibe las retribuciones íntegras durante los 2 primeros meses", "No percibe ninguna retribución", "Percibe las retribuciones durante 6 meses", "Tiene reserva de plaza solo 3 meses"],
+      "a": 0,
+      "e": "No exige tiempo previo; computa a todos los efectos; reserva de plaza 6 meses (prorrogable hasta 18) y retribuciones íntegras los 2 primeros meses."
+    },
+    {
+      "q": "Un supervisor de enfermería de UCI solicita reducir su complemento específico para trabajar los fines de semana en una UCI privada. Según la Ley 1/2025:",
+      "o": ["Se le concede, porque renuncia a la exclusividad", "Se le concede si los horarios no se solapan", "Se le deniega, porque las plazas con funciones de dirección están excluidas", "Se le concede tras 5 años de antigüedad"],
+      "a": 2,
+      "e": "La Ley 1/2025 permite renunciar a la exclusividad para compatibilizar con la privada, salvo a quienes dirigen un servicio o unidad."
+    },
+    {
+      "q": "Según el Estatuto Marco, las faltas graves prescriben a los:",
+      "o": ["6 meses", "2 años", "3 años", "4 años"],
+      "a": 1,
+      "e": "Regla 4-2-6: muy graves 4 años, graves 2 años, leves 6 meses (igual para faltas y sanciones)."
+    },
+    {
+      "q": "La sanción de apercibimiento en el Estatuto Marco:",
+      "o": ["Puede ser verbal", "Se aplica a faltas graves", "Se aplica a faltas muy graves", "Se aplica a faltas leves y siempre por escrito"],
+      "a": 3,
+      "e": "El apercibimiento es la sanción de las faltas leves y debe constar por escrito; el apercibimiento oral no existe."
+    }
+  ]
+}

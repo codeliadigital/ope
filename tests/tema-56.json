@@ -1,0 +1,187 @@
+{
+  "tema": 56,
+  "titulo": "Participación en la formación sanitaria especializada y de grado en enfermería. Formación y desarrollo profesional continuo",
+  "programa": "Participación en la formación de grado en enfermería (EEES, plan de estudios, prácticas, figuras docentes) y en la formación sanitaria especializada (especialidades, residencia, tutor, comisión de docencia y evaluación). Formación continuada, acreditación y desarrollo profesional: diplomas de acreditación y carrera profesional.",
+  "preguntas": [
+    {
+      "q": "En el Espacio Europeo de Educación Superior, un crédito ECTS equivale a:",
+      "o": ["10 horas de clase teórica", "Entre 25 y 30 horas de trabajo total del estudiante", "50 horas de prácticas clínicas", "Una semana de prácticas"],
+      "a": 1,
+      "e": "El ECTS mide todo el trabajo del alumno: clases, prácticas, seminarios, tutorías y estudio autónomo. Una asignatura de 6 ECTS supone 150-180 horas."
+    },
+    {
+      "q": "Según la Orden CIN/2134/2008, el título de Grado en Enfermería tiene una carga de:",
+      "o": ["180 créditos ECTS en 3 años", "300 créditos ECTS en 5 años", "200 créditos ECTS en 4 años", "240 créditos ECTS en 4 años"],
+      "a": 3,
+      "e": "Son 60 ECTS por curso. La antigua diplomatura duraba 3 años y se sustituyó por el grado tras la integración en el EEES."
+    },
+    {
+      "q": "El módulo de formación básica común del Grado en Enfermería tiene una carga de:",
+      "o": ["60 ECTS", "30 ECTS", "90 ECTS", "120 ECTS"],
+      "a": 0,
+      "e": "Incluye anatomía, fisiología, bioquímica, psicología, estadística y otras materias básicas, y se imparte sobre todo en los primeros cursos."
+    },
+    {
+      "q": "El módulo de prácticas tuteladas y Trabajo Fin de Grado del Grado en Enfermería suma:",
+      "o": ["36 ECTS", "60 ECTS", "90 ECTS", "120 ECTS"],
+      "a": 2,
+      "e": "Es el bloque con más peso. Según el manual, el TFG supone 6 ECTS y el resto corresponde a las prácticas clínicas."
+    },
+    {
+      "q": "Según el RD 1125/2003, las calificaciones del grado se expresan:",
+      "o": ["En una escala de 0 a 10 con un decimal, junto con su calificación cualitativa", "En una escala de 0 a 100", "Solo como apto o no apto", "En letras de la A a la F"],
+      "a": 0,
+      "e": "0-4,9 suspenso; 5-6,9 aprobado; 7-8,9 notable; 9-10 sobresaliente. Un 4,9 es suspenso y no se redondea."
+    },
+    {
+      "q": "La mención de matrícula de honor puede concederse a alumnos con una calificación:",
+      "o": ["De notable, sin límite de número", "De 8,5 o más, hasta el 10% de los alumnos", "De 10, sin límite", "De 9 o más, hasta un máximo del 5% de los matriculados"],
+      "a": 3,
+      "e": "Si hay menos de 20 alumnos matriculados en la asignatura, puede concederse una sola matrícula de honor."
+    },
+    {
+      "q": "En una asignatura con 15 alumnos matriculados, el número máximo de matrículas de honor que se puede conceder es:",
+      "o": ["Ninguna", "Una", "Dos", "Tres"],
+      "a": 1,
+      "e": "El límite general es el 5% de los matriculados, pero cuando hay menos de 20 alumnos se permite una matrícula de honor."
+    },
+    {
+      "q": "Según el RD 1558/1986 de conciertos entre universidades e instituciones sanitarias, la universidad que imparta Enfermería debe disponer al menos de:",
+      "o": ["Un centro de salud", "Dos hospitales", "Un hospital y tres centros de atención primaria universitarios", "Tres hospitales y un centro de salud"],
+      "a": 2,
+      "e": "La LOPS establece además que toda la estructura asistencial del sistema sanitario debe estar disponible para la docencia."
+    },
+    {
+      "q": "La figura del colaborador docente en las prácticas de grado se caracteriza por ser:",
+      "o": ["Un profesor titular de la universidad", "Un profesor asociado con contrato a tiempo parcial con la universidad", "Un estudiante de cursos superiores", "Una enfermera asistencial de la unidad que supervisa al estudiante sin vínculo contractual con la universidad"],
+      "a": 3,
+      "e": "Actúa como modelo de rol en el día a día de las prácticas. Su labor se reconoce con certificados que puntúan como mérito y en la carrera profesional. El profesor asociado sí tiene contrato con la universidad."
+    },
+    {
+      "q": "Si un estudiante de grado comete un error de dosificación durante sus prácticas, es correcto que:",
+      "o": ["La responsabilidad de la supervisión y de la seguridad del paciente recae en el profesional que lo tutela", "La responsabilidad es exclusiva del estudiante", "Nadie es responsable por ser un alumno en formación", "La responsabilidad es exclusiva de la universidad"],
+      "a": 0,
+      "e": "El estudiante no tiene habilitación legal para ejercer: cualquier técnica debe hacerla bajo supervisión directa del profesional que lo tutela."
+    },
+    {
+      "q": "La norma que estableció el catálogo de especialidades de enfermería es el:",
+      "o": ["RD 183/2008", "RD 1146/2006", "RD 450/2005", "RD 639/2015"],
+      "a": 2,
+      "e": "El RD 183/2008 organiza la formación especializada, el RD 1146/2006 regula la relación laboral del residente y el RD 639/2015, los diplomas de acreditación."
+    },
+    {
+      "q": "La duración del programa de formación como residente (EIR) en las especialidades de enfermería es de:",
+      "o": ["1 año", "2 años", "3 años", "4 años"],
+      "a": 1,
+      "e": "Las siete especialidades del RD 450/2005 duran 2 años a tiempo completo, incluida la de matrona."
+    },
+    {
+      "q": "La especialidad de enfermería que figura en el RD 450/2005 pero no cuenta con programa formativo ni plazas EIR es la de:",
+      "o": ["Cuidados médico-quirúrgicos", "Enfermería geriátrica", "Enfermería del trabajo", "Enfermería pediátrica"],
+      "a": 0,
+      "e": "Las demás (matrona, salud mental, del trabajo, familiar y comunitaria, pediátrica y geriátrica) están desarrolladas y convocan plazas cada año."
+    },
+    {
+      "q": "La relación laboral especial de residencia (jornada, guardias, descansos y retribuciones del residente) está regulada por el:",
+      "o": ["RD 450/2005", "RD 183/2008", "RD 589/2022", "RD 1146/2006"],
+      "a": 3,
+      "e": "Entre otras cosas, establece un descanso mínimo de 12 horas consecutivas entre jornadas."
+    },
+    {
+      "q": "El RD 183/2008 regula principalmente:",
+      "o": ["El plan de estudios del Grado en Enfermería", "Las prestaciones de la Ley de Dependencia", "Los órganos docentes de la formación sanitaria especializada (comisión de docencia, jefe de estudios, tutores) y la evaluación del residente", "La carrera profesional del personal estatutario"],
+      "a": 2,
+      "e": "Es la norma organizativa de la formación sanitaria especializada. El plan de estudios del grado lo regula la Orden CIN/2134/2008."
+    },
+    {
+      "q": "La Comisión de Docencia de un centro con formación especializada está presidida por:",
+      "o": ["El jefe de estudios de formación especializada", "El director gerente del área", "El director de enfermería", "El tutor más antiguo"],
+      "a": 0,
+      "e": "La comisión es un órgano colegiado que organiza la formación y supervisa el cumplimiento de los programas. El jefe de estudios dirige la planificación y la gestión de la docencia especializada."
+    },
+    {
+      "q": "Según el RD 183/2008, cada tutor puede tener asignados como máximo:",
+      "o": ["2 residentes", "5 residentes", "10 residentes", "Sin límite"],
+      "a": 1,
+      "e": "En un área de capacitación específica, el tutor solo puede tener un especialista en formación."
+    },
+    {
+      "q": "En la evaluación anual del residente, la calificación oficial la otorga:",
+      "o": ["El tutor, mediante su informe", "El colaborador docente de la última rotación", "El propio residente", "El Comité de Evaluación"],
+      "a": 3,
+      "e": "El tutor informa y el comité califica. El informe anual del tutor es el instrumento básico para la valoración, pero no es la calificación."
+    },
+    {
+      "q": "El Comité de Evaluación debe reunirse para la evaluación anual del residente:",
+      "o": ["En los 30 días posteriores al fin del año formativo", "Al inicio del año formativo", "En los 15 días anteriores a la conclusión del año formativo", "Solo al final de la residencia"],
+      "a": 2,
+      "e": "Lo preside el jefe de estudios e incluye al tutor del residente, un especialista del centro y un vocal designado por la comunidad autónoma."
+    },
+    {
+      "q": "Una evaluación anual negativa no recuperable del residente supone:",
+      "o": ["La extinción del contrato", "La repetición automática del año completo", "Una amonestación sin consecuencias", "La promoción al año siguiente con un plan de mejora"],
+      "a": 0,
+      "e": "Se produce por faltas de asistencia injustificadas, falta de aprovechamiento o insuficiencias insalvables. En la negativa recuperable, el contrato se prorroga con un programa de recuperación."
+    },
+    {
+      "q": "El instrumento en el que el residente registra sus rotaciones, sesiones y actividades, que sirve para la evaluación formativa, es:",
+      "o": ["El expediente académico", "El libro del residente", "El Plan Individual de Formación", "El informe anual del tutor"],
+      "a": 1,
+      "e": "El Plan Individual de Formación lo elabora el tutor para adaptar el programa oficial al residente, y el informe anual del tutor es la base de la evaluación anual."
+    },
+    {
+      "q": "Según la Ley 44/2003 (LOPS), la formación continuada de los profesionales sanitarios es:",
+      "o": ["Voluntaria y sin efectos", "Exclusivamente un deber", "Exclusivamente un derecho", "Un derecho y un deber"],
+      "a": 3,
+      "e": "Como derecho, los centros deben facilitar el acceso a la formación; como deber, el profesional debe mantener actualizada su competencia."
+    },
+    {
+      "q": "Los créditos de formación continuada de una actividad acreditada por la comisión de una comunidad autónoma:",
+      "o": ["Solo son válidos en esa comunidad", "Solo son válidos en el centro organizador", "Tienen validez en todo el territorio nacional", "Caducan a los dos años"],
+      "a": 2,
+      "e": "El sistema de acreditación garantiza que los créditos se reconozcan en toda España, en bolsas de trabajo, traslados y carrera profesional."
+    },
+    {
+      "q": "En la Comisión de Formación Continuada de la Región de Murcia (Decreto 223/2006), el secretario:",
+      "o": ["Asiste con voz pero sin voto", "Tiene voto de calidad en caso de empate", "Preside la comisión", "No asiste a las sesiones"],
+      "a": 0,
+      "e": "La comisión está adscrita a la Consejería de Sanidad y se encarga del asesoramiento en materia de formación y de la acreditación de actividades."
+    },
+    {
+      "q": "A diferencia del crédito ECTS, el crédito de formación continuada (CFC) se calcula:",
+      "o": ["Igual que el ECTS, a razón de 25-30 horas", "Solo según el número de alumnos", "Según el precio de la matrícula", "Con un criterio mixto: un componente cuantitativo (horas lectivas) ponderado por un componente cualitativo"],
+      "a": 3,
+      "e": "Como orientación, un CFC equivale a unas 10 horas lectivas, pero su valor final depende de la evaluación de la calidad de la actividad."
+    },
+    {
+      "q": "Uno de los apartados que se valoran en la evaluación cualitativa de una actividad para acreditarla como formación continuada es:",
+      "o": ["El precio de la matrícula", "La pertinencia de la actividad respecto a las necesidades del sistema sanitario", "La categoría de la entidad organizadora", "El número de patrocinadores"],
+      "a": 1,
+      "e": "Los cinco apartados son objetivos, organización, pertinencia, metodología y evaluación. Se valoran más las metodologías activas como la simulación o el aprendizaje basado en problemas."
+    },
+    {
+      "q": "Los diplomas de acreditación y de acreditación avanzada, que certifican la competencia en un área funcional específica, están regulados por el:",
+      "o": ["RD 450/2005", "RD 183/2008", "RD 639/2015", "RD 1125/2003"],
+      "a": 2,
+      "e": "Reconocen la experiencia y la formación de un profesional en un área concreta, como los cuidados paliativos, pero no equivalen a una especialidad."
+    },
+    {
+      "q": "En el Servicio Murciano de Salud, la carrera profesional del personal estatutario se ampara en:",
+      "o": ["La Ley 5/2001 de personal estatutario del SMS, con un grado inicial y niveles I a IV", "La Orden CIN/2134/2008", "El RD 1146/2006", "La Ley 39/2006"],
+      "a": 0,
+      "e": "Se desarrolla con acuerdos de la Mesa Sectorial de Sanidad. Se valoran la actividad asistencial, la formación, la docencia e investigación y el compromiso con la organización."
+    },
+    {
+      "q": "Para ascender de un nivel de carrera profesional al siguiente en el SMS, además de los méritos, se exige una permanencia mínima en el nivel anterior de:",
+      "o": ["1 año", "2 años", "3 años", "5 años"],
+      "a": 3,
+      "e": "El tiempo mínimo es un requisito previo: sin cumplirlo no se pueden baremar los méritos."
+    },
+    {
+      "q": "En los niveles más altos de la carrera profesional, el peso de la evaluación se desplaza hacia:",
+      "o": ["La simple asistencia a cursos", "La actividad docente e investigadora (tutor EIR, colaborador docente, publicaciones)", "La antigüedad sin otros méritos", "Las horas extraordinarias realizadas"],
+      "a": 1,
+      "e": "Se espera que el profesional pase de receptor a emisor de conocimiento, liderando la docencia y la investigación."
+    }
+  ]
+}

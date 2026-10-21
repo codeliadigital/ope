@@ -1,0 +1,187 @@
+{
+  "tema": 22,
+  "titulo": "Indicación, uso y autorización de dispensación de medicamentos por enfermeras. RD 954/2015 y acreditación",
+  "programa": "Actuación de enfermería en el uso y autorización de dispensación de medicamentos: Real Decreto 954/2015, de 23 de octubre, y su modificación por el RD 1302/2018. Acreditación de los enfermeros para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano. Acreditación en el SMS, guías nacionales y protocolos regionales.",
+  "preguntas": [
+    {
+      "q": "La competencia exclusiva del Estado sobre las bases de la sanidad y la legislación de productos farmacéuticos se recoge en:",
+      "o": ["El artículo 43 de la Constitución", "El artículo 41 de la Constitución", "La Ley 44/2003", "El artículo 149.1.16.ª de la Constitución"],
+      "a": 3,
+      "e": "Por eso la regulación básica de la indicación enfermera es estatal; la ejecución (acreditación) corresponde a las comunidades autónomas."
+    },
+    {
+      "q": "El texto legal de rango superior vigente que ampara la indicación y autorización de dispensación por enfermeras es:",
+      "o": ["El Real Decreto Legislativo 1/2015, texto refundido de la Ley de garantías y uso racional de los medicamentos", "La Ley 29/2006", "La Ley 14/1986", "La Ley 41/2002"],
+      "a": 0,
+      "e": "La Ley 29/2006 (modificada por la Ley 28/2009) fue derogada por el texto refundido de 2015."
+    },
+    {
+      "q": "La validez de una orden de dispensación para retirar el producto en la oficina de farmacia es, con carácter general, de:",
+      "o": ["3 días hábiles", "1 mes", "10 días naturales desde su emisión o desde la fecha prevista de dispensación", "15 días hábiles"],
+      "a": 2,
+      "e": "Lo establece el RD 1718/2010 sobre receta médica y órdenes de dispensación."
+    },
+    {
+      "q": "Según el artículo 2 del RD 954/2015, los enfermeros acreditados pueden de forma autónoma:",
+      "o": ["Prescribir cualquier medicamento sujeto a receta", "Indicar, usar y autorizar la dispensación de medicamentos no sujetos a prescripción médica y de productos sanitarios", "Emitir recetas médicas", "Modificar el principio activo de una prescripción médica"],
+      "a": 1,
+      "e": "Para estos productos basta la acreditación y el juicio clínico enfermero."
+    },
+    {
+      "q": "Para que una enfermera acreditada pueda indicar un medicamento sujeto a prescripción médica es necesario:",
+      "o": ["Solo tener un año de experiencia", "La autorización verbal del supervisor", "Que exista una guía nacional validada y un protocolo autonómico, en un marco colaborativo", "Que el paciente lo solicite por escrito"],
+      "a": 2,
+      "e": "En general, el médico ha establecido antes el diagnóstico y la prescripción inicial; la enfermera hace el seguimiento según el protocolo."
+    },
+    {
+      "q": "Las guías para la indicación enfermera de medicamentos sujetos a prescripción las elabora:",
+      "o": ["Un grupo de trabajo paritario de la Comisión Permanente de Farmacia del Consejo Interterritorial del SNS", "Exclusivamente el Consejo General de Enfermería", "Cada hospital de forma independiente", "La Organización Médica Colegial en solitario"],
+      "a": 0,
+      "e": "Participan el Ministerio, las comunidades autónomas, las mutualidades, el Consejo General de Enfermería y la OMC; las valida la Dirección General de Salud Pública y se publican en el BOE."
+    },
+    {
+      "q": "La sentencia del Tribunal Constitucional que anuló los aspectos del RD 954/2015 que invadían la competencia autonómica de acreditación es la:",
+      "o": ["STC 37/2011", "STC 76/2018", "STC 154/2015", "STC 1/2020"],
+      "a": 1,
+      "e": "Tras ella se aprobó el RD 1302/2018, de 22 de octubre, que modificó el RD 954/2015."
+    },
+    {
+      "q": "Tras el RD 1302/2018, la administración por enfermeras de las vacunas del calendario y de las campañas de salud pública:",
+      "o": ["Exige siempre prescripción médica individualizada", "Está prohibida para enfermeras no especialistas", "Solo puede hacerse en el hospital", "Solo precisa orden de dispensación enfermera, salvo que el paciente requiera una valoración médica individualizada"],
+      "a": 3,
+      "e": "Si el paciente presenta condiciones particulares (p. ej., anafilaxia previa o inmunosupresión grave), se requiere valoración médica."
+    },
+    {
+      "q": "Para obtener la acreditación como enfermero de cuidados generales se exige:",
+      "o": ["Un año de experiencia profesional o superar un curso de adaptación gratuito", "Cinco años de experiencia en la sanidad pública", "Un máster oficial en farmacología", "Ser especialista en Enfermería Familiar y Comunitaria"],
+      "a": 0,
+      "e": "El curso de adaptación (ECTS) está pensado para quienes aún no tienen el año de experiencia."
+    },
+    {
+      "q": "Para computar el año de experiencia necesario para la acreditación:",
+      "o": ["Solo cuentan las plazas en propiedad de la sanidad pública", "Solo cuentan los servicios en Atención Primaria", "Cuentan todos los servicios prestados, en centros públicos o privados", "Solo cuenta la experiencia posterior a 2015"],
+      "a": 2,
+      "e": "Se suman todos los servicios desde el primer nombramiento, incluidos clínicas privadas, concertadas o mutuas."
+    },
+    {
+      "q": "Respecto a la acreditación de los enfermeros, es correcto que:",
+      "o": ["La concede el Ministerio de Sanidad a través del REPS", "La concede el colegio profesional", "Caduca cada 5 años", "La concede la comunidad autónoma y se inscribe en el Registro Estatal de Profesionales Sanitarios, lo que le da validez nacional"],
+      "a": 3,
+      "e": "La vigencia es indefinida, salvo suspensión o revocación por pérdida de requisitos, sanción firme o inhabilitación."
+    },
+    {
+      "q": "Una enfermera especialista en salud mental acreditada como tal puede indicar medicamentos sujetos a prescripción:",
+      "o": ["De cualquier ámbito clínico, por su titulación superior", "Solo dentro de las guías y protocolos de su especialidad", "Solo productos sanitarios", "Ningún medicamento con receta"],
+      "a": 1,
+      "e": "Fuera de su especialidad actúa con las competencias de enfermera de cuidados generales."
+    },
+    {
+      "q": "En el Servicio Murciano de Salud, las resoluciones de acreditación de oficio del personal de enfermería las dicta:",
+      "o": ["El Consejero de Salud directamente", "El Director Gerente del SMS, por delegación de la Consejería", "El Colegio Oficial de Enfermería de Murcia", "El Ministerio de Sanidad"],
+      "a": 1,
+      "e": "La primera resolución masiva se publicó en el BORM el 30 de enero de 2023 y se actualiza mensualmente."
+    },
+    {
+      "q": "El procedimiento 3460 de la sede electrónica de la CARM está destinado a:",
+      "o": ["La acreditación a instancia de parte de enfermeras que trabajan en la sanidad privada o no constan en los registros del SMS", "La renovación anual de la acreditación del personal del SMS", "La notificación de reacciones adversas", "La solicitud de recetas médicas"],
+      "a": 0,
+      "e": "Se aporta un certificado de experiencia de la empresa o una declaración responsable (autónomos) y no tiene tasas."
+    },
+    {
+      "q": "En el procedimiento 3460 de la CARM, el plazo máximo de resolución y el sentido del silencio administrativo son:",
+      "o": ["3 meses y silencio negativo", "1 mes y silencio negativo", "2 meses y silencio positivo", "6 meses y silencio positivo"],
+      "a": 3,
+      "e": "Contra la resolución puede interponerse recurso de alzada ante la Consejería de Salud en el plazo de un mes."
+    },
+    {
+      "q": "Según las guías nacionales de hipertensión y diabetes, la enfermera acreditada puede:",
+      "o": ["Cambiar un IECA por un ARA-II si el paciente tiene tos", "Iniciar un tratamiento antidiabético sin diagnóstico médico", "Prorrogar el tratamiento crónico y ajustar la dosis dentro de los rangos definidos por el médico", "Retirar definitivamente la insulina"],
+      "a": 2,
+      "e": "Los cambios de grupo farmacológico o de diagnóstico son competencia médica; ante signos de alarma suspende y deriva."
+    },
+    {
+      "q": "La guía de quemaduras autoriza a la enfermera a usar corticoides tópicos:",
+      "o": ["Solo para complicaciones como la hipergranulación, las reacciones alérgicas locales o las cicatrices hipertróficas y queloides", "Como tratamiento inicial de todas las quemaduras de primer grado", "Asociados siempre a antibióticos desde el primer día", "Nunca"],
+      "a": 0,
+      "e": "Pertenecen al grupo ATC D07AC; además hay que comprobar su financiación en BIFIMED."
+    },
+    {
+      "q": "En un paciente anticoagulado con acenocumarol por fibrilación auricular, el rango de INR objetivo habitual es:",
+      "o": ["0,5-1", "1-1,5", "4-5", "2-3"],
+      "a": 3,
+      "e": "En portadores de válvulas mecánicas el objetivo puede ser 2,5-3,5. Sin anticoagulación, el INR es de 1."
+    },
+    {
+      "q": "Un paciente en tratamiento con acenocumarol presenta un INR de 1,5. Según la guía, la actuación es:",
+      "o": ["Administrar vitamina K intravenosa", "Aumentar la dosis de acenocumarol según el algoritmo, porque está en rango subterapéutico", "Suspender el acenocumarol", "Mantener la misma dosis"],
+      "a": 1,
+      "e": "La vitamina K se emplea para revertir INR supraterapéuticos con riesgo de sangrado, no para un INR bajo."
+    },
+    {
+      "q": "La guía de deshabituación tabáquica regula la indicación enfermera de:",
+      "o": ["Bupropión y nortriptilina", "Benzodiacepinas", "Vareniclina y citisiniclina", "Parches de nicotina exclusivamente"],
+      "a": 2,
+      "e": "Son agonistas parciales de los receptores nicotínicos: alivian la abstinencia y reducen la recompensa si el paciente fuma."
+    },
+    {
+      "q": "¿Cuál de los siguientes anestésicos locales es de tipo éster?",
+      "o": ["Lidocaína", "Bupivacaína", "Tetracaína", "Mepivacaína"],
+      "a": 2,
+      "e": "Las amidas llevan una \"i\" antes de \"-caína\" (lidocaína, bupivacaína, mepivacaína); la tetracaína no."
+    },
+    {
+      "q": "Durante una infiltración de mepivacaína, el paciente refiere sabor metálico, zumbidos y hormigueo alrededor de la boca. La enfermera debe:",
+      "o": ["Suspender la infiltración, iniciar soporte vital y avisar urgentemente al médico", "Aplicar lidocaína tópica y continuar", "Aumentar la dosis para terminar antes", "Esperar a que desaparezcan los síntomas"],
+      "a": 0,
+      "e": "Son signos de toxicidad sistémica por anestésicos locales (LAST), una urgencia vital."
+    },
+    {
+      "q": "La guía de infección del tracto urinario inferior permite a la enfermera indicar fosfomicina o nitrofurantoína:",
+      "o": ["A cualquier paciente con disuria", "A embarazadas con bacteriuria", "A varones con prostatitis", "A mujeres adultas no gestantes con cistitis no complicada, si las resistencias locales de E. coli son bajas"],
+      "a": 3,
+      "e": "La gerencia del área debe certificar que las tasas de resistencia locales están dentro de los márgenes de seguridad."
+    },
+    {
+      "q": "En los protocolos del SMS, la intervención NIC 2390 corresponde a:",
+      "o": ["Derivación", "Prescribir medicación", "Apoyo al cuidador principal", "Cuidados de las heridas"],
+      "a": 1,
+      "e": "NIC 8100 es derivación, 7040 apoyo al cuidador principal y 3660 cuidados de las heridas."
+    },
+    {
+      "q": "Según el protocolo de heridas del SMS, la escala que orienta hacia una infección profunda o con riesgo de osteomielitis es:",
+      "o": ["STONES", "NERDS", "Braden", "Altemeier"],
+      "a": 0,
+      "e": "NERDS orienta hacia colonización crítica o infección superficial; STONES, hacia infección profunda."
+    },
+    {
+      "q": "Según el protocolo de ostomías del SMS, el riesgo nutricional del paciente ostomizado se valora con la escala:",
+      "o": ["Gijón", "Barthel", "EVA", "NRS 2002"],
+      "a": 3,
+      "e": "Gijón valora el riesgo social, Barthel la capacidad para el autocuidado y EVA el dolor."
+    },
+    {
+      "q": "Según la clasificación de Altemeier que recoge el protocolo de heridas del SMS, una herida quirúrgica limpia-contaminada es de clase:",
+      "o": ["I", "III", "II", "IV"],
+      "a": 2,
+      "e": "Clase I: limpia; II: limpia-contaminada; III: contaminada; IV: sucia o infectada."
+    },
+    {
+      "q": "Antes de aplicar bromelaína (NexoBrid) en una quemadura, el lecho debe estar libre de restos de sulfadiazina argéntica porque:",
+      "o": ["Aumenta el dolor", "La plata inactiva la enzima", "Produce quemaduras químicas", "Retrasa la absorción sistémica de la plata"],
+      "a": 1,
+      "e": "El lecho debe estar húmedo, limpio y sin restos de antimicrobianos ni queratina."
+    },
+    {
+      "q": "Según el protocolo de quemaduras del SMS, la bromelaína (NexoBrid) puede aplicarse:",
+      "o": ["En un máximo del 15% de la superficie corporal por sesión, durante 4 horas", "En hasta el 50% de la superficie corporal durante 24 horas", "En quemaduras faciales y perineales preferentemente", "En dos aplicaciones consecutivas si no se desbrida del todo"],
+      "a": 0,
+      "e": "Está indicada en quemaduras de 2.º grado profundo y 3.º; la dosis es de 2 g por cada 100 cm² y está contraindicada en alergia a la piña o la papaína."
+    },
+    {
+      "q": "Si un paciente presenta una reacción al apósito medicamentoso prescrito por el médico, la enfermera acreditada del SMS:",
+      "o": ["Puede cambiar el principio activo en la receta electrónica", "Debe duplicar el tratamiento con otro apósito", "Debe esperar a la siguiente revisión", "No puede modificar el principio activo: suspende la indicación, registra y deriva al médico"],
+      "a": 3,
+      "e": "Además, debe notificar la sospecha de reacción adversa al Sistema Español de Farmacovigilancia lo antes posible."
+    }
+  ]
+}

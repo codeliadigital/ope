@@ -1,0 +1,187 @@
+{
+  "tema": 44,
+  "titulo": "Cuidados de enfermería a personas con problemas gastrointestinales. Principales problemas del aparato digestivo. Ostomías. Técnicas y procedimientos",
+  "programa": "Valoración y cuidados de enfermería a personas con problemas gastrointestinales. Principales problemas del aparato digestivo (esófago, estómago, intestino, vía biliar, hígado y páncreas). Ostomías. Procedimientos: sondaje nasogástrico, enemas, fecalomas y recogida de muestras de heces.",
+  "preguntas": [
+    {
+      "q": "¿Cuál es el orden correcto de la exploración física del abdomen?",
+      "o": ["Inspección, palpación, percusión y auscultación", "Palpación, percusión, inspección y auscultación", "Inspección, auscultación, percusión y palpación", "Auscultación, inspección, palpación y percusión"],
+      "a": 2,
+      "e": "En el abdomen se ausculta antes de percutir y palpar, porque la manipulación altera los ruidos hidroaéreos: inspección, auscultación, percusión y palpación."
+    },
+    {
+      "q": "Según la escala de Bristol, las heces de tipo 6-7 corresponden a:",
+      "o": ["Heces de diarrea (pastosas o acuosas)", "Heces de estreñimiento (trozos duros)", "Heces normales con forma de salchicha lisa", "Esteatorrea"],
+      "a": 0,
+      "e": "La escala de Bristol tiene 7 tipos: los tipos 1-2 indican estreñimiento (trozos duros o grumos), los 3-4 son normales y los 6-7 corresponden a diarrea."
+    },
+    {
+      "q": "Las heces negras, brillantes, pegajosas y malolientes, con aspecto de alquitrán, se denominan:",
+      "o": ["Hematoquecia", "Rectorragia", "Esteatorrea", "Melena"],
+      "a": 3,
+      "e": "La melena se debe a sangre digerida y suele indicar una hemorragia digestiva alta. La rectorragia es sangre roja brillante por el ano y la hematoquecia, sangre roja mezclada con las heces."
+    },
+    {
+      "q": "La interrupción brusca de la inspiración profunda por dolor al palpar bajo el reborde costal derecho es el signo de:",
+      "o": ["Blumberg, propio de la irritación peritoneal", "Murphy, característico de la colecistitis aguda", "Rovsing, propio de la apendicitis", "Cullen, propio de la pancreatitis"],
+      "a": 1,
+      "e": "El signo de Murphy es típico de la colecistitis aguda. El Blumberg es el dolor a la descompresión brusca; el Rovsing, dolor en la FID al presionar la FII; y el Cullen, la equimosis periumbilical."
+    },
+    {
+      "q": "Un paciente presenta disfagia para sólidos y líquidos desde el inicio, regurgitación nocturna de alimentos no digeridos y un esofagograma en «pico de pájaro». La prueba que confirma el diagnóstico es:",
+      "o": ["La manometría esofágica", "La pH-metría de 24 horas", "La ecografía abdominal", "El test del aliento"],
+      "a": 0,
+      "e": "Es una acalasia: el esfínter esofágico inferior no se relaja y falta el peristaltismo. La manometría es la prueba definitiva. La disfagia motora afecta a sólidos y líquidos desde el principio; la mecánica, primero a sólidos."
+    },
+    {
+      "q": "Ante un niño que ha ingerido lejía, la actuación correcta es:",
+      "o": ["Inducir el vómito lo antes posible", "Darle vinagre o zumo de limón para neutralizar el álcali", "No inducir el vómito, no hacer lavado gástrico ni neutralizar, y vigilar la vía aérea", "Hacer un lavado gástrico con sonda de Faucher"],
+      "a": 2,
+      "e": "Con cáusticos, el vómito, el lavado y la neutralización vuelven a quemar la mucosa o producen calor. Se protege la vía aérea, se da analgesia y se hace endoscopia en las primeras 24-48 h. La secuela tardía típica es la estenosis."
+    },
+    {
+      "q": "La tríada de Mackler (vómitos, dolor torácico intenso y enfisema subcutáneo) es característica de:",
+      "o": ["El síndrome de Mallory-Weiss", "La acalasia", "La hernia de hiato paraesofágica", "El síndrome de Boerhaave"],
+      "a": 3,
+      "e": "El síndrome de Boerhaave es la rotura espontánea del esófago tras vómitos violentos. El Mallory-Weiss es solo un desgarro de la mucosa, que sangra pero no perfora."
+    },
+    {
+      "q": "El esófago de Barrett:",
+      "o": ["Es la causa más frecuente de disfagia orofaríngea", "Es una metaplasia intestinal por reflujo crónico y una lesión premaligna de adenocarcinoma", "Se asocia sobre todo al carcinoma epidermoide del tercio superior", "Es una complicación de la ingesta de cáusticos que obliga a dilatar"],
+      "a": 1,
+      "e": "Por el reflujo ácido crónico, el epitelio escamoso distal se transforma en epitelio intestinal (metaplasia). Es premaligno y predispone al adenocarcinoma del tercio distal. El epidermoide se asocia al alcohol y al tabaco."
+    },
+    {
+      "q": "Es típico de la úlcera duodenal:",
+      "o": ["Dolor epigástrico 2-3 horas después de comer o de madrugada, que mejora al ingerir alimento", "Dolor precoz tras las comidas que empeora al comer y lleva a la anorexia", "Que deba biopsiarse siempre porque maligniza con frecuencia", "Que su causa principal sea el grupo sanguíneo A"],
+      "a": 0,
+      "e": "En la úlcera duodenal la comida amortigua el ácido y alivia el dolor. La úlcera gástrica duele pronto y empeora con la ingesta, y debe biopsiarse siempre para descartar un cáncer. Las duodenales casi nunca malignizan."
+    },
+    {
+      "q": "¿Cuál es la complicación más frecuente de la úlcera péptica?",
+      "o": ["La perforación", "La estenosis pilórica", "La malignización", "La hemorragia digestiva"],
+      "a": 3,
+      "e": "La hemorragia (hematemesis o melena) es la complicación más frecuente. La perforación produce dolor súbito y abdomen en tabla, y la obstrucción pilórica, vómitos tardíos con alcalosis metabólica."
+    },
+    {
+      "q": "Se considera hemorragia digestiva alta la que se origina:",
+      "o": ["Por encima de la válvula ileocecal", "En cualquier punto del intestino delgado", "Por encima del ángulo de Treitz", "Por encima del esfínter anal interno"],
+      "a": 2,
+      "e": "La HDA nace en el esófago, el estómago o el duodeno, por encima del ángulo de Treitz. Su causa más frecuente es la úlcera péptica; también las varices y el Mallory-Weiss."
+    },
+    {
+      "q": "En un paciente con hemorragia digestiva alta e inestabilidad hemodinámica, una de las primeras actuaciones de enfermería es:",
+      "o": ["Iniciar dieta líquida para proteger la mucosa", "Canalizar dos vías venosas periféricas de grueso calibre (14-18 G)", "Colocar al paciente en decúbito prono", "Administrar un enema de limpieza"],
+      "a": 1,
+      "e": "Dos vías gruesas permiten reponer la volemia con rapidez. Se monitoriza la hemodinámica por el riesgo de shock hipovolémico y se prepara la endoscopia urgente."
+    },
+    {
+      "q": "Para el estudio de sangre oculta en heces se recomienda:",
+      "o": ["Recoger muestras de tres deposiciones en días distintos, tomando porciones de diferentes zonas", "Una sola muestra de la primera deposición de la mañana", "Recoger las heces de 72 horas en un único recipiente", "Tomar la muestra solo de la superficie de la deposición"],
+      "a": 0,
+      "e": "El sangrado puede ser intermitente, por eso se recogen tres deposiciones en días distintos y porciones de varios sitios de cada muestra. La recogida de 72 horas es para cuantificar la grasa (Van de Kamer)."
+    },
+    {
+      "q": "La causa más frecuente de obstrucción mecánica del intestino delgado es:",
+      "o": ["El cáncer colorrectal", "El vólvulo de sigma", "El íleo biliar", "Las bridas o adherencias posquirúrgicas"],
+      "a": 3,
+      "e": "En el intestino delgado predominan las adherencias, seguidas de las hernias. En el intestino grueso la causa principal es el cáncer colorrectal, y después la diverticulitis y el vólvulo de sigma."
+    },
+    {
+      "q": "Para hacer un lavado gástrico, el paciente se coloca en:",
+      "o": ["Decúbito lateral derecho", "Decúbito prono", "Decúbito lateral izquierdo", "Trendelenburg con decúbito supino"],
+      "a": 2,
+      "e": "El decúbito lateral izquierdo (con la cabeza algo más baja) reduce el paso del contenido al duodeno y protege frente a la broncoaspiración. Se usa una sonda gruesa tipo Faucher."
+    },
+    {
+      "q": "En la diverticulitis aguda, está contraindicado en la fase aguda:",
+      "o": ["El TAC abdominal con contraste", "La colonoscopia", "La fluidoterapia intravenosa", "La antibioterapia de amplio espectro"],
+      "a": 1,
+      "e": "La colonoscopia y el enema opaco pueden perforar un colon inflamado; se hacen pasadas unas 6 semanas para descartar un cáncer. El TAC es la prueba de imagen de elección."
+    },
+    {
+      "q": "Es característico de la enfermedad de Crohn:",
+      "o": ["La afectación transmural y segmentaria, que favorece fístulas y estenosis", "La afectación exclusiva del colon y el recto", "La afectación continua desde el recto", "Que el tabaco tenga un efecto protector"],
+      "a": 0,
+      "e": "El Crohn puede afectar cualquier tramo de la boca al ano, sobre todo el íleon terminal, con zonas sanas intercaladas y todo el espesor de la pared. El tabaco lo empeora. Las demás opciones describen la colitis ulcerosa."
+    },
+    {
+      "q": "Respecto a la colitis ulcerosa, es correcto que:",
+      "o": ["Produce con frecuencia fístulas perianales", "Afecta a todo el espesor de la pared intestinal", "La cirugía no es curativa porque recidiva en el intestino delgado", "Comienza en el recto y se extiende de forma continua, con diarrea sanguinolenta y tenesmo"],
+      "a": 3,
+      "e": "La colitis ulcerosa afecta solo a la mucosa del colon y el recto, de forma continua. Su complicación más temida en el brote es el megacolon tóxico. La proctocolectomía es curativa."
+    },
+    {
+      "q": "La tríada de Charcot, típica de la colangitis aguda, está formada por:",
+      "o": ["Dolor en cinturón, vómitos y fiebre", "Ictericia, coluria y acolia", "Fiebre con escalofríos, dolor en hipocondrio derecho e ictericia", "Fiebre, hipotensión y confusión"],
+      "a": 2,
+      "e": "Si a la tríada de Charcot se suman hipotensión y alteración mental, se habla de péntada de Reynolds (sepsis biliar grave). El tratamiento clave es drenar la vía biliar, generalmente por CPRE."
+    },
+    {
+      "q": "Una vesícula biliar palpable e indolora en un paciente con ictericia (signo de Courvoisier-Terrier) hace sospechar:",
+      "o": ["Colecistitis aguda litiásica", "Cáncer de la cabeza del páncreas", "Cólico biliar simple", "Hepatitis aguda vírica"],
+      "a": 1,
+      "e": "Un tumor de la cabeza del páncreas obstruye el colédoco poco a poco: la vesícula se distiende sin inflamarse y la ictericia es indolora. En la litiasis la vesícula suele estar fibrosada y duele."
+    },
+    {
+      "q": "En la pancreatitis aguda, la enzima sérica más específica para el diagnóstico es:",
+      "o": ["La lipasa", "La amilasa", "La fosfatasa alcalina", "La GGT"],
+      "a": 0,
+      "e": "Se diagnostica con una amilasa y/o lipasa por encima de 3 veces el valor normal, y la lipasa es la más específica. Las causas principales son la litiasis biliar y el alcohol."
+    },
+    {
+      "q": "El objetivo terapéutico de la lactulosa en la encefalopatía hepática es conseguir:",
+      "o": ["Una deposición cada 48 horas", "Diarrea líquida abundante", "Que el paciente no haga deposiciones para reducir proteínas", "Unas 2-3 deposiciones blandas al día"],
+      "a": 3,
+      "e": "La lactulosa acidifica la luz intestinal, reduce la absorción de amoníaco y acelera su eliminación. El estreñimiento, las hemorragias digestivas y las infecciones precipitan la encefalopatía."
+    },
+    {
+      "q": "En una paracentesis evacuadora de más de 5 litros en un paciente cirrótico, para prevenir la disfunción circulatoria se administra:",
+      "o": ["Suero glucosado al 5% 1 litro por cada litro extraído", "Furosemida intravenosa", "Albúmina intravenosa, unos 6-8 g por litro de líquido ascítico extraído", "Plasma fresco congelado"],
+      "a": 2,
+      "e": "La reposición con albúmina evita la hipovolemia efectiva tras extraer mucho líquido. Antes de la punción el paciente debe vaciar la vejiga, y la evacuación debe ser lenta, controlando la tensión arterial."
+    },
+    {
+      "q": "Tras una biopsia hepática percutánea, el paciente debe colocarse en:",
+      "o": ["Decúbito lateral izquierdo durante 30 minutos", "Decúbito lateral derecho durante al menos 2 horas", "Sedestación para facilitar la respiración", "Trendelenburg durante 6 horas"],
+      "a": 1,
+      "e": "El decúbito lateral derecho comprime el punto de punción con el propio peso y favorece la hemostasia. Durante la punción se pide al paciente que mantenga la apnea tras una espiración."
+    },
+    {
+      "q": "El método más fiable para comprobar a pie de cama la posición gástrica de una SNG antes de administrar nutrición es:",
+      "o": ["Medir el pH del aspirado (inferior a 5,5) y, si hay duda, radiografía", "Auscultar el epigastrio mientras se insufla aire", "Introducir el extremo en un vaso de agua y ver si burbujea", "Comprobar que el paciente puede hablar"],
+      "a": 0,
+      "e": "La auscultación tras insuflar aire no es fiable. El pH ácido del aspirado orienta a una posición gástrica, y la radiografía es la prueba de confirmación cuando hay dudas o en las sondas finas de nutrición."
+    },
+    {
+      "q": "En un paciente portador de una sonda de Sengstaken-Blakemore, ¿qué material debe estar siempre a pie de cama?",
+      "o": ["Un aspirador de secreciones portátil sin conexión", "Una bolsa de nutrición enteral", "Una pinza de Kocher para pinzar la sonda gástrica", "Unas tijeras para cortar la sonda y desinflar los balones si obstruye la vía aérea"],
+      "a": 3,
+      "e": "Si el balón esofágico migra hacia la faringe puede asfixiar al paciente: hay que cortar los cabos para desinflar los balones al instante. El balón esofágico se mantiene a 25-45 mmHg."
+    },
+    {
+      "q": "La sonda nasogástrica de tipo Salem se caracteriza por:",
+      "o": ["Tener una sola luz con orificio distal y cuatro laterales", "Ser de calibre muy grueso para lavados en intoxicaciones", "Tener doble luz, una de drenaje y otra de ventilación que evita que se adhiera a la mucosa", "Tener tres luces y dos balones"],
+      "a": 2,
+      "e": "La Levin tiene una luz, la Faucher es gruesa y sirve para lavados gástricos, y la Sengstaken-Blakemore tiene tres luces y dos balones para taponar varices esofágicas."
+    },
+    {
+      "q": "¿Qué ostomía de eliminación tiene mayor riesgo de deshidratación y alteraciones hidroelectrolíticas?",
+      "o": ["La colostomía sigmoidea", "La ileostomía", "La colostomía descendente", "La urostomía de Bricker"],
+      "a": 1,
+      "e": "La ileostomía elimina heces líquidas y continuas, ricas en enzimas, porque el colon ya no absorbe el agua. Por eso la piel se irrita mucho y se pierden agua, sodio y potasio. No es irrigable."
+    },
+    {
+      "q": "Un estoma intestinal en buen estado debe tener un aspecto:",
+      "o": ["Rojo brillante, húmedo y ligeramente protruyente", "Pálido y seco", "Violáceo o negruzco", "Hundido por debajo del nivel de la piel"],
+      "a": 0,
+      "e": "Un estoma pálido o negruzco indica isquemia o necrosis, y uno hundido (retracción) favorece las fugas. Un leve sangrado al roce es normal. La bolsa se vacía cuando está a 1/3-1/2 de su capacidad."
+    },
+    {
+      "q": "La lavativa de Harris se utiliza para:",
+      "o": ["Ablandar las heces duras con aceite", "Administrar contraste de bario", "Administrar medicación que se debe retener 20-30 minutos", "Favorecer la expulsión de gases de la parte final del colon y el recto (efecto carminativo)"],
+      "a": 3,
+      "e": "La lavativa de Harris es carminativa: sirve para expulsar gases. Los enemas de retención (oleoso, medicamentoso u opaco) deben mantenerse unos 20-30 minutos, y los de limpieza buscan vaciar el colon."
+    }
+  ]
+}

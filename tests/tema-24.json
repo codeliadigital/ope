@@ -1,0 +1,187 @@
+{
+  "tema": 24,
+  "titulo": "Promoción de la actividad física y la alimentación equilibrada. Consejo dietético. Plan de actividad física por subgrupos",
+  "programa": "Promoción de la actividad física y la alimentación equilibrada. Consejo dietético básico. Consejo dietético intensivo. Plan de actividad física individualizado y estandarizado en subgrupos poblacionales: anciano, anciano frágil, enfermedades crónicas y postoperatorio. Otros subgrupos de cuidado: embarazo, infancia y oncología.",
+  "preguntas": [
+    {
+      "q": "En España, la Estrategia NAOS (\"¡Come sano y muévete!\") está coordinada por:",
+      "o": ["La Agencia Española de Seguridad Alimentaria y Nutrición (AESAN)", "La OMS", "Las consejerías de sanidad autonómicas", "La Sociedad Española de Nutrición Comunitaria"],
+      "a": 0,
+      "e": "Sus pilares son la nutrición y la actividad física y su población prioritaria, niños y jóvenes."
+    },
+    {
+      "q": "Según el método del plato de Harvard, las comidas principales deben distribuirse en:",
+      "o": ["50% proteínas, 25% verduras y 25% hidratos", "33% de cada grupo", "50% hidratos, 25% grasas y 25% verduras", "50% verduras y hortalizas, 25% hidratos complejos integrales y 25% proteínas saludables"],
+      "a": 3,
+      "e": "Es una herramienta visual que simplifica el consejo dietético sin necesidad de contar calorías."
+    },
+    {
+      "q": "El aporte diario recomendado de fibra dietética en el adulto es de:",
+      "o": ["5-10 g", "25-30 g", "60-70 g", "100 g"],
+      "a": 1,
+      "e": "Procede sobre todo de cereales integrales, legumbres, frutas y verduras (≥ 400 g/día de frutas y hortalizas)."
+    },
+    {
+      "q": "El gran ensayo español que avaló la dieta mediterránea en la reducción de eventos cardiovasculares es el:",
+      "o": ["Framingham", "REGICOR", "PREDIMED", "SCORE"],
+      "a": 2,
+      "e": "La dieta mediterránea se basa en el aceite de oliva virgen extra, los vegetales, el pescado y las legumbres."
+    },
+    {
+      "q": "El consejo dietético básico en Atención Primaria se caracteriza por:",
+      "o": ["Requerir una agenda programada de 20 minutos", "Realizarse solo en grupo", "Estar reservado a pacientes con obesidad mórbida", "Ser una intervención breve (≈ 5 minutos) y oportunista en cualquier contacto con el paciente"],
+      "a": 3,
+      "e": "Es de elección en pacientes en precontemplación o contemplación y en población general."
+    },
+    {
+      "q": "En el consejo dietético intensivo, la fase grupal consta de:",
+      "o": ["Un único taller", "Un mínimo de 4 talleres y un máximo de 6", "10-12 talleres obligatorios", "Talleres semanales durante un año"],
+      "a": 1,
+      "e": "Va precedida de una sesión individual (sesión 0) y seguida de otra individual (sesión 5) y de un seguimiento de 12 meses."
+    },
+    {
+      "q": "Un paciente con obesidad afirma que come perfectamente y no piensa cambiar nada. Lo más adecuado es:",
+      "o": ["Un consejo individual breve con enfoque de entrevista motivacional", "Incluirlo de inmediato en el taller grupal del consejo intensivo", "Darle una dieta hipocalórica estricta por escrito", "Derivarlo a cirugía bariátrica"],
+      "a": 0,
+      "e": "Está en precontemplación: incluirlo en un grupo de cambio sería contraproducente para él y para el grupo."
+    },
+    {
+      "q": "Tras los talleres del consejo dietético intensivo, el seguimiento del paciente se mantiene durante:",
+      "o": ["1 mes", "3 meses", "12 meses, con revisiones al menos cada 3 meses", "5 años"],
+      "a": 2,
+      "e": "La obesidad y el sedentarismo son crónicos y recidivantes; además se refuerza con llamadas y en cualquier visita."
+    },
+    {
+      "q": "Un anciano obtiene 11 puntos en el MNA-SF. La actuación correcta es:",
+      "o": ["Considerarlo bien nutrido y finalizar", "Iniciar nutrición parenteral", "Considerarlo en riesgo o desnutrido y completar la evaluación global del MNA", "Repetir el cribado al año"],
+      "a": 2,
+      "e": "12-14 puntos es normal; 11 o menos obliga a completar la segunda parte del MNA."
+    },
+    {
+      "q": "En el MNA, cuando no puede calcularse el IMC, se sustituye por el perímetro de la pantorrilla, cuyo punto de corte es:",
+      "o": ["31 cm", "21 cm", "41 cm", "88 cm"],
+      "a": 0,
+      "e": "Menos de 31 cm suma 0 puntos (depleción muscular); 31 cm o más suma 3."
+    },
+    {
+      "q": "En el cribado MUST, el efecto de la enfermedad aguda puntúa si el paciente:",
+      "o": ["Ha comido algo menos durante dos semanas", "Tiene más de 70 años", "Tiene un IMC superior a 30", "No ha ingerido o probablemente no ingerirá alimentos durante más de 5 días"],
+      "a": 3,
+      "e": "Los otros dos parámetros del MUST son el IMC y la pérdida de peso involuntaria en 3-6 meses."
+    },
+    {
+      "q": "Según la SEEDO, existe un riesgo cardiovascular muy elevado cuando el perímetro abdominal es superior a:",
+      "o": ["94 cm en hombres y 80 cm en mujeres", "102 cm en hombres y 88 cm en mujeres", "120 cm en ambos sexos", "88 cm en hombres y 102 cm en mujeres"],
+      "a": 1,
+      "e": "Se mide en el punto medio entre el reborde costal inferior y la cresta ilíaca."
+    },
+    {
+      "q": "El principio FITT para prescribir ejercicio se refiere a:",
+      "o": ["Frecuencia, intensidad, tiempo y tipo", "Fuerza, intensidad, técnica y tolerancia", "Flexibilidad, impacto, tiempo y temperatura", "Frecuencia cardiaca, índice, tensión y talla"],
+      "a": 0,
+      "e": "El ejercicio debe dosificarse con el mismo rigor que un fármaco."
+    },
+    {
+      "q": "Una persona de 60 años con una frecuencia cardiaca de reposo de 70 lpm debe entrenar al 60% de su FC de reserva. Según Karvonen, su frecuencia objetivo es:",
+      "o": ["96 lpm", "160 lpm", "106 lpm", "124 lpm"],
+      "a": 3,
+      "e": "FC máxima = 220 − 60 = 160; reserva = 160 − 70 = 90; 90 × 0,6 = 54; 54 + 70 = 124 lpm."
+    },
+    {
+      "q": "La fórmula de Karvonen utiliza:",
+      "o": ["La tensión arterial y la saturación de oxígeno", "El peso y la talla", "La edad (FC máxima), la frecuencia cardiaca de reposo y el porcentaje de intensidad", "El volumen sistólico"],
+      "a": 2,
+      "e": "Al incluir la FC de reposo, personaliza la intensidad según la condición física basal."
+    },
+    {
+      "q": "Un MET equivale a un consumo de oxígeno de:",
+      "o": ["1 ml O₂/kg/min", "3,5 ml O₂/kg/min", "10 ml O₂/kg/min", "35 ml O₂/kg/min"],
+      "a": 1,
+      "e": "Es el gasto en reposo sentado. Ligera < 3 MET; moderada 3-6; vigorosa > 6."
+    },
+    {
+      "q": "Una actividad física de intensidad moderada se caracteriza por:",
+      "o": ["3-6 MET; la persona puede mantener una conversación pero no cantar", "Menos de 3 MET; no modifica la respiración", "Más de 6 MET; no puede decir frases completas", "Superar el 90% de la FC máxima"],
+      "a": 0,
+      "e": "La prueba del habla es un método sencillo para estimar la intensidad."
+    },
+    {
+      "q": "La escala de Borg original (6-20) tiene la particularidad de que:",
+      "o": ["Es la de elección para medir la disnea en la EPOC", "Sus valores son aleatorios", "Multiplicando por 10 la puntuación se estima aproximadamente la frecuencia cardiaca", "Solo se usa en niños"],
+      "a": 2,
+      "e": "La escala modificada (0-10) es la de elección para valorar disnea y fatiga en pacientes respiratorios, ancianos o crónicos."
+    },
+    {
+      "q": "En un paciente en tratamiento con betabloqueantes, para dosificar la intensidad del ejercicio es preferible utilizar:",
+      "o": ["La frecuencia cardiaca máxima teórica", "La tensión arterial sistólica", "La fórmula de Karvonen", "La escala de percepción del esfuerzo de Borg"],
+      "a": 3,
+      "e": "Los betabloqueantes y la neuropatía autonómica alteran la respuesta de la frecuencia cardiaca."
+    },
+    {
+      "q": "Según los criterios de Fried, un anciano se considera frágil si presenta:",
+      "o": ["1 criterio", "3 o más de los 5 criterios", "Una puntuación SPPB inferior a 12", "Más de 80 años"],
+      "a": 1,
+      "e": "Criterios: pérdida de peso involuntaria, agotamiento, baja actividad, marcha lenta y debilidad de prensión. Con 1-2 es prefrágil."
+    },
+    {
+      "q": "La batería SPPB (Short Physical Performance Battery) evalúa:",
+      "o": ["Fuerza de prensión, peso y fatiga", "Equilibrio, velocidad de la marcha y levantarse de una silla 5 veces", "Estado cognitivo y del ánimo", "Riesgo de úlceras por presión"],
+      "a": 1,
+      "e": "Puntúa sobre 12 y permite asignar el pasaporte Vivifrail (A, B, C o D)."
+    },
+    {
+      "q": "Un anciano con una puntuación SPPB de 5 corresponde, según Vivifrail, al pasaporte:",
+      "o": ["B (frágil)", "A (discapacidad)", "C (prefrágil)", "D (robusto)"],
+      "a": 0,
+      "e": "A: 0-3; B: 4-6; C: 7-9; D: 10-12. Se añade \"+\" si hay riesgo de caídas."
+    },
+    {
+      "q": "En el anciano frágil con riesgo de desnutrición que realiza ejercicio de fuerza, el aporte proteico recomendado es de:",
+      "o": ["0,5 g/kg/día", "0,8 g/kg/día", "3 g/kg/día", "1,2-1,5 g/kg/día"],
+      "a": 3,
+      "e": "Los suplementos proteicos aprovechan mejor la síntesis muscular si se toman en los 30-60 minutos posteriores al ejercicio."
+    },
+    {
+      "q": "Un paciente con diabetes tipo 1 tiene una glucemia de 280 mg/dl con cetonas positivas antes de hacer ejercicio. La recomendación es:",
+      "o": ["Hacer ejercicio vigoroso para bajar la glucemia", "Tomar 15 g de hidratos y empezar", "No hacer ejercicio, porque está contraindicado", "Hacer ejercicio ligero durante 2 horas"],
+      "a": 2,
+      "e": "Sin insulina suficiente, el ejercicio activa hormonas contrarreguladoras y empeora la cetoacidosis. Con < 90 mg/dl se toman 15 g de hidratos antes."
+    },
+    {
+      "q": "Durante la contracción muscular, la entrada de glucosa en el músculo a través de los GLUT-4:",
+      "o": ["Es independiente de la insulina", "Requiere un pico de insulina", "Se bloquea", "Solo ocurre en ayunas"],
+      "a": 0,
+      "e": "Por eso el ejercicio mejora el control glucémico y puede producir hipoglucemias si no se ajusta la pauta."
+    },
+    {
+      "q": "En la rehabilitación cardiaca, la enfermera de Atención Primaria es la principal responsable de la:",
+      "o": ["Fase I hospitalaria", "Fase II ambulatoria supervisada", "Fase III de mantenimiento comunitario", "Prueba de esfuerzo inicial"],
+      "a": 2,
+      "e": "La intensidad se pauta entre el 40% y el 70% de la FC de reserva y se detiene si el Borg modificado supera 5."
+    },
+    {
+      "q": "La técnica correcta de la espirometría de incentivo en el posoperatorio consiste en:",
+      "o": ["Soplar con fuerza por la boquilla para elevar las bolas", "Inspirar lenta y profundamente por la boquilla y mantener el aire 3-5 segundos", "Realizar inspiraciones rápidas y repetidas", "Toser con la boquilla en la boca"],
+      "a": 1,
+      "e": "El objetivo es la inspiración máxima sostenida para reexpandir alvéolos; los dispositivos de volumen son superiores a los de flujo."
+    },
+    {
+      "q": "En una embarazada sin complicaciones, la recomendación de actividad física es:",
+      "o": ["Reposo relativo durante todo el embarazo", "Deportes de contacto para mantener la forma", "Solo ejercicio en decúbito supino", "Al menos 150 minutos semanales de actividad aeróbica moderada, evitando el alto impacto"],
+      "a": 3,
+      "e": "Están contraindicados en caso de rotura de membranas, amenaza de parto prematuro, placenta previa persistente o preeclampsia."
+    },
+    {
+      "q": "La OMS recomienda que los niños y adolescentes de 5 a 17 años realicen:",
+      "o": ["Un promedio de 60 minutos diarios de actividad moderada a vigorosa", "150 minutos semanales, como los adultos", "30 minutos dos veces por semana", "Solo actividades de fuerza"],
+      "a": 0,
+      "e": "Además deben incluir actividades de fortalecimiento muscular y óseo al menos 3 días por semana."
+    },
+    {
+      "q": "Ante un paciente en quimioterapia con fatiga oncológica intensa, la recomendación con más evidencia es:",
+      "o": ["Reposo absoluto en cama", "Evitar cualquier movimiento hasta acabar el tratamiento", "Ejercicio anaeróbico intenso", "Ejercicio adaptado de intensidad ligera-moderada, preferentemente en los días valle entre ciclos"],
+      "a": 3,
+      "e": "El reposo prolongado agrava la fatiga; el ejercicio preserva la masa magra y ayuda a prevenir el linfedema."
+    }
+  ]
+}

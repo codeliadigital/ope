@@ -1,0 +1,187 @@
+{
+  "tema": 43,
+  "titulo": "Cuidados de enfermería a personas con problemas del sistema músculo-esquelético. Principales problemas del aparato locomotor. Vendajes, inmovilizaciones y otras técnicas",
+  "programa": "Valoración y cuidados de enfermería a personas con problemas en el sistema músculo-esquelético. Principales problemas del aparato locomotor (artrosis, artritis, osteoporosis, fracturas, síndrome compartimental). Procedimientos de enfermería: vendajes, inmovilizaciones, tracciones y ayudas a la marcha.",
+  "preguntas": [
+    {
+      "q": "La sínfisis del pubis es un ejemplo de articulación de tipo:",
+      "o": ["Sinartrosis", "Diartrosis", "Anfiartrosis", "Sinovial"],
+      "a": 2,
+      "e": "Las anfiartrosis tienen movilidad limitada y están unidas por fibrocartílago (sínfisis del pubis, discos intervertebrales). Las sinartrosis son inmóviles (suturas craneales) y las diartrosis o sinoviales son las más móviles."
+    },
+    {
+      "q": "Un dolor articular que empeora en reposo, despierta por la noche y se acompaña de rigidez matutina de más de una hora es característico de:",
+      "o": ["Un proceso inflamatorio como la artritis reumatoide", "La artrosis", "Una tendinitis mecánica", "Una contractura muscular"],
+      "a": 0,
+      "e": "El dolor inflamatorio empeora con la inactividad y produce rigidez prolongada. El dolor mecánico (artrosis) empeora con el uso y mejora con el reposo, con rigidez de menos de 30 minutos."
+    },
+    {
+      "q": "La deformidad en la que las rodillas se juntan y los tobillos se separan («en X») se denomina:",
+      "o": ["Genu varo", "Genu recurvatum", "Pie equino", "Genu valgo"],
+      "a": 3,
+      "e": "En el genu valgo las rodillas se juntan y los tobillos se separan; en el genu varo las rodillas se separan (piernas arqueadas). Ambas alteran la carga sobre el cartílago."
+    },
+    {
+      "q": "La marcha en estepaje, con «pie caído», se debe típicamente a una lesión del:",
+      "o": ["Nervio mediano", "Nervio peroneo", "Cerebelo", "Nervio femoral"],
+      "a": 1,
+      "e": "La parálisis del nervio peroneo impide la flexión dorsal del pie. La marcha festinante es propia del Parkinson y la espástica en segador, de lesiones de la vía piramidal."
+    },
+    {
+      "q": "En la escala de Tinetti de equilibrio y marcha, una puntuación inferior a 19 indica:",
+      "o": ["Riesgo alto de caídas", "Riesgo bajo de caídas", "Equilibrio normal", "Riesgo moderado de caídas"],
+      "a": 0,
+      "e": "La puntuación máxima es 28: 25-28 riesgo bajo, 19-24 moderado y menos de 19 alto."
+    },
+    {
+      "q": "El reflejo rotuliano explora las raíces nerviosas:",
+      "o": ["C5-C6", "C7", "L3-L4", "S1"],
+      "a": 2,
+      "e": "Bicipital C5-C6, tricipital C7, rotuliano L3-L4 y aquíleo S1. Una respuesta 4+ con clonus sugiere lesión de primera motoneurona."
+    },
+    {
+      "q": "La maniobra de Lasègue (elevación de la pierna extendida en decúbito supino) es positiva cuando aparece dolor radicular entre los 30° y 70°, lo que indica:",
+      "o": ["Rotura del ligamento cruzado anterior", "Síndrome del túnel carpiano", "Debilidad del glúteo medio", "Irritación o compresión del nervio ciático"],
+      "a": 3,
+      "e": "El Lasègue valora la irritación radicular del ciático (L4-S1). El túnel carpiano se explora con Tinel y Phalen, los cruzados con el cajón y el glúteo medio con el Trendelenburg."
+    },
+    {
+      "q": "La maniobra que consiste en mantener ambas muñecas en flexión forzada durante 60 segundos para reproducir parestesias es la de:",
+      "o": ["Tinel", "Phalen", "Lasègue", "Ortolani"],
+      "a": 1,
+      "e": "La maniobra de Phalen y el signo de Tinel (percutir el nervio mediano en la muñeca) se usan para el síndrome del túnel carpiano."
+    },
+    {
+      "q": "En la maniobra de Trendelenburg, si al apoyarse sobre la pierna derecha desciende la pelvis del lado izquierdo, existe debilidad del:",
+      "o": ["Glúteo mayor izquierdo", "Cuádriceps derecho", "Glúteo medio derecho (lado de apoyo)", "Psoas izquierdo"],
+      "a": 2,
+      "e": "El glúteo medio del lado de apoyo es el que estabiliza la pelvis; si está débil, cae la hemipelvis contraria."
+    },
+    {
+      "q": "Los nódulos de Heberden de la artrosis de manos se localizan en las articulaciones:",
+      "o": ["Interfalángicas distales", "Interfalángicas proximales", "Metacarpofalángicas", "Radiocarpianas"],
+      "a": 0,
+      "e": "Heberden en las interfalángicas distales y Bouchard en las proximales. La artritis reumatoide afecta típicamente a las metacarpofalángicas y el carpo."
+    },
+    {
+      "q": "En la educación de un paciente con gonartrosis de la rodilla derecha, es correcto recomendar:",
+      "o": ["Llevar el bastón en la mano derecha", "Realizar deportes de alto impacto para fortalecer el cartílago", "Aplicar frío de forma continua", "Perder peso, ejercicio de bajo impacto para fortalecer el cuádriceps y usar el bastón en la mano izquierda"],
+      "a": 3,
+      "e": "La reducción de peso es la medida más eficaz. El bastón se lleva en la mano contraria a la articulación afectada. El calor alivia la rigidez; el frío se reserva para los brotes inflamatorios."
+    },
+    {
+      "q": "La deformidad en «cuello de cisne» de la artritis reumatoide consiste en:",
+      "o": ["Flexión de la interfalángica proximal e hiperextensión de la distal", "Hiperextensión de la interfalángica proximal y flexión de la distal", "Desviación de los dedos hacia el lado radial", "Nódulos en las interfalángicas distales"],
+      "a": 1,
+      "e": "Cuello de cisne: hiperextensión de la IFP y flexión de la IFD. En ojal (boutonnière): flexión de la IFP e hiperextensión de la IFD. También es típica la desviación cubital de los dedos."
+    },
+    {
+      "q": "En un paciente con artritis reumatoide que va a iniciar tratamiento biológico, la enfermera debe:",
+      "o": ["Administrarle vacunas de virus vivos durante el tratamiento", "Recomendarle reposo absoluto permanente", "Comprobar y actualizar las vacunas (neumococo, gripe, hepatitis B) antes de iniciarlo y evitar las vacunas vivas durante el tratamiento", "Suspender cualquier vacunación"],
+      "a": 2,
+      "e": "Los biológicos y FAME son inmunosupresores: hay que vacunar antes, evitar vacunas vivas y educar en la detección precoz de infecciones y en la técnica de autoinyección."
+    },
+    {
+      "q": "Según la OMS, se diagnostica osteoporosis en la densitometría cuando el T-score es:",
+      "o": ["Igual o inferior a −2,5", "Entre −1 y −2,5", "Superior a −1", "Superior a +2,5"],
+      "a": 0,
+      "e": "T-score ≥ −1 normal; entre −1 y −2,5 osteopenia; ≤ −2,5 osteoporosis. La causa secundaria más importante es el uso prolongado de corticoides."
+    },
+    {
+      "q": "Para la toma de alendronato oral semanal, la enfermera debe indicar:",
+      "o": ["Tomarlo con el desayuno y un vaso de leche", "Tomarlo antes de acostarse", "Tomarlo con zumo de naranja para mejorar su absorción", "Tomarlo en ayunas al levantarse con un vaso lleno de agua y permanecer erguido sin comer ni tumbarse 30-60 minutos"],
+      "a": 3,
+      "e": "Los bisfosfonatos se absorben muy poco y pueden dañar el esófago: en ayunas, con agua (no leche, zumo ni agua mineral), y sin tumbarse ni tomar nada durante 30-60 minutos."
+    },
+    {
+      "q": "Para la prevención de la osteoporosis, el tipo de ejercicio más recomendado es:",
+      "o": ["La natación exclusivamente", "El ejercicio con carga e impacto moderado, como caminar a paso ligero o subir escaleras", "El reposo para evitar fracturas", "Los estiramientos sin carga"],
+      "a": 1,
+      "e": "El impacto y la carga mecánica estimulan a los osteoblastos (ley de Wolff). En la artrosis, en cambio, se prefieren los ejercicios de bajo impacto."
+    },
+    {
+      "q": "Ante una fractura abierta, es correcto que:",
+      "o": ["Es una urgencia quirúrgica que requiere antibiótico precoz, desbridamiento y profilaxis antitetánica", "Puede tratarse de forma diferida en consulta", "Solo requiere una inmovilización con yeso cerrado", "No necesita antibiótico si no sangra"],
+      "a": 0,
+      "e": "La comunicación del foco con el exterior conlleva un riesgo alto de osteomielitis: urgencia quirúrgica con antibioterapia, limpieza y profilaxis antitetánica."
+    },
+    {
+      "q": "En la consolidación de una fractura, la fase en la que se forma un tejido fibrocartilaginoso que todavía no es visible en la radiografía ni soporta carga es la de:",
+      "o": ["Hematoma", "Callo duro", "Callo blando", "Remodelación"],
+      "a": 2,
+      "e": "Fases: hematoma e inflamación, callo blando (2-3 semanas, radiotransparente), callo duro (3-10 semanas, visible) y remodelación (meses o años)."
+    },
+    {
+      "q": "Una anciana se cae en casa y presenta la pierna derecha acortada, en rotación externa e imposibilidad para moverla. Debe sospecharse:",
+      "o": ["Una luxación de rodilla", "Un esguince de tobillo", "Una lumbalgia aguda", "Una fractura de cadera"],
+      "a": 3,
+      "e": "La tríada acortamiento, rotación externa e impotencia funcional es típica de la fractura de cadera. Las intracapsulares tienen riesgo de necrosis avascular y las extracapsulares sangran más."
+    },
+    {
+      "q": "En el postoperatorio de una prótesis de cadera, para prevenir la luxación se debe:",
+      "o": ["Animar al paciente a cruzar las piernas", "Evitar la aducción (no cruzar las piernas), usar cojín abductor y evitar flexionar la cadera más de 90°", "Sentarlo en sillas bajas", "Mantener la cadera en flexión máxima"],
+      "a": 1,
+      "e": "La aducción y la flexión mayor de 90° (sillas bajas, inclinarse hacia delante) favorecen la luxación de la prótesis. Se moviliza precozmente y se vigila el sangrado."
+    },
+    {
+      "q": "A las 48 horas de una fractura de fémur, un paciente presenta disnea con hipoxemia, confusión y petequias en tórax y axilas. Debe sospecharse:",
+      "o": ["Un síndrome de embolia grasa", "Una neumonía aspirativa", "Un síndrome compartimental", "Una reacción alérgica"],
+      "a": 0,
+      "e": "La embolia grasa aparece a las 24-72 h de fracturas de huesos largos o pelvis con la tríada respiratoria, neurológica y petequial. La prevención principal es inmovilizar pronto la fractura."
+    },
+    {
+      "q": "El signo más precoz de un síndrome compartimental es:",
+      "o": ["La ausencia de pulso distal", "La parálisis de los dedos", "Un dolor desproporcionado que no cede con analgésicos y aumenta con el estiramiento pasivo", "La cianosis generalizada"],
+      "a": 2,
+      "e": "El dolor desproporcionado y con el estiramiento pasivo es el primer signo, seguido de parestesias. La desaparición del pulso es muy tardía: el músculo se necrosa antes."
+    },
+    {
+      "q": "Ante la sospecha de síndrome compartimental en una pierna con yeso circular, la actuación inicial de enfermería es:",
+      "o": ["Elevar la pierna por encima del nivel del corazón", "Aplicar más compresión", "Administrar analgesia y reevaluar al día siguiente", "Aflojar o abrir vendajes y bivalvar el yeso, mantener la extremidad a la altura del corazón y avisar para una posible fasciotomía"],
+      "a": 3,
+      "e": "Hay que liberar la presión externa de inmediato. En el síndrome compartimental instaurado no se eleva la extremidad (empeora la perfusión). El tratamiento definitivo es la fasciotomía urgente."
+    },
+    {
+      "q": "Un recién nacido tras una distocia de hombros mantiene el brazo en aducción y rotación interna («propina de camarero»), con reflejo de prensión conservado. Sugiere:",
+      "o": ["Parálisis braquial inferior de Klumpke", "Parálisis braquial superior de Erb-Duchenne (C5-C6)", "Fractura de fémur", "Lesión medular"],
+      "a": 1,
+      "e": "La parálisis de Erb (C5-C6) es la más frecuente y conserva la prensión. La de Klumpke (C8-T1) produce mano en garra, sin prensión, y puede asociar síndrome de Horner."
+    },
+    {
+      "q": "Para vestir a un recién nacido con una parálisis braquial obstétrica, se debe enseñar a los padres a:",
+      "o": ["Introducir primero el brazo lesionado al vestirlo y sacar primero el brazo sano al desvestirlo", "Introducir primero el brazo sano", "Levantarlo siempre por las axilas", "Mantener el brazo afectado colgando"],
+      "a": 0,
+      "e": "Así se evita traccionar el brazo afectado. Durante las primeras semanas se puede sujetar la manga a la ropa sobre el pecho."
+    },
+    {
+      "q": "Al aplicar un vendaje en una extremidad, es correcto:",
+      "o": ["Vendar desde la raíz del miembro hacia los dedos", "Cubrir completamente los dedos", "Vendar de distal a proximal, acolchar las prominencias óseas y dejar los dedos visibles", "Aplicar la máxima tensión en la parte proximal"],
+      "a": 2,
+      "e": "El vendaje de distal a proximal favorece el retorno venoso y evita el efecto torniquete. Los dedos visibles permiten vigilar color, temperatura, relleno capilar y edema."
+    },
+    {
+      "q": "El tipo de vendaje indicado para cubrir un muñón de amputación o la cabeza (capelina) es el:",
+      "o": ["Vendaje en ocho", "Vendaje en espiral", "Vendaje de Velpeau", "Vendaje recurrente"],
+      "a": 3,
+      "e": "El recurrente cubre extremos (muñones, cabeza). El vendaje en ocho se usa en articulaciones (tobillo, rodilla, codo) y el de Velpeau, en luxaciones de hombro o fracturas de húmero proximal."
+    },
+    {
+      "q": "En un paciente con tracción esquelética, es un cuidado correcto:",
+      "o": ["Mantener las pesas colgando libremente, sin apoyarlas en el suelo ni en la cama", "Retirar las pesas para el aseo", "Apoyar las pesas en el suelo durante la noche", "Añadir peso si el paciente se queja de dolor"],
+      "a": 0,
+      "e": "Las pesas deben colgar libres para mantener la tracción, sin quitar ni añadir peso sin orden médica. Se curan los puntos de inserción con técnica estéril (riesgo de osteomielitis) y se usa el trapecio para moverse."
+    },
+    {
+      "q": "En una gestante de 30 semanas politraumatizada inmovilizada en tablero espinal, para evitar la compresión aortocava se debe:",
+      "o": ["Mantenerla en decúbito supino estricto", "Inclinar el tablero 15-30° hacia la izquierda o desplazar manualmente el útero a la izquierda", "Colocarla en Trendelenburg", "Inclinarla hacia la derecha"],
+      "a": 1,
+      "e": "En decúbito supino el útero comprime la cava y la aorta, con hipotensión y sufrimiento fetal. Se inclina a la izquierda con una cuña bajo la cadera derecha o se desplaza el útero manualmente."
+    },
+    {
+      "q": "Un paciente con una lesión en la pierna izquierda utiliza muletas. Para subir escaleras debe:",
+      "o": ["Subir primero las muletas y la pierna afectada", "Subir las dos piernas a la vez sin muletas", "Subir de espaldas", "Subir primero la pierna sana y después las muletas y la pierna afectada"],
+      "a": 3,
+      "e": "Regla: «la buena sube al cielo, la mala baja al infierno»: se sube primero con la pierna sana y se baja primero con las muletas y la pierna afectada. El peso se apoya en las manos, no en las axilas (riesgo de lesión del nervio radial)."
+    }
+  ]
+}

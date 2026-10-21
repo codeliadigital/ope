@@ -1,0 +1,187 @@
+{
+  "tema": 11,
+  "titulo": "Atención domiciliaria. Epidemiología y vigilancia epidemiológica",
+  "programa": "Atención domiciliaria: concepto, visita domiciliaria y etapas, coordinación entre Atención Primaria, Especializada y Servicios Sociales, programas específicos e informe de continuidad de cuidados. Epidemiología: concepto y método. Diseños epidemiológicos. Enfermedades transmisibles de mayor incidencia en España. Sistema Nacional de Vigilancia Epidemiológica, RENAVE y EDO. COVID-19, virus emergentes y enfoque One Health.",
+  "preguntas": [
+    {
+      "q": "En la atención domiciliaria, el sujeto de atención es:",
+      "o": ["Exclusivamente el paciente inmovilizado", "El binomio paciente y familia o cuidador", "Exclusivamente el cuidador principal", "La comunidad de la zona básica"],
+      "a": 1,
+      "e": "La atención domiciliaria se dirige al paciente y a su familia o cuidador; si una opción excluye al cuidador, es sospechosa."
+    },
+    {
+      "q": "El orden correcto de las etapas de la visita domiciliaria es:",
+      "o": ["Valoración, captación, planificación, ejecución, registro y evaluación", "Captación, planificación, valoración, ejecución, evaluación y registro", "Planificación, captación, valoración, ejecución, evaluación y registro", "Captación, valoración, planificación, ejecución, evaluación y registro"],
+      "a": 3,
+      "e": "Regla \"Con Valor Puedo Ejecutar Este Reto\": captación, valoración, planificación, ejecución, evaluación y registro."
+    },
+    {
+      "q": "En un paciente inmovilizado estable en su domicilio, la valoración integral debe actualizarse al menos:",
+      "o": ["Cada 6 meses", "Cada mes", "Cada año", "Cada 2 años"],
+      "a": 0,
+      "e": "Se recomienda al menos cada seis meses en pacientes estables y con más frecuencia si hay inestabilidad o deterioro."
+    },
+    {
+      "q": "La sobrecarga del cuidador principal se valora con:",
+      "o": ["El índice de Barthel", "La escala de Yesavage", "El test de Zarit", "La escala de Lawton y Brody"],
+      "a": 2,
+      "e": "Zarit mide la percepción de sobrecarga del cuidador (22-110 puntos; > 55 sobrecarga intensa)."
+    },
+    {
+      "q": "La escala de Yesavage se utiliza para valorar:",
+      "o": ["El riesgo de úlceras por presión", "La depresión en personas mayores", "Las actividades instrumentales", "El riesgo de caídas"],
+      "a": 1,
+      "e": "Yesavage es la escala de depresión geriátrica; en su versión de 15 ítems, más de 5 puntos sugiere depresión."
+    },
+    {
+      "q": "En el SMS, el Modelo 313 es:",
+      "o": ["El informe de alta médica", "El informe de continuidad de cuidados", "El documento de consentimiento informado", "La plantilla electrónica de Valoración Integral de Enfermería para registrar la visita domiciliaria"],
+      "a": 3,
+      "e": "El Modelo 313, en OMI-AP/Ágora, estructura el registro y obliga a cumplimentar escalas como Barthel, Norton/Braden, Pfeiffer o Zarit."
+    },
+    {
+      "q": "Cuando un Equipo de Soporte de Atención Domiciliaria (ESAD) interviene en un domicilio:",
+      "o": ["Apoya y asesora, pero la responsabilidad del paciente sigue siendo del equipo de Atención Primaria", "Asume la responsabilidad total del paciente", "Sustituye definitivamente al médico y la enfermera de cupo", "Solo actúa en el hospital"],
+      "a": 0,
+      "e": "Los equipos de soporte nunca sustituyen al equipo de referencia de AP, que mantiene la responsabilidad asistencial."
+    },
+    {
+      "q": "El momento de mayor riesgo para la continuidad asistencial del paciente es:",
+      "o": ["La primera consulta en el centro de salud", "La visita domiciliaria programada", "El alta hospitalaria", "La revisión anual del plan de cuidados"],
+      "a": 2,
+      "e": "La transición entre niveles, especialmente el alta, concentra errores de medicación y pérdida de información."
+    },
+    {
+      "q": "La hospitalización a domicilio está indicada en:",
+      "o": ["Ancianos frágiles estables que solo precisan seguimiento", "Pacientes con procesos agudos que requerirían ingreso pero pueden recibir cuidados hospitalarios en casa", "Pacientes que rechazan la atención primaria", "Cualquier paciente inmovilizado"],
+      "a": 1,
+      "e": "Proporciona atención de nivel hospitalario en el domicilio (p. ej., antibioterapia intravenosa o reagudización de EPOC), con criterios estrictos."
+    },
+    {
+      "q": "En la prevención de úlceras por presión de un paciente inmovilizado, los cambios posturales deben realizarse:",
+      "o": ["Cada 8 horas", "Una vez por turno", "Cada 4-6 horas", "Cada 2-3 horas"],
+      "a": 3,
+      "e": "Cambios posturales cada 2-3 horas, superficies especiales, hidratación de la piel y no masajear prominencias óseas."
+    },
+    {
+      "q": "En el programa de atención al paciente en situación terminal, el pronóstico de vida es generalmente:",
+      "o": ["Inferior a 6 meses", "Inferior a 1 mes", "Inferior a 2 años", "Superior a 1 año"],
+      "a": 0,
+      "e": "Enfermedad avanzada, progresiva e incurable con pronóstico limitado, generalmente inferior a seis meses."
+    },
+    {
+      "q": "En un paciente paliativo en su domicilio que ya no puede tragar, la vía alternativa de elección para administrar la medicación es la:",
+      "o": ["Intramuscular", "Intravenosa", "Subcutánea", "Rectal"],
+      "a": 2,
+      "e": "La vía oral es la de elección; si no es posible, la subcutánea (palomillas o infusores). La intramuscular se evita en paliativos."
+    },
+    {
+      "q": "Al iniciar tratamiento con morfina en un paciente terminal, la enfermera debe:",
+      "o": ["Suspender la hidratación oral", "Prevenir sistemáticamente el estreñimiento", "Evitar la vía subcutánea", "Retirar los laxantes"],
+      "a": 1,
+      "e": "Los opioides siempre estriñen: la prevención con laxantes es obligatoria."
+    },
+    {
+      "q": "La sedación paliativa tiene como finalidad:",
+      "o": ["Provocar la muerte del paciente", "Tratar cualquier síntoma leve", "Responder a la petición de la familia", "Aliviar síntomas refractarios disminuyendo el nivel de consciencia"],
+      "a": 3,
+      "e": "Busca aliviar síntomas refractarios (disnea, delirium) con fármacos como el midazolam; la eutanasia busca provocar la muerte."
+    },
+    {
+      "q": "El informe de continuidad de cuidados (ICC) debe cumplimentarse:",
+      "o": ["En cualquier transición asistencial: alta, derivación, traslado o ingreso en residencia", "Solo al alta hospitalaria", "Solo cuando lo solicita la familia", "Solo en pacientes oncológicos"],
+      "a": 0,
+      "e": "Es un documento médico-legal para cualquier transición; no es exclusivo del alta hospitalaria."
+    },
+    {
+      "q": "¿Cuál de las siguientes es una característica que debe reunir el informe de continuidad de cuidados?",
+      "o": ["Extenso", "Exhaustivo, con toda la historia clínica", "Conciso", "Manuscrito"],
+      "a": 2,
+      "e": "Debe ser completo, claro, conciso, preciso, actualizado, accesible y estandarizado. Lo innegociable: alergias y medicación actualizada."
+    },
+    {
+      "q": "Según Leavell y Clark, en el periodo prepatogénico de la enfermedad:",
+      "o": ["Aparecen los primeros síntomas", "Interactúan el agente, el huésped y el medio ambiente", "Se producen cambios tisulares silentes", "Se producen las secuelas"],
+      "a": 1,
+      "e": "En el prepatogénico interactúa la tríada ecológica; el patogénico se divide en fase subclínica y clínica."
+    },
+    {
+      "q": "La prevención cuaternaria, acuñada por Jamoulle, tiene como objetivo:",
+      "o": ["Rehabilitar al paciente con secuelas", "Detectar precozmente la enfermedad", "Vacunar a la población", "Evitar la sobremedicalización y la iatrogenia"],
+      "a": 3,
+      "e": "Protege al paciente de intervenciones innecesarias (desprescripción, evitar pruebas redundantes). La rehabilitación es prevención terciaria."
+    },
+    {
+      "q": "Una mamografía de cribado en una mujer sana de 50 años es una actividad de prevención:",
+      "o": ["Secundaria, que reduce la prevalencia", "Primaria, que reduce la incidencia", "Terciaria", "Cuaternaria"],
+      "a": 0,
+      "e": "El cribado actúa en la fase subclínica: es prevención secundaria y actúa sobre la prevalencia."
+    },
+    {
+      "q": "En la fiebre tifoidea:",
+      "o": ["El reservorio y la fuente de infección son siempre el agua", "El reservorio es el agua y la fuente el ser humano", "El reservorio es el ser humano y la fuente de infección puede ser el agua contaminada", "No existe reservorio"],
+      "a": 2,
+      "e": "El reservorio (donde vive y se multiplica el agente) y la fuente de infección (de donde pasa al huésped) no siempre coinciden."
+    },
+    {
+      "q": "En un estudio de casos y controles, la medida de asociación que se calcula es:",
+      "o": ["El riesgo relativo", "La odds ratio", "La incidencia acumulada", "El número necesario a tratar"],
+      "a": 1,
+      "e": "Al no conocer la población en riesgo no se puede calcular la incidencia ni el RR; se usa la OR (ad/bc)."
+    },
+    {
+      "q": "El número necesario a tratar (NNT) se calcula como:",
+      "o": ["El riesgo relativo menos 1", "La incidencia del grupo tratado entre la del control", "La odds ratio multiplicada por 100", "1 dividido entre la reducción del riesgo absoluto"],
+      "a": 3,
+      "e": "NNT = 1/RRA; la RRA es la diferencia entre la incidencia del grupo control y la del grupo tratado."
+    },
+    {
+      "q": "La primera causa de gastroenteritis bacteriana transmitida por alimentos en España es:",
+      "o": ["Campylobacter", "Salmonella", "Listeria", "Escherichia coli"],
+      "a": 0,
+      "e": "Según la RENAVE, Campylobacter (sobre todo por pollo poco cocinado); su complicación grave es el síndrome de Guillain-Barré."
+    },
+    {
+      "q": "La Red Nacional de Vigilancia Epidemiológica (RENAVE) fue creada por el:",
+      "o": ["RD 1030/2006", "RD 664/1997", "RD 2210/1995", "RD 1093/2010"],
+      "a": 2,
+      "e": "RD 2210/1995. La coordina el Centro Nacional de Epidemiología del Instituto de Salud Carlos III."
+    },
+    {
+      "q": "Ante la sospecha clínica de una enfermedad meningocócica, la declaración epidemiológica debe hacerse:",
+      "o": ["De forma semanal, tras la confirmación del laboratorio", "De forma urgente (en menos de 24 horas), ante la mera sospecha", "Solo si fallece el paciente", "De forma mensual"],
+      "a": 1,
+      "e": "Las EDO urgentes se notifican ante la sospecha, sin esperar a la confirmación microbiológica."
+    },
+    {
+      "q": "Un niño que convive con un caso confirmado de tos ferina comienza con tos compatible, sin prueba de laboratorio todavía. Se clasifica como caso:",
+      "o": ["Confirmado", "Sospechoso", "Descartado", "Probable"],
+      "a": 3,
+      "e": "Probable = clínica compatible + nexo epidemiológico. Confirmado exige prueba de laboratorio."
+    },
+    {
+      "q": "Legalmente, se considera brote epidémico la aparición de:",
+      "o": ["Dos o más casos asociados en tiempo y lugar con una sospecha de causa común", "Al menos 20 casos", "Al menos 50 casos simultáneos", "Un caso grave de cualquier enfermedad"],
+      "a": 0,
+      "e": "Basta con 2 o más casos relacionados; todo brote es de declaración urgente aunque sea leve."
+    },
+    {
+      "q": "En la Región de Murcia, el dengue se declara desde 2020 de forma:",
+      "o": ["Semanal ordinaria", "Mensual", "Urgente, por la presencia del mosquito tigre", "No es enfermedad de declaración obligatoria"],
+      "a": 2,
+      "e": "Por la implantación de Aedes albopictus en la región, el dengue es de declaración urgente para controlar el vector."
+    },
+    {
+      "q": "Según SiVIRA, para registrar una infección respiratoria aguda leve en Atención Primaria, los síntomas deben haber comenzado en los últimos:",
+      "o": ["5 días", "10 días", "14 días", "21 días"],
+      "a": 1,
+      "e": "Límite de 10 días en AP. En la IRAG hospitalaria no existe ese límite temporal."
+    },
+    {
+      "q": "Sobre la fiebre del Nilo Occidental, es correcto que:",
+      "o": ["Requiere aislamiento aéreo del paciente", "Se transmite de persona a persona", "Su vector es el mosquito Aedes", "Se transmite por mosquitos Culex y el ser humano es un fondo de saco"],
+      "a": 3,
+      "e": "Las aves son el reservorio; humanos y caballos no alcanzan viremia suficiente para transmitirla, por lo que no se aísla al paciente."
+    }
+  ]
+}

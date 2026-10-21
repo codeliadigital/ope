@@ -1,0 +1,187 @@
+{
+  "tema": 51,
+  "titulo": "El paciente trasplantado. Valoración y cuidados del paciente donante y del receptor. Acondicionamiento. Aislamiento. Atención a la familia del paciente donante",
+  "programa": "El paciente trasplantado: valoración y cuidados del donante (muerte encefálica y asistolia) y del receptor (renal, hepático, cardíaco). Rechazo e inmunosupresión. Acondicionamiento en el trasplante de progenitores hematopoyéticos. Aislamiento protector. Atención a la familia del donante.",
+  "preguntas": [
+    {
+      "q": "En España, el órgano sólido que se trasplanta con más frecuencia es:",
+      "o": ["El hígado", "El corazón", "El riñón", "El pulmón"],
+      "a": 2,
+      "e": "El trasplante renal es con diferencia el más frecuente, seguido del hepático. El trasplante intestinal es el menos habitual."
+    },
+    {
+      "q": "Según la Ley 30/1979, sobre extracción y trasplante de órganos, en la donación de fallecidos rige:",
+      "o": ["El consentimiento expreso por escrito del donante en todos los casos", "El consentimiento presunto, aunque en la práctica siempre se consulta a la familia", "La decisión exclusiva del equipo médico", "La autorización judicial previa"],
+      "a": 1,
+      "e": "Se considera donante a quien no haya dejado constancia de su oposición en vida, pero la entrevista familiar es siempre parte del proceso y se respeta su decisión. La ley se basa también en el altruismo y la gratuidad."
+    },
+    {
+      "q": "Respecto a la relación entre la familia del donante y el receptor, el modelo español establece que:",
+      "o": ["Pueden conocerse si ambas partes lo desean", "Pueden intercambiar cartas firmadas a través del hospital", "La familia del donante elige al receptor", "Se garantiza el anonimato absoluto entre ambos"],
+      "a": 3,
+      "e": "El anonimato es uno de los principios del sistema, junto con el altruismo, la gratuidad y la equidad en el acceso a la lista de espera."
+    },
+    {
+      "q": "En la donación de un riñón de donante vivo, la evaluación psicológica y psiquiátrica del donante:",
+      "o": ["La realiza un equipo independiente del equipo quirúrgico", "La realiza el cirujano que hará la extracción", "No es obligatoria si el donante es familiar", "La realiza la familia del receptor"],
+      "a": 0,
+      "e": "Su objetivo es asegurar que la decisión es libre y altruista, sin presiones ni compensación económica, y que el donante entiende los riesgos."
+    },
+    {
+      "q": "Según la clasificación de Maastricht modificada, la donación en asistolia controlada tras la limitación del tratamiento de soporte vital corresponde al tipo:",
+      "o": ["I", "III", "II", "IV"],
+      "a": 1,
+      "e": "Los tipos I (fallecido a la llegada) y II (RCP infructuosa) son asistolia no controlada. El III es controlado, tras LTSV o prestación de ayuda para morir, y el IV es la parada en un paciente en muerte encefálica."
+    },
+    {
+      "q": "En el diagnóstico de muerte encefálica, el test de apnea se considera positivo cuando:",
+      "o": ["La saturación de oxígeno baja del 90%", "Aparece bradicardia al desconectar el respirador", "El paciente respira con una PaCO₂ de 40 mmHg", "No hay ningún movimiento respiratorio con una PaCO₂ superior a 60 mmHg"],
+      "a": 3,
+      "e": "El diagnóstico clínico exige además coma arreactivo (Glasgow 3) y ausencia de todos los reflejos del tronco del encéfalo. Las pruebas instrumentales (EEG, Doppler) se usan cuando hay factores que dificultan la exploración."
+    },
+    {
+      "q": "Según el RD 1723/2012, el período de observación para diagnosticar la muerte encefálica en un paciente con encefalopatía anóxica es de:",
+      "o": ["24 horas", "6 horas", "1 hora", "72 horas"],
+      "a": 0,
+      "e": "Si hay una lesión destructiva conocida, el período es de 6 horas; en la anoxia, de 24 horas. Puede acortarse si se realizan pruebas instrumentales que lo confirmen."
+    },
+    {
+      "q": "Un donante en muerte encefálica presenta una frecuencia cardíaca de 40 lpm. La administración de atropina:",
+      "o": ["Es el tratamiento de elección", "Debe hacerse a dosis dobles", "Es ineficaz, porque no hay tono vagal tras la muerte del tronco del encéfalo", "Está indicada siempre antes de iniciar dopamina"],
+      "a": 2,
+      "e": "La atropina actúa bloqueando el nervio vago, que en la muerte encefálica ya no funciona. La segunda fase de la ME cursa con vasoplejía, hipotensión, bradicardia y poiquilotermia."
+    },
+    {
+      "q": "En el mantenimiento del donante en muerte encefálica, la presión arterial media debe mantenerse:",
+      "o": ["Por debajo de 50 mmHg para proteger los pulmones", "Por encima de 60 mmHg (idealmente 70-90 mmHg)", "Por encima de 110 mmHg", "No tiene objetivo concreto"],
+      "a": 1,
+      "e": "Otros objetivos son una diuresis superior a 1 ml/kg/h, PEEP de 5-8 cmH₂O, glucemia de 120-180 mg/dl, cabecera elevada a 30° y evitar la hipotermia."
+    },
+    {
+      "q": "La terapia hormonal habitual en el mantenimiento del donante en muerte encefálica incluye:",
+      "o": ["Corticoides (metilprednisolona), hormona tiroidea e insulina", "Desmopresina, glucagón y adrenalina", "Estrógenos, insulina y calcio", "Hidrocortisona, potasio y heparina"],
+      "a": 0,
+      "e": "La necrosis cerebral afecta a la hipófisis. La desmopresina no forma parte de la pauta de rutina: se añade solo si aparece una diabetes insípida."
+    },
+    {
+      "q": "Un donante en muerte encefálica presenta de forma brusca una diuresis de 600 ml/h de orina muy diluida con hipernatremia. Hay que sospechar:",
+      "o": ["Un rechazo hiperagudo", "Una insuficiencia renal aguda", "Un exceso de sueroterapia", "Una diabetes insípida neurogénica, que se trata con desmopresina"],
+      "a": 3,
+      "e": "Al dejar de secretarse ADH, el riñón no puede concentrar la orina. Se reponen fluidos hipotónicos y se administra desmopresina, ajustando según la diuresis horaria."
+    },
+    {
+      "q": "En la donación de órganos tras la prestación de ayuda para morir, es correcto que:",
+      "o": ["La donación es obligatoria para recibir la prestación", "Si el paciente revoca la donación pierde el derecho a la prestación", "La medicación se administra en el quirófano o en una sala anexa, para reducir la isquemia caliente", "Siempre debe realizarse en el domicilio"],
+      "a": 2,
+      "e": "Los dos procesos son independientes: el paciente puede revocar la donación en cualquier momento sin perjuicio. La canulación y la heparina antemortem se hacen con consentimiento específico y bajo sedación."
+    },
+    {
+      "q": "La escala MELD, usada para priorizar la lista de espera de trasplante hepático, incluye:",
+      "o": ["Bilirrubina, creatinina e INR", "Albúmina, ascitis y encefalopatía", "Transaminasas, sodio y plaquetas", "Edad, peso y grupo sanguíneo"],
+      "a": 0,
+      "e": "Son tres parámetros objetivos de laboratorio y predicen la mortalidad a 3 meses. La escala Child-Pugh incluye además datos clínicos: albúmina, ascitis y encefalopatía."
+    },
+    {
+      "q": "Un riñón procedente de un donante fallecido tiene un KDPI del 90%. Esto significa que:",
+      "o": ["Debe desecharse siempre por inviable", "Es un donante con criterios expandidos, que puede ser una buena opción para receptores mayores", "Es el injerto de mejor calidad posible", "Solo puede trasplantarse a niños"],
+      "a": 1,
+      "e": "Un KDPI alto indica menor duración prevista del injerto, pero aceptarlo reduce el tiempo en lista de espera y en diálisis, lo que beneficia a determinados receptores."
+    },
+    {
+      "q": "Según el modelo Alicante para la entrevista familiar en la donación, es correcto:",
+      "o": ["Comunicar la muerte y pedir la donación en el mismo momento", "Explicar con detalle el EEG a la familia en estado de shock", "Plantear la donación mientras la familia está en fase de negación", "Comunicar primero la muerte, ofrecer después apoyo emocional y solo entonces plantear la donación, sin mezclar las fases"],
+      "a": 3,
+      "e": "No se pasa a la fase siguiente hasta que la anterior se ha asimilado. En la fase de shock no se dan datos técnicos: se acompaña, se respetan los silencios y se tolera la ira."
+    },
+    {
+      "q": "Según las fases del duelo de Kübler-Ross, no es adecuado plantear la donación cuando la familia está en fase de:",
+      "o": ["Aceptación", "Tristeza o depresión reactiva", "Negación o ira", "Asimilación de la pérdida"],
+      "a": 2,
+      "e": "En negación o ira la respuesta suele ser una negativa. Hay que acompañar a la familia hasta que empiece a asimilar la pérdida, y garantizar la restitución estética del cuerpo."
+    },
+    {
+      "q": "En el trasplante renal, el riñón donado se implanta habitualmente en:",
+      "o": ["La fosa ilíaca (implante heterotópico), sin extirpar los riñones propios", "La fosa lumbar, en el lugar del riñón enfermo", "El espacio retroperitoneal posterior", "La cavidad torácica"],
+      "a": 0,
+      "e": "Los vasos renales se anastomosan a los ilíacos y el uréter se reimplanta en la vejiga. Al estar en la fosa ilíaca, el dolor y la hinchazón del injerto en esa zona pueden indicar rechazo."
+    },
+    {
+      "q": "En el postoperatorio inmediato del trasplante renal con poliuria intensa, la reposición de líquidos se pauta habitualmente:",
+      "o": ["Con restricción hídrica para no sobrecargar el injerto", "Con un volumen fijo de 500 ml/día", "Solo por vía oral", "En relación 1:1 con la diuresis de la hora anterior"],
+      "a": 3,
+      "e": "La reposición 1:1 evita la hipovolemia. Se vigila también la permeabilidad de la sonda vesical para evitar coágulos que tensen la sutura ureteral."
+    },
+    {
+      "q": "Tras un trasplante hepático, la salida de bilis clara y acuosa por el tubo de Kehr sugiere:",
+      "o": ["Una función hepática excelente", "Daño isquémico o fallo primario del injerto", "Un exceso de sueroterapia", "Que el tubo debe retirarse ya"],
+      "a": 1,
+      "e": "Una bilis densa, dorada o verdosa indica que el hígado funciona. La «bilis blanca» sugiere fallo del injerto, que puede requerir un retrasplante urgente."
+    },
+    {
+      "q": "Un paciente con trasplante cardíaco reciente tiene en reposo una frecuencia cardíaca de 100 lpm sin otros signos. Esto se debe a:",
+      "o": ["Un rechazo agudo", "Una hipovolemia", "La denervación del corazón trasplantado, que pierde el freno vagal", "Un efecto adverso del tacrolimus"],
+      "a": 2,
+      "e": "Además, una isquemia no producirá dolor anginoso, y la atropina no corrige las bradicardias: se usan marcapasos epicárdicos temporales."
+    },
+    {
+      "q": "De los siguientes órganos, el que tolera menos tiempo de isquemia fría es:",
+      "o": ["El corazón", "El hígado", "El páncreas", "El riñón"],
+      "a": 0,
+      "e": "Corazón, 4-6 horas; pulmón, 4-8 horas; hígado y páncreas, 12-15 horas; riñón, 24-36 horas."
+    },
+    {
+      "q": "El rechazo hiperagudo del injerto:",
+      "o": ["Aparece años después del trasplante", "Está mediado por linfocitos T y responde a corticoides", "Es el tipo de rechazo más frecuente", "Se produce en minutos u horas por anticuerpos preformados y obliga a retirar el órgano"],
+      "a": 3,
+      "e": "Hoy es muy raro gracias a la prueba cruzada previa. El rechazo agudo celular (1-6 meses, linfocitos T) es el más frecuente y se trata con bolos de metilprednisolona; el crónico aparece tras años."
+    },
+    {
+      "q": "En un paciente con trasplante renal, el rechazo agudo se manifiesta típicamente con:",
+      "o": ["Poliuria e hipotensión", "Oliguria, fiebre, dolor e hinchazón en la zona del injerto, aumento de peso, HTA y ascenso de la creatinina", "Hipoglucemia y bradicardia", "Ausencia total de síntomas y creatinina normal"],
+      "a": 1,
+      "e": "El riñón atacado deja de filtrar, así que el rechazo cursa con oliguria, nunca con poliuria. El diagnóstico se confirma con biopsia del injerto."
+    },
+    {
+      "q": "La hiperplasia gingival y la hipertricosis son efectos adversos característicos de:",
+      "o": ["El micofenolato", "El tacrolimus", "La ciclosporina", "El sirolimus"],
+      "a": 2,
+      "e": "La ciclosporina también es nefrotóxica y produce HTA. El tacrolimus causa temblor y diabetes postrasplante, el micofenolato diarrea, y el sirolimus hiperlipemia y mala cicatrización."
+    },
+    {
+      "q": "En un paciente trasplantado tratado con azatioprina está contraindicado administrar:",
+      "o": ["Alopurinol, por el riesgo de aplasia medular", "Paracetamol", "Omeprazol", "Insulina"],
+      "a": 0,
+      "e": "El alopurinol impide la degradación de la azatioprina y la eleva hasta niveles tóxicos, con mielotoxicidad grave."
+    },
+    {
+      "q": "La extracción de sangre para determinar los niveles de tacrolimus debe hacerse:",
+      "o": ["Dos horas después de la dosis", "En cualquier momento del día", "Después del desayuno", "Justo antes de la dosis de la mañana (nivel valle)"],
+      "a": 3,
+      "e": "Tacrolimus y ciclosporina tienen un margen terapéutico estrecho y muchas interacciones, por lo que se ajustan según el nivel valle."
+    },
+    {
+      "q": "En un paciente trasplantado en tratamiento inmunosupresor está contraindicada la vacuna:",
+      "o": ["Antigripal inactivada", "Antineumocócica", "Triple vírica (sarampión, rubeola y parotiditis)", "Frente a la hepatitis B"],
+      "a": 2,
+      "e": "Las vacunas de virus vivos atenuados (triple vírica, varicela, fiebre amarilla) pueden causar una enfermedad diseminada en el inmunodeprimido. Las vacunas inactivadas sí pueden administrarse."
+    },
+    {
+      "q": "Durante la infusión de progenitores hematopoyéticos criopreservados (día 0), el paciente refiere olor a ajo en el aliento. Esto se debe a:",
+      "o": ["El conservante DMSO; es esperable y basta con informar al paciente", "Una reacción hemolítica grave", "Una infección por hongos", "Una contaminación de la bolsa"],
+      "a": 0,
+      "e": "El DMSO evita que las células se rompan al congelarse. También puede causar sabor metálico, bradicardia o hipotensión, por lo que se premedica y se monitoriza. La orina puede verse rojiza."
+    },
+    {
+      "q": "La tríada clásica de la enfermedad injerto contra huésped aguda tras un trasplante alogénico de progenitores es:",
+      "o": ["Fiebre, tos y disnea", "Afectación de la piel (exantema), el hígado (ictericia) y el intestino (diarrea)", "Hipertensión, edemas y proteinuria", "Cefalea, vómitos y rigidez de nuca"],
+      "a": 1,
+      "e": "Las células del donante atacan los tejidos del receptor. El exantema suele empezar en palmas y plantas y la diarrea puede ser muy abundante."
+    },
+    {
+      "q": "La habitación de aislamiento protector para un paciente en aplasia tras un trasplante de progenitores debe tener:",
+      "o": ["Presión negativa y ventanas abiertas", "Presión negativa y filtros HEPA", "Presión neutra y plantas para mejorar el ánimo", "Presión positiva respecto al pasillo y filtros HEPA"],
+      "a": 3,
+      "e": "La presión positiva hace que el aire salga de la habitación y no entre el contaminado, y los filtros HEPA retienen las esporas de Aspergillus. La presión negativa se usa para pacientes contagiosos, como en la tuberculosis."
+    }
+  ]
+}

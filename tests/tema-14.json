@@ -1,0 +1,187 @@
+{
+  "tema": 14,
+  "titulo": "Educación para la salud y autocuidado. Salud pública, indicadores de salud y priorización",
+  "programa": "Educación para la salud: concepto, marco legal y teorías; metodología individual, grupal y comunitaria; técnicas didácticas y materiales; fomento del autocuidado en paciente, cuidador y familia; elaboración, evaluación y sostenibilidad de programas; grupos de autoayuda y agentes de salud. Salud pública: concepto, niveles de prevención, modelos de salud y enfermedad, indicadores de morbilidad, mortalidad, letalidad y esperanza de vida, principales problemas de salud, métodos de priorización, determinantes sociales y práctica basada en la evidencia.",
+  "preguntas": [
+    {
+      "q": "¿Qué artículo de la Ley 14/1986, General de Sanidad, establece que las actuaciones de las Administraciones Públicas Sanitarias estarán orientadas, entre otros fines, a la educación sanitaria de la población?",
+      "o": ["Artículo 1", "Artículo 10", "Artículo 56", "Artículo 6"],
+      "a": 3,
+      "e": "El art. 6 orienta las actuaciones a la promoción de la salud y a la educación sanitaria; el art. 18 recoge la educación sanitaria como actuación prioritaria."
+    },
+    {
+      "q": "El modelo que explica la conducta preventiva a partir de la susceptibilidad y la gravedad percibidas y de los beneficios y barreras percibidos es el de:",
+      "o": ["Bandura", "Rosenstock (modelo de creencias en salud)", "Prochaska y DiClemente", "Ausubel"],
+      "a": 1,
+      "e": "El modelo de creencias en salud (Rosenstock) se basa en la amenaza percibida (susceptibilidad y gravedad) y en el balance entre beneficios y barreras."
+    },
+    {
+      "q": "Según Bandura, la fuente más potente para aumentar la autoeficacia es:",
+      "o": ["Las experiencias de dominio (logros propios)", "La persuasión verbal del profesional", "Las experiencias vicarias", "Los estados fisiológicos"],
+      "a": 0,
+      "e": "Los éxitos propios (experiencias de dominio) son la fuente más potente; por eso se recomiendan objetivos pequeños y alcanzables al inicio."
+    },
+    {
+      "q": "Un fumador afirma que el tabaco no le causa ningún problema y que no tiene intención de dejarlo. Según el modelo transteórico, se encuentra en la etapa de:",
+      "o": ["Contemplación", "Preparación", "Precontemplación", "Mantenimiento"],
+      "a": 2,
+      "e": "En la precontemplación no hay intención de cambio porque la persona no percibe el problema. En la contemplación ya existe ambivalencia."
+    },
+    {
+      "q": "El autor que sostiene que, para que el aprendizaje sea real, la nueva información debe conectarse con los conocimientos previos del educando es:",
+      "o": ["Knowles", "Ausubel", "Rosenstock", "Pender"],
+      "a": 1,
+      "e": "Ausubel describió el aprendizaje significativo. Knowles es el autor de la andragogía (educación de adultos)."
+    },
+    {
+      "q": "Según Dorothea Orem, el sistema de enfermería en el que se enmarca la educación para la salud es el:",
+      "o": ["Totalmente compensatorio", "Parcialmente compensatorio", "De suplencia total", "De apoyo-educación"],
+      "a": 3,
+      "e": "Orem describe tres sistemas: totalmente compensatorio, parcialmente compensatorio y de apoyo-educación, que es el que fortalece la agencia de autocuidado mediante la EpS."
+    },
+    {
+      "q": "¿Cuál de los siguientes objetivos cumple los criterios SMART?",
+      "o": ["Caminar 30 minutos, 5 días por semana, durante los próximos 3 meses", "Llevar una vida más saludable", "Mejorar la alimentación", "Hacer más ejercicio a partir de ahora"],
+      "a": 0,
+      "e": "Un objetivo SMART es específico, medible (cifra), alcanzable, relevante y temporalizado (plazo). Los demás son deseos sin cifra ni plazo."
+    },
+    {
+      "q": "La técnica teach-back evalúa principalmente:",
+      "o": ["La capacidad intelectual del paciente", "La memoria a largo plazo del cuidador", "La claridad de la explicación del profesional", "El nivel de estudios del paciente"],
+      "a": 2,
+      "e": "Con el teach-back el paciente explica con sus palabras lo aprendido; si hay errores, el profesional reformula el mensaje. Evalúa la claridad de quien explica, no al paciente."
+    },
+    {
+      "q": "Un paciente sabe que fumar le perjudica, pero duda y no se decide a dejarlo. La técnica de elección es:",
+      "o": ["La entrevista motivacional", "La charla informativa magistral", "El consejo autoritario", "La entrega de un folleto sin más"],
+      "a": 0,
+      "e": "La entrevista motivacional (Miller y Rollnick) está indicada ante la ambivalencia; usa la estrategia OARS: preguntas abiertas, afirmaciones, escucha reflexiva y resúmenes."
+    },
+    {
+      "q": "¿Cuál de las siguientes acciones NO forma parte del consejo breve estructurado de las \"5 aes\"?",
+      "o": ["Averiguar", "Aconsejar", "Acordar", "Analizar"],
+      "a": 3,
+      "e": "Las 5 aes son: averiguar, aconsejar, acordar, ayudar y asegurar el seguimiento."
+    },
+    {
+      "q": "El tamaño óptimo orientativo de un grupo de educación para la salud en Atención Primaria es de:",
+      "o": ["2-3 participantes", "20-25 participantes", "6-10 participantes", "Más de 30 participantes"],
+      "a": 2,
+      "e": "Entre 6 y 10 participantes se favorecen la participación activa y la cohesión, con sesiones de unos 60-90 minutos."
+    },
+    {
+      "q": "En un taller con adolescentes se quiere ensayar cómo rechazar la presión de los amigos para consumir alcohol. La técnica más adecuada es:",
+      "o": ["La exposición teórica", "El role-playing o dramatización", "La lluvia de ideas", "La entrega de un folleto"],
+      "a": 1,
+      "e": "El role-playing permite practicar habilidades sociales y trabajar actitudes en un entorno seguro, con análisis posterior en grupo."
+    },
+    {
+      "q": "La técnica de fotovoz (photovoice), en la que los vecinos fotografían elementos de su entorno que afectan a su salud, es sobre todo una técnica de:",
+      "o": ["Evaluación económica", "Diagnóstico participativo", "Educación individual", "Cierre de sesión"],
+      "a": 1,
+      "e": "La fotovoz es una técnica de diagnóstico participativo: la comunidad documenta sus problemas y activos para debatirlos y planificar acciones."
+    },
+    {
+      "q": "En la valoración familiar, el ecomapa permite visualizar:",
+      "o": ["Las relaciones de la familia con sistemas y recursos externos (servicios, amigos, asociaciones)", "La herencia genética de las enfermedades", "La puntuación de funcionalidad familiar de 0 a 10", "El grado de sobrecarga del cuidador"],
+      "a": 0,
+      "e": "El genograma muestra la estructura y las relaciones internas; el ecomapa, las redes de apoyo externas. La funcionalidad se mide con el Apgar familiar y la sobrecarga con la escala de Zarit."
+    },
+    {
+      "q": "Un paciente de un grupo de autoayuda refiere un gran alivio al descubrir que otros miembros tienen sus mismos problemas. Según Yalom, este factor terapéutico es la:",
+      "o": ["Catarsis", "Infusión de esperanza", "Altruismo", "Universalidad"],
+      "a": 3,
+      "e": "Universalidad: descubrir que el sufrimiento no es único. El altruismo es la mejora que produce ayudar a otros."
+    },
+    {
+      "q": "En un grupo de autoayuda, el papel de la enfermera es:",
+      "o": ["Dirigir y liderar todas las sesiones", "Decidir quién puede hablar en cada sesión", "Facilitar y asesorar, respetando la horizontalidad del grupo", "Sustituir a los miembros en la toma de decisiones"],
+      "a": 2,
+      "e": "Los grupos de autoayuda son horizontales y autogestionados; la enfermera actúa como facilitadora o asesora técnica, nunca como líder."
+    },
+    {
+      "q": "En el método de priorización de Hanlon, el componente C (eficacia de la solución) se puntúa:",
+      "o": ["De 0,5 a 1,5", "De 0 a 10", "De 0 a 20", "Solo con 0 o 1"],
+      "a": 0,
+      "e": "C actúa como multiplicador: 0,5 (baja eficacia), 1 (media) y 1,5 (alta). El componente D (factibilidad, PEARL) es el que se puntúa con 0 o 1."
+    },
+    {
+      "q": "Un problema de salud obtiene la máxima puntuación en magnitud, severidad y eficacia, pero la intervención no es legal (L = 0 en el PEARL). Según el método Hanlon:",
+      "o": ["Mantiene una prioridad alta por el peso de los demás componentes", "Su prioridad final es 0 y el problema se descarta", "Su prioridad se reduce a la mitad", "Se suma 1 punto de penalización"],
+      "a": 1,
+      "e": "Fórmula: (A + B) × C × D. D vale 0 si cualquiera de los criterios PEARL (pertinencia, economía, aceptabilidad, recursos, legalidad) es 0, lo que anula la prioridad."
+    },
+    {
+      "q": "La herramienta de elección para representar el cronograma de un programa de EpS, con las tareas simultáneas y las dependencias entre actividades, es:",
+      "o": ["La parrilla de Simplex", "El ecomapa", "El método Delphi", "El diagrama de Gantt"],
+      "a": 3,
+      "e": "El diagrama de Gantt sitúa las actividades en un eje temporal y permite identificar dependencias y la ruta crítica. La evaluación se planifica a la vez que el programa."
+    },
+    {
+      "q": "\"Reducir un 10% la incidencia de eventos cardiovasculares en la zona básica en 5 años\" es un objetivo de:",
+      "o": ["Proceso", "Estructura", "Impacto", "Resultado"],
+      "a": 2,
+      "e": "Los objetivos de impacto se refieren a indicadores de salud poblacionales a largo plazo; los de resultado, a cambios en conductas o conocimientos; los de proceso, a las actividades; y los de estructura, a los recursos."
+    },
+    {
+      "q": "¿Qué autor actualizó la definición clásica de salud pública ampliándola a las enfermedades no infecciosas y añadiendo explícitamente la salud mental?",
+      "o": ["Milton Terris", "Charles-Edward A. Winslow", "Piédrola Gil", "Marc Lalonde"],
+      "a": 0,
+      "e": "Winslow (1920) hablaba de enfermedades infecciosas y eficiencia física; Terris (1992) amplió la definición a las enfermedades en general y añadió la salud mental."
+    },
+    {
+      "q": "Una enfermera de AP pacta con un anciano polimedicado la retirada progresiva de benzodiacepinas para evitar caídas y efectos adversos. Esta actuación es prevención:",
+      "o": ["Primaria", "Secundaria", "Terciaria", "Cuaternaria"],
+      "a": 3,
+      "e": "La prevención cuaternaria (Jamoulle) protege al paciente de la sobremedicalización y de intervenciones innecesarias, es decir, de la iatrogenia."
+    },
+    {
+      "q": "Un programa de cribado de cáncer colorrectal mediante sangre oculta en heces corresponde a la prevención:",
+      "o": ["Primaria, cuyo objetivo es reducir la incidencia", "Secundaria, cuyo objetivo es reducir la prevalencia mediante el diagnóstico precoz", "Terciaria, cuyo objetivo es la rehabilitación", "Cuaternaria, cuyo objetivo es evitar la iatrogenia"],
+      "a": 1,
+      "e": "Los cribados detectan la enfermedad en fase subclínica: prevención secundaria. La primaria (vacunas, promoción) reduce la incidencia."
+    },
+    {
+      "q": "Es una de las críticas a la definición de salud de la OMS (1946):",
+      "o": ["Ser demasiado dinámica", "Excluir la dimensión social", "Ser estática, utópica y difícil de medir objetivamente", "Limitarse a la ausencia de enfermedad"],
+      "a": 2,
+      "e": "Se critica que habla de un \"estado\" (estática), que el \"completo bienestar\" es inalcanzable (utópica) y que el bienestar es subjetivo y difícil de medir."
+    },
+    {
+      "q": "Si se introduce un tratamiento que prolonga la vida de los diabéticos pero no cura la enfermedad, manteniéndose igual la incidencia:",
+      "o": ["Disminuye la prevalencia", "Disminuye la incidencia", "Aumenta la prevalencia", "No cambia ningún indicador"],
+      "a": 2,
+      "e": "En situación estable, P = I × D. Si aumenta la duración media de la enfermedad, aumenta la prevalencia aunque la incidencia no cambie."
+    },
+    {
+      "q": "Para comparar la mortalidad de la Región de Murcia con la de una comunidad mucho más envejecida, el indicador adecuado es:",
+      "o": ["La tasa de mortalidad ajustada o estandarizada por edad", "La tasa bruta de mortalidad", "El número absoluto de defunciones", "La tasa de letalidad"],
+      "a": 0,
+      "e": "La tasa bruta depende de la estructura de edad; la estandarización elimina ese efecto y permite comparaciones justas entre poblaciones."
+    },
+    {
+      "q": "La letalidad de una enfermedad se calcula como:",
+      "o": ["Defunciones totales / población total", "Casos nuevos / población en riesgo", "Defunciones por la enfermedad / población total", "Defunciones por la enfermedad / número de enfermos de esa enfermedad"],
+      "a": 3,
+      "e": "La letalidad mide la gravedad: su denominador son los enfermos. La mortalidad específica usa como denominador la población total."
+    },
+    {
+      "q": "Respecto al índice de Swaroop-Uemura, es correcto que:",
+      "o": ["Mide la proporción de muertes infantiles", "Es el porcentaje de defunciones de personas de 50 años o más, y un valor alto indica mejor nivel de salud", "Un valor bajo indica un excelente nivel sanitario", "Mide los años de vida ajustados por calidad"],
+      "a": 1,
+      "e": "Un índice cercano al 100% indica que la mayoría de las personas fallece tras alcanzar la vejez, reflejo de buen desarrollo sanitario."
+    },
+    {
+      "q": "El virus del Nilo Occidental, enfermedad emergente en el sur y levante de España, se transmite principalmente por mosquitos del género:",
+      "o": ["Culex", "Aedes", "Anopheles", "Phlebotomus"],
+      "a": 0,
+      "e": "Es una zoonosis de aves a humanos transmitida por mosquitos Culex (C. pipiens, C. perexiguus). No hay vacuna humana: la prevención es el control de vectores."
+    },
+    {
+      "q": "Según el análisis de Dever basado en los campos de salud de Lalonde, el determinante que más contribuye a la mortalidad es:",
+      "o": ["El sistema de asistencia sanitaria", "La biología humana", "El medio ambiente", "El estilo de vida"],
+      "a": 3,
+      "e": "El estilo de vida explica alrededor del 43% de la mortalidad y el sistema sanitario solo el 11%, aunque este recibe en torno al 90% del gasto."
+    }
+  ]
+}

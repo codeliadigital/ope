@@ -1,0 +1,187 @@
+{
+  "tema": 7,
+  "titulo": "Investigación cuantitativa y cualitativa en enfermería. Ley 31/1995 de Prevención de Riesgos Laborales",
+  "programa": "Fundamento y metodología de la investigación cuantitativa y cualitativa en enfermería. Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales: objeto, ámbito y definiciones; derechos y obligaciones; servicios de prevención; tipos de riesgos; Seguridad en el Trabajo, Higiene Industrial, Ergonomía y Psicosociología; actuación en supuestos de riesgo; precauciones universales: vacunación, higiene, equipos de protección, objetos cortopunzantes, esterilización y desinfección.",
+  "preguntas": [
+    {
+      "q": "El orden correcto de las fases de la Enfermería Basada en la Evidencia (las \"5 Aes\") es:",
+      "o": ["Averiguar, Analizar, Adquirir, Aplicar y Autoevaluar", "Averiguar, Adquirir, Analizar, Aplicar y Autoevaluar", "Adquirir, Averiguar, Analizar, Aplicar y Autoevaluar", "Averiguar, Adquirir, Aplicar, Analizar y Autoevaluar"],
+      "a": 1,
+      "e": "Primero se formula la pregunta, luego se busca la evidencia, se lee críticamente, se aplica y se evalúa el resultado."
+    },
+    {
+      "q": "En una búsqueda bibliográfica, el operador booleano OR:",
+      "o": ["Reduce el número de resultados", "Excluye los documentos con ese término", "Amplía la búsqueda, recuperando documentos con cualquiera de los términos", "Obliga a que aparezcan ambos términos"],
+      "a": 2,
+      "e": "OR une (útil para sinónimos) y aumenta los resultados; AND interseca y los reduce; NOT excluye."
+    },
+    {
+      "q": "La investigación cualitativa utiliza fundamentalmente un razonamiento:",
+      "o": ["Inductivo", "Deductivo", "Hipotético-deductivo", "Experimental"],
+      "a": 0,
+      "e": "La cualitativa parte de los datos para construir teoría (inductivo); la cuantitativa parte de la teoría para comprobar hipótesis (deductivo)."
+    },
+    {
+      "q": "El formato de pregunta de elección para un estudio de cohortes que analiza la exposición a un factor de riesgo laboral es:",
+      "o": ["SPIDER", "ECLIPSE", "SPICE", "PECO"],
+      "a": 3,
+      "e": "PECO sustituye la Intervención por la Exposición en estudios observacionales analíticos. SPIDER y SPICE son cualitativos; ECLIPSE, de gestión."
+    },
+    {
+      "q": "En un ensayo clínico con diseño de doble ciego desconocen la asignación:",
+      "o": ["Solo el paciente", "El paciente y el investigador que administra el tratamiento", "El investigador y el analista estadístico", "El paciente, el investigador y el analista"],
+      "a": 1,
+      "e": "Simple ciego: el paciente. Doble ciego: paciente e investigador/clínico. Triple ciego: además el analista."
+    },
+    {
+      "q": "Para estudiar una enfermedad rara o con un periodo de latencia muy largo, el diseño observacional de elección es:",
+      "o": ["El estudio de cohortes prospectivo", "El ensayo clínico aleatorizado", "El estudio de casos y controles", "El estudio transversal"],
+      "a": 2,
+      "e": "Los casos y controles parten de los enfermos ya existentes y buscan la exposición previa; una cohorte exigiría seguir a muchísimas personas."
+    },
+    {
+      "q": "La medida de asociación propia de los estudios de cohortes es:",
+      "o": ["El riesgo relativo (RR)", "La odds ratio (OR)", "La prevalencia", "La sensibilidad"],
+      "a": 0,
+      "e": "Las cohortes miden incidencia y calculan el RR; los casos y controles, al no poder calcular incidencias, usan la OR."
+    },
+    {
+      "q": "En un estudio de cohortes se obtiene un riesgo relativo de 0,5. Esto indica que la exposición:",
+      "o": ["No tiene ninguna asociación con la enfermedad", "Duplica el riesgo de enfermar", "Es un factor de riesgo", "Es un factor protector"],
+      "a": 3,
+      "e": "El valor nulo es 1. RR > 1 = factor de riesgo; RR < 1 = factor protector."
+    },
+    {
+      "q": "Según Lincoln y Guba, el criterio de rigor cualitativo equivalente a la validez externa es la:",
+      "o": ["Credibilidad", "Transferibilidad", "Dependencia", "Confirmabilidad"],
+      "a": 1,
+      "e": "Credibilidad = validez interna; transferibilidad = validez externa; dependencia = fiabilidad; confirmabilidad = objetividad."
+    },
+    {
+      "q": "El muestreo en el que se seleccionan al azar agrupaciones naturales internamente heterogéneas (hospitales, aulas) y se estudian todos sus individuos es el:",
+      "o": ["Aleatorio simple", "Estratificado", "Por conglomerados", "Por cuotas"],
+      "a": 2,
+      "e": "En el estratificado los estratos son homogéneos; en los conglomerados, los grupos son naturales y heterogéneos."
+    },
+    {
+      "q": "La frecuencia cardiaca medida en latidos por minuto es una variable:",
+      "o": ["Cuantitativa discreta", "Cuantitativa continua", "Cualitativa ordinal", "Cualitativa nominal"],
+      "a": 0,
+      "e": "Solo toma valores enteros, por lo que es discreta. El peso o la temperatura, que admiten decimales, son continuas."
+    },
+    {
+      "q": "El sesgo por el que las expectativas del investigador influyen inconscientemente en los resultados se denomina:",
+      "o": ["Efecto Hawthorne", "Sesgo de Berkson", "Sesgo de Neyman", "Efecto Rosenthal o Pigmalión"],
+      "a": 3,
+      "e": "Rosenthal = expectativas del investigador (se evita con doble ciego). Hawthorne = el sujeto cambia su conducta al saberse observado."
+    },
+    {
+      "q": "El gráfico en embudo (funnel plot) se utiliza en los metaanálisis para detectar:",
+      "o": ["Factores de confusión", "El sesgo de publicación", "El sesgo de memoria", "Las pérdidas de seguimiento"],
+      "a": 1,
+      "e": "La asimetría del embudo indica que faltan estudios (sobre todo pequeños con resultados negativos) que no se publicaron."
+    },
+    {
+      "q": "Una prueba destinada a un programa de cribado poblacional debe priorizar:",
+      "o": ["Una alta especificidad", "Un alto valor predictivo positivo", "Una alta sensibilidad", "Una baja prevalencia de la enfermedad"],
+      "a": 2,
+      "e": "En el cribado interesa no dejar escapar enfermos (pocos falsos negativos): alta sensibilidad. La especificidad se prioriza en la confirmación."
+    },
+    {
+      "q": "Si la prevalencia de una enfermedad disminuye mucho en la población, se modifican:",
+      "o": ["Los valores predictivos positivo y negativo", "La sensibilidad de la prueba", "La especificidad de la prueba", "La sensibilidad y la especificidad"],
+      "a": 0,
+      "e": "Sensibilidad y especificidad son propiedades intrínsecas de la prueba; VPP y VPN dependen de la prevalencia."
+    },
+    {
+      "q": "Para comparar una variable que no sigue la distribución normal entre tres o más grupos independientes se utiliza:",
+      "o": ["El test de Wilcoxon", "La U de Mann-Whitney", "La prueba de Friedman", "La H de Kruskal-Wallis"],
+      "a": 3,
+      "e": "Kruskal-Wallis es la alternativa no paramétrica al ANOVA. Wilcoxon: 2 medidas relacionadas; Mann-Whitney: 2 grupos independientes; Friedman: medidas repetidas."
+    },
+    {
+      "q": "La guía de la Red EQUATOR para la publicación de ensayos clínicos aleatorizados es:",
+      "o": ["STROBE", "CONSORT", "PRISMA", "STARD"],
+      "a": 1,
+      "e": "CONSORT = ECA; STROBE = observacionales; PRISMA = revisiones sistemáticas y metaanálisis; STARD = pruebas diagnósticas."
+    },
+    {
+      "q": "El instrumento AGREE II se utiliza para:",
+      "o": ["Evaluar la calidad de las guías de práctica clínica", "Publicar ensayos clínicos", "Evaluar estudios cualitativos", "Calcular el tamaño muestral"],
+      "a": 0,
+      "e": "AGREE II evalúa guías de práctica clínica con 23 ítems agrupados en 6 dominios."
+    },
+    {
+      "q": "La Ley 31/1995 de Prevención de Riesgos Laborales es la transposición de la Directiva:",
+      "o": ["2010/32/UE", "2013/59/Euratom", "89/391/CEE", "2004/37/CE"],
+      "a": 2,
+      "e": "La LPRL transpone la Directiva marco 89/391/CEE. La 2010/32/UE se refiere a lesiones por cortopunzantes."
+    },
+    {
+      "q": "¿Cuál de los siguientes colectivos queda excluido del ámbito de aplicación de la Ley 31/1995?",
+      "o": ["El personal estatutario de los servicios de salud", "Las Fuerzas Armadas en sus actividades militares", "Los socios trabajadores de cooperativas", "Los trabajadores temporales"],
+      "a": 1,
+      "e": "Se excluyen actividades de soberanía y orden público (Fuerzas Armadas, policía, protección civil en emergencias). El personal del SMS sí está incluido."
+    },
+    {
+      "q": "¿Cuál de los siguientes NO se considera un Equipo de Protección Individual según la LPRL?",
+      "o": ["Una mascarilla FFP3", "Un delantal plomado", "Unas gafas de protección frente a salpicaduras", "El uniforme ordinario de trabajo de la planta"],
+      "a": 3,
+      "e": "La ropa de trabajo ordinaria que no protege específicamente frente a un riesgo queda excluida del concepto de EPI."
+    },
+    {
+      "q": "La vigilancia de la salud de los trabajadores es voluntaria, pero pasa a ser obligatoria cuando:",
+      "o": ["El estado de salud del trabajador puede constituir un peligro para terceros, como los pacientes", "El trabajador es temporal", "El centro tiene más de 50 trabajadores", "Lo decide el supervisor de la unidad"],
+      "a": 0,
+      "e": "Es obligatoria para evaluar los efectos del trabajo, si la salud del trabajador es un peligro para él o terceros, o si lo establece una ley."
+    },
+    {
+      "q": "El Comité de Seguridad y Salud debe constituirse obligatoriamente en centros de trabajo con:",
+      "o": ["6 o más trabajadores", "25 o más trabajadores", "50 o más trabajadores", "250 o más trabajadores"],
+      "a": 2,
+      "e": "Es un órgano paritario obligatorio a partir de 50 trabajadores. En centros más pequeños actúan los Delegados de Prevención."
+    },
+    {
+      "q": "Ante un riesgo para una enfermera embarazada, la primera medida que debe adoptarse según el art. 26 de la LPRL es:",
+      "o": ["La suspensión del contrato por riesgo durante el embarazo", "La adaptación de las condiciones o del tiempo de trabajo", "El cambio de puesto con las retribuciones del nuevo puesto", "La baja por incapacidad temporal"],
+      "a": 1,
+      "e": "Orden: 1.º adaptar el puesto o el horario; 2.º cambio de puesto manteniendo el 100% de las retribuciones; 3.º suspensión del contrato por riesgo."
+    },
+    {
+      "q": "Según el RD 39/1997, es obligatorio constituir un Servicio de Prevención Propio en empresas con:",
+      "o": ["Más de 50 trabajadores", "Más de 100 trabajadores", "Más de 250 trabajadores en cualquier actividad", "Más de 500 trabajadores"],
+      "a": 3,
+      "e": "Más de 500 trabajadores; entre 250 y 500 solo si realizan actividades del Anexo I; o por decisión de la autoridad laboral."
+    },
+    {
+      "q": "El síndrome de burnout y el mobbing son objeto de la disciplina preventiva de:",
+      "o": ["Psicosociología aplicada", "Higiene industrial", "Seguridad en el trabajo", "Ergonomía"],
+      "a": 0,
+      "e": "La psicosociología se ocupa de los factores organizativos: turnicidad, carga mental, estrés, burnout y acoso."
+    },
+    {
+      "q": "Según el RD 664/1997, el VIH, el virus de la hepatitis B y el bacilo de la tuberculosis son agentes biológicos del grupo:",
+      "o": ["1", "2", "3", "4"],
+      "a": 2,
+      "e": "Grupo 3: enfermedad grave con riesgo de propagación, pero con profilaxis o tratamiento. El grupo 4 incluye el Ébola."
+    },
+    {
+      "q": "Ante un paciente con tuberculosis pulmonar activa, la enfermera aplicará:",
+      "o": ["Precauciones de gotas con mascarilla quirúrgica", "Precauciones de contacto con guantes y bata", "Solo precauciones estándar", "Precauciones de transmisión aérea con mascarilla FFP2/FFP3 y habitación de presión negativa"],
+      "a": 3,
+      "e": "Tuberculosis, sarampión y varicela requieren aislamiento aéreo: presión negativa, filtros HEPA y protección respiratoria FFP2/FFP3."
+    },
+    {
+      "q": "Tras atender a un paciente con diarrea por Clostridioides difficile, la higiene de manos debe hacerse:",
+      "o": ["Con solución hidroalcohólica durante 20-30 segundos", "Con agua y jabón, por arrastre mecánico", "No es necesaria si se han usado guantes", "Con alcohol de 70º"],
+      "a": 1,
+      "e": "El alcohol no es esporicida: ante esporas se lava con agua y jabón (40-60 s) para arrastrarlas. Los guantes nunca sustituyen la higiene de manos."
+    },
+    {
+      "q": "Según la clasificación de Spaulding, un laringoscopio es material:",
+      "o": ["Crítico, que requiere esterilización", "No crítico, que requiere limpieza", "Semicrítico, que requiere desinfección de alto nivel", "Crítico, que requiere desinfección de bajo nivel"],
+      "a": 2,
+      "e": "Contacta con mucosas intactas: es semicrítico y requiere desinfección de alto nivel (glutaraldehído, ácido peracético)."
+    }
+  ]
+}

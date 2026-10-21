@@ -1,0 +1,187 @@
+{
+  "tema": 27,
+  "titulo": "Cuidados de la mujer en el climaterio. Fomento de hábitos saludables. Educación para la salud individual y grupal",
+  "programa": "Cuidados de la mujer en el climaterio: conceptos, fisiopatología, manifestaciones clínicas, valoración y escalas, plan de cuidados, tratamiento. Fomento de hábitos saludables. Educación para la salud individual y grupal y programa educativo. Cribados en Atención Primaria.",
+  "preguntas": [
+    {
+      "q": "La menopausia se define como:",
+      "o": ["El periodo de transición con irregularidad menstrual", "La aparición de sofocos", "Una FSH superior a 25 UI/l", "El cese definitivo de la menstruación, diagnosticado de forma retrospectiva tras 12 meses de amenorrea sin otra causa"],
+      "a": 3,
+      "e": "El climaterio es el proceso completo; la menopausia es solo la fecha de la última regla."
+    },
+    {
+      "q": "Se considera menopausia precoz o insuficiencia ovárica primaria cuando el cese menstrual ocurre antes de los:",
+      "o": ["35 años", "40 años", "45 años", "50 años"],
+      "a": 1,
+      "e": "La edad media es de unos 50 años; se considera tardía por encima de los 55."
+    },
+    {
+      "q": "La etapa del climaterio en la que suelen presentarse más síntomas y peor calidad de vida es la:",
+      "o": ["Premenopausia temprana", "Posmenopausia tardía", "Perimenopausia", "Etapa reproductiva tardía"],
+      "a": 2,
+      "e": "En la perimenopausia aparecen la irregularidad menstrual y los síntomas vasomotores."
+    },
+    {
+      "q": "El marcador más precoz del declive de la reserva ovárica es:",
+      "o": ["La hormona antimülleriana (AMH)", "La FSH", "El estradiol", "La LH"],
+      "a": 0,
+      "e": "Primero baja la AMH, luego la inhibina B, después sube la FSH y por último cae el estradiol. La AMH no varía con el ciclo."
+    },
+    {
+      "q": "El perfil hormonal característico del estado menopáusico es:",
+      "o": ["FSH baja y estradiol alto", "FSH y LH elevadas con estradiol bajo", "FSH normal y progesterona alta", "Prolactina elevada"],
+      "a": 1,
+      "e": "Al desaparecer el retrocontrol negativo de los estrógenos, la hipófisis aumenta las gonadotropinas: estado hipergonadotrópico e hipoestrogénico."
+    },
+    {
+      "q": "En la posmenopausia, el estrógeno predominante es:",
+      "o": ["La estrona, producida por aromatización de andrógenos en el tejido adiposo", "El estradiol de origen ovárico", "El estriol placentario", "La progesterona"],
+      "a": 0,
+      "e": "A más tejido graso, más conversión periférica de androstendiona en estrona."
+    },
+    {
+      "q": "En una mujer posmenopáusica con obesidad, el exceso de estrona sin oposición de progesterona aumenta especialmente el riesgo de:",
+      "o": ["Osteoporosis", "Cáncer de cérvix", "Hipotiroidismo", "Hiperplasia y cáncer de endometrio"],
+      "a": 3,
+      "e": "Sin ovulación no hay progesterona que frene el estímulo estrogénico sobre el endometrio."
+    },
+    {
+      "q": "En el síndrome genitourinario de la menopausia, el pH vaginal:",
+      "o": ["Se vuelve más ácido (< 3)", "No se modifica", "Aumenta por encima de 5 por la pérdida de glucógeno y de lactobacilos", "Baja por exceso de lactobacilos"],
+      "a": 2,
+      "e": "Sin glucógeno desaparecen los lactobacilos de Döderlein y se pierde la acidez protectora; aumentan las infecciones."
+    },
+    {
+      "q": "Ante sofocos en una mujer perimenopáusica, una prueba obligada para el diagnóstico diferencial es:",
+      "o": ["La TSH", "La amilasa", "La troponina", "El PSA"],
+      "a": 0,
+      "e": "La disfunción tiroidea puede producir una clínica superponible."
+    },
+    {
+      "q": "Según los criterios densitométricos de la OMS, existe osteoporosis cuando el T-score es:",
+      "o": ["Superior a −1", "Entre −1 y −2,5", "Igual o inferior a −2,5", "Positivo"],
+      "a": 2,
+      "e": "Entre −1 y −2,5 es osteopenia; si además hay fractura por fragilidad, osteoporosis grave."
+    },
+    {
+      "q": "Tras la menopausia, el perfil lipídico se modifica de forma característica con:",
+      "o": ["Aumento del HDL y descenso del LDL", "Descenso de todas las fracciones", "Sin cambios", "Descenso del HDL y aumento del LDL y los triglicéridos"],
+      "a": 3,
+      "e": "Junto a la grasa abdominal y la resistencia a la insulina, el riesgo cardiovascular de la mujer se iguala al del varón."
+    },
+    {
+      "q": "Respecto a la escala Cervantes, es correcto que:",
+      "o": ["Mide el riesgo de fractura", "Mide la calidad de vida en la menopausia y una puntuación mayor indica peor calidad de vida", "Es un cribado de depresión", "Una puntuación alta indica mejor calidad de vida"],
+      "a": 1,
+      "e": "Está validada en población española; su versión corta tiene 16 ítems."
+    },
+    {
+      "q": "La herramienta FRAX de la OMS:",
+      "o": ["Diagnostica la osteoporosis", "Calcula el riesgo absoluto de fractura a 10 años y puede usarse sin densitometría", "Mide la densidad mineral ósea", "Evalúa la calidad de vida"],
+      "a": 1,
+      "e": "Utiliza variables clínicas como la edad, el IMC, el tabaco, el alcohol, los corticoides y la fractura de cadera en los padres."
+    },
+    {
+      "q": "En la escala de ansiedad y depresión de Goldberg, se considera probable:",
+      "o": ["Ansiedad con 4 o más respuestas afirmativas y depresión con 2 o más", "Ansiedad con 2 o más y depresión con 4 o más", "Ambas con 1 respuesta afirmativa", "Ambas con 9 respuestas afirmativas"],
+      "a": 0,
+      "e": "El umbral de la depresión es más bajo, lo que permite detectarla precozmente."
+    },
+    {
+      "q": "La ingesta diaria de calcio recomendada en una mujer de 55 años es de:",
+      "o": ["500 mg", "800 mg", "1.200 mg", "2.000 mg"],
+      "a": 2,
+      "e": "Hasta los 50 años se recomiendan 1.000 mg/día; a partir de los 51, 1.200 mg/día, junto con vitamina D."
+    },
+    {
+      "q": "El consumo excesivo de sal y cafeína perjudica la salud ósea porque:",
+      "o": ["Impiden la síntesis de vitamina D", "Bloquean los osteoblastos", "Aumentan la absorción de fósforo", "Aumentan la excreción urinaria de calcio"],
+      "a": 3,
+      "e": "Actúan como \"ladrones de calcio\" al favorecer su pérdida por la orina."
+    },
+    {
+      "q": "Respecto a las isoflavonas de soja en el climaterio, es correcto que:",
+      "o": ["Actúan sobre el receptor estrogénico beta y su eficacia depende de la capacidad de la flora intestinal para producir equol", "Estimulan intensamente el endometrio", "Son eficaces en todas las mujeres por igual", "Están contraindicadas en todas las mujeres"],
+      "a": 0,
+      "e": "Pueden reducir los sofocos; solo un 30-50% de las mujeres occidentales produce equol."
+    },
+    {
+      "q": "El factor aislado más importante para prevenir caídas y fracturas en la mujer posmenopáusica es:",
+      "o": ["La toma de isoflavonas", "El reposo", "El entrenamiento de fuerza contra resistencia", "La gimnasia hipopresiva"],
+      "a": 2,
+      "e": "El ejercicio aeróbico y de fuerza previene la pérdida ósea y mejora el equilibrio."
+    },
+    {
+      "q": "El hábito modificable que más adelanta la edad de la menopausia es:",
+      "o": ["El consumo de café", "El sedentarismo", "La dieta vegetariana", "El tabaquismo"],
+      "a": 3,
+      "e": "La nicotina produce apoptosis folicular acelerada; además acelera la pérdida ósea."
+    },
+    {
+      "q": "En el tratamiento de la sequedad vaginal, la diferencia entre hidratantes y lubricantes es que:",
+      "o": ["Ambos se usan solo durante el coito", "El hidratante se usa de forma continua para mejorar la mucosa y el lubricante a demanda durante el coito", "El lubricante contiene estrógenos", "El hidratante solo se usa antes del coito"],
+      "a": 1,
+      "e": "Los lubricantes deben ser preferentemente de base acuosa para no dañar el látex del preservativo."
+    },
+    {
+      "q": "Una mujer con útero que usa estrógenos vaginales a dosis bajas para el síndrome genitourinario:",
+      "o": ["No necesita tomar progestágenos, por su absorción sistémica mínima", "Debe tomar progesterona oral siempre", "Debe realizarse una biopsia endometrial mensual", "Debe suspenderlos a los 3 meses obligatoriamente"],
+      "a": 0,
+      "e": "Son el tratamiento médico de primera elección del síndrome genitourinario aislado."
+    },
+    {
+      "q": "La terapia hormonal sistémica de la menopausia debe iniciarse, para ser segura, en mujeres:",
+      "o": ["De cualquier edad", "Mayores de 65 años", "Menores de 60 años o con menos de 10 años desde la menopausia", "Solo tras 20 años de menopausia"],
+      "a": 2,
+      "e": "Es el tratamiento de elección de los sofocos moderados-graves dentro de esa ventana de oportunidad."
+    },
+    {
+      "q": "Es una contraindicación absoluta de la terapia hormonal sistémica de la menopausia:",
+      "o": ["Los sofocos intensos", "Una hemorragia genital no filiada", "La osteopenia", "La edad de 52 años"],
+      "a": 1,
+      "e": "También el cáncer de mama o estrógeno-dependiente, el tromboembolismo venoso, la enfermedad arterial activa y la hepatopatía aguda grave."
+    },
+    {
+      "q": "En una mujer en tratamiento con tamoxifeno por cáncer de mama que presenta sofocos intensos, el fármaco de elección es:",
+      "o": ["La terapia hormonal sistémica", "La paroxetina", "Los estrógenos orales", "La venlafaxina"],
+      "a": 3,
+      "e": "La paroxetina inhibe el CYP2D6 y reduce la eficacia del tamoxifeno, por lo que está contraindicada."
+    },
+    {
+      "q": "El fezolinetant es un tratamiento no hormonal de los sofocos que actúa como:",
+      "o": ["Antagonista del receptor de neuroquinina 3 (NK3) en el hipotálamo", "Estrógeno sintético", "Inhibidor de la recaptación de serotonina", "Antiepiléptico"],
+      "a": 0,
+      "e": "Bloquea los receptores NK3 de las neuronas KNDy del centro termorregulador, sin actividad estrogénica."
+    },
+    {
+      "q": "En una entrevista educativa individual, la secuencia recomendada de técnicas es:",
+      "o": ["Información, análisis y expresión", "Solo información", "Análisis, información y expresión", "Expresión (preguntas abiertas), análisis y, por último, información"],
+      "a": 3,
+      "e": "Empezar dando información es propio de un modelo paternalista. El silencio terapéutico es una técnica activa."
+    },
+    {
+      "q": "El tamaño recomendado de un taller grupal de educación para la salud en el climaterio es de:",
+      "o": ["2-4 personas", "4-6 personas", "8-15 personas", "30-40 personas"],
+      "a": 2,
+      "e": "Con menos personas no se genera dinámica de grupo y con más no se garantiza la participación."
+    },
+    {
+      "q": "La técnica de la foto-palabra en un taller de climaterio pertenece al grupo de técnicas de:",
+      "o": ["Desarrollo de habilidades", "Investigación en el aula, para aflorar ideas y sentimientos previos", "Exposición magistral", "Evaluación final"],
+      "a": 1,
+      "e": "La tormenta de ideas también es de investigación en el aula; el role-playing y los talleres prácticos son de desarrollo de habilidades."
+    },
+    {
+      "q": "En una mujer de 52 años, el cribado de cáncer de cérvix se realiza mediante:",
+      "o": ["Determinación del VPH cada 5 años", "Citología anual", "Citología cada 3 años", "Colposcopia bienal"],
+      "a": 0,
+      "e": "Entre los 35 y los 65 años el cribado se basa en el test de VPH; a los 65 se da de alta si los resultados previos fueron negativos."
+    },
+    {
+      "q": "El cribado poblacional de cáncer de mama consiste en:",
+      "o": ["Mamografía anual desde los 40 años", "Ecografía cada 3 años", "Autoexploración mensual como único método", "Mamografía cada 2 años entre los 50 y los 69 años"],
+      "a": 3,
+      "e": "El de cáncer colorrectal es la sangre oculta en heces cada 2 años entre los 50 y los 69 años."
+    }
+  ]
+}

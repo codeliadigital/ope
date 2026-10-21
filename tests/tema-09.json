@@ -1,0 +1,187 @@
+{
+  "tema": 9,
+  "titulo": "Bioética, inteligencia artificial, secreto profesional y protección de datos. Sistemas de información y registros",
+  "programa": "Principios fundamentales de la Bioética: dilemas éticos; inteligencia artificial. El secreto profesional. Código deontológico. Protección de datos personales: Reglamento (UE) 2016/679 y LO 3/2018. Sistemas de información en Atención Primaria y Especializada: historia clínica digital, registros de enfermería, informe de enfermería al alta, CMBD, CIE-10 y clasificaciones NANDA, NIC y NOC.",
+  "preguntas": [
+    {
+      "q": "El Informe Belmont (1978) estableció como principios éticos básicos para la investigación:",
+      "o": ["Cuatro principios: autonomía, beneficencia, no maleficencia y justicia", "Tres principios: respeto a las personas, beneficencia y justicia", "Cinco principios, incluida la confidencialidad", "Dos principios: autonomía y justicia"],
+      "a": 1,
+      "e": "Belmont formuló 3 principios. En 1979 Beauchamp y Childress separaron la no maleficencia y consolidaron los 4 principios."
+    },
+    {
+      "q": "Una enfermera aplica el listado de verificación quirúrgica y comprueba los \"correctos\" antes de administrar un fármaco. Actúa guiada principalmente por el principio de:",
+      "o": ["Beneficencia", "Justicia", "Autonomía", "No maleficencia"],
+      "a": 3,
+      "e": "Las acciones dirigidas a evitar daños y eventos adversos responden al principio de no maleficencia (primum non nocere)."
+    },
+    {
+      "q": "Según Diego Gracia, los principios que forman la ética de mínimos son:",
+      "o": ["No maleficencia y justicia", "Autonomía y beneficencia", "Beneficencia y justicia", "Autonomía y no maleficencia"],
+      "a": 0,
+      "e": "Mínimos (nivel público, exigibles): no maleficencia y justicia. Máximos (nivel privado): autonomía y beneficencia. Los mínimos prevalecen."
+    },
+    {
+      "q": "En el método deliberativo, las pruebas de consistencia a las que se somete el curso de acción elegido son:",
+      "o": ["Eficacia, eficiencia y efectividad", "Autonomía, beneficencia y justicia", "Legalidad, publicidad y tiempo", "Validez, fiabilidad y aplicabilidad"],
+      "a": 2,
+      "e": "¿Es legal? ¿Lo defenderíamos en público? ¿Tomaríamos la misma decisión tras un tiempo de reflexión?"
+    },
+    {
+      "q": "Los Comités de Ética Asistencial de la Región de Murcia están regulados por el:",
+      "o": ["Decreto 80/2005", "Decreto 66/2005", "Decreto 25/2006", "Decreto 106/2007"],
+      "a": 1,
+      "e": "Decreto 66/2005, de 10 de junio. El 80/2005 regula las instrucciones previas; el 25/2006, la demora máxima; el 106/2007, la segunda opinión."
+    },
+    {
+      "q": "Según el Decreto 66/2005, ¿cuál de las siguientes NO es una función de los Comités de Ética Asistencial?",
+      "o": ["Emitir informes consultivos sobre dilemas éticos", "Colaborar en la elaboración de protocolos con implicaciones éticas", "Promover la formación en bioética", "Evaluar proyectos de ensayos clínicos"],
+      "a": 3,
+      "e": "Los ensayos clínicos los evalúa el CEIm. Los CEA tampoco median en conflictos laborales ni tramitan quejas."
+    },
+    {
+      "q": "Los informes y recomendaciones de un Comité de Ética Asistencial son:",
+      "o": ["No vinculantes", "Vinculantes para el profesional", "Vinculantes solo si son unánimes", "De obligado cumplimiento para la gerencia"],
+      "a": 0,
+      "e": "El CEA asesora; no sustituye la responsabilidad del profesional ni actúa como tribunal."
+    },
+    {
+      "q": "Un paciente inconsciente tiene registradas instrucciones previas que rechazan la ventilación mecánica, pero su familia exige que se le conecte. Debe prevalecer:",
+      "o": ["La opinión unánime de la familia", "El criterio del Comité de Ética Asistencial", "Lo establecido en las instrucciones previas", "La decisión del juez de guardia en todo caso"],
+      "a": 2,
+      "e": "Las instrucciones previas expresan la autonomía del paciente; la familia no puede revocarlas."
+    },
+    {
+      "q": "Según el Reglamento europeo de Inteligencia Artificial, un sistema de IA de triaje automatizado en urgencias se clasifica como de:",
+      "o": ["Riesgo mínimo", "Alto riesgo", "Uso prohibido", "Riesgo limitado"],
+      "a": 1,
+      "e": "La IA que guía decisiones clínicas o forma parte de productos sanitarios es de alto riesgo: exige evaluación de conformidad y supervisión humana."
+    },
+    {
+      "q": "En el Espacio Europeo de Datos de Salud, el uso secundario de los datos se refiere a:",
+      "o": ["La asistencia sanitaria directa del paciente", "La receta electrónica transfronteriza", "La consulta del historial por un médico de otro país", "La investigación, la estadística y el entrenamiento de algoritmos con datos anonimizados"],
+      "a": 3,
+      "e": "Uso primario = asistencia directa; uso secundario = investigación, innovación, salud pública e IA, con anonimización o seudonimización."
+    },
+    {
+      "q": "El secreto que permite que la información del paciente circule entre los miembros del equipo asistencial implicados en su atención se denomina:",
+      "o": ["Secreto compartido", "Secreto derivado", "Secreto absoluto", "Secreto relativo"],
+      "a": 0,
+      "e": "El derivado afecta al personal no sanitario; el relativo es el modelo vigente con excepciones; el absoluto es insostenible jurídicamente."
+    },
+    {
+      "q": "Según el art. 199.2 del Código Penal, el profesional que divulga los secretos de otra persona incumpliendo su deber de sigilo puede ser castigado con:",
+      "o": ["Prisión de 6 meses a 1 año", "Prisión de 2 a 5 años", "Prisión de 1 a 4 años, multa e inhabilitación especial de 2 a 6 años", "Solo con multa"],
+      "a": 2,
+      "e": "Pena de prisión de 1 a 4 años, multa de 12 a 24 meses e inhabilitación especial para la profesión de 2 a 6 años."
+    },
+    {
+      "q": "El Código Deontológico de la Enfermería Española vigente fue aprobado mediante:",
+      "o": ["Una Ley Orgánica de 1989", "La Resolución 32/89 del Consejo General de Enfermería", "Un Real Decreto del Ministerio de Sanidad", "Una Orden Ministerial de 1954"],
+      "a": 1,
+      "e": "Es una norma corporativa: Resolución 32/89 del Consejo General de Enfermería, que sustituyó al código de 1954."
+    },
+    {
+      "q": "El artículo 22 del Código Deontológico de la Enfermería Española regula:",
+      "o": ["El secreto profesional", "La actuación en emergencias", "Las relaciones en los puestos de gestión", "La objeción de conciencia"],
+      "a": 3,
+      "e": "Art. 19: secreto; art. 22: objeción de conciencia; art. 38: emergencias; art. 39: gestión."
+    },
+    {
+      "q": "Según el art. 39 del Código Deontológico, la enfermera que ejerce un puesto de supervisión:",
+      "o": ["Nunca reprenderá públicamente a un colega", "Puede amonestar en público para dar ejemplo", "Debe comunicar al Colegio cualquier error", "Puede delegar su responsabilidad deontológica"],
+      "a": 0,
+      "e": "Las correcciones deben hacerse de forma individual y privada, manteniendo una relación dialogante."
+    },
+    {
+      "q": "El Reglamento (UE) 2016/679 de protección de datos:",
+      "o": ["Requiere una ley española de transposición para aplicarse", "Solo obliga a las empresas privadas", "Es de aplicación directa en todos los Estados miembros", "Es una recomendación sin efectos vinculantes"],
+      "a": 2,
+      "e": "Los reglamentos europeos se aplican directamente; las directivas son las que requieren transposición."
+    },
+    {
+      "q": "Una enfermera consulta por curiosidad la historia clínica de un vecino que no es su paciente. Vulnera especialmente el principio del RGPD de:",
+      "o": ["Exactitud", "Minimización de datos", "Limitación del plazo de conservación", "Transparencia"],
+      "a": 1,
+      "e": "Solo se debe acceder a los datos estrictamente necesarios para la finalidad asistencial; además es una infracción muy grave."
+    },
+    {
+      "q": "Según el RGPD, para que el consentimiento sea válido:",
+      "o": ["Basta con que el paciente no se oponga", "Puede presumirse si el paciente es atendido", "Se admiten casillas premarcadas", "Debe ser una manifestación inequívoca mediante una clara acción afirmativa"],
+      "a": 3,
+      "e": "Debe ser libre, específico, informado e inequívoco. Quedan prohibidos el consentimiento tácito, el silencio y las casillas premarcadas."
+    },
+    {
+      "q": "Los datos relativos a la salud tienen, según el art. 9 del RGPD, la consideración de:",
+      "o": ["Categoría especial de datos, cuyo tratamiento está prohibido salvo excepciones", "Datos personales ordinarios", "Datos públicos", "Datos anónimos"],
+      "a": 0,
+      "e": "Son categoría especial; se permite su tratamiento, entre otras excepciones, para la asistencia sanitaria por profesionales sujetos a secreto."
+    },
+    {
+      "q": "Según la LOPDGDD, un menor puede consentir por sí mismo el tratamiento de sus datos personales a partir de:",
+      "o": ["Los 12 años", "Los 16 años", "Los 14 años", "Los 18 años"],
+      "a": 2,
+      "e": "Art. 7 LOPDGDD: mayores de 14 años. No confundir con los 16 años del consentimiento clínico de la Ley 41/2002."
+    },
+    {
+      "q": "La obligación de designar un Delegado de Protección de Datos no se aplica a:",
+      "o": ["Los hospitales públicos", "Los profesionales sanitarios que ejercen a título individual", "Los centros de salud", "Las clínicas privadas"],
+      "a": 1,
+      "e": "El art. 34 LOPDGDD obliga a los centros sanitarios que mantienen historias clínicas, salvo a los profesionales individuales."
+    },
+    {
+      "q": "Según el art. 5 de la LOPDGDD, el deber de confidencialidad de quienes tratan datos personales:",
+      "o": ["Termina al jubilarse el profesional", "Termina al fallecer el paciente", "Solo afecta al personal sanitario", "Se mantiene aunque haya finalizado la relación con el responsable del tratamiento"],
+      "a": 3,
+      "e": "Afecta a todos los que intervienen en el tratamiento, sanitarios o no, y persiste tras finalizar la relación."
+    },
+    {
+      "q": "La supervisora de una planta quirúrgica gestiona el mapa de camas y los traslados internos con el aplicativo:",
+      "o": ["SELENE", "OMI-AP", "Ágora Plus", "CIAP-2"],
+      "a": 0,
+      "e": "SELENE es el sistema de Atención Especializada; OMI-AP es de Primaria y Ágora Plus es un visor."
+    },
+    {
+      "q": "La herramienta del SMS que permite a una enfermera de Atención Primaria visualizar la analítica realizada a su paciente en el hospital es:",
+      "o": ["SELENE", "OMI-AP", "Ágora Plus", "SIVA-CMBD"],
+      "a": 2,
+      "e": "Ágora Plus es el visor regional que integra informes, analíticas e imágenes de todos los niveles asistenciales."
+    },
+    {
+      "q": "Un paciente comete 9 errores en el cuestionario de Pfeiffer. Esto indica:",
+      "o": ["Función cognitiva normal", "Deterioro cognitivo severo", "Deterioro cognitivo leve", "Deterioro cognitivo moderado"],
+      "a": 1,
+      "e": "Pfeiffer cuenta errores: 0-2 normal; 3-4 leve; 5-7 moderado; 8-10 severo."
+    },
+    {
+      "q": "En la escala de Braden, se considera riesgo alto de úlceras por presión una puntuación:",
+      "o": ["Superior a 18", "Entre 15 y 18", "Entre 13 y 14", "Igual o inferior a 12"],
+      "a": 3,
+      "e": "En Braden (6-23), a menor puntuación mayor riesgo: ≤ 12 alto, 13-14 moderado, 15-18 bajo."
+    },
+    {
+      "q": "Las pérdidas insensibles en 24 horas de un paciente afebril de 70 kg son aproximadamente:",
+      "o": ["840 ml", "1.680 ml", "420 ml", "1.400 ml"],
+      "a": 0,
+      "e": "Peso × horas / 2 = 70 × 24 / 2 = 840 ml (0,5 ml/kg/h). La fiebre y la taquipnea las aumentan."
+    },
+    {
+      "q": "Según el Anexo VII del RD 1093/2010, en el informe de cuidados de enfermería al alta es una variable del conjunto mínimo (obligatoria):",
+      "o": ["Las intervenciones NIC", "Los resultados NOC", "Los diagnósticos de enfermería", "El cuidador principal"],
+      "a": 2,
+      "e": "Los diagnósticos (con texto y código) son CM; las intervenciones NIC, los resultados NOC y el cuidador principal son recomendados."
+    },
+    {
+      "q": "En la CIE-10-ES, los códigos de procedimientos (PCS) tienen:",
+      "o": ["Entre 3 y 7 caracteres con punto decimal", "Siempre 7 caracteres alfanuméricos", "5 caracteres", "4 caracteres numéricos"],
+      "a": 1,
+      "e": "Los diagnósticos tienen de 3 a 7 caracteres con punto; los procedimientos, siempre 7 caracteres sin punto."
+    },
+    {
+      "q": "El número de dominios de NANDA-I, NOC y NIC es, respectivamente:",
+      "o": ["7, 7 y 13", "13, 13 y 7", "11, 7 y 7", "13, 7 y 7"],
+      "a": 3,
+      "e": "Regla 13-7-7. Además, la escala Likert de 1 a 5 es exclusiva de los resultados NOC."
+    }
+  ]
+}

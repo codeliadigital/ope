@@ -1,0 +1,187 @@
+{
+  "tema": 33,
+  "titulo": "Planificación familiar. Métodos anticonceptivos. Embarazos no deseados. Prevención de las enfermedades de transmisión sexual. Intervenciones de enfermería",
+  "programa": "Planificación familiar, PIAM y Ley Orgánica 1/2023. Consejo anticonceptivo: índice de Pearl y criterios de elegibilidad de la OMS. Anticoncepción hormonal combinada y olvidos, solo gestágeno, implante, DIU, barrera, MELA, métodos naturales y esterilización. Anticoncepción de urgencia. Embarazo no deseado e IVE. Infecciones de transmisión sexual, PrEP, PEP, PERSEA y vacuna del VPH. Diagnósticos e intervenciones de enfermería. Programa CERCA.",
+  "preguntas": [
+    {
+      "q": "El índice de Pearl expresa:",
+      "o": ["El número de embarazos por cada 1.000 mujeres durante 5 años de uso", "El número de embarazos por cada 100 mujeres durante 1 año de uso de un método", "El porcentaje de mujeres que abandonan el método en el primer año", "El número de embarazos por cada 100 mujeres a lo largo de su vida fértil"],
+      "a": 1,
+      "e": "El índice de Pearl es el número de embarazos no planificados por cada 100 mujeres durante el primer año de uso de un método. Cuanto menor es, más eficaz es el método."
+    },
+    {
+      "q": "¿En qué métodos anticonceptivos apenas hay diferencia entre la eficacia (uso perfecto) y la efectividad (uso habitual)?",
+      "o": ["La píldora combinada", "El preservativo masculino", "Los métodos naturales", "El DIU y el implante subdérmico"],
+      "a": 3,
+      "e": "Los métodos de larga duración (LARC: DIU e implante) no dependen de una acción diaria de la usuaria, por lo que su efectividad real es casi igual a su eficacia. En la píldora y el preservativo la diferencia es grande por los olvidos y errores."
+    },
+    {
+      "q": "Según los criterios médicos de elegibilidad de la OMS, una mujer de 37 años que fuma 20 cigarrillos al día y desea anticoncepción hormonal combinada se encuentra en la categoría:",
+      "o": ["4: riesgo inaceptable, contraindicación absoluta", "1: sin restricciones", "2: los beneficios superan a los riesgos", "No existe ninguna restricción por el tabaco"],
+      "a": 0,
+      "e": "Tener 35 años o más y fumar 15 o más cigarrillos al día (las dos condiciones a la vez) es categoría 4 para los métodos con estrógenos. Puede usar métodos de solo gestágeno o DIU."
+    },
+    {
+      "q": "Una mujer de 25 años con migraña con aura solicita un anticonceptivo. Respecto a los métodos con estrógenos:",
+      "o": ["Son categoría 2 por su edad", "Son categoría 1 si no fuma", "Son categoría 4: están contraindicados a cualquier edad", "Pueden utilizarse con controles de tensión arterial"],
+      "a": 2,
+      "e": "La migraña con aura es categoría 4 para los estrógenos a cualquier edad por el riesgo de ictus. También lo son los antecedentes de ictus, AIT o trombosis venosa."
+    },
+    {
+      "q": "El mecanismo de acción principal de la anticoncepción hormonal combinada es:",
+      "o": ["La inhibición de la ovulación por supresión del pico de LH", "La acción espermicida directa", "La reacción inflamatoria endometrial", "Únicamente el espesamiento del moco cervical"],
+      "a": 0,
+      "e": "La combinación de estrógeno y gestágeno (píldora, parche o anillo) inhibe el eje hipotálamo-hipófisis-ovario y bloquea el pico de LH, impidiendo la ovulación. Secundariamente espesa el moco y altera el endometrio."
+    },
+    {
+      "q": "Entre los anticonceptivos combinados, el menor riesgo de tromboembolismo venoso se asocia al gestágeno:",
+      "o": ["Drospirenona", "Desogestrel", "Gestodeno", "Levonorgestrel"],
+      "a": 3,
+      "e": "Los preparados con levonorgestrel (2.ª generación) tienen el menor riesgo de trombosis venosa; desogestrel, gestodeno y drospirenona (3.ª y 4.ª generación) tienen un riesgo mayor."
+    },
+    {
+      "q": "Una usuaria de píldora combinada se da cuenta de que olvidó la toma de ayer (retraso menor de 24 horas). Debe:",
+      "o": ["Dejar el envase y esperar a la regla", "Tomar la píldora olvidada en cuanto lo recuerde, aunque coincidan dos el mismo día, sin necesidad de protección adicional", "Tomar la píldora olvidada y usar preservativo 7 días", "Tomar anticoncepción de urgencia siempre"],
+      "a": 1,
+      "e": "Ante el olvido de una sola píldora (retraso < 24 h) se toma en cuanto se recuerde y se sigue con normalidad; no hace falta método de barrera."
+    },
+    {
+      "q": "Si una usuaria olvida dos o más píldoras combinadas en la segunda semana del envase, la actuación correcta es:",
+      "o": ["Tomar todas las píldoras olvidadas a la vez", "No hacer nada y continuar", "Tomar la última píldora olvidada, continuar el envase y usar preservativo durante 7 días", "Suspender la píldora hasta la siguiente regla"],
+      "a": 2,
+      "e": "Con dos o más olvidos (más de 48 h) se toma la última olvidada, se desechan las demás y se usa preservativo 7 días. Si ocurre en la primera semana con coito en los 5 días previos, se valora la anticoncepción de urgencia."
+    },
+    {
+      "q": "Si los olvidos de la píldora combinada ocurren en la tercera semana del envase, se recomienda:",
+      "o": ["Terminar las píldoras activas y empezar el siguiente envase sin hacer la semana de descanso", "Hacer la semana de descanso de forma normal", "Abandonar el método", "Iniciar un envase nuevo tras 7 días de descanso"],
+      "a": 0,
+      "e": "Si los olvidos son en los últimos siete días de píldoras activas, se terminan las activas, se omite el descanso (o las placebo) y se empalma directamente con el envase siguiente."
+    },
+    {
+      "q": "Una usuaria de anillo vaginal se lo retiró en la segunda semana y lo ha tenido fuera 5 horas. Debe:",
+      "o": ["Desecharlo y esperar a la regla", "Reinsertarlo sin más medidas", "Ponerse un parche hasta el siguiente ciclo", "Reinsertarlo de inmediato y usar preservativo durante 7 días"],
+      "a": 3,
+      "e": "El límite de seguridad del anillo es de 3 horas fuera. Si se supera en la 1.ª o 2.ª semana, se reinserta y se usa preservativo 7 días; en la 3.ª semana se coloca un anillo nuevo sin descanso. En el parche el límite es de 48 horas."
+    },
+    {
+      "q": "Una usuaria de parche anticonceptivo detecta que lleva 3 días despegado. La actuación correcta es:",
+      "o": ["Volver a pegar el mismo parche sin más medidas", "Aplicar un parche nuevo, que pasa a ser el nuevo día 1 del ciclo, y usar preservativo 7 días", "Esperar al día de cambio habitual", "No hacer nada, ya que el parche mantiene la protección una semana"],
+      "a": 1,
+      "e": "Si el parche ha estado despegado 48 horas o más (o no se sabe cuánto), se inicia un ciclo nuevo con un parche nuevo (nuevo día 1 y nuevo día de cambio) y se usa preservativo 7 días. Si fue menos de 48 h, basta con volver a pegarlo o poner uno nuevo."
+    },
+    {
+      "q": "La causa más frecuente de retirada precoz del implante subdérmico de etonogestrel es:",
+      "o": ["El aumento de peso", "La cefalea", "Las alteraciones del patrón de sangrado", "El acné"],
+      "a": 2,
+      "e": "El implante (3 años, Pearl ≈ 0,05) provoca un patrón de sangrado impredecible: amenorrea en ≈ 20% y sangrado infrecuente o irregular en ≈ 50%. Informar antes de la inserción mejora la continuidad."
+    },
+    {
+      "q": "Una portadora de DIU es diagnosticada de enfermedad inflamatoria pélvica leve. La actuación recomendada es:",
+      "o": ["Iniciar antibióticos sin retirar el DIU y retirarlo solo si no mejora en 72 horas", "Retirar el DIU de inmediato antes de dar antibióticos", "No tratar y vigilar", "Sustituir el DIU por otro nuevo"],
+      "a": 0,
+      "e": "No es necesario retirar el DIU de entrada: se pauta antibioterapia y se retira si no hay mejoría en 72 horas. El riesgo de EIP es mayor en los primeros 20 días tras la inserción."
+    },
+    {
+      "q": "En la revisión de una portadora de DIU no se visualizan ni se palpan los hilos. La actuación indicada es:",
+      "o": ["Tranquilizarla; es normal y no requiere más", "Insertar otro DIU", "Pautar anticoncepción de urgencia de forma sistemática", "Realizar una ecografía transvaginal para localizar el dispositivo"],
+      "a": 3,
+      "e": "La pérdida de los hilos puede indicar expulsión, desplazamiento o perforación: se comprueba la ubicación con ecografía. La expulsión es más frecuente el primer año de uso."
+    },
+    {
+      "q": "Respecto al preservativo masculino de látex, es correcto:",
+      "o": ["Puede utilizarse con vaselina como lubricante", "Es el único método que ofrece doble protección (embarazo e ITS) y debe usarse con lubricantes acuosos o de silicona", "No protege frente al VIH", "Debe colocarse justo antes de la eyaculación"],
+      "a": 1,
+      "e": "El preservativo es el único método con doble protección. Los lubricantes oleosos (aceites, vaselina, cremas) dañan el látex y aumentan el riesgo de rotura; deben usarse lubricantes acuosos o de silicona."
+    },
+    {
+      "q": "Tras el coito, el diafragma debe permanecer colocado:",
+      "o": ["30 minutos", "1 hora", "Entre 6 y 8 horas, sin superar las 24 horas", "Al menos 48 horas"],
+      "a": 2,
+      "e": "El diafragma se usa siempre con espermicida y se mantiene 6-8 horas después de la última eyaculación para asegurar la muerte de los espermatozoides, pero nunca más de 24 horas por el riesgo de síndrome de shock tóxico."
+    },
+    {
+      "q": "Una madre con lactancia materna exclusiva y amenorrea desea seguir con el método MELA. Su bebé tiene 7 meses. La enfermera le indica que:",
+      "o": ["Puede seguir con el MELA mientras no tenga la regla", "El MELA es eficaz hasta el año si la lactancia es exclusiva", "El MELA solo pierde eficacia si aparece la menstruación", "El MELA ya no es válido porque el bebé tiene más de 6 meses; debe usar otro método compatible con la lactancia"],
+      "a": 3,
+      "e": "El MELA exige los tres criterios a la vez: lactancia exclusiva o casi exclusiva (sin pausas de más de 4 h de día ni 6 h de noche), amenorrea y bebé menor de 6 meses. Si falla uno, hay que pasar a un método compatible (gestágeno, implante o DIU)."
+    },
+    {
+      "q": "En el método de la temperatura basal, la elevación de 0,2-0,5 °C:",
+      "o": ["Se produce después de la ovulación por efecto de la progesterona y permite confirmar que ya ha ocurrido", "Se produce antes de la ovulación y permite predecirla", "Se debe a los estrógenos de la fase folicular", "Indica el inicio de la menstruación"],
+      "a": 0,
+      "e": "La progesterona del cuerpo lúteo tiene efecto termogénico: la temperatura sube tras la ovulación. Sirve para confirmar que ya se ha producido, no para predecirla. En el método Billings, el moco fértil es filante y cristaliza en helecho."
+    },
+    {
+      "q": "A un varón se le ha realizado una vasectomía. Debe informársele de que:",
+      "o": ["Es eficaz desde el mismo día de la intervención", "Debe usar otro método hasta tener un seminograma negativo, habitualmente a los 3 meses o tras unas 20 eyaculaciones", "Es eficaz a partir de la primera semana", "No necesita ningún control posterior"],
+      "a": 1,
+      "e": "Tras la vasectomía quedan espermatozoides en la vía seminal: no es eficaz hasta comprobar un seminograma sin espermatozoides (≈ 3 meses o 20 eyaculaciones). La ligadura de trompas es eficaz desde la intervención."
+    },
+    {
+      "q": "El plazo máximo de uso del levonorgestrel 1,5 mg como anticoncepción de urgencia es de:",
+      "o": ["12 horas", "24 horas", "72 horas", "7 días"],
+      "a": 2,
+      "e": "El levonorgestrel es más eficaz cuanto antes se toma (idealmente en 24 h) y puede usarse hasta 72 horas. El ulipristal y el DIU de cobre pueden usarse hasta 120 horas (5 días)."
+    },
+    {
+      "q": "El método más eficaz de anticoncepción de urgencia, cuya eficacia no se ve afectada por el peso de la mujer, es:",
+      "o": ["El levonorgestrel 1,5 mg", "El ulipristal 30 mg", "Una doble dosis de píldora combinada", "El DIU de cobre insertado en los 5 días siguientes"],
+      "a": 3,
+      "e": "El DIU de cobre insertado en los 5 días posteriores al coito no protegido es el método poscoital más eficaz, no pierde eficacia con el sobrepeso y además queda como anticonceptivo de larga duración."
+    },
+    {
+      "q": "Una mujer ha tomado ulipristal como anticoncepción de urgencia y quiere empezar a tomar la píldora. Debe:",
+      "o": ["Esperar 5 días para iniciar la píldora y usar preservativo mientras tanto", "Empezar la píldora el mismo día", "Esperar a la segunda regla", "No puede usar anticoncepción hormonal en 6 meses"],
+      "a": 0,
+      "e": "El ulipristal es un modulador de los receptores de progesterona: los gestágenos tomados enseguida pueden anular su efecto. Se esperan 5 días para empezar el método hormonal (con preservativo). Tras levonorgestrel, en cambio, se puede empezar en el acto."
+    },
+    {
+      "q": "Respecto al mecanismo de acción de la anticoncepción de urgencia oral, es correcto:",
+      "o": ["Provoca el aborto de un embarazo implantado", "Retrasa o impide la ovulación y no tiene efecto abortivo", "Destruye el óvulo fecundado", "Es teratógena si falla"],
+      "a": 1,
+      "e": "Actúa antes de la fecundación, retrasando o bloqueando el pico de LH y la ovulación. No actúa sobre un embarazo ya implantado ni es teratógena. No debe usarse como método habitual."
+    },
+    {
+      "q": "Según la legislación vigente, la interrupción voluntaria del embarazo a petición de la mujer, sin necesidad de alegar causa, puede realizarse:",
+      "o": ["Hasta la semana 12, tras 3 días de reflexión", "Hasta la semana 22", "Hasta la semana 14, sin periodo obligatorio de reflexión", "En cualquier momento de la gestación"],
+      "a": 2,
+      "e": "A petición de la mujer, hasta la semana 14; la LO 1/2023 suprimió los 3 días de reflexión. Por grave riesgo materno o graves anomalías fetales, hasta la semana 22; más allá, solo por anomalías incompatibles con la vida o enfermedad fetal extremadamente grave e incurable."
+    },
+    {
+      "q": "Según la Ley Orgánica 1/2023, una chica de 16 años que solicita una interrupción voluntaria del embarazo:",
+      "o": ["Puede decidir por sí misma, sin consentimiento de sus representantes legales", "Necesita siempre el consentimiento de ambos progenitores", "Necesita autorización judicial", "Debe esperar a cumplir 18 años"],
+      "a": 0,
+      "e": "La LO 1/2023 reconoce a las mujeres de 16 y 17 años la capacidad de decidir la IVE (y el acceso a la anticoncepción) sin el consentimiento de sus representantes legales."
+    },
+    {
+      "q": "En la interrupción farmacológica del embarazo precoz (hasta la semana 9), la pauta habitual es:",
+      "o": ["Misoprostol y, una semana después, mifepristona", "Solo misoprostol intramuscular", "Oxitocina intravenosa", "Mifepristona 200 mg oral y, a las 24-48 horas, misoprostol 800 mcg"],
+      "a": 3,
+      "e": "La mifepristona (antiprogestágeno) detiene la gestación; el misoprostol (análogo de prostaglandina), a las 24-48 h, provoca las contracciones y la expulsión. El dolor se trata con ibuprofeno y se hace un control a los 15-21 días."
+    },
+    {
+      "q": "Sobre la infección por Chlamydia trachomatis, es correcto:",
+      "o": ["Siempre produce un exudado purulento abundante", "Es la ITS bacteriana más frecuente, a menudo asintomática, y una causa principal de EIP e infertilidad tubárica", "Se manifiesta con un chancro indoloro", "Produce un exantema en palmas y plantas"],
+      "a": 1,
+      "e": "La clamidia es la ITS más prevalente y suele ser asintomática; al no tratarse, asciende y causa EIP, dolor pélvico crónico e infertilidad de origen tubárico. El exudado purulento es típico de la gonorrea y el chancro y el exantema palmoplantar, de la sífilis."
+    },
+    {
+      "q": "La lesión característica de la sífilis primaria es:",
+      "o": ["Un chancro blando y doloroso", "Vesículas agrupadas dolorosas", "Un chancro duro e indoloro", "Verrugas exofíticas"],
+      "a": 2,
+      "e": "La sífilis primaria cursa con un chancro duro e indoloro. El chancro blando y doloroso es el chancroide (Haemophilus ducreyi); las vesículas dolorosas, el herpes; las verrugas, el VPH 6 y 11. La sífilis secundaria produce un exantema en palmas y plantas."
+    },
+    {
+      "q": "Respecto a la profilaxis postexposición (PEP) frente al VIH, es correcto:",
+      "o": ["Se toma de forma continua en personas VIH negativas con alta exposición", "Puede iniciarse en cualquier momento tras la exposición", "Se administra en dosis única", "Debe iniciarse lo antes posible, no más tarde de 72 horas, y mantenerse 28 días"],
+      "a": 3,
+      "e": "La PEP es una urgencia: cuanto antes mejor (idealmente en las primeras horas) y nunca después de 72 horas, con 28 días de antirretrovirales. La toma continua en personas VIH negativas con alta exposición es la PrEP, que requiere controles trimestrales."
+    },
+    {
+      "q": "En el programa CERCA de la Región de Murcia, a una mujer de 40 años le corresponde como cribado de cáncer de cérvix:",
+      "o": ["Test de VPH de alto riesgo cada 5 años", "Citología anual", "Citología cada 3 años", "No le corresponde cribado"],
+      "a": 0,
+      "e": "Entre los 25 y 34 años se hace citología cada 3 años; entre los 35 y 65 años, test de VPH de alto riesgo cada 5 años. Antes de los 35, la infección transitoria por VPH es tan frecuente que el test daría muchos falsos positivos."
+    }
+  ]
+}

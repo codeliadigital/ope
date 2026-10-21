@@ -1,0 +1,187 @@
+{
+  "tema": 42,
+  "titulo": "Cuidados de enfermería a personas con problemas renales. Insuficiencia renal aguda. Otros problemas renales y urológicos. Procedimientos y técnicas. Cateterismo vesical",
+  "programa": "Valoración y cuidados de enfermería a personas con problemas en el sistema renal: insuficiencia renal aguda. Otros problemas renales y urológicos. Procedimientos y técnicas de enfermería. Cateterismo vesical: concepto, indicaciones y contraindicaciones del sondaje vesical.",
+  "preguntas": [
+    {
+      "q": "En una gestante en el segundo trimestre, una creatinina sérica de 0,9 mg/dl debe interpretarse como:",
+      "o": ["Un valor normal para cualquier adulto", "Un posible deterioro del filtrado, ya que en el embarazo la creatinina normal es más baja (0,4-0,6 mg/dl)", "Un valor bajo por hiperfiltración", "Un valor que solo importa en el tercer trimestre"],
+      "a": 1,
+      "e": "En el embarazo el filtrado glomerular aumenta hasta un 50% y la creatinina normal desciende. Un valor considerado normal en la población general puede indicar una lesión renal oculta en la gestante."
+    },
+    {
+      "q": "A la percusión, una vejiga distendida por retención urinaria (globo vesical) produce un sonido:",
+      "o": ["Timpánico", "Hiperresonante", "Metálico", "Mate"],
+      "a": 3,
+      "e": "La vejiga llena de orina es mate; el timpanismo es propio del gas intestinal."
+    },
+    {
+      "q": "En la escala de Godet, un edema con fóvea de unos 4 mm que tarda 10-15 segundos en recuperarse corresponde al grado:",
+      "o": ["2+", "1+", "3+", "4+"],
+      "a": 0,
+      "e": "Regla práctica: grado × 2 = milímetros. 1+ ≈ 2 mm; 2+ ≈ 4 mm (10-15 s); 3+ ≈ 6 mm (hasta 1 min); 4+ ≥ 8 mm (2-5 min)."
+    },
+    {
+      "q": "El parámetro más fiable para valorar la sobrecarga de volumen o la deshidratación en un paciente renal es:",
+      "o": ["La diuresis de un día aislado", "El color de la orina", "El peso diario en ayunas, con la misma báscula y ropa", "La sed referida por el paciente"],
+      "a": 2,
+      "e": "El balance hídrico tiene errores (vómitos no medidos, sudor). El peso diario en las mismas condiciones es el mejor indicador: 1 kg equivale aproximadamente a 1 litro de líquido."
+    },
+    {
+      "q": "Para la recogida de orina de 24 horas, el paciente debe:",
+      "o": ["Desechar la primera micción del primer día y recoger todas las siguientes, incluida la primera del día siguiente", "Recoger solo la primera orina de la mañana", "Recoger la primera micción del primer día y desechar la del día siguiente", "Recoger una muestra cada 6 horas"],
+      "a": 0,
+      "e": "La primera orina del día 1 se desecha y, desde ese momento, se recoge toda la orina durante 24 horas, incluida la primera micción del día 2 a la misma hora. El recipiente se mantiene refrigerado."
+    },
+    {
+      "q": "Tras una biopsia renal percutánea, los cuidados de enfermería incluyen:",
+      "o": ["Deambulación inmediata para prevenir trombosis", "Decúbito prono durante 24 horas", "Alta inmediata si la punción ha sido fácil", "Reposo en decúbito supino durante unas 24 horas, control de constantes y vigilancia de hematuria"],
+      "a": 3,
+      "e": "La punción se hace en decúbito prono, pero el reposo posterior es en decúbito supino para comprimir la zona. La taquicardia o la hipotensión pueden indicar un sangrado retroperitoneal."
+    },
+    {
+      "q": "La causa más frecuente de insuficiencia renal aguda es la:",
+      "o": ["Posrenal por obstrucción", "Prerrenal por hipoperfusión renal", "Necrosis tubular por tóxicos", "Glomerulonefritis aguda"],
+      "a": 1,
+      "e": "La prerrenal (hipovolemia, bajo gasto, sepsis) es la más frecuente; el riñón está sano y produce una orina concentrada y pobre en sodio. Si se corrige a tiempo, se recupera sin secuelas."
+    },
+    {
+      "q": "Según los criterios KDIGO, una lesión renal aguda en estadio 1 se define por:",
+      "o": ["Creatinina tres veces la basal", "Anuria de más de 12 horas", "Aumento de la creatinina de al menos 0,3 mg/dl o diuresis < 0,5 ml/kg/h durante más de 6 horas", "Necesidad de diálisis"],
+      "a": 2,
+      "e": "Estadio 1: +0,3 mg/dl o 1,5-1,9 veces la basal, o diuresis < 0,5 ml/kg/h 6-12 h. Estadio 2: 2-2,9 veces o < 0,5 ml/kg/h ≥ 12 h. Estadio 3: ≥ 3 veces, ≥ 4 mg/dl, diálisis, < 0,3 ml/kg/h ≥ 24 h o anuria ≥ 12 h."
+    },
+    {
+      "q": "En un paciente con insuficiencia renal aguda oligúrica, la restricción de líquidos suele calcularse como:",
+      "o": ["La diuresis del día anterior más las pérdidas insensibles", "3 litros al día en todos los casos", "500 ml al día fijos", "La mitad de la diuresis del día anterior"],
+      "a": 0,
+      "e": "Se repone lo que se pierde: diuresis previa más pérdidas insensibles (≈ 0,5 ml/kg/h, más si hay fiebre o taquipnea), con peso diario y balance estricto."
+    },
+    {
+      "q": "Es una indicación de depuración extrarrenal urgente en la insuficiencia renal aguda:",
+      "o": ["Una creatinina de 1,5 mg/dl", "Una diuresis de 1.000 ml/día", "Una hiperpotasemia de 4,8 mEq/l", "Una hiperpotasemia superior a 6,5 mEq/l con alteraciones en el ECG"],
+      "a": 3,
+      "e": "Regla AEIOU: acidosis grave (pH < 7,2), electrolitos (K > 6,5 con cambios en el ECG), intoxicaciones, sobrecarga de volumen (edema agudo de pulmón refractario) y uremia (encefalopatía, pericarditis)."
+    },
+    {
+      "q": "En un paciente en shock séptico con noradrenalina que necesita depuración renal, la técnica de elección es:",
+      "o": ["La hemodiálisis intermitente convencional", "Una técnica de reemplazo renal continua (hemofiltración o hemodiafiltración venovenosa continua)", "La diálisis peritoneal de urgencia", "El trasplante renal urgente"],
+      "a": 1,
+      "e": "Las técnicas continuas extraen líquidos y solutos lentamente durante 24 h y se toleran mejor en pacientes hemodinámicamente inestables; la hemodiálisis convencional puede empeorar la hipotensión."
+    },
+    {
+      "q": "Para reducir el contenido de potasio de las verduras y patatas en un paciente con enfermedad renal crónica, se recomienda:",
+      "o": ["Freírlas a alta temperatura", "Consumirlas crudas", "Dejarlas en remojo y realizar doble cocción, desechando el agua", "Cocinarlas al vapor sin agua"],
+      "a": 2,
+      "e": "El potasio pasa al agua: el remojo y la doble cocción, tirando el agua, reducen su contenido y el riesgo de hiperpotasemia."
+    },
+    {
+      "q": "Un paciente con enfermedad renal crónica toma un quelante del fósforo (sevelámero). Debe tomarlo:",
+      "o": ["Con las comidas", "En ayunas al levantarse", "Antes de acostarse, lejos de las comidas", "Solo cuando note picor"],
+      "a": 0,
+      "e": "Los quelantes se unen al fósforo de los alimentos en el tubo digestivo: sin comida no actúan. Se toman con las comidas."
+    },
+    {
+      "q": "El criterio analítico indispensable del síndrome nefrótico en el adulto es:",
+      "o": ["Hematuria con cilindros hemáticos", "Creatinina superior a 4 mg/dl", "Glucosuria", "Proteinuria superior a 3,5 g en 24 horas"],
+      "a": 3,
+      "e": "El síndrome nefrótico cursa con proteinuria masiva, hipoalbuminemia, edemas generalizados (anasarca) e hiperlipidemia. La hematuria con cilindros es propia del nefrítico."
+    },
+    {
+      "q": "Un niño presenta tras una faringitis orina oscura con hematuria, hipertensión arterial, oliguria y edema palpebral. Sugiere:",
+      "o": ["Síndrome nefrótico", "Síndrome nefrítico", "Cólico nefrítico", "Infección urinaria baja"],
+      "a": 1,
+      "e": "El síndrome nefrítico es inflamatorio: hematuria con cilindros hemáticos, HTA por expansión de volumen, oliguria e insuficiencia renal aguda, con edema moderado sobre todo periorbitario."
+    },
+    {
+      "q": "En el tratamiento del cólico nefrítico, es una actuación correcta de enfermería:",
+      "o": ["Aplicar frío local en la zona lumbar", "Restringir los líquidos de forma estricta", "Administrar AINE intravenosos según pauta, aplicar calor local y filtrar la orina para recoger el cálculo", "Mantener al paciente inmóvil en posición fetal"],
+      "a": 2,
+      "e": "Los AINE son la primera línea (opioides si no ceden), con antieméticos. El calor local relaja el uréter y se filtra la orina para analizar el cálculo. El paciente con cólico típicamente no encuentra postura."
+    },
+    {
+      "q": "A un paciente con litiasis de ácido úrico se le recomienda limitar:",
+      "o": ["Las proteínas animales ricas en purinas (vísceras, marisco, carnes rojas)", "El agua", "Las frutas y verduras frescas", "Los cereales integrales"],
+      "a": 0,
+      "e": "En la litiasis úrica se limitan las purinas. En la de oxalato cálcico (la más frecuente) se evitan espinacas, remolacha, frutos secos, chocolate o té. En todas, beber para orinar más de 2 litros al día."
+    },
+    {
+      "q": "Un anciano previamente orientado presenta de forma brusca desorientación y agitación. Como primera sospecha, la enfermera debe descartar:",
+      "o": ["Una enfermedad de Alzheimer", "Un ictus en todos los casos", "Un trastorno psicótico primario", "Una infección urinaria"],
+      "a": 3,
+      "e": "En el anciano la infección urinaria puede manifestarse de forma atípica, solo con confusión, agitación, anorexia o deterioro funcional."
+    },
+    {
+      "q": "Según la guía de indicación enfermera de 2024 para la infección urinaria baja no complicada en mujeres adultas, uno de los tratamientos de primera línea es:",
+      "o": ["Ciprofloxacino durante 14 días", "Fosfomicina 3 g en dosis única", "Amoxicilina-clavulánico intravenoso", "Gentamicina intramuscular"],
+      "a": 1,
+      "e": "Se puede indicar fosfomicina 3 g en dosis única (por la noche, en ayunas) o nitrofurantoína 100 mg cada 12 h con comida durante 5-7 días, siempre que no haya fiebre, dolor lumbar ni embarazo."
+    },
+    {
+      "q": "Un paciente operado de RTUP con lavado vesical continuo refiere dolor suprapúbico intenso; hay fugas alrededor de la sonda y no sale líquido a la bolsa. Lo primero es:",
+      "o": ["Administrar un analgésico y reevaluar", "Aumentar el ritmo del lavado", "Detener la entrada de suero y realizar un lavado manual con jeringa para desobstruir el coágulo", "Retirar la sonda"],
+      "a": 2,
+      "e": "Son signos de obstrucción por coágulos: hay que parar la irrigación y desobstruir con lavado manual. Si el lavado fluye y hay dolor, se trata de espasmos vesicales y se administra un antiespasmódico."
+    },
+    {
+      "q": "Un adolescente presenta dolor testicular súbito e intenso de madrugada, con el testículo ascendido y ausencia de reflejo cremastérico. La actuación correcta es:",
+      "o": ["Considerarlo una urgencia quirúrgica: la destorsión debe hacerse en menos de 6 horas", "Pautar antibiótico por epididimitis", "Citarlo en consulta de urología en una semana", "Aplicar calor y observar"],
+      "a": 0,
+      "e": "Es la sospecha de torsión testicular: el retraso más allá de 6 horas compromete la viabilidad del testículo. El signo de Prehn es negativo (el dolor no alivia al elevarlo), a diferencia de la epididimitis."
+    },
+    {
+      "q": "Un politraumatizado con fractura de pelvis presenta sangre en el meato urinario. Respecto al sondaje vesical:",
+      "o": ["Se debe sondar con una sonda de menor calibre", "Se debe sondar con más lubricante", "Se debe usar una sonda de Tiemann", "No se debe sondar: hay que avisar al médico por sospecha de rotura uretral"],
+      "a": 3,
+      "e": "La uretrorragia tras un traumatismo pélvico sugiere rotura de uretra y contraindica el sondaje uretral; puede necesitarse una talla suprapúbica. También se evita sondar en prostatitis aguda o uretritis purulenta."
+    },
+    {
+      "q": "El balón de una sonda Foley debe inflarse con:",
+      "o": ["Suero fisiológico", "Agua destilada estéril", "Aire", "Solución glucosada"],
+      "a": 1,
+      "e": "Se usa agua destilada (10-20 ml según el fabricante). El suero fisiológico puede cristalizar y bloquear la válvula, impidiendo desinflar el balón. Antes de inflar se avanzan 2-3 cm tras ver salir orina."
+    },
+    {
+      "q": "En un varón con hiperplasia prostática importante en el que no progresa una sonda Foley convencional, la sonda indicada es la:",
+      "o": ["Nélaton", "Couvelaire", "Tiemann, de punta curva y olivada", "Malecot"],
+      "a": 2,
+      "e": "La Tiemann (o la Mercier) tiene la punta curva para franquear la uretra prostática. La Nélaton es para sondaje intermitente, la Couvelaire para hematuria con coágulos y la Malecot es quirúrgica."
+    },
+    {
+      "q": "Al sondar a un paciente con un globo vesical de unos 1.500 ml, la enfermera debe:",
+      "o": ["Vaciar la vejiga de una vez lo más rápido posible", "No vaciarla hasta que lo indique el urólogo", "Vaciar solo 100 ml y retirar la sonda", "Vaciar de forma fraccionada, pinzando la sonda tras cada 250-500 ml"],
+      "a": 3,
+      "e": "La descompresión brusca puede provocar hematuria ex vacuo e hipotensión. Se vacía por fases, pinzando y esperando unos minutos entre ellas."
+    },
+    {
+      "q": "Una puérpera a las 4 horas del parto sangra abundantemente; el útero está alto, blando y desviado a la derecha, y no ha orinado desde el parto. La primera actuación es:",
+      "o": ["Realizar un sondaje vesical evacuador", "Administrar un antitérmico", "Colocarla en Trendelenburg sin más", "Esperar a que orine espontáneamente a las 12 horas"],
+      "a": 0,
+      "e": "La vejiga llena desplaza el útero e impide su contracción, causando atonía y hemorragia. Se vacía con sondaje intermitente (Nélaton). Si no hay micción espontánea a las 6 horas, hay que actuar."
+    },
+    {
+      "q": "Durante un lavado vesical continuo, si el líquido de drenaje sale rojo intenso con coágulos, la enfermera debe:",
+      "o": ["Cerrar el lavado", "Aumentar el ritmo de infusión del suero", "Disminuir el ritmo de infusión", "Retirar la sonda de tres vías"],
+      "a": 1,
+      "e": "A más sangre, más velocidad de lavado para que no se formen coágulos; si el líquido sale rosado claro, se ralentiza el goteo."
+    },
+    {
+      "q": "Un paciente con urostomía tipo Bricker presenta abundante moco en la bolsa de orina. Esto se debe a:",
+      "o": ["Una infección urinaria grave", "Una obstrucción del estoma", "Que el conducto está formado por íleon, que produce moco de forma normal", "Un rechazo del estoma"],
+      "a": 2,
+      "e": "En la técnica de Bricker la orina sale a través de un segmento de íleon: el moco es un hallazgo normal. La placa se recorta ajustada a la mucosa para proteger la piel."
+    },
+    {
+      "q": "En el brazo portador de una fístula arteriovenosa para hemodiálisis, es correcto:",
+      "o": ["Tomar la tensión arterial en él para controlar la fístula", "Extraer las analíticas de esa vena porque está más dilatada", "Canalizar vías periféricas si la urgencia lo requiere", "Comprobar el frémito (palpación) y el soplo (auscultación) y no tomar la tensión, extraer sangre ni canalizar vías en él"],
+      "a": 3,
+      "e": "La fístula se protege: no tomar TA, no extraer sangre, no canalizar vías ni llevar relojes o pesos. La desaparición súbita del thrill y del soplo indica trombosis."
+    },
+    {
+      "q": "En un paciente en diálisis peritoneal, la aparición de un líquido de drenaje turbio sugiere:",
+      "o": ["Peritonitis: se guarda la bolsa para cultivo y se avisa", "Un hallazgo normal tras las comidas", "Exceso de calentamiento del líquido", "Deshidratación"],
+      "a": 0,
+      "e": "El efluente turbio es el signo de alarma de peritonitis. El líquido de diálisis se calienta a 37 °C con calor seco, nunca en microondas ni al baño maría."
+    }
+  ]
+}

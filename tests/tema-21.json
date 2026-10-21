@@ -1,0 +1,187 @@
+{
+  "tema": 21,
+  "titulo": "Clasificación de medicamentos, farmacocinética y farmacovigilancia. Uso racional y prescripción enfermera",
+  "programa": "Clasificación general de medicamentos (sistema ATC). Absorción, distribución, metabolismo y eliminación. Efectos colaterales y reacciones adversas. Farmacovigilancia: reacciones adversas y su notificación (Tarjeta Amarilla). Uso racional del medicamento y adherencia. Indicación, uso y autorización de dispensación por enfermeras y protocolos del SMS.",
+  "preguntas": [
+    {
+      "q": "La clasificación ATC (Anatómica, Terapéutica, Química) de los medicamentos es responsabilidad de:",
+      "o": ["La Agencia Europea del Medicamento (EMA)", "La AEMPS", "La Organización Mundial de la Salud (OMS)", "El Ministerio de Sanidad"],
+      "a": 2,
+      "e": "La OMS gestiona y actualiza el código ATC a nivel internacional."
+    },
+    {
+      "q": "El código ATC de un principio activo consta de:",
+      "o": ["7 niveles y 5 caracteres", "5 niveles y 7 caracteres", "3 niveles y 10 caracteres", "14 niveles y 14 caracteres"],
+      "a": 1,
+      "e": "Por ejemplo, A02BC01 (omeprazol): grupo anatómico (A), terapéutico (02), farmacológico (B), químico (C) y principio activo (01)."
+    },
+    {
+      "q": "En la clasificación ATC, las vacunas pertenecen al grupo:",
+      "o": ["J (antiinfecciosos para uso sistémico)", "V (varios)", "L (antineoplásicos e inmunomoduladores)", "H (preparados hormonales sistémicos)"],
+      "a": 0,
+      "e": "El grupo J incluye antibacterianos, antivirales, inmunoglobulinas y vacunas."
+    },
+    {
+      "q": "En la clasificación ATC, el acenocumarol pertenece al grupo:",
+      "o": ["C (sistema cardiovascular)", "N (sistema nervioso)", "M (sistema musculoesquelético)", "B (sangre y órganos hematopoyéticos)"],
+      "a": 3,
+      "e": "Actúa sobre la coagulación, por lo que se clasifica en el grupo B, como antitrombótico (B01AA07)."
+    },
+    {
+      "q": "La farmacocinética estudia:",
+      "o": ["Lo que el organismo le hace al fármaco (absorción, distribución, metabolismo y eliminación)", "Lo que el fármaco le hace al organismo", "Solo el mecanismo de acción en los receptores", "La fabricación de los medicamentos"],
+      "a": 0,
+      "e": "La farmacodinamia, en cambio, estudia los efectos del fármaco sobre el organismo."
+    },
+    {
+      "q": "La fracción farmacológicamente activa de un fármaco en el plasma es:",
+      "o": ["La unida a la albúmina", "La unida a la alfa-1-glucoproteína ácida", "La fracción libre", "La fracción conjugada en el hígado"],
+      "a": 2,
+      "e": "Solo la fracción libre atraviesa membranas, actúa sobre los receptores y se metaboliza o filtra; la unida a proteínas es un reservorio."
+    },
+    {
+      "q": "En un paciente con hipoalbuminemia grave que recibe fenitoína a dosis habituales:",
+      "o": ["Hay que doblar la dosis porque faltan proteínas transportadoras", "El fármaco no tendrá efecto", "No cambia nada", "Aumenta la fracción libre del fármaco y el riesgo de toxicidad"],
+      "a": 3,
+      "e": "Con menos albúmina, más moléculas quedan libres y activas; puede ser necesario reducir la dosis."
+    },
+    {
+      "q": "Las reacciones de fase II del metabolismo hepático consisten en:",
+      "o": ["Oxidación, reducción e hidrólisis mediante el citocromo P450", "La conjugación con sustancias endógenas como el ácido glucurónico", "La filtración glomerular", "La unión a proteínas plasmáticas"],
+      "a": 1,
+      "e": "La fase I modifica grupos funcionales (citocromo P450); la fase II conjuga y genera metabolitos polares, casi siempre inactivos."
+    },
+    {
+      "q": "La administración conjunta de un fármaco inhibidor enzimático del citocromo P450 con otro que se metaboliza por esa vía puede producir:",
+      "o": ["Un fracaso terapéutico por destrucción acelerada del segundo fármaco", "La acumulación del segundo fármaco y riesgo de toxicidad", "Ningún efecto", "Un aumento de la excreción renal"],
+      "a": 1,
+      "e": "El inhibidor bloquea la enzima y el otro fármaco se acumula. El inductor, en cambio, acelera su metabolismo y causa fracaso terapéutico."
+    },
+    {
+      "q": "Ante una intoxicación grave por ácido acetilsalicílico, para favorecer su eliminación renal se debe:",
+      "o": ["Acidificar la orina", "Restringir los líquidos", "Administrar diuréticos de asa sin más", "Alcalinizar la orina con bicarbonato sódico"],
+      "a": 3,
+      "e": "Al subir el pH urinario, el fármaco ácido se ioniza en el túbulo, no puede reabsorberse y se elimina por la orina (atrapamiento iónico)."
+    },
+    {
+      "q": "En la cinética de eliminación de orden cero:",
+      "o": ["Las enzimas están saturadas y se elimina una cantidad constante por unidad de tiempo, como ocurre con el alcohol", "Se elimina un porcentaje constante por unidad de tiempo", "Es la cinética de la mayoría de los fármacos a dosis terapéuticas", "La velocidad de eliminación aumenta con la concentración"],
+      "a": 0,
+      "e": "En orden cero, aumentar la dosis produce acumulación (alcohol, fenitoína). En primer orden se elimina una fracción constante."
+    },
+    {
+      "q": "Tras iniciar un tratamiento con dosis repetidas, el estado de equilibrio estacionario se alcanza aproximadamente en:",
+      "o": ["1 semivida", "2 semividas", "5 semividas", "10 semividas"],
+      "a": 2,
+      "e": "También se considera que un fármaco se ha eliminado casi por completo tras unas 5 semividas."
+    },
+    {
+      "q": "La diarrea por alteración de la flora intestinal tras tomar amoxicilina-clavulánico es un ejemplo de:",
+      "o": ["Efecto colateral", "Efecto tóxico", "Efecto secundario", "Reacción de tipo B"],
+      "a": 2,
+      "e": "El efecto secundario es una consecuencia indirecta de la acción principal del fármaco."
+    },
+    {
+      "q": "La sequedad de boca y la retención urinaria producidas por un antihistamínico de primera generación son un ejemplo de:",
+      "o": ["Efecto secundario", "Efecto tóxico", "Reacción de tipo F", "Efecto colateral"],
+      "a": 3,
+      "e": "El efecto colateral forma parte del propio mecanismo del fármaco (bloqueo muscarínico), pero en órganos distintos del objetivo."
+    },
+    {
+      "q": "Según la OMS, una reacción adversa a medicamentos es:",
+      "o": ["Una respuesta nociva y no intencionada que aparece a las dosis utilizadas habitualmente", "Cualquier efecto producido por una sobredosis intencionada", "Un error de administración", "Cualquier efecto terapéutico del fármaco"],
+      "a": 0,
+      "e": "La definición excluye los errores de medicación y las sobredosis."
+    },
+    {
+      "q": "Un shock anafiláctico tras la administración de penicilina es una reacción adversa de tipo:",
+      "o": ["A", "B", "C", "E"],
+      "a": 1,
+      "e": "Las de tipo B son impredecibles, no dependen de la dosis (inmunológicas o idiosincrásicas) y obligan a retirar el fármaco."
+    },
+    {
+      "q": "Las malformaciones congénitas causadas por la talidomida son una reacción adversa de tipo:",
+      "o": ["A", "B", "C", "D"],
+      "a": 3,
+      "e": "Tipo D (delayed): aparecen tiempo después del tratamiento, como la teratogénesis y la carcinogénesis."
+    },
+    {
+      "q": "Una mujer que toma anticonceptivos orales queda embarazada tras recibir rifampicina. Se trata de una reacción adversa de tipo:",
+      "o": ["A", "E", "F", "C"],
+      "a": 2,
+      "e": "Tipo F (failure): fallo terapéutico inesperado, en este caso por inducción enzimática."
+    },
+    {
+      "q": "La fase I de un ensayo clínico se caracteriza por:",
+      "o": ["Realizarse en un pequeño grupo de voluntarios sanos para evaluar la seguridad y la dosis tolerada", "Realizarse en miles de pacientes para la autorización", "Ser el seguimiento tras la comercialización", "Evaluar la eficacia frente a placebo en enfermos"],
+      "a": 0,
+      "e": "La fase II evalúa la eficacia inicial en enfermos, la III confirma en miles de pacientes y la IV es la farmacovigilancia poscomercialización."
+    },
+    {
+      "q": "La farmacovigilancia poscomercialización, en la que participa la enfermería mediante la Tarjeta Amarilla, corresponde a la fase:",
+      "o": ["I", "IV", "II", "III"],
+      "a": 1,
+      "e": "La fase IV detecta reacciones adversas raras o tardías en la población real."
+    },
+    {
+      "q": "El triángulo negro invertido (▼) en el prospecto de un medicamento significa que:",
+      "o": ["Está sujeto a seguimiento adicional por las autoridades sanitarias", "Es un medicamento peligroso o inseguro", "Está en proceso de retirada", "Es un medicamento sin receta"],
+      "a": 0,
+      "e": "Se aplica a medicamentos de los que se necesita recoger más información de seguridad; no indica que sean más peligrosos."
+    },
+    {
+      "q": "Llevan obligatoriamente el triángulo negro invertido:",
+      "o": ["Todos los genéricos", "Los medicamentos de uso hospitalario", "Los nuevos principios activos y los medicamentos biológicos autorizados desde el 1 de enero de 2011", "Los medicamentos con más de 5 años en el mercado"],
+      "a": 2,
+      "e": "También los autorizados de forma condicional o excepcional y aquellos a los que se exigen estudios posautorización."
+    },
+    {
+      "q": "La norma que regula actualmente la farmacovigilancia de medicamentos de uso humano en España es:",
+      "o": ["La Ley 41/2002", "El RD 954/2015", "El RD 1093/2010", "El RD 577/2013"],
+      "a": 3,
+      "e": "El RD 577/2013 transpone la normativa europea y permite también que los ciudadanos notifiquen sospechas de RAM."
+    },
+    {
+      "q": "Al cumplimentar una Tarjeta Amarilla, el paciente se identifica mediante:",
+      "o": ["Nombre, apellidos y DNI", "Sus iniciales, edad, sexo y peso", "Solo el número de historia clínica", "El nombre completo y la dirección"],
+      "a": 1,
+      "e": "Por protección de datos no se incluye la identidad completa. El peso ayuda a valorar posibles sobredosificaciones."
+    },
+    {
+      "q": "Es especialmente prioritario notificar mediante la Tarjeta Amarilla:",
+      "o": ["Solo las reacciones descritas en la ficha técnica", "Únicamente las reacciones leves conocidas", "Las reacciones graves, las no descritas y las de medicamentos de reciente comercialización", "Solo las reacciones en adultos sanos"],
+      "a": 2,
+      "e": "También las que se presentan en niños, ancianos y embarazadas. Aunque falten datos, la notificación debe enviarse."
+    },
+    {
+      "q": "Según la OMS, el uso racional del medicamento implica que el paciente reciba:",
+      "o": ["La medicación adecuada a sus necesidades, a la dosis y durante el tiempo adecuados, al menor coste posible", "Siempre el fármaco más nuevo", "La mayor cantidad posible de fármacos preventivos", "Solo fármacos sin receta"],
+      "a": 0,
+      "e": "Su incumplimiento favorece la polifarmacia irracional, la iatrogenia y las resistencias antimicrobianas."
+    },
+    {
+      "q": "La conciliación de la medicación debe realizarse:",
+      "o": ["Solo una vez al año en Atención Primaria", "Únicamente al alta", "Solo si el paciente lo solicita", "Al ingreso, en los traslados entre unidades y al alta"],
+      "a": 3,
+      "e": "Al ingreso, preferentemente en las primeras 24 horas; en traslados, como el paso de UCI a planta, y al alta al domicilio."
+    },
+    {
+      "q": "El documento con el que una enfermera acreditada autoriza la dispensación de un medicamento o producto sanitario se denomina:",
+      "o": ["Receta médica enfermera", "Orden de dispensación", "Informe de continuidad de cuidados", "Vale de farmacia"],
+      "a": 1,
+      "e": "Según el RD 954/2015, la receta médica es exclusiva de médicos, odontólogos y podólogos."
+    },
+    {
+      "q": "Para obtener la acreditación para la indicación de medicamentos en cuidados generales, la enfermera necesita:",
+      "o": ["Un año de experiencia profesional o superar un curso de adaptación específico", "Diez años de experiencia", "Ser especialista en Enfermería Familiar y Comunitaria", "Una autorización del médico del centro"],
+      "a": 0,
+      "e": "Es el requisito previo establecido por el RD 954/2015, modificado por el RD 1302/2018."
+    },
+    {
+      "q": "En la consulta de estomaterapia se observa un estoma de color violáceo oscuro, casi negro. Según el protocolo del SMS, la actuación correcta es:",
+      "o": ["Aplicar un apósito de plata", "Pautar una pomada barrera y revisar en una semana", "Cambiar el dispositivo por uno de dos piezas", "Derivar de forma urgente al cirujano, porque sugiere isquemia o necrosis"],
+      "a": 3,
+      "e": "Un estoma sano es rojo y húmedo. La coloración violácea o negra es una urgencia quirúrgica; también se derivan hernias, prolapsos, retracciones y estenosis."
+    }
+  ]
+}

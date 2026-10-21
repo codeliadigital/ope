@@ -1,0 +1,187 @@
+{
+  "tema": 34,
+  "titulo": "Perspectiva de género en el proceso de salud/enfermedad. Morbilidad diferencial. Protocolo sanitario ante la violencia de género. Plan de Acción Regional. Malos tratos en el niño, la mujer y el anciano",
+  "programa": "Perspectiva de género en el proceso salud/enfermedad. Morbilidad diferencial: biología, medio ambiente, pobreza, violencia, condiciones de trabajo y salud ocupacional. Protocolo para la actuación sanitaria ante la violencia de género. Plan de Acción Regional contra la violencia de género. Detección y prevención de malos tratos en el niño, la mujer y el anciano.",
+  "preguntas": [
+    {
+      "q": "En el análisis de la salud con perspectiva de género, el término «género» se refiere a:",
+      "o": ["Las características cromosómicas y hormonales de cada persona", "Las construcciones sociales, roles y expectativas que cada cultura asigna a hombres y mujeres", "Las diferencias anatómicas de los órganos reproductores", "La orientación sexual de la persona"],
+      "a": 1,
+      "e": "El sexo remite a las características biológicas (genéticas, hormonales, anatómicas); el género, a las construcciones sociales, roles, tareas y expectativas asignadas de forma desigual a hombres y mujeres."
+    },
+    {
+      "q": "La paradoja de la morbilidad diferencial entre sexos se resume en que las mujeres:",
+      "o": ["Viven menos años y con peor salud", "Tienen la misma esperanza de vida y la misma morbilidad que los hombres", "Viven menos años pero con mejor calidad de vida", "Viven más años, pero con mayor carga de enfermedad crónica, dolor, discapacidad y trastornos mentales"],
+      "a": 3,
+      "e": "«Las mujeres viven más, pero viven peor»: tienen mayor esperanza de vida, pero soportan más enfermedad crónica, dolor, discapacidad y problemas de salud mental a lo largo de la vida."
+    },
+    {
+      "q": "La mayor reactividad inmunitaria de las mujeres explica su mayor prevalencia de:",
+      "o": ["Enfermedades autoinmunes como el lupus o la artritis reumatoide", "Sepsis graves", "Infecciones agudas", "Cardiopatía isquémica precoz"],
+      "a": 0,
+      "e": "La respuesta inmunitaria más intensa confiere a las mujeres más resistencia frente a infecciones, pero explica la mayor prevalencia de enfermedades autoinmunes (lupus, artritis reumatoide, esclerosis múltiple, tiroiditis de Hashimoto)."
+    },
+    {
+      "q": "Respecto al infarto agudo de miocardio en la mujer, es correcto:",
+      "o": ["Siempre se presenta con dolor opresivo irradiado al brazo izquierdo", "Su diagnóstico es más precoz que en el varón", "Con frecuencia se presenta de forma atípica (disnea, fatiga, dolor epigástrico o interescapular), lo que retrasa el diagnóstico", "Es excepcional antes de los 80 años"],
+      "a": 2,
+      "e": "En la mujer el infarto se presenta a menudo de forma atípica, sin el dolor opresivo clásico, con disnea, fatiga o dolor epigástrico o interescapular confundido con dispepsia o ansiedad. Esto retrasa el diagnóstico y la reperfusión."
+    },
+    {
+      "q": "La tasa AROPE es un indicador que mide:",
+      "o": ["El riesgo de pobreza o exclusión social", "La carga física de la movilización de pacientes", "El riesgo psicosocial de la doble presencia", "La sobrecarga del cuidador"],
+      "a": 0,
+      "e": "La tasa AROPE (At Risk Of Poverty or social Exclusion) mide el riesgo de pobreza o exclusión. Los hogares monomarentales con menores a cargo encabezan este indicador, reflejo de la feminización de la pobreza."
+    },
+    {
+      "q": "Para evaluar el riesgo por movilización manual de pacientes en las unidades hospitalarias se utiliza:",
+      "o": ["El cuestionario CoPsoQ-istas21", "La escala de Zarit", "El índice EASI", "El índice MAPO"],
+      "a": 3,
+      "e": "El índice MAPO (Movimentazione e Assistenza Pazienti Ospedalieri) evalúa el riesgo por movilización de pacientes, un riesgo ergonómico frecuente en sectores feminizados como la enfermería."
+    },
+    {
+      "q": "La «doble presencia» como riesgo psicosocial laboral se refiere a:",
+      "o": ["Trabajar en dos centros sanitarios a la vez", "Asumir a la vez las exigencias del trabajo remunerado y del trabajo doméstico y de cuidados", "Tener dos turnos consecutivos de trabajo", "Compartir la consulta con otro profesional"],
+      "a": 1,
+      "e": "La doble presencia es la necesidad de responder a la vez a las exigencias del empleo y del trabajo doméstico y de cuidados. Se evalúa con el CoPsoQ-istas21 y genera una sobrecarga alostática (fatiga crónica, fibromialgia, insomnio, consumo de ansiolíticos)."
+    },
+    {
+      "q": "Las barreras invisibles que dificultan el acceso de las mujeres a los puestos directivos se denominan:",
+      "o": ["Segregación horizontal", "Doble presencia", "Segregación vertical o «techo de cristal»", "Feminización de la pobreza"],
+      "a": 2,
+      "e": "La segregación vertical (techo de cristal) limita el acceso de las mujeres a la alta dirección aunque el sector sanitario esté muy feminizado. La segregación horizontal concentra a las mujeres en determinados sectores (sanidad, educación, cuidados)."
+    },
+    {
+      "q": "El ciclo de la violencia descrito por Leonore Walker consta de:",
+      "o": ["Tres fases: acumulación de tensión, explosión violenta y luna de miel o reconciliación", "Cuatro fases, la última de calma independiente", "Dos fases: agresión y perdón", "Cinco fases que terminan en la separación"],
+      "a": 0,
+      "e": "El ciclo original de Walker (1979) tiene solo tres fases: acumulación de tensión, explosión (agresión) y luna de miel (arrepentimiento). La aparente calma forma parte de la fase de reconciliación, no de una cuarta fase."
+    },
+    {
+      "q": "En el ciclo de Walker, la fase en la que el agresor se arrepiente y promete cambiar, y en la que la víctima suele retirar denuncias, es la:",
+      "o": ["Acumulación de tensión", "Explosión violenta", "Fase de separación", "Luna de miel o reconciliación"],
+      "a": 3,
+      "e": "En la luna de miel el agresor muestra arrepentimiento y afecto, lo que refuerza el vínculo traumático y favorece que la víctima retire denuncias o abandone tratamientos; después el ciclo vuelve a empezar."
+    },
+    {
+      "q": "Según la Ley Orgánica 1/2004, se considera violencia de género la ejercida sobre la mujer por:",
+      "o": ["Cualquier familiar con el que conviva", "Solo su marido, si conviven en el mismo domicilio", "Quien sea o haya sido su cónyuge o pareja, aunque no hayan convivido", "Cualquier persona desconocida en la vía pública"],
+      "a": 2,
+      "e": "La LO 1/2004 protege frente a la violencia ejercida por quien sea o haya sido cónyuge o pareja sentimental, con independencia de que haya existido convivencia (incluye novios y exparejas)."
+    },
+    {
+      "q": "La violencia vicaria se define como:",
+      "o": ["La violencia ejercida sobre los hijos menores para causar daño y sufrimiento a la madre", "La violencia entre compañeros de trabajo", "La agresión a vecinos de la víctima", "La violencia de los hijos hacia sus padres"],
+      "a": 0,
+      "e": "En la violencia vicaria el agresor daña a los hijos (u otros allegados menores) como instrumento para causar un dolor irreparable a la mujer."
+    },
+    {
+      "q": "Respecto a los derechos de las víctimas de violencia de género, el acceso a la asistencia social integral (atención psicológica, acogida):",
+      "o": ["Requiere sentencia judicial firme", "Requiere haber presentado una denuncia", "Solo se concede a mujeres sin ingresos", "No exige la presentación de denuncia"],
+      "a": 3,
+      "e": "La asistencia social integral es un derecho independiente de la denuncia penal. La ayuda económica de pago único sí está condicionada a tener rentas bajas y especiales dificultades para encontrar empleo."
+    },
+    {
+      "q": "Una enfermera del SMS víctima de violencia de género falta a un turno por una crisis derivada del maltrato. Según la LO 1/2004:",
+      "o": ["Se le abrirá expediente hasta que haya sentencia", "La falta se justifica con el informe de los servicios sociales o de los servicios de salud", "Debe recuperar el turno obligatoriamente", "Solo se justifica si presenta una orden de alejamiento"],
+      "a": 1,
+      "e": "Las faltas de asistencia o de puntualidad motivadas por la situación de violencia se consideran justificadas cuando así lo determinen los servicios sociales o los servicios de salud, sin esperar a una resolución judicial."
+    },
+    {
+      "q": "Una mujer atendida en urgencias por lesiones causadas por su pareja no quiere denunciar. Respecto al parte de lesiones:",
+      "o": ["No debe emitirse sin el consentimiento de la paciente", "Solo se emite si las lesiones son graves", "Es obligatorio emitirlo y remitirlo al juzgado, aunque la mujer no quiera denunciar", "Lo emite únicamente la policía"],
+      "a": 2,
+      "e": "El profesional sanitario que atiende lesiones que pueden constituir delito tiene la obligación legal de emitir el parte de lesiones y remitirlo al juzgado de guardia; no depende de la voluntad de la paciente. Debe informarla de ello."
+    },
+    {
+      "q": "Tras valorar a una mujer víctima de violencia, la enfermera aprecia un riesgo vital inminente (el agresor tiene armas y la ha amenazado de muerte). La actuación correcta es:",
+      "o": ["No dejarla salir del centro, protegerla en una zona segura y avisar de inmediato al 112", "Darle el alta con folletos informativos y aconsejarle que llame al 112 desde casa", "Citarla en trabajo social la semana siguiente", "Llamar a su pareja para mediar"],
+      "a": 0,
+      "e": "Ante riesgo vital inminente, la mujer (y sus hijos) no debe salir del centro: se la protege en un área segura y el propio personal avisa a las Fuerzas y Cuerpos de Seguridad (112), además de emitir el parte de lesiones."
+    },
+    {
+      "q": "En urgencias, el acompañante de una paciente responde por ella de forma hostil e impide que hable. Según el protocolo, la enfermera debe:",
+      "o": ["Enfrentarse a él y exigirle que salga del box", "Llamar a seguridad para expulsarlo inmediatamente", "Atenderla con él presente para no generar conflicto", "Usar un pretexto técnico (por ejemplo, un ECG o el triaje) para atender a la mujer a solas"],
+      "a": 3,
+      "e": "No se debe confrontar directamente a un posible maltratador, porque aumenta el riesgo para la mujer y el personal. Se usa un pretexto técnico neutro para quedarse a solas con ella y poder explorar la situación."
+    },
+    {
+      "q": "¿Cuál de los siguientes es un indicador de sospecha de violencia de género en la consulta?",
+      "o": ["Acudir puntualmente a todas las revisiones", "Hiperfrecuentación por síntomas inespecíficos o inicio tardío del control del embarazo", "Una analítica normal", "Acudir siempre sola a la consulta"],
+      "a": 1,
+      "e": "Son indicadores la hiperfrecuentación (o el abandono de tratamientos y citas), el dolor crónico inespecífico, las ITS de repetición, el control prenatal tardío, los síntomas depresivos o ansiosos y la presencia de una pareja controladora."
+    },
+    {
+      "q": "La aplicación sistemática del WAST-corto en consulta para detectar casos de violencia corresponde al nivel de prevención:",
+      "o": ["Primaria", "Primordial", "Secundaria", "Terciaria"],
+      "a": 2,
+      "e": "La prevención secundaria busca la detección precoz (cribados como WAST-corto o EASI). La primaria evita que la violencia ocurra (educación en igualdad) y la terciaria trata las secuelas y evita la revictimización."
+    },
+    {
+      "q": "Las dos preguntas del WAST-corto exploran:",
+      "o": ["Si ha recibido golpes o agresiones sexuales en el último año", "El consumo de alcohol de la pareja y la existencia de armas", "La presencia de hijos y la situación económica", "La tensión en la relación de pareja y la dificultad para resolver las discusiones"],
+      "a": 3,
+      "e": "El WAST-corto no pregunta directamente por agresiones: explora la cantidad de tensión en la relación y la dificultad para resolver las discusiones (mucha, alguna, ninguna). Es una aproximación sutil."
+    },
+    {
+      "q": "En la validación española del WAST-corto se obtuvo un valor predictivo negativo del 98,1% y un valor predictivo positivo del 40,2%. Esto significa que:",
+      "o": ["Un resultado positivo confirma el diagnóstico de violencia de género", "Un resultado negativo permite descartar la violencia con alta probabilidad, pero un positivo debe confirmarse con una entrevista", "La prueba no sirve para el cribado", "Tiene muchos falsos negativos"],
+      "a": 1,
+      "e": "Con una sensibilidad del 91,4% y un VPN del 98,1%, un resultado negativo descarta casi con seguridad. Por su VPP moderado (40,2%), un positivo no es un diagnóstico y obliga a confirmar en la fase de identificación. El patrón de referencia fue el Index of Spouse Abuse (ISA)."
+    },
+    {
+      "q": "La escala HITS de cribado de violencia en la pareja evalúa:",
+      "o": ["Únicamente la violencia sexual", "La sobrecarga del cuidador", "El daño físico, los insultos, las amenazas y los gritos", "El maltrato a personas mayores"],
+      "a": 2,
+      "e": "HITS es el acrónimo de Hurt (daño físico), Insult (insultos), Threaten (amenazas) y Scream (gritos), en los últimos 12 meses. La versión E-HITS añade una pregunta sobre violencia sexual."
+    },
+    {
+      "q": "La escala de cribado de violencia clásicamente utilizada en el embarazo y las consultas obstétricas es:",
+      "o": ["La AAS (Abuse Assessment Screen)", "La escala de Zarit", "El índice EASI", "El test de Barthel"],
+      "a": 0,
+      "e": "El AAS se usa en ginecología, obstetricia y maternidad y presta especial atención a la aparición o agravamiento de la violencia durante la gestación, un periodo de gran vulnerabilidad."
+    },
+    {
+      "q": "La norma autonómica de la Región de Murcia en materia de igualdad y violencia de género es la:",
+      "o": ["Ley 3/2021 de Salud de la Región de Murcia", "Ley Orgánica 3/2007 de igualdad efectiva", "Ley 41/2002 de autonomía del paciente", "Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protección contra la Violencia de Género"],
+      "a": 3,
+      "e": "En Murcia rige la Ley 7/2007, de 4 de abril, que impone el principio de transversalidad de la perspectiva de género en las políticas públicas. Se complementa con el Pacto Regional contra la Violencia de Género."
+    },
+    {
+      "q": "Respecto a la red CAVI de la Región de Murcia, es correcto:",
+      "o": ["Solo atiende a mujeres que han presentado denuncia", "Ofrece atención psicológica, social y jurídica a mujeres víctimas sin exigir denuncia previa", "Es un registro informático de casos de maltrato infantil", "Es una unidad de la Guardia Civil"],
+      "a": 1,
+      "e": "Los Centros de Atención Especializada para Mujeres Víctimas de Violencia de Género (CAVI) prestan atención psicológica, social y jurídica sin exigir la interposición de denuncia."
+    },
+    {
+      "q": "En la Región de Murcia, el SEMA es:",
+      "o": ["El registro unificado de maltrato infantil", "La unidad policial de atención a la mujer", "Un servicio de atención psicológica a los menores expuestos a la violencia de género", "Un cuestionario de cribado de violencia"],
+      "a": 2,
+      "e": "El SEMA es un recurso de atención psicológica para reparar el daño emocional de los hijos e hijas expuestos a la violencia de género. El registro de maltrato infantil es el RUMI; UFAM y EMUME son unidades de Policía Nacional y Guardia Civil."
+    },
+    {
+      "q": "En la escala de Zarit, una puntuación de 60 en el cuidador principal de un paciente con Alzheimer indica:",
+      "o": ["Ausencia de sobrecarga", "Sobrecarga leve", "Que el paciente sufre maltrato", "Sobrecarga intensa"],
+      "a": 3,
+      "e": "La escala de Zarit (22 ítems, 0-88 puntos) indica: ≤ 46 sin sobrecarga, 47-55 sobrecarga leve y ≥ 56 sobrecarga intensa. La sobrecarga intensa obliga a movilizar ayudas, respiro familiar y apoyo para prevenir la negligencia o el maltrato."
+    },
+    {
+      "q": "En el índice EASI de sospecha de maltrato a personas mayores, un anciano con MMSE de 26 responde «sí» solo a la primera pregunta (depende de otros para tareas básicas). Esto indica:",
+      "o": ["Que no hay sospecha de maltrato: la pregunta 1 no puntúa, solo valora la dependencia", "Sospecha de maltrato y obligación de emitir parte judicial", "Maltrato confirmado", "Que no puede aplicarse el EASI"],
+      "a": 0,
+      "e": "La pregunta 1 del EASI explora la dependencia y no puntúa para maltrato. La sospecha se establece con un «sí» en cualquiera de las preguntas 2 a 6 (negligencia, abuso emocional, económico, físico o sexual, y la observación del profesional). Se aplica si el MMSE es ≥ 24."
+    },
+    {
+      "q": "El síndrome de Münchausen por poderes se clasifica como:",
+      "o": ["Negligencia o abandono pasivo", "Maltrato médico infantil: el cuidador provoca, inventa o exagera síntomas en el niño", "Maltrato emocional por rechazo", "Un trastorno del niño sin implicación del cuidador"],
+      "a": 1,
+      "e": "Es un maltrato activo (maltrato médico infantil): el cuidador, a menudo la madre, induce o falsifica síntomas en el niño, que es sometido a pruebas y tratamientos innecesarios. No es una negligencia, que es la forma más frecuente de maltrato infantil."
+    },
+    {
+      "q": "En Murcia, un caso registrado en la Hoja de Notificación de Riesgo y Maltrato Infantil como nivel leve requiere:",
+      "o": ["Mantener al niño en su hogar con un seguimiento coordinado entre pediatría, escuela y servicios sociales", "Retirar la custodia de forma inmediata", "Avisar a la policía para separar al niño de la familia", "Archivar el caso sin más actuaciones"],
+      "a": 0,
+      "e": "La respuesta se gradúa: en el nivel leve el niño sigue en casa con seguimiento coordinado; en el moderado intervienen los programas comunitarios para corregir las habilidades parentales; solo en el grave se activa la protección de menores, fiscalía y policía con separación del niño."
+    }
+  ]
+}

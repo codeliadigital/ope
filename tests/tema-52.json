@@ -1,0 +1,187 @@
+{
+  "tema": 52,
+  "titulo": "Cuidados de enfermería en pacientes postquirúrgicos",
+  "programa": "Cuidados de enfermería en pacientes postquirúrgicos: vigilancia postanestésica, recuperación intensificada, drenajes quirúrgicos y torácicos, cicatrización y curas, terapia de presión negativa, cirugía mayor ambulatoria, cirugía menor y continuidad de cuidados al alta.",
+  "preguntas": [
+    {
+      "q": "Según los protocolos de recuperación intensificada (ERAS / vía RICA), tras la cirugía se recomienda:",
+      "o": ["Iniciar la tolerancia oral de forma precoz, sin esperar a auscultar ruidos intestinales", "Mantener dieta absoluta hasta la expulsión de gases", "Colocar sonda nasogástrica de rutina", "Mantener reposo en cama 48 horas"],
+      "a": 0,
+      "e": "La alimentación precoz protege la mucosa intestinal. ERAS también promueve la movilización el mismo día, la analgesia multimodal ahorradora de opioides y la retirada precoz de sondas y drenajes."
+    },
+    {
+      "q": "Para que un paciente pueda salir de la URPA tras una anestesia general, en la escala de Aldrete debe obtener:",
+      "o": ["Al menos 5 puntos", "Al menos 7 puntos", "9 o más puntos", "Exactamente 12 puntos"],
+      "a": 2,
+      "e": "Aldrete valora actividad, respiración, circulación, conciencia y coloración o saturación, cada uno de 0 a 2 (máximo 10). En CMA, para el alta a domicilio se usa además la escala PADSS."
+    },
+    {
+      "q": "La escala de Bromage se utiliza para valorar:",
+      "o": ["El nivel de sedación", "El bloqueo motor de las extremidades inferiores tras una anestesia raquídea o epidural", "El dolor postoperatorio", "El riesgo de úlceras por presión"],
+      "a": 1,
+      "e": "Grado 0: eleva la pierna extendida (sin bloqueo). Grado 1: flexiona las rodillas. Grado 2: solo mueve los pies. Grado 3: bloqueo completo. Se exige el grado 0 para movilizar o dar el alta."
+    },
+    {
+      "q": "En el postoperatorio inmediato de un paciente intervenido con anestesia raquídea, la posición indicada para prevenir la cefalea pospunción es:",
+      "o": ["Fowler", "Trendelenburg", "Decúbito prono", "Decúbito supino, habitualmente sin almohada"],
+      "a": 3,
+      "e": "La cefalea se debe a la fuga de LCR por el orificio de la duramadre y empeora al incorporarse. La posición de Fowler se reserva para cirugías de cabeza, cuello y tórax."
+    },
+    {
+      "q": "Tras una tiroidectomía, la posición más adecuada es:",
+      "o": ["Trendelenburg", "Decúbito prono", "Fowler o semi-Fowler", "Kraske"],
+      "a": 2,
+      "e": "Con la cabecera elevada disminuyen la congestión venosa y el edema cervical, y mejora la ventilación. Hay que vigilar la aparición de un hematoma que comprima la vía aérea."
+    },
+    {
+      "q": "Un drenaje plano de látex que se fija con un punto y se atraviesa con un imperdible estéril en su extremo exterior es un drenaje de:",
+      "o": ["Penrose", "Redón", "Jackson-Pratt", "Kehr"],
+      "a": 0,
+      "e": "El Penrose funciona por capilaridad. El imperdible evita que se deslice hacia el interior de la cavidad. Como el líquido sale a la piel, hay que vigilar la maceración."
+    },
+    {
+      "q": "Durante el protocolo de pinzamiento de un tubo de Kehr, el paciente refiere dolor en el hipocondrio derecho, orina color coñac y heces blanquecinas. La actuación correcta es:",
+      "o": ["Registrarlo y mantener el pinzamiento", "Aumentar el tiempo de pinzamiento", "Retirar el tubo", "Despinzar el drenaje y avisar al cirujano"],
+      "a": 3,
+      "e": "La coluria, la acolia, el dolor, la ictericia o la fiebre indican que la bilis no pasa bien al duodeno. Antes de retirar el Kehr se hace una colangiografía de control."
+    },
+    {
+      "q": "En los drenajes tipo sumidero (Saratoga), la luz abierta a la atmósfera sirve para:",
+      "o": ["Instilar antibióticos", "Evitar el «efecto ventosa» que dañaría los tejidos adyacentes", "Medir la presión intraabdominal", "Recoger muestras para cultivo"],
+      "a": 1,
+      "e": "La entrada de aire filtrado rompe el vacío extremo. El Abramson añade una tercera luz para irrigar suero de forma continua mientras se aspira."
+    },
+    {
+      "q": "El drenaje Jackson-Pratt se caracteriza por:",
+      "o": ["Funcionar por capilaridad", "Ser un tubo en T para la vía biliar", "Tener un reservorio en forma de pera que se comprime para generar un vacío de baja presión", "Necesitar aspiración de pared de alta presión"],
+      "a": 2,
+      "e": "La enfermera comprime el bulbo y cierra el tapón antes de soltarlo. El Redón, en cambio, trabaja con un frasco de vacío de alta presión."
+    },
+    {
+      "q": "En un sistema de drenaje torácico, la oscilación del nivel de líquido de la cámara de sello de agua con los movimientos respiratorios indica:",
+      "o": ["Una fuga aérea", "Que hay que cambiar el sistema", "Un neumotórax a tensión", "Que el tubo está permeable"],
+      "a": 3,
+      "e": "Si la oscilación cesa de forma brusca, el tubo puede estar obstruido o acodado. Si desaparece poco a poco a lo largo de los días, suele significar que el pulmón se ha reexpandido."
+    },
+    {
+      "q": "La presencia de burbujeo continuo en la cámara de sello de agua de un drenaje torácico indica:",
+      "o": ["Una fuga de aire del paciente (por ejemplo, fístula broncopleural)", "Que la aspiración funciona correctamente", "Que la cámara de recolección está llena", "Un funcionamiento normal en todos los casos"],
+      "a": 0,
+      "e": "El burbujeo en la cámara de control de aspiración de los modelos húmedos sí es normal: indica que la aspiración está activa. Un burbujeo prolongado e intenso en el sello de agua es patológico."
+    },
+    {
+      "q": "Un paciente con drenaje torácico debe trasladarse a radiología. La actuación correcta es:",
+      "o": ["Pinzar el tubo durante el traslado", "No pinzarlo y mantener el sistema vertical y por debajo del nivel del tórax", "Desconectar el sistema y taponar el tubo", "Colocar el sistema sobre el abdomen del paciente"],
+      "a": 1,
+      "e": "El tubo no se pinza de rutina. Solo se pinza para cambiar el sistema, tras instilar medicación intrapleural, en una hemorragia masiva hasta el quirófano o como prueba antes de retirarlo, por indicación médica."
+    },
+    {
+      "q": "Si se pinza el tubo torácico de un paciente con una fuga aérea activa, se puede producir:",
+      "o": ["Un hemotórax", "Una atelectasia leve sin importancia", "Un derrame pleural", "Un neumotórax a tensión"],
+      "a": 3,
+      "e": "El aire no puede salir y se acumula en la pleura: disnea, hipotensión, desviación del mediastino y enfisema subcutáneo. Por eso nunca se pinza si hay burbujeo en el sello de agua."
+    },
+    {
+      "q": "Se considera signo de alarma de sangrado activo en un drenaje torácico un débito hemático superior a:",
+      "o": ["50 ml en 24 horas", "100 ml en 12 horas", "200 ml/hora durante 3 horas seguidas", "500 ml en la primera semana"],
+      "a": 2,
+      "e": "Este volumen puede requerir una toracotomía urgente. Las muestras del líquido se obtienen por el puerto del tubo con una jeringa, nunca desconectando el sistema."
+    },
+    {
+      "q": "En la cicatrización, el colágeno que predomina en la fase proliferativa y el que lo sustituye en la fase de maduración son, respectivamente:",
+      "o": ["Tipo III y tipo I", "Tipo I y tipo III", "Tipo II y tipo IV", "Tipo IV y tipo II"],
+      "a": 0,
+      "e": "El fibroblasto produce colágeno tipo III inmaduro, que se sustituye por colágeno tipo I, más resistente. Aun así, la cicatriz recupera como máximo un 80% de la fuerza del tejido original."
+    },
+    {
+      "q": "El cierre de una herida por tercera intención (primario diferido) consiste en:",
+      "o": ["Suturar la herida de inmediato", "Dejar la herida abierta unos días para controlar la infección o el edema y suturarla después", "Dejar que cicatrice por granulación desde el fondo sin suturar nunca", "Cubrirla con un injerto cutáneo inmediato"],
+      "a": 1,
+      "e": "En la primera intención se aproximan los bordes de inmediato. En la segunda, la herida se deja abierta y granula desde el fondo, como en las úlceras y los abscesos drenados."
+    },
+    {
+      "q": "El desbridamiento autolítico se caracteriza por:",
+      "o": ["Ser el más rápido", "Requerir bisturí y anestesia", "Usar enzimas como la colagenasa", "Ser lento, selectivo e indoloro, y se favorece con hidrogeles en ambiente húmedo"],
+      "a": 3,
+      "e": "El desbridamiento quirúrgico o cortante es el más rápido. En el esquema TIME, la T se refiere al tejido no viable (necrosis o esfacelos)."
+    },
+    {
+      "q": "La escala REEDA para valorar la herida quirúrgica evalúa:",
+      "o": ["Enrojecimiento, edema, equimosis, exudado (drenaje) y aproximación de los bordes", "Respiración, edema, eritema, dolor y apetito", "Riesgo, exudado, extensión, dolor y antigüedad", "Rubor, eritema, escara, dehiscencia y absceso"],
+      "a": 0,
+      "e": "Cada ítem se puntúa de 0 a 3, y una puntuación de 0 indica una curación óptima. Las dos E corresponden a edema y equimosis; la D, al exudado (discharge)."
+    },
+    {
+      "q": "Está contraindicada la terapia de presión negativa (VAC) en:",
+      "o": ["Una herida quirúrgica dehiscente limpia", "Una úlcera con tejido de granulación", "Una herida con tejido necrótico sin desbridar o con vasos sanguíneos expuestos", "Una herida con exudado abundante"],
+      "a": 2,
+      "e": "Tampoco se aplica en la osteomielitis no tratada, en fístulas no exploradas ni si hay cáncer en el lecho. La esponja se recorta al tamaño exacto de la herida, sin tocar la piel sana."
+    },
+    {
+      "q": "La presión negativa terapéutica estándar con la que suele iniciarse la terapia VAC es de unos:",
+      "o": ["25 mmHg", "125 mmHg", "300 mmHg", "500 mmHg"],
+      "a": 1,
+      "e": "Al principio suele programarse en modo continuo. El film adhesivo debe sobrepasar unos 3-5 cm la piel sana para conseguir un sellado hermético."
+    },
+    {
+      "q": "Para una incisión quirúrgica profunda que afecta al tejido subcutáneo y la fascia, la etiqueta NANDA más adecuada es:",
+      "o": ["Deterioro de la integridad cutánea (00046)", "Riesgo de deterioro de la integridad cutánea", "Riesgo de infección", "Deterioro de la integridad tisular (00044)"],
+      "a": 3,
+      "e": "El deterioro de la integridad cutánea se limita a la epidermis y la dermis (abrasiones, UPP de categoría I-II). El de la integridad tisular afecta a planos profundos (UPP de categoría III-IV, incisiones profundas)."
+    },
+    {
+      "q": "Tras drenar un absceso cutáneo, la actuación correcta es:",
+      "o": ["Suturar la incisión para evitar infecciones", "Aplicar un vendaje compresivo y cerrar con grapas", "Dejar la herida abierta con una mecha para que cierre por segunda intención", "Cerrarla con adhesivo tisular"],
+      "a": 2,
+      "e": "Antes se rompen los tabiques internos y se lava la cavidad; si el pus es fétido, por anaerobios, se puede irrigar con agua oxigenada. La incisión se hace en la zona de máxima fluctuación, siguiendo las líneas de Langer."
+    },
+    {
+      "q": "Es un criterio de exclusión social para la cirugía mayor ambulatoria:",
+      "o": ["No disponer de un adulto responsable que lo acompañe las primeras 24 horas", "Vivir a 30 minutos del hospital", "Ser ASA II", "Tener teléfono en el domicilio"],
+      "a": 0,
+      "e": "El paciente debe vivir a menos de 1 hora del hospital y estar acompañado por un adulto las primeras 24 horas. Los pacientes ASA I y II son los candidatos ideales; ASA IV y V quedan excluidos."
+    },
+    {
+      "q": "En cirugía mayor ambulatoria, la escala que se usa para decidir el alta al domicilio es:",
+      "o": ["La escala de Aldrete", "La escala PADSS, con 9 o más puntos", "La escala de Bromage", "La escala de Glasgow"],
+      "a": 1,
+      "e": "La PADSS valora constantes vitales, deambulación, náuseas y vómitos, dolor y sangrado. La Aldrete se usa para salir de la URPA hacia la unidad de readaptación al medio."
+    },
+    {
+      "q": "En CMA, la micción espontánea antes del alta es obligatoria especialmente cuando:",
+      "o": ["El paciente es menor de 40 años", "Se ha usado anestesia general con mascarilla laríngea", "La cirugía duró menos de 30 minutos", "Se ha empleado raquianestesia o se trata de cirugía urológica o ginecológica"],
+      "a": 3,
+      "e": "El bloqueo simpático residual puede producir retención urinaria. Las principales causas de ingreso no deseado en CMA son las náuseas y vómitos y el dolor mal controlado."
+    },
+    {
+      "q": "La dosis máxima de lidocaína sin vasoconstrictor para la infiltración local en un adulto es de aproximadamente:",
+      "o": ["4,5 mg/kg (sin superar unos 300 mg)", "1 mg/kg", "7 mg/kg", "15 mg/kg"],
+      "a": 0,
+      "e": "Con adrenalina, la dosis máxima sube a unos 7 mg/kg. Antes de infiltrar se aspira con el émbolo para no inyectar dentro de un vaso, y nunca se usa vasoconstrictor en dedos, nariz, orejas ni pene."
+    },
+    {
+      "q": "En cirugía menor, la incisión elíptica para extirpar una lesión cutánea debe:",
+      "o": ["Ser perpendicular a las líneas de Langer", "Tener una relación longitud/anchura de 1:1", "Ser paralela a las líneas de Langer, con una relación longitud/anchura de unos 3:1", "Hacerse siempre en forma de cruz"],
+      "a": 2,
+      "e": "Así se reduce la tensión de la cicatriz y se evitan las «orejas de perro» en los extremos. La pieza extirpada se envía en formol al 10% a anatomía patológica."
+    },
+    {
+      "q": "Los puntos de sutura de la cara se retiran habitualmente a los:",
+      "o": ["2 días", "4-5 días", "10-12 días", "14-21 días"],
+      "a": 1,
+      "e": "La cara está muy vascularizada y cicatriza rápido. El cuero cabelludo, a los 7-8 días; el tronco, a los 8-10; la espalda y los brazos, a los 10-12; y las piernas y articulaciones, a los 10-14."
+    },
+    {
+      "q": "El informe de cuidados de enfermería al alta (ICEA) se caracteriza por:",
+      "o": ["Resumir el diagnóstico y el tratamiento médico", "Ser un documento opcional", "Elaborarse únicamente en atención primaria", "Describir las necesidades de cuidados y el grado de dependencia del paciente con lenguaje NANDA-NOC-NIC"],
+      "a": 3,
+      "e": "Lo cumplimenta la enfermera de planta e incluye la conciliación de la medicación. En el SMS se redacta en SELENE, se consulta en primaria a través de Ágora y se entrega una copia impresa al paciente."
+    },
+    {
+      "q": "La cuidadora principal de un paciente con Alzheimer obtiene 58 puntos en la escala de Zarit. Esto indica:",
+      "o": ["Sobrecarga intensa", "Ausencia de sobrecarga", "Sobrecarga leve", "Que la escala no es aplicable"],
+      "a": 0,
+      "e": "Por debajo de 47 puntos no hay sobrecarga, de 47 a 55 es leve y a partir de 56 es intensa. La enfermera gestora de casos busca prevenir la claudicación del cuidador."
+    }
+  ]
+}

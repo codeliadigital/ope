@@ -1,0 +1,187 @@
+{
+  "tema": 12,
+  "titulo": "Hospitalización a domicilio y telemedicina. Metodología cuantitativa y bioestadística",
+  "programa": "Hospitalización a domicilio: concepto, marco legal, modelos organizativos, cartera de servicios, criterios de inclusión y exclusión, papel de enfermería, seguimiento telefónico, telemedicina, telemonitorización e indicadores de calidad. Metodología de la investigación cuantitativa: diseños, muestreo, variables, sesgos, estadística descriptiva e inferencial, pruebas diagnósticas, revisiones sistemáticas y metaanálisis. Ley 14/2007 de Investigación Biomédica y protección de datos en investigación. Estructura IMRyD.",
+  "preguntas": [
+    {
+      "q": "La Hospitalización a Domicilio (HAD) es una modalidad asistencial que depende de:",
+      "o": ["Atención Primaria, a través de los equipos de los centros de salud", "Atención Especializada, como alternativa a la hospitalización convencional", "Los servicios sociales municipales", "Las mutuas colaboradoras con la Seguridad Social"],
+      "a": 1,
+      "e": "La HAD es una modalidad de Atención Especializada: presta cuidados de nivel hospitalario en el domicilio y depende del hospital. La atención domiciliaria de AP es distinta (crónica, preventiva)."
+    },
+    {
+      "q": "El principio según el cual la HAD debe ofrecer en el domicilio cuidados de la misma complejidad, intensidad y calidad que en el hospital se denomina:",
+      "o": ["Principio de subsidiariedad", "Principio de continuidad asistencial", "Principio de proximidad", "Principio de equivalencia asistencial"],
+      "a": 3,
+      "e": "La equivalencia asistencial es la base de la HAD: el paciente recibe en casa un nivel de atención equivalente al de la planta hospitalaria."
+    },
+    {
+      "q": "La duración habitual de un episodio de hospitalización a domicilio es de:",
+      "o": ["7 a 14 días", "24 a 72 horas", "1 a 3 meses", "Indefinida, mientras el paciente siga vivo"],
+      "a": 0,
+      "e": "La HAD atiende procesos agudos o reagudizaciones durante un periodo limitado, habitualmente de 7 a 14 días, tras el cual el paciente es dado de alta a Atención Primaria."
+    },
+    {
+      "q": "¿Qué modelo organizativo de HAD es el más implantado en el Servicio Murciano de Salud?",
+      "o": ["El de evitación del ingreso exclusivamente", "El de alta precoz exclusivamente", "El modelo mixto", "El modelo de cuidados paliativos exclusivos"],
+      "a": 2,
+      "e": "En el SMS predomina el modelo mixto, que combina la evitación del ingreso (pacientes derivados desde urgencias, consultas o AP) y el alta precoz desde planta."
+    },
+    {
+      "q": "En la organización de una unidad de HAD, la carga de trabajo orientativa de cada enfermera es de:",
+      "o": ["3-5 pacientes y 2-3 visitas al día", "20-25 pacientes y 12-14 visitas al día", "10-15 pacientes y 6-8 visitas al día", "30 pacientes y 10 visitas al día"],
+      "a": 2,
+      "e": "La ratio orientativa es de 10-15 pacientes por enfermera con 6-8 visitas diarias, y un médico por cada 2-3 enfermeras."
+    },
+    {
+      "q": "El proceso más frecuente dentro de la cartera de servicios de la HAD es:",
+      "o": ["La antibioterapia parenteral domiciliaria (OPAT)", "La nutrición parenteral total", "La transfusión de hemoderivados", "La terapia de presión negativa (VAC)"],
+      "a": 0,
+      "e": "La OPAT (Outpatient Parenteral Antimicrobial Therapy) es la actividad más frecuente: endocarditis, osteomielitis, ITU complicadas, etc."
+    },
+    {
+      "q": "¿Cuál de las siguientes situaciones constituye un criterio de exclusión absoluto para la HAD?",
+      "o": ["Paciente con EPOC reagudizada pero estable", "Residir en una zona rural incluida en el área de cobertura", "Necesitar antibioterapia intravenosa", "La negativa del paciente a ser atendido en su domicilio"],
+      "a": 3,
+      "e": "La HAD exige el consentimiento informado del paciente; su negativa es un criterio de exclusión absoluto. Las demás situaciones son compatibles con la HAD."
+    },
+    {
+      "q": "Un paciente con fiebre de origen desconocido que está en estudio, ¿es candidato a HAD?",
+      "o": ["Sí, siempre que disponga de un cuidador", "No, porque no tiene un diagnóstico definido y requiere pruebas frecuentes", "Sí, mediante el modelo de alta precoz", "Sí, si se le aplica telemonitorización"],
+      "a": 1,
+      "e": "Un criterio de inclusión es tener un diagnóstico definido y un plan terapéutico claro. Los procesos en estudio con pruebas frecuentes, como la fiebre de origen desconocido, se excluyen."
+    },
+    {
+      "q": "En la educación sanitaria al cuidador en HAD, la técnica \"teach-back\" consiste en:",
+      "o": ["Pedir al paciente o cuidador que explique con sus propias palabras lo que se le ha enseñado", "Entregar únicamente información escrita para que la lea en casa", "Repetir la enfermera la explicación tres veces seguidas", "Grabar en vídeo la técnica para que la vea más tarde"],
+      "a": 0,
+      "e": "En el teach-back el receptor repite la instrucción con sus palabras, lo que permite comprobar la comprensión y corregir errores."
+    },
+    {
+      "q": "Al iniciar una llamada de seguimiento telefónico estructurado, la enfermera debe en primer lugar:",
+      "o": ["Formular preguntas cerradas sobre los síntomas", "Dar las recomendaciones de cuidados", "Identificarse y verificar la identidad del interlocutor", "Registrar la llamada en la historia clínica"],
+      "a": 2,
+      "e": "Tras planificar y revisar la historia, la llamada empieza identificando al profesional y verificando con quién se habla (paciente o cuidador). Después: preguntas abiertas y cerradas, decisión, comprobación de la comprensión y registro."
+    },
+    {
+      "q": "Es un ejemplo de telemedicina asincrónica:",
+      "o": ["Una videoconsulta en tiempo real con el paciente", "El envío de fotografías de una herida que la enfermera revisa más tarde", "Una llamada telefónica de seguimiento", "Una visita domiciliaria presencial"],
+      "a": 1,
+      "e": "La telemedicina asincrónica (en diferido) se basa en el envío de datos o imágenes que se revisan después; la sincrónica es en tiempo real, como la videoconsulta."
+    },
+    {
+      "q": "En un paciente con insuficiencia cardiaca telemonitorizado en HAD, ¿qué dato sugiere retención hídrica?",
+      "o": ["Una SatO₂ estable del 96%", "Una disminución de peso de 1 kg en una semana", "Una frecuencia cardiaca de 70 lpm", "Un aumento de peso de 2 kg en 3 días"],
+      "a": 3,
+      "e": "El peso es una variable clave en la IC: una ganancia de 2 kg en 3 días sugiere retención de líquidos y debe generar una alerta."
+    },
+    {
+      "q": "Según el modelo de Donabedian, ¿cuál de los siguientes es un indicador de resultado en HAD?",
+      "o": ["La estancia media", "La ratio de pacientes por enfermera", "El número de visitas diarias", "La tasa de reingresos hospitalarios a 30 días"],
+      "a": 3,
+      "e": "La tasa de reingresos a 30 días es el indicador de resultado de referencia. La estancia media y la actividad son indicadores de proceso; las ratios, de estructura."
+    },
+    {
+      "q": "La temperatura corporal medida en grados Celsius es una variable cuantitativa medida en escala:",
+      "o": ["De razón, porque tiene un cero absoluto", "De intervalo, porque su cero es arbitrario", "Ordinal", "Nominal"],
+      "a": 1,
+      "e": "En la escala de intervalo el cero es arbitrario (0 °C no significa ausencia de temperatura). En la de razón existe un cero absoluto (peso, edad, TA)."
+    },
+    {
+      "q": "El grado o categoría de una úlcera por presión es una variable:",
+      "o": ["Cuantitativa discreta", "Cualitativa nominal", "Cualitativa ordinal", "Cuantitativa continua"],
+      "a": 2,
+      "e": "Las categorías de UPP tienen un orden jerárquico pero no una distancia medible entre ellas: es una variable cualitativa ordinal, como el estadio TNM."
+    },
+    {
+      "q": "Se quiere obtener por muestreo sistemático una muestra de 200 pacientes de una población de 2.000. El procedimiento correcto es:",
+      "o": ["Calcular k = 10, elegir al azar un número entre 1 y 10 y seleccionar uno de cada 10", "Elegir a los 200 primeros pacientes del listado", "Dividir la población en estratos y elegir 200 de cada uno", "Seleccionar al azar varios hospitales y estudiar a todos sus pacientes"],
+      "a": 0,
+      "e": "En el muestreo sistemático k = N/n (2.000/200 = 10); se elige al azar el primer elemento entre 1 y k y después uno de cada k."
+    },
+    {
+      "q": "En el muestreo estratificado, la afijación que reparte la muestra teniendo en cuenta el tamaño y también la variabilidad de cada estrato es la:",
+      "o": ["Afijación simple", "Afijación óptima de Neyman", "Afijación proporcional", "Afijación por conglomerados"],
+      "a": 1,
+      "e": "La afijación simple asigna el mismo número a cada estrato; la proporcional, según su tamaño; la óptima (de Neyman) considera también la varianza de cada estrato."
+    },
+    {
+      "q": "El muestreo en \"bola de nieve\":",
+      "o": ["Es no probabilístico y útil para estudiar poblaciones ocultas o de difícil acceso", "Es probabilístico y el más representativo", "Exige disponer de un listado completo de la población", "Es un tipo de muestreo por conglomerados"],
+      "a": 0,
+      "e": "En la bola de nieve unos participantes captan a otros; es un muestreo no probabilístico, útil en poblaciones ocultas (p. ej., personas sin hogar o consumidores de drogas)."
+    },
+    {
+      "q": "Respecto al aumento del tamaño de la muestra en un estudio, es correcto que:",
+      "o": ["Elimina cualquier sesgo de selección", "Corrige el efecto Hawthorne", "Aumenta el error aleatorio", "Reduce el error aleatorio, pero no corrige los sesgos"],
+      "a": 3,
+      "e": "El error aleatorio disminuye al aumentar la muestra; el sesgo es un error sistemático que no se corrige con más sujetos, sino con un buen diseño."
+    },
+    {
+      "q": "El efecto Hawthorne es un sesgo de información que consiste en que:",
+      "o": ["El investigador interpreta los datos según sus expectativas", "Los sujetos con enfermedad grave fallecen antes de ser incluidos", "Los participantes modifican su conducta al saberse observados", "Los pacientes recuerdan peor las exposiciones antiguas"],
+      "a": 2,
+      "e": "Hawthorne: cambio de conducta al saberse observado. Rosenthal (efecto Pigmalión): influencia de las expectativas del investigador. Neyman: sesgo de selección por prevalencia. Recuerdo: sesgo de memoria."
+    },
+    {
+      "q": "¿Cuál de las siguientes características impide considerar a una variable como factor de confusión?",
+      "o": ["Estar asociada a la exposición estudiada", "Ser factor de riesgo del desenlace", "Ser un eslabón intermedio en la cadena causal entre la exposición y el efecto", "Poder controlarse mediante la aleatorización"],
+      "a": 2,
+      "e": "Un factor de confusión debe ser factor de riesgo del desenlace, estar asociado a la exposición y no ser un paso intermedio de la cadena causal. Se controla con aleatorización, restricción, emparejamiento o análisis estratificado y multivariante."
+    },
+    {
+      "q": "Un estudio obtiene un riesgo relativo de 1,12 con un intervalo de confianza del 95% de 0,85 a 1,32. Se puede concluir que:",
+      "o": ["La exposición es un factor de riesgo estadísticamente significativo", "La exposición es un factor protector significativo", "El resultado es clínicamente relevante", "El resultado no es estadísticamente significativo porque el intervalo incluye el 1"],
+      "a": 3,
+      "e": "Para RR y OR el valor nulo es el 1 (para diferencias de medias, el 0). Si el IC incluye el valor nulo, el resultado no es estadísticamente significativo."
+    },
+    {
+      "q": "La distribución normal o de Gauss queda completamente definida por:",
+      "o": ["La media y la desviación típica", "La mediana y el rango intercuartílico", "La moda y el rango", "El valor p y el intervalo de confianza"],
+      "a": 0,
+      "e": "La normal es simétrica (media = mediana = moda) y se define por dos parámetros: la media (μ) y la desviación típica (σ)."
+    },
+    {
+      "q": "Si aumenta la prevalencia de la enfermedad en la población en la que se aplica una prueba diagnóstica:",
+      "o": ["Aumentan la sensibilidad y la especificidad", "Aumenta el valor predictivo positivo y disminuye el valor predictivo negativo", "Disminuye el valor predictivo positivo y aumenta el negativo", "No varía ningún parámetro de la prueba"],
+      "a": 1,
+      "e": "Sensibilidad y especificidad son propias de la prueba. Los valores predictivos dependen de la prevalencia: al aumentar esta, sube el VPP [VP/(VP+FP)] y baja el VPN [VN/(VN+FN)]."
+    },
+    {
+      "q": "En un metaanálisis se obtiene un índice I² de Higgins del 75%. ¿Qué modelo de análisis está indicado?",
+      "o": ["El modelo de efectos aleatorios", "El modelo de efectos fijos", "No se puede calcular ningún efecto combinado en ningún caso", "Basta con aplicar la escala de Jadad"],
+      "a": 0,
+      "e": "Una heterogeneidad alta (I² elevado) aconseja el modelo de efectos aleatorios, más conservador y con IC más ancho; con heterogeneidad baja se usa el de efectos fijos."
+    },
+    {
+      "q": "La declaración PRISMA 2020 para la publicación de revisiones sistemáticas consta de:",
+      "o": ["12 ítems en 3 secciones", "22 ítems en 5 secciones", "25 ítems en 6 secciones", "27 ítems en 7 secciones"],
+      "a": 3,
+      "e": "PRISMA 2020 incluye una lista de comprobación de 27 ítems organizados en 7 secciones y un diagrama de flujo. Para revisiones panorámicas existe PRISMA-ScR."
+    },
+    {
+      "q": "Respecto a la escala de Jadad para valorar la calidad de los ensayos clínicos, es correcto que:",
+      "o": ["Valora la calidad de los estudios cualitativos", "Su puntuación máxima es 5 y una puntuación de 2 o menos indica baja calidad", "Su puntuación máxima es 10 y se considera aceptable a partir de 5", "Solo valora el tamaño de la muestra"],
+      "a": 1,
+      "e": "Jadad puntúa de 0 a 5 la aleatorización, el cegamiento y la descripción de pérdidas; ≤ 2 indica baja calidad y ≥ 3, calidad aceptable."
+    },
+    {
+      "q": "En un metaanálisis, un gráfico en embudo (funnel plot) asimétrico sugiere la existencia de:",
+      "o": ["Ausencia de heterogeneidad", "Un efecto global no significativo", "Sesgo de publicación", "Un modelo de efectos fijos correcto"],
+      "a": 2,
+      "e": "Si no hay sesgo, los estudios se distribuyen simétricamente en el embudo; la falta de estudios pequeños con resultados negativos (asimetría) sugiere sesgo de publicación."
+    },
+    {
+      "q": "Según la Ley 14/2007, de Investigación Biomédica, el consentimiento para participar en una investigación debe ser:",
+      "o": ["Expreso y por escrito", "Verbal, dejando constancia en la historia clínica", "Tácito si el paciente no se opone", "Otorgado siempre por el Comité de Ética de la Investigación"],
+      "a": 0,
+      "e": "La Ley 14/2007 exige consentimiento expreso y por escrito, previa información adecuada. También establece la gratuidad de la donación de muestras y la responsabilidad solidaria de investigador, centro y promotor."
+    },
+    {
+      "q": "La disposición adicional 17.ª de la LOPDGDD (LO 3/2018) permite reutilizar datos de salud para investigación sin solicitar un nuevo consentimiento siempre que:",
+      "o": ["El investigador sea a la vez el médico o la enfermera que atiende al paciente", "Los datos se publiquen identificados para garantizar su trazabilidad", "Lo autorice verbalmente el jefe de servicio", "Se seudonimicen y se separen técnica y funcionalmente los roles de investigador y de asistencial"],
+      "a": 3,
+      "e": "La D. A. 17.ª admite el uso de datos seudonimizados sin nuevo consentimiento, con garantías: separación entre quienes investigan y quienes atienden al paciente y compromiso de no reidentificación."
+    }
+  ]
+}

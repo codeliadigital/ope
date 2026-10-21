@@ -1,0 +1,187 @@
+{
+  "tema": 16,
+  "titulo": "Prevención y promoción de la salud. Detección precoz y factores de riesgo por etapas de la vida",
+  "programa": "Prevención y promoción de la salud: conceptos, niveles de prevención y Carta de Ottawa. Marco normativo y estratégico nacional y de la Región de Murcia. Detección precoz de problemas de salud: cribado, escalas y diagnósticos de riesgo. Factores de riesgo y cuidados enfermeros en la infancia, adolescencia, edad adulta y vejez. Programas y estrategias del SNS y del SMS.",
+  "preguntas": [
+    {
+      "q": "\"El proceso que permite a las personas incrementar el control sobre su salud para mejorarla\" es la definición de promoción de la salud de:",
+      "o": ["La Declaración de Alma-Ata (1978)", "La Carta de Ottawa (1986)", "El Informe Lalonde (1974)", "La Ley 33/2011, General de Salud Pública"],
+      "a": 1,
+      "e": "La Carta de Ottawa (1986) es el documento fundacional de la promoción de la salud. Alma-Ata (1978) estableció la APS como estrategia para la \"Salud para todos en el año 2000\"."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una de las cinco áreas de acción de la Carta de Ottawa?",
+      "o": ["Elaborar políticas públicas saludables", "Reorientar los servicios sanitarios", "Aumentar el número de camas hospitalarias de agudos", "Reforzar la acción comunitaria"],
+      "a": 2,
+      "e": "Las cinco áreas son: políticas públicas saludables, entornos favorables, acción comunitaria, desarrollo de aptitudes personales y reorientación de los servicios sanitarios."
+    },
+    {
+      "q": "Es un ejemplo de prevención cuaternaria:",
+      "o": ["La vacunación antigripal", "La mamografía de cribado", "La rehabilitación cardiaca tras un infarto", "Evitar la prescripción de antibióticos en una infección vírica"],
+      "a": 3,
+      "e": "La prevención cuaternaria (Jamoulle) protege al paciente de la sobremedicalización y la iatrogenia: evitar pruebas innecesarias, desprescribir, no tratar lo que no lo requiere."
+    },
+    {
+      "q": "La exploración de la sensibilidad del pie con monofilamento en un paciente con diabetes diagnosticada es prevención:",
+      "o": ["Terciaria", "Primaria", "Secundaria", "Cuaternaria"],
+      "a": 0,
+      "e": "Se busca precozmente una complicación de una enfermedad ya establecida: prevención terciaria. Detectar precozmente la diabetes en sanos sería secundaria."
+    },
+    {
+      "q": "La prueba del talón en el recién nacido es un ejemplo de prevención:",
+      "o": ["Secundaria", "Primaria", "Terciaria", "Cuaternaria"],
+      "a": 0,
+      "e": "Es un cribado en población asintomática para detectar precozmente enfermedades (metabolopatías): prevención secundaria."
+    },
+    {
+      "q": "Respecto al PAPPS, es correcto que:",
+      "o": ["Es una ley estatal de salud pública", "Es un decreto del Servicio Murciano de Salud", "Es un programa de la semFYC que establece qué actividades preventivas realizar según la edad, pero no es una norma legal", "Es una estrategia del Ministerio de Sanidad aprobada en 2013"],
+      "a": 2,
+      "e": "El Programa de Actividades Preventivas y de Promoción de la Salud es un documento de consenso de la semFYC, de referencia en Atención Primaria."
+    },
+    {
+      "q": "La Estrategia NAOS (2005) se centra en:",
+      "o": ["La prevención del consumo de drogas", "La nutrición, la actividad física y la prevención de la obesidad", "El abordaje de la cronicidad en el anciano", "La salud mental en la adolescencia"],
+      "a": 1,
+      "e": "NAOS: Nutrición, Actividad física y prevención de la Obesidad, con especial atención a la población infantil y juvenil."
+    },
+    {
+      "q": "NO es un criterio de Wilson y Jungner para implantar un programa de cribado:",
+      "o": ["Que la enfermedad sea un problema de salud importante", "Que exista una fase latente o asintomática reconocible", "Que el tratamiento precoz sea más eficaz que el tardío", "Que el programa se realice como una campaña puntual"],
+      "a": 3,
+      "e": "Además de los anteriores, la prueba debe ser válida, aceptable y coste-efectiva, deben existir recursos para tratar los positivos y el programa debe ser continuo, no puntual."
+    },
+    {
+      "q": "La sensibilidad de una prueba de cribado se define como:",
+      "o": ["La capacidad de identificar correctamente a los sanos", "La probabilidad de estar sano si la prueba es negativa", "La capacidad de detectar a los enfermos, minimizando los falsos negativos", "El porcentaje de positivos que están enfermos"],
+      "a": 2,
+      "e": "Sensibilidad = detecta a los enfermos (evita falsos negativos); especificidad = identifica a los sanos (evita falsos positivos). Un buen cribado debe ser muy sensible."
+    },
+    {
+      "q": "La escala de valoración del riesgo de úlceras por presión que incluye específicamente la fricción y el cizallamiento es:",
+      "o": ["Norton", "Downton", "Tinetti", "Braden"],
+      "a": 3,
+      "e": "Norton y Braden valoran el riesgo de UPP; Braden incluye la subescala de fricción y cizallamiento. Downton valora el riesgo de caídas y Tinetti la marcha y el equilibrio."
+    },
+    {
+      "q": "El MEC de Lobo es:",
+      "o": ["La adaptación española del Mini-Mental State Examination para el cribado cognitivo", "Una escala de riesgo de caídas", "Un cuestionario de consumo de alcohol", "Una escala de depresión geriátrica"],
+      "a": 0,
+      "e": "El Mini Examen Cognoscitivo de Lobo es la versión española del Mini-Mental (35 puntos frente a los 30 del original)."
+    },
+    {
+      "q": "¿Cuál de los siguientes diagnósticos enfermeros está correctamente formulado?",
+      "o": ["Riesgo de caídas r/c consumo de benzodiacepinas m/p fractura de cadera", "Riesgo de caídas r/c deterioro de la movilidad y consumo de benzodiacepinas", "Riesgo de caídas m/p inestabilidad en la marcha", "Caídas r/c riesgo de caídas"],
+      "a": 1,
+      "e": "Los diagnósticos de riesgo solo incluyen factores de riesgo (r/c); nunca llevan \"manifestado por\", porque el problema todavía no existe."
+    },
+    {
+      "q": "Un paciente inmovilizado obtiene una puntuación de alto riesgo en la escala de Norton. El diagnóstico NANDA prioritario es:",
+      "o": ["Deterioro de la integridad cutánea m/p úlcera", "Riesgo de deterioro de la integridad cutánea", "Riesgo de caídas", "Deterioro de la movilidad física"],
+      "a": 1,
+      "e": "Norton valora el riesgo de UPP; si el riesgo es alto, el diagnóstico es de riesgo, sin manifestaciones, porque aún no hay lesión."
+    },
+    {
+      "q": "En los países desarrollados, la primera causa de mortalidad en niños a partir del primer año de vida son:",
+      "o": ["Los accidentes o lesiones no intencionadas", "Las enfermedades infecciosas", "El cáncer infantil", "Las malformaciones congénitas"],
+      "a": 0,
+      "e": "Tráfico, ahogamientos, caídas, intoxicaciones y quemaduras. Por eso la educación para prevenir accidentes debe hacerse en cada contacto con la familia."
+    },
+    {
+      "q": "El principal factor protector frente a la obesidad infantil desde el nacimiento es:",
+      "o": ["La introducción precoz de cereales", "La lactancia artificial enriquecida", "La lactancia materna", "La suplementación con vitamina D"],
+      "a": 2,
+      "e": "La lactancia materna está demostrada como el principal factor protector frente a la obesidad infantil."
+    },
+    {
+      "q": "Respecto al sueño y la obesidad infantil, es correcto que:",
+      "o": ["Dormir menos aumenta el gasto calórico y protege de la obesidad", "El sueño no tiene relación con el peso", "Solo influye en adolescentes", "El déficit de sueño es un factor de riesgo de obesidad infantil"],
+      "a": 3,
+      "e": "Dormir menos de lo recomendado altera las hormonas del apetito y aumenta la fatiga diurna, lo que favorece la obesidad."
+    },
+    {
+      "q": "La OMS recomienda lactancia materna exclusiva durante:",
+      "o": ["Los primeros 3 meses", "Los primeros 4 meses", "El primer año completo", "Los primeros 6 meses"],
+      "a": 3,
+      "e": "Exclusiva durante 6 meses y complementada al menos hasta los 2 años o hasta que madre e hijo lo deseen."
+    },
+    {
+      "q": "La droga ilegal más consumida por los adolescentes en España es:",
+      "o": ["La cocaína", "El cannabis", "El éxtasis", "Los hipnosedantes"],
+      "a": 1,
+      "e": "El alcohol es la sustancia (legal) más consumida; el cannabis, la droga ilegal más consumida."
+    },
+    {
+      "q": "El término binge drinking se refiere a:",
+      "o": ["El consumo intensivo de alcohol en un periodo corto de tiempo", "El consumo diario de pequeñas cantidades de alcohol", "La abstinencia total de alcohol", "El consumo de bebidas energéticas"],
+      "a": 0,
+      "e": "Es el \"atracón\" de alcohol, típico del botellón, el patrón de riesgo más preocupante en adolescentes."
+    },
+    {
+      "q": "Ante un adolescente de 16 años que consume cannabis, la técnica de comunicación más adecuada es:",
+      "o": ["Prohibirle el consumo de forma directiva", "Informar inmediatamente a sus padres", "La entrevista motivacional", "Juzgar su conducta para que tome conciencia"],
+      "a": 2,
+      "e": "En la adolescencia funcionan los enfoques no directivos, confidenciales y basados en la autonomía, como la entrevista motivacional."
+    },
+    {
+      "q": "La recomendación de actividad física de la OMS para adultos es de al menos:",
+      "o": ["30 minutos semanales de actividad moderada", "60 minutos semanales de actividad vigorosa", "150 minutos semanales de actividad moderada o 75 minutos de actividad vigorosa", "300 minutos diarios de actividad ligera"],
+      "a": 2,
+      "e": "Al menos 150 minutos semanales de actividad moderada, 75 de vigorosa o una combinación equivalente."
+    },
+    {
+      "q": "La medida antropométrica más predictiva del riesgo cardiovascular por obesidad central es:",
+      "o": ["El perímetro abdominal", "El IMC", "El peso", "La talla"],
+      "a": 0,
+      "e": "El perímetro abdominal refleja la obesidad visceral, mayor predictor de riesgo metabólico y cardiovascular que el IMC."
+    },
+    {
+      "q": "La tabla de riesgo cardiovascular que es la adaptación de Framingham calibrada para la población española es:",
+      "o": ["SCORE", "AUDIT", "Downton", "REGICOR"],
+      "a": 3,
+      "e": "REGICOR (Girona) adapta Framingham a la población española; SCORE estima la mortalidad cardiovascular a 10 años en Europa."
+    },
+    {
+      "q": "El cuestionario AUDIT se utiliza en Atención Primaria para el cribado de:",
+      "o": ["La depresión", "El consumo de riesgo de alcohol", "El deterioro cognitivo", "El riesgo de caídas"],
+      "a": 1,
+      "e": "El AUDIT (y su versión corta AUDIT-C) detecta el consumo de riesgo de alcohol; tras él se realiza una intervención breve."
+    },
+    {
+      "q": "El cribado poblacional del cáncer colorrectal en la cartera común del SNS consiste en:",
+      "o": ["Test de sangre oculta en heces cada 2 años entre los 50 y los 69 años", "Colonoscopia anual desde los 40 años", "Tacto rectal anual a partir de los 50 años", "Marcadores tumorales cada 5 años"],
+      "a": 0,
+      "e": "La enfermera tiene un papel clave en la captación, entrega y recogida del test de sangre oculta en heces, bienal entre los 50 y los 69 años."
+    },
+    {
+      "q": "En España no existe un programa de cribado poblacional del cáncer de próstata principalmente por:",
+      "o": ["Su baja frecuencia en varones", "La falta de tratamiento eficaz", "El alto riesgo de sobrediagnóstico y sobretratamiento", "La inexistencia de una prueba disponible"],
+      "a": 2,
+      "e": "El cribado con PSA es controvertido: detecta muchos tumores que no causarían daño y lleva a tratamientos innecesarios."
+    },
+    {
+      "q": "El principal factor predictor de que un anciano sufra una caída es:",
+      "o": ["Vivir en una zona rural", "El sexo masculino", "Tener una dieta pobre en calcio", "Haber sufrido una caída previa"],
+      "a": 3,
+      "e": "La caída previa es el mejor predictor. Otros factores son la sarcopenia, los déficits sensoriales, el deterioro cognitivo, las benzodiacepinas y el entorno."
+    },
+    {
+      "q": "En geriatría se considera polimedicación el consumo simultáneo de:",
+      "o": ["2 o más fármacos", "5 o más fármacos", "8 o más fármacos", "10 o más fármacos"],
+      "a": 1,
+      "e": "El punto de corte habitual es 5 o más medicamentos. Los criterios STOPP/START ayudan a detectar prescripciones inadecuadas."
+    },
+    {
+      "q": "Un anciano hospitalizado se desorienta y se agita por la noche. La primera medida de enfermería es:",
+      "o": ["Orientarle, ponerle sus gafas y audífonos, iluminar la habitación y facilitar el acompañamiento familiar", "Administrar haloperidol de forma inmediata", "Aplicar contención mecánica", "Administrar una benzodiacepina"],
+      "a": 0,
+      "e": "La prevención y el manejo inicial del delirium son no farmacológicos: orientación, corrección de déficits sensoriales, sueño, hidratación y movilización."
+    },
+    {
+      "q": "El instrumento considerado de referencia para valorar el estado nutricional del anciano es:",
+      "o": ["La escala de Yesavage", "El test de Pfeiffer", "La escala de Tinetti", "El MNA (Mini Nutritional Assessment)"],
+      "a": 3,
+      "e": "El MNA valora IMC, pérdida de peso, movilidad y estrés agudo. Yesavage es para depresión, Pfeiffer para cognición y Tinetti para marcha y equilibrio."
+    }
+  ]
+}

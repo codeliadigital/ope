@@ -1,0 +1,187 @@
+{
+  "tema": 28,
+  "titulo": "Valoración y cuidados de enfermería del recién nacido sano. Detección precoz de enfermedades endocrino-metabólicas. Parámetros de desarrollo y crecimiento. Respuesta evolutiva",
+  "programa": "Adaptación extrauterina, atención inmediata en paritorio (piel con piel, clampaje, Apgar, profilaxis), valoración física y somatometría, Silverman-Anderson, edad gestacional (Capurro, Ballard), cuidados en planta y al alta, cribados neonatales (talón, hipoacusia, cardiopatías congénitas), crecimiento, reflejos arcaicos e hitos del desarrollo psicomotor.",
+  "preguntas": [
+    {
+      "q": "Un recién nacido acaba de nacer y está cubierto de líquido amniótico sobre el abdomen materno. ¿Cuál es el principal mecanismo de pérdida de calor en ese momento?",
+      "o": ["Radiación", "Conducción", "Evaporación", "Convección"],
+      "a": 2,
+      "e": "En el momento del nacimiento, con la piel mojada, la pérdida dominante es por evaporación; por eso la primera medida es secarlo con paños calientes y retirar los húmedos. Ya seco en la cuna, pasa a predominar la radiación."
+    },
+    {
+      "q": "Ante el frío, el recién nacido produce calor fundamentalmente mediante:",
+      "o": ["El escalofrío o tiritona muscular", "La termogénesis no tiritante: metabolismo de la grasa parda estimulado por noradrenalina", "La vasodilatación periférica", "La glucogenólisis muscular por actividad voluntaria"],
+      "a": 1,
+      "e": "El neonato no tirita de forma eficaz. Produce calor por termogénesis química no tiritante: el sistema simpático libera noradrenalina, que activa la oxidación de la grasa parda (interescapular, nuca, axilas y zona perirrenal)."
+    },
+    {
+      "q": "El surfactante pulmonar, que evita el colapso alveolar al final de la espiración, es sintetizado por:",
+      "o": ["Los neumocitos tipo I", "Los macrófagos alveolares", "Las células caliciformes bronquiales", "Los neumocitos tipo II"],
+      "a": 3,
+      "e": "El surfactante (fosfolípidos, sobre todo dipalmitoilfosfatidilcolina, y proteínas) lo producen los neumocitos tipo II. Su síntesis empieza hacia la semana 24 y alcanza la madurez funcional hacia las semanas 34-35."
+    },
+    {
+      "q": "El cierre funcional del conducto arterioso tras el nacimiento está mediado principalmente por:",
+      "o": ["El aumento de la PaO₂ y el descenso de las prostaglandinas (PGE₂) placentarias", "El descenso de la PaO₂ y el aumento de las prostaglandinas", "El aumento de la presión en la aurícula derecha", "El cese del flujo de la vena umbilical"],
+      "a": 0,
+      "e": "El ductus se contrae por la subida de la presión parcial de oxígeno arterial y la caída de las prostaglandinas de origen placentario. El cese del flujo umbilical explica el cierre del conducto venoso, y el aumento de presión en la aurícula izquierda, el del agujero oval."
+    },
+    {
+      "q": "Un recién nacido a término de 12 horas de vida presenta tinte ictérico en piel y conjuntivas. ¿Cuál es la valoración correcta?",
+      "o": ["Es una ictericia fisiológica por inmadurez de la glucuroniltransferasa", "Es normal si el niño realiza bien las tomas", "Se debe a la lactancia materna y no requiere actuación", "Se considera patológica y requiere determinar la bilirrubina de forma urgente"],
+      "a": 3,
+      "e": "Toda ictericia que aparece en las primeras 24 horas de vida es patológica por definición y exige estudio urgente (bilirrubina, test de Coombs). La fisiológica aparece después de las 24 horas, habitualmente al 2.º-3.er día, y desaparece hacia el 7.º-10.º."
+    },
+    {
+      "q": "El hijo de madre diabética mal controlada tiene alto riesgo de hipoglucemia en las primeras horas porque:",
+      "o": ["Presenta hiperinsulinismo por hiperplasia de las células beta pancreáticas fetales", "Tiene un déficit congénito de insulina", "Sufre una resistencia periférica a la insulina", "Recibe un exceso de glucosa por la leche materna"],
+      "a": 0,
+      "e": "La hiperglucemia materna mantenida provoca en el feto hiperplasia de las células beta e hiperinsulinismo. Al cortar el cordón cesa el aporte de glucosa materna, pero la insulina sigue alta y la glucemia del neonato cae rápidamente."
+    },
+    {
+      "q": "¿Cuál es el parámetro más importante y de mayor valor pronóstico del test de Apgar?",
+      "o": ["La coloración de la piel", "El tono muscular", "La respuesta refleja a estímulos", "La frecuencia cardíaca"],
+      "a": 3,
+      "e": "El ítem más importante del Apgar es el pulso (frecuencia cardíaca). El que más tarda en alcanzar los 2 puntos es la coloración, porque la acrocianosis es un fenómeno normal en las primeras horas."
+    },
+    {
+      "q": "Al minuto de vida, un neonato presenta cuerpo rosado con manos y pies cianóticos, frecuencia cardíaca de 130 lpm, mueca al estímulo, ligera flexión de extremidades y llanto fuerte. Su puntuación de Apgar es:",
+      "o": ["5", "6", "7", "8"],
+      "a": 2,
+      "e": "Acrocianosis = 1; FC > 100 = 2; mueca = 1; ligera flexión = 1; llanto fuerte = 2. Total: 7, que corresponde a un neonato con adaptación normal (7-10)."
+    },
+    {
+      "q": "La profilaxis de la enfermedad hemorrágica del recién nacido a término se realiza con:",
+      "o": ["Vitamina K1, 1 mg intramuscular en el vasto externo (cara anterolateral del muslo)", "Vitamina K1, 1 mg intramuscular en el cuadrante superoexterno del glúteo", "Vitamina K1, 1 mg intramuscular en el deltoides", "Vitamina D3, 400 UI por vía oral"],
+      "a": 0,
+      "e": "Se administra vitamina K1 (fitomenadiona) 1 mg IM en el vasto externo. La región glútea está prohibida en el neonato por el riesgo de lesionar el nervio ciático. El déficit afecta a los factores II, VII, IX y X."
+    },
+    {
+      "q": "Respecto a la profilaxis de la oftalmia neonatal, es correcto:",
+      "o": ["El nitrato de plata al 1% (método de Credé) es el tratamiento de elección", "Se aplica pomada de eritromicina al 0,5% o tetraciclina al 1% desde el canto interno hacia el externo", "Debe lavarse el ojo con suero tras aplicar la pomada", "Solo se realiza si la madre tiene una infección gonocócica confirmada"],
+      "a": 1,
+      "e": "Se usa pomada de eritromicina 0,5% o tetraciclina 1% en el saco conjuntival inferior, del canto interno al externo, sin lavado posterior. El nitrato de plata está desaconsejado por la conjuntivitis química que produce."
+    },
+    {
+      "q": "El hijo de una madre con HBsAg positivo debe recibir:",
+      "o": ["Solo la vacuna de la hepatitis B a los 2 meses, según el calendario", "Solo inmunoglobulina antihepatitis B en las primeras 72 horas", "La vacuna y la inmunoglobulina en la misma jeringa y el mismo muslo", "La vacuna de la hepatitis B y la inmunoglobulina específica en las primeras 12 horas, en lugares anatómicos distintos"],
+      "a": 3,
+      "e": "Si la madre es portadora (HBsAg positivo) o su estado es desconocido, el recién nacido recibe en las primeras 12 horas la primera dosis de vacuna y la inmunoglobulina específica (0,5 ml), por vía IM en muslos distintos. Si la madre es negativa, se sigue el calendario (2, 4 y 11 meses)."
+    },
+    {
+      "q": "¿En cuál de las siguientes situaciones NO está indicado el pinzamiento tardío del cordón y debe pinzarse de inmediato?",
+      "o": ["Recién nacido a término vigoroso con llanto enérgico", "Recién nacido no vigoroso que precisa reanimación inmediata", "Parto vaginal de una madre primípara", "Recién nacido que va a iniciar el contacto piel con piel"],
+      "a": 1,
+      "e": "El clampaje tardío (1-3 minutos, al cesar el latido) es lo recomendado: aumenta los depósitos de hierro y en prematuros reduce la hemorragia intraventricular. Se pinza de inmediato si el niño necesita reanimación, hay desprendimiento de placenta o rotura del cordón."
+    },
+    {
+      "q": "En el test de Silverman-Anderson, una puntuación de 0 indica:",
+      "o": ["Dificultad respiratoria grave", "Ausencia de dificultad respiratoria", "Dificultad respiratoria moderada", "Que el recién nacido precisa intubación"],
+      "a": 1,
+      "e": "En el Silverman, al contrario que en el Apgar, cuanto menos puntos mejor: 0 es ausencia de dificultad respiratoria, 1-3 leve, 4-6 moderada y 7-10 grave. La respiración en balancín (disociación toracoabdominal marcada) puntúa 2."
+    },
+    {
+      "q": "Tras un parto instrumental, aparece a las pocas horas una tumefacción craneal limitada al hueso parietal, que no cruza las suturas. Lo más probable es:",
+      "o": ["Un cefalohematoma", "Un caput succedaneum", "Un moldeamiento cefálico fisiológico", "Una fontanela anterior abombada"],
+      "a": 0,
+      "e": "El cefalohematoma es una hemorragia subperióstica: respeta las suturas, aparece horas después y tarda semanas en resolverse; puede causar ictericia tardía. El caput succedaneum es un edema subcutáneo presente desde el nacimiento, que cruza las suturas y se reabsorbe en 24-48 horas."
+    },
+    {
+      "q": "En la exploración del cordón umbilical se observan solo una arteria y una vena. Esto:",
+      "o": ["Es una variante normal sin repercusión", "Indica una infección del cordón", "Obliga a descartar malformaciones asociadas, sobre todo renales", "Predice una caída precoz del cordón"],
+      "a": 2,
+      "e": "El cordón normal tiene 2 arterias y 1 vena rodeadas por la gelatina de Wharton. La arteria umbilical única es un marcador que obliga a descartar malformaciones, especialmente genitourinarias (renales), cardiovasculares y cromosómicas."
+    },
+    {
+      "q": "La maniobra de Barlow para la detección de la displasia evolutiva de cadera consiste en:",
+      "o": ["Abducción de las caderas con presión anterior sobre el trocánter para reducir una cadera luxada", "Extensión completa de las caderas con las rodillas juntas", "Rotación externa de las caderas en decúbito prono", "Aducción de las caderas flexionadas con presión hacia atrás para comprobar si la cadera es luxable"],
+      "a": 3,
+      "e": "Barlow es la maniobra luxante: aducción con presión axial posterior (la cadera inestable «bota» y sale). Ortolani es la reductora: abducción con presión anterior sobre el trocánter (la cadera luxada «entra» con un chasquido)."
+    },
+    {
+      "q": "Para estimar la edad gestacional de un prematuro de unas 25 semanas ingresado en la UCI neonatal, la herramienta más adecuada es:",
+      "o": ["El método de Capurro somático", "El test de Nuevo Ballard", "El test de Apgar", "El test de Silverman-Anderson"],
+      "a": 1,
+      "e": "El Nuevo Ballard (12 criterios: 6 físicos y 6 neuromusculares) es fiable desde la semana 20 y es de elección en la prematuridad extrema. El Capurro pierde validez por debajo de las 29-30 semanas porque los signos físicos puntúan cero."
+    },
+    {
+      "q": "En España, el cuidado del cordón umbilical recomendado en el recién nacido sano es:",
+      "o": ["Alcohol de 70° en cada cambio de pañal", "Clorhexidina al 4% de forma rutinaria", "Cura en seco: agua y jabón solo si se ensucia y secado meticuloso", "Povidona yodada dos veces al día hasta su caída"],
+      "a": 2,
+      "e": "En entornos con buenas condiciones higiénicas se recomienda la cura en seco. Los antisépticos de rutina retrasan la caída del cordón; la clorhexidina se reserva para países de baja renta, partos domiciliarios sin recursos y UCI neonatales."
+    },
+    {
+      "q": "Al preparar un biberón con fórmula en polvo, el agua debe estar a una temperatura de:",
+      "o": ["Temperatura ambiente (≈ 25 °C) para no destruir vitaminas", "Unos 37 °C, la temperatura corporal", "Unos 40 °C, templada", "70 °C o más en el momento de añadir el polvo"],
+      "a": 3,
+      "e": "La fórmula en polvo no es estéril y puede contener Cronobacter sakazakii (meningitis, sepsis, enterocolitis). El agua hervida debe estar a ≥ 70 °C al mezclar el polvo; después se enfría antes de dárselo al niño."
+    },
+    {
+      "q": "Para prevenir el síndrome de muerte súbita del lactante, la postura recomendada para dormir es:",
+      "o": ["Decúbito supino (boca arriba)", "Decúbito lateral para evitar la aspiración", "Decúbito prono", "Semisentado con almohada"],
+      "a": 0,
+      "e": "El decúbito supino es la única postura segura. El decúbito prono y el lateral (inestable, el niño rueda a prono) están desaconsejados. Colchón firme y cuna sin almohadas, cojines, peluches ni protectores."
+    },
+    {
+      "q": "La suplementación con vitamina D en el lactante consiste en:",
+      "o": ["200 UI/día solo en los prematuros", "1.000 UI/día a todos los recién nacidos durante 6 meses", "400 UI/día a los menores de 12 meses alimentados con lactancia materna o mixta", "No es necesaria si recibe lactancia materna exclusiva"],
+      "a": 2,
+      "e": "Se recomiendan 400 UI/día de vitamina D3 a todos los menores de 12 meses con lactancia materna o mixta; con fórmula también, salvo que ingiera más de un litro al día, algo poco habitual."
+    },
+    {
+      "q": "Sobre la técnica de la prueba del talón, es correcto:",
+      "o": ["Puncionar en el centro de la curvatura del talón", "Desechar la primera gota y puncionar en los laterales de la superficie plantar del talón", "Exprimir con fuerza el talón para obtener sangre rápidamente", "Aplicar varias gotas superpuestas en cada círculo"],
+      "a": 1,
+      "e": "Se punciona en los laterales del talón (el centro arriesga osteomielitis del calcáneo), se desecha la primera gota (diluida con líquido tisular), no se «ordeña» (hemólisis) y cada círculo se rellena con una sola gota que traspase el papel."
+    },
+    {
+      "q": "En el cribado neonatal de la fibrosis quística, el marcador que se determina en la prueba del talón es:",
+      "o": ["La TSH", "La fenilalanina", "La 17-hidroxiprogesterona", "La tripsina inmunorreactiva (TIR)"],
+      "a": 3,
+      "e": "Fibrosis quística: tripsina inmunorreactiva (si está elevada, test del sudor). Hipotiroidismo congénito: TSH. Fenilcetonuria: fenilalanina. Hiperplasia suprarrenal congénita: 17-hidroxiprogesterona."
+    },
+    {
+      "q": "¿En qué recién nacido está indicado obtener una segunda muestra de la prueba del talón?",
+      "o": ["En un neonato que ha recibido una transfusión de hematíes", "En un neonato a término alimentado con fórmula", "En un neonato nacido por cesárea", "En un neonato con ictericia fisiológica"],
+      "a": 0,
+      "e": "Se repite (≈ 15 días o al alta) en prematuros < 37 semanas o < 1.500 g (la TSH sube tarde), en transfundidos (la sangre del donante enmascara los resultados; si es posible, se toma antes de transfundir) y con nutrición parenteral (falsos positivos)."
+    },
+    {
+      "q": "Un prematuro ha estado 7 días en la UCI neonatal recibiendo gentamicina. Para el cribado de hipoacusia, lo correcto es:",
+      "o": ["Realizar otoemisiones acústicas; si «pasa», se descarta la hipoacusia", "Realizar potenciales evocados auditivos de tronco cerebral como prueba inicial", "No realizar cribado hasta los 6 meses", "Realizar una audiometría tonal"],
+      "a": 1,
+      "e": "Las otoemisiones solo valoran la cóclea y no detectan la neuropatía auditiva retrococlear. En los niños con factores de riesgo (UCI neonatal > 5 días, aminoglucósidos, gran prematuridad, TORCH, exanguinotransfusión, meningitis) la prueba inicial son los potenciales evocados de tronco."
+    },
+    {
+      "q": "En el cribado de cardiopatías congénitas críticas con pulsioximetría, se considera resultado negativo (normal):",
+      "o": ["SpO₂ ≥ 90% en la mano izquierda", "SpO₂ ≥ 95% en el pie, sin medir la mano", "SpO₂ ≥ 95% en la mano derecha y en un pie, con diferencia entre ambos ≤ 3%", "SpO₂ entre 90 y 94% en ambas extremidades"],
+      "a": 2,
+      "e": "Se mide en la mano derecha (preductal) y en un pie (postductal). Negativo: ≥ 95% en ambos con diferencia ≤ 3%. Positivo: ≤ 90%. Dudoso (repetir): 90-94% o diferencia > 3%."
+    },
+    {
+      "q": "Respecto al crecimiento del lactante sano, es correcto:",
+      "o": ["Duplica el peso de nacimiento hacia los 4-5 meses y lo triplica al año", "Duplica el peso al año y lo triplica a los 2 años", "Pierde un 20% del peso los primeros días y lo recupera al mes", "La talla aumenta unos 10 cm durante el primer año"],
+      "a": 0,
+      "e": "Tras perder un 7-10% del peso los primeros 3-5 días (recuperado hacia el 10.º-14.º día), el lactante duplica el peso hacia los 4-5 meses y lo triplica al año. La talla aumenta unos 25 cm (≈ 50%) y el perímetro cefálico unos 12 cm el primer año."
+    },
+    {
+      "q": "Señale la afirmación correcta sobre el reflejo de Landau:",
+      "o": ["No está presente al nacer; aparece hacia los 4 meses", "Su ausencia en un recién nacido de 48 horas indica parálisis cerebral", "Desaparece hacia el mes de vida", "Es un reflejo arcaico que se explora con la caída brusca de la cabeza"],
+      "a": 0,
+      "e": "El Landau no existe en el recién nacido: aparece a los 4 meses (extensión de tronco y cabeza en suspensión ventral) y persiste hasta el año o más. La caída brusca de la cabeza es la maniobra del reflejo de Moro."
+    },
+    {
+      "q": "Al explorar el reflejo de Moro, un recién nacido extiende con fuerza el brazo derecho pero mantiene el izquierdo flácido y pegado al cuerpo. Debe sospecharse:",
+      "o": ["Una variante normal de la transición", "Una hipoglucemia", "Una fractura de clavícula izquierda o una parálisis braquial obstétrica", "Una ausencia fisiológica del reflejo por la edad"],
+      "a": 2,
+      "e": "El Moro es simétrico en el neonato sano. Un Moro asimétrico obliga a descartar fractura de clavícula homolateral (el traumatismo óseo obstétrico más frecuente) o lesión del plexo braquial (parálisis de Erb-Duchenne)."
+    },
+    {
+      "q": "Señale el hito del desarrollo correctamente relacionado con su edad aproximada:",
+      "o": ["Sedestación estable sin apoyo a los 2 meses", "Sostén cefálico completo a los 9 meses", "Pinza fina pulgar-índice a los 4 meses", "Angustia ante la separación de la figura de apego hacia los 8 meses"],
+      "a": 3,
+      "e": "La angustia por separación aparece hacia los 8 meses. El sostén cefálico se logra a los 3-4 meses, la sedestación sin apoyo hacia los 7-8 meses y la pinza fina hacia los 10-12 meses."
+    }
+  ]
+}

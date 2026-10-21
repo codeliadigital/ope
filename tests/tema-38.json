@@ -1,0 +1,187 @@
+{
+  "tema": 38,
+  "titulo": "Cuidados de enfermería a personas con problemas de salud mental. Otras alteraciones psíquicas. Prevención del suicidio. Valoración familiar y social. Apoyo al cuidador. Drogodependencias. Plan Nacional sobre Drogas",
+  "programa": "Valoración y cuidados de enfermería a personas con problemas de salud mental. Otras alteraciones psíquicas. Prevención y control ante el riesgo del suicidio. Valoración de la situación familiar y social. El apoyo al cuidador principal y familia. Drogodependencias. Plan Nacional sobre Drogas: generalidades.",
+  "preguntas": [
+    {
+      "q": "En el examen del estado mental, la percepción de un objeto o estímulo que no existe en la realidad se denomina:",
+      "o": ["Ilusión", "Alucinación", "Idea delirante", "Idea sobrevalorada"],
+      "a": 1,
+      "e": "La alucinación es una percepción sin objeto real; la ilusión es la deformación de un estímulo real. El delirio es una alteración del contenido del pensamiento (creencia falsa e irreductible)."
+    },
+    {
+      "q": "El paso muy rápido de un tema a otro en el discurso, sin llegar a concluir el anterior, se denomina:",
+      "o": ["Bloqueo del pensamiento", "Bradilalia", "Disgregación", "Fuga de ideas"],
+      "a": 3,
+      "e": "La fuga de ideas es típica de la manía. La disgregación es la pérdida del hilo asociativo, el bloqueo es la interrupción brusca del pensamiento y la bradilalia, la lentitud del habla."
+    },
+    {
+      "q": "La sensación subjetiva de inquietud motora que obliga al paciente a moverse constantemente, frecuente con antipsicóticos, se denomina:",
+      "o": ["Acatisia", "Catatonía", "Distonía aguda", "Discinesia tardía"],
+      "a": 0,
+      "e": "La acatisia es una inquietud motora subjetiva y forma parte de los síntomas extrapiramidales, junto a la distonía aguda, el parkinsonismo y la discinesia tardía."
+    },
+    {
+      "q": "Respecto a la ansiedad en las taxonomías enfermeras, es correcto que:",
+      "o": ["«Nivel de ansiedad» es un diagnóstico NANDA", "«Ansiedad» es una intervención NIC", "«Nivel de ansiedad» (1211) es un resultado NOC y «Ansiedad» (00146) es un diagnóstico NANDA", "Ambos son resultados NOC"],
+      "a": 2,
+      "e": "Ansiedad (00146) y Estrés por sobrecarga (00177) son diagnósticos NANDA-I; Nivel de ansiedad (1211) y Nivel de estrés (1212) son resultados NOC que miden su evolución."
+    },
+    {
+      "q": "Ante un paciente con agitación psicomotriz, la primera medida que debe intentarse es:",
+      "o": ["La contención verbal (desescalada)", "La contención mecánica inmediata", "La contención farmacológica intramuscular", "El aislamiento en una habitación cerrada con llave"],
+      "a": 0,
+      "e": "La escalada es: contención verbal (tono calmado, distancia de seguridad, ofrecer opciones), medidas ambientales y medicación oral voluntaria, contención farmacológica y, solo si todo fracasa o hay urgencia vital, contención mecánica."
+    },
+    {
+      "q": "Durante una contención mecánica, el paciente debe quedar:",
+      "o": ["En decúbito prono para evitar la aspiración", "En decúbito lateral con la cama plana", "En sedestación sin sujeciones", "En decúbito supino con la cabecera de la cama elevada"],
+      "a": 3,
+      "e": "Se sujeta en decúbito supino con la cabecera elevada (el manual indica 45°) para prevenir la broncoaspiración, salvo contraindicación. El decúbito prono está contraindicado por riesgo de asfixia."
+    },
+    {
+      "q": "Respecto a la indicación de la contención mecánica, es correcto:",
+      "o": ["Es una decisión exclusiva de la enfermera que no precisa registro", "La indica el médico por escrito, aunque en una urgencia extrema enfermería puede iniciarla y avisar de inmediato al médico", "Puede aplicarse como castigo ante conductas inadecuadas", "Puede mantenerse indefinidamente para comodidad del equipo"],
+      "a": 1,
+      "e": "La contención es una medida excepcional, proporcionada y lo más breve posible. La indicación es médica y debe registrarse; en caso de riesgo inminente, enfermería puede iniciarla y comunicarlo inmediatamente al médico. Nunca es un castigo."
+    },
+    {
+      "q": "En un paciente tratado con sales de litio, se considera tóxica una litemia superior a:",
+      "o": ["0,3 mEq/l", "0,6 mEq/l", "1,5 mEq/l", "5 mEq/l"],
+      "a": 2,
+      "e": "El rango terapéutico de mantenimiento es 0,6-1,2 mEq/l y por encima de 1,5 mEq/l aparece toxicidad (temblor grosero, ataxia, disartria, diarrea, vómitos, confusión). El litio tiene un margen terapéutico estrecho."
+    },
+    {
+      "q": "A un paciente en tratamiento con litio que presenta edemas leves se le debe aconsejar:",
+      "o": ["Mantener una ingesta normal de sal y una buena hidratación", "Una dieta sin sal estricta", "Restringir los líquidos", "Tomar diuréticos por su cuenta"],
+      "a": 0,
+      "e": "La deshidratación y las dietas pobres en sodio hacen que el riñón reabsorba más litio y precipitan la intoxicación. El paciente debe mantener una ingesta de sal y líquidos normal y constante."
+    },
+    {
+      "q": "Un paciente en tratamiento con un IMAO debe evitar alimentos ricos en tiramina, como:",
+      "o": ["Leche y yogur fresco", "Arroz y pasta", "Pollo y pescado frescos", "Quesos curados, embutidos, ahumados y vino tinto"],
+      "a": 3,
+      "e": "Los IMAO impiden la degradación de la tiramina, cuya acumulación provoca crisis hipertensivas graves. Deben evitarse quesos curados, embutidos, ahumados, conservas, habas, cerveza y vino tinto."
+    },
+    {
+      "q": "Un paciente tratado con haloperidol presenta una crisis oculógira y tortícolis. El fármaco de elección para revertirla es:",
+      "o": ["Flumazenilo", "Biperideno intramuscular", "Naloxona", "Más dosis de haloperidol"],
+      "a": 1,
+      "e": "Las distonías agudas son síntomas extrapiramidales de los antipsicóticos típicos y se tratan con anticolinérgicos, siendo el biperideno IM el de elección en urgencias."
+    },
+    {
+      "q": "Un paciente con antipsicóticos presenta fiebre alta, rigidez muscular «en tubo de plomo», sudoración, tensión inestable y alteración de la conciencia. Debe sospecharse:",
+      "o": ["Discinesia tardía", "Acatisia", "Síndrome neuroléptico maligno", "Intoxicación por litio"],
+      "a": 2,
+      "e": "El síndrome neuroléptico maligno, potencialmente mortal, cursa con hipertermia, rigidez, inestabilidad autonómica y alteración del nivel de conciencia. Es una urgencia que obliga a suspender el antipsicótico."
+    },
+    {
+      "q": "El predictor clínico más potente de suicidio consumado es:",
+      "o": ["Un intento de suicidio previo", "Ser mujer", "Estar casado", "Tener una edad entre 25 y 35 años"],
+      "a": 0,
+      "e": "El intento previo es el factor predictor más potente. La depresión es el trastorno más asociado, y también aumentan el riesgo el sexo masculino, el alcohol, la falta de apoyo social, las pérdidas y las enfermedades crónicas."
+    },
+    {
+      "q": "Según la escala SAD PERSONS, una puntuación de 5-6 indica:",
+      "o": ["Riesgo bajo: alta sin seguimiento", "Riesgo moderado: solo seguimiento por su médico de familia", "Ausencia de riesgo", "Que se recomienda el ingreso hospitalario, sobre todo si no tiene apoyo social"],
+      "a": 3,
+      "e": "SAD PERSONS: 0-2 alta con seguimiento; 3-4 seguimiento estrecho y derivación preferente; 5-6 ingreso recomendado; 7-10 ingreso obligado e inmediato."
+    },
+    {
+      "q": "En la escala SAD PERSONS, la letra «O» corresponde a:",
+      "o": ["Obesidad", "Plan organizado (método definido y acceso a él)", "Ocupación laboral", "Orientación temporoespacial"],
+      "a": 1,
+      "e": "Las letras son: Sexo masculino, Age (edad), Depresión, Previo intento, Etanol, Racionalidad perdida, Soporte social escaso, Organized plan (plan organizado), No spouse (sin pareja) y Sickness (enfermedad). Cada ítem presente suma 1 punto."
+    },
+    {
+      "q": "En el Código Riesgo Suicida del Servicio Murciano de Salud, cuando un paciente atendido por un intento de suicidio no precisa ingreso:",
+      "o": ["Se le da el alta sin seguimiento específico", "Se le cita en su centro de salud dentro de seis meses", "Se activa el código al alta para garantizar una cita preferente y seguimiento proactivo en su centro de salud mental", "Se le deriva solo a urgencias si vuelve a intentarlo"],
+      "a": 2,
+      "e": "Tras la estabilización y la valoración por psiquiatría, si no hay criterio de ingreso se activa el Código Riesgo Suicida, que asegura una cita preferente y un seguimiento proactivo en el centro de salud mental, para reducir la repetición y garantizar la continuidad asistencial."
+    },
+    {
+      "q": "El cuestionario Apgar familiar de Smilkstein:",
+      "o": ["Valora mediante 5 preguntas la satisfacción del paciente con el funcionamiento de su familia", "Es una escala de vitalidad del recién nacido", "Mide la sobrecarga del cuidador", "Valora el riesgo social de los mayores de 65 años"],
+      "a": 0,
+      "e": "El Apgar familiar explora Adaptación, Participación, Grado de crecimiento, Afecto y Resolución. Se puntúa de 0 a 10: 7-10 familia normofuncional, 4-6 disfunción leve y 0-3 disfunción grave."
+    },
+    {
+      "q": "La escala de valoración sociofamiliar de Gijón valora en las personas mayores:",
+      "o": ["La capacidad para las actividades básicas de la vida diaria", "El deterioro cognitivo", "El riesgo de úlceras por presión", "La situación familiar, económica, la vivienda, las relaciones sociales y los apoyos"],
+      "a": 3,
+      "e": "La escala de Gijón es heteroadministrada y valora cinco áreas (situación familiar, económica, vivienda, relaciones sociales y apoyos), cada una de 1 a 5, con un total de 5 a 25 puntos: a mayor puntuación, mayor riesgo social."
+    },
+    {
+      "q": "En la escala de recursos sociales OARS (Duke), se consideran recursos sociales buenos cuando:",
+      "o": ["El paciente vive solo y no recibe visitas", "Existe al menos una persona dispuesta a cuidarle de forma indefinida", "Solo cuenta con ayuda ocasional", "Tiene ingresos superiores al salario mínimo"],
+      "a": 1,
+      "e": "Recursos buenos o excelentes: hay alguien dispuesto a cuidarle indefinidamente; medianamente deteriorados: alguien puede cuidarle unas 6 semanas; muy deteriorados: solo ayuda ocasional; y sin recursos."
+    },
+    {
+      "q": "La hija de una paciente con demencia manifiesta agotamiento físico y emocional por los cuidados. El diagnóstico NANDA adecuado es:",
+      "o": ["Riesgo de cansancio del rol de cuidador", "Afrontamiento familiar comprometido sin más", "Cansancio del rol de cuidador", "Deterioro parental"],
+      "a": 2,
+      "e": "Si el agotamiento ya está presente, el diagnóstico es Cansancio del rol de cuidador (00061). Riesgo de cansancio del rol de cuidador (00062) se usa cuando hay factores de vulnerabilidad pero aún no hay agotamiento."
+    },
+    {
+      "q": "En la escala de sobrecarga de Zarit original de 22 ítems, el rango de puntuación es:",
+      "o": ["De 0 a 88 puntos", "De 22 a 110 puntos", "De 0 a 22 puntos", "De 0 a 100 puntos"],
+      "a": 0,
+      "e": "Cada ítem se puntúa de 0 (nunca) a 4 (casi siempre): 22 × 4 = 88. Interpretación: ≤ 46 sin sobrecarga, 47-55 leve y ≥ 56 intensa."
+    },
+    {
+      "q": "Según su efecto sobre el sistema nervioso central, la cocaína se clasifica como:",
+      "o": ["Depresora", "Perturbadora o alucinógena", "Hipnosedante", "Estimulante"],
+      "a": 3,
+      "e": "Depresoras: alcohol, opiáceos, hipnosedantes. Estimulantes: cocaína, anfetaminas, nicotina, cafeína. Perturbadoras: LSD, cannabis, psilocibina."
+    },
+    {
+      "q": "Respecto a la escala CIWA-Ar para la valoración de la abstinencia alcohólica, es correcto:",
+      "o": ["Incluye la frecuencia cardíaca, la tensión arterial y la temperatura", "No incluye constantes vitales: valora 10 síntomas y signos como temblor, sudoración, ansiedad o alucinaciones", "Tiene una puntuación máxima de 10", "Solo puede aplicarse a pacientes plenamente colaboradores"],
+      "a": 1,
+      "e": "La CIWA-Ar valora 10 ítems (nueve de 0 a 7 y la orientación de 0 a 4; máximo 67) y no incluye constantes vitales. Requiere poca colaboración del paciente. Con puntuaciones moderadas o graves se tratan con benzodiacepinas y se reevalúa con frecuencia."
+    },
+    {
+      "q": "El tratamiento del síndrome de abstinencia alcohólica moderado-grave se basa en:",
+      "o": ["Antipsicóticos en monoterapia", "Naloxona intravenosa", "Benzodiacepinas (diazepam, lorazepam) y aporte de tiamina", "Disulfiram"],
+      "a": 2,
+      "e": "Las benzodiacepinas tienen tolerancia cruzada con el alcohol y previenen las convulsiones y el delirium tremens; se asocia tiamina (B1). El disulfiram se usa en la deshabituación, no en la abstinencia aguda."
+    },
+    {
+      "q": "La tríada clásica de la intoxicación por opiáceos es:",
+      "o": ["Depresión respiratoria, disminución del nivel de conciencia y miosis puntiforme", "Taquicardia, hipertensión y midriasis", "Hipertermia, rigidez y sudoración", "Temblor, alucinaciones visuales y convulsiones"],
+      "a": 0,
+      "e": "Los opiáceos producen bradipnea o apnea, estupor o coma y miosis puntiforme. Se trata con soporte ventilatorio y naloxona. La midriasis con taquicardia e hipertensión orienta a estimulantes como la cocaína."
+    },
+    {
+      "q": "Un paciente con sobredosis de heroína recupera la conciencia tras recibir naloxona. La actuación correcta es:",
+      "o": ["Darle el alta inmediata, ya que ha revertido", "Administrar flumazenilo de forma preventiva", "Retirar la monitorización", "Mantenerlo en observación porque la naloxona tiene una vida media corta y puede reaparecer la depresión respiratoria"],
+      "a": 3,
+      "e": "La naloxona dura 30-60 minutos, menos que el opiáceo. Al desaparecer su efecto puede producirse una resedación con apnea, por lo que el paciente debe seguir vigilado."
+    },
+    {
+      "q": "En los programas de mantenimiento con agonistas opioides, el fármaco más utilizado es:",
+      "o": ["La naloxona", "La metadona, administrada por vía oral con dispensación supervisada", "La naltrexona intravenosa", "El fentanilo transdérmico"],
+      "a": 1,
+      "e": "La metadona es un agonista opioide de larga duración que, administrada por vía oral bajo supervisión, controla el craving y la abstinencia sin producir la euforia de la heroína."
+    },
+    {
+      "q": "La encuesta EDADES del Observatorio Español de las Drogas y las Adicciones se dirige a:",
+      "o": ["Estudiantes de 14 a 18 años", "Mayores de 65 años", "Población general de 15 a 64 años residente en hogares", "Únicamente a personas en tratamiento"],
+      "a": 2,
+      "e": "EDADES es una encuesta bienal a la población general de 15 a 64 años. ESTUDES, también bienal, se dirige a estudiantes de enseñanzas secundarias de 14 a 18 años."
+    },
+    {
+      "q": "Una intervención educativa dirigida a un grupo de adolescentes que ya consumen cannabis los fines de semana, sin criterios de dependencia, es prevención:",
+      "o": ["Universal", "Selectiva", "Primordial", "Indicada"],
+      "a": 3,
+      "e": "La prevención universal se dirige a toda la población; la selectiva, a grupos vulnerables que aún no consumen (por ejemplo, hijos de padres alcohólicos); la indicada, a personas que ya consumen o tienen problemas iniciales, para frenar la progresión."
+    },
+    {
+      "q": "Según las encuestas del Plan Nacional sobre Drogas, la droga ilegal más consumida en España es:",
+      "o": ["El cannabis", "La cocaína", "El éxtasis", "La heroína"],
+      "a": 0,
+      "e": "Las sustancias más consumidas son el alcohol, el tabaco y los hipnosedantes (con predominio femenino); el cannabis es la droga ilegal más consumida. El PNSD se creó en 1985 y su Delegación depende del Ministerio de Sanidad."
+    }
+  ]
+}

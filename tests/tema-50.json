@@ -1,0 +1,187 @@
+{
+  "tema": 50,
+  "titulo": "Valoración y cuidados de enfermería del paciente quirúrgico. Preoperatorio e intraoperatorio",
+  "programa": "Valoración y cuidados de enfermería del paciente quirúrgico en el preoperatorio (valoración, preparación, ayuno, medicación, consentimiento) y en el intraoperatorio (bloque quirúrgico, listado de verificación, funciones de enfermería, monitorización, posiciones, seguridad, asepsia, instrumental, suturas y anestesia).",
+  "preguntas": [
+    {
+      "q": "La fase preoperatoria finaliza:",
+      "o": ["Cuando el paciente ingresa en el hospital", "Cuando el paciente entra en el área quirúrgica", "Tras la firma del consentimiento informado", "Cuando el paciente es trasladado a la mesa quirúrgica"],
+      "a": 3,
+      "e": "El preoperatorio comienza con la decisión de operar y termina con el traslado a la mesa de quirófano, donde empieza el intraoperatorio."
+    },
+    {
+      "q": "Según las recomendaciones actuales de ayuno preoperatorio, los líquidos claros (agua, zumo sin pulpa) pueden tomarse hasta:",
+      "o": ["2 horas antes de la anestesia", "4 horas antes", "6 horas antes", "8 horas antes"],
+      "a": 0,
+      "e": "Líquidos claros, 2 h; leche materna, 4 h; comida ligera o leche de fórmula, 6 h; comida copiosa o grasa, 8 h. El ayuno prolongado aumenta la resistencia a la insulina inducida por el estrés."
+    },
+    {
+      "q": "Si es necesario eliminar el vello de la zona quirúrgica, se recomienda:",
+      "o": ["Rasurar con cuchilla la noche anterior", "Usar crema depilatoria 24 horas antes", "Usar una cortadora eléctrica (clíper) inmediatamente antes de la intervención", "Rasurar con cuchilla en el propio quirófano"],
+      "a": 2,
+      "e": "La cuchilla produce microabrasiones que se colonizan y aumentan la infección del sitio quirúrgico. Como norma, el vello no se elimina salvo que interfiera con la intervención."
+    },
+    {
+      "q": "¿Qué fármaco se suspende habitualmente 24-48 horas antes de una cirugía por el riesgo de acidosis láctica?",
+      "o": ["El bisoprolol", "La metformina", "La levotiroxina", "El salbutamol inhalado"],
+      "a": 1,
+      "e": "La glucemia se controla después con insulina según la glucemia capilar. Los betabloqueantes, los tiroideos, los antiepilépticos y los inhaladores se mantienen para evitar efectos rebote."
+    },
+    {
+      "q": "La profilaxis antibiótica quirúrgica con cefazolina debe administrarse:",
+      "o": ["Dentro de los 60 minutos previos a la incisión", "En la planta, unas 3 horas antes de bajar a quirófano", "Al finalizar la intervención", "Durante las 24 horas previas"],
+      "a": 0,
+      "e": "Así hay niveles tisulares máximos en el momento del corte. La vancomicina y las fluoroquinolonas se inician hasta 120 minutos antes por su infusión lenta. Se redosifica si la cirugía dura más de 4 horas o el sangrado supera 1.500 ml."
+    },
+    {
+      "q": "Respecto al consentimiento informado quirúrgico, la función de la enfermera es:",
+      "o": ["Explicar los riesgos de la intervención y recoger la firma", "Firmar como testigo en lugar del paciente", "Cumplimentar un único documento para cirugía y anestesia", "Comprobar que existen los documentos firmados y avisar al médico si el paciente tiene dudas"],
+      "a": 3,
+      "e": "Informar y recoger la firma corresponde al médico responsable. Cirugía y anestesia tienen documentos separados, y el paciente puede revocar el consentimiento por escrito en cualquier momento sin justificarlo."
+    },
+    {
+      "q": "En la zona del bloque quirúrgico donde es obligatorio el uso de mascarilla, además del pijama, gorro y calzado específico, es:",
+      "o": ["La zona negra", "La zona gris", "La zona blanca (quirófano)", "La zona de recepción de pacientes"],
+      "a": 2,
+      "e": "En la zona negra se puede circular con ropa de calle o pijama hospitalario; la gris exige pijama quirúrgico, gorro y calzado o calzas; en la blanca se añade la mascarilla."
+    },
+    {
+      "q": "En el listado de verificación quirúrgica de la OMS, la «pausa quirúrgica» (time out) se realiza:",
+      "o": ["Antes de la inducción anestésica", "Antes de la incisión cutánea", "Antes de que el paciente salga del quirófano", "Al llegar a la URPA"],
+      "a": 1,
+      "e": "La entrada (sign in) se hace antes de la inducción, la pausa antes de la incisión y la salida (sign out) antes de que el paciente abandone el quirófano. En la pausa se confirma, entre otras cosas, la profilaxis antibiótica."
+    },
+    {
+      "q": "Durante la fase de salida del listado de verificación, el recuento de gasas no coincide. La actuación correcta es:",
+      "o": ["Cerrar y anotarlo en la historia", "Buscar la gasa en los cubos de basura y continuar", "Repetir el recuento solo al día siguiente", "Avisar al equipo y solicitar una radiografía intraoperatoria antes del cierre"],
+      "a": 3,
+      "e": "El recuento evita dejar un cuerpo extraño (oblito). Se hace al inicio, al cerrar cavidades y al cerrar la piel. En la salida también se verifica el etiquetado de las muestras."
+    },
+    {
+      "q": "El recuento de gasas, compresas, agujas e instrumental en el quirófano es responsabilidad de:",
+      "o": ["La enfermera instrumentista y la enfermera circulante", "La enfermera instrumentista exclusivamente", "El cirujano principal", "El anestesiólogo"],
+      "a": 0,
+      "e": "Es una responsabilidad compartida. La circulante, además, custodia y etiqueta las muestras y registra los lotes de los implantes."
+    },
+    {
+      "q": "La maniobra de Sellick consiste en:",
+      "o": ["Presionar el cartílago tiroides para ver mejor la glotis", "Elevar la mandíbula para abrir la vía aérea", "Presionar el cartílago cricoides para ocluir el esófago y reducir el riesgo de broncoaspiración", "Hiperextender el cuello para facilitar la intubación"],
+      "a": 2,
+      "e": "La hace la enfermera de anestesia en la intubación de secuencia rápida y la mantiene hasta que se infla el balón del tubo. La presión sobre el tiroides para mejorar la visión es la maniobra BURP."
+    },
+    {
+      "q": "El método más fiable para confirmar de inmediato que el tubo endotraqueal está en la tráquea es:",
+      "o": ["La pulsioximetría", "La capnografía (ETCO₂)", "La auscultación del epigastrio", "La radiografía de abdomen"],
+      "a": 1,
+      "e": "Si no aparece onda de capnografía, el tubo probablemente está en el esófago. Una caída brusca del ETCO₂ sugiere desconexión, TEP o parada, y un aumento progresivo, hipoventilación o hipertermia maligna."
+    },
+    {
+      "q": "Antes de canalizar la arteria radial para monitorizar la presión arterial invasiva, se debe realizar:",
+      "o": ["El test de Allen, para comprobar la circulación colateral por la arteria cubital", "El test de Trendelenburg", "La maniobra de Valsalva", "La prueba de Mantoux"],
+      "a": 0,
+      "e": "Se comprimen las arterias radial y cubital y se libera la cubital: si la mano recupera el color en 10-15 segundos, la circulación colateral es suficiente."
+    },
+    {
+      "q": "Durante el mantenimiento de una anestesia general, el valor del índice biespectral (BIS) que se busca es:",
+      "o": ["90-100", "70-80", "0-20", "40-60"],
+      "a": 3,
+      "e": "Un BIS de 90-100 corresponde al paciente despierto y por debajo de 40 la anestesia es excesivamente profunda. Antes de colocar el sensor se limpia la frente con alcohol."
+    },
+    {
+      "q": "En la posición de litotomía, la compresión de la cabeza del peroné contra las perneras puede lesionar:",
+      "o": ["El nervio cubital", "El nervio ciático poplíteo externo (peroneo), con pie caído", "El plexo braquial", "El nervio femoral"],
+      "a": 1,
+      "e": "Las perneras deben estar bien acolchadas. Además, las piernas se suben y se bajan despacio y a la vez, porque al bajarlas puede aparecer una hipotensión brusca."
+    },
+    {
+      "q": "En decúbito supino con los brazos en los apoyabrazos, la abducción no debe superar los 90° para evitar:",
+      "o": ["Una úlcera en el sacro", "La compresión ocular", "La lesión del plexo braquial", "El síndrome compartimental de la pierna"],
+      "a": 2,
+      "e": "En supino se protegen además el occipucio, las escápulas, los codos, el sacro y los talones. En prono, los puntos de riesgo son la frente, los ojos, el acromion, las rodillas y los dedos de los pies."
+    },
+    {
+      "q": "Se considera hipotermia perioperatoria inadvertida una temperatura central inferior a:",
+      "o": ["36 °C", "37 °C", "35 °C", "34 °C"],
+      "a": 0,
+      "e": "La mayor caída se produce en la primera hora tras la inducción. La hipotermia aumenta el sangrado, la isquemia miocárdica y la infección del sitio quirúrgico; se previene con precalentamiento, mantas de aire caliente y calentadores de fluidos."
+    },
+    {
+      "q": "La placa neutra del bisturí eléctrico monopolar debe colocarse:",
+      "o": ["Sobre una prominencia ósea para mejor contacto", "Sobre una cicatriz antigua", "Junto a la prótesis metálica del paciente", "Sobre una masa muscular amplia y bien vascularizada, lo más cerca posible del campo quirúrgico"],
+      "a": 3,
+      "e": "Se evitan las prominencias óseas, las cicatrices, el tejido graso, el vello (se recorta) y las prótesis metálicas, porque la corriente se concentraría y produciría quemaduras."
+    },
+    {
+      "q": "En un paciente portador de marcapasos, el sistema de electrocirugía más seguro es:",
+      "o": ["El monopolar con la placa sobre el tórax", "El monopolar a máxima potencia", "El bipolar, que no necesita placa neutra", "Cualquiera, el marcapasos no se ve afectado"],
+      "a": 2,
+      "e": "En el bipolar la corriente solo pasa entre las dos puntas de la pinza. Si se usa el monopolar, el circuito entre el bisturí y la placa no debe atravesar el corazón ni el generador."
+    },
+    {
+      "q": "Si se produce fuego dentro del tubo endotraqueal durante una cirugía de vía aérea, la primera actuación es:",
+      "o": ["Retirar inmediatamente el tubo endotraqueal", "Aumentar el oxígeno al 100%", "Echar suero por el tubo sin retirarlo", "Esperar a que se extinga solo"],
+      "a": 0,
+      "e": "Después se corta el flujo de gases y se vierte suero frío en la vía aérea. Para que haya fuego se necesita comburente (O₂, N₂O), una fuente de ignición y combustible, como los antisépticos alcohólicos mal secados."
+    },
+    {
+      "q": "Una muestra para biopsia intraoperatoria (por congelación) debe enviarse:",
+      "o": ["En formol al 10%", "En fresco, sin ningún fijador", "En alcohol de 70°", "En suero glucosado"],
+      "a": 1,
+      "e": "El formol impide la congelación y el diagnóstico rápido. Las piezas para estudio diferido se fijan en formol al 10% (10 veces el volumen de la pieza), y las de microbiología nunca llevan formol."
+    },
+    {
+      "q": "La tijera de Metzenbaum se caracteriza por:",
+      "o": ["Usarse para cortar hilos de sutura y gasas", "Ser una pinza de hemostasia", "Ser un separador autoestático", "Ser fina y ligera, diseñada para disecar tejidos blandos, y no debe usarse para cortar hilos"],
+      "a": 3,
+      "e": "La tijera de Mayo, más fuerte, se usa para cortar hilos y tejidos duros. Cortar hilos con la Metzenbaum la deja sin filo."
+    },
+    {
+      "q": "De los siguientes calibres de hilo de sutura, ¿cuál es el más fino?",
+      "o": ["0", "2/0", "6/0", "3/0"],
+      "a": 2,
+      "e": "Cuantos más ceros, menor diámetro. Los hilos 6/0 o más finos se usan en microcirugía, anastomosis vasculares y suturas faciales."
+    },
+    {
+      "q": "Según la clasificación ASA, una mujer embarazada sin otras enfermedades corresponde a:",
+      "o": ["ASA II", "ASA I", "ASA III", "ASA IV"],
+      "a": 0,
+      "e": "El embarazo, el tabaquismo o la obesidad no mórbida se consideran enfermedad sistémica leve (ASA II). La obesidad mórbida es ASA III, el infarto en los últimos 3 meses ASA IV y el donante en muerte encefálica ASA VI."
+    },
+    {
+      "q": "La clasificación de Mallampati se valora:",
+      "o": ["Durante la laringoscopia, con el paciente anestesiado", "Con el paciente sentado y despierto, con la boca abierta y la lengua fuera, sin fonar", "Con el paciente en decúbito supino y el cuello en hiperextensión", "Tras la extubación en la URPA"],
+      "a": 1,
+      "e": "Es predictiva: la clase IV (solo se ve el paladar duro) anticipa una intubación difícil. Decir «aaah» eleva el paladar y falsea el resultado. La escala de Cormack-Lehane se valora durante la laringoscopia."
+    },
+    {
+      "q": "El signo más precoz de hipertermia maligna durante una anestesia general es:",
+      "o": ["La fiebre por encima de 40 °C", "La bradicardia extrema", "La hipotensión aislada", "La elevación brusca e inexplicable del ETCO₂ y la rigidez del masetero"],
+      "a": 3,
+      "e": "La fiebre es un signo tardío. Se suspenden los halogenados y la succinilcolina, se ventila con O₂ al 100% y se administra dantroleno, que se reconstituye con 60 ml de agua estéril, nunca con suero."
+    },
+    {
+      "q": "La cefalea pospunción dural tras una anestesia intradural se caracteriza por:",
+      "o": ["Ser constante e independiente de la postura", "Aparecer solo en decúbito", "Empeorar al incorporarse o ponerse de pie y mejorar al tumbarse", "Acompañarse siempre de fiebre"],
+      "a": 2,
+      "e": "Se debe a la fuga de LCR por el orificio de la duramadre. Se previene con agujas finas de punta de lápiz. El efecto adverso más inmediato de las técnicas neuroaxiales es la hipotensión."
+    },
+    {
+      "q": "Está contraindicado usar anestésico local con adrenalina (vasoconstrictor) para infiltrar:",
+      "o": ["Un dedo de la mano", "La piel del abdomen", "La espalda", "El muslo"],
+      "a": 0,
+      "e": "En zonas de circulación terminal (dedos, pene, punta de la nariz, lóbulo de la oreja) puede producir isquemia y necrosis. En el resto de zonas, la adrenalina prolonga el efecto y reduce la toxicidad sistémica."
+    },
+    {
+      "q": "Según el código de colores ISO para el etiquetado de jeringas en anestesia, los relajantes musculares se identifican con el color:",
+      "o": ["Amarillo", "Azul", "Gris", "Rojo"],
+      "a": 3,
+      "e": "Hipnóticos en amarillo, opioides en azul, vasopresores en violeta, anticolinérgicos en verde, anestésicos locales en gris y reversores del bloqueo con rayas rojas y blancas. La etiqueta lleva el principio activo, la concentración y las iniciales de quien la prepara."
+    },
+    {
+      "q": "Según el proyecto Infección Quirúrgica Zero, el antiséptico de elección para preparar la piel del campo quirúrgico es:",
+      "o": ["La povidona yodada acuosa", "La clorhexidina alcohólica al 2%", "El alcohol de 70° solo", "El agua oxigenada"],
+      "a": 1,
+      "e": "El paquete IQZ incluye profilaxis antibiótica en los 60 minutos previos, clorhexidina alcohólica al 2%, eliminación del vello solo con cortadora eléctrica si hace falta, normotermia y glucemia por debajo de 180 mg/dl."
+    }
+  ]
+}

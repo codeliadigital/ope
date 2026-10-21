@@ -1,0 +1,187 @@
+{
+  "tema": 47,
+  "titulo": "Valoración y cuidados de enfermería a personas con problemas endocrinológicos. Diabetes. Otros problemas. Procedimientos y técnicas de enfermería",
+  "programa": "Valoración y cuidados de enfermería a personas con problemas endocrinológicos. Diabetes mellitus: diagnóstico, complicaciones agudas y crónicas, pie diabético, insulinoterapia y educación. Otros problemas: tiroides, suprarrenales, paratiroides e hipófisis. Procedimientos y técnicas de enfermería.",
+  "preguntas": [
+    {
+      "q": "Es criterio diagnóstico de diabetes mellitus, confirmado en un segundo día:",
+      "o": ["Una glucemia plasmática en ayunas igual o superior a 126 mg/dl", "Una glucemia en ayunas igual o superior a 100 mg/dl", "Una HbA1c igual o superior al 5,7%", "Una glucemia a las 2 h de la SOG igual o superior a 140 mg/dl"],
+      "a": 0,
+      "e": "Los criterios son glucemia basal ≥ 126 mg/dl, SOG con 75 g a las 2 h ≥ 200, HbA1c ≥ 6,5% o glucemia al azar ≥ 200 con síntomas (esta última no necesita confirmación). Los valores de 100, 5,7% y 140 corresponden a prediabetes."
+    },
+    {
+      "q": "La hemoglobina glucosilada (HbA1c) refleja el control glucémico de:",
+      "o": ["Los últimos 7 días", "Las últimas 2-3 semanas", "Los últimos 2-3 meses", "El último año"],
+      "a": 2,
+      "e": "Se relaciona con la vida media del hematíe (unos 90-120 días). En el seguimiento del diabético se determina cada 3-6 meses. No sirve para la reclasificación posparto."
+    },
+    {
+      "q": "Sobre el test de O'Sullivan para el cribado de la diabetes gestacional, es correcto que:",
+      "o": ["Requiere un ayuno de 8-14 horas", "Se administran 100 g de glucosa y se extrae sangre a las 3 horas", "Un resultado positivo confirma el diagnóstico de diabetes gestacional", "Se administran 50 g de glucosa sin necesidad de ayuno y se extrae sangre a la hora; es positivo si ≥ 140 mg/dl"],
+      "a": 3,
+      "e": "Se hace de forma universal en la semana 24-28. Durante la hora de espera la gestante permanece en reposo y sin fumar. Si es positivo, se confirma con una SOG de 100 g."
+    },
+    {
+      "q": "En la sobrecarga oral con 100 g de glucosa en la gestante, el diagnóstico de diabetes gestacional se establece cuando:",
+      "o": ["Un solo valor está alterado", "Dos o más valores están alterados", "La glucemia basal supera los 85 mg/dl", "Los cuatro valores están alterados"],
+      "a": 1,
+      "e": "Con un solo valor alterado se habla de intolerancia y se repite la prueba. Se determina la glucemia basal y a la 1, 2 y 3 horas. En la estrategia de un paso con 75 g (IADPSG), en cambio, basta un solo valor."
+    },
+    {
+      "q": "Un paciente obeso presenta un oscurecimiento aterciopelado de la piel del cuello que no desaparece al lavarse. Este signo sugiere:",
+      "o": ["Enfermedad de Addison", "Síndrome de Cushing", "Hipotiroidismo", "Resistencia a la insulina (acantosis nigricans)"],
+      "a": 3,
+      "e": "La acantosis nigricans en cuello y axilas es un marcador de resistencia a la insulina y de riesgo de DM2. La hiperpigmentación del Addison aparece en pliegues palmares, cicatrices y mucosas."
+    },
+    {
+      "q": "Un paciente diabético consciente y capaz de tragar tiene una glucemia capilar de 55 mg/dl. La actuación correcta es:",
+      "o": ["Darle 15 g de hidratos de carbono de absorción rápida y repetir la glucemia a los 15 minutos", "Administrar glucagón intramuscular", "Darle un bocadillo de pan integral", "Administrar insulina rápida y esperar"],
+      "a": 0,
+      "e": "Es la regla de los 15: si la glucemia sigue por debajo de 70 mg/dl se repite el ciclo. Cuando se normaliza, se dan hidratos de absorción lenta para evitar que recaiga. El glucagón se reserva para el paciente inconsciente."
+    },
+    {
+      "q": "Ante un diabético inconsciente por hipoglucemia en su domicilio, la actuación indicada es:",
+      "o": ["Darle zumo azucarado poco a poco", "Ponerle azúcar debajo de la lengua", "Administrar glucagón IM o SC y colocarlo en posición lateral de seguridad", "Esperar a que recupere la conciencia para darle hidratos"],
+      "a": 2,
+      "e": "Sin conciencia está contraindicada la vía oral por riesgo de broncoaspiración. El glucagón se reconstituye antes de inyectarlo y puede producir vómitos, de ahí la PLS. Al despertar se le dan hidratos de carbono por boca."
+    },
+    {
+      "q": "El glucagón puede ser ineficaz para tratar una hipoglucemia grave en un paciente:",
+      "o": ["Con diabetes tipo 1 joven", "Alcohólico crónico o con hepatopatía avanzada", "Que ha hecho ejercicio intenso", "Que está en tratamiento con insulina basal"],
+      "a": 1,
+      "e": "El glucagón actúa liberando el glucógeno del hígado (glucogenólisis). Si no hay reservas hepáticas, no hay glucosa que liberar y es necesario administrar glucosa intravenosa hipertónica."
+    },
+    {
+      "q": "Un joven con diabetes tipo 1 llega a urgencias con respiración rápida y profunda, aliento afrutado, vómitos y dolor abdominal. Debe sospecharse:",
+      "o": ["Cetoacidosis diabética", "Estado hiperosmolar hiperglucémico", "Hipoglucemia grave", "Acidosis láctica por metformina"],
+      "a": 0,
+      "e": "La respiración de Kussmaul compensa la acidosis metabólica, y el olor a manzana o quitaesmalte se debe a la acetona. La cetoacidosis aparece por un déficit absoluto de insulina, a menudo tras suspenderla durante una enfermedad."
+    },
+    {
+      "q": "El estado hiperosmolar hiperglucémico se caracteriza por:",
+      "o": ["Acidosis metabólica grave con cetonuria intensa", "Aparecer sobre todo en niños con diabetes tipo 1", "Glucemias en torno a 250 mg/dl con respiración de Kussmaul", "Glucemia muy alta (> 600 mg/dl), deshidratación profunda y alteración de la conciencia, sin cetosis significativa"],
+      "a": 3,
+      "e": "Es típico del anciano con DM2. La poca insulina que conserva frena la cetogénesis, pero no la hiperglucemia, que provoca una diuresis osmótica intensa. Puede simular un ictus."
+    },
+    {
+      "q": "Ante un paciente en cetoacidosis diabética, la primera medida terapéutica es:",
+      "o": ["La perfusión de insulina rápida intravenosa", "La administración de bicarbonato", "La rehidratación intravenosa con suero salino isotónico al 0,9%", "La administración de insulina NPH subcutánea"],
+      "a": 2,
+      "e": "Lo primero es restaurar la volemia. Después, o a la vez, se repone potasio y se inicia la insulina regular en perfusión IV. Se coloca sonda vesical para medir la diuresis horaria."
+    },
+    {
+      "q": "¿Qué tipo de insulina puede administrarse por vía intravenosa en perfusión continua?",
+      "o": ["La insulina NPH", "La insulina rápida o regular", "La insulina glargina", "Las insulinas premezcladas"],
+      "a": 1,
+      "e": "Solo la insulina regular (humana rápida) se usa por vía IV. Las insulinas intermedias, basales y premezcladas son exclusivamente subcutáneas."
+    },
+    {
+      "q": "En el tratamiento de la cetoacidosis, el potasio debe reponerse de forma precoz porque:",
+      "o": ["El paciente siempre llega con hiperpotasemia grave", "El potasio mejora la acción de la insulina", "Previene la aparición de cetonas", "La insulina y la corrección de la acidosis introducen el potasio en las células, con riesgo de hipopotasemia y arritmias"],
+      "a": 3,
+      "e": "Aunque el potasio inicial sea normal o alto (la acidosis lo saca de las células), en cuanto se pone insulina entra en la célula y cae en sangre. Por eso se monitoriza y se repone KCl desde el principio."
+    },
+    {
+      "q": "En la exploración de la sensibilidad protectora del pie diabético con monofilamento:",
+      "o": ["Se usa el de 10 g, aplicado en perpendicular hasta que se doble, y nunca sobre callosidades o úlceras", "Se usa el de 5 g, aplicado sobre las zonas con más callo", "Se arrastra el filamento por la planta durante 5 segundos", "Se explora únicamente el dorso del pie"],
+      "a": 0,
+      "e": "Se exploran las cabezas del 1.º, 3.º y 5.º metatarsiano y los pulpejos, con el paciente con los ojos cerrados. La hiperqueratosis invalida la prueba. La sensibilidad vibratoria se valora con un diapasón de 128 Hz."
+    },
+    {
+      "q": "Un pie diabético caliente, con pulsos pedios presentes, una úlcera indolora en la cabeza del primer metatarsiano rodeada de callo, corresponde a:",
+      "o": ["Un pie isquémico", "Una gangrena localizada", "Un pie neuropático", "Una trombosis venosa profunda"],
+      "a": 2,
+      "e": "El pie neuropático conserva los pulsos, es indoloro y ulcera en las zonas de presión plantar. El isquémico es frío y pálido, no tiene pulsos, duele y ulcera en zonas distales como los dedos y los bordes."
+    },
+    {
+      "q": "Según la clasificación de Wagner, una úlcera profunda del pie diabético con osteomielitis corresponde al grado:",
+      "o": ["0", "1", "2", "3"],
+      "a": 3,
+      "e": "Grado 2: úlcera profunda que llega a tendón o cápsula sin afectar el hueso. Grado 3: profunda con absceso u osteomielitis. Grados 4 y 5: gangrena localizada y extensa."
+    },
+    {
+      "q": "En la educación para el cuidado de los pies de un paciente diabético, respecto al corte de uñas se recomienda:",
+      "o": ["Cortarlas en forma curva, apurando las esquinas", "Cortarlas rectas y limar los bordes", "Cortarlas con cuchilla después del baño", "No cortarlas nunca y esperar a que se rompan"],
+      "a": 1,
+      "e": "El corte curvo favorece la uña encarnada. Tampoco se deben usar callicidas ni cuchillas en los callos (derivar al podólogo). El agua se comprueba con el codo o un termómetro."
+    },
+    {
+      "q": "La zona de inyección subcutánea de insulina con absorción más rápida es:",
+      "o": ["El abdomen, respetando unos 5 cm alrededor del ombligo", "La cara anterolateral del muslo", "El cuadrante superoexterno de la nalga", "El deltoides"],
+      "a": 0,
+      "e": "El orden de velocidad es abdomen > brazos > muslos > nalgas. Las zonas más lentas son adecuadas para las insulinas basales. La rotación evita la lipohipertrofia, que hace la absorción errática."
+    },
+    {
+      "q": "Sobre la conservación de la insulina, es correcto que:",
+      "o": ["Las plumas sin empezar pueden guardarse en el congelador para que duren más", "La pluma en uso debe guardarse siempre en la nevera", "La pluma en uso puede mantenerse a temperatura ambiente, protegida del calor y la luz, durante unas 4 semanas", "Una vez abierta, la insulina caduca a las 48 horas"],
+      "a": 2,
+      "e": "Las plumas sin empezar se guardan en la nevera a 2-8 °C, nunca congeladas (la proteína se desnaturaliza y hay que desecharla). A temperatura ambiente la inyección duele menos."
+    },
+    {
+      "q": "Los sistemas de monitorización continua de glucosa (sensores) miden la glucosa en:",
+      "o": ["La sangre capilar", "La sangre venosa", "El sudor", "El líquido intersticial"],
+      "a": 3,
+      "e": "Como miden en el líquido intersticial, van con un retraso de unos 5-10 minutos respecto a la sangre. Si la glucosa baja muy deprisa, se confirma con una glucemia capilar. El tiempo en rango objetivo es 70-180 mg/dl."
+    },
+    {
+      "q": "Un paciente insulinizado presenta hiperglucemias al despertar. Se le mide la glucemia a las 3:00 h y se detecta una hipoglucemia. Se trata de:",
+      "o": ["El fenómeno del alba", "El efecto Somogyi", "Un estado hiperosmolar", "Una resistencia a la insulina nocturna"],
+      "a": 1,
+      "e": "El efecto Somogyi es una hiperglucemia de rebote tras una hipoglucemia nocturna por exceso de insulina: hay que reducir la dosis nocturna. En el fenómeno del alba la glucemia de las 3:00 h es normal o alta, y la dosis se aumenta o se retrasa."
+    },
+    {
+      "q": "La enfermera debe indicar que la insulina ultrarrápida (lispro, aspart) se administre:",
+      "o": ["Justo antes de empezar a comer", "Una hora antes de la comida", "Al acostarse", "Dos horas después de la comida"],
+      "a": 0,
+      "e": "Empieza a actuar en 5-15 minutos. La insulina regular humana tarda 30-60 minutos, por lo que se pone unos 30 minutos antes de comer."
+    },
+    {
+      "q": "Sobre la administración de levotiroxina, se debe educar al paciente para que:",
+      "o": ["La tome con el desayuno para evitar molestias gástricas", "La tome junto con el suplemento de hierro o calcio", "La tome por la noche con un vaso de leche", "La tome en ayunas, solo con agua, y espere antes de desayunar"],
+      "a": 3,
+      "e": "Su absorción es delicada: se espera antes del desayuno (el manual indica 60 minutos) y se separa al menos 4 horas del hierro, el calcio y los antiácidos. Hay que vigilar signos de sobredosis como taquicardia, insomnio o temblor."
+    },
+    {
+      "q": "Un paciente en tratamiento con tiamazol consulta por fiebre alta repentina y dolor de garganta intenso. Hay que sospechar:",
+      "o": ["Un hipotiroidismo iatrogénico", "Una tormenta tiroidea", "Una agranulocitosis por el antitiroideo", "Una reacción alérgica leve"],
+      "a": 2,
+      "e": "La agranulocitosis es el efecto adverso más grave de los antitiroideos. Se debe instruir al paciente para que, ante fiebre u odinofagia, acuda de inmediato a urgencias para hacerse un hemograma."
+    },
+    {
+      "q": "En un paciente con tormenta tiroidea e hipertermia de 41 °C, está contraindicado administrar:",
+      "o": ["Medidas físicas de enfriamiento", "Ácido acetilsalicílico (salicilatos)", "Betabloqueantes", "Sueroterapia intravenosa"],
+      "a": 1,
+      "e": "Los salicilatos desplazan a las hormonas tiroideas de sus proteínas de transporte y aumentan la fracción libre activa. En el coma mixedematoso, en cambio, lo contraindicado es el recalentamiento activo rápido."
+    },
+    {
+      "q": "Un paciente recién operado de tiroidectomía refiere hormigueo alrededor de los labios. La enfermera debe sospechar:",
+      "o": ["Una hipocalcemia por lesión de las glándulas paratiroides, y comprobar el signo de Chvostek", "Una lesión del nervio laríngeo recurrente", "Una crisis tirotóxica", "Un efecto normal de la anestesia"],
+      "a": 0,
+      "e": "Las paratiroides están pegadas al tiroides y pueden lesionarse en la cirugía. Chvostek: espasmo facial al percutir el nervio facial. Trousseau: espasmo del carpo al inflar el manguito. El estridor o la disfonía orientan al nervio recurrente o al edema."
+    },
+    {
+      "q": "En la enfermedad de Addison es característico encontrar:",
+      "o": ["Hipernatremia e hipopotasemia", "Hiperglucemia mantenida", "Obesidad troncal y estrías violáceas", "Hiponatremia, hiperpotasemia e hiperpigmentación cutánea"],
+      "a": 3,
+      "e": "La falta de aldosterona hace perder sodio y retener potasio, y el exceso de ACTH estimula los melanocitos. Además hay tendencia a la hipoglucemia y a la hipotensión. La obesidad troncal con estrías es propia del Cushing."
+    },
+    {
+      "q": "Ante una crisis addisoniana con shock, la actuación de enfermería prioritaria es administrar:",
+      "o": ["Noradrenalina como único tratamiento", "Levotiroxina intravenosa", "Hidrocortisona intravenosa en bolo (habitualmente 100 mg) y sueros isotónicos", "Furosemida intravenosa"],
+      "a": 2,
+      "e": "La crisis se desencadena por infecciones, cirugía o la suspensión brusca de los corticoides. Sin cortisol, el shock no responde a vasoactivos. No se debe esperar a la confirmación analítica."
+    },
+    {
+      "q": "En el control preoperatorio de la hipertensión de un feocromocitoma:",
+      "o": ["Se empieza con betabloqueantes", "Se inicia primero el bloqueo alfa-adrenérgico y después, si hace falta, el beta", "Se recomienda palpar el abdomen para localizar el tumor", "No se trata la tensión hasta la cirugía"],
+      "a": 1,
+      "e": "Un betabloqueante sin bloqueo alfa previo deja sin oposición la vasoconstricción alfa y desencadena una crisis hipertensiva. Palpar el abdomen puede liberar catecolaminas. Tras la cirugía se vigilan la hipotensión y la hipoglucemia."
+    },
+    {
+      "q": "El cuidado de enfermería prioritario en un paciente con síndrome de secreción inadecuada de ADH (SIADH) es:",
+      "o": ["La restricción hídrica (menos de 800-1.000 ml/día)", "Asegurar una ingesta abundante de agua", "Administrar desmopresina", "Administrar suero glucosado al 5% en perfusión rápida"],
+      "a": 0,
+      "e": "En el SIADH se retiene agua y aparece una hiponatremia dilucional, con riesgo de edema cerebral (vigilancia neurológica). En la diabetes insípida ocurre lo contrario: poliuria masiva, hay que asegurar el agua y se da desmopresina."
+    }
+  ]
+}

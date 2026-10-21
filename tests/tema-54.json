@@ -1,0 +1,187 @@
+{
+  "tema": 54,
+  "titulo": "Seguridad del paciente. Sistemas de notificación de incidentes. Calidad de la asistencia sanitaria. Indicadores de calidad. Humanización de los servicios sanitarios",
+  "programa": "Seguridad del paciente: conceptos, estrategia y prácticas seguras. Sistemas de notificación de incidentes (SiNASP). Calidad de la asistencia sanitaria: modelo de Donabedian, ciclo de mejora y dimensiones. Indicadores de calidad. Humanización de los servicios sanitarios (Proyecto HU-CI, comunicación de malas noticias).",
+  "preguntas": [
+    {
+      "q": "La OMS define la seguridad del paciente como:",
+      "o": ["La ausencia total de errores en la asistencia", "La responsabilidad exclusiva del médico sobre los errores", "El cumplimiento de la normativa de prevención de riesgos laborales", "La reducción del riesgo de daño innecesario asociado a la atención sanitaria hasta un mínimo aceptable"],
+      "a": 3,
+      "e": "La seguridad del paciente es una dimensión clave de la calidad asistencial. Asume que el riesgo cero no existe y busca reducirlo al mínimo aceptable."
+    },
+    {
+      "q": "Una enfermera detecta, justo antes de administrarla, que la medicación preparada corresponde a otro paciente con apellidos similares. Este suceso es:",
+      "o": ["Un cuasi-incidente", "Un incidente sin daño", "Un evento adverso", "Un evento centinela"],
+      "a": 0,
+      "e": "El error se interceptó antes de llegar al paciente. Si hubiera llegado sin causar daño sería un incidente sin daño, y si hubiera causado daño, un evento adverso."
+    },
+    {
+      "q": "Por error se administra a un paciente una dosis de insulina rápida que no le correspondía, pero no presenta hipoglucemia ni otro efecto. Se trata de:",
+      "o": ["Un cuasi-incidente", "Una circunstancia de riesgo", "Un incidente sin daño", "Un evento centinela"],
+      "a": 2,
+      "e": "La clave es si el error llegó al paciente. Aquí llegó, pero no le produjo daño. La circunstancia de riesgo es una situación con potencial de daño en la que aún no ha ocurrido ningún incidente."
+    },
+    {
+      "q": "La aparición de una úlcera por presión de categoría II durante el ingreso por inmovilización prolongada se clasifica como:",
+      "o": ["Un evento centinela", "Un evento adverso", "Un cuasi-incidente", "Una circunstancia de riesgo"],
+      "a": 1,
+      "e": "Es un daño derivado de la asistencia, no de la enfermedad de base. El evento centinela se reserva para la muerte o el daño grave y permanente."
+    },
+    {
+      "q": "La realización de una intervención quirúrgica en el lado equivocado del cuerpo es un ejemplo de:",
+      "o": ["Evento centinela", "Incidente sin daño", "Cuasi-incidente", "Circunstancia de riesgo"],
+      "a": 0,
+      "e": "Los eventos centinela (cirugía en el lado erróneo, potasio en bolo, suicidio de un paciente ingresado) exigen investigación inmediata mediante un análisis causa-raíz."
+    },
+    {
+      "q": "Una unidad de hospitalización con una ratio enfermera/paciente muy por debajo de lo recomendado, en la que aún no ha ocurrido ningún incidente, representa:",
+      "o": ["Un evento adverso", "Un cuasi-incidente", "Un incidente sin daño", "Una circunstancia de riesgo o condición latente"],
+      "a": 3,
+      "e": "Las condiciones latentes son fallos del diseño u organización del sistema con potencial de causar daño. Identificarlas permite actuar antes de que ocurra un incidente."
+    },
+    {
+      "q": "Para la identificación inequívoca del paciente antes de administrar un fármaco, la enfermera debe:",
+      "o": ["Preguntar «¿es usted el señor Martínez?»", "Pedirle que diga su nombre completo y fecha de nacimiento y contrastarlo con la pulsera", "Comprobar solo el número de cama", "Fiarse de la identificación del celador"],
+      "a": 1,
+      "e": "La pregunta cerrada es peligrosa: un paciente confuso puede asentir por error. La pulsera de identificación se coloca desde el ingreso."
+    },
+    {
+      "q": "Es un medicamento de alto riesgo que requiere doble verificación independiente antes de su administración:",
+      "o": ["El paracetamol oral", "El omeprazol oral", "El cloruro potásico concentrado intravenoso", "El suero fisiológico"],
+      "a": 2,
+      "e": "También son de alto riesgo las insulinas, los anticoagulantes, los opioides y los citostáticos. Un error con ellos puede causar daño grave o la muerte."
+    },
+    {
+      "q": "En la técnica de comunicación estructurada SBAR (SAER), la letra «R» corresponde a:",
+      "o": ["Recomendación: qué acción se propone o qué necesita el paciente", "Registro de constantes", "Riesgo de caídas", "Revisión de la medicación"],
+      "a": 0,
+      "e": "S es la situación actual, B (A en SAER) los antecedentes, A (E en SAER) la evaluación del profesional y R la recomendación. Se usa en los cambios de turno, traslados y avisos."
+    },
+    {
+      "q": "En la escala de Downton para el riesgo de caídas, se considera riesgo alto una puntuación:",
+      "o": ["Igual a 0", "Inferior a 12", "Igual o superior a 45", "Superior a 2"],
+      "a": 3,
+      "e": "En Downton, a más puntos, más riesgo. En la escala de Morse el riesgo alto es a partir de 45, y en la de Braden de UPP menos puntos significan más riesgo (alto si ≤ 12)."
+    },
+    {
+      "q": "El análisis modal de fallos y efectos (AMFE) es una herramienta de gestión de riesgos de carácter:",
+      "o": ["Retrospectivo, tras un evento centinela", "Exclusivamente económico", "Prospectivo, para anticipar qué puede fallar antes de implantar un proceso o una tecnología", "Sancionador"],
+      "a": 2,
+      "e": "El análisis causa-raíz, en cambio, es retrospectivo: se aplica tras un evento grave para averiguar por qué fallaron las barreras."
+    },
+    {
+      "q": "Tras un evento centinela, la metodología indicada para identificar las causas que lo originaron es:",
+      "o": ["El análisis causa-raíz, por ejemplo con un diagrama de Ishikawa", "El AMFE", "La encuesta de satisfacción", "El ciclo PDCA sin análisis previo"],
+      "a": 0,
+      "e": "El análisis causa-raíz es retrospectivo y busca los fallos del sistema. El diagrama de Ishikawa o de espina de pez agrupa las causas en personas, métodos, materiales y entorno."
+    },
+    {
+      "q": "Uno de los principios básicos del SiNASP es:",
+      "o": ["La obligatoriedad legal de notificar", "La no punibilidad: la información no puede usarse para sancionar", "La identificación pública del profesional que cometió el error", "Su uso para la evaluación del desempeño"],
+      "a": 1,
+      "e": "El SiNASP es voluntario, no punitivo, confidencial y permite el anonimato. Busca aprender de los fallos del sistema, no buscar culpables."
+    },
+    {
+      "q": "De las siguientes situaciones, la que NO debe notificarse en el SiNASP, sino tramitarse por vía disciplinaria o judicial, es:",
+      "o": ["Un cuasi-incidente de medicación", "Una caída sin lesión de un paciente", "Un error de identificación detectado a tiempo", "La administración intencionada de un sedante no prescrito a un paciente molesto"],
+      "a": 3,
+      "e": "Se excluyen las infracciones intencionadas, los sabotajes, los abusos a pacientes y el ejercicio bajo los efectos del alcohol o drogas."
+    },
+    {
+      "q": "En la matriz de riesgo SAC, un incidente clasificado como SAC 1:",
+      "o": ["Corresponde a un fallo administrativo sin impacto", "No requiere análisis", "Supone un riesgo extremo y obliga a un análisis causa-raíz urgente", "Equivale siempre a un cuasi-incidente"],
+      "a": 2,
+      "e": "La matriz cruza la probabilidad con la gravedad. SAC 1 es riesgo extremo (muerte o daño permanente) y SAC 4, riesgo bajo, donde se agrupan los cuasi-incidentes y los fallos administrativos."
+    },
+    {
+      "q": "Según el modelo de Donabedian, la ratio enfermera/paciente de una unidad es un indicador de:",
+      "o": ["Estructura", "Proceso", "Resultado", "Satisfacción"],
+      "a": 0,
+      "e": "La estructura incluye los recursos humanos y materiales y la organización. El proceso es lo que se hace y cómo se hace, y el resultado, el efecto sobre la salud del paciente."
+    },
+    {
+      "q": "«Porcentaje de pacientes ingresados con la escala de Braden registrada al ingreso» es un indicador de:",
+      "o": ["Estructura", "Resultado", "Satisfacción", "Proceso"],
+      "a": 3,
+      "e": "Registrar que la enfermera hace la valoración o aplica un protocolo mide el proceso. La aparición de UPP o de caídas mide el resultado."
+    },
+    {
+      "q": "La prevalencia de úlceras por presión adquiridas durante el ingreso es un indicador de:",
+      "o": ["Estructura", "Resultado", "Proceso", "Accesibilidad"],
+      "a": 1,
+      "e": "Mide el efecto final de los cuidados en el paciente. Se calcula como pacientes con UPP en el momento del corte entre pacientes evaluados, por 100."
+    },
+    {
+      "q": "Una técnica de cura que acelera la epitelización en pacientes reales atendidos en su domicilio en atención primaria demuestra su:",
+      "o": ["Eficacia", "Eficiencia", "Efectividad", "Legitimidad"],
+      "a": 2,
+      "e": "La eficacia se mide en condiciones ideales o experimentales (ensayo clínico); la efectividad, en la práctica real; y la eficiencia relaciona el resultado con el coste."
+    },
+    {
+      "q": "La dimensión de la calidad que relaciona los resultados obtenidos con los costes y recursos empleados es la:",
+      "o": ["Eficiencia", "Eficacia", "Aceptabilidad", "Equidad"],
+      "a": 0,
+      "e": "La optimización es el punto de máximo equilibrio entre beneficio y coste, la aceptabilidad la adecuación a las preferencias del paciente y la equidad el reparto justo según la necesidad."
+    },
+    {
+      "q": "El orden de las fases del ciclo de mejora continua de Deming (PDCA) es:",
+      "o": ["Hacer, planificar, actuar y verificar", "Verificar, planificar, hacer y actuar", "Actuar, verificar, planificar y hacer", "Planificar, hacer, verificar y actuar"],
+      "a": 3,
+      "e": "Es un ciclo circular y continuo: tras actuar (estandarizar la mejora o corregir), se vuelve a planificar para seguir mejorando."
+    },
+    {
+      "q": "La tasa de incidencia de caídas en pacientes hospitalizados se expresa habitualmente como:",
+      "o": ["Caídas por cada 100 camas", "Caídas por cada 1.000 días de estancia", "Caídas por cada enfermera", "Porcentaje de pacientes que se caen al año"],
+      "a": 1,
+      "e": "Expresarla por días de estancia permite comparar unidades de distinto tamaño. Las tasas de UPP y de flebitis se expresan en porcentaje (× 100)."
+    },
+    {
+      "q": "La característica de un indicador de calidad que implica que dos observadores distintos obtengan el mismo resultado al medir la misma situación es la:",
+      "o": ["Validez", "Sensibilidad", "Fiabilidad", "Relevancia"],
+      "a": 2,
+      "e": "La validez es medir lo que se pretende medir; la sensibilidad, detectar cambios; la especificidad, captar solo lo que depende de la intervención; y la factibilidad, que los datos sean fáciles de obtener."
+    },
+    {
+      "q": "Para obtener una muestra de orina en un paciente con sonda vesical permanente, lo correcto es:",
+      "o": ["Puncionar el puerto de toma de muestras, previa desinfección, sin abrir el circuito", "Desconectar la sonda de la bolsa y recoger la orina", "Tomar la orina de la bolsa colectora", "Retirar la sonda y recoger la primera micción"],
+      "a": 0,
+      "e": "Abrir el circuito cerrado es la principal puerta de entrada de microorganismos y aumenta las infecciones urinarias asociadas a la sonda."
+    },
+    {
+      "q": "La higiene diaria del meato urinario en un paciente sondado se realiza con:",
+      "o": ["Clorhexidina jabonosa al 4%", "Povidona yodada", "Alcohol de 70°", "Agua y jabón neutro"],
+      "a": 3,
+      "e": "Los antisépticos de rutina alteran la flora protectora y no reducen las infecciones."
+    },
+    {
+      "q": "En el Proyecto HU-CI, la minimización del uso de sujeciones mecánicas pertenece a la línea estratégica de:",
+      "o": ["Cuidados al profesional", "Bienestar del paciente", "Infraestructura humanizada", "Síndrome post-UCI"],
+      "a": 1,
+      "e": "Esta línea incluye también el control del dolor, la sedación ligera y el respeto del sueño. Los cuidados al profesional se centran en el burnout del personal."
+    },
+    {
+      "q": "La línea del Proyecto HU-CI que aborda las secuelas físicas, cognitivas y psicológicas de los supervivientes tras el alta de la UCI es:",
+      "o": ["Cuidados al profesional", "UCI de puertas abiertas", "Prevención, manejo y seguimiento del síndrome post-UCI", "Comunicación"],
+      "a": 2,
+      "e": "Incluye la debilidad adquirida, los problemas tras el delirio y el estrés postraumático, con consultas de seguimiento multidisciplinares. La línea de cuidados al profesional trata el burnout y la fatiga por compasión."
+    },
+    {
+      "q": "En el manual de buenas prácticas del Proyecto HU-CI, las prácticas se clasifican en los niveles:",
+      "o": ["Básica, avanzada y excelente", "Bronce, plata y oro", "Inicial, medio y superior", "A, B y C"],
+      "a": 0,
+      "e": "Son unas 160 buenas prácticas certificables. Las básicas son de cumplimiento obligatorio y las excelentes representan el máximo nivel de humanización."
+    },
+    {
+      "q": "En el protocolo EPICEE (SPIKES) de comunicación de malas noticias, la primera «E» corresponde a:",
+      "o": ["Empatía", "Escucha activa", "Estrategia", "Entorno"],
+      "a": 3,
+      "e": "Primero se prepara el entorno: lugar privado, sin interrupciones y sentados a la misma altura. Las dos E finales son la empatía y la estrategia o resumen."
+    },
+    {
+      "q": "Antes de comunicar un diagnóstico grave, preguntar al paciente «¿qué le han contado los médicos hasta ahora?» corresponde, en el protocolo EPICEE, a la fase de:",
+      "o": ["Entorno", "Percepción", "Invitación", "Conocimiento"],
+      "a": 1,
+      "e": "Después, en la invitación, se averigua cuánta información desea recibir, respetando su derecho a no saber. Solo entonces se da la noticia (conocimiento), se responde a las emociones (empatía) y se plantea el plan (estrategia)."
+    }
+  ]
+}

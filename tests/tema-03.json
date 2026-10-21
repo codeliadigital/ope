@@ -1,0 +1,337 @@
+{
+  "tema": 3,
+  "titulo": "Proceso enfermero. Derechos y deberes de los usuarios (Ley 3/2009) y Ley de Transparencia de Murcia",
+  "programa": "El proceso enfermero: conceptos, características, ventajas y fases (valoración, diagnóstico, planificación, ejecución y evaluación). Ley 3/2009, de 11 de mayo, de los derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia. Ley 12/2014, de 16 de diciembre, de Transparencia y Participación Ciudadana de la Región de Murcia.",
+  "preguntas": [
+    {
+      "q": "El orden correcto de las fases del proceso de atención de enfermería es:",
+      "o": [
+        "Valoración, diagnóstico, planificación, ejecución y evaluación",
+        "Diagnóstico, valoración, planificación, ejecución y evaluación",
+        "Valoración, planificación, diagnóstico, ejecución y evaluación",
+        "Valoración, diagnóstico, ejecución, planificación y evaluación"
+      ],
+      "a": 0,
+      "e": "Son 5 fases cíclicas: valoración, diagnóstico, planificación, ejecución y evaluación; la evaluación retroalimenta una nueva valoración."
+    },
+    {
+      "q": "La definición de valoración como \"proceso organizado y sistemático de búsqueda de información realizado a partir de diversas fuentes\" para conocer el grado de satisfacción de las necesidades se atribuye a:",
+      "o": [
+        "Carpenito",
+        "Phaneuf",
+        "Alfaro-Lefevre",
+        "Berman"
+      ],
+      "a": 1,
+      "e": "Es la definición de Margot Phaneuf. Carpenito y Alfaro destacan en la planificación de objetivos; Berman define los objetivos."
+    },
+    {
+      "q": "Para la valoración inicial, NANDA-I recomienda utilizar como guía:",
+      "o": [
+        "Los 13 dominios de la propia taxonomía NANDA-I",
+        "Las 7 clases de la NIC",
+        "Los 11 patrones funcionales de Marjory Gordon",
+        "La pirámide de necesidades de Maslow"
+      ],
+      "a": 2,
+      "e": "NANDA-I recomienda la estructura de patrones funcionales de Gordon para la valoración, en lugar de los dominios de su taxonomía."
+    },
+    {
+      "q": "Un diagnóstico enfermero de riesgo se formula con el formato:",
+      "o": [
+        "PES",
+        "PS",
+        "P",
+        "PE"
+      ],
+      "a": 3,
+      "e": "El diagnóstico de riesgo no tiene síntomas porque el problema aún no existe: Problema + Etiología (factores de riesgo)."
+    },
+    {
+      "q": "El formato PES para enunciar los diagnósticos enfermeros fue difundido por:",
+      "o": [
+        "Marjory Gordon",
+        "Virginia Henderson",
+        "Dorothea Orem",
+        "Lynda Carpenito"
+      ],
+      "a": 0,
+      "e": "El formato Problema-Etiología-Síntomas lo publicó Marjory Gordon en su guía de diagnósticos."
+    },
+    {
+      "q": "Según la edición 2024-2026, la taxonomía II de NANDA-I se organiza en:",
+      "o": [
+        "11 dominios, 40 clases y 244 diagnósticos",
+        "7 dominios, 30 clases y 614 diagnósticos",
+        "13 dominios, 47 clases y 277 diagnósticos",
+        "13 dominios, 32 clases y 540 diagnósticos"
+      ],
+      "a": 2,
+      "e": "NANDA-I 2024-2026: 13 dominios, 47 clases y 277 diagnósticos. 614 son las intervenciones NIC y unos 540 los resultados NOC."
+    },
+    {
+      "q": "Según Alfaro, el objetivo \"El paciente demostrará la técnica de inyección de insulina\" pertenece al dominio:",
+      "o": [
+        "Afectivo",
+        "Psicomotor",
+        "Cognitivo",
+        "Conductual-emocional"
+      ],
+      "a": 1,
+      "e": "Psicomotor: habilidades motoras. Cognitivo: conocimientos (enumerar síntomas). Afectivo: actitudes y valores (aceptar la dieta)."
+    },
+    {
+      "q": "Según Carpenito, los objetivos de la enfermera (y no del paciente) se proponen para:",
+      "o": [
+        "Los diagnósticos de riesgo",
+        "Los diagnósticos de promoción de la salud",
+        "Los diagnósticos reales",
+        "Los problemas de colaboración"
+      ],
+      "a": 3,
+      "e": "Para los diagnósticos de enfermería se plantean objetivos del paciente; para los problemas de colaboración, objetivos de la enfermera."
+    },
+    {
+      "q": "En la escala Likert de los indicadores NOC:",
+      "o": [
+        "1 es el peor estado y 5 el mejor estado",
+        "1 es el mejor estado y 5 el peor estado",
+        "Se puntúa de 0 a 10",
+        "Solo se usa en la fase de valoración"
+      ],
+      "a": 0,
+      "e": "Escala de 5 puntos: 1 = gravemente comprometido o nunca demostrado; 5 = no comprometido o siempre demostrado. El objetivo es subir la puntuación."
+    },
+    {
+      "q": "La 8.ª edición de la Clasificación de Intervenciones de Enfermería (NIC, 2024) incluye:",
+      "o": [
+        "277 intervenciones",
+        "540 intervenciones",
+        "614 intervenciones",
+        "700 intervenciones"
+      ],
+      "a": 2,
+      "e": "La NIC 2024 recoge 614 intervenciones en 7 dominios y 30 clases, con 60 nuevas y 11 eliminadas."
+    },
+    {
+      "q": "Según Alfaro-Lefevre, cuando la enfermera delega una tarea en un profesional competente:",
+      "o": [
+        "Transfiere también la responsabilidad de los resultados",
+        "Queda exenta de supervisarla",
+        "Solo puede delegar en otra enfermera",
+        "Mantiene la responsabilidad de los resultados"
+      ],
+      "a": 3,
+      "e": "Delegar es traspasar la autoridad para hacer una tarea concreta manteniendo la responsabilidad final de los resultados."
+    },
+    {
+      "q": "En la fase de evaluación, si un objetivo no se ha alcanzado porque el plan inicial era inadecuado, la decisión correcta es:",
+      "o": [
+        "Continuar el plan sin cambios",
+        "Modificar el plan de cuidados",
+        "Finalizar el plan",
+        "Dar de alta al paciente"
+      ],
+      "a": 1,
+      "e": "Se modifica (reformular diagnóstico, objetivos o intervenciones). Se continúa si es parcial y el plan es adecuado; se finaliza si se logró."
+    },
+    {
+      "q": "La Ley de derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia es la:",
+      "o": [
+        "Ley 3/2009, de 11 de mayo",
+        "Ley 3/2009, de 11 de marzo",
+        "Ley 4/1994, de 26 de julio",
+        "Ley 12/2014, de 16 de diciembre"
+      ],
+      "a": 0,
+      "e": "Ley 3/2009, de 11 de mayo. La Ley 4/1994 es la de Salud y la 12/2014 la de Transparencia."
+    },
+    {
+      "q": "El plazo máximo de demora garantizado en la Región de Murcia para una intervención quirúrgica es de:",
+      "o": [
+        "50 días",
+        "90 días",
+        "150 días",
+        "180 días"
+      ],
+      "a": 2,
+      "e": "Cirugía 150 días, primeras consultas externas 50 días y primeras pruebas diagnósticas 30 días naturales."
+    },
+    {
+      "q": "El plazo máximo garantizado para las primeras pruebas diagnósticas en el SMS es de:",
+      "o": [
+        "30 días hábiles",
+        "50 días naturales",
+        "20 días hábiles",
+        "30 días naturales"
+      ],
+      "a": 3,
+      "e": "Son 30 días naturales. Los \"días hábiles\" son el distractor típico."
+    },
+    {
+      "q": "Sobre la Tarjeta Sanitaria Individual, la Ley 3/2009 establece que:",
+      "o": [
+        "Puede cederse a familiares de primer grado",
+        "Incorporará el sistema Braille de forma sistemática",
+        "Incluirá Braille solo si el usuario acredita discapacidad visual",
+        "Es opcional para acceder a las prestaciones"
+      ],
+      "a": 1,
+      "e": "La TSI es personal e intransferible y debe incorporar el Braille de forma sistemática, no a demanda."
+    },
+    {
+      "q": "Tras un parto eutócico, con un recién nacido vigoroso y estable, la actuación prioritaria de la enfermera o matrona según la Ley 3/2009 (reformada en 2018) es:",
+      "o": [
+        "Facilitar el contacto piel con piel inmediato e ininterrumpido",
+        "Pesar y tallar al recién nacido en la cuna térmica",
+        "Administrar la vitamina K y la profilaxis ocular de inmediato",
+        "Trasladarlo al nido para su observación"
+      ],
+      "a": 0,
+      "e": "El art. 16, modificado por la Ley 12/2018, reconoce el derecho al piel con piel inmediato e ininterrumpido; las rutinas se posponen."
+    },
+    {
+      "q": "Durante una cura, un grupo de estudiantes no implicados en la atención desea estar presente. Esto afecta principalmente al derecho a la:",
+      "o": [
+        "Confidencialidad",
+        "Información asistencial",
+        "Intimidad",
+        "Libre elección"
+      ],
+      "a": 2,
+      "e": "La intimidad protege el cuerpo, el pudor y el espacio. Se informa antes al paciente, que puede negarse sin perjuicio de su asistencia."
+    },
+    {
+      "q": "¿En cuál de estas situaciones cede el deber de confidencialidad según la Ley 3/2009?",
+      "o": [
+        "Cuando lo pide un familiar directo",
+        "Cuando lo solicita la empresa del trabajador",
+        "Cuando el paciente es mayor de 65 años",
+        "Ante una enfermedad de declaración obligatoria"
+      ],
+      "a": 3,
+      "e": "Excepciones: salud pública (EDO, riesgo colectivo), mandato judicial o del Ministerio Fiscal y perjuicio grave e inminente a un tercero."
+    },
+    {
+      "q": "El llamado privilegio terapéutico o necesidad terapéutica:",
+      "o": [
+        "Lo ejerce el paciente cuando no quiere ser informado",
+        "Lo ejerce el médico cuando informar causaría un daño grave al paciente",
+        "Lo ejerce la familia para proteger al paciente",
+        "Permite actuar sin consentimiento en urgencias"
+      ],
+      "a": 1,
+      "e": "La necesidad terapéutica la aplica el médico, justificándola en la historia. El derecho a no saber lo ejerce el paciente."
+    },
+    {
+      "q": "Según la Ley 3/2009, ¿cuál de estas actuaciones requiere consentimiento informado por escrito?",
+      "o": [
+        "Una intervención quirúrgica",
+        "La toma de constantes vitales",
+        "Una extracción de sangre rutinaria",
+        "La canalización de una vía venosa periférica"
+      ],
+      "a": 0,
+      "e": "La regla general es el consentimiento verbal. Es escrito en cirugía, procedimientos invasivos, investigación y riesgos de notoria repercusión negativa."
+    },
+    {
+      "q": "En el consentimiento por sustitución, el primer lugar en el orden de prelación corresponde a:",
+      "o": [
+        "El cónyuge o pareja de hecho",
+        "Los hijos mayores de edad",
+        "La persona designada como representante en el documento de instrucciones previas",
+        "El representante legal designado judicialmente"
+      ],
+      "a": 2,
+      "e": "Orden: representante de instrucciones previas, representante legal, cónyuge o pareja, y parientes más próximos (a igual grado, el mayor)."
+    },
+    {
+      "q": "Un paciente de 17 años, no incapacitado, necesita una cirugía de grave riesgo para su vida. El consentimiento:",
+      "o": [
+        "Lo otorga el propio menor y basta con informar a sus padres",
+        "Lo otorga el juez",
+        "Lo otorgan conjuntamente el menor y un médico ajeno al caso",
+        "Lo otorga su representante legal, una vez oída y tenida en cuenta la opinión del menor"
+      ],
+      "a": 3,
+      "e": "Desde los 16 años hay mayoría de edad sanitaria, pero en las actuaciones de grave riesgo la Ley 41/2002 (reformada en 2015) atribuye el consentimiento al representante legal, tras oír al menor. El manual del tema 3 recoge la redacción antigua."
+    },
+    {
+      "q": "Si el documento de instrucciones previas se formaliza ante testigos, se requieren:",
+      "o": [
+        "Dos testigos sin parentesco",
+        "Tres testigos, de los que al menos dos no tengan parentesco hasta el segundo grado ni relación patrimonial con el otorgante",
+        "Tres testigos, ninguno de ellos familiar",
+        "Cinco testigos mayores de edad"
+      ],
+      "a": 1,
+      "e": "Regla 3-2-2: tres testigos mayores de edad y capaces; al menos dos sin parentesco hasta el 2.º grado ni vínculo patrimonial. Uno sí puede ser familiar."
+    },
+    {
+      "q": "Según el manual, la documentación clínica en la Región de Murcia debe conservarse como mínimo:",
+      "o": [
+        "20 años desde la fecha del alta del último proceso asistencial",
+        "5 años desde la creación de cada documento",
+        "20 años desde el nacimiento del paciente",
+        "15 años desde el primer ingreso"
+      ],
+      "a": 0,
+      "e": "Se cuentan 20 años desde el último alta, ampliando el mínimo de 5 años de la ley básica estatal."
+    },
+    {
+      "q": "El derecho del paciente a acceder a su historia clínica tiene como límites:",
+      "o": [
+        "Los informes de alta y las pruebas de imagen",
+        "Los registros de enfermería",
+        "Los datos de terceros y las anotaciones subjetivas de los profesionales",
+        "Los resultados de laboratorio"
+      ],
+      "a": 2,
+      "e": "No puede ejercerse en perjuicio de la confidencialidad de terceros ni del derecho de reserva de los profesionales sobre sus anotaciones subjetivas."
+    },
+    {
+      "q": "Un paciente rechaza el tratamiento propuesto y además se niega a firmar el alta voluntaria. Según el art. 64 de la Ley 3/2009:",
+      "o": [
+        "Se le retiene en el hospital hasta que firme",
+        "Se solicita autorización judicial para tratarle",
+        "Se le aplica el tratamiento por estado de necesidad",
+        "La dirección del centro, a propuesta del facultativo, dispondrá el alta forzosa"
+      ],
+      "a": 3,
+      "e": "Ante la doble negativa, la dirección del centro dispone el alta forzosa, dejando constancia en la historia clínica."
+    },
+    {
+      "q": "El SMS publica en su portal, sin que nadie lo haya solicitado, las retribuciones de sus altos cargos. Según la Ley 12/2014, esto es:",
+      "o": [
+        "Derecho de acceso",
+        "Publicidad activa",
+        "Participación ciudadana",
+        "Valoración documental"
+      ],
+      "a": 1,
+      "e": "Cuando la Administración difunde por iniciativa propia es publicidad activa. El derecho de acceso se activa a petición del ciudadano."
+    },
+    {
+      "q": "Si la Administración no responde en plazo a una solicitud de acceso a información pública, el silencio tiene carácter:",
+      "o": [
+        "Negativo (desestimatorio)",
+        "Positivo (estimatorio)",
+        "Positivo solo si la información es sanitaria",
+        "Suspensivo hasta que resuelva el juez"
+      ],
+      "a": 0,
+      "e": "El vencimiento del plazo (20 días hábiles, prorrogables) sin resolución expresa supone silencio negativo."
+    },
+    {
+      "q": "Según el manual, el órgano garante actual en materia de transparencia en la Región de Murcia es:",
+      "o": [
+        "El Consejo de la Transparencia, órgano colegiado",
+        "El Defensor del Usuario",
+        "El Comisionado de la Transparencia, órgano unipersonal",
+        "La Asamblea Regional"
+      ],
+      "a": 2,
+      "e": "El antiguo Consejo de la Transparencia (colegiado) se suprimió; hoy lo sustituye el Comisionado de la Transparencia, con mandato de 4 años."
+    }
+  ]
+}

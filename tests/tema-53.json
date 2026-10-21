@@ -1,0 +1,187 @@
+{
+  "tema": 53,
+  "titulo": "Manejo de heridas. Cuidados generales de la piel",
+  "programa": "Manejo de heridas y cuidados generales de la piel: cicatrización, preparación del lecho (TIMERS), escalas de riesgo, úlceras por presión, lesiones por humedad y por adhesivos, úlceras venosas y arteriales, pie diabético, úlceras neoplásicas y quemaduras.",
+  "preguntas": [
+    {
+      "q": "Respecto al masaje de las prominencias óseas en pacientes con riesgo de úlceras por presión, es correcto que:",
+      "o": ["Debe hacerse en cada cambio postural para activar la circulación", "Está contraindicado, porque aumenta el daño de los capilares en tejidos ya comprometidos", "Solo se recomienda si hay eritema que no blanquea", "Se hace con alcohol para endurecer la piel"],
+      "a": 1,
+      "e": "Las prominencias óseas no se masajean. Se recomiendan la higiene con jabón de pH ligeramente ácido, el secado a toques, la hidratación y los ácidos grasos hiperoxigenados en zonas de riesgo."
+    },
+    {
+      "q": "Para limpiar una herida con una presión eficaz y segura (1-4 kg/cm²) se recomienda usar:",
+      "o": ["Gasas frotando con fuerza", "Una jeringa de 5 ml sin aguja", "Un chorro directo del grifo", "Una jeringa de 20-35 ml con aguja o catéter de 0,9 mm"],
+      "a": 3,
+      "e": "Esta presión arrastra detritus y bacterias sin dañar el tejido de granulación. Se usa suero fisiológico o agua."
+    },
+    {
+      "q": "Al tratar una úlcera, no se deben combinar en la misma cura:",
+      "o": ["La colagenasa y un apósito de plata, porque la plata inactiva la colagenasa", "El hidrogel y un apósito secundario", "El suero fisiológico y un alginato", "La película barrera y un apósito de espuma"],
+      "a": 0,
+      "e": "La plata, útil frente a la infección y el biofilm, inactiva la colagenasa, que se usa para el desbridamiento enzimático."
+    },
+    {
+      "q": "La puntuación máxima posible de la escala de Braden es:",
+      "o": ["24", "20", "23", "18"],
+      "a": 2,
+      "e": "Tiene 6 subescalas: cinco puntúan de 1 a 4 y la de fricción y cizallamiento solo de 1 a 3. Por eso el rango es de 6 a 23."
+    },
+    {
+      "q": "En la escala de Braden se considera riesgo alto de úlceras por presión una puntuación de:",
+      "o": ["17 o más", "15-16", "13-14", "12 o menos"],
+      "a": 3,
+      "e": "Con 13-14 el riesgo es moderado y con 15-16, bajo (en mayores de 75 años, hasta 18). En Braden, menos puntos significan más riesgo."
+    },
+    {
+      "q": "En la escala de Norton modificada (INSALUD), se considera que el riesgo es mínimo o inexistente con una puntuación:",
+      "o": ["De 5 a 9", "Mayor de 14", "De 10 a 12", "De 13 a 14"],
+      "a": 1,
+      "e": "Valora estado físico, estado mental, actividad, movilidad e incontinencia (5-20 puntos). De 5 a 9 el riesgo es muy alto, de 10 a 12 alto y de 13 a 14 medio."
+    },
+    {
+      "q": "A diferencia de las escalas de Braden y Norton, en la escala EMINA:",
+      "o": ["A mayor puntuación, mayor riesgo", "No se valora la incontinencia", "Solo se usa en neonatos", "Se valora la fricción en primer lugar"],
+      "a": 0,
+      "e": "EMINA (Estado mental, Movilidad, Incontinencia, Nutrición y Actividad) puntúa de 0 a 3 cada ítem, con la lógica inversa. No incluye la fricción."
+    },
+    {
+      "q": "La escala Braden Q, adaptación pediátrica, añade respecto a la de adultos la valoración de:",
+      "o": ["La edad gestacional", "El peso al nacer", "La perfusión tisular y la oxigenación", "El estado mental"],
+      "a": 2,
+      "e": "Es su séptima subescala. En neonatos se usa la escala NSRAS y en cuidados paliativos, la Hunters-Hill."
+    },
+    {
+      "q": "Una ampolla de contenido seroso sobre el sacro producida por la presión corresponde, según el GNEAUPP, a una úlcera por presión de categoría:",
+      "o": ["I", "III", "IV", "II"],
+      "a": 3,
+      "e": "La categoría II incluye la úlcera superficial de lecho rosado y las flictenas, intactas o rotas. La I es el eritema no blanqueable con piel intacta."
+    },
+    {
+      "q": "Una zona de piel intacta de color granate o púrpura sobre el talón, que puede abrirse con rapidez, corresponde a:",
+      "o": ["Una sospecha de lesión de tejidos profundos", "Una UPP de categoría I", "Una dermatitis asociada a la incontinencia", "Una úlcera venosa"],
+      "a": 0,
+      "e": "La lesión de tejidos profundos refleja daño isquémico bajo la piel por presión o cizalla. La categoría I es un eritema rojo que no blanquea."
+    },
+    {
+      "q": "Las úlceras por presión en las mucosas causadas por dispositivos (tubo endotraqueal, SNG):",
+      "o": ["Se clasifican siempre como categoría II", "No se estadian con el sistema de categorías I-IV", "Se clasifican como no estadiables", "Se tratan con hidrocoloides"],
+      "a": 1,
+      "e": "Las mucosas no tienen estrato córneo ni una dermis comparable a la de la piel, por lo que los consensos indican no clasificarlas con las categorías I-IV."
+    },
+    {
+      "q": "Ante una escara negra, seca, estable y sin signos de infección en el talón, la actuación correcta es:",
+      "o": ["Desbridamiento cortante inmediato", "Aplicar colagenasa y apósito oclusivo", "No desbridarla, porque protege el calcáneo, y vigilar signos de infección", "Aplicar hidrogel bajo un hidrocoloide para ablandarla"],
+      "a": 2,
+      "e": "En el talón la escara seca actúa como una barrera natural. Solo se desbrida si aparecen signos de infección: fluctuación, exudado purulento, eritema o calor."
+    },
+    {
+      "q": "En la prevención de úlceras por presión, al colocar al paciente en decúbito lateral, la inclinación recomendada es de:",
+      "o": ["30°", "90°", "60°", "180°"],
+      "a": 0,
+      "e": "Un decúbito lateral a 90° concentra la presión en el trocánter. Los cambios posturales se hacen cada 2-4 horas en pacientes encamados, combinados con superficies especiales."
+    },
+    {
+      "q": "Respecto al uso de dispositivos en forma de rosco o flotador para aliviar la presión, es correcto que:",
+      "o": ["Son la medida de elección en el sacro", "Se recomiendan en pacientes sentados", "Solo se usan en pacientes con riesgo bajo", "Están contraindicados porque producen un efecto torniquete"],
+      "a": 3,
+      "e": "El anillo comprime la circulación alrededor de la zona y genera edema e isquemia en el centro. Para riesgo alto se usan superficies dinámicas de aire alternante."
+    },
+    {
+      "q": "El hidrocoloide está contraindicado en:",
+      "o": ["Las úlceras de categoría II con poco exudado", "La prevención de lesiones por fricción", "Las heridas infectadas", "Las úlceras superficiales limpias"],
+      "a": 2,
+      "e": "Es un apósito oclusivo que favorece el crecimiento de anaerobios y hongos en una herida infectada. En heridas con infección se usan apósitos antimicrobianos, como la plata."
+    },
+    {
+      "q": "El apósito de alginato está indicado especialmente en heridas:",
+      "o": ["Secas con escara", "Con exudado moderado o abundante, y tiene además efecto hemostático", "Con tejido de epitelización y sin exudado", "Infectadas por anaerobios, como apósito oclusivo"],
+      "a": 1,
+      "e": "Al contactar con el exudado forma un gel absorbente. En una herida seca se adhiere y duele al retirarlo; para heridas secas o necróticas se usa hidrogel."
+    },
+    {
+      "q": "El parámetro analítico más útil para valorar cambios nutricionales recientes en un paciente con úlceras es:",
+      "o": ["La prealbúmina", "La albúmina", "La hemoglobina", "El colesterol total"],
+      "a": 0,
+      "e": "La prealbúmina tiene una vida media de 2-3 días; la albúmina, de unos 20 días, y además baja con la inflamación. Las necesidades de proteínas aumentan con la gravedad de la úlcera (hasta 1,5-2 g/kg/día)."
+    },
+    {
+      "q": "Una lesión eritematosa difusa, simétrica «en espejo» en ambas nalgas y la cara interna de los muslos en un paciente incontinente sugiere:",
+      "o": ["Una UPP de categoría I", "Una lesión de tejidos profundos", "Una úlcera arterial", "Una dermatitis asociada a la incontinencia, que se trata con productos barrera"],
+      "a": 3,
+      "e": "La humedad y las enzimas de orina y heces alcalinizan el pH de la piel. La UPP aparece sobre prominencias óseas. La DAI no se trata con apósitos húmedos, sino con barreras (óxido de zinc, películas)."
+    },
+    {
+      "q": "Para prevenir lesiones al retirar un esparadrapo o un apósito adhesivo, se debe tirar:",
+      "o": ["Rápido y hacia arriba, a 90°", "En contra del sentido del vello", "Lentamente, a 180° (paralelo a la piel), sujetando la piel adyacente", "Tras secar la zona con alcohol"],
+      "a": 2,
+      "e": "Así se previenen las lesiones por adhesivos (MARSI). También ayuda no tensar el esparadrapo al pegarlo, usar películas barrera y elegir adhesivos de silicona en pieles frágiles."
+    },
+    {
+      "q": "Una úlcera de la pierna localizada por encima del maléolo interno, superficial, con mucho exudado y piel perilesional de color ocre, es probablemente:",
+      "o": ["Una úlcera venosa", "Una úlcera arterial", "Una úlcera neuropática", "Una úlcera por presión"],
+      "a": 0,
+      "e": "El color ocre se debe al depósito de hemosiderina. El dolor mejora al elevar las piernas y el tratamiento de base es la compresión, tras descartar arteriopatía con el ITB."
+    },
+    {
+      "q": "Un paciente con una úlcera en un dedo del pie refiere que, por la noche, para aliviar el dolor, tiene que sacar la pierna de la cama y dejarla colgando. Esto orienta a:",
+      "o": ["Una insuficiencia venosa", "Una isquemia arterial", "Una dermatitis de contacto", "Una úlcera por humedad"],
+      "a": 1,
+      "e": "En la isquemia el dolor empeora en reposo y al elevar la pierna, y mejora en declive. La úlcera arterial suele ser distal, con bordes en sacabocados, lecho pálido y pulsos ausentes."
+    },
+    {
+      "q": "Un paciente diabético de larga evolución presenta un índice tobillo-brazo de 1,4. Esto indica:",
+      "o": ["Una circulación normal", "Una isquemia crítica", "Una arteriopatía leve", "Probables arterias calcificadas e incompresibles; hay que valorar con otras pruebas, como el índice dedo-brazo"],
+      "a": 3,
+      "e": "Un ITB mayor de 1,3 es un falso valor de normalidad, frecuente en la diabetes y la insuficiencia renal. El rango normal es 0,9-1,3."
+    },
+    {
+      "q": "Un índice tobillo-brazo inferior a 0,5 indica:",
+      "o": ["Normalidad hemodinámica", "Insuficiencia venosa", "Isquemia crítica, en la que está contraindicada la compresión", "Que puede aplicarse un vendaje elástico multicapa"],
+      "a": 2,
+      "e": "Requiere derivación a cirugía vascular. El vendaje elástico de presión constante solo se usa con ITB mayor de 0,8."
+    },
+    {
+      "q": "Según la ley de Laplace aplicada al vendaje compresivo, la presión ejercida es mayor:",
+      "o": ["En las zonas de menor perímetro, como el tobillo", "En el muslo", "Donde hay menos capas de venda", "Donde la venda está menos tensa"],
+      "a": 0,
+      "e": "La presión es proporcional a la tensión y al número de capas, e inversamente proporcional al radio. Por eso es máxima en el tobillo y decrece hacia el muslo, favoreciendo el retorno venoso."
+    },
+    {
+      "q": "Ante una úlcera arterial con escara necrótica seca en un pie sin pulsos e isquemia crítica, la actuación de enfermería correcta es:",
+      "o": ["Desbridamiento cortante para estimular la granulación", "Mantener la necrosis seca, aplicar antiséptico, no desbridar y derivar a cirugía vascular", "Aplicar calor local para vasodilatar", "Elevar la pierna por encima del corazón"],
+      "a": 1,
+      "e": "Cortar sobre un tejido sin riego puede convertir una gangrena seca en húmeda. La pierna se mantiene horizontal o en ligero declive y se evitan las fuentes de calor directo."
+    },
+    {
+      "q": "En la clasificación de la Universidad de Texas del pie diabético, el estadio de peor pronóstico es el D, que corresponde a:",
+      "o": ["Lesión limpia", "Infección sin isquemia", "Isquemia sin infección", "Isquemia e infección a la vez"],
+      "a": 3,
+      "e": "La escala cruza la profundidad (grados 0-III) con el estadio: A limpia, B infectada, C isquémica, D isquémica e infectada. En Wagner, la osteomielitis marca el grado 3."
+    },
+    {
+      "q": "Para controlar el mal olor de una úlcera neoplásica se utiliza habitualmente:",
+      "o": ["Colagenasa", "Alcohol de 70°", "Metronidazol tópico y apósitos de carbón activado", "Hidrocoloide oclusivo"],
+      "a": 2,
+      "e": "El olor se debe a bacterias anaerobias. El apósito de carbón no debe recortarse. El objetivo en estas úlceras es el confort; el dolor puede tratarse con morfina en hidrogel."
+    },
+    {
+      "q": "Una quemadura con flictenas, lecho rosado-rojo húmedo y muy dolorosa es de:",
+      "o": ["Segundo grado superficial", "Primer grado", "Segundo grado profundo", "Tercer grado"],
+      "a": 0,
+      "e": "La de primer grado es un eritema sin flictenas, la de segundo grado profundo tiene un lecho blanquecino-moteado y duele menos, y la de tercer grado es indolora, con piel acartonada."
+    },
+    {
+      "q": "Según los criterios de la American Burn Association recogidos en el manual, el volumen inicial de Ringer lactato en un adulto con quemadura eléctrica se calcula como:",
+      "o": ["2 ml × kg × %SCQ", "1 ml × kg × %SCQ", "30 ml/kg fijos", "4 ml × kg × %SCQ"],
+      "a": 3,
+      "e": "En las quemaduras térmicas y químicas, la ABA propone empezar con 2 ml. En las eléctricas se mantienen 4 ml por la rabdomiólisis. En ambos casos, la mitad se da en las 8 primeras horas desde el accidente."
+    },
+    {
+      "q": "Debe derivarse a una unidad de quemados a un adulto con:",
+      "o": ["Una quemadura solar en la espalda", "Una quemadura de segundo grado en ambas manos", "Una quemadura de segundo grado superficial del 3% en un muslo", "Una flictena de 2 cm en el antebrazo"],
+      "a": 1,
+      "e": "Se derivan las quemaduras en cara, manos, pies, genitales o grandes articulaciones, las de más del 15% en adultos (10% en niños), las de tercer grado de más del 2%, las eléctricas, las químicas, las circunferenciales y las que tienen inhalación."
+    }
+  ]
+}

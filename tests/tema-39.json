@@ -1,0 +1,187 @@
+{
+  "tema": 39,
+  "titulo": "Cuidados de enfermería a personas con problemas neurológicos. Accidente cerebrovascular, epilepsia. Alzheimer y demencias. Otros problemas del sistema nervioso. Procedimientos y técnicas",
+  "programa": "Valoración y cuidados de enfermería a personas con problemas neurológicos: accidente cerebrovascular, epilepsia. Alzheimer y demencias. Otros problemas del sistema nervioso (Parkinson, esclerosis múltiple, ELA, miastenia, Guillain-Barré). Procedimientos y técnicas de enfermería (hipertensión intracraneal).",
+  "preguntas": [
+    {
+      "q": "Un paciente tras un ictus habla con fluidez pero emplea palabras sin sentido y no comprende lo que se le dice. Presenta una afasia:",
+      "o": ["Motora o de Broca, por lesión frontal", "Global por lesión occipital", "Sensitiva o de Wernicke, por lesión temporal", "Disartria por lesión cerebelosa"],
+      "a": 2,
+      "e": "La afasia de Wernicke (lóbulo temporal) es sensitiva: el habla es fluida pero sin sentido y no hay comprensión. La de Broca (lóbulo frontal) es motora: comprende pero no puede expresarse."
+    },
+    {
+      "q": "En la escala de Glasgow, la respuesta motora en extensión anormal ante el dolor (descerebración) puntúa:",
+      "o": ["2", "3", "4", "5"],
+      "a": 0,
+      "e": "Respuesta motora: 6 obedece, 5 localiza, 4 retirada, 3 flexión anormal (decorticación), 2 extensión (descerebración), 1 ninguna."
+    },
+    {
+      "q": "En un traumatismo craneoencefálico, se considera grave una puntuación en la escala de Glasgow de:",
+      "o": ["14-15", "12-13", "9-13", "8 o menos"],
+      "a": 3,
+      "e": "Leve: 14-15; moderado: 9-13; grave: ≤ 8, indicación de asegurar la vía aérea mediante intubación."
+    },
+    {
+      "q": "En un paciente neurocrítico, la aparición brusca de una diferencia de tamaño pupilar mayor de 1 mm sugiere:",
+      "o": ["Una intoxicación por opiáceos", "Compresión del III par por posible herniación cerebral", "Un efecto normal de la sedación", "Una lesión del VII par craneal"],
+      "a": 1,
+      "e": "La anisocoria aguda > 1 mm puede indicar compresión del III par (motor ocular común) por herniación. Los opiáceos producen miosis puntiforme bilateral."
+    },
+    {
+      "q": "Al explorar el XII par craneal (hipogloso) en un paciente con una lesión de ese nervio, al sacar la lengua esta se desvía:",
+      "o": ["Hacia el lado afectado", "Hacia el lado sano", "Hacia arriba", "No se desvía"],
+      "a": 0,
+      "e": "Por la debilidad del lado afectado, la lengua protruida se desvía hacia el lado de la lesión. El IX y X pares se valoran con la elevación del velo y el reflejo nauseoso."
+    },
+    {
+      "q": "En la escala de Daniels, un músculo que realiza el movimiento venciendo la gravedad pero no una resistencia añadida puntúa:",
+      "o": ["1", "2", "3", "5"],
+      "a": 2,
+      "e": "Daniels: 0 sin contracción; 1 contracción sin movimiento; 2 movimiento sin vencer la gravedad; 3 vence la gravedad; 4 vence una resistencia moderada; 5 fuerza normal."
+    },
+    {
+      "q": "En la escala de Cincinnati para la detección prehospitalaria del ictus, la activación del Código Ictus está indicada cuando:",
+      "o": ["Están presentes los tres signos", "Hay al menos un signo positivo (asimetría facial, caída del brazo o alteración del habla)", "La NIHSS es superior a 20", "El TC confirma la lesión"],
+      "a": 1,
+      "e": "La presencia de un solo signo de Cincinnati da alta sospecha de ictus y basta para activar el Código Ictus. La NIHSS (0-42) se aplica en el hospital para graduar la gravedad y decidir la reperfusión."
+    },
+    {
+      "q": "La ventana terapéutica general para la fibrinólisis intravenosa en el ictus isquémico es de:",
+      "o": ["Hasta 4,5 horas desde el inicio de los síntomas", "Hasta 1 hora", "Hasta 12 horas", "Hasta 72 horas"],
+      "a": 0,
+      "e": "La fibrinólisis IV se administra hasta 4,5 horas desde el inicio; la trombectomía mecánica, hasta 6 horas (ampliable a 24 h en pacientes seleccionados con neuroimagen avanzada)."
+    },
+    {
+      "q": "En el Código Ictus, el tiempo objetivo entre la llegada al hospital y el inicio de la fibrinólisis («puerta-aguja») es:",
+      "o": ["Menos de 10 minutos", "Menos de 25 minutos", "Menos de 60 minutos", "Menos de 3 horas"],
+      "a": 2,
+      "e": "Tiempos de calidad: puerta-médico < 10 min, puerta-TC < 25 min y puerta-aguja < 60 min (idealmente < 45)."
+    },
+    {
+      "q": "Respecto a la tensión arterial en la fase aguda del ictus isquémico, es correcto:",
+      "o": ["Debe reducirse rápidamente a cifras normales en todos los casos", "Debe mantenerse por debajo de 120/80 mmHg", "Hay que inducir hipotensión para proteger el cerebro", "No debe reducirse bruscamente, salvo que supere los umbrales de seguridad (por ejemplo, > 185/110 mmHg para la fibrinólisis)"],
+      "a": 3,
+      "e": "La hipertensión reactiva ayuda a perfundir la penumbra isquémica: no se baja bruscamente. Para administrar fibrinólisis la TA debe ser < 185/110 mmHg."
+    },
+    {
+      "q": "Antes de iniciar la tolerancia oral en un paciente con ictus, la enfermera debe:",
+      "o": ["Administrar un vaso de agua para comprobar que traga", "Realizar un cribado de disfagia validado, como el método de exploración clínica volumen-viscosidad (MECV-V)", "Colocar siempre una sonda nasogástrica", "Ofrecer una dieta con dobles texturas"],
+      "a": 1,
+      "e": "La disfagia es frecuente y causa neumonía aspirativa. Antes de dar nada por boca se realiza un cribado validado (MECV-V o test del agua); si aparece tos, voz húmeda o desaturación > 3%, se suspende la vía oral."
+    },
+    {
+      "q": "En un paciente con disfagia tras un ictus que puede comer por boca, es una medida correcta:",
+      "o": ["Comer sentado a 90° y mantener esa postura 30-45 minutos tras la ingesta, masticando por el lado sano", "Comer en decúbito supino", "Tomar líquidos sin espesar para facilitar la deglución", "Ofrecer sopas con fideos (dobles texturas)"],
+      "a": 0,
+      "e": "Se usan espesantes y purés homogéneos (sin dobles texturas), bocados pequeños, masticación por el lado sano, flexión cervical al tragar y sedestación a 90° durante y 30-45 minutos después de comer. Se revisa la boca por si quedan restos en el lado parético."
+    },
+    {
+      "q": "Para movilizar en la cama a un paciente con hemiplejia tras un ictus, debe evitarse:",
+      "o": ["Los cambios posturales cada 2-3 horas", "El uso de cojines para evitar la rotación externa de la cadera", "Traccionar del brazo hemipléjico, por el riesgo de subluxación del hombro", "La sedestación precoz si está estable"],
+      "a": 2,
+      "e": "El hombro hemipléjico es vulnerable a la subluxación: nunca se tira del brazo afectado. Se mantiene la alineación (cojín trocantéreo, férula antiequino), cambios posturales y movilización precoz."
+    },
+    {
+      "q": "Según la ILAE, se establece el diagnóstico de epilepsia cuando hay:",
+      "o": ["Una única crisis provocada por fiebre alta", "Una crisis por hipoglucemia", "Una crisis por abstinencia alcohólica", "Al menos dos crisis no provocadas separadas más de 24 horas"],
+      "a": 3,
+      "e": "Se diagnostica epilepsia con al menos dos crisis no provocadas separadas más de 24 h, o una crisis no provocada con alta probabilidad de recurrencia (≥ 60%) por hallazgos en el EEG o la neuroimagen. Las crisis provocadas por una causa reversible no son epilepsia."
+    },
+    {
+      "q": "En una crisis tónico-clónica generalizada, se considera que se ha iniciado un estatus epiléptico y debe administrarse tratamiento de rescate a partir de:",
+      "o": ["1 minuto", "5 minutos", "30 minutos", "60 minutos"],
+      "a": 1,
+      "e": "El tiempo t1 es de 5 minutos para las crisis tónico-clónicas y de 10 minutos para las focales con alteración de la conciencia. A partir de t2 (30 minutos en las generalizadas) aumenta el riesgo de daño neuronal irreversible."
+    },
+    {
+      "q": "Ante un paciente que presenta una crisis tónico-clónica, la actuación correcta de enfermería es:",
+      "o": ["Proteger al paciente del entorno, colocar algo blando bajo la cabeza, cronometrar la crisis y, al ceder, colocarlo en posición lateral de seguridad", "Introducir un depresor lingual para evitar que se trague la lengua", "Sujetar con fuerza las extremidades", "Darle agua para que se recupere"],
+      "a": 0,
+      "e": "Se protege de golpes, se afloja la ropa y se cronometra. No se sujeta (riesgo de fracturas y luxaciones) ni se introduce nada en la boca (lesiones y fracturas dentales). Al ceder la fase tónica, se coloca en lateral de seguridad."
+    },
+    {
+      "q": "El tratamiento de primera línea del estatus epiléptico son:",
+      "o": ["La fenitoína intravenosa", "El propofol en perfusión", "Las benzodiacepinas (midazolam, diazepam o lorazepam)", "El sulfato de magnesio"],
+      "a": 2,
+      "e": "Primero benzodiacepinas (midazolam IM, bucal o intranasal; diazepam IV o rectal; lorazepam IV). Si no ceden, antiepilépticos IV (valproico, levetiracetam, lacosamida, fenitoína) y, si es refractario, coma anestésico en UCI. El magnesio es para la eclampsia."
+    },
+    {
+      "q": "En una gestante con eclampsia tratada con sulfato de magnesio, el primer signo clínico de toxicidad es:",
+      "o": ["La taquicardia", "La hipertensión", "La fiebre", "La desaparición del reflejo rotuliano"],
+      "a": 3,
+      "e": "La abolición del reflejo rotuliano es el primer signo de hipermagnesemia; después aparecen depresión respiratoria (< 12 rpm) y oliguria. Se suspende la perfusión y se administra gluconato cálcico al 10% IV lento."
+    },
+    {
+      "q": "En las mujeres epilépticas en edad fértil debe evitarse, por ser el antiepiléptico más teratógeno:",
+      "o": ["La lamotrigina", "El ácido valproico", "El levetiracetam", "El ácido fólico"],
+      "a": 1,
+      "e": "El valproato se asocia a defectos del tubo neural y alteraciones del neurodesarrollo. Se prefieren lamotrigina o levetiracetam y se suplementa con ácido fólico (5 mg/día) desde 1-3 meses antes de la concepción."
+    },
+    {
+      "q": "Un paciente con deterioro cognitivo presenta fluctuaciones marcadas de la atención, alucinaciones visuales muy vívidas desde el inicio y signos parkinsonianos. Lo más probable es:",
+      "o": ["Enfermedad de Alzheimer", "Demencia vascular", "Demencia con cuerpos de Lewy", "Demencia frontotemporal"],
+      "a": 2,
+      "e": "La demencia con cuerpos de Lewy se caracteriza por fluctuaciones, alucinaciones visuales precoces, parkinsonismo y una gran sensibilidad a los neurolépticos, que pueden empeorarla gravemente."
+    },
+    {
+      "q": "En la enfermedad de Alzheimer, es característico:",
+      "o": ["El inicio brusco con empeoramiento en escalones", "Los cambios de personalidad antes que la memoria, en menores de 50 años", "La alteración de la conciencia desde el inicio", "El inicio insidioso con fallo de la memoria reciente y déficit de acetilcolina"],
+      "a": 3,
+      "e": "El Alzheimer (60-70% de las demencias) tiene placas de beta-amiloide y ovillos de tau, déficit de acetilcolina e inicio insidioso con amnesia reciente. La evolución en escalones es propia de la vascular y los cambios de conducta precoces, de la frontotemporal."
+    },
+    {
+      "q": "Un paciente con Alzheimer presenta un episodio de agitación nocturna de aparición reciente. Lo primero que debe hacer la enfermera es:",
+      "o": ["Descartar causas orgánicas como infección urinaria, dolor, fecaloma o retención de orina", "Aplicar una contención mecánica", "Administrar un neuroléptico a dosis altas", "Discutir con el paciente sus ideas delirantes"],
+      "a": 0,
+      "e": "Ante síntomas conductuales nuevos se descartan primero causas orgánicas (delirium añadido). Después se aplican medidas no farmacológicas: entorno seguro y bien iluminado, rutinas, validación emocional y no confrontar los delirios."
+    },
+    {
+      "q": "Respecto a la administración de levodopa en la enfermedad de Parkinson, es correcto:",
+      "o": ["Tomarla junto con comidas ricas en proteínas para mejorar su absorción", "El horario puede variar sin consecuencias", "Administrarla con horario exacto y alejada de las comidas proteicas", "Tomarla siempre con leche"],
+      "a": 2,
+      "e": "Los aminoácidos de la dieta compiten con la levodopa en su absorción: se toma 30-45 minutos antes o 2 horas después de las comidas, con horario estricto para evitar las fluctuaciones on-off."
+    },
+    {
+      "q": "En la esclerosis múltiple, el fenómeno de Uhthoff consiste en:",
+      "o": ["La mejoría de los síntomas con el calor", "La aparición de temblor de reposo", "La pérdida de memoria reciente", "El empeoramiento de los síntomas neurológicos con el aumento de la temperatura corporal"],
+      "a": 3,
+      "e": "El calor (baños calientes, sol, fiebre) empeora la conducción en los axones desmielinizados. Se aconseja evitar los baños calientes y tratar la fiebre. La esclerosis múltiple afecta sobre todo a mujeres jóvenes y cursa en brotes."
+    },
+    {
+      "q": "En la esclerosis lateral amiotrófica (ELA), suelen conservarse:",
+      "o": ["La sensibilidad y los movimientos oculares", "La fuerza de las extremidades", "La deglución en fases avanzadas", "La función respiratoria hasta el final"],
+      "a": 0,
+      "e": "La ELA destruye las motoneuronas superiores e inferiores (atrofia, fasciculaciones, disfagia, fallo respiratorio), pero conserva la sensibilidad y los movimientos oculares, que permiten la comunicación con sistemas de seguimiento ocular."
+    },
+    {
+      "q": "En un paciente con miastenia gravis, es correcto:",
+      "o": ["La debilidad mejora con el ejercicio y empeora con el reposo", "Administrar la piridostigmina con horario exacto unos 30-45 minutos antes de las comidas y evitar aminoglucósidos y magnesio IV", "Los aminoglucósidos son los antibióticos de elección", "La piridostigmina se administra después de comer para evitar náuseas"],
+      "a": 1,
+      "e": "La miastenia produce debilidad fluctuante que empeora con el esfuerzo y por la tarde. La piridostigmina antes de comer permite masticar y tragar con menos riesgo de aspiración. Los aminoglucósidos, el magnesio IV y los betabloqueantes empeoran la transmisión neuromuscular."
+    },
+    {
+      "q": "En el síndrome de Guillain-Barré, el hallazgo característico del líquido cefalorraquídeo es:",
+      "o": ["Pleocitosis con predominio de neutrófilos", "Disociación albúmino-citológica: proteínas elevadas con recuento celular normal", "Glucosa muy disminuida", "LCR hemático"],
+      "a": 1,
+      "e": "El Guillain-Barré es una polineuropatía aguda autoinmune (a menudo tras Campylobacter jejuni) con parálisis ascendente y arreflexia. La prioridad de enfermería es vigilar la capacidad vital para intubar a tiempo."
+    },
+    {
+      "q": "La tríada de Cushing, signo de hipertensión intracraneal grave, consiste en:",
+      "o": ["Hipotensión, taquicardia y taquipnea", "Fiebre, rigidez de nuca y fotofobia", "Midriasis bilateral, hipotermia y bradipnea", "Hipertensión arterial, bradicardia y alteraciones del patrón respiratorio"],
+      "a": 3,
+      "e": "La tríada de Cushing (HTA con presión diferencial amplia, bradicardia y respiración irregular) indica riesgo de herniación. La hipotensión con taquicardia orienta a shock hipovolémico."
+    },
+    {
+      "q": "La presión de perfusión cerebral se calcula como:",
+      "o": ["Presión arterial media menos presión intracraneal (PAM − PIC)", "Presión intracraneal menos presión arterial media", "Presión sistólica más presión intracraneal", "Presión venosa central menos PIC"],
+      "a": 0,
+      "e": "PPC = PAM − PIC; el objetivo es mantenerla por encima de 60 mmHg. Para controlar la PIC: cabecera a 30°, cabeza neutra, sedoanalgesia, terapia hiperosmolar y aspiraciones breves con preoxigenación."
+    },
+    {
+      "q": "En un paciente portador de un drenaje ventricular externo, antes de movilizarlo para el aseo la enfermera debe:",
+      "o": ["Bajar la cámara al suelo", "Elevar la cámara por encima de la cabeza", "Retirar el drenaje", "Pinzar temporalmente el sistema para evitar un vaciado brusco de LCR"],
+      "a": 3,
+      "e": "Antes de cualquier movilización se cierra el drenaje para evitar un vaciado descontrolado de LCR (colapso ventricular, sangrado). El cero se calibra a la altura del trago (agujero de Monro) y se mantiene la asepsia."
+    }
+  ]
+}

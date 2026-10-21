@@ -1,0 +1,187 @@
+{
+  "tema": 37,
+  "titulo": "Desarrollo de la conducta humana. Tipos de personalidad. Hábitos. Motivación. Factores socioculturales y salud. Componentes psicosociales y de adaptación del paciente hospitalizado. Intervención de enfermería",
+  "programa": "Desarrollo de la conducta humana: etapas del desarrollo. Tipos de personalidad. Hábitos. Motivación. Factores socioculturales: su incidencia en la salud. Componentes psicosociales y de adaptación del paciente hospitalizado. Intervención de enfermería.",
+  "preguntas": [
+    {
+      "q": "Un paciente hipertenso solo toma la medicación si la enfermera le ofrece una recompensa o cuando nota el alivio inmediato de su cefalea. Según Kohlberg, su razonamiento moral corresponde al:",
+      "o": ["Estadio 4: orden social y autoridad", "Estadio 6: principios éticos universales", "Estadio 2: individualismo e intercambio instrumental", "Estadio 3: aprobación interpersonal"],
+      "a": 2,
+      "e": "Actuar a cambio de un beneficio o recompensa es propio del estadio 2 (nivel preconvencional). En el estadio 4 la persona cumple porque respeta las normas y el orden establecido."
+    },
+    {
+      "q": "Según Kohlberg, el nivel de razonamiento moral que alcanzan los adolescentes y la mayoría de los adultos es el:",
+      "o": ["Convencional", "Preconvencional", "Posconvencional", "Sensoriomotor"],
+      "a": 0,
+      "e": "El nivel convencional (estadios 3 y 4: aprobación de los demás y orden social) es el de la mayoría de adolescentes y adultos. El posconvencional (contrato social y principios universales) solo lo alcanza una minoría."
+    },
+    {
+      "q": "René Spitz atribuyó el «hospitalismo» observado en lactantes institucionalizados a:",
+      "o": ["Las infecciones nosocomiales por la mala higiene", "La deprivación afectiva y la ausencia de una figura de apego estable", "La desnutrición calórica", "Factores genéticos"],
+      "a": 1,
+      "e": "Spitz demostró que los lactantes enfermaban y morían pese a recibir buena higiene y nutrición: la causa era la falta de afecto y de una figura de apego. Sus estudios fueron la base de la teoría del apego de Bowlby."
+    },
+    {
+      "q": "La depresión anaclítica descrita por Spitz aparece en:",
+      "o": ["Adolescentes con fracaso escolar", "Ancianos institucionalizados", "Lactantes nacidos prematuros", "Niños pequeños separados bruscamente de su madre tras haber establecido un vínculo con ella"],
+      "a": 3,
+      "e": "La depresión anaclítica surge tras la separación brusca de la figura de apego en un niño que ya tenía un vínculo: apatía, llanto, retraimiento, pérdida de peso, retraso y más infecciones."
+    },
+    {
+      "q": "Según Piaget, el egocentrismo intelectual y el pensamiento simbólico son característicos de la etapa:",
+      "o": ["Preoperacional (2-7 años)", "Sensoriomotora (0-2 años)", "De las operaciones concretas (7-11 años)", "De las operaciones formales (desde los 11-12 años)"],
+      "a": 0,
+      "e": "En la etapa preoperacional el niño domina el lenguaje y el símbolo, pero es egocéntrico y no comprende la conservación. La permanencia del objeto se adquiere en la sensoriomotora y el pensamiento abstracto, en las operaciones formales."
+    },
+    {
+      "q": "Según Erikson, la crisis psicosocial de la vejez es:",
+      "o": ["Confianza frente a desconfianza", "Identidad frente a confusión de roles", "Intimidad frente a aislamiento", "Integridad del yo frente a desesperación"],
+      "a": 3,
+      "e": "Erikson describe 8 crisis a lo largo de la vida. En la senectud se plantea la integridad del yo frente a la desesperación, que influye en la aceptación de la enfermedad y la muerte."
+    },
+    {
+      "q": "Según la teoría de los somatotipos de Sheldon, el ectomorfo (delgado y frágil) se asocia a un temperamento:",
+      "o": ["Viscerotónico: sociable y amante de la comodidad", "Cerebrotónico: introvertido, sensible y aprensivo", "Somatotónico: enérgico y competitivo", "Pícnico: ciclotímico"],
+      "a": 1,
+      "e": "Sheldon relacionó el endomorfo con el temperamento viscerotónico, el mesomorfo con el somatotónico y el ectomorfo con el cerebrotónico. Estas teorías biotipológicas están hoy superadas."
+    },
+    {
+      "q": "Un paciente hospitalizado exige que su ropa de cama esté perfectamente alineada y que se respeten estrictamente sus horarios, como forma habitual de ser, sin vivirlo con angustia. Esto orienta a:",
+      "o": ["Trastorno obsesivo-compulsivo (TOC) de ansiedad", "Trastorno límite de la personalidad", "Trastorno obsesivo-compulsivo de la personalidad, de carácter egosintónico", "Trastorno esquizoide"],
+      "a": 2,
+      "e": "El trastorno obsesivo-compulsivo de la personalidad (anancástico) es un patrón de perfeccionismo, rigidez y control vivido como propio (egosintónico). El TOC cursa con obsesiones y compulsiones que generan angustia (egodistónico). Conviene pactar con el paciente cierto control de sus rutinas."
+    },
+    {
+      "q": "Ante un paciente con trastorno límite de la personalidad que amenaza con autolesionarse si no se le permite saltarse las normas de visita, la actuación de enfermería adecuada es:",
+      "o": ["Establecer límites firmes y uniformes por parte de todo el equipo y vigilar el riesgo de autolesión", "Ceder a sus peticiones para evitar su sufrimiento", "Negociar con cada profesional por separado", "Ignorar las amenazas"],
+      "a": 0,
+      "e": "En los trastornos del grupo B (límite, antisocial) el equipo debe mantener límites firmes y una comunicación unificada, sin ceder al chantaje (refuerza la conducta) y vigilando el riesgo real de autolesión."
+    },
+    {
+      "q": "Según el DSM-5-TR, el trastorno de la personalidad por evitación pertenece al grupo:",
+      "o": ["A (raros o excéntricos)", "B (dramáticos o emocionales)", "Es un trastorno de ansiedad, no de personalidad", "C (ansiosos o temerosos)"],
+      "a": 3,
+      "e": "Grupo A: paranoide, esquizoide, esquizotípico. Grupo B: antisocial, límite, histriónico, narcisista. Grupo C: evitación, dependiente y obsesivo-compulsivo de la personalidad."
+    },
+    {
+      "q": "El patrón de conducta tipo A, descrito por Friedman y Rosenman, se caracteriza por:",
+      "o": ["Conformismo y supresión de la ira", "Competitividad, prisa, impaciencia y hostilidad, y se asocia a cardiopatía isquémica", "Afectividad negativa e inhibición social", "Tranquilidad y disfrute del ocio"],
+      "a": 1,
+      "e": "El patrón A (competitividad, urgencia temporal, impaciencia y hostilidad) es un factor de riesgo de cardiopatía isquémica; la hostilidad es su componente más dañino. El patrón B, tranquilo, es protector."
+    },
+    {
+      "q": "El patrón de conducta tipo C (Temoshok) se caracteriza por conformismo, complacencia y supresión de las emociones negativas. Se asocia a:",
+      "o": ["Ser la causa directa del cáncer", "Mayor riesgo de infarto por hostilidad", "Peor pronóstico y progresión más rápida del cáncer, por inmunosupresión", "Mayor esperanza de vida"],
+      "a": 2,
+      "e": "La inhibición emocional mantenida eleva el cortisol y deprime la inmunidad (células NK), lo que se asocia a peor evolución del cáncer. No se considera la causa del tumor."
+    },
+    {
+      "q": "El patrón de conducta tipo D (Denollet) se define por la combinación de:",
+      "o": ["Afectividad negativa e inhibición social", "Hostilidad y prisa", "Conformismo y deseo de agradar", "Extraversión y búsqueda de sensaciones"],
+      "a": 0,
+      "e": "El tipo D («distressed») combina afectividad negativa (ansiedad, tristeza, preocupación) e inhibición social (no expresa sus emociones). Sufre en silencio y tiene más mortalidad tras el infarto."
+    },
+    {
+      "q": "En el modelo de Lazarus y Folkman, la evaluación en la que el paciente valora si un diagnóstico supone un daño, una amenaza o un desafío es la:",
+      "o": ["Evaluación secundaria", "Reevaluación", "Fase de alarma", "Evaluación primaria"],
+      "a": 3,
+      "e": "La evaluación primaria responde a «¿qué significa esto para mí?» (daño, amenaza o desafío); la secundaria, a «¿con qué recursos cuento?»; la reevaluación corrige según los resultados."
+    },
+    {
+      "q": "Un paciente con diabetes recién diagnosticada pide información, planifica sus comidas y organiza sus controles. Utiliza un afrontamiento:",
+      "o": ["Centrado en la emoción", "Centrado en el problema", "Por negación", "Por evitación"],
+      "a": 1,
+      "e": "El afrontamiento centrado en el problema actúa sobre la fuente del estrés (informarse, planificar, cambiar hábitos). El centrado en la emoción intenta regular el malestar, sobre todo cuando la situación no puede cambiarse."
+    },
+    {
+      "q": "Ante una situación que el paciente valora como inmodificable (por ejemplo, una amputación ya realizada), el tipo de afrontamiento que suele predominar es el:",
+      "o": ["Centrado en el problema", "Instrumental", "Centrado en la emoción", "Preconvencional"],
+      "a": 2,
+      "e": "Cuando la situación no se puede cambiar, el afrontamiento se orienta a regular la respuesta emocional (relajación, reinterpretación positiva, expresión del llanto o, de forma desadaptativa, negación o abuso de fármacos). Folkman añadió además el afrontamiento centrado en el significado."
+    },
+    {
+      "q": "Las fases del síndrome general de adaptación de Hans Selye son:",
+      "o": ["Alarma, resistencia y agotamiento", "Negación, ira y aceptación", "Precontemplación, acción y mantenimiento", "Evaluación primaria, secundaria y reevaluación"],
+      "a": 0,
+      "e": "Selye describió una respuesta inespecífica al estrés en tres fases: alarma (simpático, adrenalina), resistencia (cortisol) y agotamiento (inmunosupresión, úlceras de estrés)."
+    },
+    {
+      "q": "En el síndrome general de adaptación, la liberación mantenida de cortisol con hiperglucemia caracteriza la fase de:",
+      "o": ["Alarma", "Agotamiento inicial", "Reevaluación", "Resistencia"],
+      "a": 3,
+      "e": "En la fase de resistencia el estresor persiste y se activa el eje hipotálamo-hipófisis-suprarrenal (cortisol). La fase de alarma depende del simpático y la adrenalina; el agotamiento llega cuando se consumen las reservas."
+    },
+    {
+      "q": "Un paciente recién operado refiere un dolor de 8 sobre 10 en la EVA. Según la jerarquía de Maslow, la enfermera debe:",
+      "o": ["Aprovechar para hacer la educación sanitaria del alta", "Controlar primero el dolor y educar después", "Hablarle de sus objetivos de autorrealización", "Posponer la analgesia hasta terminar la educación"],
+      "a": 1,
+      "e": "Las necesidades fisiológicas (como el alivio del dolor) deben cubrirse antes que las superiores. Con dolor intenso, el paciente no puede atender ni aprender: primero analgesia y después educación."
+    },
+    {
+      "q": "En el modelo transteórico de Prochaska y DiClemente, la persona que es consciente de su problema y sopesa los pros y contras de cambiar, con ambivalencia, está en la fase de:",
+      "o": ["Contemplación", "Precontemplación", "Acción", "Mantenimiento"],
+      "a": 0,
+      "e": "En la contemplación la persona reconoce el problema pero duda. En la precontemplación no piensa cambiar en los próximos 6 meses; en la preparación decide hacerlo en los próximos 30 días."
+    },
+    {
+      "q": "En el modelo transteórico, un fumador que ha decidido dejarlo en los próximos 30 días y ya ha pedido cita en la consulta de deshabituación está en la fase de:",
+      "o": ["Contemplación", "Mantenimiento", "Preparación", "Recaída"],
+      "a": 2,
+      "e": "La preparación (o determinación) es la decisión de actuar de forma inminente (próximos 30 días) con primeros pasos concretos. Después vienen la acción y el mantenimiento."
+    },
+    {
+      "q": "En el modelo transteórico, se considera que una persona está en la fase de mantenimiento cuando el nuevo hábito se ha sostenido:",
+      "o": ["Durante una semana", "Durante un mes", "Durante tres meses", "Durante más de seis meses"],
+      "a": 3,
+      "e": "El mantenimiento se alcanza cuando el cambio se ha sostenido más de 6 meses; el objetivo es prevenir recaídas. La recaída se considera parte normal del proceso y no debe juzgarse."
+    },
+    {
+      "q": "El Informe Lalonde (1974) agrupó los determinantes de la salud en:",
+      "o": ["Edad, sexo y genética", "Biología humana, medio ambiente, estilo de vida y sistema sanitario", "Factores individuales, familiares y laborales", "Nivel de renta, educación y vivienda"],
+      "a": 1,
+      "e": "Lalonde describió cuatro grandes determinantes: biología humana, medio ambiente, estilo de vida y organización del sistema sanitario."
+    },
+    {
+      "q": "Según los datos clásicos derivados del modelo de Lalonde (Dever), el estilo de vida:",
+      "o": ["Explica alrededor del 43% de la mortalidad y recibe en torno al 1,5% del gasto", "Explica el 11% de la mortalidad y recibe el 90% del gasto", "No influye en la mortalidad", "Recibe la mayor parte del gasto sanitario"],
+      "a": 0,
+      "e": "Es la paradoja clásica: el estilo de vida explica ≈ 43% de la mortalidad pero recibe ≈ 1,5% del gasto, mientras que el sistema sanitario explica ≈ 11% y absorbe ≈ 90%. Justifica la inversión en prevención y educación para la salud."
+    },
+    {
+      "q": "En el modelo de Dahlgren y Whitehead, el apoyo de la familia, los amigos y las buenas relaciones con los compañeros de trabajo pertenecen a la capa de:",
+      "o": ["Edad, sexo y factores hereditarios", "Estilos de vida individuales", "Redes sociales y comunitarias", "Condiciones socioeconómicas, culturales y ambientales generales"],
+      "a": 2,
+      "e": "Las redes sociales y comunitarias (familia, amistades, relaciones laborales, participación comunitaria) actúan como amortiguador del estrés. La capa de condiciones de vida y trabajo incluye factores materiales como vivienda, alimentación, agua o empleo."
+    },
+    {
+      "q": "Según Leininger, cuando una práctica cultural del paciente puede adaptarse al tratamiento mediante el diálogo, la enfermera realiza una:",
+      "o": ["Reestructuración de los cuidados culturales", "Preservación de los cuidados culturales", "Imposición del cuidado biomédico", "Acomodación o negociación de los cuidados culturales"],
+      "a": 3,
+      "e": "Leininger propone tres modos de acción: preservación (mantener prácticas beneficiosas), acomodación o negociación (adaptarlas al tratamiento) y reestructuración (modificar las perjudiciales con respeto). Su modelo gráfico es el del Sol Naciente."
+    },
+    {
+      "q": "Una anciana presenta ansiedad, irritabilidad, insomnio y confusión tras ser trasladada de su domicilio a una residencia. El diagnóstico NANDA más adecuado es:",
+      "o": ["Deterioro de la memoria", "Síndrome de estrés del traslado", "Riesgo de caídas", "Desesperanza"],
+      "a": 1,
+      "e": "El síndrome de estrés del traslado (00114) describe la alteración física y psicosocial tras un cambio de entorno, frecuente en ancianos: ansiedad, ira, soledad, depresión, insomnio y confusión."
+    },
+    {
+      "q": "En el modelo de Callista Roy, el ruido de los monitores que impide dormir a un paciente ingresado es un estímulo:",
+      "o": ["Focal", "Residual", "Contextual", "Interdependiente"],
+      "a": 2,
+      "e": "El estímulo focal es el que afronta directamente la persona; los contextuales son los demás factores del entorno que influyen (ruido, luces, ausencia de familia); los residuales son creencias o experiencias previas de efecto incierto."
+    },
+    {
+      "q": "Los cuatro modos de adaptación del modelo de Callista Roy son:",
+      "o": ["Fisiológico, autoconcepto, función del rol e interdependencia", "Alarma, resistencia, agotamiento y recuperación", "Preservación, acomodación, reestructuración y repatronaje", "Precontemplación, contemplación, acción y mantenimiento"],
+      "a": 0,
+      "e": "Roy considera a la persona un sistema adaptativo que responde a estímulos focales, contextuales y residuales a través de cuatro modos: fisiológico-físico, autoconcepto, función del rol e interdependencia."
+    },
+    {
+      "q": "Un anciano va a ser trasladado de la planta de agudos a una unidad de media estancia. La intervención NIC indicada para prevenir su malestar es:",
+      "o": ["Prevención de caídas", "Potenciación de la autoestima", "Planificación del alta", "Disminución del estrés por traslado"],
+      "a": 3,
+      "e": "La NIC Disminución del estrés por traslado (5350) incluye preparar e informar con antelación al paciente y la familia y facilitar que se familiarice con el nuevo entorno."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "tema": 13,
+  "titulo": "Salud comunitaria y grupos vulnerables. Investigación cualitativa y práctica basada en la evidencia",
+  "programa": "Salud comunitaria: conceptos, determinantes sociales de la salud, marco legal estatal y de la Región de Murcia, grupos excluidos y en riesgo de exclusión, barreras de acceso, prevención y fomento de la salud, participación comunitaria, datos epidemiológicos regionales y rol de la enfermería comunitaria. Investigación cualitativa: fundamentos, diseños, proceso y fases, técnicas (observación, entrevista, grupos de discusión y técnicas de consenso), análisis, criterios de rigor, software CAQDAS y práctica basada en la evidencia.",
+  "preguntas": [
+    {
+      "q": "¿Qué declaración internacional renovó en 2018 los compromisos de la Atención Primaria, situando la Cobertura Sanitaria Universal y las tecnologías digitales como ejes del siglo XXI?",
+      "o": ["Declaración de Alma-Ata", "Carta de Ottawa", "Declaración de Astaná", "Declaración de Yakarta"],
+      "a": 2,
+      "e": "Astaná (2018) reafirmó Alma-Ata (1978) adaptándola al siglo XXI: Cobertura Sanitaria Universal, cronicidad, tecnologías y ODS. Ottawa (1986) es la carta de la Promoción de la Salud."
+    },
+    {
+      "q": "La diferencia esencial entre la salud comunitaria y la salud pública tradicional es que la salud comunitaria:",
+      "o": ["Planifica con la población, buscando su empoderamiento y participación", "Planifica para la población desde las instituciones", "Se limita a la atención individual en la consulta", "Excluye la participación de otros sectores"],
+      "a": 0,
+      "e": "La salud pública tiende a planificar \"para\" la población; la salud comunitaria lo hace \"con\" ella, con participación real y corresponsabilidad."
+    },
+    {
+      "q": "Las tres dimensiones del Sentido de Coherencia (SOC) de Antonovsky son:",
+      "o": ["Eficacia, eficiencia y efectividad", "Autonomía, beneficencia y justicia", "Información, consulta y asociación", "Comprensibilidad, manejabilidad y significatividad"],
+      "a": 3,
+      "e": "El SOC es la base del modelo salutogénico: comprender lo que ocurre (comprensibilidad), disponer de recursos para afrontarlo (manejabilidad) y considerar que merece la pena (significatividad)."
+    },
+    {
+      "q": "Los cuatro campos determinantes de la salud descritos en el Informe Lalonde (1974) son:",
+      "o": ["Edad, sexo, genética y clase social", "Biología humana, estilos de vida, medio ambiente y sistema sanitario", "Proximales, intermedios, distales y estructurales", "Vivienda, empleo, educación y renta"],
+      "a": 1,
+      "e": "Lalonde identificó biología humana, estilos de vida, medio ambiente y sistema de asistencia sanitaria, aunque no abordó a fondo las desigualdades estructurales."
+    },
+    {
+      "q": "En el modelo de Dahlgren y Whitehead (1991), el centro de las capas concéntricas lo ocupan:",
+      "o": ["La edad, el sexo y los factores genéticos", "Las condiciones socioeconómicas, culturales y ambientales generales", "Las redes sociales y comunitarias", "Las condiciones de vida y de trabajo"],
+      "a": 0,
+      "e": "En el centro están los factores individuales no modificables (edad, sexo, genética); después, estilos de vida, redes sociales, condiciones de vida y trabajo y, en la capa externa, las condiciones socioeconómicas generales."
+    },
+    {
+      "q": "El hacinamiento en las viviendas de trabajadores agrícolas temporeros es, según la clasificación operativa, un determinante:",
+      "o": ["Proximal", "Biológico", "Distal o estructural", "Intermedio"],
+      "a": 3,
+      "e": "Vivienda, empleo, educación, transporte o redes sociales son determinantes intermedios: conectan lo individual (proximal) con lo estructural (políticas, economía)."
+    },
+    {
+      "q": "El concepto de interseccionalidad aplicado a la vulnerabilidad social significa que:",
+      "o": ["Cada factor de riesgo actúa de forma independiente", "La vulnerabilidad depende solo del nivel de renta", "Los factores de riesgo no se suman, sino que se multiplican al coincidir en una persona", "Solo afecta a la población inmigrante"],
+      "a": 2,
+      "e": "Una persona puede pertenecer a varios grupos vulnerables a la vez (p. ej., mujer, inmigrante, sin recursos): los riesgos se potencian y su riesgo sanitario crece exponencialmente."
+    },
+    {
+      "q": "La norma fundamental que organiza el Servicio Murciano de Salud y sitúa la Atención Primaria como puerta de entrada al sistema regional es:",
+      "o": ["La Ley 33/2011, General de Salud Pública", "La Ley 4/1994, de Salud de la Región de Murcia", "La Ley 16/2003, de Cohesión y Calidad del SNS", "La Ley 39/2006, de Dependencia"],
+      "a": 1,
+      "e": "La Ley 4/1994, de 26 de julio, de Salud de la Región de Murcia, es la norma de cabecera del SMS. La Ley 33/2011 es estatal y regula la salud pública."
+    },
+    {
+      "q": "Según el modelo salutogénico, un \"activo para la salud\" es:",
+      "o": ["Cualquier carencia que deba corregirse en la comunidad", "Cualquier recurso (persona, lugar, asociación o institución) que potencia la capacidad de mantener el bienestar", "Exclusivamente un recurso sanitario público", "Un indicador epidemiológico de morbilidad"],
+      "a": 1,
+      "e": "Frente al modelo de déficit, la salutogénesis busca lo que genera salud. Los activos (una asociación vecinal, un parque, una red de apoyo) se identifican mediante el mapeo de activos."
+    },
+    {
+      "q": "En la escalera de participación de Arnstein (1969), la participación real o poder ciudadano comienza en el peldaño de:",
+      "o": ["La asociación", "La información", "La consulta", "El apaciguamiento"],
+      "a": 0,
+      "e": "Manipulación y terapia son no participación; información, consulta y apaciguamiento, participación simbólica; asociación, poder delegado y control ciudadano, participación real."
+    },
+    {
+      "q": "La llamada \"paradoja de género\" en salud se refiere a que las mujeres:",
+      "o": ["Tienen menor esperanza de vida y mejor salud percibida", "Presentan menos trastornos de ansiedad y depresión", "Utilizan menos los servicios sanitarios", "Tienen mayor esperanza de vida, pero peor salud percibida y más años con discapacidad"],
+      "a": 3,
+      "e": "Las mujeres viven más, pero refieren peor salud percibida y más trastornos ansioso-depresivos, en relación con la doble carga de trabajo, la precariedad y los cuidados."
+    },
+    {
+      "q": "Ante una barrera lingüística con un paciente inmigrante, es una práctica desaconsejada:",
+      "o": ["Recurrir a servicios de interpretación profesionales", "Utilizar materiales de educación sanitaria en varios idiomas", "Utilizar habitualmente a familiares, especialmente a menores, como traductores", "Apoyarse en agentes comunitarios de salud"],
+      "a": 2,
+      "e": "El uso inapropiado de familiares como intérpretes dificulta la comprensión de los tratamientos y compromete la confidencialidad. Intérpretes, materiales multiidioma y agentes comunitarios son estrategias recomendadas."
+    },
+    {
+      "q": "El tipo de razonamiento característico de la investigación cualitativa es:",
+      "o": ["Inductivo: de los datos particulares a la construcción de patrones y teorías", "Deductivo: de la teoría general a la confirmación de hipótesis", "Exclusivamente estadístico", "Hipotético-deductivo con contraste de hipótesis"],
+      "a": 0,
+      "e": "Regla de oro: cualitativa = inductiva (particular → general); cuantitativa = deductiva (general → particular)."
+    },
+    {
+      "q": "La epojé o bracketing, que consiste en poner entre paréntesis los prejuicios del investigador, es propia de:",
+      "o": ["La fenomenología hermenéutica de Heidegger", "La teoría fundamentada de Glaser y Strauss", "La fenomenología descriptiva de Husserl", "La investigación-acción de Lewin"],
+      "a": 2,
+      "e": "Husserl (descriptiva) propone la epojé. Heidegger (hermenéutica) la considera imposible: el investigador es un ser-en-el-mundo (Dasein) y usa su precomprensión en el círculo hermenéutico."
+    },
+    {
+      "q": "En un estudio etnográfico, la perspectiva \"emic\" corresponde a:",
+      "o": ["La interpretación científica del investigador desde fuera", "La revisión bibliográfica previa", "El análisis estadístico de los datos", "La visión de los propios miembros del grupo, desde dentro"],
+      "a": 3,
+      "e": "Emic = visión desde dentro (nativa, local). Etic = interpretación desde fuera del investigador, con marcos teóricos de la disciplina."
+    },
+    {
+      "q": "Un diseño cualitativo basado en el interaccionismo simbólico, el método comparativo constante y el muestreo teórico, cuyo fin es generar teoría a partir de los datos, es:",
+      "o": ["La fenomenología", "La teoría fundamentada (Grounded Theory)", "La etnografía", "El estudio de caso"],
+      "a": 1,
+      "e": "La teoría fundamentada (Glaser y Strauss, 1967) recoge y analiza los datos de forma simultánea, elige a los participantes según la teoría emergente y culmina en una categoría central."
+    },
+    {
+      "q": "Respecto a la investigación-acción, es correcto que:",
+      "o": ["El investigador debe mantener una distancia fría y neutral", "Su fin es solo generar conocimiento teórico", "Sigue un proceso lineal con una única fase de análisis", "Los participantes son coinvestigadores y el proceso sigue una espiral de planificación, acción, observación y reflexión"],
+      "a": 3,
+      "e": "La investigación-acción (Kurt Lewin) busca transformar la realidad. Es colaborativa y cíclica: planificar, actuar, observar y reflexionar, lo que lleva a una nueva planificación."
+    },
+    {
+      "q": "Para estructurar una pregunta de búsqueda sobre el impacto de pasar de turnos rotatorios a turnos fijos en el burnout de la plantilla de enfermería, el formato más adecuado es:",
+      "o": ["ECLIPSE", "PICO", "SPIDER", "SPICE"],
+      "a": 0,
+      "e": "ECLIPSE (Expectation, Client group, Location, Impact, Professionals, SErvice) está diseñado para preguntas de gestión y políticas sanitarias. PICO es para eficacia; SPICE y SPIDER, para preguntas cualitativas."
+    },
+    {
+      "q": "En investigación cualitativa, el tamaño de la muestra se determina:",
+      "o": ["Mediante una fórmula con el nivel de confianza y las pérdidas esperadas", "Por saturación de los datos, cuando las nuevas entrevistas dejan de aportar información nueva", "Siempre con un mínimo de 100 participantes", "Por el comité de ética antes de iniciar el estudio"],
+      "a": 1,
+      "e": "No se usan fórmulas: la muestra es flexible y se cierra al alcanzar la saturación, cuando los discursos se vuelven redundantes y no surgen códigos ni categorías nuevas."
+    },
+    {
+      "q": "El tipo de muestreo de elección general en investigación cualitativa es:",
+      "o": ["El aleatorio estratificado", "La bola de nieve", "El intencional o propositivo", "El sistemático"],
+      "a": 2,
+      "e": "Se eligen deliberadamente informantes ricos en información. La bola de nieve se reserva para poblaciones ocultas o estigmatizadas; el muestreo probabilístico no se usa."
+    },
+    {
+      "q": "En investigación cualitativa, los gatekeepers o \"porteros\" son:",
+      "o": ["Los informantes que transcriben las entrevistas", "Los auditores externos del estudio", "Personas con poder para facilitar o bloquear el acceso del investigador al campo", "Los participantes con mayor nivel de estudios"],
+      "a": 2,
+      "e": "Son figuras estratégicas (p. ej., la supervisora de la unidad o un líder comunitario) que abren o cierran la entrada al escenario de estudio."
+    },
+    {
+      "q": "Según la tipología de Gold, el rol de \"participante completo\" en la observación se caracteriza por:",
+      "o": ["Observar sin ninguna interacción con el grupo", "Ocultar su identidad investigadora, lo que plantea dilemas éticos y el riesgo de \"volverse nativo\"", "Ser un investigador externo con participación mínima", "Revelar abiertamente su rol de investigador desde el principio"],
+      "a": 1,
+      "e": "El participante completo se integra en el grupo ocultando su propósito: máxima inmersión, pero problemas éticos (engaño, falta de consentimiento) y riesgo de perder la capacidad crítica (going native)."
+    },
+    {
+      "q": "En relación con los grupos de discusión o grupos focales, es correcto que:",
+      "o": ["Reúnen habitualmente a 6-12 personas homogéneas, y su fortaleza es el efecto sinérgico del grupo", "Deben mezclar participantes con distinto nivel de poder para enriquecer el debate", "Sustituyen a la entrevista individual con la suma de opiniones", "Se realizan de forma anónima y a distancia"],
+      "a": 0,
+      "e": "El grupo debe ser homogéneo para que todos hablen con libertad (las asimetrías de poder inhiben). Dura 60-120 minutos, con un moderador y un observador."
+    },
+    {
+      "q": "Una técnica de consenso con expertos geográficamente dispersos, que responden de forma anónima a cuestionarios sucesivos con retroalimentación estadística entre rondas, es:",
+      "o": ["La técnica de grupo nominal", "La técnica de la pecera (fishbowl)", "El grupo focal", "El método Delphi"],
+      "a": 3,
+      "e": "El Delphi evita el contacto entre expertos y el efecto halo; suele tener 2-3 rondas. El grupo nominal, en cambio, es presencial."
+    },
+    {
+      "q": "En la técnica de grupo nominal, durante la ronda de exposición (round-robin):",
+      "o": ["Los participantes debaten libremente cada idea", "Cada participante expone por turno una idea, que se anota sin debatirla ni criticarla", "Se realiza la votación final", "Se envían cuestionarios por correo"],
+      "a": 1,
+      "e": "Secuencia: generación silenciosa → exposición por turnos sin debate → clarificación (debate estructurado) → votación individual."
+    },
+    {
+      "q": "Devolver a los participantes las transcripciones e interpretaciones para que confirmen que su vivencia se ha recogido fielmente (member checking) asegura principalmente la:",
+      "o": ["Credibilidad", "Transferibilidad", "Dependencia", "Confirmabilidad"],
+      "a": 0,
+      "e": "El member checking es la estrategia de elección para la credibilidad (equivalente a la validez interna). La confirmabilidad se asegura con la reflexividad."
+    },
+    {
+      "q": "El criterio de rigor de Lincoln y Guba equivalente a la fiabilidad, que se garantiza mediante la pista de auditoría (audit trail), es la:",
+      "o": ["Credibilidad", "Transferibilidad", "Dependencia o consistencia", "Saturación"],
+      "a": 2,
+      "e": "Credibilidad = validez interna; transferibilidad = validez externa (descripción densa); dependencia = fiabilidad (pista de auditoría); confirmabilidad = objetividad (reflexividad)."
+    },
+    {
+      "q": "En un estudio sobre las demoras en urgencias se entrevista sobre el mismo hecho a un paciente, a la enfermera de triaje y al médico de guardia. Esta estrategia es una triangulación:",
+      "o": ["Metodológica", "Teórica", "De investigadores", "De datos (de personas)"],
+      "a": 3,
+      "e": "Contrastar la perspectiva de distintos actores sobre un mismo hecho es triangulación de datos (de personas). La metodológica combina diferentes técnicas (p. ej., entrevista y grupo focal)."
+    },
+    {
+      "q": "Respecto al software de análisis cualitativo (CAQDAS) como ATLAS.ti o NVivo, es correcto que:",
+      "o": ["Facilita la gestión, codificación y recuperación de los datos, pero la interpretación la hace el investigador", "Analiza de forma autónoma los discursos y extrae las conclusiones", "Sustituye la necesidad de triangulación", "No permite calcular la concordancia entre codificadores"],
+      "a": 0,
+      "e": "El CAQDAS es un soporte logístico: gestiona documentos, codifica, recupera fragmentos, aloja memos y calcula la concordancia entre codificadores (kappa de Cohen). El análisis es humano."
+    },
+    {
+      "q": "En los criterios FAME del Instituto Joanna Briggs para la evidencia cualitativa, la \"M\" (Meaningfulness) valora:",
+      "o": ["La viabilidad económica de la intervención", "La efectividad clínica de la intervención", "La adecuación ética y cultural al contexto", "El significado que la intervención tiene para el paciente según su experiencia y valores"],
+      "a": 3,
+      "e": "F = Feasibility (viabilidad o factibilidad), A = Appropriateness (adecuación ética y cultural), M = Meaningfulness (significado para el paciente), E = Effectiveness (efectividad)."
+    }
+  ]
+}

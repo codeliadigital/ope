@@ -1,0 +1,187 @@
+{
+  "tema": 23,
+  "titulo": "Alimentación y nutrición. Dietas terapéuticas. Cuidados en desnutrición, deshidratación, anorexia, bulimia y obesidad",
+  "programa": "Alimentación y nutrición: nutrientes y clasificación de los alimentos. Elaboración de dietas y gasto energético. Dietas terapéuticas. Valoración, intervenciones y cuidados de enfermería a personas con problemas de desnutrición, deshidratación, anorexia, bulimia y obesidad. Soporte nutricional artificial.",
+  "preguntas": [
+    {
+      "q": "¿Cuántas kilocalorías aporta un gramo de lípidos?",
+      "o": ["4 kcal", "9 kcal", "7 kcal", "0 kcal"],
+      "a": 1,
+      "e": "Hidratos de carbono y proteínas aportan 4 kcal/g, el alcohol 7 kcal/g y las grasas 9 kcal/g. Vitaminas y minerales no aportan energía."
+    },
+    {
+      "q": "En una dieta equilibrada, los hidratos de carbono deben aportar aproximadamente:",
+      "o": ["10-15% del valor calórico total", "30-35%", "70-80%", "50-55%"],
+      "a": 3,
+      "e": "Lípidos 30-35% y proteínas 10-15%; los azúcares simples no deben superar el 10%."
+    },
+    {
+      "q": "Un gran quemado en situación de hipercatabolismo presentará un balance nitrogenado:",
+      "o": ["Positivo", "Neutro", "Negativo", "Imposible de calcular"],
+      "a": 2,
+      "e": "Elimina más nitrógeno del que ingiere por la destrucción de tejidos; necesita una dieta hiperproteica."
+    },
+    {
+      "q": "Son vitaminas liposolubles:",
+      "o": ["A, D, E y K", "B1, B6 y B12", "C y ácido fólico", "Todas las del complejo B"],
+      "a": 0,
+      "e": "Se absorben con las grasas y se acumulan en el organismo, por lo que su exceso puede ser tóxico."
+    },
+    {
+      "q": "El tratamiento con isoniazida para la tuberculosis puede provocar el déficit de:",
+      "o": ["Vitamina C", "Vitamina K", "Vitamina B6 (piridoxina)", "Vitamina A"],
+      "a": 2,
+      "e": "Se suplementa la piridoxina para prevenir la neuropatía periférica."
+    },
+    {
+      "q": "La pelagra, caracterizada por dermatitis, diarrea y demencia, se debe al déficit de:",
+      "o": ["Tiamina", "Vitamina C", "Vitamina D", "Niacina (vitamina B3)"],
+      "a": 3,
+      "e": "El déficit de tiamina causa beriberi y encefalopatía de Wernicke; el de vitamina C, escorbuto; el de D, raquitismo."
+    },
+    {
+      "q": "Para absorberse, la vitamina B12 necesita:",
+      "o": ["Unirse al factor intrínseco gástrico y absorberse en el íleon terminal", "Un medio alcalino en el duodeno", "La presencia de grasas en la dieta", "La acción de la vitamina C"],
+      "a": 0,
+      "e": "Su déficit (p. ej., tras gastrectomía o en la anemia perniciosa) produce anemia y daño neurológico."
+    },
+    {
+      "q": "Para mejorar la absorción de un suplemento oral de hierro se recomienda tomarlo:",
+      "o": ["Con un vaso de leche", "En ayunas con zumo de naranja", "Con té o café", "Junto a un suplemento de calcio"],
+      "a": 1,
+      "e": "La vitamina C favorece la absorción del hierro no hemo; el calcio, los taninos y los fosfatos la reducen."
+    },
+    {
+      "q": "En la clasificación de los alimentos del programa EDALNU, el grupo 3 está formado por:",
+      "o": ["Leche y derivados", "Carnes, pescados y huevos", "Cereales y azúcares", "Patatas, legumbres y frutos secos"],
+      "a": 3,
+      "e": "Es un grupo mixto (energía, proteína vegetal y fibra), con un sector propio de color naranja en la rueda."
+    },
+    {
+      "q": "El macronutriente con mayor efecto termogénico (gasto energético para su digestión y metabolismo) es:",
+      "o": ["Los hidratos de carbono", "Las grasas", "Las proteínas", "El alcohol"],
+      "a": 2,
+      "e": "El efecto termogénico de los alimentos supone en torno al 10% del gasto total y es máximo con las proteínas."
+    },
+    {
+      "q": "Respecto a la ecuación de Harris-Benedict, es correcto que:",
+      "o": ["Se usa en adultos, con el peso en kg, la altura en cm y la edad, y no está indicada en niños", "Es la ecuación de elección en lactantes", "La altura debe introducirse en metros", "No diferencia entre hombres y mujeres"],
+      "a": 0,
+      "e": "En niños se usan otras ecuaciones (Schofield, FAO/OMS). El resultado se multiplica por factores de actividad y estrés."
+    },
+    {
+      "q": "La dieta líquida clara no debe mantenerse sin suplementación más de:",
+      "o": ["6 horas", "24-48 horas", "1 semana", "2 semanas"],
+      "a": 1,
+      "e": "Solo contiene líquidos transparentes (agua, caldos desgrasados, infusiones, zumos colados) y es muy deficitaria en proteínas y grasas."
+    },
+    {
+      "q": "A un paciente con úlcera péptica o gastritis aguda se le debe pautar una dieta:",
+      "o": ["Blanda gástrica (sin picantes, fritos, café ni cítricos)", "Blanda mecánica", "Hiperproteica", "Rica en fibra"],
+      "a": 0,
+      "e": "La blanda mecánica solo modifica la textura (para masticar); la gástrica evita lo que irrita la mucosa o estimula el ácido."
+    },
+    {
+      "q": "Para reducir el riesgo de broncoaspiración en un paciente con disfagia tras un ictus, durante la deglución se le enseña a:",
+      "o": ["Inclinar la cabeza hacia atrás", "Tumbarse en decúbito supino", "Hablar mientras traga", "Acercar la barbilla al pecho (maniobra chin-tuck)"],
+      "a": 3,
+      "e": "La extensión del cuello abre la vía aérea y favorece la aspiración; la flexión la protege. Además se adaptan las texturas con espesantes."
+    },
+    {
+      "q": "Un líquido espesado con textura miel se caracteriza porque:",
+      "o": ["Cae formando un hilo fino y continuo", "Cae en gotas gruesas y no puede tomarse con pajita", "Mantiene su forma al invertir la cuchara", "Tiene la consistencia del agua"],
+      "a": 1,
+      "e": "Néctar: cae en hilo (vaso o pajita gruesa); miel: cae en gotas (sorbos o cuchara); pudin: mantiene la forma (solo cuchara)."
+    },
+    {
+      "q": "En la encefalopatía hepática grave y en la enfermedad renal crónica prediálisis suele pautarse una dieta:",
+      "o": ["Hiperproteica", "Rica en fibra", "Hipoproteica", "Hipercalórica sin restricciones"],
+      "a": 2,
+      "e": "Se restringen las proteínas (20-40 g/día) para reducir el amoniaco o la urea, asegurando calorías suficientes y proteínas de alto valor biológico."
+    },
+    {
+      "q": "La dieta astringente que se pauta en una gastroenteritis aguda debe ser:",
+      "o": ["Rica en verduras crudas", "Rica en cereales integrales", "Con abundante leche desnatada", "Pobre en residuos y sin lactosa"],
+      "a": 3,
+      "e": "La lactosa tiene efecto osmótico y empeora la diarrea. Se permiten plátano maduro, manzana asada y membrillo."
+    },
+    {
+      "q": "En la dieta por raciones para el paciente diabético, una ración equivale a:",
+      "o": ["10 g de hidratos de carbono", "5 g de hidratos de carbono", "20 g de hidratos de carbono", "50 g de hidratos de carbono"],
+      "a": 0,
+      "e": "Se recomienda fraccionar la ingesta en 5-6 comidas y priorizar los hidratos complejos."
+    },
+    {
+      "q": "En la dieta sin gluten de la enfermedad celíaca están prohibidos:",
+      "o": ["Arroz, maíz y quinoa", "Solo el trigo", "Trigo, avena, cebada y centeno", "Las legumbres"],
+      "a": 2,
+      "e": "Regla TACC. La avena se excluye en los manuales por la contaminación cruzada. Arroz, maíz y quinoa son seguros."
+    },
+    {
+      "q": "Según la OMS, un IMC de 32 kg/m² corresponde a:",
+      "o": ["Sobrepeso", "Obesidad grado I", "Obesidad grado II", "Obesidad mórbida"],
+      "a": 1,
+      "e": "25-29,9 sobrepeso; 30-34,9 obesidad I; 35-39,9 obesidad II; ≥ 40 obesidad III o mórbida."
+    },
+    {
+      "q": "Para valorar si un soporte nutricional está siendo eficaz en los días siguientes a su inicio, el mejor marcador es:",
+      "o": ["La albúmina", "El colesterol total", "La prealbúmina", "La hemoglobina"],
+      "a": 2,
+      "e": "La prealbúmina tiene una vida media de unos 2 días; la albúmina (≈ 20 días) refleja la desnutrición crónica y se altera con la inflamación."
+    },
+    {
+      "q": "Respecto al cribado NRS-2002, es correcto que:",
+      "o": ["Es la herramienta de elección en la comunidad", "Solo se aplica a mayores de 80 años", "No tiene en cuenta la gravedad de la enfermedad", "Se usa en el hospital, suma un punto si el paciente tiene 70 años o más y una puntuación ≥ 3 indica riesgo"],
+      "a": 3,
+      "e": "MUST se usa en la comunidad, NRS-2002 en el hospital y MNA en mayores."
+    },
+    {
+      "q": "El sistema automático de cribado CONUT utiliza:",
+      "o": ["Albúmina, colesterol total y recuento de linfocitos", "Peso, talla e IMC", "Prealbúmina, transferrina y triglicéridos", "Hemoglobina, ferritina y glucosa"],
+      "a": 0,
+      "e": "Cruza tres datos de las analíticas rutinarias y genera alertas de desnutrición en el hospital."
+    },
+    {
+      "q": "La desnutrición tipo kwashiorkor se caracteriza por:",
+      "o": ["Extrema delgadez con albúmina normal", "Edemas, ascitis y descenso brusco de la albúmina", "Obesidad abdominal", "Hipercalcemia"],
+      "a": 1,
+      "e": "Es una desnutrición proteica aguda del estrés metabólico; el marasmo es calórico, con delgadez extrema y albúmina relativamente conservada."
+    },
+    {
+      "q": "En el síndrome de realimentación, la alteración bioquímica característica y más peligrosa es la:",
+      "o": ["Hiperpotasemia", "Hipercalcemia", "Hipernatremia", "Hipofosfatemia"],
+      "a": 3,
+      "e": "El pico de insulina introduce fósforo, potasio y magnesio en las células; la hipofosfatemia causa fallo respiratorio y cardiaco."
+    },
+    {
+      "q": "Para prevenir el síndrome de realimentación en un paciente con desnutrición grave, la tiamina debe administrarse:",
+      "o": ["Antes de iniciar la alimentación (unos 30 minutos)", "Mezclada en la primera bolsa de nutrición", "Solo si aparecen síntomas neurológicos", "A los 7 días del inicio"],
+      "a": 0,
+      "e": "Además se inicia con 10-15 kcal/kg/día, con pocos hidratos, y se sube progresivamente en 4-7 días controlando fósforo, potasio y magnesio."
+    },
+    {
+      "q": "En una deshidratación hipertónica (hipernatrémica), la corrección demasiado rápida del sodio puede provocar:",
+      "o": ["Hipoglucemia", "Insuficiencia renal aguda inmediata", "Edema cerebral", "Hipertensión intracraneal benigna sin riesgo"],
+      "a": 2,
+      "e": "La reposición debe ser lenta y controlada. La deshidratación isotónica, la más frecuente, se trata con cristaloides isotónicos."
+    },
+    {
+      "q": "Es característico de la bulimia nerviosa:",
+      "o": ["Amenorrea y lanugo con emaciación extrema", "Signo de Russell (callos en los nudillos) y alcalosis metabólica con hipopotasemia", "Bradicardia extrema y peso muy bajo", "Ausencia de conductas purgativas"],
+      "a": 1,
+      "e": "Las pacientes suelen tener normopeso; los vómitos causan erosión del esmalte, hipertrofia parotídea y riesgo de arritmias."
+    },
+    {
+      "q": "Un paciente operado de bypass gástrico presenta temblor, sudor frío y confusión 2 horas después de tomar un postre muy azucarado. Lo más probable es:",
+      "o": ["Un síndrome de dumping tardío por hipoglucemia reactiva", "Un síndrome de dumping precoz", "Una fuga anastomótica", "Una deshidratación hipertónica"],
+      "a": 0,
+      "e": "El dumping precoz aparece a los 10-30 minutos (mecanismo osmótico: taquicardia, mareo, diarrea); el tardío, a las 1-3 horas por el pico de insulina."
+    },
+    {
+      "q": "Respecto a la nutrición parenteral total (hiperosmolar), es correcto que:",
+      "o": ["Puede infundirse por cualquier vía periférica", "Por su luz pueden administrarse bolos de antibiótico", "Su complicación aguda más frecuente es la hipoglucemia", "Se administra por catéter venoso central, por una luz exclusiva"],
+      "a": 3,
+      "e": "Solo las soluciones de baja osmolaridad (< 800-900 mOsm/l) pueden ir por vía periférica. La complicación aguda más frecuente es la hiperglucemia."
+    }
+  ]
+}

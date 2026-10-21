@@ -1,0 +1,187 @@
+{
+  "tema": 4,
+  "titulo": "Gestión de servicios sanitarios y de enfermería. Prestaciones del SNS (Ley 16/2003)",
+  "programa": "Gestión de servicios sanitarios: tendencias actuales. Planificación: concepto. Planificación operativa: objetivos, actividades y recursos. La gestión de los servicios de enfermería. Producto sanitario y producto enfermero: concepto y sistemas de medición. Cartera de servicios. Gestión de recursos humanos: motivación, liderazgo, comunicación. Las prestaciones del SNS en la Ley 16/2003: ordenación, cartera, garantías, sistema de información sanitaria y Consejo Interterritorial.",
+  "preguntas": [
+    {
+      "q": "La distribución del presupuesto, la adecuación de infraestructuras y la dotación de plantillas corresponde a la planificación:",
+      "o": ["Estratégica", "Normativa", "Táctica", "Operativa"],
+      "a": 2,
+      "e": "La planificación táctica (mesogestión, 1-3 años) distribuye los recursos. La estratégica fija directrices y la operativa organiza las tareas."
+    },
+    {
+      "q": "El producto documental propio de la planificación estratégica es:",
+      "o": ["El Plan de Salud", "El Programa de Salud", "El plan operativo anual", "El protocolo de unidad"],
+      "a": 0,
+      "e": "Estratégica = Plan; táctica = Programa; operativa = plan operativo y tareas."
+    },
+    {
+      "q": "El horizonte temporal habitual de la planificación táctica es de:",
+      "o": ["Menos de 1 año", "1 a 3 años", "4 a 10 años", "Más de 10 años"],
+      "a": 1,
+      "e": "Estratégica: 4-10 años; táctica: 1-3 años; operativa: 1 año o menos."
+    },
+    {
+      "q": "En el método de priorización de Hanlon, el componente C (eficacia o vulnerabilidad) se puntúa entre:",
+      "o": ["0 y 10", "0 y 1", "1 y 5", "0,5 y 1,5"],
+      "a": 3,
+      "e": "A (magnitud) y B (severidad) van de 0 a 10; C, de 0,5 a 1,5; D (PERLA) es 0 o 1."
+    },
+    {
+      "q": "En el método de Hanlon, si el factor de legalidad (L) del componente PERLA es 0:",
+      "o": ["La puntuación total del problema es 0", "Se resta un punto a la puntuación total", "El componente D pasa a valer 0,5", "No afecta a la puntuación final"],
+      "a": 0,
+      "e": "La fórmula es (A+B) × C × D. Si cualquier factor PERLA es 0, D vale 0 y se anula la prioridad del problema."
+    },
+    {
+      "q": "Según Donabedian, el porcentaje de pacientes a los que se les realiza la escala de Braden al ingreso es un indicador de:",
+      "o": ["Estructura", "Proceso", "Resultado", "Impacto"],
+      "a": 1,
+      "e": "Lo que la enfermera hace sobre el paciente es proceso. La prevalencia de UPP sería un indicador de resultado."
+    },
+    {
+      "q": "¿Cuál de los siguientes es un indicador de resultado según Donabedian?",
+      "o": ["La ratio enfermera/paciente", "La existencia de un protocolo aprobado", "El porcentaje de pacientes con valoración del riesgo de caídas", "La tasa de bacteriemias relacionadas con catéter"],
+      "a": 3,
+      "e": "Resultado = efecto final en la salud. La ratio y el protocolo son estructura; la valoración del riesgo es proceso."
+    },
+    {
+      "q": "En la planificación operativa, los indicadores y criterios de evaluación deben diseñarse:",
+      "o": ["Al terminar la ejecución, para ajustarlos a los resultados", "En la evaluación final", "En la fase de programación, antes de la ejecución", "Solo si el plan fracasa"],
+      "a": 2,
+      "e": "Las herramientas de evaluación se diseñan antes de actuar, en la programación; hacerlo al final introduce sesgos."
+    },
+    {
+      "q": "El recurso más importante, crítico y costoso en las organizaciones sanitarias es:",
+      "o": ["El financiero", "El humano", "El material fungible", "La tecnología de alta complejidad"],
+      "a": 1,
+      "e": "El recurso humano es el más importante y el que más consume (habitualmente más del 65% del presupuesto)."
+    },
+    {
+      "q": "Para un paciente que ingresa para una artroplastia total de cadera programada, el instrumento de gestión de elección es:",
+      "o": ["La vía o trayectoria clínica", "Un plan de cuidados individualizado y flexible NANDA-NOC-NIC", "La gestión de casos", "El sistema PRN"],
+      "a": 0,
+      "e": "Ante procesos homogéneos y predecibles se usa la trayectoria clínica: multidisciplinar, estandarizada y secuenciada en el tiempo."
+    },
+    {
+      "q": "En el CMBD, el diagnóstico principal es:",
+      "o": ["El diagnóstico más grave del episodio", "El que más recursos ha consumido", "El primero anotado en urgencias", "La condición que, tras el estudio, se establece como causa del ingreso"],
+      "a": 3,
+      "e": "Es la causa del ingreso tras el estudio, aunque después aparezcan complicaciones más graves o costosas (que serán diagnósticos secundarios)."
+    },
+    {
+      "q": "El Registro de Actividad de Atención Sanitaria Especializada (RAE-CMBD) está regulado por:",
+      "o": ["El RD 1030/2006", "El RD 1039/2011", "El RD 69/2015", "El RDL 16/2012"],
+      "a": 2,
+      "e": "El RD 69/2015 amplió el CMBD a la cirugía mayor ambulatoria, el hospital de día y la hospitalización a domicilio."
+    },
+    {
+      "q": "Los Grupos Relacionados por el Diagnóstico (GRD) fueron desarrollados por:",
+      "o": ["Fetter y Thompson, en la Universidad de Yale", "Charles Tilquin, en Quebec", "Avedis Donabedian", "El INSALUD con el proyecto SIGNO"],
+      "a": 0,
+      "e": "Los GRD (Fetter y Thompson, Yale) agrupan pacientes con coherencia clínica e isoconsumo de recursos. Tilquin creó el PRN."
+    },
+    {
+      "q": "En el sistema PRN, 36 puntos equivalen a:",
+      "o": ["36 minutos", "3 horas", "6 horas", "12 horas"],
+      "a": 1,
+      "e": "1 punto PRN = 5 minutos. 36 × 5 = 180 minutos = 3 horas."
+    },
+    {
+      "q": "En el sistema PRN, la suma de los Módulos I y II mide:",
+      "o": ["La carga de trabajo total de la unidad", "El mantenimiento de la unidad", "El coste por Grupo Funcional Homogéneo", "La calidad de los cuidados individualizados"],
+      "a": 3,
+      "e": "I + II = calidad del cuidado individualizado; I + II + III = carga de trabajo real de la unidad."
+    },
+    {
+      "q": "El sistema SIIPS de medición del producto enfermero se basa en:",
+      "o": ["Los patrones funcionales de Gordon", "Los GRD", "Las 14 necesidades de Virginia Henderson", "La taxonomía NIC"],
+      "a": 2,
+      "e": "El SIIPS (Francia) analiza los cuidados según las 14 necesidades de Henderson, en actos básicos, técnicos y de relación/educación."
+    },
+    {
+      "q": "En el proyecto SIGNO I, la unidad mínima de gestión económica era:",
+      "o": ["El Grupo Funcional Homogéneo (coste por servicio)", "El coste por paciente y proceso", "La Norma de Enfermería", "El punto PRN"],
+      "a": 0,
+      "e": "SIGNO I calculaba el coste por servicio mediante el GFH; SIGNO II introdujo el coste por paciente y un catálogo de productos enfermeros."
+    },
+    {
+      "q": "El objetivo del proyecto NIPE fue:",
+      "o": ["Sustituir los GRD por un sistema enfermero de facturación", "Integrar las intervenciones enfermeras (NANDA-NOC-NIC) en la lógica de los GRD", "Medir tiempos de cuidados en minutos", "Calcular el coste por servicio clínico"],
+      "a": 1,
+      "e": "NIPE (1997) definió Normas de Enfermería asociadas a los GRD más frecuentes, para costear la actividad enfermera por proceso."
+    },
+    {
+      "q": "El transporte sanitario no urgente (programado para diálisis o rehabilitación) pertenece a la cartera común:",
+      "o": ["Básica, sin copago", "De servicios accesorios", "Complementaria autonómica", "Suplementaria, sujeta a aportación del usuario"],
+      "a": 3,
+      "e": "El transporte urgente está en la cartera básica (gratuito); el no urgente, en la suplementaria."
+    },
+    {
+      "q": "Según la teoría bifactorial de Herzberg, el salario es un factor:",
+      "o": ["Motivador", "De logro", "Higiénico", "De autorrealización"],
+      "a": 2,
+      "e": "El salario es higiénico: su déficit causa insatisfacción, pero su presencia no motiva a largo plazo. Motivadores: reconocimiento, responsabilidad, autonomía."
+    },
+    {
+      "q": "Según Hersey y Blanchard, ante un colaborador que no sabe hacer la tarea pero está motivado (M2), el estilo indicado es:",
+      "o": ["E2 Persuadir: alta tarea y alta relación", "E1 Dirigir: alta tarea y baja relación", "E3 Participar: baja tarea y alta relación", "E4 Delegar: baja tarea y baja relación"],
+      "a": 0,
+      "e": "M1 → dirigir; M2 → persuadir; M3 → participar; M4 → delegar. Solo M2 y M3 exigen alta relación."
+    },
+    {
+      "q": "Durante una parada cardiorrespiratoria, el estilo de liderazgo más adecuado para la enfermera coordinadora es el:",
+      "o": ["Laissez-faire", "Autocrático o directivo", "Democrático", "Participativo"],
+      "a": 1,
+      "e": "En emergencias vitales se centraliza la decisión bajo una única voz de mando (estilo autocrático/directivo)."
+    },
+    {
+      "q": "Un directivo que cree que el trabajador evita el esfuerzo, carece de ambición y necesita control rígido aplica:",
+      "o": ["La Teoría Y de McGregor", "Un liderazgo transformacional", "La necesidad de afiliación de McClelland", "La Teoría X de McGregor"],
+      "a": 3,
+      "e": "Teoría X: visión pesimista y control. Teoría Y: el trabajo es fuente de satisfacción y el trabajador se autodirige."
+    },
+    {
+      "q": "La Ley 16/2003 NO modifica el régimen de asistencia sanitaria de:",
+      "o": ["El personal estatutario", "Los extranjeros residentes", "Los mutualistas de MUFACE, MUGEJU e ISFAS", "Los pensionistas"],
+      "a": 2,
+      "e": "Las mutualidades del Estado mantienen su régimen propio, que discurre por cauces paralelos."
+    },
+    {
+      "q": "La actualización de la cartera común de servicios del SNS se realiza mediante:",
+      "o": ["Orden del Ministerio de Sanidad, previo acuerdo del Consejo Interterritorial", "Real Decreto del Gobierno, sin necesidad de acuerdo del CISNS", "Ley aprobada por las Cortes Generales", "Resolución de cada Comunidad Autónoma"],
+      "a": 0,
+      "e": "Art. 21: Orden ministerial con acuerdo previo del CISNS. Sin ese acuerdo la Orden no es válida."
+    },
+    {
+      "q": "¿Cuál de las siguientes intervenciones NO está incluida en la garantía de 180 días del RD 1039/2011?",
+      "o": ["Extracción de cataratas", "Hernia inguinal", "Prótesis total de rodilla", "Cirugía cardiaca valvular"],
+      "a": 1,
+      "e": "Solo 5 cirugías: cardiaca valvular, cardiaca coronaria, cataratas, prótesis de cadera y prótesis de rodilla."
+    },
+    {
+      "q": "El tiempo máximo de acceso fijado por el RD 1039/2011 para esas intervenciones es de:",
+      "o": ["150 días hábiles", "150 días naturales", "180 días hábiles", "180 días naturales"],
+      "a": 3,
+      "e": "180 días naturales desde la prescripción. En Murcia la garantía quirúrgica es más corta: 150 días naturales."
+    },
+    {
+      "q": "Un ciudadano de Albacete de vacaciones en La Manga es atendido en el SMS por una gastroenteritis. El coste se compensa a través del:",
+      "o": ["Fondo de Cohesión Sanitaria", "Fondo Social Europeo", "Fondo de Garantía Asistencial (FOGA)", "Presupuesto del CISNS"],
+      "a": 2,
+      "e": "El FOGA compensa la asistencia ordinaria a desplazados temporales; el FCS se reserva para la alta complejidad (CSUR, trasplantes)."
+    },
+    {
+      "q": "El Código de Identificación Personal del SNS (CIP-SNS) lo genera:",
+      "o": ["La Base de Datos de Población Protegida del Ministerio de Sanidad", "El Servicio Murciano de Salud al dar de alta al usuario", "El Instituto Nacional de Estadística", "La Tesorería General de la Seguridad Social"],
+      "a": 0,
+      "e": "El CIP-SNS es vitalicio y lo emite el Ministerio; la tarjeta sanitaria física la emite la Comunidad Autónoma."
+    },
+    {
+      "q": "Según el manual (RDL 11/2026), un funcionario jubilado de MUFACE con pensión baja aporta por sus medicamentos:",
+      "o": ["El 10% con un tope mensual de 8,23 €", "El 30%, sin tope mensual", "El 40% con un tope de 18,52 €", "Nada, está exento"],
+      "a": 1,
+      "e": "Los mutualistas (MUFACE, ISFAS, MUGEJU) mantienen una aportación fija del 30% sin tope, con independencia de su renta."
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "tema": 1,
+  "titulo": "Fundamentos de Enfermería, modelos teóricos y Constitución",
+  "programa": "Fundamentos de la enfermería: historia, disciplina y profesión. Modelos teóricos de enfermería. La Constitución Española: derechos y deberes fundamentales. La organización territorial del Estado. El Estatuto de Autonomía de la Región de Murcia.",
+  "preguntas": [
+    {
+      "q": "La primera escuela laica de enfermería, fundada por Florence Nightingale, fue la del:",
+      "o": ["Instituto de Diaconisas de Kaiserswerth (1836)", "Hospital St. Thomas de Londres (1860)", "Hospital de Scutari (1854)", "Hôtel-Dieu de París (s. VII)"],
+      "a": 1,
+      "e": "La primera escuela laica fue la del Hospital St. Thomas (Londres, 1860). Kaiserswerth (1836) era un instituto protestante de diaconisas, donde se formó Nightingale."
+    },
+    {
+      "q": "El título de Enfermera se creó en España mediante:",
+      "o": ["La Ley Moyano de 1857", "El RD 2128/1977", "Una Real Orden de 1915, a instancias de las Siervas de María", "La Ley General de Educación de 1970"],
+      "a": 2,
+      "e": "La Ley Moyano reguló practicantes y matronas, pero no enfermeras. El título de Enfermera llega con la Real Orden de 1915."
+    },
+    {
+      "q": "Los títulos de enfermera, practicante y matrona se unificaron en el título de ATS en el año:",
+      "o": ["1944", "1953", "1970", "1977"],
+      "a": 1,
+      "e": "En 1953 se unifican en ATS. En 1977 la formación pasa a Escuelas Universitarias (diplomatura) y en 2007 llega el Grado."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una especialidad de Enfermería del RD 450/2005?",
+      "o": ["Enfermería de Salud Mental", "Enfermería Geriátrica", "Enfermería de Urgencias y Emergencias", "Enfermería del Trabajo"],
+      "a": 2,
+      "e": "Urgencias y Emergencias no es especialidad del RD 450/2005. Sí lo son: Obstétrico-Ginecológica, Salud Mental, Geriátrica, del Trabajo, Familiar y Comunitaria, Pediátrica y Cuidados Médico-Quirúrgicos."
+    },
+    {
+      "q": "Según Jacqueline Fawcett, NO forma parte del metaparadigma enfermero:",
+      "o": ["Persona", "Entorno", "Salud", "Enfermedad"],
+      "a": 3,
+      "e": "Los 4 conceptos del metaparadigma son persona, entorno, salud y cuidado (enfermería). La enfermedad no es uno de ellos."
+    },
+    {
+      "q": "Según Kérouac, el modelo de Virginia Henderson pertenece al paradigma de:",
+      "o": ["Categorización", "Integración", "Transformación", "Ninguno, por ser pionera"],
+      "a": 1,
+      "e": "Henderson se sitúa en el paradigma de Integración. La que no pertenece a ninguna escuela por ser pionera es Nightingale (paradigma de Categorización)."
+    },
+    {
+      "q": "¿Qué teórica pertenece a la escuela de los efectos deseables (\"¿por qué hacen las enfermeras lo que hacen?\")?",
+      "o": ["Callista Roy", "Hildegard Peplau", "Virginia Henderson", "Jean Watson"],
+      "a": 0,
+      "e": "Efectos deseables: Johnson, Roy, Neuman y Levine. Peplau es de Interacción, Henderson de Necesidades y Watson del Caring."
+    },
+    {
+      "q": "¿Cuál de las siguientes NO es una fase de la relación enfermera-paciente según Peplau?",
+      "o": ["Orientación", "Identificación", "Explotación o aprovechamiento", "Evaluación"],
+      "a": 3,
+      "e": "Las 4 fases de Peplau son Orientación, Identificación, Explotación y Resolución (O-I-E-R)."
+    },
+    {
+      "q": "Para Hildegard Peplau, el rol más importante de la enfermera es el de:",
+      "o": ["Consejera", "Extraña", "Líder", "Sustituta"],
+      "a": 0,
+      "e": "Peplau describe 6 roles (extraño, persona recurso, docente, líder, sustituto y consejero), y el de consejero es el más importante."
+    },
+    {
+      "q": "Según Dorothea Orem, ante un paciente inconsciente la enfermera aplicará un sistema de enfermería:",
+      "o": ["De apoyo-educación", "Parcialmente compensador", "Totalmente compensador", "De ayuda mutua"],
+      "a": 2,
+      "e": "Totalmente compensador: el paciente no puede realizar su autocuidado. Parcialmente compensador: se comparte. Apoyo-educación: el paciente puede, la enfermera enseña."
+    },
+    {
+      "q": "En el modelo de adaptación de Callista Roy, el estímulo que se enfrenta de manera inmediata es el:",
+      "o": ["Focal", "Contextual", "Residual", "Regulador"],
+      "a": 0,
+      "e": "Focal = inmediato; contextuales = resto de estímulos presentes; residuales = de efecto incierto (creencias, experiencias). Regulador es un subsistema de afrontamiento."
+    },
+    {
+      "q": "El principio de homeodinámica de Martha Rogers que describe un cambio continuo, innovador e impredecible, en espiral, es la:",
+      "o": ["Resonancia", "Integralidad", "Helicidad", "Reciprocidad"],
+      "a": 2,
+      "e": "Helicidad = cambio en espiral. Resonancia = cambios en los patrones de onda. Integralidad = interacción mutua persona-entorno."
+    },
+    {
+      "q": "Según Leininger, cuando la enfermera ayuda a cambiar una práctica cultural nociva para la salud, aplica el modo de acción de:",
+      "o": ["Conservación", "Negociación", "Mantenimiento", "Reestructuración"],
+      "a": 3,
+      "e": "Conservación o mantenimiento: prácticas beneficiosas. Adaptación o negociación: ajustar. Reestructuración o reorientación: cambiar las prácticas nocivas."
+    },
+    {
+      "q": "Los 11 patrones funcionales de salud para la valoración se deben a:",
+      "o": ["Marjory Gordon", "Faye G. Abdellah", "Roper, Logan y Tierney", "Dorothy Johnson"],
+      "a": 0,
+      "e": "Gordon = 11 patrones; Abdellah = 21 problemas; Roper-Logan-Tierney = 12 actividades de la vida; Johnson = 7 subsistemas."
+    },
+    {
+      "q": "El modelo \"De principiante a experta\" de Patricia Benner se basa en el modelo de adquisición de habilidades de:",
+      "o": ["Maslow", "Dreyfus", "Bandura", "Erikson"],
+      "a": 1,
+      "e": "Benner aplica el modelo de Dreyfus y describe 5 niveles: principiante, principiante avanzada, competente, eficiente y experta."
+    },
+    {
+      "q": "El concepto central de la teoría de Florence Nightingale es:",
+      "o": ["El autocuidado", "La adaptación", "El entorno", "La interacción"],
+      "a": 2,
+      "e": "En la Teoría del Entorno, la enfermera sitúa al paciente en las mejores condiciones (ventilación, luz, temperatura, ruido, dieta, higiene) para que la naturaleza actúe."
+    },
+    {
+      "q": "Según Virginia Henderson, las fuentes de dificultad que impiden satisfacer las necesidades son la falta de:",
+      "o": ["Fuerza, conocimiento o voluntad", "Agencia de autocuidado", "Adaptación a los estímulos focales", "Líneas de defensa ante los estresores"],
+      "a": 0,
+      "e": "Henderson: falta de fuerza, conocimiento o voluntad. La agencia de autocuidado es de Orem, los estímulos de Roy y los estresores de Neuman."
+    },
+    {
+      "q": "¿Cuántos factores de cuidado (carative factors) describió Jean Watson?",
+      "o": ["7", "10", "12", "14"],
+      "a": 1,
+      "e": "Watson describió 10 factores de cuidado, que después evolucionaron a los procesos caritas. 14 son las necesidades de Henderson."
+    },
+    {
+      "q": "La Constitución Española entró en vigor el:",
+      "o": ["31 de octubre de 1978", "6 de diciembre de 1978", "27 de diciembre de 1978", "29 de diciembre de 1978"],
+      "a": 3,
+      "e": "Aprobada por las Cortes el 31/10, referéndum el 6/12, sanción el 27/12 y entrada en vigor con su publicación en el BOE el 29/12/1978."
+    },
+    {
+      "q": "¿Cuál de los siguientes NO es un valor superior del ordenamiento jurídico según el art. 1.1 de la Constitución?",
+      "o": ["La libertad", "La justicia", "El pluralismo político", "La solidaridad"],
+      "a": 3,
+      "e": "Los valores superiores son solo cuatro: libertad, justicia, igualdad y pluralismo político."
+    },
+    {
+      "q": "El derecho a la protección de la salud (art. 43 CE) se encuentra en:",
+      "o": ["La Sección 1ª del Capítulo II del Título I", "La Sección 2ª del Capítulo II del Título I", "El Título VIII", "El Capítulo III del Título I (principios rectores)"],
+      "a": 3,
+      "e": "El art. 43 es un principio rector de la política social y económica: no es exigible directamente ante el juez ni tiene recurso de amparo."
+    },
+    {
+      "q": "¿Cuál de los siguientes derechos está protegido por el recurso de amparo ante el Tribunal Constitucional?",
+      "o": ["El derecho a una vivienda digna (art. 47)", "La objeción de conciencia (art. 30.2)", "La protección de la salud (art. 43)", "La propiedad privada (art. 33)"],
+      "a": 1,
+      "e": "El amparo protege el art. 14, los arts. 15-29 y el art. 30.2 (objeción de conciencia), aunque este esté en la Sección 2ª."
+    },
+    {
+      "q": "Según el art. 17 de la Constitución, la detención preventiva no podrá durar más de:",
+      "o": ["24 horas", "48 horas", "72 horas", "96 horas"],
+      "a": 2,
+      "e": "Máximo 72 horas; después, libertad o puesta a disposición judicial. Existe además el procedimiento de habeas corpus."
+    },
+    {
+      "q": "Un decreto-ley debe ser convalidado o derogado:",
+      "o": ["Por el Senado en 15 días", "Por el Senado en 30 días", "Por el Congreso en 2 meses", "Por el Congreso en 30 días"],
+      "a": 3,
+      "e": "El Congreso debe pronunciarse en los 30 días siguientes a su promulgación (art. 86). En el decreto-ley el control es posterior."
+    },
+    {
+      "q": "La moción de censura al Gobierno requiere para su aprobación:",
+      "o": ["Mayoría absoluta del Congreso", "Mayoría simple del Congreso", "Tres quintos del Congreso", "Dos tercios de ambas Cámaras"],
+      "a": 0,
+      "e": "La propone al menos 1/10 de los diputados, es constructiva (incluye candidato) y exige mayoría absoluta (176). La cuestión de confianza se gana por mayoría simple."
+    },
+    {
+      "q": "Según el art. 149.1.16 de la Constitución, NO es competencia exclusiva del Estado:",
+      "o": ["La sanidad exterior", "Las bases y coordinación general de la sanidad", "La legislación sobre productos farmacéuticos", "La gestión de los centros de salud y hospitales"],
+      "a": 3,
+      "e": "La gestión de la asistencia (hospitales, centros de salud) corresponde a las CC. AA. (art. 148.1.21), en Murcia a través del SMS."
+    },
+    {
+      "q": "El Estatuto de Autonomía de la Región de Murcia se aprobó el:",
+      "o": ["9 de junio de 1982", "6 de diciembre de 1978", "26 de julio de 1994", "9 de junio de 1983"],
+      "a": 0,
+      "e": "Se aprobó el 9 de junio de 1982, fecha que coincide con el Día de la Región. Murcia accedió a la autonomía por el art. 143 CE."
+    },
+    {
+      "q": "La sede de la Asamblea Regional de Murcia está en:",
+      "o": ["Murcia", "Lorca", "Cartagena", "Molina de Segura"],
+      "a": 2,
+      "e": "Murcia es la capital y sede de la Presidencia y del Consejo de Gobierno; la Asamblea Regional tiene su sede en Cartagena."
+    },
+    {
+      "q": "Tras la reforma de 2015, el sistema electoral de la Asamblea Regional de Murcia se caracteriza por:",
+      "o": ["45 diputados, circunscripción única y barrera del 3%", "45 diputados, 5 circunscripciones y barrera del 5%", "55 diputados, circunscripción única y barrera del 3%", "45 diputados, circunscripción única y barrera del 5%"],
+      "a": 0,
+      "e": "45 diputados con mandato de 4 años, circunscripción única (antes 5) y barrera del 3% (antes 5%)."
+    },
+    {
+      "q": "Señale la afirmación correcta:",
+      "o": ["Para ser Presidente del Gobierno de la Nación hay que ser diputado", "Para ser Presidente de la Región de Murcia hay que ser Diputado Regional", "Los Consejeros regionales se nombran tras votación de la Asamblea", "La moción de censura regional se aprueba por mayoría simple"],
+      "a": 1,
+      "e": "El candidato a Presidente de Murcia debe ser Diputado Regional; el del Gobierno de la Nación, no. Los Consejeros los nombra libremente el Presidente y la moción de censura exige mayoría absoluta."
+    }
+  ]
+}

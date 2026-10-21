@@ -1,0 +1,187 @@
+{
+  "tema": 36,
+  "titulo": "Cuidados de enfermería a pacientes al final de la vida. Principales problemas. Dolor y escalas de medida. Duelo. Apoyo al cuidador principal y familia. Cuidados en procesos crónicos",
+  "programa": "Valoración y cuidados de enfermería a pacientes al final de la vida. Principales problemas. Dolor: características y escalas de medida. Duelo: tipos y manifestaciones. Apoyo al cuidador principal y familia. Valoración y cuidados de enfermería a pacientes con procesos crónicos.",
+  "preguntas": [
+    {
+      "q": "El concepto de «dolor total» de Cicely Saunders incluye las dimensiones:",
+      "o": ["Somática y visceral", "Física, emocional, social y espiritual", "Aguda y crónica", "Nociceptiva y neuropática"],
+      "a": 1,
+      "e": "Cicely Saunders, fundadora del movimiento hospice, describió el dolor total: el sufrimiento al final de la vida tiene dimensiones física, emocional o psicológica, social y espiritual, que deben atenderse a la vez."
+    },
+    {
+      "q": "¿Cuál de los siguientes es un principio de los cuidados paliativos?",
+      "o": ["Prolongar la supervivencia por todos los medios", "Centrarse exclusivamente en el paciente, sin incluir a la familia", "Priorizar las pruebas diagnósticas hasta el final", "No acelerar ni retrasar el momento de la muerte"],
+      "a": 3,
+      "e": "Los cuidados paliativos afirman la vida, consideran la muerte un proceso natural, no pretenden acelerarla ni retrasarla, priorizan la calidad de vida, integran lo psicológico y espiritual y apoyan a la familia durante la enfermedad y el duelo."
+    },
+    {
+      "q": "En la herramienta NECPAL, la «pregunta sorpresa» que se formula el profesional es:",
+      "o": ["¿Le sorprendería que este paciente falleciese en los próximos 12 meses?", "¿Le sorprendería que el paciente mejorase con tratamiento?", "¿Le sorprendería que falleciese en la próxima semana?", "¿Le sorprendería que el paciente pidiese la eutanasia?"],
+      "a": 0,
+      "e": "Si la respuesta es «no me sorprendería», se valoran indicadores objetivos generales (deterioro nutricional, funcional, cognitivo, ingresos repetidos) y específicos de la enfermedad. La pregunta sorpresa no se usa de forma aislada."
+    },
+    {
+      "q": "Un paciente con insuficiencia cardíaca en clase IV de la NYHA con ingresos repetidos. Respecto a los cuidados paliativos:",
+      "o": ["No puede recibirlos porque no tiene cáncer", "Solo puede recibirlos si además tiene un tumor", "Puede ser identificado con necesidades paliativas: el NECPAL incluye enfermedades crónicas no oncológicas", "Solo pueden recibirlos los menores de 65 años"],
+      "a": 2,
+      "e": "Herramientas como el NECPAL se diseñaron precisamente para identificar necesidades paliativas en enfermedades crónicas avanzadas no oncológicas (insuficiencia cardíaca, EPOC, demencia, etc.)."
+    },
+    {
+      "q": "En la escala ECOG, un paciente que pasa encamado o sentado más del 50% de las horas de vigilia y tiene muy limitado el autocuidado corresponde al grado:",
+      "o": ["1", "3", "0", "5"],
+      "a": 1,
+      "e": "ECOG 0: actividad normal; 3: encamado o sentado más del 50% del día; 4: encamado totalmente; 5: fallecido. Un Karnofsky de 40 equivale aproximadamente a un ECOG 3."
+    },
+    {
+      "q": "Un paciente en situación de agonía presenta estertores audibles a distancia. La actuación de enfermería más adecuada es:",
+      "o": ["Aspirar secreciones por vía nasofaríngea profunda cada 2 horas", "Colocarlo en decúbito supino plano", "Aumentar la sueroterapia para fluidificar las secreciones", "Colocarlo en decúbito lateral o Sims con la cabeza algo elevada y administrar butilbromuro de escopolamina SC según pauta"],
+      "a": 3,
+      "e": "Se recurre al drenaje postural (decúbito lateral o Sims) y a un anticolinérgico SC (butilbromuro de escopolamina, que no atraviesa la barrera hematoencefálica). La aspiración profunda es ineficaz, molesta y aumenta las secreciones; el exceso de sueros las empeora."
+    },
+    {
+      "q": "Como medida no farmacológica para aliviar la disnea en un paciente al final de la vida se recomienda:",
+      "o": ["Mantener la habitación cerrada y caldeada", "Colocarle en decúbito supino plano", "Dirigir una corriente de aire fresco a la cara (ventilador o abanico)", "Restringir la presencia de la familia"],
+      "a": 2,
+      "e": "El aire fresco sobre la cara estimula receptores del trigémino y reduce la sensación de ahogo. Se acompaña de ambiente fresco y ventilado y, farmacológicamente, de morfina como primera línea."
+    },
+    {
+      "q": "El fármaco de primera línea para el delirium en el paciente en fase terminal es:",
+      "o": ["El haloperidol", "La morfina", "El diazepam", "El fenobarbital"],
+      "a": 0,
+      "e": "El haloperidol es el fármaco de primera elección. Si hay agitación intensa o refractaria se usa la levomepromazina, más sedante, y si fracasan los neurolépticos, el midazolam."
+    },
+    {
+      "q": "Un síntoma refractario se define como aquel que:",
+      "o": ["Requiere tratamiento intensivo, pero acaba respondiendo", "No puede ser controlado adecuadamente con los tratamientos disponibles, aplicados por expertos, en un plazo razonable", "Molesta a la familia del paciente", "Aparece en la última semana de vida"],
+      "a": 1,
+      "e": "El síntoma refractario no se controla con los tratamientos disponibles en un tiempo razonable; el síntoma difícil requiere un abordaje intensivo pero acaba respondiendo. La sedación paliativa solo está indicada ante síntomas refractarios."
+    },
+    {
+      "q": "El fármaco de primera elección para la sedación paliativa es:",
+      "o": ["La morfina", "El fenobarbital", "El propofol", "El midazolam"],
+      "a": 3,
+      "e": "El midazolam (SC o IV) es el fármaco de elección. La levomepromazina se usa si predomina el delirium, el fenobarbital es de tercera línea (en vía e infusor propios) y el propofol se reserva al hospital."
+    },
+    {
+      "q": "Un paciente con dolor tratado con morfina presenta, en sus últimas horas, angustia y disnea refractarias. Respecto a la sedación, es correcto:",
+      "o": ["Subir la morfina hasta que el paciente quede dormido", "Retirar la morfina y sustituirla por midazolam", "Mantener la morfina a su dosis para el dolor o la disnea y añadir un sedante como el midazolam", "Sedar con tramadol"],
+      "a": 2,
+      "e": "Los opioides no se usan para inducir la sedación: subirlos buscando el sueño produce neurotoxicidad (mioclonías, hiperalgesia, delirium). Se mantienen a su dosis (para evitar abstinencia y controlar el síntoma) y se añade el sedante."
+    },
+    {
+      "q": "La decisión de no iniciar o retirar tratamientos de soporte vital que ya no aportan beneficio al paciente se denomina:",
+      "o": ["Limitación o adecuación del esfuerzo terapéutico", "Eutanasia", "Sedación paliativa", "Obstinación terapéutica"],
+      "a": 0,
+      "e": "La limitación (adecuación) del esfuerzo terapéutico permite que la muerte llegue por la evolución natural de la enfermedad y evita la obstinación terapéutica. La eutanasia, en cambio, provoca la muerte de forma intencionada a petición del paciente."
+    },
+    {
+      "q": "Según la Ley 41/2002, el documento de instrucciones previas puede otorgarlo:",
+      "o": ["Cualquier menor a partir de 12 años", "Solo el médico responsable", "La familia en nombre del paciente inconsciente", "Una persona mayor de edad, capaz y libre"],
+      "a": 3,
+      "e": "Las instrucciones previas las otorga una persona mayor de edad, capaz y libre, para que se cumplan cuando no pueda expresar su voluntad; puede designar un representante como interlocutor con el equipo."
+    },
+    {
+      "q": "La norma que regula la eutanasia en España es la:",
+      "o": ["Ley Orgánica 3/2021", "Ley 41/2002", "Ley 16/2003", "Ley Orgánica 1/2023"],
+      "a": 0,
+      "e": "La Ley Orgánica 3/2021 de regulación de la eutanasia exige ser mayor de edad, capaz y consciente, con nacionalidad o residencia legal, y sufrir una enfermedad grave e incurable o un padecimiento grave, crónico e imposibilitante. Contempla la administración directa por el profesional o la prescripción para autoadministración."
+    },
+    {
+      "q": "Un paciente refiere dolor abdominal difuso, mal localizado, de tipo cólico, acompañado de náuseas y sudoración. Se trata de un dolor:",
+      "o": ["Somático", "Neuropático", "Visceral", "Irruptivo incidental"],
+      "a": 2,
+      "e": "El dolor visceral es difuso, mal localizado, cólico o referido y suele acompañarse de cortejo vegetativo. El somático está bien localizado (por ejemplo, óseo) y el neuropático se describe como quemazón o descargas."
+    },
+    {
+      "q": "Un paciente con infiltración tumoral de un plexo nervioso describe su dolor como quemazón y descargas eléctricas. Además de los analgésicos, suele requerir:",
+      "o": ["Únicamente paracetamol", "Fármacos coadyuvantes como gabapentina, pregabalina o antidepresivos", "Antiinflamatorios a dosis altas exclusivamente", "Corticoides tópicos"],
+      "a": 1,
+      "e": "El dolor neuropático (lesión del sistema nervioso: quemazón, descargas, alodinia) responde mal a los analgésicos convencionales y requiere coadyuvantes (anticonvulsivantes como gabapentina o pregabalina, antidepresivos)."
+    },
+    {
+      "q": "Un paciente con morfina de liberación prolongada cada 12 horas refiere que el dolor reaparece de forma progresiva una o dos horas antes de cada toma. Se trata de:",
+      "o": ["Dolor irruptivo incidental, que se trata con rescates", "Dolor neuropático", "Dolor irruptivo espontáneo", "Fallo de final de dosis, que obliga a ajustar la dosis basal"],
+      "a": 3,
+      "e": "El dolor que aparece antes de la siguiente dosis pautada indica fallo de final de dosis y requiere aumentar la dosis basal (o acortar el intervalo). El dolor irruptivo incidental es previsible (movilizaciones, curas) y se trata con rescates."
+    },
+    {
+      "q": "Respecto a la escala visual analógica (EVA), es correcto:",
+      "o": ["Es una línea de 10 cm sin números; de 4 a 6 indica dolor moderado", "Es una escala de caras para niños menores de 2 años", "Se basa en la observación de la conducta del paciente", "Su puntuación máxima es 20"],
+      "a": 0,
+      "e": "La EVA es una línea de 10 cm sin números entre «sin dolor» y «el peor dolor imaginable». Interpretación: 1-3 leve, 4-6 moderado, 7-10 intenso. Requiere capacidad de abstracción del paciente."
+    },
+    {
+      "q": "Para valorar el dolor en una persona con demencia avanzada que no puede comunicarse verbalmente, una escala validada es:",
+      "o": ["La EVA", "La escala numérica", "La PAINAD", "La escala verbal descriptiva"],
+      "a": 2,
+      "e": "La PAINAD (Pain Assessment in Advanced Dementia) valora respiración, vocalización, expresión facial, lenguaje corporal y consolabilidad (0-10). Las escalas EVA, numérica y verbal exigen que el paciente se comunique."
+    },
+    {
+      "q": "De las escalas de dolor para pacientes no comunicativos, la que incluye cambios fisiológicos (pulso, tensión, temperatura) y cambios físicos (lesiones) es la:",
+      "o": ["Escala de Campbell", "Escala PAINAD", "Escala FLACC", "Escala de Abbey"],
+      "a": 3,
+      "e": "La escala de Abbey valora 6 parámetros, entre ellos los cambios fisiológicos y físicos; el dolor es grave a partir de 14 puntos. Campbell y PAINAD son conductuales y puntúan de 0 a 10."
+    },
+    {
+      "q": "En un infusor subcutáneo para un paciente paliativo, ¿qué fármaco debe administrarse por separado por su incompatibilidad con la mayoría de las mezclas?",
+      "o": ["La morfina", "La dexametasona", "El midazolam", "El haloperidol"],
+      "a": 1,
+      "e": "La dexametasona tiende a precipitar con otros fármacos y se administra sola. Morfina, midazolam, haloperidol, butilbromuro de escopolamina y metoclopramida suelen ser compatibles en el mismo infusor. El diazepam no se administra por vía SC."
+    },
+    {
+      "q": "Según la escalera analgésica de la OMS, es incorrecto asociar:",
+      "o": ["Un opioide débil con un opioide potente", "Un opioide potente con paracetamol", "Un opioide débil con un AINE", "Un coadyuvante en cualquier escalón"],
+      "a": 0,
+      "e": "No se combinan opioides débiles (tramadol, codeína) con potentes (morfina, fentanilo) porque compiten por los mismos receptores. Sí pueden asociarse los fármacos del primer escalón y los coadyuvantes."
+    },
+    {
+      "q": "Los opioides potentes del tercer escalón de la OMS (como la morfina) se caracterizan por:",
+      "o": ["Tener techo terapéutico", "Indicarse solo en el dolor leve", "No tener techo terapéutico: la dosis adecuada es la que controla el dolor con efectos tolerables", "No poder administrarse por vía subcutánea"],
+      "a": 2,
+      "e": "Los fármacos del primer y segundo escalón tienen techo terapéutico; los opioides potentes no: se ajustan hasta controlar el dolor con efectos adversos asumibles. El cuarto escalón incluye técnicas invasivas (bloqueos, vía epidural o intratecal)."
+    },
+    {
+      "q": "Según Kübler-Ross, la fase en la que el paciente intenta negociar, a menudo en secreto, para posponer o revertir lo que ocurre es la de:",
+      "o": ["Negación", "Pacto o negociación", "Ira", "Aceptación"],
+      "a": 1,
+      "e": "Las fases de Kübler-Ross son negación, ira, pacto, depresión y aceptación, y no siempre se suceden en ese orden. En el pacto la persona intenta negociar un aplazamiento a cambio de promesas."
+    },
+    {
+      "q": "Según el modelo de tareas de Worden, prescribir ansiolíticos de forma sistemática al doliente desde el primer día para que «no sufra» puede dificultar la tarea de:",
+      "o": ["Aceptar la realidad de la pérdida", "Adaptarse a un medio sin el fallecido", "Recolocar emocionalmente al fallecido", "Elaborar y experimentar el dolor de la pérdida"],
+      "a": 3,
+      "e": "La tarea II de Worden exige sentir y elaborar el dolor. Evitarlo con medicación excesiva, trabajo frenético o tóxicos perpetúa el duelo y favorece el duelo crónico. Las tareas son: aceptar, elaborar, adaptarse y recolocar."
+    },
+    {
+      "q": "Una mujer acude repetidamente a urgencias por dolores físicos sin causa orgánica tras el fallecimiento de su marido, sin relacionarlos con la pérdida. Se trata de un duelo:",
+      "o": ["Anticipado", "Normal", "Enmascarado", "Crónico"],
+      "a": 2,
+      "e": "En el duelo enmascarado las emociones no se viven conscientemente y se expresan como síntomas físicos o conductas que la persona no relaciona con la pérdida. El anticipado empieza antes de la muerte y el crónico se estanca años con la misma intensidad."
+    },
+    {
+      "q": "Según la CIE-11, el trastorno por duelo prolongado requiere una duración superior a:",
+      "o": ["6 meses tras el fallecimiento", "1 mes", "3 meses", "5 años"],
+      "a": 0,
+      "e": "El trastorno por duelo prolongado (añoranza persistente, dolor emocional intenso e incapacidad para retomar la vida) exige más de 6 meses según la CIE-11 y más de 12 meses según el DSM-5-TR."
+    },
+    {
+      "q": "En la versión abreviada de 7 ítems de la escala de Zarit, la sobrecarga intensa se establece a partir de:",
+      "o": ["46 puntos", "17 puntos", "56 puntos", "88 puntos"],
+      "a": 1,
+      "e": "En la versión abreviada (7 ítems) el punto de corte es 17. En la versión completa de 22 ítems (0-88): ≤ 46 sin sobrecarga, 47-55 leve y ≥ 56 intensa."
+    },
+    {
+      "q": "Según los criterios de Ollero, un paciente se considera pluripatológico cuando:",
+      "o": ["Tiene más de 75 años", "Toma más de 5 fármacos al día", "Presenta tres enfermedades crónicas de la misma categoría clínica", "Presenta enfermedades crónicas incluidas en dos o más categorías clínicas distintas"],
+      "a": 3,
+      "e": "La definición exige enfermedades de dos o más categorías distintas de Ollero (cardíaca, renal-autoinmune, respiratoria, digestiva, neurológica, arteriopatía-diabetes, oncohematológica...). Tres patologías del mismo bloque no lo convierten en pluripatológico."
+    },
+    {
+      "q": "En el test de Pfeiffer, un anciano con estudios primarios comete 9 errores. Esto indica:",
+      "o": ["Deterioro cognitivo grave", "Función cognitiva normal, porque la puntuación es alta", "Deterioro cognitivo leve", "Que debe repetirse sin corrección"],
+      "a": 0,
+      "e": "El Pfeiffer cuenta errores: 0-2 normal, 3-4 leve, 5-7 moderado y 8-10 deterioro grave. Se resta 1 error si la persona no tiene estudios y se suma 1 si tiene estudios superiores. En el MEC de Lobo, en cambio, se cuentan aciertos."
+    }
+  ]
+}

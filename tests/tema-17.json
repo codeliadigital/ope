@@ -1,0 +1,187 @@
+{
+  "tema": 17,
+  "titulo": "Inmunizaciones. Tipos de vacunas, contraindicaciones, complicaciones, conservación, administración y calendario",
+  "programa": "Inmunizaciones: concepto, inmunidad activa, pasiva y de grupo. Clasificación y tipos de vacunas. Contraindicaciones verdaderas y falsas. Complicaciones y efectos adversos, anafilaxia. Conservación y cadena de frío. Administración, vías, analgesia e intervalos. Calendario de vacunaciones de la Región de Murcia 2025-2026, adultos, grupos de riesgo, personal sanitario y profilaxis antitetánica.",
+  "preguntas": [
+    {
+      "q": "La única enfermedad humana declarada erradicada por la OMS mediante la vacunación es:",
+      "o": ["La poliomielitis", "El sarampión", "La viruela", "La difteria"],
+      "a": 2,
+      "e": "La viruela fue declarada erradicada en 1980. La polio y el sarampión están eliminados en algunas regiones, pero el agente persiste en el mundo."
+    },
+    {
+      "q": "La administración de nirsevimab a lactantes frente al virus respiratorio sincitial es un ejemplo de:",
+      "o": ["Inmunización pasiva artificial con un anticuerpo monoclonal", "Inmunización activa artificial con una vacuna viva", "Inmunización activa natural", "Inmunización pasiva natural"],
+      "a": 0,
+      "e": "El nirsevimab aporta anticuerpos ya formados: protección inmediata pero temporal, sin memoria inmunológica."
+    },
+    {
+      "q": "¿Cuál de las siguientes es una vacuna viva atenuada?",
+      "o": ["Hepatitis B", "Virus del papiloma humano", "Tdpa", "Triple vírica"],
+      "a": 3,
+      "e": "Son vivas atenuadas la triple vírica, la varicela, el rotavirus oral, la fiebre amarilla, la gripe intranasal, la BCG y la tifoidea oral. Hepatitis B y VPH son recombinantes; la Tdpa contiene toxoides y fracciones."
+    },
+    {
+      "q": "Administrar la vacuna antineumocócica polisacarídica de 23 serotipos (VNP23) a un lactante de 6 meses:",
+      "o": ["Es la opción de elección por tener más serotipos", "Es ineficaz, porque los polisacáridos inducen una respuesta T-independiente a la que no responden los menores de 2 años", "Produce una memoria inmunológica más duradera", "Está indicada en lugar de la conjugada"],
+      "a": 1,
+      "e": "En menores de 2 años deben usarse vacunas conjugadas (VNC13, VNC20), que convierten la respuesta en T-dependiente y generan memoria."
+    },
+    {
+      "q": "Durante el embarazo se recomienda administrar en cada gestación:",
+      "o": ["La vacuna Tdpa entre las semanas 27 y 36", "La triple vírica en el primer trimestre", "La vacuna de la varicela", "La vacuna intranasal de la gripe"],
+      "a": 0,
+      "e": "La Tdpa en cada embarazo transfiere anticuerpos frente a la tos ferina al recién nacido. También se recomienda la gripe inyectable. Las vacunas vivas están contraindicadas."
+    },
+    {
+      "q": "Es una contraindicación permanente para el componente de tos ferina:",
+      "o": ["Fiebre de 38,5 °C tras una dosis previa", "Una reacción local extensa previa", "Una encefalopatía aparecida a los 15 días de la vacuna", "Una encefalopatía de causa no filiada en los 7 días siguientes a una dosis"],
+      "a": 3,
+      "e": "La encefalopatía no filiada en los 7 días posteriores contraindica de forma permanente el componente pertúsico; las dosis siguientes se ponen con Td."
+    },
+    {
+      "q": "Un lactante de 2 meses acude a vacunarse con catarro, 37,5 °C y tratamiento con amoxicilina. La actuación correcta es:",
+      "o": ["Posponer todas las vacunas hasta que acabe el antibiótico", "Administrar solo las vacunas inactivadas", "Vacunar según el calendario, porque no son contraindicaciones", "Esperar a que tenga 3 meses"],
+      "a": 2,
+      "e": "La infección leve con temperatura inferior a 38 °C y los antibióticos son falsas contraindicaciones. Posponer sería una oportunidad perdida."
+    },
+    {
+      "q": "Respecto a la alergia al huevo y la vacunación, es correcto que:",
+      "o": ["Contraindica la triple vírica", "No contraindica la triple vírica ni la gripe; la vacuna que exige precaución especial es la de la fiebre amarilla", "Contraindica todas las vacunas inactivadas", "Obliga a vacunar siempre en el hospital"],
+      "a": 1,
+      "e": "La triple vírica y la gripe se administran en el centro de salud con la observación habitual. La fiebre amarilla contiene más ovoalbúmina y requiere precaución."
+    },
+    {
+      "q": "Un niño asmático en tratamiento diario con fluticasona inhalada debe recibir la vacuna de la varicela. Se debe:",
+      "o": ["Vacunar con normalidad, porque los corticoides inhalados no son inmunosupresores sistémicos", "Suspender el inhalador 1 mes antes", "Contraindicar la vacuna de forma permanente", "Administrar inmunoglobulina antes de vacunar"],
+      "a": 0,
+      "e": "Solo contraindican las vacunas vivas los corticoides sistémicos a dosis altas (≥ 2 mg/kg/día o ≥ 20 mg/día de prednisona) durante 14 días o más."
+    },
+    {
+      "q": "Tras la administración reciente de inmunoglobulinas o hemoderivados:",
+      "o": ["Deben retrasarse todas las vacunas inactivadas", "Puede administrarse la triple vírica de inmediato", "Debe retrasarse la triple vírica o la varicela entre 3 y 11 meses según el producto", "Está contraindicada la vacuna oral del rotavirus"],
+      "a": 2,
+      "e": "Los anticuerpos administrados neutralizan los virus vacunales vivos inyectables. No afecta a las inactivadas ni al rotavirus oral."
+    },
+    {
+      "q": "Tras la vacuna triple vírica, la fiebre y el exantema atribuibles a la vacuna aparecen típicamente:",
+      "o": ["En las primeras 6 horas", "En las primeras 48 horas", "Al mes de la vacunación", "Entre el 5.º y el 12.º día"],
+      "a": 3,
+      "e": "Las vacunas vivas necesitan replicarse, por lo que la fiebre es tardía. La fiebre en las primeras 48 horas es típica de las inactivadas."
+    },
+    {
+      "q": "La reacción de Arthus tras la vacunación es:",
+      "o": ["Una reacción de hipersensibilidad tipo I inmediata", "Una reacción de hipersensibilidad tipo III por inmunocomplejos, a las 4-12 horas, tras dosis repetidas de toxoide tetánico o diftérico", "Una reacción tardía tipo IV a los 7 días", "Un síncope vasovagal"],
+      "a": 1,
+      "e": "Produce edema y eritema extensos, es autolimitada y obliga a espaciar las dosis futuras de tétanos."
+    },
+    {
+      "q": "El tratamiento de primera elección de una anafilaxia tras una vacuna en el centro de salud es:",
+      "o": ["Un antihistamínico oral", "Un corticoide intravenoso", "Adrenalina 1:1000 por vía intramuscular en la cara anterolateral del muslo", "Adrenalina en bolo intravenoso"],
+      "a": 2,
+      "e": "La adrenalina IM en el vasto externo es el tratamiento de elección; la vía IV directa está proscrita en AP por riesgo de arritmias. Antihistamínicos y corticoides van después."
+    },
+    {
+      "q": "La dosis de adrenalina 1:1000 en la anafilaxia pediátrica es:",
+      "o": ["0,01 mg/kg (0,01 ml/kg), con un máximo de 0,5 mg por dosis", "0,1 mg/kg, con un máximo de 1 mg", "1 mg fijo en todos los niños", "0,5 mg/kg, con un máximo de 5 mg"],
+      "a": 0,
+      "e": "Puede repetirse cada 5-15 minutos si no hay mejoría. Si el paciente toma betabloqueantes y no responde, se usa glucagón."
+    },
+    {
+      "q": "Una adolescente se marea tras la vacuna del VPH: está pálida, sudorosa, con bradicardia, y se recupera al tumbarla con las piernas elevadas. Se trata de:",
+      "o": ["Una anafilaxia", "Un síncope vasovagal", "Una reacción de Arthus", "Una crisis epiléptica"],
+      "a": 1,
+      "e": "La anafilaxia cursa con taquicardia, urticaria, angioedema o broncoespasmo y requiere adrenalina; el síncope se resuelve con medidas posturales."
+    },
+    {
+      "q": "El rango de temperatura de conservación de la mayoría de las vacunas es:",
+      "o": ["De −20 a −10 °C", "De 0 a +4 °C", "De +8 a +15 °C", "De +2 a +8 °C"],
+      "a": 3,
+      "e": "El punto ideal es +5 °C. Se considera rotura de la cadena de frío cualquier registro inferior a +2 °C o superior a +8 °C."
+    },
+    {
+      "q": "Ante una rotura de la cadena de frío en el frigorífico del centro de salud, la enfermera debe:",
+      "o": ["Poner las vacunas en cuarentena, mantenerlas entre +2 y +8 °C y notificarlo a Salud Pública", "Desechar inmediatamente todas las vacunas", "Seguir usando las vacunas si el frigorífico vuelve a enfriar", "Desechar solo las vacunas vivas"],
+      "a": 0,
+      "e": "La enfermera no desecha las vacunas por su cuenta: Salud Pública, con el laboratorio, decide si se destruyen o son válidas."
+    },
+    {
+      "q": "En la organización del frigorífico de vacunas es correcto:",
+      "o": ["Guardar las vacunas más usadas en la puerta", "Almacenar junto a las vacunas muestras analíticas", "No colocar nunca vacunas en la puerta y dejar espacio entre las cajas y las paredes", "Sacar los viales de su envase para ahorrar espacio"],
+      "a": 2,
+      "e": "La puerta sufre las mayores oscilaciones térmicas. Además, las vacunas vivas liofilizadas son fotosensibles y deben permanecer en su envase opaco."
+    },
+    {
+      "q": "Las vacunas que se inutilizan sobre todo por la congelación son:",
+      "o": ["La triple vírica y la varicela", "La BCG", "La vacuna oral del rotavirus", "Las inactivadas con adyuvante de aluminio, como la hexavalente"],
+      "a": 3,
+      "e": "La congelación hace precipitar el adyuvante de aluminio y destruye la vacuna (se valora con la prueba de agitación). Las vivas son más sensibles al calor y a la luz."
+    },
+    {
+      "q": "En un lactante de 10 meses, el lugar de elección para administrar una vacuna intramuscular es:",
+      "o": ["El glúteo", "El vasto externo (tercio medio de la cara anterolateral del muslo)", "El deltoides", "La región ventroglútea exclusivamente"],
+      "a": 1,
+      "e": "En menores de 1-2 años se usa el vasto externo; el glúteo está desaconsejado (grasa abundante y riesgo de lesión del ciático). En niños mayores y adultos, el deltoides."
+    },
+    {
+      "q": "Respecto a la aspiración al administrar una vacuna intramuscular en el deltoides o el vasto externo:",
+      "o": ["Es obligatorio aspirar 5 segundos", "No se recomienda aspirar: la inyección debe ser rápida", "Solo se aspira en lactantes", "Se aspira solo con vacunas vivas"],
+      "a": 1,
+      "e": "En esas zonas no hay grandes vasos; aspirar prolonga la permanencia de la aguja y aumenta el dolor sin aportar seguridad."
+    },
+    {
+      "q": "Si dos vacunas vivas atenuadas parenterales (triple vírica y varicela) no se administran el mismo día, deben separarse al menos:",
+      "o": ["4 semanas", "1 semana", "2 semanas", "6 meses"],
+      "a": 0,
+      "e": "Si la segunda se pone antes de 28 días no se considera válida. El periodo de gracia de 4 días no se aplica a este intervalo."
+    },
+    {
+      "q": "Un adulto recibió hace 10 años dos dosis de vacuna de hepatitis B y nunca recibió la tercera. La actuación correcta es:",
+      "o": ["Reiniciar la pauta completa de 3 dosis", "Hacer una serología y, si es negativa, reiniciar", "No vacunar, porque ya está protegido", "Administrar solo la dosis que falta"],
+      "a": 3,
+      "e": "Regla \"dosis puesta, dosis que cuenta\": las pautas nunca se reinician, solo se completan."
+    },
+    {
+      "q": "Respecto a la vacuna frente al rotavirus, es correcto que:",
+      "o": ["Se administra por vía intramuscular a los 12 meses", "Es una vacuna inactivada", "Es oral y la primera dosis no debe darse después de las 14 semanas y 6 días de vida", "Puede iniciarse a cualquier edad en la infancia"],
+      "a": 2,
+      "e": "Es una vacuna viva atenuada oral. Iniciarla tarde aumenta el riesgo de invaginación intestinal."
+    },
+    {
+      "q": "La vacuna hexavalente protege frente a:",
+      "o": ["Difteria, tétanos, tos ferina, poliomielitis, Haemophilus influenzae tipo b y hepatitis B", "Sarampión, rubeola, parotiditis, varicela, polio y hepatitis A", "Difteria, tétanos, tos ferina, neumococo, meningococo C y hepatitis B", "Difteria, tétanos, polio, rotavirus, Hib y hepatitis A"],
+      "a": 0,
+      "e": "Se administra a los 2, 4 y 11 meses (pauta 2 + 1)."
+    },
+    {
+      "q": "Un recién nacido de 3,5 kg debe recibir nirsevimab al inicio de la temporada de VRS. La dosis correcta es:",
+      "o": ["200 mg IM", "100 mg IM", "25 mg IM", "50 mg IM"],
+      "a": 3,
+      "e": "Peso inferior a 5 kg: 50 mg; peso igual o superior a 5 kg: 100 mg."
+    },
+    {
+      "q": "Según el calendario de la Región de Murcia 2025-2026, la vacunación frente al VPH en inmunocompetentes es:",
+      "o": ["Solo en chicas, con 3 dosis a los 14 años", "Solo en chicas, con 2 dosis a los 12 años", "En chicas y chicos, con una dosis única a los 12 años", "En adultos de 25 años con 2 dosis"],
+      "a": 2,
+      "e": "Se vacuna de forma sistemática a ambos sexos con pauta de dosis única; los inmunodeprimidos reciben 3 dosis."
+    },
+    {
+      "q": "Respecto a la vacuna frente al herpes zóster Shingrix, es correcto que:",
+      "o": ["Es viva atenuada y está contraindicada en inmunodeprimidos", "Es recombinante adyuvada: se administran 2 dosis IM separadas al menos 2 meses y puede usarse en inmunodeprimidos", "Se administra en dosis única subcutánea", "Solo está indicada en menores de 50 años"],
+      "a": 1,
+      "e": "A diferencia de la antigua Zostavax (viva), Shingrix es inactivada y segura en inmunodepresión. En Murcia se capta a las cohortes de 65 y 80 años."
+    },
+    {
+      "q": "Tras completar la vacunación de hepatitis B, un profesional sanitario debe hacerse una serología para confirmar la inmunidad, que se considera adecuada si:",
+      "o": ["Anti-HBs ≥ 10 mUI/ml entre 1 y 2 meses tras la última dosis", "HBsAg positivo al mes", "Anti-HBc positivo a los 6 meses", "Anti-HBs ≥ 1 mUI/ml a los 5 años"],
+      "a": 0,
+      "e": "La pauta es de 0, 1 y 6 meses, con control de anti-HBs 1-2 meses después de la última dosis."
+    },
+    {
+      "q": "Un paciente con estado vacunal antitetánico desconocido acude con una herida punzante contaminada con tierra. La profilaxis correcta es:",
+      "o": ["No hacer nada si la herida se limpia bien", "Solo inmunoglobulina antitetánica", "Solo una dosis de vacuna Td", "Vacuna Td e inmunoglobulina antitetánica 250 UI en lugares anatómicos distintos"],
+      "a": 3,
+      "e": "En heridas tetanígenas con menos de 3 dosis o estado desconocido se combinan vacuna e IGT. En una herida limpia y menor basta la vacuna, sin IGT."
+    }
+  ]
+}

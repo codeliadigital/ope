@@ -1,0 +1,187 @@
+{
+  "tema": 20,
+  "titulo": "Administración de fármacos por diferentes vías. Cálculo de dosis. Medicación en el domicilio y paciente polimedicado",
+  "programa": "Administración de fármacos por diferentes vías: fundamentos de seguridad, farmacocinética, medicamentos de alto riesgo y reacciones adversas; vías enterales, parenterales y tópicas. Cálculo de dosis y fluidoterapia. Administración de medicamentos en el domicilio y seguimiento de pacientes polimedicados: conciliación, deprescripción y adherencia.",
+  "preguntas": [
+    {
+      "q": "La vía de administración con una biodisponibilidad del 100% por definición es la:",
+      "o": ["Intravenosa", "Oral", "Sublingual", "Intramuscular"],
+      "a": 0,
+      "e": "La vía IV introduce el fármaco directamente en la circulación. Las vías enterales tienen menor biodisponibilidad por la absorción incompleta y el primer paso hepático."
+    },
+    {
+      "q": "¿Cuál de los siguientes grupos de fármacos tiene un índice terapéutico estrecho y requiere monitorizar niveles plasmáticos?",
+      "o": ["Paracetamol, ibuprofeno y omeprazol", "Amoxicilina, cefazolina y clindamicina", "Digoxina, litio y fenitoína", "Loratadina, cetirizina y dexclorfeniramina"],
+      "a": 2,
+      "e": "El índice terapéutico (DL50/DE50) es pequeño: pequeñas variaciones de dosis producen toxicidad o ineficacia."
+    },
+    {
+      "q": "El registro de la administración de un medicamento debe realizarse:",
+      "o": ["Al preparar la medicación, antes de entrar en la habitación", "Al final del turno, todo junto", "Cuando lo indique el médico", "Inmediatamente después de administrarlo"],
+      "a": 3,
+      "e": "Si el paciente lo rechaza, se registra el rechazo y su motivo. Nunca se registra una medicación preparada o administrada por otro profesional."
+    },
+    {
+      "q": "Respecto al cloruro potásico concentrado, es correcto que:",
+      "o": ["Puede administrarse en bolo IV lento en hipopotasemias graves", "Debe administrarse siempre diluido y en perfusión, nunca en bolo IV directo", "Puede administrarse por vía intramuscular", "No se considera un medicamento de alto riesgo"],
+      "a": 1,
+      "e": "El KCl en bolo puede causar una parada cardiaca. Es un medicamento de alto riesgo según el ISMP."
+    },
+    {
+      "q": "Según la clasificación de Rawlins y Thompson, una hipoglucemia tras la administración de insulina es una reacción adversa de tipo:",
+      "o": ["B (bizarre)", "A (augmented)", "C (chronic)", "D (delayed)"],
+      "a": 1,
+      "e": "Las de tipo A son las más frecuentes, predecibles y dependientes de la dosis, por exageración del efecto farmacológico."
+    },
+    {
+      "q": "El efecto rebote tras la suspensión brusca de un betabloqueante es una reacción adversa de tipo:",
+      "o": ["A", "B", "C", "E"],
+      "a": 3,
+      "e": "Tipo E (end of use): aparece al suspender bruscamente un tratamiento crónico, como la abstinencia a opioides."
+    },
+    {
+      "q": "La única vía enteral que evita por completo el efecto de primer paso hepático es la:",
+      "o": ["Sublingual", "Oral", "Rectal", "Sonda nasogástrica"],
+      "a": 0,
+      "e": "La mucosa sublingual drena a la vena cava superior sin pasar por la porta. Por eso se usa para la nitroglicerina en la angina."
+    },
+    {
+      "q": "Respecto a la vía rectal, es correcto que:",
+      "o": ["Evita totalmente el efecto de primer paso hepático", "Tiene una absorción rápida y constante", "Evita el primer paso hepático solo de forma parcial (≈ 50%)", "Es de elección en las urgencias cardiológicas"],
+      "a": 2,
+      "e": "La vena hemorroidal superior drena a la porta, mientras que las medias e inferiores van a la cava. La absorción es errática."
+    },
+    {
+      "q": "Para administrar medicación por sonda nasogástrica, NO se debe:",
+      "o": ["Lavar la sonda con agua antes y después", "Administrar cada fármaco por separado", "Triturar un comprimido de liberación prolongada", "Preferir las formas farmacéuticas líquidas"],
+      "a": 2,
+      "e": "Triturar formas retard o con cubierta entérica provoca una liberación masiva (toxicidad) o destruye la protección gástrica."
+    },
+    {
+      "q": "Al administrar medicación por sonda nasogástrica, el lavado de la sonda antes y después se realiza con:",
+      "o": ["20-30 ml de agua", "2 ml de suero glucosado", "100 ml de agua", "Aire con jeringa de 50 ml"],
+      "a": 0,
+      "e": "Entre fármaco y fármaco se lavan 5-10 ml. El paciente debe estar incorporado 30-45° y seguir así un tiempo tras la administración."
+    },
+    {
+      "q": "En la administración intradérmica (por ejemplo, el Mantoux):",
+      "o": ["Se inyecta a 90° con aguja larga", "Se usa un ángulo de 10-15° con el bisel hacia arriba, debe formarse una pápula y no se masajea", "Se masajea la zona para favorecer la absorción", "Se administran de 2 a 5 ml"],
+      "a": 1,
+      "e": "El volumen es de 0,1-0,3 ml, habitualmente en la cara anterior del antebrazo; el masaje alteraría la prueba."
+    },
+    {
+      "q": "Al administrar una heparina de bajo peso molecular en jeringa precargada:",
+      "o": ["Se purga la burbuja de aire antes de inyectar", "Se masajea la zona durante un minuto", "Se aspira antes de inyectar", "No se purga la burbuja de aire ni se masajea la zona después"],
+      "a": 3,
+      "e": "La burbuja sella el trayecto y evita el reflujo y los hematomas; tras la punción solo se presiona suavemente sin frotar."
+    },
+    {
+      "q": "En la vía subcutánea, la zona con la absorción más rápida es:",
+      "o": ["El abdomen (respetando unos 5 cm alrededor del ombligo)", "La cara anterior del muslo", "La región escapular", "La cara externa del brazo"],
+      "a": 0,
+      "e": "El muslo tiene una absorción más lenta (útil para insulinas basales nocturnas). Hay que rotar los puntos para evitar lipodistrofias."
+    },
+    {
+      "q": "La zona considerada más segura para la inyección intramuscular en adultos es la:",
+      "o": ["Dorsoglútea", "Deltoidea", "Ventroglútea (técnica de Hochstetter)", "Cara posterior del muslo"],
+      "a": 2,
+      "e": "Carece de grandes vasos y nervios y tiene poco tejido graso. La dorsoglútea se desaconseja por el riesgo de lesionar el nervio ciático."
+    },
+    {
+      "q": "La técnica intramuscular en Z está especialmente indicada para administrar:",
+      "o": ["Vacunas de calendario", "Insulina", "Heparina de bajo peso molecular", "Hierro parenteral"],
+      "a": 3,
+      "e": "Se usa con fármacos irritantes o que tiñen la piel; el desplazamiento de los tejidos sella el trayecto e impide el reflujo."
+    },
+    {
+      "q": "Ante un politraumatizado en shock hipovolémico, el catéter venoso periférico de elección es el de:",
+      "o": ["24 G (amarillo)", "14 G (naranja)", "22 G (azul)", "20 G (rosa)"],
+      "a": 1,
+      "e": "En la escala Gauge, a menor número, mayor calibre y mayor flujo. En emergencias se usan 14 G o 16 G."
+    },
+    {
+      "q": "Para una transfusión de concentrado de hematíes programada en un adulto, se recomienda un catéter de:",
+      "o": ["24 G", "18 G (verde)", "26 G", "22 G"],
+      "a": 1,
+      "e": "El 18 G permite un flujo adecuado sin hemolizar los hematíes; también puede usarse 20 G para ritmos lentos."
+    },
+    {
+      "q": "Ante la sospecha de extravasación de un citostático, la primera actuación es:",
+      "o": ["Detener la infusión sin retirar el catéter e intentar aspirar el fármaco extravasado", "Retirar inmediatamente el catéter y masajear la zona", "Aumentar el ritmo para terminar la perfusión", "Aplicar calor en todos los casos"],
+      "a": 0,
+      "e": "Después se administra el antídoto si existe, se retira el catéter y se aplica frío (calor en los alcaloides de la vinca), se eleva el miembro y se informa."
+    },
+    {
+      "q": "Respecto a la vía intraósea, es correcto que:",
+      "o": ["Solo admite sueros, no fármacos", "Requiere dosis dobles que la vía IV", "La tibia proximal es una zona de elección, se usan las mismas dosis que por vía IV y debe retirarse antes de 24 horas", "Puede mantenerse hasta 7 días"],
+      "a": 2,
+      "e": "Es la alternativa urgente cuando no hay acceso venoso; su permanencia prolongada aumenta el riesgo de osteomielitis y síndrome compartimental."
+    },
+    {
+      "q": "Tras instilar un colirio de timolol, para reducir su absorción sistémica se debe:",
+      "o": ["Frotar el ojo con fuerza", "Instilar a continuación una pomada", "Inclinar la cabeza hacia delante", "Presionar el canto interno del ojo durante 1-2 minutos"],
+      "a": 3,
+      "e": "La oclusión del conducto nasolagrimal evita que el fármaco pase a la mucosa nasal. Entre colirios se esperan 5 minutos y las pomadas van al final."
+    },
+    {
+      "q": "Para instilar gotas óticas en un adulto, el pabellón auricular se tracciona:",
+      "o": ["Hacia arriba y hacia atrás", "Hacia abajo y hacia atrás", "Hacia delante", "No es necesario traccionarlo"],
+      "a": 0,
+      "e": "En menores de 3 años se tracciona hacia abajo y atrás. Las gotas deben estar a temperatura corporal para evitar el vértigo."
+    },
+    {
+      "q": "Un paciente con un parche transdérmico de fentanilo debe evitar:",
+      "o": ["Ducharse", "Cambiar la zona de aplicación", "Aplicar el parche sobre piel sin vello", "Aplicar calor local sobre el parche (mantas eléctricas, bolsas de agua caliente)"],
+      "a": 3,
+      "e": "El calor aumenta la absorción y puede causar una sobredosis con depresión respiratoria. Los parches de reservorio tampoco se cortan."
+    },
+    {
+      "q": "Hay que administrar 1.000 ml de suero en 12 horas con un sistema de macrogoteo (20 gotas/ml). El ritmo aproximado es de:",
+      "o": ["14 gotas/min", "42 gotas/min", "28 gotas/min", "83 gotas/min"],
+      "a": 2,
+      "e": "Gotas/min = volumen / (3 × horas) = 1.000 / 36 ≈ 28 gotas/min (≈ 83 ml/h)."
+    },
+    {
+      "q": "Un ritmo de perfusión de 30 ml/h equivale, en un sistema de macrogoteo, a:",
+      "o": ["30 gotas/min", "10 gotas/min", "90 gotas/min", "60 gotas/min"],
+      "a": 1,
+      "e": "1 gota/min = 3 ml/h, por lo que 30 ml/h = 10 gotas/min. En microgoteo, 1 microgota/min = 1 ml/h."
+    },
+    {
+      "q": "Se pauta noradrenalina a 0,1 µg/kg/min en un paciente de 80 kg. La dilución es de 20 mg en 100 ml (200 µg/ml). La bomba debe programarse a:",
+      "o": ["24 ml/h", "0,24 ml/h", "8 ml/h", "2,4 ml/h"],
+      "a": 3,
+      "e": "ml/h = (0,1 × 80 × 60) / 200 = 480 / 200 = 2,4 ml/h."
+    },
+    {
+      "q": "La regla de Young para calcular la dosis pediátrica (2-12 años) es:",
+      "o": ["[Edad en años / (edad en años + 12)] × dosis de adulto", "(Edad en meses / 150) × dosis de adulto", "(Peso en kg / 70) × dosis de adulto", "(Edad en años / 24) × dosis de adulto"],
+      "a": 0,
+      "e": "La de Fried usa la edad en meses entre 150 (lactantes) y la de Clark, el peso entre 70. La más exacta es la superficie corporal."
+    },
+    {
+      "q": "Respecto al botiquín domiciliario, es correcto aconsejar:",
+      "o": ["Guardarlo en el cuarto de baño por su limpieza", "Guardarlo en un lugar fresco, seco y oscuro, fuera de la cocina y el baño", "Guardar la insulina de reserva en el congelador", "Tirar los blísteres vacíos al contenedor amarillo"],
+      "a": 1,
+      "e": "La humedad y los cambios de temperatura de baño y cocina deterioran los fármacos. Termolábiles a 2-8 °C sin congelar; envases y restos al Punto SIGRE."
+    },
+    {
+      "q": "La versión 3 (2023) de los criterios STOPP/START contiene:",
+      "o": ["100 criterios en total", "80 criterios STOPP y 34 START", "190 criterios: 133 STOPP y 57 START", "57 criterios STOPP y 133 START"],
+      "a": 2,
+      "e": "STOPP indica fármacos que retirar y START tratamientos omitidos que iniciar, incluidas las vacunas (gripe, neumococo, zóster y COVID-19)."
+    },
+    {
+      "q": "En el test de Morisky-Green, el paciente se considera cumplidor si responde:",
+      "o": ["NO, SÍ, NO, NO", "NO a las 4 preguntas", "SÍ a las 4 preguntas", "SÍ, NO, SÍ, SÍ"],
+      "a": 0,
+      "e": "La segunda pregunta (\"¿toma los medicamentos a la hora indicada?\") debe responderse SÍ; cualquier otra combinación indica incumplimiento."
+    },
+    {
+      "q": "El cuestionario de adherencia que incluye una pregunta específica sobre los olvidos durante el fin de semana es el:",
+      "o": ["Test de Batalla", "Test de Morisky-Green", "Test de Haynes-Sackett", "Cuestionario SMAQ"],
+      "a": 3,
+      "e": "El SMAQ (6 preguntas) detecta las \"vacaciones terapéuticas\". El de Batalla evalúa el conocimiento de la enfermedad y el de Haynes-Sackett fija el umbral en el 80%."
+    }
+  ]
+}
