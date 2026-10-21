@@ -73,3 +73,7 @@ sub: Resumen OPE Enfermería SMS · Cambios fisiológicos, nutrición, higiene, 
 !! Útero **desviado a la derecha** tras el parto = **globo vesical**.
 !! Sangrado con útero **contraído** = **trauma** (desgarro).
 !! Mastitis: **no** se suspende la lactancia.
+
+## Imágenes clave del tema
+
+[[img: tema-26-1.jpg | Agarre correcto e incorrecto en la lactancia materna]]

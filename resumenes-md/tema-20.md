@@ -95,3 +95,9 @@ sub: Resumen OPE Enfermería SMS · Farmacocinética, correctos, medicamentos de
 !! **KCl nunca en bolo IV**.
 !! Lactante: IM en el **vasto externo**; adulto: la zona más segura es la **ventroglútea**.
 !! 30 ml/h en bomba = **10 gotas/min** de macrogoteo.
+
+## Imágenes clave del tema
+
+[[img: tema-20-1.jpg | Técnicas de inyección y capas de la piel: ángulos ID, SC, IM e IV]]
+
+[[img: tema-20-2.jpg | Regla del 3 para el cálculo de gotas por minuto]]

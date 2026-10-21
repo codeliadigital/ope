@@ -164,3 +164,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Educación para la salud (teorías
 !! Cribado = prevención **secundaria** (reduce prevalencia); desprescribir para evitar iatrogenia = **cuaternaria**.
 !! Componente C de Hanlon: **0,5-1,5**, nunca 0-10.
 !! Para comparar la mortalidad de dos regiones: tasa **ajustada**, no bruta.
+
+## Imágenes clave del tema
+
+[[img: tema-14-1.jpg | Genograma y ecomapa: símbolos básicos]]

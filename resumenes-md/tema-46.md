@@ -150,3 +150,9 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 !! Citostáticos = **clase VI**, envase **hermético sin compactar** → **incineración**.
 !! Hipercalcemia: **hidratar → furosemida**, **nunca tiazidas**. Vena cava superior: **Fowler, nada en los brazos**.
 !! Teleterapia: **no radiactivo**, crema **después** de la sesión. Braquiterapia: **tiempo, distancia, blindaje**; fuente caída → **pinzas largas**.
+
+## Imágenes clave del tema
+
+[[img: tema-46-1.jpg | Catéter venoso central / reservorio: lúmenes y conectores]]
+
+[[img: tema-46-2.jpg | Toxicidad específica de citostáticos por órganos]]

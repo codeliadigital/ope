@@ -107,3 +107,11 @@ sub: Resumen OPE Enfermería SMS · Fisiología renal y embarazo, valoración (G
 !! Bricker: **moco normal**. FAV: **thrill se toca, soplo se oye**; brazo **intocable**.
 !! Diálisis peritoneal: **efluente turbio = peritonitis**.
 !! Torsión testicular: **< 6 h**, cremastérico **ausente**.
+
+## Imágenes clave del tema
+
+[[img: tema-42-1.jpg | Riñón y nefrona]]
+
+[[img: tema-42-2.jpg | Sondaje vesical: escala French y duración según material]]
+
+[[img: tema-42-3.jpg | Tipos de sondas urinarias (Nelaton, Foley, Tiemann, Mercier, Dufour)]]

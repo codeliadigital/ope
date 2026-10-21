@@ -89,3 +89,9 @@ sub: Resumen OPE Enfermería SMS · Inmunidad activa y pasiva, vacunas vivas e i
 !! Fiebre a las 12 horas de una triple vírica **no** es por la vacuna (aparece del día 5 al 12).
 !! Encefalopatía a los **12 días** de la hexavalente **no** es contraindicación permanente (el plazo es de 7 días).
 !! Catarro con 37,5 °C y amoxicilina: **se vacuna**.
+
+## Imágenes clave del tema
+
+[[img: tema-17-1.jpg | Organización correcta de la nevera de vacunas]]
+
+[[img: tema-17-2.jpg | Selección de aguja: calibre, longitud y color del cono según vía y paciente]]

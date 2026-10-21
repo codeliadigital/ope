@@ -100,3 +100,7 @@ sub: Resumen OPE Enfermería SMS · Urgencia frente a emergencia, RD 1030/2006 y
 !! JumpSTART: niño con pulso que no respira → **5 ventilaciones** antes del negro.
 !! PMA en la **zona templada**; ambulancias en la **zona fría**.
 !! SAER: **S**ituación, **A**ntecedentes, **E**valuación, **R**ecomendación.
+
+## Imágenes clave del tema
+
+[[img: tema-48-1.jpg | Algoritmo de triaje START en catástrofes]]

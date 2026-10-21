@@ -128,3 +128,7 @@ sub: Resumen OPE Enfermería SMS · Valoración del RN enfermo, clasificación y
 !! Fototerapia: ojos tapados y **sin cremas**.
 !! Sepsis neonatal: más **hipotermia** que fiebre; **cultivos antes del antibiótico**.
 !! Fase de **desesperación**: el niño callado **no se ha adaptado**.
+
+## Imágenes clave del tema
+
+[[img: tema-30-1.jpg | Test de Silverman-Andersen: parámetros y puntuación]]

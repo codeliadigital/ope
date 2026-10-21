@@ -133,3 +133,9 @@ sub: Resumen OPE Enfermería SMS · Politraumatizado (X-ABCDE, RTS, funciones de
 !! Adrenalina: **no desfibrilable → ya**; **desfibrilable → tras la 3.ª descarga**. Amiodarona **300 → 150**.
 !! VAD: si falla la intubación → **mascarilla laríngea**; Mallampati **IV** y Cormack **3-4** = difícil.
 !! Pediatría: **5 ventilaciones**, **15:2**, **4 J/kg**; lactante atragantado: **espalda + tórax**, **sin Heimlich**.
+
+## Imágenes clave del tema
+
+[[img: tema-49-1.jpg | Regla de los nueve de Wallace (adulto)]]
+
+[[img: tema-49-2.jpg | Los 4 toxíndromes principales]]

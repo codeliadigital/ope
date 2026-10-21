@@ -115,3 +115,7 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
 !! Aéreo = **presión negativa**; protector = **presión positiva**.
 !! Hemocultivos: vacío → **aerobio primero**; jeringa → **anaerobio primero**.
 !! Gasas manchadas **sin gotear** = grupo II; punzantes siempre **grupo III**.
+
+## Imágenes clave del tema
+
+[[img: tema-35-1.jpg | Orden de llenado de los frascos de hemocultivo (palomilla y jeringa)]]

@@ -99,3 +99,9 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 !! Endoscopio flexible = **semicrítico** → desinfección de alto nivel.
 !! Derrame de sangre: lejía a **10.000 ppm**.
 !! Indicador **químico** correcto = vira; **biológico** correcto = **no vira**.
+
+## Imágenes clave del tema
+
+[[img: tema-18-1.jpg | Los 5 momentos de la higiene de manos (OMS)]]
+
+[[img: tema-18-2.jpg | Lectura de controles biológicos tras la incubación (color del vial)]]

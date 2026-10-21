@@ -159,3 +159,15 @@ sub: Resumen OPE Enfermería SMS · Semiología y exploración, boca y esófago 
 !! Biopsia hepática: después **decúbito lateral derecho ≥ 2 h**. Lavado gástrico: **lateral izquierdo**.
 !! SNG: **pH < 5,5** o **radiografía**; Sengstaken: **tijeras a pie de cama**.
 !! **Ileostomía** = heces líquidas, piel irritada, **deshidratación**; bolsa a **1/3**.
+
+## Imágenes clave del tema
+
+[[img: tema-44-1.jpg | Cuadrantes y regiones abdominales]]
+
+[[img: tema-44-2.jpg | Hernia de hiato: tipo I (deslizamiento) y tipo II (paraesofágica)]]
+
+[[img: tema-44-3.jpg | Grados de las hemorroides internas (I-IV)]]
+
+[[img: tema-44-4.jpg | Tipos de colostomía según su localización]]
+
+[[img: tema-44-5.jpg | Colostomía frente a ileostomía]]

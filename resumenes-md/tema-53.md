@@ -143,3 +143,13 @@ sub: Resumen OPE Enfermería SMS · Piel y cicatrización, prescripción enferme
 !! Quemaduras: flictena = **2.º superficial**; 3.er grado **no duele**; 1.er grado **no suma**.
 !! Reposición: mitad en **8 h desde el accidente**; ABA **2 ml** (térmica) / **4 ml** (eléctrica).
 !! Derivar: **> 15%** adulto, **> 10%** niño, cara/manos/genitales, eléctrica, química, circunferencial.
+
+## Imágenes clave del tema
+
+[[img: tema-53-1.jpg | Úlceras por presión: estadios I-IV]]
+
+[[img: tema-53-2.jpg | Úlcera venosa frente a arterial]]
+
+[[img: tema-53-3.jpg | Escala de Wagner-Merritt del pie diabético]]
+
+[[img: tema-53-4.jpg | Quemaduras: clasificación según profundidad]]

@@ -138,3 +138,13 @@ sub: Resumen OPE Enfermería SMS · Valoración y NANDA, ayuno, medicación y pr
 !! Adrenalina **no** en dedos, pene, nariz u oreja; toxicidad de anestésicos locales → **lípidos al 20%**.
 !! Jeringas: relajantes **rojo**, hipnóticos **amarillo**, opioides **azul**, reversores **a rayas**.
 !! IQZ: **clorhexidina alcohólica 2%**, **60 min**, **clíper**, **normotermia**, **glucemia < 180**.
+
+## Imágenes clave del tema
+
+[[img: tema-50-1.jpg | Posiciones quirúrgicas y puntos de presión]]
+
+[[img: tema-50-2.jpg | Anestesia epidural frente a raquídea (espinal)]]
+
+[[img: tema-50-3.jpg | Jeringas precargadas: código de colores (norma ISO)]]
+
+[[img: tema-50-4.jpg | Instrumental quirúrgico por tiempos operatorios]]

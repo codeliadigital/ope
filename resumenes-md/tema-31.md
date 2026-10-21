@@ -110,3 +110,7 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 !! RCP: FC **< 60 con mala perfusión** → compresiones; **15:2** con dos reanimadores.
 !! SNG en niños: **NEMU**; comprobar con **pH ≤ 5,5** o radiografía.
 !! Urocultivo fiable: **sondaje o punción suprapúbica**, no bolsa.
+
+## Imágenes clave del tema
+
+[[img: tema-31-1.jpg | Triángulo de evaluación pediátrica (TEP)]]

@@ -117,3 +117,11 @@ sub: Resumen OPE Enfermería SMS · Valoración (patrones, semiología, ausculta
 !! VMNI solo con paciente **consciente**; hidrocoloide en la nariz **antes**.
 !! VT **6-8 ml/kg de peso ideal**; neumotaponamiento **20-30 cmH₂O**; cabecera **30-45°**.
 !! ECMO **VV = pulmón**; **VA = corazón + pulmón**.
+
+## Imágenes clave del tema
+
+[[img: tema-40-1.jpg | Anatomía del aparato respiratorio y unidad alveolar]]
+
+[[img: tema-40-2.jpg | Patrones respiratorios patológicos (Kussmaul, Cheyne-Stokes, Biot, paradójica)]]
+
+[[img: tema-40-3.jpg | Ruidos respiratorios: estridor, roncus, sibilancias, crepitantes y roce pleural]]

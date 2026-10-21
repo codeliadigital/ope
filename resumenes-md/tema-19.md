@@ -74,3 +74,9 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 !! Aéreo = **presión negativa** y puerta cerrada; protector = **presión positiva**.
 !! Retirada del EPI: **guantes primero**, **mascarilla al final y fuera**.
 !! Citostáticos: contenedor **azul**; punzantes: contenedor **rígido amarillo**, siempre grupo III.
+
+## Imágenes clave del tema
+
+[[img: tema-19-1.jpg | Secuencia de colocación (donning) y retirada (doffing) del EPI]]
+
+[[img: tema-19-2.jpg | Clasificación de residuos sanitarios del SMS: grupos y contenedores]]

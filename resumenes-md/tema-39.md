@@ -100,3 +100,15 @@ sub: Resumen OPE Enfermería SMS · Valoración neurológica (Glasgow, FOUR, pup
 !! Miastenia: **piridostigmina antes de comer**; nada de **aminoglucósidos ni magnesio**.
 !! Guillain-Barré: **ascendente**, **disociación albúmino-citológica**, vigilar la **capacidad vital**.
 !! **PPC = PAM − PIC > 60**; Cushing = **HTA + bradicardia + respiración irregular**.
+
+## Imágenes clave del tema
+
+[[img: tema-39-1.jpg | Organización del sistema nervioso central y periférico]]
+
+[[img: tema-39-2.jpg | Áreas funcionales del cerebro (Broca, Wernicke, lóbulos)]]
+
+[[img: tema-39-3.jpg | Alteraciones pupilares: isocoria, anisocoria, miosis y midriasis]]
+
+[[img: tema-39-4.jpg | Escala de coma de Glasgow]]
+
+[[img: tema-39-5.jpg | Los 12 pares craneales]]

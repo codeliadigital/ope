@@ -86,3 +86,11 @@ sub: Resumen OPE Enfermería SMS · Valoración cardiovascular, insuficiencia ca
 !! Transductor **por encima del eje flebostático → cifras bajas**.
 !! Línea arterial: **300 mmHg**; **nunca medicación**.
 !! FV/TV sin pulso: **desfibrilar**; adrenalina **tras la 3.ª descarga**; asistolia/AESP: **adrenalina ya**, sin descargas.
+
+## Imágenes clave del tema
+
+[[img: tema-41-1.jpg | Anatomía del sistema cardiovascular]]
+
+[[img: tema-41-2.jpg | Colocación de los electrodos precordiales (V1-V6)]]
+
+[[img: tema-41-3.jpg | Derivaciones especiales: derechas (V3R-V4R) y posteriores (V7-V9)]]

@@ -109,3 +109,9 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
 !! Puntos: cara **4-5 días**, piernas **10-14**.
 !! ICEA = **cuidados**, no diagnóstico médico; enlace = **hospital**; gestora = **domicilio**.
 !! Zarit **≥ 56** = sobrecarga intensa.
+
+## Imágenes clave del tema
+
+[[img: tema-52-1.jpg | Principales posiciones anatómicas postquirúrgicas]]
+
+[[img: tema-52-2.jpg | Sistema de drenaje torácico (Pleur-evac)]]

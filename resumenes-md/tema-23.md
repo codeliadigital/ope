@@ -109,3 +109,7 @@ sub: Resumen OPE Enfermería SMS · Macro y micronutrientes, clasificación de l
 !! Para ver si el soporte funciona esta semana: **prealbúmina**, no albúmina.
 !! El hierro oral se toma en ayunas con **zumo de naranja**, nunca con leche.
 !! Realimentación = pico de insulina = **hipofosfatemia**.
+
+## Imágenes clave del tema
+
+[[img: tema-23-1.jpg | Técnica de medición NEX para la sonda nasogástrica]]

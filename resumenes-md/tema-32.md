@@ -81,3 +81,7 @@ sub: Resumen OPE Enfermería SMS · Pubertad y Tanner, desarrollo psicosocial, e
 !! Intoxicación etílica: riesgo de **hipoglucemia e hipotermia**.
 !! Flumazenilo: **nunca con tricíclicos** ni en epilépticos.
 !! **Grooming** = adulto; **ciberbullying** = iguales.
+
+## Imágenes clave del tema
+
+[[img: tema-32-1.jpg | Estadios de Tanner]]

@@ -147,3 +147,11 @@ sub: Resumen OPE Enfermería SMS · Valoración endocrina, DM1 y DM2, diagnósti
 !! Addison: **↓Na ↑K**, hiperpigmentación; crisis → **hidrocortisona 100 mg IV**.
 !! Feocromocitoma: **alfa antes que beta**; no palpar el abdomen.
 !! DI: **agua libre**; SIADH: **restricción hídrica**. Sheehan: **agalactia**; corticoide **antes** que tiroxina.
+
+## Imágenes clave del tema
+
+[[img: tema-47-1.jpg | Zonas de inyección de insulina y rotación]]
+
+[[img: tema-47-2.jpg | Puntos de exploración con monofilamento en el pie]]
+
+[[img: tema-47-3.jpg | Signos de Chvostek y Trousseau]]

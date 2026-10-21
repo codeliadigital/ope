@@ -126,3 +126,17 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 !! Lavado ocular: **canto interno → externo**, 1-3 L, **evertir el párpado**.
 !! Lavado ótico: **no si perforación**; agua a **37 °C**; pared **posterosuperior**; diabético → **suero estéril**.
 !! Pie de riesgo: **crema sin tocar los espacios interdigitales**; agua con el **codo**; calcetines **blancos**.
+
+## Imágenes clave del tema
+
+[[img: tema-45-1.jpg | Anatomía del globo ocular]]
+
+[[img: tema-45-2.jpg | Anatomía del oído]]
+
+[[img: tema-45-3.jpg | Receptores cutáneos del tacto]]
+
+[[img: tema-45-4.jpg | Gusto y olfato: anatomía]]
+
+[[img: tema-45-5.jpg | Prueba de Weber: interpretación]]
+
+[[img: tema-45-6.jpg | Técnica de instilación de colirios]]

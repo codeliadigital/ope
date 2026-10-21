@@ -92,3 +92,13 @@ sub: Resumen OPE Enfermería SMS · Recuerdo y embarazo, valoración (dolor mec�
 !! Vendaje **de distal a proximal** con los **dedos visibles**; en ocho para articulaciones; recurrente para muñones.
 !! Tracción: **pesas libres**; esquelética → **osteomielitis**.
 !! Bastón en la mano **sana**; escaleras: **sube la buena, baja la mala**.
+
+## Imágenes clave del tema
+
+[[img: tema-43-1.jpg | Tipos de articulaciones según su movilidad]]
+
+[[img: tema-43-2.jpg | Genu valgo y genu varo]]
+
+[[img: tema-43-3.jpg | Tipos de fracturas]]
+
+[[img: tema-43-4.jpg | Vendajes e inmovilizaciones: en ocho, Robert Jones y Velpeau]]

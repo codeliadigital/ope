@@ -162,3 +162,11 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 !! RN de UCI > 5 días o con gentamicina: **potenciales evocados**, no otoemisiones.
 !! Pulsioximetría **preductal = mano derecha**; normal **≥ 95% y diferencia ≤ 3%**.
 !! El **Landau** no existe al nacer (aparece a los 4 meses).
+
+## Imágenes clave del tema
+
+[[img: tema-28-1.jpg | Caput succedaneum frente a cefalohematoma]]
+
+[[img: tema-28-2.jpg | Maniobras de cadera neonatal: Barlow y Ortolani]]
+
+[[img: tema-28-3.jpg | Zonas de punción capilar en el talón del neonato]]
