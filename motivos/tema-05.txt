@@ -1,0 +1,90 @@
+1|a|No empiezan al nacer: incluyen los 270 días de gestación.
+1|c|Tres años son demasiados: son unos 1.000 días (de la concepción a los 2 años).
+1|d|Empiezan en la concepción, no en la semana 12.
+2|a|Con los electrodos en el tórax no se puede hacer el piel con piel.
+2|b|El manguito en el brazo ocupa un brazo que la madre necesita para sostener al bebé.
+2|c|Los electrodos en el tórax impiden el contacto piel con piel.
+3|b|No se presume: tiene que expresarlo de forma clara.
+3|c|La familia no puede decidir por un paciente capaz.
+3|d|No es absoluto: cede ante el riesgo para terceros o la salud pública.
+4|a|Aunque firmen los padres, el menor de 12 años o más debe ser informado y escuchado.
+4|b|Hasta los 16 años consienten los representantes; con 13 no decide él.
+4|d|El juez solo interviene en conflictos graves; no es la regla.
+5|a|Son días hábiles, no naturales.
+5|c|Son 15 días, no 30.
+5|d|El plazo es de 15 días hábiles, no de un mes.
+6|a|El proceso oncológico activo sí da derecho a segunda opinión.
+6|b|La confirmación de una enfermedad rara sí da derecho.
+6|c|Las enfermedades neurológicas degenerativas sí dan derecho.
+7|b|No puede exigir la privada: el retraso es voluntario.
+7|c|El plazo no se amplía a 180 días; simplemente se detiene.
+7|d|No pierde el derecho a operarse en el SMS.
+8|a|1.200 es el cupo del pediatra.
+8|b|1.500 es el cupo del médico de familia.
+8|d|2.000 no es ningún cupo del SMS.
+9|a|Hace falta la firma de ambos progenitores, no solo la del que acude.
+9|c|No se pide un informe del pediatra.
+9|d|Con 10 años no basta la conformidad del menor.
+10|a|El SIPS es el registro de datos de los profesionales.
+10|b|Selene es la historia clínica del hospital.
+10|c|OMI-AP es el programa de consulta de Atención Primaria.
+11|b|El Decreto 25/2006 regula los tiempos de demora máxima.
+11|c|El Decreto 106/2007 regula la segunda opinión.
+11|d|El Decreto 339/2009 regula el SIPS.
+12|a|Tres testigos no bastan si dos son familiares de 2.º grado o cónyuge.
+12|b|Un notario posterior no subsana unos testigos que no cumplen.
+12|d|Que el representante lo acepte no subsana la invalidez.
+13|a|Son 11 miembros y 2 enfermeras, no 9 y 3.
+13|c|Hay 2 enfermeras, no 3.
+13|d|Son 11 miembros, no 10.
+14|a|Las instituciones no pueden objetar.
+14|b|Debe manifestarse de forma anticipada y por escrito, no verbal.
+14|c|Pueden objetar todos los profesionales implicados, enfermeras incluidas.
+15|b|Si lo administra un profesional es eutanasia, no suicidio asistido.
+15|c|La administración IV por el médico es eutanasia.
+15|d|Retirar el soporte vital es limitación del esfuerzo terapéutico.
+16|a|El techo de cristal es la barrera vertical para llegar a puestos directivos.
+16|b|La acción positiva es una medida para corregir la desigualdad.
+16|d|La transversalidad (mainstreaming) es integrar el género en todas las políticas.
+17|a|No son permanentes: desaparecen al alcanzar la igualdad.
+17|c|No son exclusivas de la empresa privada.
+17|d|No contradicen la igualdad: la hacen real.
+18|a|Se hace antes de aprobar la norma, no después de publicarla.
+18|b|No es opcional: es obligatoria.
+18|c|Se exige también a las disposiciones autonómicas.
+19|b|La explosión no va primero: antes se acumula la tensión.
+19|c|La luna de miel es la fase final, tras la agresión.
+19|d|Aislamiento y control son tácticas del maltrato, no las fases de Walker.
+20|a|La ley murciana sí lo considera violencia contra la mujer, aunque no haya pareja.
+20|b|El protocolo no depende de la denuncia.
+20|d|No se deriva solo a la policía: se activa la atención sanitaria del protocolo.
+21|a|El parte de lesiones prevalece sobre la confidencialidad.
+21|c|No hace falta su autorización: es obligatorio de oficio.
+21|d|Se emite siempre, no solo si las lesiones son graves.
+22|a|No está prohibida: es excepcional.
+22|b|No se atiende sin requisitos: hace falta el consentimiento de los progenitores.
+22|c|No se exige denuncia previa.
+23|b|A1 es para titulaciones de grado con máster o licenciaturas, no enfermería.
+23|c|El Grupo B es para técnicos superiores de FP.
+23|d|C1 es para bachiller o técnicos (por ejemplo, TCAE).
+24|a|3 años es el límite de la interinidad en vacante o por programas temporales.
+24|b|6 meses en 12 era el antiguo nombramiento eventual.
+24|d|1 año no es el límite fijado.
+25|a|La suspensión de funciones es una sanción disciplinaria.
+25|c|La excedencia forzosa es otra situación distinta.
+25|d|Los servicios especiales son, por ejemplo, ocupar un cargo político.
+26|a|1 año no basta: se exigen 5.
+26|b|2 años no bastan: se exigen 5.
+26|c|3 años no bastan: se exigen 5.
+27|b|Sí percibe retribuciones los 2 primeros meses.
+27|c|Son 2 meses, no 6 (6 meses es la reserva de plaza).
+27|d|La reserva de plaza es de 6 meses, prorrogable.
+28|a|Renunciar a la exclusividad no es posible si dirige un servicio o unidad.
+28|b|Aunque no se solapen los horarios, el cargo de dirección lo excluye.
+28|d|La antigüedad no cambia la exclusión.
+29|a|6 meses es la prescripción de las faltas leves.
+29|c|3 años no es un plazo del Estatuto Marco.
+29|d|4 años es la de las faltas muy graves.
+30|a|No existe el apercibimiento verbal.
+30|b|Las faltas graves se sancionan con suspensión de funciones.
+30|c|Las muy graves pueden llevar a la separación del servicio.

@@ -22,6 +22,8 @@ sub: Resumen OPE Enfermería SMS · Valoración endocrina, DM1 y DM2, diagnósti
 | Complicación aguda típica | **Cetoacidosis** | **Estado hiperosmolar** |
 | Tratamiento | **Insulina de por vida** | Estilo de vida → **metformina** (1.ª línea) → otros (iSGLT2, arGLP1) → insulina |
 
+- **Antidiabéticos orales**: **metformina** (biguanida; reduce la producción hepática de glucosa; **no da hipoglucemias**; efectos digestivos; **suspender antes de contrastes yodados** por riesgo de **acidosis láctica**); **sulfonilureas** (glibenclamida, gliclazida, glimepirida; aumentan la secreción de insulina: **riesgo alto de hipoglucemia**, 30 min antes de comer); **glinidas** (repaglinida, al empezar a comer, hipoglucemia menor); **inhibidores de las alfa-glucosidasas** (**acarbosa**: si hay hipoglucemia, tratar con **glucosa pura**, no con sacarosa); **iSGLT2** (-gliflozinas: glucosuria, **infecciones genitales**, cetoacidosis euglucémica); **iDPP-4** (-gliptinas) y **arGLP-1** (-glutidas, inyectables; pérdida de peso, náuseas).
+
 - Complicaciones crónicas **microvasculares** (**retinopatía**, **nefropatía**: primera causa de diálisis, **neuropatía**) y **macrovasculares** (cardiopatía isquémica, ictus, arteriopatía periférica).
 - **Diagnóstico** (repetir en otro día salvo hiperglucemia inequívoca con síntomas):
 
@@ -29,7 +31,7 @@ sub: Resumen OPE Enfermería SMS · Valoración endocrina, DM1 y DM2, diagnósti
 |---|---|
 | **Glucemia basal** (ayuno ≥ 8 h) | **≥ 126 mg/dl** |
 | **SOG con 75 g** a las 2 h | **≥ 200 mg/dl** |
-| **HbA1c** (refleja **2-3 meses**) | **≥ 6,5%** |
+| **HbA1c** (refleja **2-3 meses**) | ==**≥ 6,5%**== |
 | **Glucemia al azar + síntomas** | **≥ 200 mg/dl** (no precisa confirmación) |
 
 - **FINDRISC**: cuestionario de **8 ítems** (edad, IMC, **perímetro de cintura**, actividad física ≥ 30 min, frutas y verduras, antihipertensivos, hiperglucemia previa, familiares con diabetes) que estima el riesgo de DM2 a 10 años (≥ 15 puntos = riesgo alto).
@@ -51,7 +53,7 @@ sub: Resumen OPE Enfermería SMS · Valoración endocrina, DM1 y DM2, diagnósti
 
 - **Hipoglucemia: < 70 mg/dl**. Causas: exceso de insulina o secretagogos, **saltarse comidas**, ejercicio no planificado, **alcohol**. Fase **adrenérgica** (temblor, sudor frío, palpitaciones, hambre, palidez) → **neuroglucopénica** (confusión, conducta extraña, convulsiones, coma).
   - **Consciente: regla de los 15**: **15 g de hidratos de absorción rápida** (azúcar en agua, zumo, bebida azucarada no *light*, 3-4 comprimidos de glucosa), **medir a los 15 min** y repetir si sigue < 70; después, **hidratos de absorción lenta**.
-  - **Inconsciente**: **nada por boca**; **glucagón IM o SC** (polvo que hay que **reconstituir**; también existe intranasal) en **PLS** (puede vomitar) o **glucosa IV hipertónica**. Al despertar, hidratos orales. El glucagón es **ineficaz** sin reservas hepáticas (**alcohólicos**, hepatopatía grave).
+  - **Inconsciente**: ==**nada por boca**==; **glucagón IM o SC** (polvo que hay que **reconstituir**; también existe intranasal) en **PLS** (puede vomitar) o **glucosa IV hipertónica**. Al despertar, hidratos orales. El glucagón es **ineficaz** sin reservas hepáticas (**alcohólicos**, hepatopatía grave).
 
 | | **Cetoacidosis (CAD)** | **Estado hiperosmolar (EHH)** |
 |---|---|---|
@@ -128,17 +130,17 @@ sub: Resumen OPE Enfermería SMS · Valoración endocrina, DM1 y DM2, diagnósti
 
 - **Síndrome de Sheehan**: necrosis hipofisaria por **hemorragia posparto**; primer signo: **agalactia** (no sube la leche), después **amenorrea**; **sin hiperpigmentación**. Tratamiento: **corticoides antes que levotiroxina**.
 
-!! DM: basal **≥ 126**, SOG **≥ 200**, HbA1c **≥ 6,5%**, azar **≥ 200 + síntomas**; confirmar en otro día.
+!! ==DM: basal **≥ 126**, SOG **≥ 200**, HbA1c **≥ 6,5%**, azar **≥ 200 + síntomas**; confirmar en otro día.==
 !! HbA1c = media de **2-3 meses**; control **cada 3-6 meses**; pie **anual**.
 !! O'Sullivan: **50 g, sin ayuno, 1 h, ≥ 140**, semana **24-28**; SOG 100 g: **2 valores** alterados.
-!! Hipoglucemia **< 70**: **15 g + 15 min**; inconsciente → **glucagón IM/SC** en PLS, **nada por boca**.
+!! ==Hipoglucemia **< 70**: **15 g + 15 min**; inconsciente → **glucagón IM/SC** en PLS, **nada por boca**.==
 !! CAD: **Kussmaul + aliento afrutado**; EHH: **> 600, deshidratación, coma, sin cetosis**.
 !! CAD/EHH: **1.º suero** → **potasio** → **insulina regular IV** (la única IV).
 !! Monofilamento **10 g**, «C», **nunca sobre callo**; diapasón **128 Hz**; pulsos **pedio y tibial posterior**.
 !! Neuropático: **caliente, pulsos, indoloro, plantar**; isquémico: **frío, sin pulsos, doloroso, distal**.
 !! Wagner **2 = tendón sin hueso**; **3 = osteomielitis/absceso**.
 !! Uñas **rectas y limadas**; nunca callicidas; agua probada con el **codo**.
-!! Absorción: **abdomen > brazos > muslos > nalgas**; insulina en uso **4 semanas** a temperatura ambiente; **nunca congelar**.
+!! ==Absorción: **abdomen > brazos > muslos > nalgas**; insulina en uso **4 semanas** a temperatura ambiente; **nunca congelar**.==
 !! Sensor = **líquido intersticial**; TIR **70-180**.
 !! **Somogyi** = hipoglucemia a las **3 h** → bajar insulina; **alba** → subirla.
 !! Hipertiroidismo **TSH baja**; hipotiroidismo **TSH alta**; levotiroxina **en ayunas con agua**.

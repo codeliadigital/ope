@@ -162,7 +162,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Salud comunitaria, determinantes s
 
 - **Instituto Joanna Briggs (JBI, Australia)**: referente en evidencia cualitativa; **criterios FAME**: ***Feasibility*** (factibilidad o viabilidad, incluida la económica), ***Appropriateness*** (adecuación ética y cultural), ***Meaningfulness*** (significado para el paciente) y ***Effectiveness*** (efectividad). **GRADE**, para la evidencia cuantitativa.
 
-!! Cualitativa = **inductiva**; cuantitativa = **deductiva**.
+!! ==Cualitativa = **inductiva**; cuantitativa = **deductiva**.==
 !! Epojé = **Husserl** (descriptiva); *Dasein* = **Heidegger** (hermenéutica).
 !! *Member checking* asegura la **credibilidad**, no la confirmabilidad.
 !! Varias personas sobre un mismo hecho = triangulación **de datos (personas)**, no metodológica.

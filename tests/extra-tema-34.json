@@ -1,0 +1,60 @@
+{
+ "tema": 34,
+ "preguntas": [
+  {
+   "q": "Obtener como resultado 2 puntos en el cuestionario APGAR FAMILIAR, significa:",
+   "o": [
+    "Normofuncional.",
+    "Disfuncional leve.",
+    "Disfuncional moderado.",
+    "Disfuncional grave."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Tras revisar este genograma, la simbología nos indica que:",
+   "o": [
+    "El matrimonio sufrió un aborto espontáneo.",
+    "El matrimonio está divorciado.",
+    "La relación entre la madre y la hija es unida.",
+    "La relación entre los descendientes es conflictiva."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta sobre el ciclo de acción comunitaria:",
+   "o": [
+    "Es un esquema de actuación dividido en cuatro fases.",
+    "Cada fase es independiente y no condiciona el desarrollo de las fases siguientes.",
+    "Los resultados obtenidos en cada vuelta del ciclo ofrecen los mismos objetivos.",
+    "El desarrollo de las fases propuestas es orientativo y estarán condicionadas por los diferentes contextos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes recursos, ¿cuál es el más recomendable si tenemos problemas de entendimiento con mujeres afectadas o en riesgo de padecer mutilación genital femenina?:",
+   "o": [
+    "Trabajadora social del centro.",
+    "Mediadora intercultural.",
+    "Enfermera de pediatría.",
+    "Departamento de protección a la Infancia y Fiscalía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Es cierto en relación con la teleasistencia o asistencia telemática:",
+   "o": [
+    "Hoy en día, el acceso a las nuevas tecnologías por los pacientes no suele suponer una limitación.",
+    "Las limitaciones físicas de los pacientes son una dificultad para su uso.",
+    "La alta seguridad jurídica permite que la aceptación de su uso por los profesionales sea muy generalizada.",
+    "La tecnología ha conseguido solventar la práctica totalidad de las limitaciones de la no presencialidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

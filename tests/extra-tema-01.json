@@ -1,0 +1,269 @@
+{
+ "tema": 1,
+ "preguntas": [
+  {
+   "q": "Atendiendo a la Constitución Española de 1978, señale la competencia en materia sanitaria que corresponde a las Comunidades Autónomas y no al Estado:",
+   "o": [
+    "Bases y coordinación de la sanidad.",
+    "Planificación sanitaria.",
+    "Sanidad exterior.",
+    "Gestión de Instituto Nacional de Gestión Sanitaria (INGESA)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la legislación actual en vigor desde 2012, respecto a la obtención de órganos de donante vivo, ¿cuánto tiempo mínimo debe pasar entre la firma del documento de cesión del órgano y la extracción del mismo según la legislación actual?:",
+   "o": [
+    "12 horas.",
+    "24 horas.",
+    "48 horas.",
+    "72 horas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Quién fue la escritora que abogó por la reforma hospitalaria y por la unificación de la enfermería en el siglo XIX?:",
+   "o": [
+    "Concepción Arenal.",
+    "Isabel Zendal.",
+    "Elvira Dávila.",
+    "María del Carmen Angoloti y Mesa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El Desafío Nursing Now (Nursing Now Challenge) es un movimiento global impulsado en junio de 2021 por el Consejo Internacional de Enfermeras (CIE) y la OMS, que: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 172",
+   "o": [
+    "Pretende mejorar la experiencia del paciente al empoderar a las enfermeras y matronas.",
+    "Define la ratio mínima de enfermeras que el Consejo Internacional de Enfermeras (CIE) recomienda de manera genérica, aunque deja la interpretación a cada país, en función de sus recursos, modelos de sistema sanitario y de las características de los diferentes puestos de trabajo.",
+    "Establece una declaración distintiva entre los aspectos relevantes de la práctica clínica de las enfermeras y el de las matronas.",
+    "Recoge la normativa legislativa internacional que otorga a las enfermeras la capacidad para la toma de decisiones en torno a su práctica profesional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál fue la primera Escuela de Enfermería en España?:",
+   "o": [
+    "La Escuela de Enfermería de la Casa de Salud Valdecilla.",
+    "Cuerpo de Auxiliares Femeninos de la Cruz Roja Española.",
+    "La Escuela de Enfermeras de Santa Isabel de Hungría.",
+    "La Escuela de Enfermería de Santa Madrona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué etapa de la evolución del cuidado enfermero estarían recogidos los cuidados aplicados en la Edad Media?:",
+   "o": [
+    "Etapa vocacional del cuidado.",
+    "Etapa técnica del cuidado.",
+    "Etapa doméstica del cuidado.",
+    "Etapa profesional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes principios NO está incluido en el Plan Estratégico 2019 - 2023 del Consejo Internacional de Enfermeras?:",
+   "o": [
+    "Impacto global.",
+    "Empoderamiento de las instituciones.",
+    "Crecimiento innovador.",
+    "Liderazgo estratégico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la Grecia Clásica la Teoría Humoral consideraba que la enfermedad estaba provocada por el desequilibrio de los humores (sangre, flema, bilis amarilla y bilis negra). Según esta Teoría, ¿cuál de las siguientes características corresponden al humor Flema?:",
+   "o": [
+    "Calor-Humedad.",
+    "Frío-Sequedad.",
+    "Calor-Sequedad.",
+    "Frío-Humedad."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Los Ministros de los Enfermos o Comunidad de Siervos de los Enfermos fue una orden masculina de enfermería del siglo XVI creada por:",
+   "o": [
+    "Camilo de Lelis.",
+    "Vicente de Paul.",
+    "Pedro José Betancur.",
+    "Juan Ciudad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto al metaparadigma enfermero, señalar la respuesta correcta:",
+   "o": [
+    "Una asunción es una teoría adoptada de otra disciplina.",
+    "Los conceptos nucleares del metaparadigma son la persona, el medio ambiente, la enfermedad y la enfermería.",
+    "Actualmente nos situamos en el paradigma de transformación. Humor Estación Elemento Órgano Características Sangre Primavera Aire Corazón Caliente y húmedo Bilis amarilla Verano Fuego Hígado, vesícula biliar Caliente y seco Bilis negra Otoño Tierra Brazo Frío y seco Flema o pituita Invierno Agua Cerebro, pulmones Frío y humeda PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 174",
+    "Las grandes teorías especifican cuándo aplicar unos cuidados concretos a una población concreta de pacientes."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con los paradigmas enfermeros definidos por Suzanne Kérouac et al:",
+   "o": [
+    "El paradigma de transformación se relaciona con la escuela del caring.",
+    "Hildergard Peplau, Dorothea Johnson y Callista Roy, se clasificarían dentro del paradigma de categorización.",
+    "El paradigma de integración representa al positivismo biomédico.",
+    "El paradigma de categorización se orienta hacia la persona."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué teoría o modelo desarrolló Sor Callista Roy?:",
+   "o": [
+    "Modelo de sistemas.",
+    "Modelo de la conservación.",
+    "Teoría de las transiciones.",
+    "Modelo de adaptación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son las fuentes de las manifestaciones de dependencia según Virginia Henderson?:",
+   "o": [
+    "Los déficits de autocuidado.",
+    "Falta de fuerza, voluntad o conocimientos.",
+    "Las descompensaciones.",
+    "Las respuestas desadaptativas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre el modelo de Hildegard Elizabeth Peplau es correcta?:",
+   "o": [
+    "El eje básico de su modelo es el establecimiento de la relación enfermera, paciente y familia.",
+    "Las fases de la relación interpersonal de su modelo son orientación, identificación, intervención y resolución.",
+    "Define la Enfermería como un concepto interpersonal terapéutico y significativo.",
+    "En el rol de sustituto, la enfermera no establece vínculo alguno con el paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Quién se considera la fundadora de la enfermería y los cuidados transculturales?:",
+   "o": [
+    "Evelyn Adam.",
+    "Madeleine M. Leininger.",
+    "Myra Estrin Levine.",
+    "Afaf Ibrahim Meleis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué modelo conceptual de enfermería hace referencia a las líneas de resistencia como representación de factores de protección que ayudan al paciente a defenderse de un factor estresante?:",
+   "o": [
+    "El modelo de la conservación de Myra Estrine Levine.",
+    "El sistema conceptual de Imogene M. King.",
+    "El modelo de sistemas de Betty Neuman.",
+    "El modelo de adaptación de Callista Roy."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según Patricia Benner y su Teoría de principiante a experto: excelencia y dominio de la práctica de enfermería clínica, cuando la enfermera es capaz de reconocer los aspectos más importantes y posee un dominio intuitivo de la situación a partir de la información previa que conoce, corresponde a la etapa de:",
+   "o": [
+    "Principiante.",
+    "Principiante avanzado.",
+    "Competente.",
+    "Eficiente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según Riegel, la teoría del autocuidado de enfermedades crónicas engloba 3 conceptos clave, que son:",
+   "o": [
+    "Mantenimiento, monitorización y gestión del autocuidado.",
+    "Educación, compensación y mantenimiento.",
+    "Necesidad, adaptación y gestión del cuidado.",
+    "Monitorización, compensación y apoyo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de enfermería en el que se describen cuatro fases: orientación, identificación, explotación y resolución, corresponde a:",
+   "o": [
+    "Hildegard Pelau.",
+    "Marjory Gordon.",
+    "Dorotea Orem.",
+    "Callista Roy."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de adaptación corresponde a:",
+   "o": [
+    "Virginia Henderson.",
+    "Marjory Gordon.",
+    "Dorotea Orem.",
+    "Callista Roy."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes combinaciones con respecto a las teorías enfermeras es cierta?:",
+   "o": [
+    "Faye Glenn Abdellah: Modelo del Núcleo, el Cuidado y la Curación.",
+    "Lydia Hall: Modelo de la Conservación.",
+    "Ernestine Wiedenbach: Teoría del arte de cuidar de la enfermería clínica.",
+    "Nancy Roper: Teoría del Proceso Deliberativo de Enfermería."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué enfermera desarrolló la Teoría Enfermera de Promoción de la Salud?:",
+   "o": [
+    "Nola J. Pender.",
+    "Linda Carpenito.",
+    "Madeleine M. Leininger.",
+    "Afaf Meleis Ibrahim."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Los conceptos metaparadigmáticos de Persona (como paciente), Salud (como ausencia de enfermedad y capacidad para utilizar plenamente los recursos), Entorno (como conjunto de elementos externos que afectan a la salud de las personas tanto sanas como enfermas) y Cuidado (como aportación propia de la enfermera a la atención de la salud) son planteados por una de las siguientes teóricas de la enfermería:",
+   "o": [
+    "Callista Roy.",
+    "Hildegard Peplau.",
+    "Florence Nightingale.",
+    "Virginia Henderson."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la actividad INCORRECTA en relación al NIC “Cuidados en la agonía” de un paciente con cáncer en fase terminal que ingresa en la unidad de oncología para medidas de confort:",
+   "o": [
+    "Comunicar la voluntad de comentar aspectos de la muerte.",
+    "Facilitar la conversación sobre arreglos para el funeral.",
+    "Responder a las preguntas acerca de la donación de órganos",
+    "Animar al paciente y a la familia a compartir los sentimientos sobre la muerte."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

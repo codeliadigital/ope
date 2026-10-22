@@ -15,7 +15,7 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 | **Antisepsia** | Reducción microbiana sobre **tejidos vivos** (piel, mucosas, heridas) con **antisépticos** |
 | **Asepsia** | Prácticas para **impedir la llegada** de microorganismos: médica o limpia (lavado, guantes limpios) y quirúrgica o estéril (campos, guantes y material estériles) |
 
-!! Antiséptico = **tejido vivo**; desinfectante = **superficies e instrumental**.
+!! ==Antiséptico = **tejido vivo**; desinfectante = **superficies e instrumental**.==
 
 | Spaulding | Contacto | Procesado | Ejemplos |
 |---|---|---|---|
@@ -98,7 +98,7 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 !! Desinfección de alto nivel ≠ esterilización (no garantiza esporas).
 !! Endoscopio flexible = **semicrítico** → desinfección de alto nivel.
 !! Derrame de sangre: lejía a **10.000 ppm**.
-!! Indicador **químico** correcto = vira; **biológico** correcto = **no vira**.
+!! ==Indicador **químico** correcto = vira; **biológico** correcto = **no vira**.==
 
 ## Imágenes clave del tema
 

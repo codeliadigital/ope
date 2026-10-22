@@ -1,0 +1,2127 @@
+{
+ "id": "eir-2021",
+ "anio": 2021,
+ "grupo": "Exámenes EIR (Ministerio de Sanidad)",
+ "titulo": "EIR 2021 · Enfermería (versión 0)",
+ "descripcion": "Examen oficial de la prueba EIR 2021 del Ministerio de Sanidad: 200 preguntas más 10 de reserva, 12 con imagen, con la plantilla de respuestas definitiva. En el examen real eran 4 h 30 min y cada fallo restaba 1/3.",
+ "minutos": 270,
+ "penalizacion": 0.3333333333333333,
+ "preguntas": [
+  {
+   "q": "Pregunta asociada a la imagen 1. ¿Cuál es la posición de lactancia que se muestra?:",
+   "o": [
+    "Balón de Rugby.",
+    "Acunado clásico.",
+    "Sentada o caballito.",
+    "Reclinada."
+   ],
+   "a": 0,
+   "img": "img/eir-examen/2021-01.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. Indique qué tipo de alteración placentaria se observa en la imagen:",
+   "o": [
+    "Placenta accreta.",
+    "Placenta previa.",
+    "Inserción velamentosa de cordón umbilical.",
+    "Placenta bilobulada."
+   ],
+   "a": 2,
+   "img": "img/eir-examen/2021-02.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 3. Indique la opción INCORRECTA respecto a la maniobra correspondiente a la imagen:",
+   "o": [
+    "El reanimador se situará tras la cabeza del recién nacido.",
+    "La mascarilla facial no debe sobrepasar el mentón ni apoyarse sobre los globos oculares.",
+    "Se colocará al recién nacido en decúbito supino con la cabeza en hiperextensión.",
+    "Debe mantenerse un ritmo de 30 a 60 respiraciones/minuto."
+   ],
+   "a": 2,
+   "img": "img/eir-examen/2021-03.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. Indique la respuesta correcta:",
+   "o": [
+    "El montaje de la hoja del bisturí frío se hará con los dedos índice y pulgar sujetando el mango metálico firmemente con la otra mano.",
+    "No existe riesgo para la esterilidad si se moja el cobertor de la mesa de instrumental quirúrgico, puesto que es impermeable.",
+    "El instrumental suele colocarse de izquierda a derecha por orden de actuación en la cirugía.",
+    "Los instrumentos pueden colocarse en el borde o sobresalir de la mesa de instrumentación de la cirugía sin afectar a la esterilidad."
+   ],
+   "a": 2,
+   "img": "img/eir-examen/2021-04.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. Identifique la opción INCORRECTA:",
+   "o": [
+    "La línea roja se corresponde con el Q3.",
+    "La línea azul se corresponde con la media.",
+    "La línea rosa se corresponde con el Q1.",
+    "El símbolo señalado con la flecha se corresponde con el valor extremo de la variable a estudio."
+   ],
+   "a": 1,
+   "img": "img/eir-examen/2021-05.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Identifique de qué herramienta se trata:",
+   "o": [
+    "Ecomapa.",
+    "Genograma.",
+    "Apgar familiar.",
+    "Ficha familiar."
+   ],
+   "a": 0,
+   "img": "img/eir-examen/2021-06.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Identifique de qué tipo de sutura se trata:",
+   "o": [
+    "Punto simple con nudo enterrado o invertido.",
+    "Sutura continua intradérmica.",
+    "Punto colchonero horizontal semienterrado.",
+    "Sutura Pfannenstiel."
+   ],
+   "a": 1,
+   "img": "img/eir-examen/2021-07.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. Indique el patrón respiratorio que se muestra en la imagen:",
+   "o": [
+    "Atáxico.",
+    "Kussmaul.",
+    "Cheyne-Stokes.",
+    "Apnéustico."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2021-08.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. Teniendo en cuenta el ECG de la imagen, con una velocidad de papel de 25mm/s y un voltaje de 0,1 mV/mm. Indique el ritmo cardíaco:",
+   "o": [
+    "Fibrilación auricular.",
+    "Síndrome Wolf Parkinson White.",
+    "Taquicardia supraventricular.",
+    "Flutter auricular."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2021-09.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 10. Indique el sistema de monitorización que presenta el paciente de la imagen:",
+   "o": [
+    "MCL-1.",
+    "EASI.",
+    "Derivación de Lewis.",
+    "Mason-Likar. - 2 -"
+   ],
+   "a": 1,
+   "img": "img/eir-examen/2021-10.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 11. Las siglas TLD, que aparecen en el envase del fármaco de la imagen, significan:",
+   "o": [
+    "Son un código internacional que identifica al laboratorio que posee la patente del fármaco o producto farmacéutico.",
+    "Son un código nacional que indica la clave del nombre del fármaco.",
+    "Son un código nacional que indica que el fármaco está compuesto por tabletas de liberación depot.",
+    "Son un código nacional que indica que se trata de un tratamiento de larga duración."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2021-11.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 12. El hueso señalado en rojo en la imagen se corresponde con:",
+   "o": [
+    "Hueso trapecio.",
+    "Hueso ganchoso.",
+    "Hueso cuneiforme.",
+    "Hueso escafoides."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2021-12.jpg"
+  },
+  {
+   "q": "El modelo de adaptación corresponde a:",
+   "o": [
+    "Virginia Henderson.",
+    "Marjory Gordon.",
+    "Dorotea Orem.",
+    "Callista Roy."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación a los patrones funcionales es cierto que:",
+   "o": [
+    "Uno de los patrones incluidos es sueñodescanso.",
+    "El patrón nutricional-metabólico pretende conocer el hábito defecatorio y/o urinario de la persona.",
+    "Se centra en 14 patrones funcionales.",
+    "Una de las necesidades incluidas en el modelo es moverse y mantener una buena postura."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Cada resultado de enfermería NOC se presenta con todas las características, EXCEPTO:",
+   "o": [
+    "Un nombre indicador.",
+    "Un código propio.",
+    "Una escala de medida.",
+    "Una lista de actividades."
+   ],
+   "a": 3
+  },
+  {
+   "q": "A la hora de establecer un plan de cuidados enfermeros NANDA/NIC/NOC de una persona con dependencia que tiene una úlcera por presión, señale la respuesta INCORRECTA:",
+   "o": [
+    "NIC: Cuidados del paciente encamado.",
+    "NIC: Curación de la herida: por segunda intención.",
+    "Diagnóstico: Deterioro de la Integridad Cutánea.",
+    "Factor relacionado: Factores mecánicos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿En qué año se llevó a cabo, en Astaná, la Conferencia Mundial sobre Atención Primaria de Salud “Desde Alma-Ata hacia la cobertura sanitaria universal y los Objetivos de Desarrollo Sostenible”?:",
+   "o": [
+    "1978.",
+    "2000.",
+    "2010.",
+    "2018."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En un niño de 5 años que acude a urgencias por vómitos persistentes asociados a un cuadro de gastroenteritis aguda, ¿qué fármaco en dosis única sería el de elección para el manejo de los vómitos, antes de introducir terapia de rehidratación?:",
+   "o": [
+    "Metoclopramida.",
+    "Domperidona.",
+    "Ondansetrón.",
+    "Haloperidol."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación con la prevención, toxicidad y detección precoz de sobredosificaciones por metotrexato oral, debemos saber que:",
+   "o": [
+    "La pauta posológica del metotrexato en el tratamiento de la artritis reumatoide será de 40 mg al día, preferiblemente siempre a la misma hora.",
+    "Los síntomas gastrointestinales (mucositis, diarreas, vómitos, hemorragias digestivas) y hematológicos (trombopenia, leucopenia, anemia) son predictivos y/o concomitantes en los casos de toxicidad por sobredosificación.",
+    "La administración de metamizol disminuye el riesgo de pancitopenia grave.",
+    "La administración de ácido fólico aumenta el riesgo de toxicidad. - 3 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Qué efectos adversos graves pueden acontecer en un paciente con Insuficiencia Cardíaca Congestiva, en el esquema farmacoterapéutico que combina espironolactona con un diurético de asa y un inhibidor de la enzima convertidora de la angiotensina?:",
+   "o": [
+    "Hipernatremia, hipoglucemia y agitación.",
+    "Hiponatremia, hipocalemia y aumento de las resistencias vasculares periféricas.",
+    "Hipernatremia e hipopotasemia grave si se combinan con \"sales de régimen\" (cloruro de potasio-KCl).",
+    "Hiponatremia, hiperpotasemia, insuficiencia renal y acidosis metabólica."
+   ],
+   "a": 3
+  },
+  {
+   "q": "De los siguientes antidiabéticos orales, ¿cuál de ellos ocasiona un mayor riesgo de hipoglucemia?:",
+   "o": [
+    "Metformina (biguanidas).",
+    "Glimepirida (sulfonilureas).",
+    "Sitagliptina (inhibidores de la dipeptidil peptidasa-4 / DPP-4).",
+    "Acarbosa (inhibidores de la α-glucosidasa)."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El proceso LADME (liberación, absorción, distribución, metabolismo y excreción) hace referencia a:",
+   "o": [
+    "El proceso farmacodinámico que experimenta el medicamento administrado.",
+    "El proceso u órganos diana en los que el fármaco ejerce un efecto agonista o antagonista.",
+    "El proceso farmacocinético que experimenta el medicamento administrado.",
+    "El proceso o puntos de farmacovigilancia que experimenta el medicamento administrado."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La cinética de eliminación saturable o de orden cero que experimentan algunos fármacos o tóxicos, como por ejemplo el alcohol etílico, se caracteriza por:",
+   "o": [
+    "Presentar una velocidad de eliminación proporcional a la cantidad de fármaco o tóxico.",
+    "Presentar una velocidad de eliminación constante, independientemente de la cantidad de fármaco o tóxico a eliminar (por ejemplo 12 mililitros/hora).",
+    "Eliminar siempre un determinado porcentaje del fármaco o tóxico por unidad de tiempo (por ejemplo, el 40% en 4 horas).",
+    "Presentar una semivida o vida media (t1/2) constante."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Un paciente joven al que se ha trasplantado de médula ósea hace un mes y medio acude a urgencias porque lleva un día con orina hematúrica. En urgencias es diagnosticado de cistitis hemorrágica. ¿Cuál de los siguientes fármacos quimioterápicos puede haber provocado esta situación?:",
+   "o": [
+    "Duxorubicina.",
+    "Citarabina.",
+    "Mesna.",
+    "Ciclofosfamida."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación a la administración intravenosa de nitroglicerina, debe saber que:",
+   "o": [
+    "La dilución siempre se realizará en un envase de vidrio.",
+    "La dilución sólo se realizará con suero glucosado al 10%.",
+    "Puede administrarse en inyección intravenosa lenta si se diluye a razón de 1 mg/ml.",
+    "En el tratamiento de una angina inestable se iniciará una infusión de carga a dosis elevadas (200-250 microgramos/minuto), la cual se irá ajustando y reduciendo progresivamente."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes medicaciones puede producir valores anormalmente altos del Índice Biespectral (BIS) a pesar de presentar el paciente un óptimo nivel de sedación?:",
+   "o": [
+    "Ketamina.",
+    "Óxido nitroso con concentración del 50%.",
+    "Dexmedetomidina.",
+    "Bromuro de ipratropio."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Qué tendón NO forma parte de la estructura tendinosa denominada pata de ganso?:",
+   "o": [
+    "Tendón del sartorio.",
+    "Tendón del músculo grácil.",
+    "Tendón del músculo semitendinoso.",
+    "Tendón del músculo rotuliano."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de los siguientes músculos presenta como antagonista al músculo tibial anterior?:",
+   "o": [
+    "Bíceps femoral.",
+    "Romboides.",
+    "Tibial lateral.",
+    "Gastrocnemio. - 4 -"
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Qué articulación está afectada en la rizartrosis?:",
+   "o": [
+    "La ubicada entre el trapecio y el primer metacarpiano.",
+    "La ubicada entre el grande y el primer metacarpiano.",
+    "La ubicada entre el semilunar y el segundo metacarpiano.",
+    "La ubicada entre el escafoides y el primer metacarpiano."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Señale la respuesta correcta respecto al ciclo de Cori:",
+   "o": [
+    "El ciclo de Cori está basado en la circulación cíclica de lípidos de cadena media y lactato entre el tejido muscular y el hígado.",
+    "El ciclo de Cori está basado en la circulación cíclica de lactato y glucosa entre el tejido muscular y el hígado.",
+    "El reciclaje del ácido fosfórico es la base del ciclo de Cori.",
+    "El reciclaje del ácido oxálico es la base del ciclo de Cori."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señale la afirmación correcta acerca de la retinopatía diabética:",
+   "o": [
+    "Es la primera causa de ceguera en las personas mayores de 75 años y se asocia principalmente a diabetes de tipo I.",
+    "La causa más frecuente de disminución visual en la retinopatía diabética no proliferativa es el edema a nivel del disco óptico.",
+    "La neovascularización retiniana es la causa principal de la disminución visual en la retinopatía diabética no proliferativa.",
+    "En la retinopatía diabética proliferativa juega un papel importante el factor de crecimiento del endotelio vascular."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale la afirmación correcta sobre el síndrome del túnel del carpo:",
+   "o": [
+    "Es un síndrome causado por la compresión del nervio cubital.",
+    "El signo de Tinel es generalmente negativo en este síndrome.",
+    "La disminución en el contenido del volumen del túnel carpiano es un hallazgo común en este síndrome.",
+    "Se debe en la mayoría de los casos a la ejercitación repetida de la muñeca."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el último documento de Consenso de la Sociedad Española para el Estudio de la Obesidad (SEEDO), y la Sociedad Española de Médicos de Atención Primaria (SEMERGEN), ¿cuáles son los criterios necesarios para la derivación de un paciente obeso desde Atención Primaria a Atención Hospitalaria?:",
+   "o": [
+    "IMC mayor o igual de 40 kg/m2, o IMC mayor o igual de 35 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas.",
+    "IMC mayor o igual de 40 kg/m2, o IMC mayor o igual de 38 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas.",
+    "IMC mayor o igual de 41 kg/m2, o IMC mayor o igual de 36 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas.",
+    "IMC mayor o igual de 45 kg/m2, o IMC mayor o igual de 40 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el último informe aprobado por la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) en 2019, ¿cuál es la ingesta diaria de referencia de calcio en los adultos mayores de 70 años?:",
+   "o": [
+    "800 mg diarios.",
+    "1000 mg diarios.",
+    "1200 mg diarios.",
+    "1400 mg diarios."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál es la principal diferencia entre fórmulas de nutrición enteral poliméricas y oligomonoméricas?:",
+   "o": [
+    "Las poliméricas están constituidas por proteínas hidrolizadas en forma de péptidos o aminoácidos, mientras que las oligomonoméricas aportan las proteínas enteras.",
+    "La osmolaridad de las fórmulas poliméricas es mayor que la de las fórmulas oligomonoméricas.",
+    "Las poliméricas están constituidas por proteínas intactas, mientras que las oligomonoméricas aportan las proteínas hidrolizadas en forma de péptidos o aminoácidos.",
+    "Las fórmulas oligomonoméricas aportan las proteínas en forma de macromoléculas o péptidos grandes, mientras que las poliméricas las aportan en forma de aminoácidos libres, por ello la osmolaridad de las primeras es mayor. - 5 -"
+   ],
+   "a": 2
+  },
+  {
+   "q": "En la Vía de Recuperación Intensificada de Cirugía del Adulto (RICA), ¿cuál es la metodología utilizada en la valoración nutricional completa preoperatoria?:",
+   "o": [
+    "Tras un cribado nutricional positivo, la valoración se realiza con la “Valoración Global Subjetiva (VGS)”.",
+    "La valoración nutricional se realiza con el método NRS-2002, de elección en paciente quirúrgico.",
+    "Se utiliza la Herramienta CONUT o Índice de Control Nutricional, que tiene en cuenta los valores de Albúmina sérica y linfocitos absolutos.",
+    "Se realiza con los criterios GLIM (Iniciativa de Liderazgo Global sobre Malnutrición), que valora criterios fenotípicos y etiológicos."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Entre las recomendaciones que daremos frente a la prevención de la anisakiosis se encuentra:",
+   "o": [
+    "Comprar el pescado más fresco posible y consumir en el día.",
+    "El pescado ahumado no presenta riesgos.",
+    "Cocinar preferentemente el pescado a menos de 60ºC.",
+    "El cocinado en microondas o plancha no garantiza la muerte del parásito."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de los siguientes alimentos se encuentra dentro de los permitidos de libre consumo para pacientes con Gota?:",
+   "o": [
+    "Espinacas.",
+    "Bebidas azucaradas.",
+    "Carne roja.",
+    "Cerveza sin alcohol."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique la opción correcta en relación a la medición de la tolerancia de nutrición enteral:",
+   "o": [
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 200 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 300 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 400 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 500 cc."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Entre las situaciones que favorecen la aparición de una deficiencia de biotina se encuentra:",
+   "o": [
+    "Dieta basada en arroz.",
+    "Uso de anticonceptivos orales.",
+    "Ingesta excesiva de huevos crudos.",
+    "Utilización de filtros solares."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Los objetivos de control metabólico en rango (TIR) en la mujer con diabetes mellitus tipo 1 preconcepcional usuaria de sistema de monitorización flash y monitorización continua de glucemia son:",
+   "o": [
+    "Tiempo en rango (63-140 mg/dl) más del 70%.",
+    "Tiempo en rango (63-140 mg/dl) al menos un 5%.",
+    "Tiempo en rango (70-95 mg/dl) más del 70%.",
+    "Tiempo en rango (70-95 mg/dl) al menos un 5%."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Ante una persona con diabetes con riesgo moderado de hipoglucemia y hábito deportivo moderado que hubiera practicado ejercicio a última hora de la tarde presentando una flecha de tendencia estable en un monitor de glucemia intersticial:",
+   "o": [
+    "No se le recomienda ningún aporte de hidrato de carbono.",
+    "Se le recomienda un aporte de 10 g de hidrato de carbono.",
+    "Se le recomienda un aporte de 15 g de hidrato de carbono.",
+    "Depende de la cantidad de insulina activa."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señale la respuesta correcta en relación al uso de agujas en administración subcutánea de insulina:",
+   "o": [
+    "La aguja de 4 mm es la recomendada para la administración subcutánea con poco riesgo de administración intramuscular o intradérmica. Es considerada la más segura para adultos y niños.",
+    "La aguja de 4 mm no está recomendada para pacientes obesos.",
+    "La aguja de 4 mm no debe insertarse a 90 grados.",
+    "La aguja de 4 mm en menores de 6 años y adultos muy delgados no precisa pellizco. - 6 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "En gestión de la calidad, una de las técnicas de análisis de la situación sería la aplicación de la metodología DAFO. Esta herramienta de gestión permite obtener una representación de las debilidades, amenazas, fortalezas y oportunidades. Identifique la respuesta correcta:",
+   "o": [
+    "Debilidades: están relacionadas con características externas.",
+    "Amenazas: son todos aquellos factores externos que pueden llegar a impedir la ejecución de una estrategia o poner en peligro su viabilidad.",
+    "Oportunidades: reúnen el conjunto de recursos internos, posiciones de poder y cualquier tipo de ventaja competitiva propia.",
+    "El análisis externo expone los puntos fuertes y las debilidades."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El Modelo del Queso Suizo es una herramienta de análisis y gestión de riesgos. NO se incluye en su representación gráfica:",
+   "o": [
+    "Una serie de dominios, entre ellos: influencias de la organización.",
+    "Una serie de dominios, entre ellos: supervisión.",
+    "Dos tipos de fallas: actos específicos y condiciones previas.",
+    "Vector de problemas que atraviesa todas las rebanadas hasta que un escenario adverso se materializa."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Cuando hablamos de un error que no produjo un evento adverso porque se detectó a tiempo, nos referimos a:",
+   "o": [
+    "Evento inverso.",
+    "Evento centinela.",
+    "Cuasifalla.",
+    "Seguridad del paciente."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De acuerdo a la vacunación para controlar las enfermedades infecciosas, se entiende por cobertura crítica:",
+   "o": [
+    "Porcentaje de la población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea igual a cero.",
+    "Porcentaje de la población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea menor a uno.",
+    "Porcentaje de población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea menor a dos.",
+    "Porcentaje de población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea menor a tres."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Respecto a la Odds Ratio, señale la respuesta FALSA:",
+   "o": [
+    "Si su intervalo de confianza no incluye al 1 se concluye que la asociación es estadísticamente significativa.",
+    "Es la razón entre la odds de exposición en el grupo de casos y la odds de exposición en el grupo control.",
+    "Su principal ventaja es que permite, mediante la regresión logística, ajustar la relación en estudio por el efecto de otras variables.",
+    "Es una buena aproximación del Riesgo Relativo bajo determinadas condiciones."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "Atendiendo al Índice kappa (κ), sería INCORRECTO:",
+   "o": [
+    "El índice kappa (κ) se usa para evaluar la concordancia o reproducibilidad de instrumentos de medida cuyo resultado es categórico (2 o más categorías).",
+    "El índice kappa (κ) representa la proporción de acuerdos observados más allá del azar, respecto del máximo acuerdo posible más allá del azar.",
+    "Un resultado entre 0,21-0,40 supone un grado de acuerdo insuficiente.",
+    "Un resultado entre 0,61-0,80 supone un grado de acuerdo sustancial. - 7 -"
+   ],
+   "a": 2
+  },
+  {
+   "q": "Durante las olas de la pandemia por COVID- 19, en relación a las pruebas diagnósticas, ¿qué aspecto de los siguientes se verá principalmente influido por la situación?:",
+   "o": [
+    "La sensibilidad.",
+    "La especificidad.",
+    "Los valores predictivos.",
+    "La fiabilidad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué prueba paramétrica se utilizará para determinar la varianza?:",
+   "o": [
+    "Test de Wilcoxon.",
+    "U de Mann-Whitney.",
+    "F de Fisher-Snedecor.",
+    "Test de Kruskal-Wallis."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Respecto al cálculo del número de sujetos necesarios para la realización de un estudio cuyo objetivo es la estimación de una media o una proporción, señale qué elemento NO interviene:",
+   "o": [
+    "Variabilidad del parámetro que se desea estimar.",
+    "Precisión con la que se desea estimar el parámetro.",
+    "Potencia estadística o capacidad del estudio para detectar una determinada diferencia.",
+    "Nivel de confianza deseado."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Respecto a la pirámide de Haynes, ¿cuál de las fuentes de información enumeradas a continuación se halla en la cúspide de la pirámide?:",
+   "o": [
+    "Metaanálisis.",
+    "Artículos originales.",
+    "Sistemas de ayuda a la toma de decisiones.",
+    "Revisiones sistemáticas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "A la hora de presentar un trabajo de investigación, nos indican que la bibliográfica se tiene que presentar en estilo APA 7ª ed. Identifique cuál de las siguientes opciones sería la correcta:",
+   "o": [
+    "Dawes J, Rowley J. Enhancing the customer experience: contributions from information technology, J Business Res. 2005; 36(5):350- 7.",
+    "Bravo, E., Barco, R. y Bullón, A. (2010). Anatomic study of the abductor pollicis longus: A source for grafting material of the hand. Clinical Orthopaedics and Related Research, 468(5), 1305-1309.",
+    "Estévez, Federico, Eric Magar y Guillermo Rosas. 2008. “Partisanship in nonpartisan electoral agencies and democratic compliance: Evidence from Mexico's Federal Electoral Institute”. Electoral Studies 27 (junio): 257-71.",
+    "S.-Y. Chung, \"Multi-level dirty paper coding,\" IEEE Communication Letters, vol. 12, no. 6, pp. 456-458, June 2008."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Conforme a lo dispuesto en el Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, el Coronavirus del síndrome respiratorio agudo grave 2 (SARS-CoV-2), es considerado:",
+   "o": [
+    "Agente Biológico del grupo 1.",
+    "Agente Biológico del grupo 2.",
+    "Agente Biológico del grupo 3.",
+    "Agente Biológico del grupo 4."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la OMS, para que un edificio sea considerado como “enfermo”, ¿qué porcentaje mínimo de sus ocupantes deben tener algún tipo de afectación asociada a su construcción?:",
+   "o": [
+    "20%.",
+    "15%.",
+    "12%.",
+    "5%. - 8 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "Atendiendo a la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, señale la respuesta INCORRECTA acerca de las competencias y facultades de los Delegados de Prevención de Riesgos Laborales:",
+   "o": [
+    "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la presente Ley.",
+    "Ejercer una labor de vigilancia y control sobre el incumplimiento de la normativa de prevención de riesgos laborales.",
+    "Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales.",
+    "Colaborar con la dirección de la empresa en la mejora de la acción preventiva."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Desde el punto de vista ético la investigación biomédica consta de una serie de garantías y premisas de obligado cumplimiento para dar al proceso la necesaria salvaguarda ético-legal. Señale la respuesta correcta:",
+   "o": [
+    "Desde el punto de vista ético la investigación biomédica garantiza que el interés y el bienestar de la sociedad o de la ciencia prevalecerá sobre el interés y el bienestar de la persona que participe en una investigación de éste tipo.",
+    "Éticamente la investigación biomédica debe asegurar que la persona sujeta a investigación no sufre riesgos o molestias desproporcionadas a los beneficios potenciales que se puedan obtener de la misma.",
+    "Desde el punto de vista ético y legal no se puede iniciar una investigación biomédica en los casos en que la persona por su situación clínica de emergencia no pueda otorgar su consentimiento.",
+    "Si la investigación biomédica tiene la necesaria trascendencia e importancia clínica se procederá a retrasar o privar a los participantes de los procedimientos médicos, diagnósticos o terapéuticos que sean necesarios para su estado de salud."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La ley 14/ 2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, defiende y garantiza con sus principios y su articulado la siguiente premisa:",
+   "o": [
+    "La facultad del paciente o usuario de optar libre y voluntariamente entre dos o más alternativas terapéuticas y de tratamiento asistencial, entre varios facultativos o entre centros asistenciales de manera legítima fuera de los términos y condiciones que establezcan los servicios de salud competentes y contando con el beneplácito de su médico responsable.",
+    "El derecho del paciente a ser informado con motivo de cualquier actuación en el ámbito de su salud de toda la información disponible sobre la misma sin ninguna excepción estipulada por la ley, respetando también su derecho a no ser informado.",
+    "El titular del derecho a la información es el paciente y podrán ser también informados las personas vinculadas a él por motivos familiares o de hecho en la medida que el paciente lo permita de forma expresa o tácita. Sin embargo, éste derecho a la información puede limitarse en caso de estado de necesidad terapéutica debidamente acreditado.",
+    "El derecho a la información de la persona sobre cuestiones que atañen a su propia salud no se aplica en el caso de existir problemas sanitarios en la colectividad que impliquen un riesgo para la salud pública o para la salud individual. - 9 -"
+   ],
+   "a": 2
+  },
+  {
+   "q": "La ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, reconoce, entre otros, el derecho de los ciudadanos a:",
+   "o": [
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que resida, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en otra comunidad autónoma.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en esa comunidad autónoma.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que resida, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en el conjunto de la Unión Europea.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías de la comunidad autónoma en la que resida."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Las denegaciones de la prestación de ayuda para morir, reconocida en la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia:",
+   "o": [
+    "Deberán realizarse por escrito o por otro medio que permita dejar constancia, y de manera motivada por el médico responsable, en el plazo máximo de diez días naturales desde la primera solicitud.",
+    "Deberán realizarse por escrito o por otro medio que permita dejar constancia y de manera motivada por el médico responsable, en el plazo máximo de veinte días naturales desde la primera solicitud.",
+    "Deberán realizarse por escrito y de manera motivada por el médico responsable, en el plazo máximo de diez días naturales desde la primera solicitud.",
+    "Deberán realizarse por escrito y de manera motivada por el médico responsable, en el plazo máximo de veinte días naturales desde la primera solicitud."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Entre las medidas para garantizar la prestación de la interrupción voluntaria del embarazo recogidas en la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo, NO se encuentra la siguiente:",
+   "o": [
+    "Se garantizará a todas las mujeres por igual el acceso a la prestación con independencia del lugar donde residan.",
+    "Se garantizará a todas las mujeres la libre elección de centro sanitario público, para el acceso a la prestación con independencia del lugar donde residan.",
+    "Se garantizará que en todo caso los profesionales sanitarios dispensarán tratamiento y atención médica adecuados a las mujeres que lo precisen antes y después de haberse sometido a una intervención de interrupción del embarazo.",
+    "Se garantizará que el acceso y la calidad asistencial de la prestación no resultarán menoscabadas por el ejercicio de la objeción de conciencia de profesionales sanitarios directamente implicados en la interrupción voluntaria del embarazo. - 10 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "La Resolución de 20 de octubre de 2020, de la Dirección General de Salud Pública, por la que se valida la “Guía para la indicación, uso y autorización de la dispensación de medicamentos sujetos a prescripción médica por parte de los enfermeros de: Heridas”:",
+   "o": [
+    "Define los medicamentos sujetos a prescripción médica, que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación en determinadas situaciones y de forma protocolizada.",
+    "Recoge aquellos medicamentos sujetos a prescripción médica que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación de forma protocolizada, sin otorgar capacidad para modificar la pauta, prorrogar o suspender el tratamiento sin autorización médica previa.",
+    "Se adapta a la evidencia científica disponible en la actualidad y debe ser revisada cada dos años por un comité de expertos del Ministerio de Sanidad, aunque en ese período pueden incorporarse y autorizarse nuevos medicamentos.",
+    "Permite a las Comunidades Autónomas desarrollar, a partir de los contenidos establecidos en la citada guía, sus propios protocolos y/o guías de práctica clínica o asistencial específicas aumentando si así se dispone, las competencias de los enfermeros/as recogidas en el RD en esta materia en el ámbito exclusivo de la C. Autónoma donde el enfermero haya obtenido la acreditación para esta competencia."
+   ],
+   "a": 0
+  },
+  {
+   "q": "El Desafío Nursing Now (Nursing Now Challenge), es un movimiento global impulsado en junio de 2021 por el Consejo Internacional de Enfermeras (CIE) y la OMS, que:",
+   "o": [
+    "Pretende mejorar la experiencia del paciente al empoderar a las enfermeras y matronas.",
+    "Define la ratio mínima de enfermeras que el Consejo Internacional de Enfermeras (CIE) recomienda de manera genérica, aunque deja la interpretación a cada país, en función de sus recursos, modelos de sistema sanitario y de las características de los diferentes puestos de trabajo.",
+    "Establece una declaración distintiva entre los aspectos relevantes de la práctica clínica de las enfermeras y el de las matronas.",
+    "Recoge la normativa legislativa internacional que otorga a las enfermeras la capacidad para la toma de decisiones en torno a su práctica profesional."
+   ],
+   "a": 0
+  },
+  {
+   "q": "De entre las manifestaciones que se pueden dar en el contexto de la violencia de género, cuando se alude al maltrato contra terceros, como pueden ser las hijas e hijos, con el propósito de dañar y herir a la mujer, hablamos de:",
+   "o": [
+    "Violencia física.",
+    "Violencia patrimonial.",
+    "Violencia vicaria.",
+    "Violencia ambiental."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Un obstáculo recurrente en la presentación de los resultados de la investigación en salud, ha sido la asunción, como norma, de que las mujeres presentan la misma situación que los hombres. A esto se le conoce como:",
+   "o": [
+    "Efecto Matilda.",
+    "Paradigma de Invisibilidad.",
+    "Dobles estándares.",
+    "Techo de cristal."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según concluye el informe sobre El estado mundial de las niñas 2020 (IN)SEGURAS ONLINE de la ONG Plan Internacional, sobre el acoso y el abuso online, señale cuál de las siguientes es la forma más común de acoso dentro de la violencia de género relacionada con el uso de nuevas tecnologías:",
+   "o": [
+    "Comentarios anti-LGBTIQ+.",
+    "Comentarios racistas.",
+    "Amenazas de violencia sexual.",
+    "Insultos y uso de lenguaje ofensivo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Un verbo asociado al estilo de comunicación “de guía” por parte del profesional sería:",
+   "o": [
+    "Administrar.",
+    "Decidir.",
+    "Reforzar.",
+    "Asistir."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación con la entrevista motivacional (EM) adecuada es FALSO que:",
+   "o": [
+    "La EM es un estilo de conversación colaborativo cuyo propósito es reforzar la motivación y el compromiso de la persona con el cambio.",
+    "El estilo general de la EM es de guía, a medio camino entre los estilos directivo y de acompañamiento, de los que también incorpora algún elemento.",
+    "La ambivalencia es un elemento anormal del proceso de preparación para el cambio y se trata de un estado en el que la persona puede quedar atrapada durante cierto tiempo.",
+    "Cuando el terapeuta usa un estilo directivo y defiende el cambio ante una persona ambivalente, esta reaccionará defendiendo los argumentos opuestos. - 11 -"
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Con qué etapa se corresponde averiguar cuánto sabe el paciente según el protocolo Buckman?:",
+   "o": [
+    "Primera etapa.",
+    "Segunda etapa.",
+    "Tercera etapa.",
+    "Cuarta etapa."
+   ],
+   "a": 1
+  },
+  {
+   "q": "De entre las siguientes manifestaciones clínicas, cual NO es indicativa de deshidratación grave en el lactante:",
+   "o": [
+    "Retraso del relleno capilar >1.5 segundos.",
+    "Pérdida de peso corporal >10%.",
+    "Depresión del nivel de conciencia.",
+    "Piel fría y moteada."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación a la enfermedad de boca-mano-pie:",
+   "o": [
+    "En la mayoría de los casos se trata de una infección por virus coxsackie o un enterovirus.",
+    "Produce lesiones pruriginosas de la piel en extremidades y cavidad oral.",
+    "Puede transmitirse por secreciones respiratorias.",
+    "Comúnmente, se transmite por la vía oralfecal."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál es la opción INCORRECTA respecto al pie zambo?:",
+   "o": [
+    "Da lugar a una elevación del arco longitudinal del medial del pie.",
+    "Puede ser postural, congénito o asociado a una displasia del tejido musculoesquelético.",
+    "Existe flexión plantar y aducción del antepie/mediopie respecto al retropié.",
+    "También se denomina pie equinovaro."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cómo se denomina a uno de los síndromes de fiebre recurrente más frecuente en la infancia, con intervalos regulares entre los episodios, acompañados de amigdalitis, aftas orales y/o adenopatías?:",
+   "o": [
+    "Síndrome de Schnitzler.",
+    "Síndrome de PFAPA.",
+    "Fiebre mediterránea familiar.",
+    "Síndrome de Rett."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Ante una puntuación 7 en el test de Apgar al minuto de vida de un recién nacido, cabe esperar:",
+   "o": [
+    "Frecuencia cardiaca >100, respiración regular, coloración sonrosada, llanto vigoroso y movimiento activo.",
+    "Frecuencia cardiaca <100, respiración débil, cianosis distal, muecas como respuesta a estímulos y flacidez.",
+    "Frecuencia cardiaca >100, respiración regular, cianosis distal, sin respuesta a estímulos y extremidades con flexión moderada.",
+    "Frecuencia cardíaca >100, respiración regular, sonrosado, sin respuesta a estímulos y flexión moderada de las extremidades."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Qué periodo de ayuno desde la última toma debemos considerar para un lactante con lactancia materna exclusiva que va a ser sometido a una prueba diagnóstica bajo sedación?:",
+   "o": [
+    "Dos horas de ayuno desde la última toma.",
+    "De tres a cuatro horas de ayuno.",
+    "Seis horas de ayuno.",
+    "No es necesario cumplir ayuno para pacientes con lactancia materna exclusiva."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Con respecto a la alergia a las proteínas transportadoras de lípidos vegetales (LTPs), indique la respuesta FALSA:",
+   "o": [
+    "Se trata de alérgenos alimentarios vegetales muy extendidos.",
+    "Son altamente resistentes al procesamiento de alimentos y al medio gastrointestinal.",
+    "Las manifestaciones clínicas de los pacientes en edad pediátrica alérgicos a las LTPs consisten en síntomas locales leves.",
+    "Estas proteínas tienen mayor presencia en la piel que en la pulpa de las frutas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Ante una crisis convulsiva en un paciente pediátrico, ¿cuál de las siguientes vías de administración de benzodiazepinas NO se considera de elección?:",
+   "o": [
+    "Vía rectal.",
+    "Vía endotraqueal.",
+    "Vía bucal.",
+    "Vía intranasal."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la opción FALSA acerca de las características clínicas de un niño con desnutrición tipo kwashiorkor:",
+   "o": [
+    "Presentan abdomen protuberante.",
+    "Aparecen lesiones cutáneas con alternancia de hiper e hipopigmentación.",
+    "Suelen presentar apatía y letargia.",
+    "Los niveles de albúmina sérica son normales o ligeramente reducidos. - 12 -"
+   ],
+   "a": 3
+  },
+  {
+   "q": "De entre las siguientes opciones, qué tipo de fractura es propia de la edad pediátrica:",
+   "o": [
+    "Fractura conminuta.",
+    "Fractura de Deütschlander.",
+    "Fractura espiroidea.",
+    "Deformación o incurvación plástica."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Al afirmar que un paciente pediátrico se encuentra en el percentil 35 de peso, entendemos que:",
+   "o": [
+    "El 65% de los niños de su sexo y edad están igual o por encima de ese peso.",
+    "El 35% de los niños de su sexo y edad están igual o por encima de su peso.",
+    "El 65% de los niños de su sexo y edad están por debajo de ese peso.",
+    "El 35% de los niños de su sexo y edad mantienen igual peso."
+   ],
+   "a": 0
+  },
+  {
+   "q": "A la hora de evaluar la agudeza visual en nuestra consulta de enfermería pediátrica, se pueden utilizar las siguientes herramientas y test. Indique la respuesta INCORRECTA:",
+   "o": [
+    "Test de Bayley.",
+    "Cartilla Snellen.",
+    "Test de Allen.",
+    "Tabla de símbolos LEA."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Cuál de las siguientes respuestas acerca del síndrome inflamatorio multisistémico en niños asociado a infección por SARS- CoV- 2 es INCORRECTA:",
+   "o": [
+    "Presenta características similares a la enfermedad de Kawasaki.",
+    "Existe fiebre persistente sin origen clínico claro.",
+    "Se acompaña de neumonía bilateral con infiltrado multilobar.",
+    "Algunos niños progresan clínicamente con rapidez y pueden desarrollar compromiso hemodinámico."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señala el enunciado correcto en relación a la 1,25-dihidroxivitamina D y el embarazo:",
+   "o": [
+    "Las concentraciones de 1,25dihidroxivitamina D se mantienen iguales en el embarazo.",
+    "La suplementación con 1,25dihidroxivitamina D no parece disminuir los riesgos de padecer preeclampsia o diabetes gestacional.",
+    "Las concentraciones de 1,25dihidroxivitamina D previas a la gestación se duplican en el primer trimestre y alcanzan su punto máximo en el tercer trimestre.",
+    "La recomendación de todas las sociedades científicas es hacer una detección sistemática universal durante el embarazo de 1,25dihidroxivitamina D."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El consumo o la exposición a los productos del tabaco por las mujeres embarazadas NO se asocia más específicamente con:",
+   "o": [
+    "Placenta previa.",
+    "Rotura prematura de membranas.",
+    "Desprendimiento prematuro de placenta.",
+    "Rotura uterina."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale la opción correcta de las siguientes recomendaciones en relación a la COVID-19 y la gestación:",
+   "o": [
+    "Los cambios fisiológicos del embarazo, hacen a la gestante menos susceptible a la COVID-19.",
+    "La infección por COVID-19 en la mujer embarazada no modifica el riesgo tromboembólico.",
+    "La base de datos española Red Covid-19 SEGO, muestra que no podría plantearse relación entre el cuadro agudo infeccioso o inflamatorio y el parto prematuro.",
+    "La OMS recomienda la lactancia exclusiva los primeros 6 meses de vida, incluso en el caso de que la madre presente la infección por el nuevo coronavirus SARS-CoV-2."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica de atención en el embarazo y puerperio del Ministerio de Sanidad, Servicios Sociales e Igualdad, ante cuál de los siguientes agentes infecciosos, NO se recomienda hacer pruebas serológicas de rutina en la embarazada:",
+   "o": [
+    "VIH.",
+    "Rubeola.",
+    "Hepatitis B.",
+    "Citomegalovirus. - 13 -"
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale cuál de las siguientes afirmaciones es INCORRECTA en relación a la endometriosis en las mujeres que padecen esta enfermedad:",
+   "o": [
+    "La infertilidad puede alcanzar al 30-40% de las mujeres con endometriosis.",
+    "Puede catalogarse como una enfermedad crónica e invalidante para algunas pacientes, especialmente para el subgrupo de mujeres con endometriosis más grave denominada endometriosis profunda.",
+    "Las mujeres con dolor pélvico crónico sin endometriosis tienen una menor frecuencia de trastornos psicológicos que las mujeres con endometriosis.",
+    "En general los síntomas son menos intensos durante el periodo menstrual y suelen empeorar con la menopausia."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Para valorar si el estado materno en un parto extrahospitalario permite el traslado a un centro sanitario, se usa un sistema de puntuación. Indique cuál de los siguientes es dicho sistema:",
+   "o": [
+    "Test de Apgar.",
+    "Test de Malinas.",
+    "Test de Silverman.",
+    "Test de Bishop."
+   ],
+   "a": 1
+  },
+  {
+   "q": "De las siguientes recomendaciones sobre lactancia materna en caso de ingurgitación mamaria, indique cuál tiene mayor grado de recomendación según la Guía de Práctica Clínica sobre lactancia del Ministerio de Sanidad, Servicios Sociales e Igualdad:",
+   "o": [
+    "La acupuntura podría disminuir la necesidad de antibióticos y el desarrollo de absceso mamario frente a los cuidados habituales.",
+    "En caso de una ingurgitación muy importante, necesitaremos también disminuir el componente inflamatorio para permitir la salida de la leche administrando preferentemente derivados mórficos para tal fin.",
+    "Se recomienda aumentar la frecuencia de las tomas, además de descansar y realizar contacto piel con piel para favorecer la liberación de oxitocina.",
+    "La aplicación de hojas de repollo o col puede ser beneficiosas en esos casos, encontrándose mejoría en los síntomas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señale cuál de las siguientes escalas climatéricas es una escala validada para la población española, según la Guía de Práctica Clínica sobre el abordaje de síntomas vasomotores y vaginales asociados a la menopausia y la postmenopausia del Ministerio de Sanidad, Servicios Sociales e Igualdad:",
+   "o": [
+    "Escala de REEDA.",
+    "Índice de Kupperman.",
+    "Escala Cervantes.",
+    "Escala Braden."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De cara a mejorar la capacidad de transmitir malas noticias en caso de muerte perinatal, los profesionales sanitarios disponen del protocolo SPIKES de los 6 pasos, descrito por Bayle y Buckman. En la primera etapa se incluye:",
+   "o": [
+    "Preparar el contexto físico más adecuado.",
+    "Averiguar cuánto sabe la paciente.",
+    "Responder a los sentimientos de la paciente.",
+    "Planificación y seguimiento del proceso."
+   ],
+   "a": 0
+  },
+  {
+   "q": "De los siguientes agentes infecciosos que generan una vaginosis, señale el que NO se considera una Infección de Transmisión Sexual (ITS):",
+   "o": [
+    "Chlamydia trachomatis.",
+    "Virus del herpes simple tipo 2.",
+    "Gardnerella vaginalis.",
+    "Trichomonas vaginalis."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica de anticoncepción hormonal e intrauterina del Ministerio de Sanidad, Consumo y Bienestar Social, en relación a las exploraciones necesarias y obligatorias (clase A) antes de la prescripción para un uso eficaz y seguro del parche anticonceptivo, señale la respuesta correcta:",
+   "o": [
+    "Presión Arterial.",
+    "Peso/IMC.",
+    "Exploración mamaria.",
+    "Examen pélvico. - 14 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes se refiere a la diabetes tipo LADA?:",
+   "o": [
+    "No suele presentar síntomas agudos de debut y su evolución es progresiva, lenta, leve o asintomática.",
+    "Es una variante de la diabetes tipo 2, aunque requiere uso de insulina desde el momento de su diagnóstico.",
+    "Es un tipo de diabetes en el que se presenta destrucción inmunológica de células beta pancreáticas en personas adultas, frente a la diabetes tipo 1, que se presenta en jóvenes.",
+    "Es una forma de diabetes debida a un defecto primario en la secreción de insulina con secreción inadecuada para los valores de glucemia, sin alteraciones de la acción de la insulina."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique cuál de los siguientes cánceres diagnosticados durante el proceso de donación de órganos NO supone un riesgo inaceptable para el proceso:",
+   "o": [
+    "Cáncer de pulmón.",
+    "Cáncer de mama.",
+    "Leucemia.",
+    "Cáncer de próstata."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación a la clasificación de la Fontaine:",
+   "o": [
+    "El grado I es asintomático, aunque hay arterioesclerosis, la obliteración arterial no es significativa.",
+    "El grado II es claudicación leve. Siendo IIa claudicación a distancia mayor de 150 metros y IIb la claudicación a distancia inferior a 150 metros.",
+    "En el grado III, el paciente refiere dolor en reposo.",
+    "En el grado IV, aparecen lesiones tisulares localizadas, necrosis y áreas de gangrena."
+   ],
+   "a": 1
+  },
+  {
+   "q": "De las siguientes afirmaciones señale la respuesta correcta según las últimas recomendaciones ILCOR- ERC 2021 sobre la cardioversión eléctrica:",
+   "o": [
+    "En la taquicardia ventricular se recomienda utilizar niveles de energía entre 70 y 120 J considerando aumentar gradualmente la energía si con la primera descarga no se consigue el ritmo sinusal.",
+    "En la fibrilación auricular se recomienda administrar una descarga sincronizada a la máxima energía del desfibrilador en lugar de una estrategia con energías crecientes.",
+    "Para el flutter auricular se recomienda utilizar niveles de energía entre 120 y 150 J en la primera descarga.",
+    "Para la taquicardia supraventricular paroxística se recomienda utilizar niveles de energía entre 120 y 150 J en la primera descarga."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Disponemos de un vial de propofol al 2% de 50 ml y 2 ampollas de fentanilo de 3 ml y 0,15 mg. Indique la respuesta correcta para la administración de 40 mg de propofol y 75 mcg de fentanilo:",
+   "o": [
+    "1 ml de propofol y 1 ml de fentanilo.",
+    "2 ml de propofol y 1,5 ml de fentanilo.",
+    "3 ml de propofol y 2 ml de fentanilo.",
+    "4 ml de propofol y 2,5 ml de fentanilo."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes variables NO forma parte de la Escala de Conductas Indicadoras de Dolor?:",
+   "o": [
+    "Tono muscular.",
+    "Confortabilidad.",
+    "Vocalización.",
+    "Musculatura facial."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique la opción correcta en relación a la medida más eficaz sobre el contacto con pacientes con infección por Clostridium Difficile:",
+   "o": [
+    "Los geles hidroalcohólicos han demostrado un alto nivel de eficacia al usarlos tras el contacto con este tipo de pacientes.",
+    "El lavado de manos con agua y jabón constituye la medida más eficaz.",
+    "La solución de alcohol boricado 2% es la medida costo-beneficio más eficaz.",
+    "Se deberá realizar una desinfección de manos con hipoclorito de sodio al 2% tras el contacto con estos pacientes. - 15 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique a qué corresponde el símbolo “•” que figura junto al código nacional en el margen superior derecho de ambas caras principales del embalaje exterior de un medicamento:",
+   "o": [
+    "Uso exclusivo hospitalario.",
+    "Conservación en frío.",
+    "Dispensación sujeta a prescripción médica.",
+    "Dispensación con receta oficial de estupefacientes."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál es la referencia anatómica para la medición del cero de la presión intracraneal en un drenaje ventricular externo?:",
+   "o": [
+    "En el conducto auditivo externo, coincidiendo con el agujero de Monro.",
+    "Dos dedos por encima del conducto auditivo externo, coincidiendo con el foramen oval.",
+    "Unión fronto-parietal a la altura de la sutura coronal.",
+    "Borde superior del pabellón auricular."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique la opción correcta en relación a las pruebas diagnósticas de la disfagia MECV-V:",
+   "o": [
+    "Se proporciona al paciente una solución con tres viscosidades diferentes: líquida, néctar y pudding. La prueba comienza administrando al paciente la textura pudding, después la textura néctar y finalmente la textura líquida.",
+    "Se valoran tres alteraciones en la seguridad: tos, cambios en la voz y desaturación >3%. Estas alteraciones conllevan cambios en las siguientes texturas a administrar, y la interrupción de la prueba si suceden en la textura pudding.",
+    "Se valoran cuatro alteraciones de la eficacia: ineficacia del sello labial, residuo oral, deglución fraccionada y residuo faríngeo. Estas alteraciones suponen la interrupción de la prueba y conllevan la colocación de una sonda para alimentación.",
+    "El volumen y viscosidad seguro para el paciente es aquél en el que han aparecido alteraciones de la eficacia, pero no alteraciones en la seguridad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a las afasias:",
+   "o": [
+    "La afectación del área de Broca, situada en el lóbulo frontal, da lugar a una afasia motora o de expresión.",
+    "La afectación del área de Wernicke, situada en el lóbulo frontal, da lugar a una afasia sensitiva o de comprensión.",
+    "La afectación del área de Broca, situada en el lóbulo temporal, da lugar a una afasia sensitiva o de comprensión.",
+    "La afectación del área de Wernicke, situada en el lóbulo temporal, da lugar a una afasia motora o de expresión."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La migraña episódica se diferencia de la cefalea tensional:",
+   "o": [
+    "La migraña episódica dura de 30 min a 7 días, mientras que la cefalea tensional dura menos de 24h.",
+    "La migraña episódica no se agrava con la actividad física rutinaria, mientras que la cefalea tensional sí lo hace.",
+    "La migraña episódica con aura no precisa de pruebas complementarias para el diagnóstico, mientras que en la cefalea tensional se recomienda la realización de un estudio de imagen si se presentan más de 5 episodios al mes.",
+    "La migraña episódica se acompaña de náuseas y/o vómitos o bien fotofobia o fonofobia, mientras que la cefalea tensional no suele presentar este tipo de síntomas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿A partir de qué porcentaje se considera un test de fuga negativo en la fase de destete de la ventilación mecánica?:",
+   "o": [
+    "Menor de un 10%.",
+    "Mayor de un 10%.",
+    "Menor de un 15%.",
+    "Mayor de un 15%. - 16 -"
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el Documento Internacional de Consenso sobre la Apnea Obstructiva del Sueño, señale la correcta sobre el uso de la CPAP:",
+   "o": [
+    "Se considera buena adhesión, la utilización del dispositivo durante al menos 5 h/noche durante el 80% de las noches.",
+    "Se considera un cumplimiento óptimo, una utilización mínima de 6 h/noche.",
+    "Se recomienda que todo paciente en tratamiento con CPAP sea controlado los primeros quince días de tratamiento y hacer una revisión presencial mínima al año.",
+    "En caso de incumplimiento manifiesto, con un uso medio inferior a 3 h/noche, se debe incluir al paciente en un programa de cumplimiento y efectuar una nueva evaluación transcurrido un mínimo de un mes."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el Manual SEPAR de Procedimientos, indique la opción INCORRECTA sobre los signos y síntomas de la neuropatía por compresión tras la realización de una gasometría arterial:",
+   "o": [
+    "Parestesia.",
+    "Debilidad muscular.",
+    "Alodinia.",
+    "Rigidez muscular."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según el Manual SEPAR de Procedimientos, indique la opción correcta sobre la interpretación de la gasometría arterial a nivel del mar, en reposo, con FiO2 de 0,21 y en ausencia de otras patologías:",
+   "o": [
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 80 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 60 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 60 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 80 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 40 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 60 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 60 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 40 mmHg."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Señale la afirmación INCORRECTA en relación al uso de inhaladores:",
+   "o": [
+    "Los inhaladores de cartucho presurizado requieren de propelentes para la emisión del fármaco.",
+    "Los inhaladores de polvo seco requieren de un transportador para el fármaco, que frecuentemente es la lactosa.",
+    "Los inhaladores de niebla fina requieren propelentes para la emisión del fármaco, pero a diferencia de los de cartucho presurizado, el propelente empleado tiene menos efectos sobre la huella de carbono.",
+    "Se consigue una mejor administración del fármaco inhalado si se emplea una cámara espaciadora con los inhaladores de cartucho presurizado."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación al síndrome del miembro fantasma doloroso, indique la opción correcta:",
+   "o": [
+    "Se ha demostrado que la terapia con espejos no es útil en la reducción del dolor.",
+    "Se sigue la línea de tratamiento del dolor neuropático.",
+    "Posee las mismas características que el dolor del muñón.",
+    "Actualmente la resección quirúrgica del neuroma es el método de elección."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la opción correcta en relación a los cuidados de un paciente con artroplastia total de rodilla:",
+   "o": [
+    "Los pacientes deben movilizar la extremidad y deambular desde el primer día.",
+    "Es recomendable colocar una almohada bajo la rodilla afectada cuando se encuentre en la cama.",
+    "Se debe mantener un INR entre 2-2,5 en prevención de la aparición de trombosis venosa profunda.",
+    "La pierna intervenida debe permanecer en declive cuando el paciente se encuentre sentado."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique cuál de los siguientes es un signo temprano de síndrome compartimental en un paciente con un yeso:",
+   "o": [
+    "Dolor desproporcionado al estiramiento pasivo de otros músculos en la extremidad inmovilizada.",
+    "Olor fétido y secreción purulenta a través del yeso.",
+    "Presión intracompartimental disminuida.",
+    "Eritema y tirantez del tejido subyacente. - 17 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique cuál de las siguientes medidas es opcional dentro del protocolo Infección Quirúrgica Zero:",
+   "o": [
+    "Adecuación de profilaxis antibiótica.",
+    "Pincelado con clorhexidina alcohólica al 2%.",
+    "Eliminación correcta del vello.",
+    "Mantenimiento de la normotermia."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Entre las modificaciones temporales inducidas por interferencias electromagnéticas sobre dispositivos implantables (marcapasos/desfibriladores automáticos), NO se encuentra:",
+   "o": [
+    "Funcionamiento en modo asíncrono A00/V00/D00.",
+    "Cambio automático de modo de estimulación DDD(R) a VVI(R).",
+    "Terapia de choque inapropiada.",
+    "Cambio de funcionamiento a modo “Back Up”."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Con respecto a las infecciones y sepsis urológicas, indique la opción INCORRECTA:",
+   "o": [
+    "El shock séptico presenta anomalías celulares, circulatorias y metabólicas que se asocian a un mayor riesgo de mortalidad que la sepsis.",
+    "Aunque la Escherichia Coli es el germen que con más frecuencia causa infecciones urológicas, en hombres es habitual que esté causado por cándidas.",
+    "Cuando las infecciones se agravan produciendo un shock séptico, el resultado suele ser similar independientemente de que las bacterias sean Gram negativas o Gram positivas.",
+    "Debe sospecharse una pielonefritis aguda en los pacientes que presenten fiebre y dolor en el costado, incluso en ausencia de síntomas típicos de cistitis."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señale cuál de las siguientes clasificaciones con respecto a los dializadores utilizados en hemodiálisis es la correcta:",
+   "o": [
+    "Los dializadores pueden ser clasificados según su diseño geométrico, la composición de la membrana, y de acuerdo a su capacidad para eliminar solutos en sangre.",
+    "Los dializadores pueden ser clasificados según la composición de la membrana y de acuerdo a su capacidad para eliminar solutos en sangre.",
+    "Los dializadores pueden ser clasificados según la composición de la membrana, de acuerdo a su capacidad para eliminar solutos en sangre, según el tipo de placa, y según la carcasa.",
+    "Los dializadores pueden ser clasificados según la composición de la membrana, de acuerdo a su capacidad para eliminar solutos en sangre, y según la carcasa."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Señale cuál de los siguientes alimentos presenta una mayor cantidad de potasio por cada 100g y, por tanto, deberá ser desaconsejado en mayor medida para un paciente con Enfermedad Renal Crónica:",
+   "o": [
+    "Sandía.",
+    "Manzana.",
+    "Uva pasa.",
+    "Cereza."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De acuerdo a la última Guía de Práctica Clínica para el cuidado peri y postoperatorio de la fístula y el injerto arteriovenoso para hemodiálisis en adultos, publicada por la European Renal Best Practice (ERBP), señale la afirmación correcta:",
+   "o": [
+    "En el momento de la primera canulación en adultos que requieren hemodiálisis, se recomienda esperar seis semanas después de la creación de la fístula arteriovenosa si tras el examen físico se considera que el acceso es adecuado.",
+    "En el momento de la primera canulación en adultos que requieren hemodiálisis, se recomienda esperar ocho semanas después de la creación de la fístula arteriovenosa si tras el examen físico se considera que el acceso es adecuado.",
+    "En adultos que requieren hemodiálisis, se sugiere no canular por primera vez fístulas arteriovenosas entre una y dos semanas después de su creación, a menos que esto pueda evitar la colocación de un catéter venoso central para hemodiálisis.",
+    "En adultos que requieren hemodiálisis, se sugiere no canular por primera vez fístulas arteriovenosas entre dos y cuatro semanas después de su creación, a menos que esto pueda evitar la colocación de un catéter venoso central para hemodiálisis. - 18 -"
+   ],
+   "a": 3
+  },
+  {
+   "q": "Los vehículos destinados a la prestación de los servicios de transporte sanitario que estén dotados al menos, de un conductor que esté en posesión del título de Formación Profesional de Técnico en Emergencias sanitarias y de un enfermero, y que, cuando la asistencia a prestar lo requiera deberá contar con un médico, son:",
+   "o": [
+    "Las ambulancias asistenciales A1.",
+    "Las ambulancias no asistenciales A2.",
+    "Las ambulancias asistenciales B.",
+    "Las ambulancias asistenciales C."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Las desaceleraciones durante el traslado de pacientes en una ambulancia terrestre, pueden provocar los siguientes cambios, EXCEPTO:",
+   "o": [
+    "Hipotensión arterial.",
+    "Hipertensión arterial.",
+    "Bradicardia refleja.",
+    "Aumento de la presión intracraneal (en pacientes con traumatismos craneoencefálicos pueden aumentar sus lesiones)."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes es una coagulopatía adquirida?:",
+   "o": [
+    "Hemofilia A.",
+    "Enfermedad de Von Willebrand.",
+    "Coagulación Intravascular Diseminada (CID).",
+    "Enfermedad de Christmas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de las siguientes personas podría ser donante sangre?:",
+   "o": [
+    "Mujer, 23 años, 59 kg de peso. Hace un mes y medio tuvo una fuerte gripe con fiebre de más de 39ºC, totalmente resuelta hace un mes.",
+    "Varón, 17 años, 89 kg de peso. Deportista de élite federado, con seguimiento estrecho por parte de los médicos de la federación, goza de un excelente estado de salud.",
+    "Varón, 59 años, 71 kg de peso. Tuvo cáncer de tiroides hace 10 años, actualmente libre de enfermedad.",
+    "Mujer, 28 años, 65 kg de peso. Fue madre de parto natural hace 4 meses, del que está totalmente recuperada y goza actualmente de un excelente estado de salud."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Al ir a una habitación a administrar un concentrado de plaquetas, el paciente dice que él tiene el grupo sanguíneo By que en la bolsa pone que el donante es A+. Se consulta con el banco de sangre y se comprueba que el donante es A+, el receptor es By el concentrado de plaquetas a administrar tiene un contenido de hematíes inferior a 2 ml. La actuación correcta sería:",
+   "o": [
+    "Descartar el uso del concentrado de plaquetas puesto que el paciente presenta incompatibilidad ABO e incompatibilidad Rh.",
+    "Informar al paciente de que la transfusión de plaquetas no precisa de compatibilidad de grupo sanguíneo, ya que posee un contenido de hematíes inferior a 2 ml.",
+    "Consultar con el hematólogo de guardia y evaluar la posibilidad de premedicar con 40 mg de metilprednisolona intravenosa y 1 g de paracetamol intravenoso 30 minutos antes de la transfusión para evitar efectos secundarios por la incompatibilidad existente.",
+    "Administrar las plaquetas a través de un filtro especial para casos de incompatibilidad ABO de 170-200 μm, de forma lenta (1-2 h) y vigilar estrechamente la posible aparición de signos adversos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "A un paciente que ha sido sometido a trasplante de precursores hematopoyéticos (TPH) de origen alogénico con una puntuación HLA 9/10, ¿debería aplicarse algún tipo de aislamiento?:",
+   "o": [
+    "No es necesario aislamiento, ya que la puntuación de compatibilidad del donante es muy elevada.",
+    "Aislamiento de contacto.",
+    "Aislamiento inverso o protector.",
+    "Aislamiento aéreo y garantizar una presión negativa de aire dentro de la habitación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De las siguientes escalas de valoración, ¿cuál es la más oportuna para valorar la soledad no deseada en pacientes?:",
+   "o": [
+    "Escala Loneliness.",
+    "Escala de DUKE.",
+    "Escala UCLA.",
+    "Escala Goldberg."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "La recomendación sobre el grado de compresión vigente en España (Ferrer et al., 2003) para las medias elásticas, clasifica como compresión fuerte la establecida entre:",
+   "o": [
+    "22-29 mmHg.",
+    "30-40 mmHg",
+    "40-50 mmHg.",
+    "Mayor de 50 mmHg. - 19 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes características clínicas NO es habitual encontrar en las lesiones de tejidos profundos?:",
+   "o": [
+    "Doble eritema (el segundo más oscuro y dentro del primero).",
+    "Desplazamiento entre 30-45º de las crestas óseas.",
+    "Su color puede diferir de la piel de los alrededores.",
+    "Evolución favorable con un tratamiento óptimo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El GNEAUPP propone como definición de lesiones por humedad:",
+   "o": [
+    "Lesión localizada en la piel (no suele afectar a tejidos subyacentes) que se presenta como una inflamación (eritema) y/o erosión de la misma, causada por la exposición prolongada (continua o casi continua) a diversas fuentes de humedad con potencial irritativo para la piel (por ejemplo: orina, heces, exudado de heridas, efluentes de estomas o fístulas, sudor, saliva o moco).",
+    "Lesión localizada en la piel y tejidos profundos que se presenta como una inflamación (eritema) y/o erosión de la misma, causada por la exposición prolongada (continua o casi continua) a diversas fuentes de humedad con potencial irritativo para la piel (por ejemplo: orina, heces, exudado de heridas, efluentes de estomas o fístulas, sudor, saliva o moco).",
+    "Lesión localizada en la piel (no suele afectar a tejidos subyacentes) que se presenta siempre con erosión de la misma, causada por la exposición prolongada (continua o casi continua) a diversas fuentes de humedad con potencial irritativo para la piel (por ejemplo: orina, heces, exudado de heridas, efluentes de estomas o fístulas, sudor, saliva o moco).",
+    "Lesión localizada en la piel y tejidos profundos que se presenta como una inflamación (eritema), causada por la desvitalización del tejido como consecuencia de la pérdida de turgencia celular por exposición prolongada a diversas fuentes irritativas (físicas o químicas)."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Ante úlceras de extremidad inferior profundas (Grado IV) altamente exudativas, son válidos para el control del exceso de exudado los apósitos de:",
+   "o": [
+    "Hidrogel.",
+    "Film de poliuretano.",
+    "Gasa.",
+    "Alginato."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En pacientes en posicionamiento en decúbito prono ingresados en las unidades de cuidados críticos, como ha sido necesario con algunos pacientes COVID-19, señale cuál de las siguientes recomendaciones específicas NO sería apropiada:",
+   "o": [
+    "Valoración facial en cada rotación para constatar lesiones.",
+    "Valorar en cada rotación otras partes del cuerpo que en esta posición pueden estar en peligro de ulceración (zonas del pecho, rodillas, dedos de los pies, pene, sínfisis púbica…).",
+    "Aplicar rodetes de espuma al menos en rodillas, mentón y zona frontal de la cara.",
+    "Descargar los puntos de presión en la cara y cuerpo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La disdiadococinesia es un signo clínico que se asocia a:",
+   "o": [
+    "Trastornos extrapiramidales.",
+    "Síndromes de motoneurona superior.",
+    "Síndromes cerebelosos.",
+    "Neuritis óptica posterior."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación al cribado de las pruebas de sangre oculta en heces, existen dos métodos para la detección de hemoglobina (Hb). Con relación al test mediante método químico (guayaco SOHg), señale la opción INCORRECTA:",
+   "o": [
+    "Se basa en la actividad pseudoperoxidasa del grupo heme, que induce la oxidación del guayaco al añadirse peróxido de hidrógeno.",
+    "Este test puede rehidratarse o no.",
+    "Para evitar falsos positivos o negativos, el test de guayaco SOHg requiere la toma de 3 muestras y realizar una dieta específica previa durante 3 días.",
+    "Tres días antes de hacer la prueba evitar el tratamiento con antiinflamatorios no esteroideos (AINES) y fomentar el consumo de suplementos de vitamina C."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale la opción INCORRECTA en relación a las ventajas del sistema GRADE (Grading of Recommendations, Assessment, Development and Evaluation) sobre otros sistemas de clasificación:",
+   "o": [
+    "Evaluación explícita de la importancia de los resultados de las estrategias de gestión alternativas.",
+    "Útil para revisiones sistemáticas y evaluaciones de tecnología sanitaria, así como para directrices.",
+    "Reconocimiento explícito de decisiones y referencias.",
+    "Proceso transparente de pasar de la evidencia a las recomendaciones. - 20 -"
+   ],
+   "a": 2
+  },
+  {
+   "q": "Una de las siguientes respuestas NO corresponde con las características que presenta la Gangrena de Fournier (GF):",
+   "o": [
+    "La GF es una forma específica de fascitis necrotizante que cursa de forma rápida y progresiva y que afecta principalmente a la fascia muscular genital, perineal y perianal, pudiendo incluso extenderse a la pared intraabdominal.",
+    "Es más prevalente en mujeres que en hombres, en una proporción 10:1 respectivamente.",
+    "Los factores más predisponentes para la GF son la Diabetes Mellitus y el alcoholismo crónico. También se relaciona con procesos que comprometen el estado inmunológico, neoplasias, desnutrición y otros como un nivel socioeconómico bajo y unos hábitos higiénicos deficientes.",
+    "El diagnóstico de la clasificación CIE-10 (Clasificación internacional de enfermedades) para la GF es N-49.3."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La escala de evaluación rápida de la gravedad de la incontinencia fecal, RAFIS (Rapid Assessment Faecal Incontinence Score), permite ponderar la gravedad clínica y su impacto sobre el bienestar emocional. Se compone de dos subescalas. ¿Qué miden dichas subescalas?:",
+   "o": [
+    "Una de ellas mide el estado general del sujeto a través de una escala visual, y la otra mide la frecuencia de fugas a través de una escala numérica.",
+    "Una de ellas mide el estado general del sujeto a través de una escala visual, y la otra mide la consistencia de las heces a través de una escala visual.",
+    "Una de ellas evalúa la severidad de la Disfunción Neurógena Intestinal a través de una escala visual y la otra clasifica el tipo de heces del 1 al 7 a través de una escala numérica.",
+    "Una mide si el paciente ha presentado pérdida no controlada de gas, deposiciones líquidas y sólidas a través de una escala visual y la otra indaga en el impacto que esto tienen sobre su calidad de vida y actividad sexual mediante una escala numérica."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La técnica de Malone se refiere a:",
+   "o": [
+    "Procedimiento usado en adultos, para la disfunción intestinal neurógena, con aplicación de un enema de agua con aceite de parafina o jabonoso, obteniendo un vaciamiento del colorrecto distal hasta la flexura esplénica.",
+    "Se trata de una colectomía y anastomosis ileorrectal. Está reservada a un pequeño grupo de pacientes con síntomas graves y refractarios: inercia colónica y trastorno motor limitado al colon con un tránsito orocecal normal.",
+    "Procedimiento que consiste en la formación de un conducto continente, generalmente una apendicostomía, que permite la cateterización intermitente para la irrigación y la limpieza rápida y controlada del colon (enema anterógrado).",
+    "Técnica utilizada en la defecación disinérgica. El objetivo en estos pacientes es restablecer un patrón defecatorio normal, consiguiendo una contracción abdominal adecuada junto con la relajación de los esfínteres."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En el año 2012, Emmertsen y colaboradores, desarrollaron una herramienta objetiva, eficiente y fácil de utilizar en la práctica diaria, para la evaluación de la función intestinal posterior a una resección rectal. ¿Cómo se llama esta escala?:",
+   "o": [
+    "Escala MSKCC BFI (Memorial Sloan Kettering Cancer Centre Bowel Function Instrument Score).",
+    "Escala NBD (Neurogenic Bowel Dysfunction Score).",
+    "Escala RAFIS (Rapid Assessment Faecal Incontinence Score).",
+    "Escala LARS (Low Anterior Resection Score)."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Las uñas “mitad y mitad” que presentan una porción proximal blanquecina y la mitad distal roja, rosada o marrón rojizo, y que se asocian a nefropatías crónicas se llaman también:",
+   "o": [
+    "Uñas de Terry.",
+    "Uñas de Lindsay.",
+    "Uñas en vidrio de reloj.",
+    "Uñas con líneas de Mees o con líneas de Muehrcke. - 21 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "Al revisar la historia clínica de una paciente ingresada para continuación de tratamiento quimioterápico, lee que presenta “líneas de Beau”. Para valorarlas y poder realizar el seguimiento debe de revisar:",
+   "o": [
+    "La cara.",
+    "El abdomen.",
+    "Los antebrazos.",
+    "Las uñas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Acude al domicilio de un paciente anglosajón, quien sólo dispone de un termómetro calibrado en grados Fahrenheit. Al tomarle la temperatura usted determina que presenta 101 grados Fahrenheit, lo que significa que presentará:",
+   "o": [
+    "Hipotermia.",
+    "Febrícula.",
+    "Fiebre.",
+    "Hiperpirexia."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Al realizar una exploración del abdomen utilizando las zonas topográficas descritas por la escuela francesa, la zona explorada contiene: epiplón mayor, porción baja gástrica, colon transverso, mesenterio, vena cava y aorta. Usted está explorando:",
+   "o": [
+    "Hipocondrio derecho.",
+    "Mesogastrio.",
+    "Hipogastrio.",
+    "Fosa ilíaca derecha."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Con relación al estado hematológico y soporte transfusional de los pacientes con Síndrome Mielodisplásico (SMD), es correcto que:",
+   "o": [
+    "La definición de anemia en estos pacientes, de acuerdo con la OMS, corresponde a un valor de Hb inferior a 10 g/dL en varones, o inferior a 8 g/dL en mujeres.",
+    "La cifra de Hb en el momento del diagnóstico de SMD suele mostrar valores normales en el 90% de los pacientes.",
+    "La anemia crónica en estos pacientes puede provocar mayor gasto cardíaco, hipertrofia ventricular y riesgo de síndromes coronarios.",
+    "La coexistencia de insuficiencia renal y niveles disminuidos de eritropoyetina (EPO) tiene, paradójicamente, un efecto protector sobre el deterioro medular haciendo que responda mejor a la administración de EPO."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El tiempo que pueden permanecer a temperatura ambiente los frascos de hemocultivos antes de ser introducidos en el sistema de incubación no debe superar en ningún caso:",
+   "o": [
+    "2 horas.",
+    "6 horas.",
+    "12 horas.",
+    "18 horas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes herramientas se considera un parámetro dinámico, que permite guiar la reanimación con líquidos en adultos con sepsis o shock séptico?:",
+   "o": [
+    "Volumen tidal.",
+    "Presión Venosa Central.",
+    "Respuesta a la elevación pasiva de las piernas combinada con medición de aumento de presión de pulso.",
+    "Lactato sérico."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es la cantidad máxima de fluidos en 24 horas, que se pueden administrar por vía subcutánea a un paciente con deshidratación moderada o leve?:",
+   "o": [
+    "1500 ml en total, en uno o varios puntos de punción.",
+    "1500 ml por cada punto de punción, siendo el máximo 3 puntos de punción diferentes.",
+    "2500 ml.",
+    "3000 ml, en dos puntos de punción."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La hipotermia es un cuadro frecuente en los rescates marítimos de inmigrantes en pateras accidentadas. En relación a las características de la misma y su tratamiento, señale la respuesta INCORRECTA:",
+   "o": [
+    "Ante una parada cardiorrespiratoria en un paciente con 29ºC de temperatura central, deberemos suspender las maniobras de RCP si tras 30 minutos no tiene pulso.",
+    "Las personas mayores y los niños menores de 2 años son especialmente susceptibles.",
+    "En la hipotermia moderada (28º-32º C) cesa la tiritona y los sujetos presentan bradicardia y bradipnea.",
+    "Las arritmias supraventriculares y los bloqueos suelen resolverse espontáneamente con el recalentamiento de los sujetos. - 22 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "Con relación al control de la vía aérea a través de la técnica de intubación retrógrada en el Soporte Vital Avanzado en trauma, señale la respuesta INCORRECTA:",
+   "o": [
+    "Es una técnica útil en casos de lesiones maxilofaciales graves donde las referencias anatómicas se han perdido.",
+    "Para realizarla se introduce un catéter intravenoso que atraviese la membrana cricotiroidea.",
+    "Mediante la técnica Seldinger se dirige la guía metálica desde la membrana cricotiroidea hasta su aparición por la boca.",
+    "El breve tiempo requerido para su realización es una de las principales ventajas de esta técnica."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Con relación al objetivo del tratamiento de las congelaciones en las extremidades, señale la respuesta INCORRECTA:",
+   "o": [
+    "Es primordial detener el proceso de congelación, intentar mejorar la microcirculación y evitar una posible infección.",
+    "Hay que tratar previamente la hipotermia si existe, siendo un buen método los masajes y fricciones del miembro congelado.",
+    "Es recomendable sumergir el miembro afectado en agua a 10-15ºC, e ir elevando la temperatura 5ºC cada 5 minutos hasta un máximo de 40ºC.",
+    "Si hay heridas abiertas o rotura de flictenas, debe disolverse en el agua algún antiséptico jabonoso, como povidona yodada, por ejemplo."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes, le parece correcta en relación al término “chemsex”?:",
+   "o": [
+    "Es un tipo particular de consumo recreativo de drogas en contextos sexuales vinculado a la cultura sexual LGTBQ+.",
+    "Se refiere a cualquier uso de drogas vinculadas al sexo cuya finalidad sea tener relaciones sexuales por un período largo de tiempo.",
+    "No se contempla como chemsex el uso de drogas con fines sexuales por una sola persona (de manera individual o para mantener sexo online).",
+    "Curiosamente, la práctica de chemsex es escasamente frecuente entre los hombres homosexuales y bisexuales infectados por el VIH."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Entre las recomendaciones para evitar las luxaciones de prótesis total de cadera señale la opción FALSA:",
+   "o": [
+    "Si el abordaje de la cirugía es postero-lateral, evitar la rotación externa de la pierna y el movimiento de aducción.",
+    "Evitar sentarse en asientos muy bajos e inclinarse hacia delante para atarse los zapatos o ponerse calcetines.",
+    "No cruzar las piernas.",
+    "Si el abordaje quirúrgico es anterior, evitar la rotación externa de la pierna y el movimiento de abducción."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Teniendo en cuenta las diferentes técnicas quirúrgicas para la cirugía bariátrica laparoscópica, señale la respuesta correcta:",
+   "o": [
+    "La manga gástrica es de tipo malabsortivo y restrictivo.",
+    "La derivación biliopancreática con anulación duodenal es de tipo malabsortivo.",
+    "Las deficiencias nutricionales postquirúrgicas son mayores en las de tipo restrictivo.",
+    "Disminuyen de manera inmediata la comorbilidad asociada a la obesidad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Sobre el uso del sistema de terapia de presión negativa V.A.C (cierre asistido por vacío), indique la respuesta INCORRECTA:",
+   "o": [
+    "Está indicado en colgajos e injertos.",
+    "La presión ejercida oscila entre 125 mmHg y 300 mmHg.",
+    "Está contraindicado en fístulas inexploradas y no entéricas.",
+    "Se puede establecer una presión continua o intermitente. - 23 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "Indique la opción INCORRECTA con relación a los efectos secundarios de los pacientes sometidos a radioterapia en patologías de cuello y cabeza:",
+   "o": [
+    "La complicación más común de la radioterapia de cabeza y cuello es la xerostomía. El cambio de dieta a alimentos húmedos y más blandos pueden mejorar el estado nutricional y el uso de humidificador en la habitación también puede aportar algún beneficio.",
+    "El linfedema interno producido por la radioterapia, afecta a la mucosa y al tejido blando subyacente. Puede provocar ronquera, compromiso de las vías respiratorias y disfagia.",
+    "El trismo es una complicación frecuente, que suele afectar a más del 30% de personas que han sido sometidas a radioterapia de cabeza y cuello. El uso de ejercicios mandibulares, dispositivos de movimiento pasivo y férulas, pueden ser útiles.",
+    "La disfagia y la toxicidad esofágica tras la radioterapia es una complicación que está infravalorada, ya que el desarrollo de estas suele producirse muchos años después."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Indique la opción correcta en relación al tratamiento de una picadura de medusa:",
+   "o": [
+    "Lavar la zona con abundante agua salada/solución salina, sin frotar, aplicando posteriormente una solución de vinagre y “afeitar” la zona con un plástico o cuchilla para retirar los posibles restos.",
+    "Lavar la zona con abundante agua del grifo, frotando enérgicamente con una esponja o gasa, y administrar analgésicos tópicos a continuación.",
+    "Desinfectar la zona con clorhexidina 2% y posteriormente lavar la zona con agua dulce, sin frotar. Se recomienda la pauta de antibióticos profilácticos.",
+    "Eliminar los restos del animal con una solución de amoniaco diluido al 0,5% y posteriormente aplicar hielo, así como una pomada antibiótica profiláctica."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes zonas de punción NO se encuentra indicada para la infusión subcutánea de líquidos?:",
+   "o": [
+    "Zona glútea.",
+    "Zona infraclavicular.",
+    "Zona escapular.",
+    "Zona deltoidea."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de los siguientes parámetros se valora en el método de triaje básico SHORT y no se valora en el método START?:",
+   "o": [
+    "Habla.",
+    "Respiración.",
+    "Respuesta a órdenes.",
+    "Marcha."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En un paciente en parada cardiorrespiratoria que presenta hipotermia con una temperatura corporal <30º C: señale la afirmación INCORRECTA:",
+   "o": [
+    "La frecuencia de las compresiones torácicas y ventilaciones es diferente a la RCP en pacientes normotérmicos.",
+    "Los intervalos de administración de adrenalina deben aumentarse, administrándose cada 6-10 minutos.",
+    "Si la fibrilación ventricular persiste después de tres descargas consecutivas, hay que retrasar los intentos posteriores hasta que la temperatura corporal sea >30 °C.",
+    "El pronóstico de un recalentamiento hospitalario exitoso debe basarse en las escalas de puntuación HOPE o ICE."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "En una paciente embarazada en parada cardiorrespiratoria a la que se le están aplicando maniobras de soporte vital avanzado, señale la afirmación correcta:",
+   "o": [
+    "Si estamos en presencia de un ritmo desfibrilable, los parches de desfibrilación deben situarse en situación antero-posterior.",
+    "Si la edad gestacional es >20 semanas o el útero es palpable por encima del nivel del ombligo, hay que tratar de obtener una inclinación de 15-30º hacia el lado derecho durante las compresiones torácicas.",
+    "Si la edad gestacional es >20 semanas o el útero es palpable por encima del nivel del ombligo y la reanimación inicial (primeros 4 min) no tiene éxito, hay que extraer el feto por cesárea urgente.",
+    "La posición de las manos para realizar las compresiones torácicas se modifica y las manos se sitúan en el tercio superior del esternón."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Un sujeto apuñalado presenta una insuficiencia respiratoria muy grave y por las características de sus lesiones, así como los signos que se observan, se puede sospechar un neumotórax a tensión. ¿Cuál de los siguientes signos NO esperamos encontrar en esta situación?:",
+   "o": [
+    "Importante trabajo respiratorio.",
+    "Venas del cuello aplanadas.",
+    "Desviación de la tráquea hacia el lado sano.",
+    "Ruidos respiratorios muy disminuidos o ausentes. - 24 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "En un paciente en edad pediátrica (6 años) con una insuficiencia cardiorrespiratoria descompensada por un shock séptico refractario severo, se decide iniciar terapia con un sistema de oxigenación por membrana extracorpórea (ECMO). Durante la canulación, el niño entra en parada cardiorrespiratoria, ¿Cuál sería la actitud correcta a seguir?:",
+   "o": [
+    "Suspender la canulación e iniciar RCP convencional.",
+    "Continuar la canulación e iniciar RCP- ECMO.",
+    "Continuar con la canulación, por si es necesaria más adelante. Mientras parte del equipo inicia RCP convencional.",
+    "Administrar un bolo de 20 ml por Kg de peso de suero fisiológico e iniciar RCP convencional."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Sobre la valoración del estado nutricional de las personas mayores mediante la escala Mini Nutritional Assessment (MNA), es cierto que:",
+   "o": [
+    "La MNA no se considera el método de valoración nutricional más comúnmente utilizado para mayores porque no emplea datos de laboratorio.",
+    "La valoración de la disfagia mediante MNA (ítems E y F) supone una de sus principales ventajas frente a otras escalas que no incluyen la valoración de este problema.",
+    "La MNA puede detectar la malnutrición antes de que aparezcan alteraciones bioquímicas y antropométricas.",
+    "La MNA clasifica a los pacientes en 4 categorías: bien nutridos, en riesgo de malnutrición, malnutrición moderada y malnutrición severa."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Son una posible consecuencia del uso de restricciones físicas:",
+   "o": [
+    "Disminución del esfuerzo cardíaco.",
+    "Lesiones por caídas.",
+    "Dificultades para la retención fecal.",
+    "Mayor tranquilidad por parte de la familia y cuidadores."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "¿Cuál es uno de los requisitos que debe reunir y acreditar el paciente solicitante de eutanasia en España, para recibir la prestación de ayuda para morir?:",
+   "o": [
+    "Sufrir una enfermedad grave y tener nacionalidad española o residencia legal durante al menos 24 meses.",
+    "Tener la nacionalidad española o residencia legal en España o certificado que acredite un tiempo de permanencia en territorio español superior a doce meses.",
+    "Certificado de residencia en España durante un periodo de 2 años, o mayor.",
+    "Certificar una enfermedad crónica durante al menos 12 meses."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿A qué nos referimos cuando hablamos de síntoma refractario?:",
+   "o": [
+    "Aquel que no puede ser adecuadamente controlado con los tratamientos disponibles, aplicados por profesionales expertos, en un plazo de tiempo razonable.",
+    "Aquel síntoma fácil de tratar atendiendo la causa que lo produjo, en un plazo de tiempo razonable.",
+    "Aquel síntoma que aparece cuando la enfermedad se cronifica.",
+    "Aquel síntoma paliativo que precisa del manejo de opioides para su control en situaciones de final de vida."
+   ],
+   "a": 0
+  },
+  {
+   "q": "El proceso de atribución errónea de síntomas físicos a la enfermedad mental con el consiguiente infradiagnóstico de enfermedades físicas y retraso en el tratamiento, se denomina:",
+   "o": [
+    "Trastorno de síntomas somáticos.",
+    "Síndrome metabólico.",
+    "Eclipse diagnóstico.",
+    "Fenómeno de pasividad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Señala la respuesta INCORRECTA en relación con el Tratamiento Asertivo Comunitario:",
+   "o": [
+    "Uno de los objetivos es favorecer la vinculación con la red de salud mental.",
+    "Es criterio de exclusión padecer un trastorno mental grave.",
+    "Se trabaja a través de un equipo multidisciplinar donde la accesibilidad de los profesionales y la capacidad de trabajo en equipo son fundamentales.",
+    "Las intervenciones del equipo se realizan en el domicilio de los pacientes y/o en su entorno más próximo. - 25 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la OMS, dentro del programa SUPRE para la prevención del suicidio, ¿qué recomendación NO estaría indicada en la atención a una persona con ideación y/o planificación suicida?:",
+   "o": [
+    "Pactar un contrato, conseguir que la persona prometa no suicidarse sin contactar previamente con personal sanitario o por un periodo específico de tiempo.",
+    "Trabajar a través de los sentimientos suicidas, favorecer que la persona hable abiertamente sobre la pérdida, aislamiento y falta de valor.",
+    "Garantizar a la persona que se guardará secreto si así lo solicita.",
+    "Utilizar la ambivalencia sentida por el suicida para fortalecer el deseo de vivir."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué instrumento se utiliza para la evaluación precoz y detección de los trastornos de conducta alimentaria?:",
+   "o": [
+    "Índice de Masa Corporal.",
+    "Cuestionario SCOFF.",
+    "Escala de las Nueve Siluetas.",
+    "Escala PANSS."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Un paciente acude a la consulta de enfermería para seguimiento de su tratamiento con clozapina. Señale cuál de las siguientes intervenciones de enfermería estaría indicada:",
+   "o": [
+    "Programar analíticas sanguíneas cada tres meses para comprobar que los niveles de clozapina en sangre están dentro del rango terapéutico.",
+    "Realizar educación sanitaria sobre manejo de hipoglucemias.",
+    "Explicar al paciente que tiene que comunicar si hay cambios en el consumo de tabaco y café para reajustar la dosis de clozapina.",
+    "Programar controles de peso para detectar pérdidas ponderales asociadas al tratamiento."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Cuál de los siguientes síntomas, se considera un “síntoma negativo” en la esquizofrenia:",
+   "o": [
+    "Alucinaciones auditivas.",
+    "Aplanamiento afectivo.",
+    "Conducta extravagante.",
+    "Ideas delirantes de contenido paranoide."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Una imagen corporal distorsionada que no se asocia a un bajo peso corporal ni a un miedo intenso a ganar peso, sería característica de:",
+   "o": [
+    "Anorexia nerviosa.",
+    "Trastorno somatomorfo.",
+    "Bulimia nerviosa.",
+    "Trastorno dismórfico corporal."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El efecto preventivo que puede tener sobre la conducta suicida la comunicación responsable a través de los medios de comunicación, siguiendo unas pautas establecidas y dando visibilidad al problema del suicidio, se denomina:",
+   "o": [
+    "Efecto Werther.",
+    "Efecto Papageno.",
+    "Efecto Copycat.",
+    "Efecto Mandela."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Un juicio falso de la realidad, mantenido con convicción por la persona, incomprensible e irrefutable, que genera malestar subjetivo o interfiere en el funcionamiento sociolaboral de la persona afectada, se denomina:",
+   "o": [
+    "Idea delirante.",
+    "Alucinosis.",
+    "Idea obsesiva.",
+    "Estado crepuscular."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Entre los cuidados de enfermería a la persona que sufre alucinaciones, señale la intervención que NO estaría indicada:",
+   "o": [
+    "Animar a la persona a que haga una “prueba de realidad”, comprobando la realidad de las alucinaciones con personas de su confianza.",
+    "Interesarse por el contenido de las alucinaciones para comprobar si este podría ser dañino para el paciente.",
+    "Administrar neurolépticos y/o ansiolíticos según prescripción médica.",
+    "Utilizar la asertividad para validar el contenido de las alucinaciones."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes alteraciones es característica del síndrome frontal cerebral?:",
+   "o": [
+    "Apatía y conducta desinhibida.",
+    "Afasia receptiva o de Wernicke.",
+    "Alucinaciones auditivas.",
+    "Déficits de memoria inmediata. - 26 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según las últimas recomendaciones del Programa de Actividades Preventivas y Promoción de la Salud, en la prevención del aislamiento social en personas mayores, son todas ciertas EXCEPTO:",
+   "o": [
+    "Tener ≥75 años, no tener hijos o estar jubilado, se consideran factores de riesgo de aislamiento social.",
+    "Son herramientas validadas para la evaluación del aislamiento social y de uso habitual en Atención Primaria las escalas de Gijón y OARS (Escala de recursos sociales).",
+    "Aunque no hay suficiente evidencia sobre la efectividad de las intervenciones para mejorar el aislamiento social, las que parecen ser más efectivas son aquellas que ofrecen una actividad social y/o apoyo dentro de un formato grupal en el que se organizan charlas en las que se favorece el aprendizaje conductista.",
+    "Para poder implementar medidas de prevención es necesario identificar a las personas en riesgo de aislamiento, disponer de métodos para evaluar el aislamiento, desarrollar intervenciones dirigidas a la prevención y elaborar estrategias futuras para evitarlo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Un niño de 4 años acude a revisión del niño sano acompañado de su padre. ¿Cuál de las siguientes es una de las recomendaciones de actividad física, sedentarismo y tiempo de pantalla que dará la Enfermera al padre?:",
+   "o": [
+    "Promover que sea físicamente activo durante al menos 180 minutos al día distribuidos a lo largo del día, no dedicar más de 1 hora seguida, cuando esté despierto, a actividades sedentarias y no pasar más de 1 hora al día delante de una pantalla.",
+    "Promover que sea físicamente activo durante al menos 120 minutos al día distribuidos a lo largo del día, no dedicar más de 30 minutos seguidos, cuando esté despierto, a actividades sedentarias y no pasar tiempo delante de una pantalla.",
+    "Promover que sea físicamente activo durante al menos 150 minutos al día distribuidos a lo largo del día, no dedicar más de 120 minutos, cuando esté despierto, a actividades sedentarias y no pasar más de 30 minutos delante de una pantalla.",
+    "Promover que sea físicamente activo durante al menos 60 minutos al día distribuidos a lo largo del día, no dedicar más de 60 minutos seguidos, cuando esté despierto, a actividades sedentarias y no pasar más de 60 minutos al día delante de una pantalla."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes preguntas NO está dentro del cuestionario rápido sobre alimentación en una consulta oportunista en Atención Primaria según la Estrategia de promoción de la salud y prevención en el Sistema Nacional de Salud?:",
+   "o": [
+    "¿Cuánta fruta y verdura toma al día?.",
+    "¿Qué bebe normalmente con las comidas y a lo largo del día?.",
+    "¿Cuántas veces a la semana come alimentos muy procesados o precocinados?.",
+    "¿Cuántas veces come pescado azul a la semana?."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La valoración mediante el Short Physical Performance Battery (SPPB) a una persona mayor de 70 años con una puntuación por debajo de 10, indica todo lo siguiente EXCEPTO:",
+   "o": [
+    "Fragilidad.",
+    "Elevado riesgo de discapacidad.",
+    "Riesgo de caídas.",
+    "Deterioro cognitivo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En una persona con Diabetes tipo 1 se aconseja la determinación de cuerpos cetónicos cuando el valor de la glucemia capilar es igual o superior de forma mantenida a:",
+   "o": [
+    "175 mg/dl.",
+    "200 mg/dl.",
+    "225 mg/dl.",
+    "250 mg/dl."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La insulina de tipo Glargina tiene su pico máximo a:",
+   "o": [
+    "2-4h.",
+    "4-6h.",
+    "6-8h.",
+    "No tiene pico máximo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "A la hora de plantearse el diseño de un programa de Educación para la Salud (EpS), identifique la opción INCORRECTA:",
+   "o": [
+    "La promoción y EpS deben responder a las diferentes necesidades de salud.",
+    "El área reconocida y prioritaria de intervención a tener en cuenta para su abordaje en promoción de la salud son los problemas de salud.",
+    "Los objetivos y planteamientos de la formación tendrán en cuenta conocimientos, actitudes y habilidades.",
+    "El programa de educación debe seguir una metodología diseñada previamente a su ejecución. - 27 -"
+   ],
+   "a": 1
+  },
+  {
+   "q": "Atendiendo a la periodicidad del consejo sobre el tabaco en población adulta general, es cierto que:",
+   "o": [
+    "No es necesario reinterrogar a las personas mayores de 25 años de las que se tenga constancia en la historia clínica, que nunca han fumado.",
+    "Se debe realizar cada 7-10 meses en fumadores, coincidiendo con la valoración del resto de los factores.",
+    "Se debe realizar en todos los casos cada vez que el paciente acuda a consulta por cualquier otro motivo.",
+    "Se debe realizar al menos cada 3 años en fumadores, coincidiendo con la valoración del resto de los factores."
+   ],
+   "a": 0
+  },
+  {
+   "q": "El aborto como suceso en un miembro del núcleo familiar es:",
+   "o": [
+    "Un aspecto estructural del APGAR familiar.",
+    "Un aspecto/símbolo a incluir en el genograma.",
+    "Un determinante incluido en el modelo de Lalonde.",
+    "Un acontecimiento no incluido en la escala de acontecimientos vitales estresantes."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Qué tipo de aprendizaje NO se recomienda dentro de la metodología de la Educación para la Salud?:",
+   "o": [
+    "Aprendizaje significativo.",
+    "Aprendizaje centrado en el discente.",
+    "Aprendizaje constructivista.",
+    "Aprendizaje conductivo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Atendiendo a la clasificación de las úlceras por presión según las estructuras afectas de los tejidos del Grupo Nacional para el Estudio y Asesoramiento en Úlceras por Presión y Heridas Crónicas (GNEAUPP), la pérdida parcial del grosor de la piel que afecta a la epidermis, dermis o ambas, teniendo un aspecto de abrasión, ampolla o cráter superficial, se corresponde con:",
+   "o": [
+    "Estadio I.",
+    "Estadio II.",
+    "Estadio III.",
+    "Estadio IV."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Si tras la realización del MINIMENTAL (MEC-MINIEXAMEN COGNOSCITIVO DE LOBO) a un paciente mayor de 65 años, se obtiene una puntuación de 16, la interpretación sería:",
+   "o": [
+    "Deterioro cognitivo leve.",
+    "Deterioro cognitivo moderado.",
+    "Deterioro cognitivo grave.",
+    "Demencia."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Las recomendaciones de actividad física para las personas mayores de 65 años con dificultad de movilidad incluyen:",
+   "o": [
+    "Ejercicios para mejorar el equilibrio al menos 2 días a la semana.",
+    "Ejercicios de fortalecimiento muscular al menos 5 días a la semana.",
+    "Ejercicios para mejorar el equilibrio al menos 3 días a la semana.",
+    "Ejercicios de fortalecimiento muscular al menos 2 días a la semana."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué nivel de dependencia a la nicotina presenta una mujer fumadora desde hace 8 años, que en la actualidad fuma 12 cigarrillos/día, si en el Test de Fagerström de 6 preguntas obtiene una puntuación de 6 puntos?:",
+   "o": [
+    "Dependencia baja.",
+    "Dependencia moderada.",
+    "Dependencia alta.",
+    "Dependencia muy alta."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Un resultado en el Índice tobillo-brazo (ITB) mayor de 1,3 indica:",
+   "o": [
+    "Normal.",
+    "Obstrucción leve.",
+    "Obstrucción grave.",
+    "Sospecha de calcificación arterial."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Sobre los agentes comunitarios, clave en los procesos comunitarios, señale la opción FALSA:",
+   "o": [
+    "Son el conjunto de diferentes actores y actrices formales e informales que operan en el entorno comunitario.",
+    "Se clasifican en Administraciones, recursos técnicos y profesionales públicos y privados, y ciudadanía.",
+    "La ciudadanía, siempre ha de estar representada mediante asociaciones o grupos, para mejorar el funcionamiento del proceso, no se recomienda la participación individual.",
+    "En la acción comunitaria es especialmente importante el papel del gobierno local dentro de las administraciones. - 28 -"
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es la definición de Investigación Participativa Basada en la Comunidad?:",
+   "o": [
+    "Proceso de investigación en el que se pretende analizar la realidad para mejorarla a través de un trabajo conjunto entre el grupo investigador y la comunidad.",
+    "Proceso de investigación realizado en una comunidad concreta a través de entrevistas.",
+    "Proceso de investigación donde la comunidad es quien define los objetivos y la metodología y realiza el desarrollo.",
+    "Proceso de investigación en el que el equipo investigador vive dentro de la comunidad."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Teniendo en cuenta los principios generales en cuanto al intervalo mínimo entre la administración no simultánea de vacunas, identifique el intervalo mínimo entre 2 vacunas atenuadas:",
+   "o": [
+    "Ninguno.",
+    "Dos semanas.",
+    "Cuatro semanas.",
+    "Ocho semanas."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Identifique una de las condiciones para considerar inmunes al sarampión a los trabajadores sanitarios, no siendo necesario, por tanto, realizar serología:",
+   "o": [
+    "Documentación escrita de haber recibido dos dosis de vacuna triple vírica o de haber padecido la enfermedad.",
+    "Documentación escrita de haber recibido tres dosis de vacuna triple vírica o de haber padecido la enfermedad.",
+    "Nacidos con anterioridad a 1973.",
+    "Nacidos con anterioridad a 1975."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál es la recomendación de vacunación específica en las personas adultas con insuficiencia renal crónica avanzada, que inician un programa de diálisis atendiendo al Calendario de vacunación específico para personas adultas (≥18 años), de 2021, con condiciones de riesgo?:",
+   "o": [
+    "Vacuna antineumocócica 23 valente (VNP23).",
+    "Vacuna antineumocócica 13 valente (VNP13) y a las 8 semanas una dosis de VNP23.",
+    "Vacuna Hepatitis A (HA) y Hepatitis B (HB).",
+    "Vacuna VNP13, VNP23, HB y Gripe anual."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Ante una herida tetanígena de alto riesgo, cuál es la recomendación de vacunación frente a tétanos:",
+   "o": [
+    "Si el adulto no tiene completa la primovacunación, administrar una dosis de vacuna Td y programar las siguientes dosis de vacuna hasta completar la primovacunación y no administrar inmunoglobulina antitetánica.",
+    "Si el adulto tiene completa la primovacunación y hace más de 10 años de la última dosis de vacuna Td, administrar dos dosis de vacuna Td.",
+    "Si el adulto tiene menos de 3 dosis de vacuna Td, completar la primovacunación y administrar también una dosis de inmunoglobulina antitetánica.",
+    "Si el adulto tiene 5 o más dosis de vacuna de tétano y hace 5 años desde la última dosis, administrar una dosis de vacuna Td."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Respecto al uso de clorhexidina en la preparación de la piel para la inserción de un catéter venoso periférico, señale la opción correcta:",
+   "o": [
+    "Preparar la piel limpia con una preparación de clorhexidina alcohólica al 5% antes de la inserción de un catéter intravascular y en los cambios de apósito.",
+    "Si existe hipersensibilidad a la clorhexidina y la piel está limpia, como alternativa puede usarse suero fisiológico al 9%.",
+    "Si existe hipersensibilidad a la clorhexidina, pueden usarse como alternativas tintura de yodo o alcohol al 70%.",
+    "Si existe hipersensibilidad a la clorhexidina, pueden usarse como alternativas tintura de yodo o alcohol al 96%."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Teniendo en cuenta que las lesiones provocadas por los siniestros viales son un problema de salud pública, es primordial fomentar la seguridad vial. ¿Cuál NO sería una de las recomendaciones en la infancia?:",
+   "o": [
+    "En el coche hasta que los niños midan 1,50 metros deben sentarse siempre en los asientos traseros del vehículo.",
+    "En otros medios de transporte público como el taxi, en la ciudad es recomendable el uso de sistema de retención infantil aunque no es obligatorio.",
+    "En el autobús urbano ubicar la silla o el carrito en las zonas habilitadas a tal efecto y usar las fijaciones disponibles. No olvidar colocar el carrito en sentido contrario a la marcha y con el freno activado.",
+    "En el avión, cuando tienen menos de 2 años, deben viajar en el regazo de la persona a cargo, con un arnés que se sujeta a la persona adulta. - 29 -"
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA ante un caso de traumatismo craneoencefálico en paciente pediátrico:",
+   "o": [
+    "Es la principal causa de muerte en trauma pediátrico.",
+    "Para clasificar su gravedad utilizamos la escala de Glasgow.",
+    "Se valorará la protección cervical con collarín rígido atendiendo a la gravedad y a la naturaleza del trauma.",
+    "Si existe sospecha de aumento de presión intracraneal se colocará al paciente en posición trendelemburg asegurando el retorno venoso."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál sería la prueba no paramétrica en el caso de muestras independientes >2 grupos?:",
+   "o": [
+    "Kruskal-Wallis.",
+    "U de Mann-Whitney.",
+    "Wilcoxon.",
+    "Friedman."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el Grupo Europeo de Trabajo en Sarcopenia en Personas Mayores 2 (EWGSOP2), ¿qué herramientas pueden ser utilizadas en la práctica clínica para el cribado de casos de sarcopenia?:",
+   "o": [
+    "La fuerza de agarre y el test de velocidad de la marcha.",
+    "El cuestionario SARC-F y la fuerza de agarre.",
+    "La herramienta de cribado ISHII y el cuestionario SARC-F.",
+    "La fuerza de agarre y el test Sit-To-Stand."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Con relación a la prueba de la tuberculina, una induración de 15 milímetros o mayor se considera una reacción positiva en las personas que:",
+   "o": [
+    "No tienen factores de riesgo de tuberculosis conocidos.",
+    "Sean portadores de VIH.",
+    "Sean receptores de un trasplante de órgano.",
+    "Han tenido un contacto reciente con otra persona con tuberculosis activa."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Una paciente de 27 años, embarazada de 11 semanas y sin otras patologías, que llega a quirófano para intervención quirúrgica por fractura de Colles mientras hacía deporte, estará incluida en la categoría de estado físico ASA (Sociedad Americana de Anestesia):",
+   "o": [
+    "Clase I.",
+    "Clase II.",
+    "Clase IV.",
+    "Clase V."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Cuál de los siguientes personajes fue el primero en usar el éter para anestesiar a la mujer en proceso de parto:",
+   "o": [
+    "James Young Simpson.",
+    "Curtis Mendelson.",
+    "Ignaz Semmelweis.",
+    "Virginia Apgar."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Señale la respuesta correcta acerca de la perfusión sanguínea del estómago:",
+   "o": [
+    "La vena gástrica derecha es conocida como vena coronaria.",
+    "No existe vena gastroduodenal y si arteria gastroduodenal.",
+    "La vena gástrica derecha e izquierda drenan la curvatura mayor del estómago.",
+    "El tronco celíaco no perfunde al estómago."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Qué se entiende como la sedación en la agonía?:",
+   "o": [
+    "Suicidio asistido al paciente con necesidades paliativas destinado a provocar la muerte de una persona que tiene una enfermedad grave e irreversible por razones compasivas.",
+    "Es la aplicación de fármacos que buscan la disminución profunda y previsiblemente irreversible de la conciencia en un enfermo cuya muerte se prevé muy próxima.",
+    "Inducir a la muerte de un paciente en el entorno de Cuidados Paliativos evitando el sufrimiento físico, dirigida por un médico.",
+    "Es la administración de fármacos, en las dosis y combinaciones mínimas necesarias para reducir la consciencia del paciente con enfermedad avanzada o en fase terminal, con el fin de aliviar los síntomas refractarios."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿A qué trastorno mental actual se corresponde la denominada “dementia praecox” por Emil Kraepelin en el Siglo XIX?:",
+   "o": [
+    "Enfermedad de Alzheimer.",
+    "Síndrome de Wernicke- Korsakoff.",
+    "Depresión endógena.",
+    "Esquizofrenia."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Indique el extintor apropiado para uso en incendios en los que están implicados equipos eléctricos:",
+   "o": [
+    "Tipo A.",
+    "Tipo B.",
+    "Tipo C.",
+    "Tipo D. - 30 -"
+   ],
+   "a": 2
+  }
+ ]
+}

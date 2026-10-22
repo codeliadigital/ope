@@ -73,4 +73,4 @@ sub: Resumen OPE Enfermería SMS · Bases nutricionales, Estrategia NAOS, dieta 
 !! Consejo básico = **5 minutos, oportunista**; un precontemplador **no** entra en el taller grupal.
 !! MNA-SF **≤ 11** = riesgo: continuar el test.
 !! Karvonen: (FC máx − FC reposo) × % + FC reposo.
-!! Fragilidad se diagnostica con **Fried**; la **SPPB** decide el pasaporte Vivifrail.
+!! ==Fragilidad se diagnostica con **Fried**; la **SPPB** decide el pasaporte Vivifrail.==

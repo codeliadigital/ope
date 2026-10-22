@@ -1,0 +1,137 @@
+{
+ "tema": 45,
+ "preguntas": [
+  {
+   "q": "¿Cuál de las siguientes opciones es correcta respecto de la Malformación de Arnold Chiari?:",
+   "o": [
+    "Ocurre cuando parte del cráneo es más grande de lo normal.",
+    "Se deben recomendar maniobras de Valsalva para evitar el agravamiento de las cefaleas.",
+    "La sintomatología corresponde al síndrome del agujero occipital pudiendo aparecer el signo de Lhermitte.",
+    "La malformación de Arnold Chiari tipo I es siempre asintomática. Aparecen los síntomas en los tipos II y III."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes huesos compone la silla turca:",
+   "o": [
+    "Etmoides.",
+    "Esfenoides.",
+    "Vómer.",
+    "Pisiforme."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La parálisis de la hemilengua puede ser la manifestación de la afectación unilateral de uno de los siguientes nervios:",
+   "o": [
+    "Nervio facial (VII par craneal).",
+    "Nervio glosofaríngeo (IX par craneal).",
+    "Nervios espinales nivel C2-C3.",
+    "Nervio hipogloso (XII par craneal)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La migraña episódica se diferencia de la cefalea tensional:",
+   "o": [
+    "La migraña episódica dura de 30 minutos a 7 días, mientras que la cefalea tensional dura menos de 24 horas.",
+    "La migraña episódica no se agrava con la actividad física rutinaria, mientras que la cefalea tensional sí lo hace.",
+    "La migraña episódica con aura no precisa de pruebas complementarias para el diagnóstico, mientras que en la cefalea tensional se recomienda la realización de un estudio de imagen si se presentan más de 5 episodios al mes.",
+    "La migraña episódica se acompaña de náuseas y/o vómitos o bien fotofobia o fonofobia, mientras que la cefalea tensional no suele presentar este tipo de síntomas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con la anatomía del ojo:",
+   "o": [
+    "El cuerpo ciliar es el encargado de la producción del humor vítreo.",
+    "La retina es la parte intermedia del ojo.",
+    "La capa coroides es avascular.",
+    "El limbo es el tejido donde se une la esclerótica y la córnea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué hace referencia la expresión “Paciente con pseudofaquia”?:",
+   "o": [
+    "Paciente que ha sido intervenida quirúrgicamente para realizar un acceso gástrico contra natura.",
+    "Paciente que ha sido intervenida de cirugía ocular para retirarle el cristalino y en su lugar colocar una lente intraocular.",
+    "Paciente que presenta una malformación congénita con presencia de caracteres sexuales contrarios a su sexo fenotípico.",
+    "Paciente con dificultades con el habla que se corrigen con un dispositivo de asistencia para la voz."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Qué es el queratocono?:",
+   "o": [
+    "Una opacidad del cristalino.",
+    "Lesión conjuntival carnosa de forma triangular que se extiende a córnea.",
+    "Adelgazamiento y protrusión progresiva de la córnea central.",
+    "Es una enfermedad de la retina."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de evaluar la agudeza visual en nuestra consulta de enfermería pediátrica, se pueden utilizar las siguientes herramientas y test. Indique la respuesta INCORRECTA:",
+   "o": [
+    "Test de Bayley.",
+    "Cartilla Snellen.",
+    "Test de Allen.",
+    "Tabla de símbolos LEA."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones generales que daremos a un paciente que padece miodesopsias en ausencia de otras patologías, se encuentra:",
+   "o": [
+    "Utilizar gafas de sol, evitar mirar a fondos claros y no seguir las miodesopsias.",
+    "Evitar el ejercicio intenso a última hora del día.",
+    "Incrementar el consumo de agua hasta los 2 litros/día.",
+    "Incrementar en +1 dioptría las gafas de lectura."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al vértigo postural paroxístico, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "Ocurre cuando la cabeza cambia con respecto a la gravedad, por lo general, al colocarla hacia atrás con el oído afectado hacia abajo.",
+    "Se produce por una inflamación del laberinto del oído interno.",
+    "Es una alteración subyacente del oído que se vincula con la pérdida auditiva.",
+    "Se produce por una anomalía en el equilibrio de los líquidos del oído interno, por malabsorción en el saco endolinfático u obstrucción del conducto endolinfático."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta con relación al vértigo posicional paroxístico benigno:",
+   "o": [
+    "Una posible complicación de las maniobras de recolocación es el desplazamiento de los otolitos de un conducto semicircular a otro, desencadenando un nuevo cuadro vertiginoso.",
+    "Es más frecuente en personas menores de 40 años.",
+    "Es más frecuente en hombres que en mujeres.",
+    "Durante el tratamiento de habituación vestibular, el paciente ha de evitar los movimientos que desencadenan el cuadro vertiginoso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique los resultados esperables de las pruebas de Rinne y Weber en un paciente con otitis media:",
+   "o": [
+    "En la prueba de Weber el sonido se escucha mejor en el oído afectado, mientras que en la de Rinne se escucha durante el mismo tiempo o más en el oído afectado el sonido transmitido por el hueso que por el aire.",
+    "En la prueba de Weber el sonido se escucha mejor en el oído sin afectación, mientras que en la de Rinne se escucha más tiempo el sonido transmitido por el aire en el oído afectado que el conducido por el hueso.",
+    "En la prueba de Weber el sonido se escucha por igual en ambos oídos, mientras que en la de Rinne la conducción aérea es audible más lejos que la ósea en ambos oídos.",
+    "En la prueba de Weber el sonido se escucha mejor en el oído sin afectación, mientras que en la de Rinne se escucha más tiempo el sonido transmitido por el aire que el conducido por el hueso, en ambos oídos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

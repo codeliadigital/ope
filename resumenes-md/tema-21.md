@@ -80,6 +80,6 @@ sub: Resumen OPE Enfermería SMS · Sistema ATC, LADME, cinéticas de eliminaci�
 | **Ostomías** | Dispositivos, pastas, anillos, polvos y barreras; estoma sano **rojo y húmedo** | Hernia, prolapso, retracción, estenosis y sobre todo **estoma violáceo o negro** (isquemia: **urgencia quirúrgica**) |
 
 !! Las vacunas son grupo **J**; el acenocumarol, grupo **B**.
-!! Inhibidor enzimático → **toxicidad**; inductor → **fracaso**.
+!! ==Inhibidor enzimático → **toxicidad**; inductor → **fracaso**.==
 !! El triángulo negro **no** indica que el fármaco sea inseguro.
 !! En la Tarjeta Amarilla, el paciente se identifica con **iniciales**, edad y peso.

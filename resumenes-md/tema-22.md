@@ -13,7 +13,7 @@ sub: Resumen OPE Enfermería SMS · Marco legal, orden de dispensación, artícu
 | **Ley 44/2003** (LOPS) | Ordenación de las profesiones sanitarias; la prescripción seguía ligada a los médicos |
 | **Ley 29/2006** (modificada por la **Ley 28/2009**) | Punto de inflexión: participación de la enfermería en la cadena del medicamento (hoy **derogada**) |
 | **RDL 1/2015** | **Texto refundido de la Ley de garantías y uso racional** de los medicamentos: norma vigente de rango superior |
-| **RD 1718/2010** | Receta médica y **órdenes de dispensación** |
+| **RD 1718/2010** | Receta médica y ==**órdenes de dispensación**== |
 | **RD 954/2015** | Indicación, uso y autorización de dispensación por **enfermeros** |
 | **RD 1302/2018** | Modifica el RD 954/2015 tras la **STC 76/2018** |
 
@@ -71,7 +71,7 @@ sub: Resumen OPE Enfermería SMS · Marco legal, orden de dispensación, artícu
 - **Farmacovigilancia**: notificar al **Sistema Español de Farmacovigilancia** (Centro de Farmacovigilancia de la Región de Murcia) por **NotificaRAM** o Tarjeta Amarilla, **lo antes posible** (los 15 días naturales son el plazo de los **titulares** para las graves). Los colegios profesionales no tienen competencias en farmacovigilancia.
 - En la receta electrónica: sin duplicidades, sin visados de inspección y **sin usar guías que no tengan protocolo regional** publicado. La firma electrónica vincula la responsabilidad.
 
-!! La enfermera emite **órdenes de dispensación**, nunca recetas médicas.
+!! ==La enfermera emite **órdenes de dispensación**, nunca recetas médicas.==
 !! Sin receta (art. 2) = autónomo; con receta (art. 3) = **guía + protocolo** y carácter colaborativo.
 !! La acreditación la concede la **Comunidad Autónoma**; el **REPS** solo la registra.
 !! INR de 1,5 = **subterapéutico**: no se da vitamina K, se sube la dosis.

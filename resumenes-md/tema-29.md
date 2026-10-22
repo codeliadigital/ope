@@ -72,7 +72,7 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 | 1-4 años | **Intoxicaciones**, **ahogamientos**, caídas desde ventanas | Productos y fármacos **en alto y bajo llave** (no bajo el fregadero); vallar piscinas |
 | 5-14 años | **Tráfico** (peatón, bici), deportes | Educación vial, **casco**, sistemas de retención |
 
-- **Intoxicaciones** (más en **1-4 años**: cáusticos y fármacos): **nunca provocar el vómito** (vuelve a quemar el esófago y riesgo de aspiración) ni dar leche o agua: **llamar al Servicio de Información Toxicológica** y acudir al hospital **con el envase**.
+- **Intoxicaciones** (más en **1-4 años**: cáusticos y fármacos): ==**nunca provocar el vómito**== (vuelve a quemar el esófago y riesgo de aspiración) ni dar leche o agua: **llamar al Servicio de Información Toxicológica** y acudir al hospital **con el envase**.
 - **Ahogamiento**: en pocos centímetros de agua y **en silencio**; vigilancia continua al alcance del brazo; los manguitos no sustituyen la vigilancia (chaleco homologado).
 - **Quemaduras en niños**: superficie con la **tabla de Lund y Browder** (no la regla de los 9 de Wallace: en el lactante la cabeza supone ≈ 18-19%).
 - **Sistemas de retención infantil (SRI)**:
@@ -135,9 +135,9 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 
 !! El **percentil 3** aislado no es enfermedad; sí **cruzar percentiles**.
 !! PADI: **nunca ortodoncia ni empastes de dientes de leche** (de los temporales solo la extracción).
-!! Pasta con **1.000 ppm desde el primer diente**; escupir **sin enjuagar**.
+!! ==Pasta con **1.000 ppm desde el primer diente**; escupir **sin enjuagar**.==
 !! Espinacas y acelgas antes del año: riesgo de **metahemoglobinemia** (nitratos), no de alergia.
-!! Ingestión de cáusticos: **nunca provocar el vómito**; llamar a Toxicología.
+!! ==Ingestión de cáusticos: **nunca provocar el vómito**; llamar a Toxicología.==
 !! i-Size: **contramarcha mínimo 15 meses**; delante a contramarcha, **airbag desconectado**.
 !! Sospecha de maltrato: **comunicar** sin necesidad de pruebas y **sin avisar antes a la familia**.
 !! Nirsevimab es un **anticuerpo monoclonal** (inmunización pasiva), no una vacuna.

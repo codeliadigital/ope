@@ -1,0 +1,401 @@
+{
+ "tema": 25,
+ "preguntas": [
+  {
+   "q": "Indique la respuesta correcta con relación al uso seguro del potasio:",
+   "o": [
+    "Una vez reconstituida la solución, ha de agitarse al menos 6 veces.",
+    "Soluciones con una concentración ≤60 mEq/l pueden administrarse mediante sistemas de regulación de flujo.",
+    "Por vía periférica, se repondrá en una concentración máxima de 100 mEq/l, administrándose normalmente a una velocidad de 40 mEq/h.",
+    "Ha de valorarse el nivel de magnesio ante la posibilidad de una hipermagnesemia asociada a la hipopotasemia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al pH sanguíneo, NO ES CIERTO que:",
+   "o": [
+    "Refleja la concentración de hidrogeniones.",
+    "Se expresa de manera logarítmica debido a la baja concentración de H+.",
+    "Un pH bajo corresponde a una elevada concentración de hidrogeniones, por lo que indica que el medio es ácido.",
+    "El pH es directamente proporcional a la concentración de hidrogeniones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre el uso de Catéteres Centrales de Inserción Periférica (PICC) en el paciente crítico, publicada en 2022 por la Sociedad Española de Medicina Intensiva Crítica y Unidades Coronarias (SEMICYUC), por de la Sociedad Española de Enfermería Intensiva y Unidades Coronarias (SEEIUC), y por la Sociedad Española de Infusión y Acceso Vascular (SEINAV), ¿cuál es la relación máxima recomendable entre el diámetro del catéter (o luz) y el calibre de la vena para minimizar el riesgo de trombosis?:",
+   "o": [
+    "≤ 20 %.",
+    "≤ 45 %.",
+    "≤ 60 %.",
+    "≤ 75 %."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA respecto al catéter de línea media o midline: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 96",
+   "o": [
+    "Se inserta con ayuda ecográfica y usando la técnica Seldinger.",
+    "Es un catéter venoso central de acceso periférico.",
+    "Se puede usar para la administración de fármacos, transfusiones, terapias intravenosas y toma de muestras.",
+    "Está indicado en tratamientos superiores a 7 días."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el porcentaje de vena que ha de ocupar como máximo un catéter venoso central de inserción periférico?:",
+   "o": [
+    "28 %.",
+    "33 %.",
+    "45 %.",
+    "50 %."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En ausencia de recomendaciones especíﬁcas, ¿cuál es el intervalo recomendado de cambio de bioconectores de un PICC?: Escala visual de valoracion de flebitis Sin dolor, eritema, hinchazón, ni cordón palpable Nivel 0 No signos de flebitis: OBSERVAR punto de inserción Sin dolor Dolor sin eritema, hinchazón, ni cordón palpable en la zona de punción Nivel 1 Posible signo de flebitis: OBSERVAR punto de inserción Molestias Dolor con eritema y/o hinchazón, sin cordón palpable en la zona de punción Nivel 2 Inicio de flebitis: RETIRAR catéter Dolor medio Dolor, eritema, hinchazón, endurecimiento o cordón venoso palpable < 6 cm por encima del sitio de inserción Nivel 3 Etapa media de flebitis: RETIRAR catéter y valorar tratamiento Dolor medio Dolor, eritema, hinchazón, endurecimiento, cordón venoso palpable > 6 cm por encima del sitio de inserción y/o purulencia Nivel 4 Avanzado estado de flebitis: RETIRAR catéter y valorar tratamiento Dolor severo Trombosis venosa franca con todos los signos anteriores y dificultad o detención de la perfusión. Nivel 5 Tromboflebitis: RETIRAR catéter e iniciar tratamiento. Dolor severo PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 102",
+   "o": [
+    "48 horas.",
+    "96 horas.",
+    "5 días.",
+    "7 días."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las modificaciones temporales inducidas por interferencias electromagnéticas sobre dispositivos implantables (marcapasos/ desfibriladores automáticos), NO se encuentra:",
+   "o": [
+    "Funcionamiento en modo asíncrono A00/ V00/D00.",
+    "Cambio automático de modo de estimulación DDD(R) a VVV(R).",
+    "Terapia de choque inapropiada.",
+    "Cambio de funcionamiento a modo “Back Up”."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Para la administración de sueroterapia y medicación intravenosa con una osmolaridad inferior a 500 mOsm que se prevé de una duración inferior a 7 días, ¿cuál sería la elección adecuada del tipo de catéter?:",
+   "o": [
+    "El catéter seleccionado debe ser el de calibre más pequeño y con la longitud más larga necesaria para garantizar el tratamiento prescrito.",
+    "El catéter seleccionado debe ser el de calibre más grande y con la longitud más larga necesaria para garantizar el tratamiento prescrito.",
+    "El catéter seleccionado debe ser el de calibre más grande y con la longitud más corta necesaria para garantizar el tratamiento prescrito.",
+    "El catéter seleccionado debe ser el de calibre más pequeño y con la longitud más corta necesaria para garantizar el tratamiento prescrito. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 106"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Antes de implantar un PICC medimos el diámetro de la vena elegida. El porcentaje de ocupación de la vena debe ser:",
+   "o": [
+    "≤ 45 %.",
+    "≤ 50 %.",
+    "≤ 60 %.",
+    "Es indiferente, ya que la punta del catéter se sitúa en una vena de diámetro mucho mayor."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La ubicación más adecuada para la punta de los catéteres centrales de inserción periférica (PICC) es:",
+   "o": [
+    "La parte superior de la vena cava superior.",
+    "La unión de la vena braquiocefálica izquierda y la vena cava superior.",
+    "El tercio inferior de la vena cava superior, próxima a la unión de dicha vena con la aurícula derecha.",
+    "Contigua a la pared lateral de la parte superior de la vena cava superior. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 110"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué frecuencia se recomienda cambiar los equipos utilizados para la perfusión continua de soluciones lipídicas a través de un catéter venoso central?:",
+   "o": [
+    "12 horas.",
+    "24 horas.",
+    "96 horas.",
+    "Una semana."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuándo se recomienda considerar el uso de apósitos con gel de clorhexidina para la prevención de la bacteriemia asociada a catéter?:",
+   "o": [
+    "En pacientes pediátricos.",
+    "En pacientes críticos o no críticos portadores de un catéter venoso central o de un catéter arterial.",
+    "En pacientes portadores de catéter venoso central.",
+    "Sólo en pacientes con alto riesgo de bacteriemia asociada a catéter venoso central."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Con objeto de prevenir la bacteriemia por catéter, ¿cuándo se recomienda la sustitución del catéter venoso periférico?:",
+   "o": [
+    "Cada 96 horas como máximo, ya que a partir de las 96 horas aumenta el riesgo de infección.",
+    "Solamente cuando se observen signos de inflamación o malfuncionamiento, ya que la sustitución ritunaria no disminuye la tasa de bacteriemia por catéter y aumenta los costes y la carga de trabajo.",
+    "Cada 72 horas.",
+    "Cada 7 días, junto con el cambio de sistemas de administración."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Documento Internacional de Consenso sobre la Apnea Obstructiva del Sueño, señale la correcta sobre el uso de la CPAP:",
+   "o": [
+    "Se considera buena adhesión, la utilización del dispositivo durante al menos 5 h/noche durante el 80 % de las noches.",
+    "Se considera un cumplimiento óptimo, una utilización mínima de 6 h/noche.",
+    "Se recomienda que todo paciente en tratamiento con CPAP sea controlado los primeros quince días de tratamiento y hacer una revisión presencial mínima al año.",
+    "En caso de incumplimiento manifiesto, con un uso medio inferior a 3 h/noche, se debe incluir al paciente en un programa de cumplimiento y efectuar una nueva evaluación transcurrido un mínimo de un mes."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para la administración de fármacos por una sonda de gastrostomía (sonda PEG) se deben tener en cuenta una serie de recomendaciones. Señale la correcta:",
+   "o": [
+    "Se recomienda administrar el fármaco a la vez que se introduce la nutrición enteral o comida triturada casera para reducir su impacto sobre la mucosa gástrica.",
+    "Se deberá detener la alimentación 15 minutos antes de administrar el fármaco (en administración continua) o 1 hora antes en el caso de administración de los alimentos en bolo.",
+    "En caso de tener que administrar más de un fármaco diferente a la vez, no introducir agua por la sonda entre las distintas sustancias farmacológicas, y acabar lavando finalmente la sonda con al menos 30 ml de agua después de la administración del último fármaco. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 132",
+    "En caso de administrar varios fármacos se deben administrar primero las formas sólidas y finalmente las más líquidas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones es correcta, con relación a la diferencia en tiempo de crecimiento entre hemocultivos simultáneamente tomados por el catéter y de una vena periférica (tiempo diferencial de positividad entre los hemocultivos)?:",
+   "o": [
+    "No se considera un método diagnóstico preciso para el diagnóstico de Bacteriemia Relacionada con el Catéter (BRC).",
+    "Requiere que el volumen de sangre extraído en ambos hemocultivos sea igual.",
+    "El tiempo que establece diferencia de crecimiento significativa entre las muestras pareadas es de 60 minutos.",
+    "Permite no tener que extraer sangre de todas las luces del catéter, con tomar muestra de la luz distal del catéter es suficiente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para reducir el riesgo de infección, cuando la infusión subcutánea se utiliza para hidratación, se recomienda el cambio del sitio de punción:",
+   "o": [
+    "Cada 72 o 96 horas.",
+    "Cada 24-48 horas.",
+    "Cada 7 días, con el cambio de apósito.",
+    "No se debe cambiar rutinariamente, sólo se cambiará cuando haya signos de complicaciones."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La valoración del estado nutricional de una persona es un aspecto clave dentro de la valoración enfermera. En referencia a este aspecto, indica la frase correcta:",
+   "o": [
+    "El Mini Nutritional Assessment (MNA) es un método validado para la población pediátrica.",
+    "En la Valoración Global Subjetiva se mide la pérdida de peso en los últimos 6 meses.",
+    "En la herramienta de cribado Malnutrition Universal Screening Tool (MUST), a mayor puntuación mejor estado nutricional.",
+    "Un Índice de Masa Corporal (IMC) de 22 kg/m2 se corresponde con un estado de desnutrición."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los criterios fenotípicos GLIM que clasifican el grado de desnutrición como severa, se encuentra:",
+   "o": [
+    "Porcentaje de pérdida de peso 5-10% en más de 6 meses.",
+    "IMC menor de 20 kg/m2 en personas de 70 años o más.",
+    "IMC menor de 20 kg/m2 en personas menores de 70 años.",
+    "Porcentaje de pérdida de peso 10-20 % en más de 6 meses."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre la valoración del estado nutricional de las personas mayores mediante la escala Mini Nutritional Assessment (MNA), es cierto que:",
+   "o": [
+    "La MNA no se considera el método de valoración nutricional más comúnmente utilizado para mayores porque no emplea datos de laboratorio.",
+    "La valoración de la disfagia mediante MNA (ítems E y F) supone una de sus principales ventajas frente a otras escalas que no incluyen la valoración de este problema.",
+    "La MNA puede detectar la malnutrición antes de que aparezcan alteraciones bioquímicas y antropométricas.",
+    "La MNA clasifica a los pacientes en 4 categorías: bien nutridos, en riesgo de malnutrición, malnutrición moderada y malnutrición severa."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el cribado nutricional NRS-2002 se valoran los siguientes aspectos:",
+   "o": [
+    "Pérdida de peso, ingesta, gravedad de la enfermedad, IMC.",
+    "Pérdida de peso, ingesta, IMC y soporte nutricional reciente.",
+    "Grado de dependencia, ingesta, IMC y pérdida de peso.",
+    "Grado de sarcopenia, ingesta y pérdida de peso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la valoración nutricional de una paciente de 38 años de edad se recaban los siguientes datos: pérdida involuntaria de peso del 10% en los últimos 3 meses, pliegue tricipital en el percentil 10 para su sexo y edad, circunferencia muscular del brazo en el percentil 20 para su sexo y edad, concentración de albúmina plasmática de 2.5 g/dl (normalidad 3.5-4.5 g/dl) y de transferrina de 150 mg/dl (normalidad 220-350 mg/dl). ¿Cuál es su estado nutricional?:",
+   "o": [
+    "Desnutrición calórica grave.",
+    "Desnutrición proteica leve-moderada.",
+    "Desnutrición mixta grave.",
+    "Desnutrición mixta leve-moderada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son las recomendaciones de la OMS en su guía actualizada de 2015 sobre la ingesta de azúcares libres para adultos y niños?:",
+   "o": [
+    "Tanto en adultos como en niños, menos del 10% de la ingesta calórica total con recomendación firme y menos del 5% con recomendación condicional.",
+    "Menos del 10% de la ingesta calórica total en adultos, y menos del 5% en niños.",
+    "Menos del 25% de la ingesta calórica total diaria con nivel de recomendación fuerte.",
+    "Menos del 5% de la ingesta calórica total diaria con nivel de recomendación fuerte y menos del 10% con recomendación condicional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los requerimientos calóricoproteicos en la población geriátrica según la guía de la Sociedad Europea de Nutrición Clínica y Metabolismo (ESPEN), sobre nutrición clínica e hidratación en el anciano?:",
+   "o": [
+    "30 kcal/kg peso/día y al menos 1 g de proteínas/kg peso/día. Individualizar según nivel de actividad, estado nutricional, estado de la enfermedad y tolerancia.",
+    "1800 kcal diarias en hombres y 1.500 kcal en mujeres. Individualizar aporte de proteínas según nivel de actividad, estado nutricional, estado de la enfermedad y tolerancia.",
+    "20 kcal/kg peso/día y 0,8 g de proteínas/ kg peso/día. Individualizar según nivel de actividad, estado nutricional, estado de la enfermedad y tolerancia.",
+    "2.500 kcal diarias en hombres y 2.000 kcal en mujeres. Asegurar al menos un aporte de 65 g de proteínas al día."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA con relación a las recomendaciones de la guía de la Societe Europeenne de Nutrition Clinique et Metabolisme, Guía ESPEN, para el manejo de la nutrición clínica en la enfermedad inflamatoria intestinal:",
+   "o": [
+    "No existe una pauta dietética universalmente aplicable que pueda recomendarse para inducir la remisión en todos los pacientes con enfermedad inflamatoria intestinal activa.",
+    "En la enfermedad inflamatoria intestinal activa, los requerimientos proteicos aumentan, por lo que la ingesta recomendada en adultos debe incrementarse a 1,2 - 1,5 g / kg /día en comparación con las recomendaciones para la población general.",
+    "Seguir una dieta abundante en frutas y verduras, con un elevado contenido de ácidos grasos n-6 y bajo en ácidos grasos n-3, se asocia a una reducción del riesgo de desarrollar enfermedad de Crohn o colitis ulcerosa, por lo que resulta una recomendación adecuada.",
+    "En pacientes con enfermedad inflamatoria intestinal en fase de remisión, los requerimientos proteicos no son elevados y la ingesta recomendada es similar a la de la población general, alrededor de 1 g / kg / día en adultos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuál de las siguientes recomendaciones se incluye en la pancreatitis crónica:",
+   "o": [
+    "Evitar el consumo de legumbres.",
+    "Se recomienda, como norma, realizar dieta baja en grasas.",
+    "Alimentación por sonda yeyunal.",
+    "Realizar ayuno intermitente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las últimas guías de la Sociedad Europea de Nutrición Enteral y Parenteral (ESPEN), ¿cuál sería la recomendación en cuanto al aporte de proteínas del paciente con cirrosis hepática?:",
+   "o": [
+    "En paciente cirrótico con encefalopatía hepática no se debe restringir el aporte de proteínas porque aumenta el catabolismo proteico.",
+    "En encefalopatía hepática se recomienda restringir el aporte de proteínas a 0.6 gr/ kg de peso/día, y que estas sean de origen vegetal.",
+    "En caso de intolerancia a proteínas, el aporte no debe exceder de 0.5gr/kg de peso/día, siendo aconsejable que sean de origen vegetal.",
+    "En encefalopatía hepática el aporte de proteínas debe ser de 0.8 gr/kg de peso/día, a base de aminoácidos ramificados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las Sociedades Española y Europea de Nutrición Clínica y Metabolismo (SENPE y ESPEN), ¿cuál de las siguientes sería una contraindicación para la administración de nutrición enteral?:",
+   "o": [
+    "Esperanza de vida inferior a 3 meses.",
+    "Tumores del tracto digestivo.",
+    "Hemorragia gastrointestinal.",
+    "Hernia de hiato gigante."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la nutrición enteral por gastrostomía, en caso de que la gastrostomía endoscópica percutánea (PEG) no sea una opción posible para la administración de nutrición enteral a largo plazo, ¿cuáles serían las alternativas seguras según las últimas guías de nutrición de la Sociedad Europea de Nutrición Enteral y Parenteral (ESPEN)?:",
+   "o": [
+    "Gastrostomía percutánea laparoscópica asistida (PLAG) y gastrostomía percutánea radiológica (PRG).",
+    "Gastrostomía quirúrgica y gastro yeyunostomía endoscópica.",
+    "Gastrostomía por video fluoroscopia y gastrostomía quirúrgica.",
+    "Yeyunostomía de Witzel y gastrostomía tipo Stamm."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal diferencia entre fórmulas de nutrición enteral poliméricas y oligomonoméricas?:",
+   "o": [
+    "Las poliméricas están constituidas por proteínas hidrolizadas en forma de péptidos o aminoácidos, mientras que las oligomonoméricas aportan las proteínas enteras.",
+    "La osmolaridad de las fórmulas poliméricas es mayor que la de las fórmulas oligomonoméricas. 167 NUTRICIÓN Y DIETÉTICA",
+    "Las poliméricas están constituidas por proteínas intactas, mientras que las oligomonoméricas aportan las proteínas hidrolizadas en forma de péptidos o aminoácidos.",
+    "Las fórmulas oligomonoméricas aportan las proteínas en forma de macromoléculas o péptidos grandes, mientras que las poliméricas las aportan en forma de aminoácidos libres, por ello la osmolaridad de las primeras es mayor."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la medición de la tolerancia de nutrición enteral:",
+   "o": [
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 200 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 300 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 400 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 500 cc."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la “Guía de Nutrición Enteral Domiciliaria del Sistema Nacional de Salud” se establecen las contraindicaciones para la administración de Nutrición Enteral. Entre estas se encuentran:",
+   "o": [
+    "Hemorragia digestiva, hiperémesis persistente, pancreatitis aguda severa, riesgo de broncoaspiración.",
+    "Hiperémesis persistente no controlada farmacológicamente, pancreatitis hemorrágica necrotizante, íleo paralítico, obstrucción intestinal.",
+    "Perforación intestinal, Obstrucción intestinal, estenosis esofágica, pancreatitis aguda.",
+    "Gastrectomía, fístulas intestinales, obstrucción intestinal, pancreatitis aguda."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente con disfagia orofaríngea grave, a consecuencia de un Ictus, ¿aconsejaría instaurar soporte nutricional?:",
+   "o": [
+    "Sí, se aconseja iniciar la nutrición enteral por sonda nasogástrica endoscópica percutánea (PEG) pasadas 4 semanas si precisa nutrición.",
+    "No, la utilización de sonda nasogástrica para nutrición retrasaría la rehabilitación deglutoria. Es mejor esperar a que se recupere.",
+    "Sí, lo antes posible con suplementos nutricionales orales y espesante por vía oral.",
+    "No, los pacientes con ictus tienen las necesidades nutricionales disminuidas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA con relación a la nutrición parenteral:",
+   "o": [
+    "Se recomienda una nutrición parenteral ante la pérdida significativa de peso mayor o igual al 10 % del peso usual, o que el paciente disminuya la ingesta oral de alimentos durante más de una semana.",
+    "Previamente a la administración de la nutrición parenteral se debe comprobar el estado de la bolsa. Es habitual encontrar una separación de la solución o incluso una apariencia oleosa, por lo que debemos agitar suavemente la bolsa para que se restituya y proceder a su administración.",
+    "Es necesario una bomba de infusión para mantener una velocidad precisa de la administración de la nutrición parenteral. Si la solución se termina, se infundirá dextrosa al 10 % y agua hasta que la siguiente solución de nutrición parenteral esté disponible.",
+    "Dentro de las posibles complicaciones de la nutrición parenteral encontraremos: embolia, hiperglucemia, sepsis, sobrecarga de líquidos, o incluso una hipoglucemia rebote."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En qué casos se precisan al menos dos criterios para desarrollar un Síndrome de Realimentación durante el tratamiento nutricional según la guía de soporte nutricional en adultos del Instituto Nacional para la Excelencia Clínica del Reino Unido (NICE):",
+   "o": [
+    "Ingesta nutricional mínima o nula durante más de 10 días, IMC menor de 16 kg/m2, pérdida de peso involuntaria mayor de 15 % en los últimos 3-6 meses, niveles bajos de fósforo, potasio o magnesio previos.",
+    "Ingesta nutricional mínima o nula durante más de 20 días, IMC menor de 20 kg/m2, pérdida de peso involuntaria mayor de 10 % en el último año o alcoholismo.",
+    "Ingesta nutricional mínima o nula durante más de 15 días, IMC menor de 20 kg/m2, pérdida de peso involuntaria mayor de 10 % en los últimos 3-6 meses, alcoholismo, o consumo de ciertos fármacos.",
+    "Ingesta nutricional mínima o nula durante más de 5 días, IMC menor de 18.5 kg/m2, pérdida de peso involuntaria mayor de 10 % en los últimos 3-6 meses, alcoholismo, o consumo de ciertos fármacos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes sería una complicación mecánica de la Nutrición Parenteral Domiciliaria?:",
+   "o": [
+    "Trombosis venosa.",
+    "Infección del orificio de salida del catéter.",
+    "Sepsis asociada al catéter.",
+    "Infección del bolsillo del reservorio."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

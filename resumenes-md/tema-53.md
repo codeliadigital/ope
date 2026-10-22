@@ -13,6 +13,8 @@ sub: Resumen OPE Enfermería SMS · Piel y cicatrización, prescripción enferme
 - Cierre por **primera** (bordes aproximados), **segunda** (granula desde el fondo) y **tercera intención** (abierta 4-6 días por contaminación y luego se sutura).
 - **RD 954/2015**: indicación, uso y autorización de dispensación de medicamentos y productos sanitarios por enfermeras **acreditadas** (el manual cita **más de 1 año** de experiencia).
 
+- **Lesiones elementales**: **mácula** (plana, cambio de color; **< 1 cm**; mayor = mancha), **pápula** (elevada, sólida, **< 1 cm**; mayor = **placa**), **nódulo** (sólido, profundo, 1-2 cm), **habón** (roncha edematosa y pruriginosa, fugaz: urticaria), **vesícula** (líquido claro **< 0,5 cm**; mayor = **ampolla o flictena**), **pústula** (con pus). Las **petequias** (púrpura) **no desaparecen a la presión**; el eritema sí.
+
 ## 2. Preparación del lecho: TIMERS
 
 | Letra | Problema | Actuación |
@@ -113,7 +115,7 @@ sub: Resumen OPE Enfermería SMS · Piel y cicatrización, prescripción enferme
 | Profundidad | Afecta a | Signos |
 |---|---|---|
 | **1.er grado** | Epidermis | **Eritema**, dolor, **sin flictenas** (no cuenta para la SCQ) |
-| **2.º superficial** | Dermis papilar | **Flictenas**, lecho rosado-rojo y húmedo, **muy doloroso** |
+| ==**2.º superficial**== | Dermis papilar | **Flictenas**, lecho rosado-rojo y húmedo, **muy doloroso** |
 | **2.º profundo** | Dermis reticular | Lecho **blanquecino-moteado**, menos dolor |
 | **3.er grado** | Todo el espesor | **Indolora**, piel **acartonada** blanca, marrón o negra (escara); necesita **injerto** |
 
@@ -127,20 +129,20 @@ sub: Resumen OPE Enfermería SMS · Piel y cicatrización, prescripción enferme
 !! **Nunca masajear prominencias**; pH del jabón **4,5-5,5**; AGHO.
 !! Lavado: **1-4 kg/cm²** = jeringa **20-35 ml** + aguja **0,9 mm**.
 !! **Plata + colagenasa = incompatibles**; biofilm = matriz resistente a antibióticos.
-!! Braden **6-23** (fricción **1-3**), alto riesgo **≤ 12**; Norton **5-20**, **> 14** sin riesgo; **EMINA al revés**.
+!! ==Braden **6-23** (fricción **1-3**), alto riesgo **≤ 12**; Norton **5-20**, **> 14** sin riesgo; **EMINA al revés**.==
 !! Flictena = **categoría II**; morado = **lesión de tejidos profundos**; mucosas **no se estadian**.
 !! Escara seca y estable **en el talón: no desbridar**.
 !! Lateral a **30°**; **nunca roscos**; SEMP **dinámica** en riesgo alto.
 !! Hidrocoloide **no si infección**; carbón **no se recorta**; alginato = **hemostático**.
 !! **Prealbúmina** (2-3 días) mejor que albúmina.
 !! DAI: **simétrica «en beso»**, pH **alcalino**, tratar con **barreras**. Esparadrapo: retirar a **180°**.
-!! Venosa: **maléolo interno**, ocre, **mejora al elevar** → **compresión**. Arterial: **sacabocados**, distal, **mejora colgando** → **no comprimir**.
+!! ==Venosa: **maléolo interno**, ocre, **mejora al elevar** → **compresión**. Arterial: **sacabocados**, distal, **mejora colgando** → **no comprimir**.==
 !! ITB **< 0,5** isquemia crítica; **> 1,3** calcificación (diabéticos); compresión elástica solo con **ITB > 0,8**.
 !! Laplace: máxima presión en el **tobillo** (menor radio).
 !! Úlcera arterial: **no elevar**, **no calor**, **no desbridar** la escara seca.
 !! Wagner **2 sin osteomielitis / 3 con osteomielitis**; Texas **D** = isquemia + infección.
 !! Tumoral: **metronidazol** (olor), **morfina en gel** (dolor), **toallas oscuras** (hemorragia masiva).
-!! Quemaduras: flictena = **2.º superficial**; 3.er grado **no duele**; 1.er grado **no suma**.
+!! ==Quemaduras: flictena = **2.º superficial**; 3.er grado **no duele**; 1.er grado **no suma**.==
 !! Reposición: mitad en **8 h desde el accidente**; ABA **2 ml** (térmica) / **4 ml** (eléctrica).
 !! Derivar: **> 15%** adulto, **> 10%** niño, cara/manos/genitales, eléctrica, química, circunferencial.
 

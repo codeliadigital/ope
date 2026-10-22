@@ -1,0 +1,253 @@
+{
+ "id": "eir-06",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 6,
+ "titulo": "EIR · Bioquímica y equilibrio hidroelectrolítico",
+ "explicadas": false,
+ "descripcion": "22 preguntas de los exámenes EIR de 2018 a 2025 sobre bioquímica y equilibrio hidroelectrolítico, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Seleccione la respuesta INCORRECTA. Las enzimas son:",
+   "o": [
+    "Proteínas.",
+    "Moléculas inorgánicas compuestas por carbono e hidrógeno.",
+    "Catalizadores biológicos.",
+    "Polipéptidos con potencial asociación de cofactores."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina el enlace químico que mantiene unidos dos nucleótidos sucesivos en una hebra de ADN?:",
+   "o": [
+    "Peptídico.",
+    "Glicosídico.",
+    "Por puente de hidrógeno.",
+    "Fosfodiéster."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala cuál de las siguientes rutas metabólicas es puramente anabólica:",
+   "o": [
+    "Gluconeogénesis.",
+    "Ciclo del ácido tricarboxílico (Ciclo TCA).",
+    "Glucolisis.",
+    "Ciclo de las pentosas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los productos finales mayoritarios del catabolismo?:",
+   "o": [
+    "NADH y FADH2.",
+    "Agua, CO2 y ATP.",
+    "Ac. láctico y Acetil-CoA.",
+    "Proteínas, glucosa y ácidos grasos simples."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta respecto al ciclo de Cori:",
+   "o": [
+    "El ciclo de Cori está basado en la circulación cíclica de lípidos de cadena media y lactato entre el tejido muscular y el hígado.",
+    "El ciclo de Cori está basado en la circulación cíclica de lactato y glucosa entre el tejido muscular y el hígado.",
+    "El reciclaje del ácido fosfórico es la base del ciclo de Cori.",
+    "El reciclaje del ácido oxálico es la base del ciclo de Cori."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al péptido natriurético auricular:",
+   "o": [
+    "Se incrementa su secreción en respuesta al estiramiento y al aumento de la presión auricular.",
+    "Produce un detrimento de la natriuresis.",
+    "Estimula la secreción de Renina y Aldosterona.",
+    "De las tres formas conocidas de péptidos natriuréticos, el péptido natriurético auricular es el de mayor relevancia clínica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale de las siguientes, la aﬁrmación correcta sobre el control orgánico de la volemia:",
+   "o": [
+    "El centro de la sed localizado en el encéfalo se estimula cuando el volumen sanguíneo disminuye por pérdidas de agua o cuando la osmolaridad del suero disminuye.",
+    "Los riñones, en su función reguladora hidroelectrolítica, reabsorben en condiciones normales alrededor del 75-80 % del filtrado glomerular.",
+    "La angiotensina I es transformada en angiotensina II y ésta, a su vez, en renina, cuyo potente efecto vasoconstrictor permite la elevación de la presión arterial en situaciones de hipovolemia.",
+    "El Péptido Natriurético Auricular inhibe la secreción de renina y bloquea el efecto retenedor de sodio que ejerce la secreción de aldosterona."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Mediante qué proceso se mueve el Na+ a través de la membrana capilar?:",
+   "o": [
+    "Filtración.",
+    "Transporte activo.",
+    "Transporte vesicular.",
+    "Difusión."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El coeﬁciente de ﬁltración capilar de un tejido medio es de:",
+   "o": [
+    "0,01 ml/min/mmHg/100 g de tejido.",
+    "0,1 ml/min/mmHg/100 g de tejido.",
+    "1 ml/min/mmHg/100 g de tejido.",
+    "10 ml/min/mmHg/100 g de tejido."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Establezca la relación correcta ante un paciente con posible deshidratación:",
+   "o": [
+    "Frecuencia cardiaca aumentada y venas yugulares colapsadas.",
+    "Amplitud del pulso aumentada y diuresis concentrada.",
+    "Edema en declive y frecuencia cardiaca aumentada.",
+    "Presión arterial sistólica reducida y piel tensa (fóvea)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre la deshidratación hipotónica en las personas de edad avanzada, es cierto que:",
+   "o": [
+    "Pocos minutos después de desarrollarse la hipotonicidad, entra agua en el tejido cerebral dando lugar a edema y a una disminución de la osmolalidad del cerebro.",
+    "Las manifestaciones clínicas de la hipotonicidad no se relacionan con la velocidad de instauración, sino con la incapacidad para compensar las pérdidas.",
+    "En la deshidratación hipotónica de las personas mayores, a diferencia de las personas más jóvenes, no suelen haber síntomas por depleción de volumen, sino por exceso de ion Na+ sérico.",
+    "En las personas ancianas, la hiponatremia leve (Na+ sérico < 125 mEq/L) suele ser asintomática."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con relación al uso seguro del potasio:",
+   "o": [
+    "Una vez reconstituida la solución, ha de agitarse al menos 6 veces.",
+    "Soluciones con una concentración ≤60 mEq/l pueden administrarse mediante sistemas de regulación de flujo.",
+    "Por vía periférica, se repondrá en una concentración máxima de 100 mEq/l, administrándose normalmente a una velocidad de 40 mEq/h.",
+    "Ha de valorarse el nivel de magnesio ante la posibilidad de una hipermagnesemia asociada a la hipopotasemia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la velocidad máxima admisible de administración de cloruro potásico por vía periférica en un paciente con una hipopotasemia de 2,6 mEq/l?:",
+   "o": [
+    "≤ 10 mEq/h.",
+    "≤ 20 mEq/h.",
+    "≤ 30 mEq/h.",
+    "≤ 40 mEq/h."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. Teniendo en cuenta la imagen, indique la opción correcta:",
+   "o": [
+    "Tras elevar la presión del manguito al menos 40mmHg por encima de la presión sistólica durante 2-5 minutos, la imagen indica que los niveles de calcio en sangre son superiores a 2,15 mmol/L.",
+    "Tras elevar la presión del manguito al menos 20mmHg por encima de la presión sistólica durante 2-5 minutos, la imagen indica que los niveles de calcio en sangre son inferiores a 2,15 mmol/L.",
+    "Tras elevar la presión del manguito al menos 60mmHg por encima de la presión sistólica durante 5-10 minutos, la imagen indica que los niveles de calcio en sangre son superiores a 10,2 mmol/L.",
+    "Tras elevar la presión del manguito al menos 50mmHg por encima de la presión sistólica durante 5-10 minutos, la imagen indica que los niveles de calcio en sangre son inferiores a 10,2 mmol/L."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t06-2019-2020-4.jpg"
+  },
+  {
+   "q": "Con respecto al pH sanguíneo, NO ES CIERTO que:",
+   "o": [
+    "Refleja la concentración de hidrogeniones.",
+    "Se expresa de manera logarítmica debido a la baja concentración de H+.",
+    "Un pH bajo corresponde a una elevada concentración de hidrogeniones, por lo que indica que el medio es ácido.",
+    "El pH es directamente proporcional a la concentración de hidrogeniones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes opciones, indique el patrón correcto correspondiente a una acidosis respiratoria aguda:",
+   "o": [
+    "pH normal, HCO3 ⁻ normal y pCO2 elevada.",
+    "pH normal, HCO3 ⁻ elevado y pCO2 elevada.",
+    "pH bajo, HCO3 ⁻ elevado y pCO2 disminuida.",
+    "pH bajo, HCO3 ⁻ normal y pCO2 elevada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el patrón correcto, correspondiente a una alcalosis respiratoria crónica:",
+   "o": [
+    "pH normal; PaCO2 disminuida; bicarbonato disminuido; exceso de bases disminuido.",
+    "pH normal; PaCO2 elevada; bicarbonato elevado; exceso de bases elevado.",
+    "pH elevado; PaCO2 disminuida; bicarbonato normal; exceso de bases normal.",
+    "pH elevado; PaCO2 normal; bicarbonato disminuido; exceso de bases disminuido."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los signos y síntomas clínicos que esperaría encontrar más frecuentemente en un paciente con déficit de bicarbonato?:",
+   "o": [
+    "Síntomas respiratorios como la hiperventilación.",
+    "Piel fría y seca.",
+    "Hipertonicidad muscular.",
+    "Signos positivos de Chvostek o Trousseau."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones describe un hallazgo común relacionado con la acidosis respiratoria aguda y crónica?:",
+   "o": [
+    "Presencia de fibrilación auricular como el primer signo de acidosis respiratoria en pacientes anestesiados.",
+    "Vasoconstricción cerebral y reducción del flujo sanguíneo cerebral debido a una elevada PaCO2.",
+    "Aumento de la frecuencia cardíaca y respiratoria, así como de la presión arterial.",
+    "Desarrollo de hipercapnia que puede producir agitación aguda en el paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante la sospecha clínica de que un paciente presente alcalosis respiratoria, ¿cuál de los siguientes resultados de su gasometría arterial conﬁrmarían la situación?:",
+   "o": [
+    "pH: 7,31; PaCO2: 52; HCO3: 28,2.",
+    "pH: 7,48; PaCO2: 50; HCO3: 30,5. 87 BIOQUÍMICA. EQUILIBRIO HIDROELECTROLÍTICO",
+    "pH: 7,47; PaCO2: 31; HCO3: 21,3.",
+    "pH: 7,37; PaCO2: 40; HCO3: 24."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Uno de los motivos que con mayor frecuencia se asocian a la aparición de complicaciones tras la corrección de una situación de acidosis metabólica es:",
+   "o": [
+    "La reentrada de potasio en el espacio intracelular.",
+    "El descenso compensador de los niveles de PaCO2.",
+    "La hiponatremia ´paradójica´ derivada del uso de bicarbonato.",
+    "El cambio brusco de los niveles séricos de Ca."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Al administrar una perfusión de Suero Fisiológico 0.9%, usted sabe que por cada litro de solución está proporcionando:",
+   "o": [
+    "38.5 mEq/l de Na.",
+    "76 mEq/l de Na.",
+    "154 mEq/l de Na.",
+    "308 mEq/l de Na."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

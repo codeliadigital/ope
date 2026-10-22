@@ -48,7 +48,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: EBE, fuentes, búsqueda, lectura c
 - **Metabuscadores**: **Trip Database** (resultados por colores) y **Epistemonikos** (Chile, revisiones sistemáticas). **Gestores bibliográficos**: Mendeley, Zotero, EndNote.
 - Búsqueda: **AND** (restringe), **OR** (amplía), **NOT** (excluye); **truncamiento \*** (enferm\*), **comodín ?** (p?ediatrics), comillas (frase exacta), etiquetas [ti], [ab], [au], y paréntesis: dolor AND (niños OR neonatos). **Operadores de proximidad** (no booleanos): NEAR, ADJ, NEXT.
 
-!! Las **GPC son fuentes secundarias**, no primarias.
+!! ==Las **GPC son fuentes secundarias**, no primarias.==
 !! MeSH = PubMed. DeCS = LILACS/BDENF.
 
 ## A3. Lectura crítica, revisiones sistemáticas y metaanálisis
@@ -137,7 +137,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: EBE, fuentes, búsqueda, lectura c
 
 - Recursos en Murcia: **CAVI** (psicóloga, abogada y trabajadora social; **sin necesidad de denuncia**), **EMAVI** (municipales: acogida, empleo), **016** (24 h; no aparece en la factura, pero hay que **borrarlo del móvil**) y **112** (emergencias).
 
-!! Agresión de una **expareja sin convivencia** = **sí** es violencia de género según la LO 1/2004.
+!! ==Agresión de una **expareja sin convivencia** = **sí** es violencia de género según la LO 1/2004.==
 
 ## B4. Ley 4/2023, de 28 de febrero, para la igualdad de las personas trans y los derechos LGTBI
 

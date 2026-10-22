@@ -12,7 +12,7 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 const IS_FILE = location.protocol === 'file:';
 
 // Súbelo cada vez que cambien los archivos de data/ para que nadie vea datos guardados antiguos
-const DATA_V = 5;
+const DATA_V = 10;
 
 let temasPromise = null;
 let testsPromise = null;
@@ -141,8 +141,8 @@ async function renderHome() {
     <div class="toolbar-home">
       <input class="search" type="search" placeholder="Buscar por número o palabra (p. ej. 17, vacunas, Ley 55/2003)…" aria-label="Buscar tema">
       <a class="btn accent" href="#/simulacro">Simulacro aleatorio</a>
-      <a class="btn" href="#/examenes">Exámenes de otros años</a>
-      <a class="btn" href="#/cuestionarios">Preguntas trampa y con imagen</a>
+      <a class="btn" href="#/examenes">Exámenes OPE y EIR</a>
+      <a class="btn" href="#/cuestionarios">Preguntas trampa</a>
     </div>
     <div class="grid"></div>`;
   const grid = app.querySelector('.grid');
@@ -227,7 +227,30 @@ async function renderTema(n, tab) {
       panels.test.innerHTML = '<div class="empty">Cargando test…</div>';
       getTest(n).then((data) => {
         const questions = data.preguntas.map((p, i) => ({ ...p, id: `${n}-${i}`, tema: n }));
-        activeQuiz = new Quiz(panels.test, questions, { title: `Tema ${n}` });
+        const eir = questions.filter((q) => q.src && q.src.startsWith('EIR'));
+        // Modos: todas, 30 al azar, solo las 30 propias del tema o solo las del EIR
+        const modes = [
+          ['all', `Todas (${questions.length})`, () => questions],
+          ['rand', '30 al azar', () => shuffle(questions).slice(0, 30)],
+          ['own', 'Solo del tema', () => questions.filter((q) => !q.src)],
+          ...(eir.length ? [['eir', `Solo EIR (${eir.length})`, () => eir]] : []),
+        ];
+        panels.test.innerHTML = `
+          ${questions.length > 30 ? `<div class="filters test-modes" role="group" aria-label="Qué preguntas hacer">
+            ${modes.map(([k, label]) => `<button class="chip" data-mode="${k}" aria-pressed="${k === 'all'}">${label}</button>`).join('')}
+          </div>` : ''}
+          <div class="test-quiz"></div>`;
+        const box = panels.test.querySelector('.test-quiz');
+        const begin = (k) => {
+          if (activeQuiz?.inProgress() && !confirm('Se borrarán tus respuestas. ¿Cambiar de modo?')) return false;
+          activeQuiz?.destroy();
+          activeQuiz = new Quiz(box, modes.find((m) => m[0] === k)[2](), { title: `Tema ${n}` });
+          return true;
+        };
+        panels.test.querySelectorAll('[data-mode]').forEach((b) => b.addEventListener('click', () => {
+          if (begin(b.dataset.mode)) panels.test.querySelectorAll('[data-mode]').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+        }));
+        begin('all');
       }).catch((err) => { panels.test.innerHTML = `<div class="empty">${esc(err.message)}</div>`; });
     }
   };
@@ -433,6 +456,14 @@ class PdfViewer {
 // Imagen de una pregunta (ECG, pupilas...); se amplía al pulsar
 const qimg = (q) => (q.img ? `<a class="qimg" href="${esc(q.img)}" target="_blank" rel="noopener" title="Ver la imagen a tamaño completo"><img src="${esc(q.img)}" alt="Imagen de la pregunta"></a>` : '');
 
+// Motivo de cada opción incorrecta; la que marcó el usuario va primero y resaltada
+const porQue = (q, marcada) => {
+  if (!q.por) return '';
+  const idx = [0, 1, 2, 3].filter((j) => j !== q.a && q.por[j]);
+  idx.sort((x, y) => (y === marcada) - (x === marcada));
+  return `<ul class="por">${idx.map((j) => `<li${j === marcada ? ' class="tuya"' : ''}><b>Por qué no la ${LETTERS[j]}:</b> ${esc(q.por[j])}</li>`).join('')}</ul>`;
+};
+
 class Quiz {
   constructor(container, questions, { title, showTema = false, onNew = null, penalty = 1 / 3, minutes = 0, newLabel = 'Nuevo simulacro' } = {}) {
     this.container = container;
@@ -505,7 +536,7 @@ class Quiz {
         </div>
         <div class="progress"><i style="width:${(answered / total) * 100}%"></i></div>
         <div class="qcard">
-          <div class="qnum">Pregunta ${this.idx + 1} de ${total}${this.showTema ? ` <span class="qtema">· Tema ${q.tema}</span>` : ''}${q.anulada ? ' <span class="qnul">Anulada en la plantilla definitiva: no puntúa</span>' : ''}</div>
+          <div class="qnum">Pregunta ${this.idx + 1} de ${total}${this.showTema ? ` <span class="qtema">· Tema ${q.tema}</span>` : ''}${q.src ? ` <span class="qtema">· ${esc(q.src)}</span>` : ''}${q.anulada ? ' <span class="qnul">Anulada: no puntúa</span>' : ''}</div>
           <p class="qtext">${esc(q.q)}</p>
           ${qimg(q)}
           <div class="opts">
@@ -630,11 +661,11 @@ class Quiz {
           ${this.questions.map((q, i) => {
             const s = state(i);
             if (this.filter !== 'all' && this.filter !== s) return '';
-            const verdict = s === 'nul' ? `Anulada en la plantilla definitiva${q.a != null ? ` · la plantilla provisional daba la ${LETTERS[q.a]}` : ''}`
+            const verdict = s === 'nul' ? `Anulada${q.src ? '' : ' en la plantilla definitiva'}${q.a != null ? ` · la plantilla provisional daba la ${LETTERS[q.a]}` : ''}`
               : s === 'ok' ? 'Correcta' : s === 'ko' ? `Incorrecta · marcaste la ${LETTERS[this.answers[i]]}, la correcta es la ${LETTERS[q.a]}` : `En blanco · la correcta es la ${LETTERS[q.a]}`;
             return `
               <article class="ritem ${s}" id="r-${i}">
-                <div class="verdict">${i + 1}. ${verdict}${this.showTema ? ` · Tema ${q.tema}` : ''}</div>
+                <div class="verdict">${i + 1}. ${verdict}${this.showTema ? ` · Tema ${q.tema}` : ''}${q.src ? ` · ${esc(q.src)}` : ''}</div>
                 <p class="qtext">${esc(q.q)}</p>
                 ${qimg(q)}
                 ${q.o.map((o, j) => {
@@ -642,7 +673,7 @@ class Quiz {
                   const tag = j === q.a ? '<span class="tag">✓ correcta</span>' : j === this.answers[i] ? '<span class="tag">✗ tu respuesta</span>' : '';
                   return `<div class="ropt ${cls}"><span class="l">${LETTERS[j]})</span><span>${esc(o)}</span>${tag}</div>`;
                 }).join('')}
-                ${q.e ? `<div class="expl">${esc(q.e)}</div>` : ''}
+                ${q.e || q.por ? `<div class="expl">${q.e ? esc(q.e) : ''}${porQue(q, this.answers[i])}</div>` : ''}
               </article>`;
           }).join('') || '<div class="empty">No hay preguntas en este filtro.</div>'}
         </div>
@@ -742,13 +773,13 @@ const SETS = {
   examenes: {
     nav: 'examenes',
     title: 'Exámenes de otros años',
-    intro: 'Exámenes oficiales de la OPE de Enfermería del Servicio Murciano de Salud, con la plantilla de respuestas oficial. Hazlos como el día del examen: 125 preguntas en 140 minutos, o sin tiempo.',
+    intro: 'Exámenes oficiales completos con su plantilla de respuestas: la OPE de Enfermería del Servicio Murciano de Salud (125 preguntas, 140 minutos) y la prueba EIR del Ministerio de Sanidad (210 preguntas, 4 h 30 min). Hazlos como el día del examen o sin tiempo.',
     penalty: 0.25,
   },
   cuestionarios: {
     nav: 'cuestionarios',
-    title: 'Preguntas trampa y con imagen',
-    intro: 'Cuestionarios aparte de los temas: los detalles de la práctica diaria que no salen en los manuales pero caen en el examen (como el tubo azul de coagulación del EIR) y preguntas en las que hay que interpretar una imagen (ECG, pupilas, colores).',
+    title: 'Preguntas trampa',
+    intro: 'Los detalles de la práctica diaria que no salen en los manuales pero caen en el examen, como el tubo azul de coagulación del EIR. Tienes la teoría en un PDF corto y el cuestionario para practicarla.',
     penalty: 1 / 3,
   },
 };
@@ -760,22 +791,26 @@ async function renderSets(kind, id) {
 
   if (!id) {
     document.title = `${cfg.title} · OPE Enfermería SMS`;
+    const meta = (d) => `${d.preguntas.length} preguntas${d.preguntas.some((p) => p.anulada) ? ` · ${d.preguntas.filter((p) => p.anulada).length} anuladas` : ''}`;
+    const card = (d) => `
+      <article class="card">
+        <a class="card-head" href="#/${kind}/${d.id}">
+          <span class="card-num">${d.num ?? (d.anio ? String(d.anio).slice(2) : d.id === 'imagenes' ? '◉' : '!')}</span>
+          <div>
+            <h2 class="card-title">${esc(d.titulo)}</h2>
+            <div class="card-meta">${meta(d)}</div>
+          </div>
+        </a>
+        ${d.grupo ? '' : `<p class="card-desc">${esc(d.descripcion || '')}</p>`}
+        <div class="card-actions"><a class="btn small primary" href="#/${kind}/${d.id}">${kind === 'examenes' ? 'Hacer examen' : 'Empezar'}</a></div>
+      </article>`;
+    // Los cuestionarios con «grupo» (p. ej. el EIR por temas) van en su propio apartado
+    const groups = [...new Set(all.map((d) => d.grupo || ''))];
     app.innerHTML = `
       <section class="hero"><h1>${cfg.title}</h1><p>${cfg.intro}</p></section>
-      <div class="grid">
-        ${all.map((d) => `
-          <article class="card">
-            <a class="card-head" href="#/${kind}/${d.id}">
-              <span class="card-num">${d.anio ? String(d.anio).slice(2) : d.id === 'imagenes' ? '◉' : '!'}</span>
-              <div>
-                <h2 class="card-title">${esc(d.titulo)}</h2>
-                <div class="card-meta">${d.preguntas.length} preguntas${d.preguntas.some((p) => p.anulada) ? ` · ${d.preguntas.filter((p) => p.anulada).length} anuladas` : ''}</div>
-              </div>
-            </a>
-            <p class="card-desc">${esc(d.descripcion || '')}</p>
-            <div class="card-actions"><a class="btn small primary" href="#/${kind}/${d.id}">${kind === 'examenes' ? 'Hacer examen' : 'Empezar'}</a></div>
-          </article>`).join('')}
-      </div>`;
+      ${groups.map((g) => `
+        ${g ? `<h2 class="group-title">${esc(g)}</h2>` : ''}
+        <div class="grid">${all.filter((d) => (d.grupo || '') === g).map(card).join('')}</div>`).join('')}`;
     return;
   }
 
@@ -791,7 +826,7 @@ async function renderSets(kind, id) {
     app.querySelector('.set-start').hidden = true;
     activeQuiz = new Quiz(app.querySelector('.set-quiz'), random ? shuffle(questions) : questions, {
       title: isExam ? `Examen ${set.anio}` : set.titulo.split(':')[0],
-      penalty: cfg.penalty,
+      penalty: set.penalizacion ?? cfg.penalty,
       minutes,
       onNew: showStart,
       newLabel: isExam ? 'Volver a empezar' : 'Volver al inicio',
@@ -811,20 +846,31 @@ async function renderSets(kind, id) {
     <section class="hero"><h1>${esc(set.titulo)}</h1><p>${esc(set.descripcion || '')}</p></section>
     <div class="panel set-start">
       ${isExam ? `
-        <p class="set-note">${questions.length} preguntas con la plantilla de respuestas oficial. Las anuladas en la plantilla definitiva aparecen marcadas y no cuentan para la nota. La nota se calcula sobre 10 y, por defecto, cada fallo resta 1/4 de acierto (puedes cambiarlo al corregir).</p>
+        <p class="set-note">${questions.length} preguntas con la plantilla de respuestas oficial. Las anuladas en la plantilla definitiva aparecen marcadas y no cuentan para la nota. La nota se calcula sobre 10 y, por defecto, cada fallo resta ${(set.penalizacion ?? cfg.penalty) > 0.3 ? '1/3' : '1/4'} de acierto, como en el examen real (puedes cambiarlo al corregir).</p>
         <div class="actions">
-          <button class="btn primary" data-start="140">Modo examen · 140 minutos</button>
+          <button class="btn primary" data-start="${set.minutos || 140}">Modo examen · ${set.minutos ? `${Math.floor(set.minutos / 60)} h ${set.minutos % 60} min` : '140 minutos'}</button>
           <button class="btn" data-start="0">Sin tiempo</button>
           <button class="btn" data-start="0" data-random="1">Sin tiempo y en orden aleatorio</button>
         </div>` : `
-        <p class="set-note">${questions.length} preguntas con explicación. Se corrige al final, como los tests de los temas.</p>
+        <p class="set-note">${questions.length} preguntas${set.explicadas === false ? ' con la respuesta oficial' : ' con explicación'}. Se corrige al final, como los tests de los temas.</p>
         <div class="actions">
           <button class="btn primary" data-start="0" data-random="1">Empezar en orden aleatorio</button>
           <button class="btn" data-start="0">En orden</button>
+          ${set.pdf ? '<button class="btn accent" data-act="teoria">Leer la teoría</button>' : ''}
         </div>`}
     </div>
+    <section class="set-teoria" hidden></section>
     <section class="set-quiz"></section>`;
-  app.querySelectorAll('[data-start]').forEach((b) => b.addEventListener('click', () => begin(+b.dataset.start, !!b.dataset.random)));
+  app.querySelectorAll('[data-start]').forEach((b) => b.addEventListener('click', () => {
+    app.querySelector('.set-teoria').hidden = true;
+    begin(+b.dataset.start, !!b.dataset.random);
+  }));
+  app.querySelector('[data-act="teoria"]')?.addEventListener('click', () => {
+    const el = app.querySelector('.set-teoria');
+    el.hidden = !el.hidden;
+    if (!el.hidden && !viewer) { viewer = new PdfViewer(el, set.pdf, `${set.id}-teoria.pdf`); viewer.init(); }
+    if (!el.hidden) { viewer?.refit(); el.scrollIntoView({ block: 'start' }); }
+  });
 }
 
 route();

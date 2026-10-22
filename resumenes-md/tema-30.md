@@ -122,7 +122,7 @@ sub: Resumen OPE Enfermería SMS · Valoración del RN enfermo, clasificación y
 !! Sacarosa: **2 min antes**, acción **central** (no anestesia local).
 !! Surfactante: atemperar **en la mano**; nunca calentar.
 !! Aspiración meconial: **a término o postérmino**; en el gran prematuro es **membrana hialina**.
-!! Estenosis de píloro: vómitos **no biliosos** y **alcalosis hipoclorémica hipopotasémica**.
+!! ==Estenosis de píloro: vómitos **no biliosos** y **alcalosis hipoclorémica hipopotasémica**.==
 !! Gastrosquisis: **sin saco**, a la derecha del cordón; **bolsa estéril**, nunca gasas secas.
 !! Deshidratación hipertónica: pliegue engañoso; corregir **lentamente**.
 !! Fototerapia: ojos tapados y **sin cremas**.

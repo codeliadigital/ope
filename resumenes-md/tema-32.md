@@ -71,10 +71,10 @@ sub: Resumen OPE Enfermería SMS · Pubertad y Tanner, desarrollo psicosocial, e
 
 !! Primer signo puberal: **telarquia** (niña) y **volumen testicular ≥ 4 ml** (niño).
 !! Tanner: mama y vello **por separado**.
-!! **16 años** = consiente solo (salvo grave riesgo, ensayos y reproducción asistida).
+!! ==**16 años** = consiente solo (salvo grave riesgo, ensayos y reproducción asistida).==
 !! Confidencialidad: se rompe solo ante **riesgo vital, maltrato o abuso**.
 !! El **DSM-5 quitó la amenorrea** de la anorexia.
-!! Bulimia: **alcalosis hipoclorémica e hipopotasemia**; signo de **Russell**.
+!! ==Bulimia: **alcalosis hipoclorémica e hipopotasemia**; signo de **Russell**.==
 !! SCOFF **≥ 2**; CRAFFT **≥ 2**; en adolescentes **no CAGE**.
 !! Realimentación: **hipofosfatemia**; **tiamina antes** de la glucosa.
 !! Pesar a la paciente **de espaldas** a la báscula; **no comentar su aspecto**.

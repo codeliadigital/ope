@@ -7,181 +7,211 @@
       "q": "La primera escuela laica de enfermería, fundada por Florence Nightingale, fue la del:",
       "o": ["Instituto de Diaconisas de Kaiserswerth (1836)", "Hospital St. Thomas de Londres (1860)", "Hospital de Scutari (1854)", "Hôtel-Dieu de París (s. VII)"],
       "a": 1,
-      "e": "La primera escuela laica fue la del Hospital St. Thomas (Londres, 1860). Kaiserswerth (1836) era un instituto protestante de diaconisas, donde se formó Nightingale."
+      "e": "La primera escuela laica fue la del Hospital St. Thomas (Londres, 1860). Kaiserswerth (1836) era un instituto protestante de diaconisas, donde se formó Nightingale.",
+      "por": ["Kaiserswerth (Fliedner, 1836) era un instituto protestante de diaconisas, no laico; allí se formó Nightingale.", null, "Scutari (Turquía) fue el hospital de la guerra de Crimea donde trabajó Nightingale, no una escuela.", "El Hôtel-Dieu de París (s. VII) es un hospital religioso medieval de la etapa vocacional."]
     },
     {
       "q": "El título de Enfermera se creó en España mediante:",
       "o": ["La Ley Moyano de 1857", "El RD 2128/1977", "Una Real Orden de 1915, a instancias de las Siervas de María", "La Ley General de Educación de 1970"],
       "a": 2,
-      "e": "La Ley Moyano reguló practicantes y matronas, pero no enfermeras. El título de Enfermera llega con la Real Orden de 1915."
+      "e": "La Ley Moyano reguló practicantes y matronas, pero no enfermeras. El título de Enfermera llega con la Real Orden de 1915.",
+      "por": ["La Ley Moyano (1857) reguló los títulos de practicante y matrona, pero no el de enfermera.", "El RD 2128/1977 llevó los estudios a la universidad (diplomatura); el título ya existía.", null, "La Ley General de Educación de 1970 pasó la formación de ATS a la universidad; no creó el título."]
     },
     {
       "q": "Los títulos de enfermera, practicante y matrona se unificaron en el título de ATS en el año:",
       "o": ["1944", "1953", "1970", "1977"],
       "a": 1,
-      "e": "En 1953 se unifican en ATS. En 1977 la formación pasa a Escuelas Universitarias (diplomatura) y en 2007 llega el Grado."
+      "e": "En 1953 se unifican en ATS. En 1977 la formación pasa a Escuelas Universitarias (diplomatura) y en 2007 llega el Grado.",
+      "por": ["En 1944 se crea el Colegio único de «Auxiliares Sanitarios», no el título de ATS.", null, "1970 es la Ley General de Educación, que lleva la formación de ATS a la universidad.", "1977 es la diplomatura universitaria (DUE), que sustituye al ATS."]
     },
     {
       "q": "¿Cuál de las siguientes NO es una especialidad de Enfermería del RD 450/2005?",
       "o": ["Enfermería de Salud Mental", "Enfermería Geriátrica", "Enfermería de Urgencias y Emergencias", "Enfermería del Trabajo"],
       "a": 2,
-      "e": "Urgencias y Emergencias no es especialidad del RD 450/2005. Sí lo son: Obstétrico-Ginecológica, Salud Mental, Geriátrica, del Trabajo, Familiar y Comunitaria, Pediátrica y Cuidados Médico-Quirúrgicos."
+      "e": "Urgencias y Emergencias no es especialidad del RD 450/2005. Sí lo son: Obstétrico-Ginecológica, Salud Mental, Geriátrica, del Trabajo, Familiar y Comunitaria, Pediátrica y Cuidados Médico-Quirúrgicos.",
+      "por": ["Salud Mental sí es una de las 7 especialidades del RD 450/2005.", "Geriátrica sí es una de las 7 especialidades del RD 450/2005.", null, "Enfermería del Trabajo sí es una de las 7 especialidades del RD 450/2005."]
     },
     {
       "q": "Según Jacqueline Fawcett, NO forma parte del metaparadigma enfermero:",
       "o": ["Persona", "Entorno", "Salud", "Enfermedad"],
       "a": 3,
-      "e": "Los 4 conceptos del metaparadigma son persona, entorno, salud y cuidado (enfermería). La enfermedad no es uno de ellos."
+      "e": "Los 4 conceptos del metaparadigma son persona, entorno, salud y cuidado (enfermería). La enfermedad no es uno de ellos.",
+      "por": ["La persona es uno de los 4 conceptos del metaparadigma.", "El entorno es uno de los 4 conceptos del metaparadigma.", "La salud es uno de los 4 conceptos del metaparadigma.", null]
     },
     {
       "q": "Según Kérouac, el modelo de Virginia Henderson pertenece al paradigma de:",
       "o": ["Categorización", "Integración", "Transformación", "Ninguno, por ser pionera"],
       "a": 1,
-      "e": "Henderson se sitúa en el paradigma de Integración. La que no pertenece a ninguna escuela por ser pionera es Nightingale (paradigma de Categorización)."
+      "e": "Henderson se sitúa en el paradigma de Integración. La que no pertenece a ninguna escuela por ser pionera es Nightingale (paradigma de Categorización).",
+      "por": ["Categorización es el paradigma de Nightingale (visión fragmentada, salud pública).", null, "Transformación es el de Rogers, Watson, Leininger, Parse y Newman.", "«Ninguno, por ser pionera» se dice de Nightingale respecto a las escuelas, no de Henderson."]
     },
     {
       "q": "¿Qué teórica pertenece a la escuela de los efectos deseables (\"¿por qué hacen las enfermeras lo que hacen?\")?",
       "o": ["Callista Roy", "Hildegard Peplau", "Virginia Henderson", "Jean Watson"],
       "a": 0,
-      "e": "Efectos deseables: Johnson, Roy, Neuman y Levine. Peplau es de Interacción, Henderson de Necesidades y Watson del Caring."
+      "e": "Efectos deseables: Johnson, Roy, Neuman y Levine. Peplau es de Interacción, Henderson de Necesidades y Watson del Caring.",
+      "por": [null, "Peplau es de la escuela de Interacción («¿cómo lo hacen?»).", "Henderson es de la escuela de Necesidades («¿qué hacen?»).", "Watson es de la escuela del Caring."]
     },
     {
       "q": "¿Cuál de las siguientes NO es una fase de la relación enfermera-paciente según Peplau?",
       "o": ["Orientación", "Identificación", "Explotación o aprovechamiento", "Evaluación"],
       "a": 3,
-      "e": "Las 4 fases de Peplau son Orientación, Identificación, Explotación y Resolución (O-I-E-R)."
+      "e": "Las 4 fases de Peplau son Orientación, Identificación, Explotación y Resolución (O-I-E-R).",
+      "por": ["Orientación es la 1.ª fase de Peplau.", "Identificación es la 2.ª fase de Peplau.", "Explotación o aprovechamiento es la 3.ª fase de Peplau.", null]
     },
     {
       "q": "Para Hildegard Peplau, el rol más importante de la enfermera es el de:",
       "o": ["Consejera", "Extraña", "Líder", "Sustituta"],
       "a": 0,
-      "e": "Peplau describe 6 roles (extraño, persona recurso, docente, líder, sustituto y consejero), y el de consejero es el más importante."
+      "e": "Peplau describe 6 roles (extraño, persona recurso, docente, líder, sustituto y consejero), y el de consejero es el más importante.",
+      "por": [null, "Extraña es el primer rol (al conocerse), pero no el más importante.", "Líder es uno de los 6 roles, no el principal.", "Sustituta es uno de los 6 roles, no el principal."]
     },
     {
       "q": "Según Dorothea Orem, ante un paciente inconsciente la enfermera aplicará un sistema de enfermería:",
       "o": ["De apoyo-educación", "Parcialmente compensador", "Totalmente compensador", "De ayuda mutua"],
       "a": 2,
-      "e": "Totalmente compensador: el paciente no puede realizar su autocuidado. Parcialmente compensador: se comparte. Apoyo-educación: el paciente puede, la enfermera enseña."
+      "e": "Totalmente compensador: el paciente no puede realizar su autocuidado. Parcialmente compensador: se comparte. Apoyo-educación: el paciente puede, la enfermera enseña.",
+      "por": ["De apoyo-educación es cuando el paciente puede hacerlo y solo necesita enseñanza y guía.", "Parcialmente compensador es cuando paciente y enfermera comparten el autocuidado.", null, "«Ayuda mutua» no es un sistema de enfermería de Orem."]
     },
     {
       "q": "En el modelo de adaptación de Callista Roy, el estímulo que se enfrenta de manera inmediata es el:",
       "o": ["Focal", "Contextual", "Residual", "Regulador"],
       "a": 0,
-      "e": "Focal = inmediato; contextuales = resto de estímulos presentes; residuales = de efecto incierto (creencias, experiencias). Regulador es un subsistema de afrontamiento."
+      "e": "Focal = inmediato; contextuales = resto de estímulos presentes; residuales = de efecto incierto (creencias, experiencias). Regulador es un subsistema de afrontamiento.",
+      "por": [null, "Contextuales son los demás estímulos presentes, que influyen pero no son el inmediato.", "Residuales son los de efecto incierto (creencias, experiencias pasadas).", "Regulador es un subsistema de afrontamiento (fisiológico), no un tipo de estímulo."]
     },
     {
       "q": "El principio de homeodinámica de Martha Rogers que describe un cambio continuo, innovador e impredecible, en espiral, es la:",
       "o": ["Resonancia", "Integralidad", "Helicidad", "Reciprocidad"],
       "a": 2,
-      "e": "Helicidad = cambio en espiral. Resonancia = cambios en los patrones de onda. Integralidad = interacción mutua persona-entorno."
+      "e": "Helicidad = cambio en espiral. Resonancia = cambios en los patrones de onda. Integralidad = interacción mutua persona-entorno.",
+      "por": ["Resonancia = cambio continuo en los patrones de onda de los campos de energía.", "Integralidad = interacción mutua y continua entre la persona y el entorno.", null, "Reciprocidad no es uno de los 3 principios de homeodinámica (resonancia, helicidad, integralidad)."]
     },
     {
       "q": "Según Leininger, cuando la enfermera ayuda a cambiar una práctica cultural nociva para la salud, aplica el modo de acción de:",
       "o": ["Conservación", "Negociación", "Mantenimiento", "Reestructuración"],
       "a": 3,
-      "e": "Conservación o mantenimiento: prácticas beneficiosas. Adaptación o negociación: ajustar. Reestructuración o reorientación: cambiar las prácticas nocivas."
+      "e": "Conservación o mantenimiento: prácticas beneficiosas. Adaptación o negociación: ajustar. Reestructuración o reorientación: cambiar las prácticas nocivas.",
+      "por": ["Conservación es mantener las prácticas culturales beneficiosas.", "Negociación (adaptación) es ajustar o negociar prácticas, no cambiar las nocivas.", "Mantenimiento es lo mismo que conservación: mantener lo beneficioso.", null]
     },
     {
       "q": "Los 11 patrones funcionales de salud para la valoración se deben a:",
       "o": ["Marjory Gordon", "Faye G. Abdellah", "Roper, Logan y Tierney", "Dorothy Johnson"],
       "a": 0,
-      "e": "Gordon = 11 patrones; Abdellah = 21 problemas; Roper-Logan-Tierney = 12 actividades de la vida; Johnson = 7 subsistemas."
+      "e": "Gordon = 11 patrones; Abdellah = 21 problemas; Roper-Logan-Tierney = 12 actividades de la vida; Johnson = 7 subsistemas.",
+      "por": [null, "Abdellah describió 21 problemas de enfermería.", "Roper, Logan y Tierney describieron 12 actividades de la vida diaria.", "Dorothy Johnson describió 7 subsistemas conductuales."]
     },
     {
       "q": "El modelo \"De principiante a experta\" de Patricia Benner se basa en el modelo de adquisición de habilidades de:",
       "o": ["Maslow", "Dreyfus", "Bandura", "Erikson"],
       "a": 1,
-      "e": "Benner aplica el modelo de Dreyfus y describe 5 niveles: principiante, principiante avanzada, competente, eficiente y experta."
+      "e": "Benner aplica el modelo de Dreyfus y describe 5 niveles: principiante, principiante avanzada, competente, eficiente y experta.",
+      "por": ["Maslow es la jerarquía de necesidades (base de la escuela de Necesidades).", null, "Bandura (autoeficacia) es la base del modelo de Nola Pender.", "Erikson es una teoría del desarrollo psicosocial, no la base de Benner."]
     },
     {
       "q": "El concepto central de la teoría de Florence Nightingale es:",
       "o": ["El autocuidado", "La adaptación", "El entorno", "La interacción"],
       "a": 2,
-      "e": "En la Teoría del Entorno, la enfermera sitúa al paciente en las mejores condiciones (ventilación, luz, temperatura, ruido, dieta, higiene) para que la naturaleza actúe."
+      "e": "En la Teoría del Entorno, la enfermera sitúa al paciente en las mejores condiciones (ventilación, luz, temperatura, ruido, dieta, higiene) para que la naturaleza actúe.",
+      "por": ["El autocuidado es el concepto central de Orem.", "La adaptación es el concepto central de Roy.", null, "La interacción es propia de Peplau, Orlando o King."]
     },
     {
       "q": "Según Virginia Henderson, las fuentes de dificultad que impiden satisfacer las necesidades son la falta de:",
       "o": ["Fuerza, conocimiento o voluntad", "Agencia de autocuidado", "Adaptación a los estímulos focales", "Líneas de defensa ante los estresores"],
       "a": 0,
-      "e": "Henderson: falta de fuerza, conocimiento o voluntad. La agencia de autocuidado es de Orem, los estímulos de Roy y los estresores de Neuman."
+      "e": "Henderson: falta de fuerza, conocimiento o voluntad. La agencia de autocuidado es de Orem, los estímulos de Roy y los estresores de Neuman.",
+      "por": [null, "La agencia de autocuidado es un concepto de Orem.", "Los estímulos focales son de Callista Roy.", "Las líneas de defensa ante estresores son de Betty Neuman."]
     },
     {
       "q": "¿Cuántos factores de cuidado (carative factors) describió Jean Watson?",
       "o": ["7", "10", "12", "14"],
       "a": 1,
-      "e": "Watson describió 10 factores de cuidado, que después evolucionaron a los procesos caritas. 14 son las necesidades de Henderson."
+      "e": "Watson describió 10 factores de cuidado, que después evolucionaron a los procesos caritas. 14 son las necesidades de Henderson.",
+      "por": ["7 son los subsistemas de Dorothy Johnson.", null, "12 son las actividades de Roper-Logan-Tierney.", "14 son las necesidades de Virginia Henderson."]
     },
     {
       "q": "La Constitución Española entró en vigor el:",
       "o": ["31 de octubre de 1978", "6 de diciembre de 1978", "27 de diciembre de 1978", "29 de diciembre de 1978"],
       "a": 3,
-      "e": "Aprobada por las Cortes el 31/10, referéndum el 6/12, sanción el 27/12 y entrada en vigor con su publicación en el BOE el 29/12/1978."
+      "e": "Aprobada por las Cortes el 31/10, referéndum el 6/12, sanción el 27/12 y entrada en vigor con su publicación en el BOE el 29/12/1978.",
+      "por": ["El 31 de octubre de 1978 la aprobaron las Cortes; aún no estaba en vigor.", "El 6 de diciembre de 1978 fue el referéndum (trampa típica).", "El 27 de diciembre de 1978 la sancionó el Rey; entra en vigor al publicarse en el BOE.", null]
     },
     {
       "q": "¿Cuál de los siguientes NO es un valor superior del ordenamiento jurídico según el art. 1.1 de la Constitución?",
       "o": ["La libertad", "La justicia", "El pluralismo político", "La solidaridad"],
       "a": 3,
-      "e": "Los valores superiores son solo cuatro: libertad, justicia, igualdad y pluralismo político."
+      "e": "Los valores superiores son solo cuatro: libertad, justicia, igualdad y pluralismo político.",
+      "por": ["La libertad sí es valor superior (art. 1.1).", "La justicia sí es valor superior (art. 1.1).", "El pluralismo político sí es valor superior (art. 1.1).", null]
     },
     {
       "q": "El derecho a la protección de la salud (art. 43 CE) se encuentra en:",
       "o": ["La Sección 1ª del Capítulo II del Título I", "La Sección 2ª del Capítulo II del Título I", "El Título VIII", "El Capítulo III del Título I (principios rectores)"],
       "a": 3,
-      "e": "El art. 43 es un principio rector de la política social y económica: no es exigible directamente ante el juez ni tiene recurso de amparo."
+      "e": "El art. 43 es un principio rector de la política social y económica: no es exigible directamente ante el juez ni tiene recurso de amparo.",
+      "por": ["La Sección 1.ª (arts. 15-29) son los derechos fundamentales; el art. 43 no está ahí.", "La Sección 2.ª (arts. 30-38) son derechos y deberes de los ciudadanos; el 43 va después.", "El Título VIII es la organización territorial del Estado.", null]
     },
     {
       "q": "¿Cuál de los siguientes derechos está protegido por el recurso de amparo ante el Tribunal Constitucional?",
       "o": ["El derecho a una vivienda digna (art. 47)", "La objeción de conciencia (art. 30.2)", "La protección de la salud (art. 43)", "La propiedad privada (art. 33)"],
       "a": 1,
-      "e": "El amparo protege el art. 14, los arts. 15-29 y el art. 30.2 (objeción de conciencia), aunque este esté en la Sección 2ª."
+      "e": "El amparo protege el art. 14, los arts. 15-29 y el art. 30.2 (objeción de conciencia), aunque este esté en la Sección 2ª.",
+      "por": ["La vivienda (art. 47) es un principio rector: no tiene amparo.", null, "La salud (art. 43) es un principio rector: no tiene amparo.", "La propiedad (art. 33) está en la Sección 2.ª y no tiene amparo."]
     },
     {
       "q": "Según el art. 17 de la Constitución, la detención preventiva no podrá durar más de:",
       "o": ["24 horas", "48 horas", "72 horas", "96 horas"],
       "a": 2,
-      "e": "Máximo 72 horas; después, libertad o puesta a disposición judicial. Existe además el procedimiento de habeas corpus."
+      "e": "Máximo 72 horas; después, libertad o puesta a disposición judicial. Existe además el procedimiento de habeas corpus.",
+      "por": ["24 horas es un plazo de otras normas, no el máximo constitucional.", "48 horas no es el plazo del art. 17.", null, "96 horas no existe como máximo; solo se amplía en casos de terrorismo (art. 55.2)."]
     },
     {
       "q": "Un decreto-ley debe ser convalidado o derogado:",
       "o": ["Por el Senado en 15 días", "Por el Senado en 30 días", "Por el Congreso en 2 meses", "Por el Congreso en 30 días"],
       "a": 3,
-      "e": "El Congreso debe pronunciarse en los 30 días siguientes a su promulgación (art. 86). En el decreto-ley el control es posterior."
+      "e": "El Congreso debe pronunciarse en los 30 días siguientes a su promulgación (art. 86). En el decreto-ley el control es posterior.",
+      "por": ["El Senado no convalida decretos-ley: lo hace solo el Congreso.", "El Senado no interviene; y el plazo son 30 días en el Congreso.", "Son 30 días, no 2 meses (2 meses es el plazo ordinario del Senado para las leyes).", null]
     },
     {
       "q": "La moción de censura al Gobierno requiere para su aprobación:",
       "o": ["Mayoría absoluta del Congreso", "Mayoría simple del Congreso", "Tres quintos del Congreso", "Dos tercios de ambas Cámaras"],
       "a": 0,
-      "e": "La propone al menos 1/10 de los diputados, es constructiva (incluye candidato) y exige mayoría absoluta (176). La cuestión de confianza se gana por mayoría simple."
+      "e": "La propone al menos 1/10 de los diputados, es constructiva (incluye candidato) y exige mayoría absoluta (176). La cuestión de confianza se gana por mayoría simple.",
+      "por": [null, "Mayoría simple es la de la cuestión de confianza, no la de la moción de censura.", "3/5 son para la reforma constitucional ordinaria.", "2/3 de ambas Cámaras son para la reforma agravada."]
     },
     {
       "q": "Según el art. 149.1.16 de la Constitución, NO es competencia exclusiva del Estado:",
       "o": ["La sanidad exterior", "Las bases y coordinación general de la sanidad", "La legislación sobre productos farmacéuticos", "La gestión de los centros de salud y hospitales"],
       "a": 3,
-      "e": "La gestión de la asistencia (hospitales, centros de salud) corresponde a las CC. AA. (art. 148.1.21), en Murcia a través del SMS."
+      "e": "La gestión de la asistencia (hospitales, centros de salud) corresponde a las CC. AA. (art. 148.1.21), en Murcia a través del SMS.",
+      "por": ["La sanidad exterior sí es competencia exclusiva del Estado.", "Las bases y coordinación general de la sanidad sí son exclusivas del Estado.", "La legislación sobre productos farmacéuticos sí es exclusiva del Estado.", null]
     },
     {
       "q": "El Estatuto de Autonomía de la Región de Murcia se aprobó el:",
       "o": ["9 de junio de 1982", "6 de diciembre de 1978", "26 de julio de 1994", "9 de junio de 1983"],
       "a": 0,
-      "e": "Se aprobó el 9 de junio de 1982, fecha que coincide con el Día de la Región. Murcia accedió a la autonomía por el art. 143 CE."
+      "e": "Se aprobó el 9 de junio de 1982, fecha que coincide con el Día de la Región. Murcia accedió a la autonomía por el art. 143 CE.",
+      "por": [null, "El 6 de diciembre de 1978 es el referéndum de la Constitución.", "El 26 de julio de 1994 es la Ley 4/1994 de Salud de la Región de Murcia.", "Es 1982, no 1983 (el día y el mes sí son el 9 de junio)."]
     },
     {
       "q": "La sede de la Asamblea Regional de Murcia está en:",
       "o": ["Murcia", "Lorca", "Cartagena", "Molina de Segura"],
       "a": 2,
-      "e": "Murcia es la capital y sede de la Presidencia y del Consejo de Gobierno; la Asamblea Regional tiene su sede en Cartagena."
+      "e": "Murcia es la capital y sede de la Presidencia y del Consejo de Gobierno; la Asamblea Regional tiene su sede en Cartagena.",
+      "por": ["Murcia es la capital y sede de la Presidencia y del Consejo de Gobierno, no de la Asamblea.", "Lorca no es sede de ninguna institución autonómica.", null, "Molina de Segura no es sede de ninguna institución autonómica."]
     },
     {
       "q": "Tras la reforma de 2015, el sistema electoral de la Asamblea Regional de Murcia se caracteriza por:",
       "o": ["45 diputados, circunscripción única y barrera del 3%", "45 diputados, 5 circunscripciones y barrera del 5%", "55 diputados, circunscripción única y barrera del 3%", "45 diputados, circunscripción única y barrera del 5%"],
       "a": 0,
-      "e": "45 diputados con mandato de 4 años, circunscripción única (antes 5) y barrera del 3% (antes 5%)."
+      "e": "45 diputados con mandato de 4 años, circunscripción única (antes 5) y barrera del 3% (antes 5%).",
+      "por": [null, "5 circunscripciones y barrera del 5% era el sistema anterior a 2015.", "Son 45 diputados, no 55.", "La barrera es del 3%; el 5% era la anterior."]
     },
     {
       "q": "Señale la afirmación correcta:",
       "o": ["Para ser Presidente del Gobierno de la Nación hay que ser diputado", "Para ser Presidente de la Región de Murcia hay que ser Diputado Regional", "Los Consejeros regionales se nombran tras votación de la Asamblea", "La moción de censura regional se aprueba por mayoría simple"],
       "a": 1,
-      "e": "El candidato a Presidente de Murcia debe ser Diputado Regional; el del Gobierno de la Nación, no. Los Consejeros los nombra libremente el Presidente y la moción de censura exige mayoría absoluta."
+      "e": "El candidato a Presidente de Murcia debe ser Diputado Regional; el del Gobierno de la Nación, no. Los Consejeros los nombra libremente el Presidente y la moción de censura exige mayoría absoluta.",
+      "por": ["El Presidente del Gobierno de la Nación no tiene que ser diputado.", null, "Los Consejeros los nombra libremente el Presidente, sin votación de la Asamblea.", "La moción de censura regional exige mayoría absoluta (23), no simple."]
     }
   ]
 }

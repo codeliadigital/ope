@@ -88,7 +88,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Atención domiciliaria, visita dom
 - **Método epidemiológico**: descriptiva → hipótesis → analítica (verificación) → conclusión → nueva hipótesis.
 - **Cadena epidemiológica**: **reservorio** (donde vive y se multiplica), **fuente de infección** (de donde pasa al huésped; en la fiebre tifoidea, el reservorio es humano y la fuente, el agua), **mecanismo de transmisión** (directo: contacto, sexual, **gotas de Flügge** < 1 m; indirecto: vehículos, fómites, vectores) y **huésped susceptible**.
 
-!! Una **mamografía de cribado** es prevención **secundaria**, no primaria.
+!! ==Una **mamografía de cribado** es prevención **secundaria**, no primaria.==
 
 ## B2. Diseños epidemiológicos
 

@@ -79,13 +79,13 @@ sub: Resumen OPE Enfermería SMS · Taxonomía (circunstancia de riesgo, cuasi-i
 - En el SMS, las **comisiones de humanización** están en las **9 áreas de salud** y son **mixtas** (atención primaria y hospitalaria).
 - **Malas noticias: EPICEE** (SPIKES, Baile y Buckman): **E**ntorno (lugar privado, sentados, sin interrupciones) → **P**ercepción («¿qué le han contado?») → **I**nvitación (cuánta información desea; derecho a no saber) → **C**onocimiento (dar la noticia con frase de aviso, sin tecnicismos) → **E**mpatía (validar emociones, silencios) → **E**strategia (resumen y plan).
 
-!! Cuasi-incidente = **no llega** al paciente; incidente sin daño = **llega sin daño**; evento adverso = **daño**.
-!! Centinela = **muerte o daño permanente** (lado equivocado, potasio en bolo, suicidio) → **ACR**.
+!! ==Cuasi-incidente = **no llega** al paciente; incidente sin daño = **llega sin daño**; evento adverso = **daño**.==
+!! ==Centinela = **muerte o daño permanente** (lado equivocado, potasio en bolo, suicidio) → **ACR**.==
 !! Identificación: **pregunta abierta** (nombre y fecha de nacimiento) + **pulsera**.
 !! Alto riesgo (K⁺, insulina, anticoagulantes, opioides, citostáticos) → **doble verificación**.
 !! SBAR/SAER: **S**ituación, **A**ntecedentes, **E**valuación, **R**ecomendación.
 !! Downton **> 2** y Morse **≥ 45** = alto riesgo de caídas; Braden **≤ 12** alto riesgo de UPP.
-!! **ACR retrospectivo**; **AMFE prospectivo**; Ishikawa = espina de pez.
+!! ==**ACR retrospectivo**; **AMFE prospectivo**; Ishikawa = espina de pez.==
 !! SiNASP: **voluntario, no punitivo, confidencial, anónimo**, aprendizaje local; **excluye dolo, sabotaje, abuso y alcohol o drogas**.
 !! SAC **1** = extremo → ACR; SAC **4** = bajo.
 !! Donabedian: **estructura** (ratio), **proceso** (cumplir la escala), **resultado** (UPP, caídas).

@@ -1,0 +1,272 @@
+{
+ "tema": 13,
+ "preguntas": [
+  {
+   "q": "Un grupo de investigadoras revisó la bibliografía para clarificar los atributos de la “fragilidad oral”, un término emergente empleado para referirse a los problemas bucales en el envejecimiento (Yang et al., 2023). ¿Cómo se denomina esa estrategia para clarificar el significado de fenómenos clínicos?:",
+   "o": [
+    "Teoría de rango medio.",
+    "Teoría fundamentada.",
+    "Análisis de concepto.",
+    "Derivación de teoría."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué tipo de entrevista grupal se refiere la técnica de recogida de datos en investigación cualitativa, en la que interesa más el punto de vista individual del discurso, es decir, se escucha en grupo, pero se habla como persona entrevistada singular?:",
+   "o": [
+    "Grupo focal.",
+    "Grupo de discusión.",
+    "Grupos triangulares.",
+    "Grupos circulares."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La fase conceptual del proceso de la investigación NO incluye:",
+   "o": [
+    "Formulación de la pregunta.",
+    "Construcción del marco teórico.",
+    "Análisis de datos obtenidos en el trabajo de campo.",
+    "Formulación de los objetivos de investigación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendido a la siguiente pregunta clínica estructurada en formato “PICO”: ¿Se deben recomendar los programas educativos estructurados dirigidos a personas con diabetes mellitus tipo 1 y a sus familiares?, identiﬁque cuál sería el componente clave INTERVENCIÓN:",
+   "o": [
+    "Programa estructurado.",
+    "Pacientes con diabetes mellitus tipo 1 y sus familiares.",
+    "Autocontrol de la enfermedad: alimentación, ejercicio físico, cuidado de los pies, abandono control de la glucemia; reducción de enfermedad cardiovascular; prevención/ reducción de visitas a urgencias, mejoría en calidad de vida, reducción de la mortalidad, reducción del hábito de fumar.",
+    "Cuidados habituales."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Si en la bibliografía de un artículo cientíﬁco encuentro: “Herrán Gascón, A., Cortina Selva, M. y González Sánchez, I. (2006). La muerte y su didáctica. Manual para educación infantil, primaria y secundaria. Madrid: Universitas. Podemos indicar que:",
+   "o": [
+    "Se está usando el estilo Vancouver.",
+    "Se está usando el estilo de la APA.",
+    "Se está usando la UNE-ISO 690.",
+    "No es una referencia bibliográfica, es una cita."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del objetivo estratégico Innovación y atención sanitaria 5P, de la Estrategia de Salud Digital del Ministerio de Sanidad del Gobierno de España, las 5P corresponden a:",
+   "o": [
+    "Preventiva, predictiva, personalizada, participativa y potenciadora.",
+    "Prevención, promoción, personalización, participación y profesionalización.",
+    "Poblacional, preventiva, predictiva, personalizada y participativa.",
+    "Población, participación, potenciación, personalización y planificación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el instrumento operativo que fomenta la promoción de la salud mediante la participación comunitaria y el trabajo intersectorial, según la Estrategia de Promoción de la Salud y Prevención en el Sistema Nacional de Salud (2013)?:",
+   "o": [
+    "El mapeo de activos en salud.",
+    "La mesa de participación comunitaria.",
+    "El plan de salud local.",
+    "El consejo local de salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El término \"enfermera sanitarista\" como una descripción de las enfermeras que trabajaban para promover la salud y prevenir enfermedades en grandes concentraciones de inmigrantes pobres a principios del siglo XX, se le atribuye a:",
+   "o": [
+    "Cicely Saunders.",
+    "Lillian Wald.",
+    "Cicely Williams.",
+    "Patricia Benner."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la definición de Investigación Participativa Basada en la Comunidad?:",
+   "o": [
+    "Proceso de investigación en el que se pretende analizar la realidad para mejorarla a través de un trabajo conjunto entre el grupo investigador y la comunidad.",
+    "Proceso de investigación realizado en una comunidad concreta a través de entrevistas.",
+    "Proceso de investigación donde la comunidad es quien define los objetivos y la metodología y realiza el desarrollo.",
+    "Proceso de investigación en el que el equipo investigador vive dentro de la comunidad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El Sentido de Coherencia (SOC) es un concepto central en el modelo salutogénico de Aaron Antonovsky. ¿Cuáles son sus tres componentes principales?:",
+   "o": [
+    "Manejabilidad, significatividad y adaptabilidad.",
+    "Comprensibilidad, aceptabilidad y manejabilidad.",
+    "Comprensibilidad, manejabilidad y significatividad.",
+    "Manejabilidad, flexibilidad y significatividad."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el Mapa de Activos de acción Comunitaria para ganar salud del Ministerio de Sanidad es correcto que: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 678",
+   "o": [
+    "Se desarrolla por medio de un proceso participativo entre las personas, asociaciones e instituciones de una comunidad.",
+    "Es un inventario de recursos de la comunidad para visibilizar, hacer accesible y ofrecer a la población los recursos locales que pueden mejorar su salud.",
+    "Es un bien o servicio que puede mejorar la salud o el bienestar de una persona o población (Mirada objetiva).",
+    "Es el recurso que es reconocido como favorable para mantener o mejorar la salud desde la perspectiva de las personas implicadas (Mirada subjetiva)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué es un activo para la salud en acción comunitaria?: 679 ENFERMERÍA COMUNITARIA",
+   "o": [
+    "Bien o servicio que puede mejorar la salud o el bienestar de una persona o población y cuyo inventario aporta información valiosa para estudiar su distribución por áreas e identificar focos de acción para un posterior desarrollo o potenciación de los mismos.",
+    "Recurso que es reconocido como favorable para mantener o mejorar la salud desde la perspectiva de las personas implicadas. Supone una mirada subjetiva.",
+    "Recurso que es reconocido como favorable para mantener o mejorar la salud desde la perspectiva y mirada objetiva de las personas implicadas.",
+    "Bien o servicio que puede mejorar la salud o el bienestar de una persona o población. Supone una mirada objetiva."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. El ciclo de la acción comunitaria es un esquema de actuación dividido en diferentes fases orientativas, ya que puede variar según las circunstancias de cada grupo de trabajo. ¿Con qué fase corresponde el número 3 de la imagen?:",
+   "o": [
+    "Explorar la comunidad.",
+    "Analizar y priorizar.",
+    "Actuar.",
+    "Evaluar."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t32-2023-2024-6.jpg"
+  },
+  {
+   "q": "Existen múltiples técnicas educativas para realizar Educación Para la Salud, entre ellas, la técnica de las 9 cuestiones, que se caracteriza por:",
+   "o": [
+    "Es una técnica de desarrollo de habilidades.",
+    "Se plantea la elaboración de un plan de acción comunitaria en grupos grandes.",
+    "Genera nuevas visiones, perspectivas y estrategias de afrontamiento de problemas.",
+    "Es una técnica de análisis a través de 9 preguntas: ¿qué?, ¿por qué?, ¿para qué?, ¿para quién?, ¿dónde?, ¿cómo?, ¿cuándo?, ¿con qué? y ¿cuánto?"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifique la opción INCORRECTA con respecto a los apartados explícitos propuestos para incluir en el diseño de estrategias de salud comunitaria según las últimas recomendaciones:",
+   "o": [
+    "Presupuesto específico.",
+    "Objetivos.",
+    "Líneas de acción.",
+    "Evaluación del diseño por un comité de expertos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A qué se refiere un “recurso reconocido como favorable para mantener o mejorar la salud desde la perspectiva de las personas implicadas”:",
+   "o": [
+    "Activo.",
+    "Recurso.",
+    "Proceso de empoderamiento.",
+    "Producto saludable."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Son todos pilares de la acción comunitaria, SALVO:",
+   "o": [
+    "Análisis de la situación.",
+    "Participación.",
+    "Procesos relacionales.",
+    "Claves de resultado."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las redes comunitarias, señale la INCORRECTA:",
+   "o": [
+    "Las redes comunitarias son estructuras de colaboración para gestionar un bien o problema común.",
+    "La fortaleza de las redes comunitarias reside en su inclusividad (diversidad de sectores, profesiones y grupos sociales) y su flexibilidad (diversas opciones de implicación que puedan cambiar con el tiempo).",
+    "El trabajo coordinado resulta fundamental para poner en marcha acciones en las redes comunitarias.",
+    "La evaluación de la puesta en marcha de acciones por una red comunitaria se realizará tras la finalización de las acciones y tendrá en cuenta principalmente su efectividad."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el modelo de activos para la salud en Atención Primaria de Salud, indique la respuesta INCORRECTA:",
+   "o": [
+    "El enfoque de activos se basa en la teoría de la salutogénesis desarrollada por Antonovsky basada en el modelo factorial denominado “sentido de la coherencia”.",
+    "El modelo de activos aporta claves fundamentales para abordar la promoción de la salud a nivel comunitario, y proporciona herramientas para trabajar desde diferentes niveles en Atención Primaria.",
+    "Se define activo de salud como cualquier factor o recurso que identifican profesionales sanitarios como potenciadores de la capacidad de individuos, comunidades y poblaciones para mantener la salud y el bienestar.",
+    "El modelo de activos para la salud supone una revitalización de las intervenciones de promoción de la salud y de salud comunitaria en términos de intersectorialidad, salud positiva, participación, equidad y orientación a los determinantes de la salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el modelo de la promoción de salud basada en activos, señale la afirmación INCORRECTA:",
+   "o": [
+    "El modelo de activos para la salud supone una revitalización de las intervenciones de promoción de la salud y de salud comunitaria en términos de intersectorialidad, salud positiva, participación, equidad y orientación a los determinantes de la salud.",
+    "Un activo de salud es cualquier factor (o recurso) que mejora la capacidad de las personas, grupos, comunidades, poblaciones, sistemas sociales e instituciones para mantener y sostener la salud y el bienestar.",
+    "En el modelo de activos, la capacidad, la habilidad y el talento de los individuos, las familias y las comunidades, buscan soluciones en los recursos profesiones para resolver los retos del ambiente.",
+    "Se define mapa de activos como un inventario dinámico de las fortalezas y capacidades de las personas que forma una comunidad, antes de prevenir."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué nivel de orientación comunitaria pertenece la acción: “Regular, mediante normativa, los espacios formales de participación como los Consejos de Salud o las Comisiones de Salud Comunitaria”?:",
+   "o": [
+    "Nivel 1.",
+    "Nivel 2.",
+    "Nivel 3.",
+    "Nivel 4."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según los niveles de Salud Comunitaria en Atención Primaria, ¿con cuál de las siguientes afirmaciones se corresponde el nivel 2?:",
+   "o": [
+    "Nivel individual y familiar, pasando consulta mirando a la calle.",
+    "Nivel colectivo: acción comunitaria en salud, \"el centro de salud no es el único centro de salud\".",
+    "Nivel grupal: educación para la salud grupal trabajando sobre las causas de las causas.",
+    "Nivel colectivo y familiar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué año se llevó a cabo, en Astaná, la Conferencia Mundial sobre Atención Primaria de Salud “Desde Alma-Ata hacia la cobertura sanitaria universal y los Objetivos de Desarrollo Sostenible”?:",
+   "o": [
+    "1978.",
+    "2000.",
+    "2010.",
+    "2018."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la soledad como problema de salud, señale la respuesta INCORRECTA:",
+   "o": [
+    "La soledad no deseada es la carencia de redes sociales satisfactorias en el entorno próximo (Weiss, 1973).",
+    "La sensación de soledad se puede medir con la escala de soledad de UCLA.",
+    "Se relaciona con una mayor morbimortalidad.",
+    "No se aborda en el Marco Estratégico para la Atención Primaria y Comunitaria de 2019."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

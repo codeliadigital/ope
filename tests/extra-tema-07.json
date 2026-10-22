@@ -1,0 +1,395 @@
+{
+ "tema": 7,
+ "preguntas": [
+  {
+   "q": "En un ensayo clínico, la técnica de enmascaramiento que consiste en que los participantes no sepan a qué grupo están asignados (intervención vs práctica habitual), se denomina:",
+   "o": [
+    "Simple ciego.",
+    "Ciego único.",
+    "Doble ciego.",
+    "Triple ciego"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué es el protocolo de un ensayo clínico?:",
+   "o": [
+    "El documento donde se recopilan datos clínicos y no clínicos sobre el medicamento bajo investigación.",
+    "El documento donde se detallan los derechos, la seguridad y el bienestar de los sujetos del ensayo clínico, así como la fiabilidad y solidez de los datos obtenidos.",
+    "El documento donde se describen los objetivos, el diseño, la metodología, las consideraciones estadísticas y la organización del ensayo clínico.",
+    "La base de datos cuyo objetivo es servir de fuente de información en materia de estudios clínicos a los investigadores."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La fase metodológica del proceso de la investigación NO incluye:",
+   "o": [
+    "Población de estudio.",
+    "Selección de variables.",
+    "Elección del diseño de investigación.",
+    "Planteamiento de objetivos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una revisión sistemática analiza el resultado de un programa experimental enfermero (intervención experimental) y lo compara con el resultado de la intervención enfermera que se utiliza habitualmente (intervención control). El resultado del metaanálisis está recogido en la Imagen 8. Según ese resultado, ¿qué afirmación es correcta?:",
+   "o": [
+    "El resultado está a favor de la intervención experimental.",
+    "El resultado está a favor de la intervención control.",
+    "No existe diferencia entre las dos intervenciones que se analizan.",
+    "El resultado parece estar a favor de la intervención"
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t04-2025-2026-8.jpg"
+  },
+  {
+   "q": "En un metaanálisis, ¿con qué medida se evalúa la heterogeneidad entre los estudios incluidos?:",
+   "o": [
+    "Prueba de log-rank.",
+    "Estadístico I2.",
+    "Coeficiente de Pearson.",
+    "Odds ratio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué guía utilizaría para revisar los puntos esenciales que deben describirse en la publicación de un estudio de cohortes?:",
+   "o": [
+    "SRQR.",
+    "STARD.",
+    "STROBE.",
+    "SQUIRE."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué guía utilizarías para revisar los puntos esenciales que deben describirse en la elaboración de un protocolo de un ensayo clínico?:",
+   "o": [
+    "SPIRIT.",
+    "STARD.",
+    "SQUIRE.",
+    "CONSORT."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de presentar un trabajo de investigación, nos indican que la bibliográﬁca se tiene que presentar en estilo APA 7ª ed. Identiﬁque cuál de las siguientes opciones sería la correcta:",
+   "o": [
+    "Dawes J, Rowley J. Enhancing the customer experience: contributions from information technology, J Business Res. 2005; 36(5): 350-7.",
+    "Bravo, E., Barco, R. y Bullón, A. (2010). Anatomic study of the abductor pollicis longus: A source for grafting material of the hand. Clinical Orthopaedics and Related Research, 468(5), 1305-1309.",
+    "Estévez, Federico, Eric Magar y Guillermo Rosas. 2008. “Partisanship in nonpartisan electoral agencies and democratic compliance: Evidence from Mexico's Federal Electoral Institute”. Electoral Studies 27 (junio): 257-71.",
+    "S.-Y. Chung, “Multi-level dirty paper coding”, IEEE Communication Letters, vol. 12, no. 6, pp. 456-458, June 2008."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando se dice que un estudio de investigación tiene validez interna, se reﬁere a que tiene:",
+   "o": [
+    "Pertinencia clínica.",
+    "Aplicabilidad.",
+    "Calidad metodológica.",
+    "Pocos sesgos de confusión."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Usted, como miembro de un equipo investigador que ha llevado a cabo un ensayo clínico aleatorizado, es responsable de revisar si el artículo que se encuentran preparando para solicitar publicar en una revista cientíﬁca cumple los estándares exigidos para su comunicación. ¿Qué lista de comprobación utilizaría?:",
+   "o": [
+    "COREQ.",
+    "2STROBE.",
+    "3CONSORT.",
+    "PRISMA."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la lectura crítica de un ensayo clínico aleatorizado, NO es un aspecto a evaluar:",
+   "o": [
+    "Ocultación de la secuencia de aleatorización.",
+    "Selección aleatoria de la muestra de sujetos de ensayo.",
+    "Cegamiento.",
+    "Pérdidas en el seguimiento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el análisis de las propiedades de medición de un instrumento, ¿a qué se refiere la consistencia interna?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 74",
+   "o": [
+    "Al grado en que el contenido de un instrumento es un reflejo adecuado del constructo que se va a medir.",
+    "Al grado de interrelación entre los elementos del instrumento.",
+    "Al grado en que las puntuaciones de un instrumento son un reflejo adecuado del “estándar de oro”.",
+    "El grado en que las puntuaciones de un instrumento no cambian para mediciones repetidas por varios evaluadores."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En una prueba de cribado, la proporción de verdaderos positivos entre los identificados como positivos, se denomina:",
+   "o": [
+    "Prevalencia.",
+    "Especificidad.",
+    "Sensibilidad.",
+    "Valor predictivo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante las olas de la pandemia por COVID-19, en relación con las pruebas diagnósticas, ¿qué aspecto de los siguientes se verá principalmente inﬂuido por la situación?:",
+   "o": [
+    "La sensibilidad.",
+    "La especificidad.",
+    "Los valores predictivos.",
+    "La fiabilidad."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al análisis de las curvas ROC de las pruebas diagnósticas, ¿qué aﬁrmación de las siguientes es FALSA?:",
+   "o": [
+    "El eje X representa los resultados falsos positivos.",
+    "El eje Y representa la sensibilidad.",
+    "Una prueba con una discriminación perfecta sanos-enfermos dará lugar a una recta en diagonal de 45º.",
+    "Permiten elegir el punto de corte apropiado para considerar resultados positivos y negativos de una prueba."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Se dice que un cuestionario es ﬁable cuando:",
+   "o": [
+    "Cuando mide lo que quiere medir.",
+    "Si contempla todos los aspectos relacionados con el concepto de estudio.",
+    "Se obtienen resultados consistentes cuando se aplica en diferentes ocasiones.",
+    "Tiene validez de criterio."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Las técnicas de prevención de riesgos laborales son:",
+   "o": [
+    "Higiene en el trabajo, Ergonomía y Psicosociología, Seguridad aplicada y Medicina del Trabajo.",
+    "Seguridad industrial, Ergonomía y Psicosociología aplicada, Medicina del trabajo e Higiene en el trabajo.",
+    "Seguridad en el trabajo, Higiene industrial, Ergonomía y Psicosociología aplicada y Medicina del Trabajo.",
+    "Higiene industrial, Medicina del trabajo, Ergonomía y Seguridad aplicada y Psicosociología en el trabajo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Frente a qué tipo de incendios estaría indicado un extintor de clase B?:",
+   "o": [
+    "Incendios provocados por líquidos inflamables.",
+    "Incendios provocados por equipos eléctricos.",
+    "Incendios provocados por materiales sólidos.",
+    "Incendios provocados por metales combustibles."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Todo centro o servicio que utilice material sanitario cortopunzante:",
+   "o": [
+    "Dispondrá de Plan de Prevención de heridas ocasionadas a profesionales y usuarios.",
+    "Dispondrá de Plan de Prevención de heridas sea cual sea su naturaleza u origen.",
+    "Dispondrá de Plan de Prevención de heridas ocasionadas a los profesionales.",
+    "Podrá disponer de Plan de Prevención de heridas ocasionadas a los profesionales."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, señale la respuesta INCORRECTA acerca de las competencias y facultades de los Delegados de Prevención de Riesgos Laborales:",
+   "o": [
+    "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la presente Ley.",
+    "Ejercer una labor de vigilancia y control sobre el incumplimiento de la normativa de prevención de riesgos laborales.",
+    "Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales.",
+    "Colaborar con la dirección de la empresa en la mejora de la acción preventiva."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el extintor apropiado para uso en incendios en los que están implicados equipos eléctricos:",
+   "o": [
+    "Tipo A.",
+    "Tipo B.",
+    "Tipo C.",
+    "Tipo D."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Imagen 7 contiene el registro de una audiometría tonal. Siguiendo la clasificación de la Guía de práctica clínica de audiometría tonal por vía aérea y ósea con y sin enmascaramiento. ¿Con qué se corresponde?:",
+   "o": [
+    "Con una audiometría normal.",
+    "Con una hipoacusia leve.",
+    "Con una hipoacusia moderada.",
+    "Con una hipoacusia severa."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t29-2025-2026-7.jpg"
+  },
+  {
+   "q": "En el contexto de la actividad asistencial que implica el uso habitual de equipos informáticos para el registro de la actividad clínica, ¿cuál es la distancia mínima recomendada entre los ojos y la pantalla para prevenir riesgos visuales y posturales?:",
+   "o": [
+    "350 mm para tareas habituales.",
+    "450 mm para tareas habituales.",
+    "500 mm en pantallas táctiles.",
+    "600 mm."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según se determina en el Protocolo de Vigilancia Sanitaria Específica para los trabajadores expuestos a Dermatosis Laborales, la dermatosis de contacto provocada por la utilización de guantes de látex:",
+   "o": [
+    "Es de estadio II si provoca una urticaria localizada en la zona de contacto.",
+    "Es de estadio II si provoca una urticaria generalizada y asma.",
+    "Es de estadio II si provoca una urticaria generalizada y una reacción anafiláctica.",
+    "Es de estadio II si provoca una urticaria local y generalizada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. ¿Dónde depositaría el residuo sanitario que aparece en la imagen si está claramente manchado de fluidos buconasales?",
+   "o": [
+    "Debe recogerse en un contenedor de color negro.",
+    "Debe recogerse en un contenedor de color amarillo.",
+    "Debe recogerse en un contenedor de color azul.",
+    "Debe recogerse en un contenedor de color rojo."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t29-2024-2025-5.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Teniendo en cuenta el dispositivo de la imagen, indique la opción INCORRECTA:",
+   "o": [
+    "Se trata de un dosímetro tipo pulsera que contiene una lámina con cuatro detectores termoluminiscentes.",
+    "Su esterilización no requiere procesos de temperaturas superiores a 80˚C.",
+    "Su recambio se realizará semanalmente.",
+    "Si es necesaria la utilización de guantes, el dosímetro de muñeca debe colocarse por debajo de éstos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la OMS, ¿qué nivel máximo de intensidad acústica debería haber en los hospitales?:",
+   "o": [
+    "15 decibelios.",
+    "35 decibelios.",
+    "50 decibelios.",
+    "65 decibelios."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía Técnica del Instituto de Seguridad y Salud en el Trabajo para la evaluación y prevención de riesgos laborales relativos al uso de equipos con pantallas de visualización de datos, la colocación de la pantalla en ningún caso debe estar a menos de:",
+   "o": [
+    "300mm.",
+    "350mm.",
+    "400mm.",
+    "500mm."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme al Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, aquel agente biológico que resulta poco probable que cause una enfermedad en el hombre, se clasifica como:",
+   "o": [
+    "Agente Biológico del grupo 1.",
+    "Agente Biológico del grupo 2. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 626",
+    "Agente Biológico del grupo 3.",
+    "Agente Biológico del grupo 4."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. La señal en forma de panel de la imagen, en un lugar de trabajo, advierte sobre un riesgo o peligro por:",
+   "o": [
+    "Materias radiactivas.",
+    "Radiaciones ionizantes.",
+    "Riesgo biológico.",
+    "Radiación atómica."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t29-2022-2023-9.jpg"
+  },
+  {
+   "q": "Según el Reglamento sobre protección sanitaria contra radiaciones ionizantes, el límite de dosis efectiva para los trabajadores expuestos será:",
+   "o": [
+    "De 50 mSv durante todo período de cuatro años oficiales consecutivos, sujeto a una dosis efectiva máxima de 25 mSv en cualquier año oficial.",
+    "De 100 mSv durante todo período de dos años oficiales consecutivos, sujeto a una dosis efectiva máxima de 50 mSv en cualquier año oficial.",
+    "De 100 mSv durante todo período de cinco años oficiales consecutivos, sujeto a una dosis efectiva máxima de 50 mSv en cualquier año oficial.",
+    "De 50 mSv durante todo período de cinco años oficiales consecutivos, sujeto a una dosis efectiva máxima de 10 mSv en cualquier año oficial."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "De acuerdo con el Reglamento sobre protección sanitaria contra radiaciones ionizantes, en función del riesgo de exposición y teniendo en cuenta la probabilidad y magnitud de las exposiciones potenciales, el titular de la práctica clasificará los lugares de trabajo en las siguientes zonas:",
+   "o": [
+    "Zona controlada y zona vigilada.",
+    "Zona controlada y zona de alto riesgo.",
+    "Zona vigilada y zona de riesgo.",
+    "Zona de control y zona de público general."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme a lo dispuesto en el Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, el Coronavirus del síndrome respiratorio agudo grave 2 (SARS-CoV-2), es considerado:",
+   "o": [
+    "Agente Biológico del grupo 1.",
+    "Agente Biológico del grupo 2.",
+    "Agente Biológico del grupo 3.",
+    "Agente Biológico del grupo 4."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la OMS, para que un edificio sea considerado como “enfermo”, ¿qué porcentaje mínimo de sus ocupantes deben tener algún tipo de afectación asociada a su construcción?:",
+   "o": [
+    "20 %.",
+    "15 %.",
+    "12 %.",
+    "5 %."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el RD 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social y se establecen criterios para su notificación y registro, ¿a qué grupo pertenecen las enfermedades profesionales causadas por agentes carcinógenos?:",
+   "o": [
+    "Grupo 3.",
+    "Grupo 4.",
+    "Grupo 5.",
+    "Grupo 6."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

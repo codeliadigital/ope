@@ -1,0 +1,516 @@
+{
+ "id": "eir-25",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 25,
+ "titulo": "EIR · Endocrinología",
+ "explicadas": false,
+ "descripcion": "46 preguntas de los exámenes EIR de 2018 a 2025 sobre endocrinología, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Durante una intervención en el domicilio de un paciente adulto con diabetes, el equipo de urgencias extrahospitalarias comprueba que el paciente está consciente, colaborador y capaz de deglutir, presentando una glucemia capilar de 65 mg/dl. ¿Cuál es el protocolo de actuación inmediata recomendado para corregir esta hipoglucemia de Nivel I en este entorno extrahospitalario?:",
+   "o": [
+    "Administrar 1 mg de Glucagón por vía intramuscular, ya que su uso es seguro y universal en el entorno extrahospitalario.",
+    "Iniciar una perfusión de Glucosa al 50% por vía intravenosa, ya que en el entorno hospitalario siempre se prefiere la vía parenteral.",
+    "Administrar 15−20 g de carbohidratos de acción rápida por vía oral (ej. tabletas de glucosa o zumo) y reevaluar la glucemia a los 15 minutos, repitiendo la ingesta si es necesario.",
+    "Administrar una comida completa que incluya carbohidratos de absorción lenta y proteínas para prevenir la recurrencia a largo plazo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes criterios permite establecer el diagnóstico de diabetes mellitus por sí solo?:",
+   "o": [
+    "Glucemia ≥ 200 mg/dl en cualquier momento del día acompañada de síntomas clínicos.",
+    "Glucemia basal en ayunas >126 mg/dl, detectada en una ocasión.",
+    "Glucemia > 200 mg/dl a las 2 horas de una sobrecarga oral de glucosa.",
+    "Hemoglobina glicosilada (HbA1c) > 6,5%."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes signos y síntomas identifica cual NO es una característica típica del Síndrome Hiperosmolar Hiperglucémico:",
+   "o": [
+    "Aumento de la sed.",
+    "Aumento de la diuresis.",
+    "Taquicardia.",
+    "Hipertensión."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En caso de hipoglucemia en un paciente diabético adulto inconsciente, respecto al uso de glucagón, indique la opción INCORRECTA:",
+   "o": [
+    "El glucagón es una hormona producida por las células Beta del páncreas que estimula al hígado a liberar glucógeno, la glucosa que está almacenada.",
+    "La duración de la acción de 1 mg de glucagón es breve. Se inicia pasados los 5 minutos y dura menos de 30 minutos.",
+    "Algunas personas podrán experimentar náuseas después de la administración del glucagón.",
+    "Después de la administración de glucagón, cuando el paciente recupere la consciencia, se le debe dar una fuente concentrada de hidratos de carbono seguida por un refrigerio, a fin de prevenir la recurrencia de la hipoglucemia y para reponer la reserva hepática de glucosa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale un objetivo específico a considerar en los programas educativos estructurados de las personas con diabetes tipo 1, antes del inicio de un sistema de infusión de insulina:",
+   "o": [
+    "Las personas con diabetes, familiares y/o cuidadores deberán ser capaces de identificar el impacto en el nivel de glucosa posprandial de las comidas con alto contenido de grasa y proteína.",
+    "Las personas con diabetes deben comer sano.",
+    "Las personas con diabetes, familiares y/o cuidadores deben administrar insulina antes de las ingestas.",
+    "Las personas con diabetes no deben consumir alcohol ni bebidas azucaradas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta acerca de la hipoglucemia:",
+   "o": [
+    "La hipoglucemia nivel 3 es un episodio grave caracterizado por la alteración del estado mental y/o físico que precisa ayuda para el tratamiento, independientemente del valor de glucemia capilar.",
+    "La hipoglucemia nivel 3 es un episodio donde los valores de glucemia alcanzados serán inferiores a 54 mg/dl.",
+    "La hipoglucemia nivel 3 es un episodio en el que los valores de glucemia se sitúan entre 54 y 69 mg/dl.",
+    "La hipoglucemia nivel 3 es un episodio en el que los valores de glucemia alcanzados son de entre 69 y 80 mg/dl."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación a la Diabetes tipo 1 infantil y/o del adolescente:",
+   "o": [
+    "El control de la tensión arterial en diabetes tipo 1 infantil y/o del adolescente debe realizarse en cada visita.",
+    "El control de la dislipemia en diabetes tipo 1 infantil y/o del adolescente, debe realizarse anualmente (inicialmente se acepta, aunque no haya ayunas).",
+    "El control de neuropatía (pulsos en pies, pinprick, monofilamento 10 mg, vibración y reflejos de tobillos) debe realizarse cuando se realice la transición a un servicio de adultos.",
+    "El control de la retinopatía en diabetes tipo 1 infantil y/o adolescente debe realizarse cada año."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique en qué momento tiene su pico de acción la insulina Glargina:",
+   "o": [
+    "20-30 minutos.",
+    "1-3 horas.",
+    "4-5 horas.",
+    "No tiene pico de acción."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Diabetes, encontramos dentro de las recomendaciones del calzado para el paciente diabético:",
+   "o": [
+    "Se debe comprobar el ajuste del calzado con el paciente sentado, preferiblemente al final del día.",
+    "La parte interna del zapato debe ser 1-2 mm más larga que el pie.",
+    "El calzado inadecuado es una de las causas principales de ulceración.",
+    "A los pacientes con pérdida de sensibilidad en el pie tras la realización de exploración con el monofilamento de semmes-weinstein, se le recomendará andar descalzos en casa para mejorar la sensibilidad que el calzado inhibe."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina a la respuesta hiperglucémica causada por un rebote de la hipoglucemia a última hora de la noche o primera de la mañana por una respuesta contrarreguladora exagerada en niños con DMT1 (Diabetes mellitus Tipo 1) ?:",
+   "o": [
+    "Fenómeno del Alba.",
+    "Fenómeno de MODY.",
+    "Fenómeno de Somogyi.",
+    "Fenómeno o síndrome metabólico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta con relación a la educación diabetológica (tipo I) que le haría a una niña de 5 años y a sus padres: TIPOS DE INSULINA Y SUS CARACTERÍSTICAS PRINCIPALES Tipo de insulina Vía de administración Inicio de acción Pico de acción Duración de acción Comentario Ultra-rápida (Lispro, aspart, glulisina) Intravenosa Subcutánea 5 min. 15 min. 30 min. 90 min. 4-6 h Uso prandial. Pueden administrarse justo antes, durante o después de la ingesta. Rápida, regular o cristalina Intravenosa Intramuscular Subcutánea, intraperitoneal <1 min. 5 min. 20-60 min. 1-3 min. 30-60 min. 1-3h. 5 min. 60-90 min. 6-8h. Uso prandial. Tiene mayor riesgo de hipoglucemia postprandial Intermedia o semilenta Subcutánea NPH: 2-4h. NPL: 1.5h. 4-8h. 12-20h. Utilizadas para el tratamiento basal. Lenta, prolongada o retardada Subcutánea Glargina U-100: 3-4h. Detemir: 2-4h. NO 20-24h. 12-20h. Tratamiento basal. No se deben mezclar con insulinas ultra-rápidas, aunque pueden ponerse simultáneamente. ULTRA-LENTAS: Degludec Glargina U-300 >42h. Bifásica, premezclada o mixta Subcutánea Dependerá de la proporción de insulinas utilizada. Combina insulina rápida o ultrarrápida + intermedia a dosis fijas. 565 ENDOCRINOLOGÍA",
+   "o": [
+    "Seguir una dieta ligeramente baja en hidratos de carbono compensada con aporte de proteínas de elevado valor biológico.",
+    "La ingesta de una comida especialmente grasosa eleva el índice glucémico.",
+    "Seguir una dieta de estilo mediterráneo, en la que el aporte calórico en forma de proteínas suponga el 30-35 %.",
+    "Con el pan congelado y tostado o los macarrones al dente se consigue un índice glucémico más bajo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según los criterios diagnósticos de la American Diabetes Association (ADA), ¿cuál de las siguientes respuestas es correcta con relación al diagnóstico de Diabetes Mellitus de una mujer de 65 años, incluida en el programa de obesidad, a la que se realiza una glucemia plasmática y que no presenta ningún tipo de sintomatología asociada?:",
+   "o": [
+    "La paciente no está en ayunas (>8 horas), y muestra una glucemia plasmática por encima de 200 mg/dl revelando por tanto un diagnóstico de diabetes mellitus.",
+    "No es recomendable realizar ningún cribado diagnóstico de diabetes mellitus si la paciente no está en ayunas.",
+    "Si decidimos citar a la paciente al día siguiente, con al menos 8 horas de ayuno, y obtenemos una glucemia plasmática igual a 125 mg/dl, sería un diagnóstico definitivo de diabetes mellitus.",
+    "Si decidimos realizar una analítica al día siguiente, con al menos 8 horas de ayuno, y obtenemos una hemoglobina glicosilada igual a 6,7 %, se necesitará realizar una segunda determinación para confirmar el diagnóstico."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones es INCORRECTA al realizar una primera entrevista a un paciente varón tras haber sido diagnosticado de diabetes mellitus tipo I?:",
+   "o": [
+    "Cuando se administran de modo simultáneo insulinas de acción rápida, con insulinas de acción prolongada, se pueden mezclar en la misma jeringuilla.",
+    "Es necesario inyectar aire dentro del frasco de insulina, en cantidad equivalente al número de unidades de insulina a extraer, para prevenir la formación de un vacío dentro del frasco, lo que dificultará la extracción de la cantidad apropiada de insulina.",
+    "La insulina se absorbe con mayor rapidez en algunas zonas del cuerpo que en otras debido a la irrigación sanguínea. El ritmo de absorción es máximo en el muslo y disminuye de manera progresiva en el abdomen, la cadera y el brazo, respectivamente. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 566",
+    "No se recomienda usar alcohol para limpiar la piel en el lugar de la inyección. Si se usa y no se deja secar la piel antes de la inyección, puede introducirse el alcohol en los tejidos, con el resultado de un eritema localizado y una sensación de ardor."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con el Índice de Masa Corporal (IMC), el perímetro de cintura y el riesgo de desarrollo de Diabetes Mellitus 2 (DM2), según los criterios de la European Association for the Study of Diabetes (ESAD):",
+   "o": [
+    "En grupos con IMC similar y relativamente bajo, un perímetro de cintura en hombres mayor de 94 cm y 80 cm en mujeres indica acumulación de grasa ectópica y riesgo de DM2.",
+    "En grupos con IMC similar y relativamente bajo, un perímetro de cintura en hombres mayor de 80 cm y 94 cm en mujeres indica acumulación de grasa ectópica y riesgo de DM2.",
+    "En grupos con IMC diferente y relativamente bajo, un perímetro de cintura en hombres mayor de 49 cm y 79 cm en mujeres indica acumulación de grasa ectópica y riesgo de DM2.",
+    "En grupos con IMC similar y relativamente alto, un perímetro de cintura en hombres mayor de 79 cm y 60 cm en mujeres indica acumulación de grasa ectópica y riesgo de DM2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta sobre el manejo de las hipoglucemias verificadas en sangre capilar en población infantil y adolescente:",
+   "o": [
+    "Si el paciente está consciente, administrar 15 g de hidrato de carbono rápido siempre.",
+    "Si el paciente está consciente, administrar 15 g de hidrato de carbono rápido si el peso es igual o superior a 50 kg.",
+    "Si el paciente está consciente, administrar 15 g de hidrato de carbono lento.",
+    "Si el paciente está consciente, administrar 15 g de hidrato de carbono lento si el peso es igual o superior a 50 kg."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con el uso de dietas extremadamente bajas en hidratos de carbono (dietas cetogénicas):",
+   "o": [
+    "No se recomiendan en el control de la Diabetes Mellitus 2 debido a la falta de beneficios en la prevención de la enfermedad y por conllevar problemas de seguridad. 567 ENDOCRINOLOGÍA",
+    "Han sido asociadas con un descenso del colesterol LDL e hipoglucemias.",
+    "Estas dietas son fáciles de seguir y hay evidencia que demuestra su seguridad.",
+    "La evidencia de estudios observacionales a largo plazo en la población general, indica que las ingestas bajas (< 40 % de energía total) y altas (> 70 % de energía total) de carbohidratos están asociadas con una menor mortalidad prematura."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta ante un paciente musulmán con diabetes tipo 1 que quiere ayunar durante el Ramadán:",
+   "o": [
+    "Debe suspender el ayuno si presenta una glucemia superior a 300 mg/dl.",
+    "Debe suspender el ayuno si presenta una glucemia inferior a 80 mg/dl.",
+    "No se aconseja la monitorización de la glucemia durante las horas de ayuno.",
+    "Incluirá durante las comidas nocturnas alimentos ricos en azúcares refinados con el fin de disponer de reserva glucémica para el ayuno diurno."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con la nutrición en pacientes con Diabetes Mellitus 2 (DM2):",
+   "o": [
+    "Una ingesta de proteínas superior al 20 % respecto a la energía total durante períodos prolongados en personas con DM2 no se recomienda, a menos que siga una dieta baja en energía.",
+    "Una ingesta de proteínas elevada en personas con DM2 indica ventajas mínimas en el peso, presión arterial sistólica y diastólica y glucosa en ayunas.",
+    "La función renal se vio afectada negativamente en estudios de hasta 2 años posteriores al aumento de la ingesta de proteínas en adultos con diabetes tipo 2 y función de moderada a normal (TFGe > 60 ml/min por 1,73 m2).",
+    "Las dietas para bajar de peso con bajo contenido de energía se han estudiado ampliamente y las dietas altas en proteínas no se recomiendan para bajar de peso ni para la pérdida de masa muscular en pacientes con DM2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La educación terapéutica en diabetes está asociada a:",
+   "o": [
+    "La consecución de un tiempo por encima de objetivo (nivel 1) menor a 15 horas, en períodos de 14 días, en personas portadoras de sistemas de monitorización continua y/o intermitente.",
+    "Comportamientos de afrontamiento positivo.",
+    "La consecución de un tiempo por debajo de objetivo (nivel 1) inferior a 10 horas, en períodos de 14 días, en personas portadoras de sistemas de monitorización continua y/o intermitente.",
+    "No empeoramiento del riesgo de mortalidad por cualquier causa."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con los programas educativos y de apoyo a las personas con diabetes tipo 2:",
+   "o": [
+    "El modelo paternalista presenta una mayor aceptación por parte de las personas con diabetes, familiares y/o cuidadores frente a un modelo de empoderamiento.",
+    "Las actividades formativas en cantidad total superior a 10 horas, se asocian con disminuciones estadísticamente significativas de la hemoglobina glicosilada.",
+    "Los métodos de educación y apoyo administrados por un solo educador logran menores reducciones de hemoglobina glicosilada.",
+    "La implicación clínica del impacto favorable de la educación y apoyo a las personas con diabetes en la reducción del control glucémico, no resulta de vital importancia por no ser este uno de los predictores de progresión de enfermedad y desarrollo de complicaciones vasculares."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta:",
+   "o": [
+    "Los trastornos del sueño son comunes en las personas con diabetes tipo 2 y causan alteraciones en la cantidad, la calidad y el momento del sueño asociándose con un mayor riesgo de obesidad y alteraciones en el funcionamiento diurno y el metabolismo de la glucosa.",
+    "La apnea obstructiva del sueño afecta a menos de la mitad de las personas con diabetes tipo 2 y su gravedad no está asociada con los niveles de glucosa en sangre. 569 ENDOCRINOLOGÍA",
+    "Las duraciones de sueño largas (> 8 h) no tienen impactos negativos sobre la diabetes.",
+    "El sueño de \"recuperación\" del fin de semana por sí solo es suficiente para revertir el impacto del sueño insuficiente en personas con diabetes tipo 2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación al manejo de eventos hipoglucémicos en personas con diabetes, usuarias de sistemas automáticos de administración de insulina:",
+   "o": [
+    "Necesitan un menor consumo de hidratos de carbono para volver a la euglucemia.",
+    "Necesitan mayor consumo de carbohidratos para recuperar la situación glucémica.",
+    "Necesitan aplicar la regla del 15.",
+    "Los eventos de hipoglucemia desaparecen."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la afirmación correcta acerca de la retinopatía diabética:",
+   "o": [
+    "Es la primera causa de ceguera en las personas mayores de 75 años y se asocia principalmente a diabetes de tipo I.",
+    "La causa más frecuente de disminución visual en la retinopatía diabética no proliferativa es el edema a nivel del disco óptico.",
+    "La neovascularización retiniana es la causa principal de la disminución visual en la retinopatía diabética no proliferativa.",
+    "En la retinopatía diabética proliferativa juega un papel importante el factor de crecimiento del endotelio vascular."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Los objetivos de control metabólico en rango (TIR) en la mujer con diabetes mellitus tipo 1 preconcepcional, usuaria de sistema de monitorización flash y monitorización continua de glucemia son: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 570",
+   "o": [
+    "Tiempo en rango (63-140 mg/dl) más del 70 %.",
+    "Tiempo en rango (63-140 mg/dl) al menos un 5 %.",
+    "Tiempo en rango (70-95 mg/dl) más del 70 %.",
+    "Tiempo en rango (70-95 mg/dl) al menos un 5 %."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una persona con diabetes con riesgo moderado de hipoglucemia y hábito deportivo moderado que hubiera practicado ejercicio a última hora de la tarde presentando una flecha de tendencia estable en un monitor de glucemia intersticial:",
+   "o": [
+    "No se le recomienda ningún aporte de hidrato de carbono.",
+    "Se le recomienda un aporte de 10 g de hidrato de carbono.",
+    "Se le recomienda un aporte de 15 g de hidrato de carbono.",
+    "Depende de la cantidad de insulina activa."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con el uso de agujas en administración subcutánea de insulina:",
+   "o": [
+    "La aguja de 4 mm es la recomendada para la administración subcutánea con poco riesgo de administración intramuscular o intradérmica. Es considerada la más segura para adultos y niños.",
+    "La aguja de 4 mm no está recomendada para pacientes obesos.",
+    "La aguja de 4 mm no debe insertarse a 90 grados.",
+    "La aguja de 4 mm en menores de 6 años y adultos muy delgados no precisa pellizco."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes se refiere a la diabetes tipo LADA?:",
+   "o": [
+    "No suele presentar síntomas agudos de debut y su evolución es progresiva, lenta, leve o asintomática.",
+    "Es una variante de la diabetes tipo 2, aunque requiere uso de insulina desde el momento de su diagnóstico.",
+    "Es un tipo de diabetes en el que se presenta destrucción inmunológica de células beta pancreáticas en personas adultas, frente a la diabetes tipo 1, que se presenta en jóvenes.",
+    "Es una forma de diabetes debida a un defecto primario en la secreción de insulina con secreción inadecuada para los valores de glucemia, sin alteraciones de la acción de la insulina."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En una persona con diabetes tipo 1 se aconseja la determinación de cuerpos cetónicos cuando el valor de la glucemia capilar es igual o superior de forma mantenida a:",
+   "o": [
+    "175 mg/dl.",
+    "200 mg/dl.",
+    "225 mg/dl.",
+    "250 mg/dl."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La insulina de tipo Glargina tiene su pico máximo a:",
+   "o": [
+    "2-4 h.",
+    "4-6 h.",
+    "6-8 h",
+    "No tiene pico máximo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La Asociación Americana de Diabetes en 1997 y la Organización Mundial de la Salud en 1998 aprobaron nuevos criterios para el diagnóstico de la diabetes mellitus. Se recomendó el descenso del valor de glucemia basal de 140 mg/dl a 126 mg/dl, para diagnosticar a una persona de diabetes. Este cambio de criterio consigue:",
+   "o": [
+    "Incrementar la sensibilidad de la prueba.",
+    "Incrementar la especificidad de la prueba.",
+    "Disminuir los falsos positivos de la prueba.",
+    "Incrementar la fiabilidad de la prueba. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 572"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la realización de dietas para un niño diabético utilizando el método de recuento de raciones de hidratos de carbono, el concepto de ración se refiere a la cantidad de un alimento que contiene:",
+   "o": [
+    "1 gramo de hidratos de carbono.",
+    "5 gramos de hidratos de carbono.",
+    "10 gramos de hidratos de carbono.",
+    "20 gramos de hidratos de carbono."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Resolución de 26 de abril de 2019, de la Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia, sobre el sistema de monitorización de glucosa mediante sensores (tipo flash), ¿a cuál de los siguientes colectivos de pacientes adultos con DM1 se les podrá indicar?:",
+   "o": [
+    "Pacientes con niveles de HbA1c controlados (< 7,5 %).",
+    "Pacientes que sufren hipoglucemias de repetición, entendiendo por tales las que se producen al menos 5 veces por semana.",
+    "Pacientes con niveles de HbA1c no controlados (< 6,5 %).",
+    "Pacientes que sufren hipoglucemias de repetición, entendiendo por tales las que se producen al menos 4 veces por semana o cuando tengan un 15% de los valores de las lecturas del glucómetro por debajo de los 70 mg/dl tras realizar un promedio de 6 controles de glucemia capilar al día."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a consulta un paciente diabético con fiebre, dolor abdominal y mal estado general. Su glucemia capilar es de 485 mg/dl, también se le realiza una cetonemia con un valor de 0,4 mmol/l. Se considera que este paciente presenta:",
+   "o": [
+    "Hiperglucemia sin cetosis.",
+    "Hiperglucemia con cetosis leve.",
+    "Hiperglucemia con cetosis moderada.",
+    "Hipoglucemia con cetosis grave."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con el tratamiento de una niña que acaba de ser diagnosticada de diabetes mellitus tipo 1, a la que se decide poner una bomba de insulina:",
+   "o": [
+    "El reservorio de la bomba se carga con análogos de insulina lenta tipo abasaglar o levemir.",
+    "El equipo de infusión debe cambiarse cada 3 días.",
+    "Después de administrar un bolo para cubrir una comida o para corregir una hiperglucemia, el efecto de la insulina actuará un máximo de 4 horas.",
+    "Con este tipo de tratamiento puede presentar más riesgo de cetoacidosis."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las características e indicaciones de los sensores para la monitorización continua de glucosa flash, se encuentran las siguientes, EXCEPTO:",
+   "o": [
+    "Miden la glucosa en líquido intersticial mediante reacción enzimática.",
+    "Pueden sumergirse en el agua hasta un metro de profundidad y un máximo de 30 minutos de tiempo.",
+    "Puede administrarse insulina pinchada a partir de 2,5 cm del lugar donde está insertado el sensor.",
+    "No hace falta retirarlos cuando se realizan estudios de imagen."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "D.G.T. tiene diabetes mellitus tipo 1 y entrena al baloncesto 4 días a la semana. ¿Cuál de estas acciones NO sería correcta en relación a la práctica deportiva?:",
+   "o": [
+    "Si la glucemia antes del ejercicio es mayor de 300 mg/dl debería entrenar el doble.",
+    "Si la glucemia antes del ejercicio está entre 100-150 mg/dl podría realizar el ejercicio sin riesgo.",
+    "Si la glucemia es menor de 100 mg/dl tomará un suplemento alimenticio antes de realizar el ejercicio.",
+    "Intentará evitar el ejercicio en el pico máximo de acción de la insulina o ajustar la dosis previamente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es una de las causas más frecuentes de absorción irregular de insulina y de formación de lipodistrofias?:",
+   "o": [
+    "Reutilización de la misma aguja durante el día para varios pinchazos.",
+    "Administrar la insulina en el tejido subcutáneo.",
+    "Alternar y rotar las zonas de inyección (abdomen, nalgas, muslos...).",
+    "No aplicar masaje suave en el lugar de punción después de retirar la aguja."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El diagnóstico clínico de la diabetes mellitus (DM) se basa en la elevación anormal de la glucemia. La American Diabetes Association (ADA) propone como criterio diagnóstico de DM tipo 2 el siguiente:",
+   "o": [
+    "Glucemia plasmática ≥ 126 mg/dl en ayunas en dos determinaciones en días distintos.",
+    "HbA1c ≥ 6% en una determinación.",
+    "Glucemia plasmática a las 2 horas del test de sobrecarga oral a la glucosa ≥ 150 mg/dl.",
+    "Glucemia en plasma venoso al azar ≥ 150 mg/ dl con síntomas típicos de hiperglucemias. 575 ENDOCRINOLOGÍA"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Para conseguir una absorción más rápida con la inyección subcutánea de insulina de acción rápida preprandrial, ¿cuál sería la zona de administración?:",
+   "o": [
+    "La parte alta de las nalgas.",
+    "La pared abdominal no periumbilical.",
+    "Parte superior lateral del brazo.",
+    "Parte lateral interna del muslo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la afirmación correcta acerca de los efectos del cortisol:",
+   "o": [
+    "Estimula el catabolismo proteico del músculo esquelético.",
+    "Estimula el sistema inmune aumentando las cifras de linfocitos circulantes en sangre.",
+    "Estimula la síntesis de glucógeno a nivel hepático.",
+    "Su concentración plasmática tiene un ritmo circadiano y es máxima durante la primera parte de la noche."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes preparados de insulina utilizados para tratar la hiperglucemia después de comer tiene un mayor riesgo de causar hipoglucemia?:",
+   "o": [
+    "Insulina glulisina.",
+    "Insulina aspart.",
+    "Insulina humana regular.",
+    "Insulina lispro."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El efecto Somogy es una complicación de la insulinoterapia en pacientes diabéticos. Señale la respuesta correcta en relación a su tratamiento:",
+   "o": [
+    "Aumentar la dosis de insulina de acción intermedia y asegurar una ingesta de 15 g de Hidratos de Carbono a media mañana.",
+    "Disminuir la dosis matinal de insulina de acción intermedia o aumento de la ingesta en el almuerzo.",
+    "Aumentar la dosis vespertina (antes de la cena o al acostarse) de insulina de acción intermedia.",
+    "Disminuir la dosis vespertina (antes de la cena o al acostarse) de insulina de acción intermedia o aumento de la ingesta nocturna."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones postoperatorias domiciliarias a un paciente intervenido de un adenoma hipofisario mediante abordaje transesfenoidal NO se encuentra:",
+   "o": [
+    "La utilización de deshumidificador en eldormitorio con el fin de mantener un ambienteseco y así evitar la irritación de las mucosas.",
+    "Elevar la cama 30º durante al menos 2 semanas después de la intervención.",
+    "Sonarse la nariz con suavidad durante al menos 1 mes.",
+    "Evitar el cepillado de dientes hasta que hayacicatrizado la incisión por encima de estos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el Síndrome de Cushing, indique la opción correcta:",
+   "o": [
+    "Puede causar hipotensión.",
+    "Puede producir hipoglucemias.",
+    "Provoca debilidad muscular.",
+    "La piel se vuelve más fuerte y gruesa. PREGUNTA 166"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué pregunta resultará más apropiada a la hora de realizar una entrevista clínica a una persona diagnosticada de hiperparatiroidismo?:",
+   "o": [
+    "¿Tiene temblores en las manos?",
+    "¿Tiene dolor en las articulaciones?",
+    "¿Ha tenido problemas de diarrea últimamente?",
+    "¿Nota alguna hinchazón en las piernas por las noches?"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe correctamente el signo de Trousseau asociado a hipocalcemia?:",
+   "o": [
+    "Consiste en la inducción de fasciculaciones en los músculos inervados por el facial.",
+    "Se produce espasmo del carpo con aducción del pulgar y flexión de la muñeca.",
+    "Se presenta sensación de hormigueo en las puntas de los dedos y alrededor de la boca.",
+    "Provoca prolongación del intervalo QT en el electrocardiograma (ECG)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

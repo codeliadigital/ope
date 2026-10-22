@@ -1,0 +1,216 @@
+{
+ "tema": 48,
+ "preguntas": [
+  {
+   "q": "En relación con un “sangrado de la unión”, señale la respuesta INCORRECTA:",
+   "o": [
+    "La hemorragia de la unión se define como el sangrado que ocurre donde se juntan dos zonas anatómicas distintas.",
+    "No existen torniquetes específicos para estas zonas de sangrado.",
+    "El tratamiento clave para este tipo de hemorragia es la compresión directa sobre los grandes vasos que abarcan el área proximal de la lesión.",
+    "El uso de agentes hemostáticos externos combinado con la compresión inicial dan buenos resultados."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la última Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad, ¿cuál es el orden correcto de prioridad en la evaluación inicial 433 URGENCIAS Y EMERGENCIAS básica (“ABC”) en el paciente extrahospitalario con traumatismo craneoencefálico (TCE)?:",
+   "o": [
+    "(A) Asegurar perímetro→ (B) Valorar estado de consciencia → (C) Coordinar equipo para atención o traslado.",
+    "Vía (A)aérea permeable → Asegurar (B)Ventilación → Tratar alteraciones de la (C) Circulación.",
+    "(A) Asegurar perímetro → Evitar (B) broncoaspiración → (C) Control hemodinámico.",
+    "(A) Airear → (B) Bombear →(C) Cargar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Un varón de 26 años que estaba nadando en el mar Cantábrico, presenta lesiones lineales pruriginosas y dolorosas en brazos y tórax. No presenta disnea, ni signos de reacción alérgica ni otra sintomatología sistémica. Refiere que ha fotografiado el animal marino que le ha causado las lesiones, que corresponde a la Imagen 10. Atendiendo a las recomendaciones de la Subdirección General de Sanidad Ambiental y Salud Laboral sobre las picaduras de medusas, ¿cuál es la actuación inmediata que debe realizarse?:",
+   "o": [
+    "Limpiar las zonas afectadas sin frotar, utilizando agua dulce. Retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Aplicar una solución tópica de bicarbonato de sodio. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas frotando enérgicamente para retirar todos los restos. Lavar la zona utilizando agua de mar o una solución salina. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas sin frotar, y retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Aplicar en las zonas afectadas una dilución de vinagre y agua. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas sin frotar, utilizando agua de mar o una solución salina. Retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Se puede aplicar una solución tópica de bicarbonato de sodio. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t19-2025-2026-10.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 11. Teniendo en cuenta el tipo de anzuelo, ¿cómo se procederá a su retirada mediante la técnica tradicional?:",
+   "o": [
+    "Traccionaremos del anzuelo en sentido perpendicular a como entró.",
+    "Doblaremos el ojal y pasaremos el anzuelo a través del interior.",
+    "Rotaremos el anzuelo sobre sí mismo y traccionaremos en perpendicular al punto de inserción.",
+    "Introduciremos más el anzuelo hasta que aparezca la barba, cortaremos esta, y traccionaremos en sentido inverso a como se introdujo."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t19-2022-2023-11.jpg"
+  },
+  {
+   "q": "Indique la opción correcta en relación con el tratamiento de una picadura de medusa:",
+   "o": [
+    "Lavar la zona con abundante agua salada/ solución salina, sin frotar, aplicando posteriormente una solución de vinagre y “afeitar” la zona con un plástico o cuchilla para retirar los posibles restos.",
+    "Lavar la zona con abundante agua del grifo, frotando enérgicamente con una esponja o gasa, y administrar analgésicos tópicos a continuación.",
+    "Desinfectar la zona con clorhexidina 2 % y posteriormente lavar la zona con agua dulce, sin frotar. Se recomienda la pauta de antibióticos profilácticos.",
+    "Eliminar los restos del animal con una solución de amoniaco diluido al 0,5 % y posteriormente aplicar hielo, así como una pomada antibiótica profiláctica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Basándonos en el Original Swiss System de estadificación para hipotermia accidental de la Comisión Internacional de Medicina de Emergencia de Montaña (ICAR MedCom), ¿qué temperatura central estimará para un paciente extraviado que rescata de una montaña a 2000 m de altitud, con una temperatura ambiente de 2 °C, sin lesiones aparentes, mal equipado y con alteración de la consciencia sin escalofríos?:",
+   "o": [
+    "Temperatura central estimada de 37-35 ºC.",
+    "Temperatura central estimada de < 32-28 ºC. 447 URGENCIAS Y EMERGENCIAS",
+    "Temperatura central estimada de < 28-24 ºC.",
+    "Temperatura central estimada de < 24-13,7 ºC."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la posición de los parches de desfibrilación para el tratamiento eléctrico en el soporte vital avanzado, señale la respuesta INCORRECTA:",
+   "o": [
+    "La posición de elección para su colocación es la posición antero-lateral con el parche apical colocado al nivel de la posición del electrodo V6 del electrocardiograma.",
+    "En pacientes con un dispositivo implantable (Marcapasos/DAI) el parche debe estar a 8 centímetros del dispositivo.",
+    "En un ritmo desfibrilable refractario a la desfibrilación se puede considerar una posición alternativa de los parches (p.ej. posición anteroposterior).",
+    "En un paciente en decúbito prono la posición de los parches recomendada consiste en modificar el parche esternal y ponerlo en la espalda del paciente a la misma altura. 453 URGENCIAS Y EMERGENCIAS"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación al uso de la capnografía (ETCO2) durante las maniobras de Soporte Vital Avanzado:",
+   "o": [
+    "El aumento de la ETCO2 puede producirse incluso antes de que el pulso sea palpable.",
+    "Unas compresiones torácicas de calidad dan como resultado valores típicos de ETCO2 de 1 a 1,5 kilopascales (7,5-11,2 mmHg).",
+    "Un descenso de la ETCO2 durante la resucitación se asocia con una mayor probabilidad de recuperación de la circulación espontánea.",
+    "La capnografía tiene baja sensibilidad y especificidad para determinar la adecuada posición del tubo endotraqueal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En una paciente embarazada en parada cardiorrespiratoria a la que se le están aplicando maniobras de soporte vital avanzado, señale la afirmación correcta:",
+   "o": [
+    "Si estamos en presencia de un ritmo desfibrilable, los parches de desfibrilación deben situarse en situación antero-posterior.",
+    "Si la edad gestacional es > 20 semanas o el útero es palpable por encima del nivel del ombligo, hay que tratar de obtener una inclinación de 15-30º hacia el lado derecho durante las compresiones torácicas.",
+    "Si la edad gestacional es > 20 semanas o el útero es palpable por encima del nivel del ombligo y la reanimación inicial (primeros 4 min) no tiene éxito, hay que extraer el feto por cesárea urgente.",
+    "La posición de las manos para realizar las compresiones torácicas se modifica y las manos se sitúan en el tercio superior del esternón."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA en relación con la aplicación de maniobras de soporte vital avanzado a una víctima en parada cardiaca que ha sido rescatada tras permanecer sepultada durante una avalancha de nieve:",
+   "o": [
+    "Considerar que la RCP es fútil en una parada cardiaca con un tiempo de enterramiento superior a 60 minutos y evidencias de obstrucción de la vía aérea.",
+    "Realizar soporte vital avanzado convencional si el tiempo de sepultamiento es inferior a 60 minutos.",
+    "El pronóstico de un recalentamiento hospitalario con éxito debe basarse exclusivamente en el potasio sérico (punto de corte 7 mmol/l) y la temperatura corporal (punto de corte 30 ºC).",
+    "Realizar maniobras de reanimación completas, incluyendo recalentamiento con soporte vital extracorpóreo a las víctimas sepultadas más de 60 min sin evidencia de obstrucción de la vía aérea o lesiones adicionales letales."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué zona se situará el personal sanitario ante un incidente de múltiples víctimas?:",
+   "o": [
+    "Zona de impacto.",
+    "Zona de salvamento.",
+    "Zona de socorro.",
+    "Zona de base."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes parámetros se valora en el método de triaje básico SHORT y no se valora en el método START?:",
+   "o": [
+    "Habla.",
+    "Respiración.",
+    "Respuesta a órdenes.",
+    "Marcha."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el método START de triaje, ¿qué prioridad de asistencia asignaría a una víctima de la que comprueba que no puede caminar, respira con una frecuencia respiratoria de 26 rpm, tiene un tiempo de relleno capilar de 3 segundos y obedece órdenes sencillas?:",
+   "o": [
+    "Prioridad 4-Negro.",
+    "Prioridad 3-Verde.",
+    "Prioridad 2-Amarillo.",
+    "Prioridad 1-Rojo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una catástrofe es un acontecimiento que aparece bruscamente, conlleva importantes daños y altera el orden normal de las cosas. ¿Cómo se clasifican las catástrofes según el origen del factor desencadenante de la catástrofe (Clasificación CROCQ)?:",
+   "o": [
+    "Naturales, Humanitarias, Biológicas y Medioambientales.",
+    "Medioambientales, Tecnológicas y Humanitarias.",
+    "Naturales, Tecnológicas y Causadas por el hombre.",
+    "Naturales, Sociológicas y Geológicas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto de las tarjetas de clasificación o triaje en una catástrofe o accidente de múltiples víctimas, es correcto que:",
+   "o": [
+    "Se asigne una tarjeta negra a aquellas víctimas que se encuentren en situación de Parada Cardiorrespiratoria (PCR) no presenciada por la persona responsable del triaje.",
+    "Se asigne tarjeta negra a aquellas víctimas que se encuentren en situación de PCR tanto presenciada como no presenciada por la persona responsable del triaje.",
+    "Se asigne tarjeta negra a aquellas víctimas que se encuentren en situación agónica, moribundos o en PCR a juicio de la persona responsable del triaje.",
+    "Se asigne tarjeta negra a las víctimas cuyo criterio de evaluación es ‘diferida’."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según se indica en el Real Decreto 836/2012, de 25 de mayo, por el que se establecen las características técnicas, el equipamiento sanitario y la dotación de personal de los vehículos de transporte sanitario por carretera, las ambulancias de Clase B:",
+   "o": [
+    "Se consideran ambulancias convencionales, destinadas al transporte de pacientes en camilla.",
+    "Se consideran de transporte colectivo, acondicionadas para el transporte conjunto de enfermos cuyo traslado no revista carácter de urgencia, ni estén aquejados de enfermedades infecto-contagiosas.",
+    "Son las destinadas a proporcionar soporte vital básico y atención sanitaria inicial.",
+    "Son las destinadas a proporcionar soporte vital avanzado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Para disminuir los efectos que producen las aceleraciones, desaceleraciones (frenazos) y los cambios bruscos de velocidad durante el transporte sanitario terrestre, debemos tener en cuenta:",
+   "o": [
+    "La posición del paciente debería ser siempre en el sentido de la marcha.",
+    "La posición del paciente debería ser siempre en el sentido contrario de la marcha en caso de patología neurológica.",
+    "La posición del paciente debería ser acorde con su patología inicial siempre buscando un confort para el paciente.",
+    "La posición del paciente consciente debe ser siempre la que él elija para evitar posibles mareos durante el transporte. En caso de paciente inconsciente, el equipo sanitario elige la posición más adecuada para realizar sus cuidados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 836/2012, de 25 de mayo, por el que se establecen las características técnicas, el equipamiento sanitario y la dotación de personal de los vehículos de transporte sanitario por carretera, las ambulancias de clase C son:",
+   "o": [
+    "Ambulancias destinadas a proporcionar soporte vital básico y atención sanitaria inicial.",
+    "Ambulancias destinadas a proporcionar soporte vital avanzado.",
+    "Ambulancias de transporte colectivo, acondicionadas para el transporte conjunto de enfermos cuyo traslado no revista carácter de urgencia, ni estén aquejados de enfermedades infectocontagiosas.",
+    "Ambulancias convencionales, destinadas al transporte de pacientes en camilla."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los vehículos destinados a la prestación de los servicios de transporte sanitario que estén dotados al menos, de un conductor que esté en posesión del título de Formación Profesional de Técnico en Emergencias sanitarias y de un enfermero, y que, cuando la asistencia a prestar lo requiera deberán contar con un médico, son:",
+   "o": [
+    "Las ambulancias asistenciales A1.",
+    "Las ambulancias no asistenciales A2.",
+    "Las ambulancias asistenciales B.",
+    "Las ambulancias asistenciales C."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

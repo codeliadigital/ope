@@ -1,0 +1,552 @@
+{
+ "id": "eir-04",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 4,
+ "titulo": "EIR · Investigación en enfermería e informática",
+ "explicadas": false,
+ "descripcion": "49 preguntas de los exámenes EIR de 2018 a 2025 sobre investigación en enfermería e informática, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Un grupo de investigadoras revisó la bibliografía para clarificar los atributos de la “fragilidad oral”, un término emergente empleado para referirse a los problemas bucales en el envejecimiento (Yang et al., 2023). ¿Cómo se denomina esa estrategia para clarificar el significado de fenómenos clínicos?:",
+   "o": [
+    "Teoría de rango medio.",
+    "Teoría fundamentada.",
+    "Análisis de concepto.",
+    "Derivación de teoría."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué tipo de entrevista grupal se refiere la técnica de recogida de datos en investigación cualitativa, en la que interesa más el punto de vista individual del discurso, es decir, se escucha en grupo, pero se habla como persona entrevistada singular?:",
+   "o": [
+    "Grupo focal.",
+    "Grupo de discusión.",
+    "Grupos triangulares.",
+    "Grupos circulares."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En un ensayo clínico, la técnica de enmascaramiento que consiste en que los participantes no sepan a qué grupo están asignados (intervención vs práctica habitual), se denomina:",
+   "o": [
+    "Simple ciego.",
+    "Ciego único.",
+    "Doble ciego.",
+    "Triple ciego"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué es el protocolo de un ensayo clínico?:",
+   "o": [
+    "El documento donde se recopilan datos clínicos y no clínicos sobre el medicamento bajo investigación.",
+    "El documento donde se detallan los derechos, la seguridad y el bienestar de los sujetos del ensayo clínico, así como la fiabilidad y solidez de los datos obtenidos.",
+    "El documento donde se describen los objetivos, el diseño, la metodología, las consideraciones estadísticas y la organización del ensayo clínico.",
+    "La base de datos cuyo objetivo es servir de fuente de información en materia de estudios clínicos a los investigadores."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La fase metodológica del proceso de la investigación NO incluye:",
+   "o": [
+    "Población de estudio.",
+    "Selección de variables.",
+    "Elección del diseño de investigación.",
+    "Planteamiento de objetivos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La población deﬁnida por la pregunta de investigación a la que se generalizan los resultados obtenidos en un estudio, se denomina:",
+   "o": [
+    "Población accesible.",
+    "Muestra del estudio.",
+    "Población diana.",
+    "Sujetos que cumplen los criterios de selección."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La fase conceptual del proceso de la investigación NO incluye:",
+   "o": [
+    "Formulación de la pregunta.",
+    "Construcción del marco teórico.",
+    "Análisis de datos obtenidos en el trabajo de campo.",
+    "Formulación de los objetivos de investigación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una revisión sistemática analiza el resultado de un programa experimental enfermero (intervención experimental) y lo compara con el resultado de la intervención enfermera que se utiliza habitualmente (intervención control). El resultado del metaanálisis está recogido en la Imagen 8. Según ese resultado, ¿qué afirmación es correcta?:",
+   "o": [
+    "El resultado está a favor de la intervención experimental.",
+    "El resultado está a favor de la intervención control.",
+    "No existe diferencia entre las dos intervenciones que se analizan.",
+    "El resultado parece estar a favor de la intervención"
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t04-2025-2026-8.jpg"
+  },
+  {
+   "q": "En un metaanálisis, ¿con qué medida se evalúa la heterogeneidad entre los estudios incluidos?:",
+   "o": [
+    "Prueba de log-rank.",
+    "Estadístico I2.",
+    "Coeficiente de Pearson.",
+    "Odds ratio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Seleccione el tipo de revisión de la literatura que se considera un precursor de la revisión sistemática, y permite una evaluación preliminar del volumen de la evidencia disponible sobre un tema, con el fin de proporcionar un mapa de esta e identificar lagunas de conocimiento:",
+   "o": [
+    "Revisión narrativa.",
+    "Revisión panorámica.",
+    "Metaanálisis.",
+    "Revisión rápida."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Al revisar un \"forest plot\" o diagrama de bosque, usted puede observar una figura con forma de rombo o diamante que nos indica:",
+   "o": [
+    "La estimación puntual de las diferencias halladas en cada uno de los ensayos incluidos en el metaanálisis.",
+    "El valor de la estimación puntual del resultado del metaanálisis.",
+    "El sesgo de publicación.",
+    "La hipótesis nula."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué guía utilizaría para revisar los puntos esenciales que deben describirse en la publicación de un estudio de cohortes?:",
+   "o": [
+    "SRQR.",
+    "STARD.",
+    "STROBE.",
+    "SQUIRE."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué guía utilizarías para revisar los puntos esenciales que deben describirse en la elaboración de un protocolo de un ensayo clínico?:",
+   "o": [
+    "SPIRIT.",
+    "STARD.",
+    "SQUIRE.",
+    "CONSORT."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El desarrollo de la Práctica Clínica Basada en la Evidencia (PCBE) se establece en cinco etapas. ¿La tercera etapa a qué corresponde?:",
+   "o": [
+    "Formular preguntas clínicas.",
+    "Realización de búsqueda bibliográfica.",
+    "Lectura crítica.",
+    "Aplicación a la práctica clínica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué corresponde la acción de resumir los resultados de una búsqueda de información que identifica y localiza la mejor evidencia en apoyo de una acción clínica?:",
+   "o": [
+    "Síntesis.",
+    "Sinopsis de síntesis.",
+    "Sumarios.",
+    "Sistemas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. Atendiendo a la imagen, el operador lógico Booleano al que corresponde es:",
+   "o": [
+    "OR.",
+    "NOT.",
+    "AND.",
+    "*."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t04-2022-2023-2.jpg"
+  },
+  {
+   "q": "El sistema GRADE considera como recomendación fuerte:",
+   "o": [
+    "Para los pacientes, la mayoría de las personas estarían de acuerdo con la acción recomendada, pero un número importante de ellos no.",
+    "Para los gestores, existe necesidad de un debate importante y la participación de los grupos de interés.",
+    "Para los clínicos, la mayoría de los pacientes deberían recibir la intervención recomendada.",
+    "Para los planificadores, se reconoce que diferentes opciones serán apropiadas para diferentes pacientes, y que el médico tiene que ayudar a cada paciente a llegar a la decisión más consistente con sus valores y preferencias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la pirámide de Haynes, las fuentes primarias se encuentran en:",
+   "o": [
+    "La base.",
+    "Estrato intermedio: Compendios.",
+    "Estrato intermedio: Sistema.",
+    "La cúspide."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la pirámide de Haynes, ¿cuál de las fuentes de información enumeradas a continuación se halla en la cúspide de la pirámide?:",
+   "o": [
+    "Metaanálisis.",
+    "Artículos originales.",
+    "Sistema de ayuda a la toma de decisiones.",
+    "Revisiones sistemáticas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de presentar un trabajo de investigación, nos indican que la bibliográﬁca se tiene que presentar en estilo APA 7ª ed. Identiﬁque cuál de las siguientes opciones sería la correcta:",
+   "o": [
+    "Dawes J, Rowley J. Enhancing the customer experience: contributions from information technology, J Business Res. 2005; 36(5): 350-7.",
+    "Bravo, E., Barco, R. y Bullón, A. (2010). Anatomic study of the abductor pollicis longus: A source for grafting material of the hand. Clinical Orthopaedics and Related Research, 468(5), 1305-1309.",
+    "Estévez, Federico, Eric Magar y Guillermo Rosas. 2008. “Partisanship in nonpartisan electoral agencies and democratic compliance: Evidence from Mexico's Federal Electoral Institute”. Electoral Studies 27 (junio): 257-71.",
+    "S.-Y. Chung, “Multi-level dirty paper coding”, IEEE Communication Letters, vol. 12, no. 6, pp. 456-458, June 2008."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA en relación con las ventajas del sistema GRADE (Grading of Recommendations, Assessment, Development and Evaluation) sobre otros sistemas de clasiﬁcación: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 68",
+   "o": [
+    "Evaluación explícita de la importancia de los resultados de las estrategias de gestión alternativas.",
+    "Útil para revisiones sistemáticas y evaluaciones de tecnología sanitaria, así como para directrices.",
+    "Reconocimiento explicito de decisiones y referencias.",
+    "Proceso transparente de pasar de la evidencia a las recomendaciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la siguiente pregunta clínica estructurada: Los niños de madres que consumieron cocaína durante el embarazo y que comienzan su escolarización, ¿se deben considerar susceptibles de mayor riesgo de problemas de aprendizaje? Identiﬁque de qué tipo de pregunta clínica se trata:",
+   "o": [
+    "Pregunta sobre intervención.",
+    "Pregunta sobre etiología.",
+    "Pregunta sobre pronóstico.",
+    "Pregunta sobre diagnóstico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la clasiﬁcación Grading of Recommendations Assessment, Development and Evaluation (GRADE), cuando el estimador del efecto puede ser sustancialmente diferente al efecto real, el grado de calidad de la evidencia correcto sería:",
+   "o": [
+    "Muy baja.",
+    "Baja.",
+    "Moderada.",
+    "Alta."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Identiﬁque cuál de las siguientes opciones se corresponde con herramientas facilitadoras para el análisis y lectura crítica de trabajos cientíﬁcos:",
+   "o": [
+    "EndNote.",
+    "eXeLearning.",
+    "BibteX.",
+    "CASPe."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendido a la siguiente pregunta clínica estructurada en formato “PICO”: ¿Se deben recomendar los programas educativos estructurados dirigidos a personas con diabetes mellitus tipo 1 y a sus familiares?, identiﬁque cuál sería el componente clave INTERVENCIÓN:",
+   "o": [
+    "Programa estructurado.",
+    "Pacientes con diabetes mellitus tipo 1 y sus familiares.",
+    "Autocontrol de la enfermedad: alimentación, ejercicio físico, cuidado de los pies, abandono control de la glucemia; reducción de enfermedad cardiovascular; prevención/ reducción de visitas a urgencias, mejoría en calidad de vida, reducción de la mortalidad, reducción del hábito de fumar.",
+    "Cuidados habituales."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El desarrollo de un trabajo académico o documento cientíﬁco requiere de una bibliografía sistemática y estructurada. La alusión dentro del texto del trabajo académico a ideas, frases o documentos ajenos, remitiendo al lector a la fuente de la que se extrae la información, se denomina:",
+   "o": [
+    "Bibliografía.",
+    "Referencia bibliográfica.",
+    "Cita bibliográfica.",
+    "Lista de referencias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes NO es una base de datos bibliográficas de Ciencias de la Salud:",
+   "o": [
+    "Diagnóstico.",
+    "Pronóstico.",
+    "Tratamiento o intervención.",
+    "De primera línea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala cuál de los siguientes NO es un metabuscador:",
+   "o": [
+    "SUMSearch 2.",
+    "TRIP database.",
+    "Cochrane.",
+    "Epistemonikos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala cuál de los siguientes recursos electrónicos NO es un gestor de referencias bibliográﬁcas:",
+   "o": [
+    "EndNote.",
+    "Feedly.",
+    "RefWorks.",
+    "Zotero."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale qué característica del Digital Object Identiﬁer (DOI) es INCORRECTA:",
+   "o": [
+    "El DOI constituye un identificador único y permanente de una porción de contenido y un mecanismo para acceder a ese contenido electrónicamente.",
+    "Proporciona un sistema de identificación permanente, accionable e interoperable de información.",
+    "Su uso es exclusivo para artículos de revistas científicas.",
+    "Puede incluir otros indicadores como el ISBN."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Si en la bibliografía de un artículo cientíﬁco encuentro: “Herrán Gascón, A., Cortina Selva, M. y González Sánchez, I. (2006). La muerte y su didáctica. Manual para educación infantil, primaria y secundaria. Madrid: Universitas. Podemos indicar que:",
+   "o": [
+    "Se está usando el estilo Vancouver.",
+    "Se está usando el estilo de la APA.",
+    "Se está usando la UNE-ISO 690.",
+    "No es una referencia bibliográfica, es una cita."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la opción INCORRECTA:",
+   "o": [
+    "El “Medical Subject Heading (MeSH)” es un tesauro.",
+    "EL “Descriptores en Ciencias de la Salud” (DeCS) es un tesauro disponible en español, inglés y francés.",
+    "En un tesauro, los descriptores están definidos explícitamente.",
+    "Tanto el MeSH como el DeCS son de consulta gratuita."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando se dice que un estudio de investigación tiene validez interna, se reﬁere a que tiene:",
+   "o": [
+    "Pertinencia clínica.",
+    "Aplicabilidad.",
+    "Calidad metodológica.",
+    "Pocos sesgos de confusión."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Usted, como miembro de un equipo investigador que ha llevado a cabo un ensayo clínico aleatorizado, es responsable de revisar si el artículo que se encuentran preparando para solicitar publicar en una revista cientíﬁca cumple los estándares exigidos para su comunicación. ¿Qué lista de comprobación utilizaría?:",
+   "o": [
+    "COREQ.",
+    "2STROBE.",
+    "3CONSORT.",
+    "PRISMA."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la lectura crítica de un ensayo clínico aleatorizado, NO es un aspecto a evaluar:",
+   "o": [
+    "Ocultación de la secuencia de aleatorización.",
+    "Selección aleatoria de la muestra de sujetos de ensayo.",
+    "Cegamiento.",
+    "Pérdidas en el seguimiento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un estudio realizado en atención primaria para validar un test rápido de detección de antígenos del estreptococo β-hemolítico del grupo A en pacientes con faringitis, el valor predictivo positivo del test fue del 90 %. ¿Qué interpretación es correcta?:",
+   "o": [
+    "Que el test identifica correctamente al 90 % de los pacientes con infección estreptocócica.",
+    "Que el 90 % de los pacientes con un resultado positivo en el test realmente presentan faringitis estreptocócica.",
+    "Que el test ofrece un resultado negativo en el 90 % de los pacientes sin infección. 73 INVESTIGACIÓN EN ENFERMERÍA",
+    "Que el test acierta el 90 % de las veces, tanto en positivos como en negativos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un programa de cribado de cáncer de próstata mediante Prostate-Specific Antigen (PSA), se observa que la supervivencia a 5 años desde el diagnóstico es del 95 % en pacientes detectados por cribado frente al 70 % en pacientes con diagnóstico clínico. Sin embargo, la mortalidad global por esta causa no se ha reducido. ¿Qué sesgo explica principalmente este fenómeno?:",
+   "o": [
+    "Sesgo de duración.",
+    "Sesgo de adelanto diagnóstico.",
+    "Sesgo de sobrediagnóstico.",
+    "Sesgo de voluntariado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el análisis de las propiedades de medición de un instrumento, ¿a qué se refiere la consistencia interna?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 74",
+   "o": [
+    "Al grado en que el contenido de un instrumento es un reflejo adecuado del constructo que se va a medir.",
+    "Al grado de interrelación entre los elementos del instrumento.",
+    "Al grado en que las puntuaciones de un instrumento son un reflejo adecuado del “estándar de oro”.",
+    "El grado en que las puntuaciones de un instrumento no cambian para mediciones repetidas por varios evaluadores."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para evaluar la capacidad discriminativa (sanos vs enfermos) de un test o prueba diagnóstica, ¿cuál de las siguientes métricas utilizaría?:",
+   "o": [
+    "El Área Bajo la Curva.",
+    "El índice Kappa.",
+    "El Valor Predictivo Positivo.",
+    "La Sensibilidad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En una prueba de cribado, la proporción de verdaderos positivos entre los identificados como positivos, se denomina:",
+   "o": [
+    "Prevalencia.",
+    "Especificidad.",
+    "Sensibilidad.",
+    "Valor predictivo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando se habla de valor global en el proceso de toma de decisiones diagnósticas, hace referencia a:",
+   "o": [
+    "El número de enfermos que existe en una población determinada en un período de tiempo concreto.",
+    "Es el número total de positivos obtenidos en el proceso diagnóstico en relación al total de sujetos que componen la muestra estudiada.",
+    "La proporción de sujetos correctamente clasificados por el test en relación al total de sujetos que componen la muestra de estudio.",
+    "Grado en que los resultados de un estudio son generalizables a otros sujetos o poblaciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo al índice kappa (κ), sería INCORRECTO:",
+   "o": [
+    "El índice kappa (κ) se usa para evaluar la concordancia o reproducibilidad de instrumentos de medida cuyo resultado es categórico (2 o más categorías).",
+    "El índice kappa (κ) representa la proporción de acuerdos observados más allá del azar, respecto del máximo acuerdo posible más allá del azar.",
+    "Un resultado entre 0,21-0,40 supone un grado de acuerdo insuficiente.",
+    "Un resultado entre 0,61-0,80 supone un grado de acuerdo sustancial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante las olas de la pandemia por COVID-19, en relación con las pruebas diagnósticas, ¿qué aspecto de los siguientes se verá principalmente inﬂuido por la situación?:",
+   "o": [
+    "La sensibilidad.",
+    "La especificidad.",
+    "Los valores predictivos.",
+    "La fiabilidad."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Si sospechamos la presencia de una enfermedad severa, cuyo manejo conlleva medidas invasivas con potenciales efectos secundarios graves, ¿cuál sería la principal característica que buscaremos en la prueba diagnóstica a realizar?:",
+   "o": [
+    "Tener una elevada sensibilidad.",
+    "Tener una elevada especificidad.",
+    "Tener un elevado valor predictivo positivo.",
+    "Tener un elevado valor predictivo negativo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Se ha realizado un estudio de validación de una prueba diagnóstica, cuyos resultados se reﬂejan en una tabla de contingencia. ¿Cuál de las siguientes aﬁrmaciones es la correcta?:",
+   "o": [
+    "El valor global se calcula mediante la fórmula: a / (a+b+c+d).",
+    "La especificidad se calcula mediante la fórmula: c / (a+c).",
+    "La sensibilidad se calcula mediante la fórmula: a /(a+c).",
+    "El Valor Predictivo Negativo se calcula mediante la fórmula: (b+c) / (a+b+c+d)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al análisis de las curvas ROC de las pruebas diagnósticas, ¿qué aﬁrmación de las siguientes es FALSA?:",
+   "o": [
+    "El eje X representa los resultados falsos positivos.",
+    "El eje Y representa la sensibilidad.",
+    "Una prueba con una discriminación perfecta sanos-enfermos dará lugar a una recta en diagonal de 45º.",
+    "Permiten elegir el punto de corte apropiado para considerar resultados positivos y negativos de una prueba."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Se dice que un cuestionario es ﬁable cuando:",
+   "o": [
+    "Cuando mide lo que quiere medir.",
+    "Si contempla todos los aspectos relacionados con el concepto de estudio.",
+    "Se obtienen resultados consistentes cuando se aplica en diferentes ocasiones.",
+    "Tiene validez de criterio."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a las pruebas diagnósticas, cuando se aplican en un contexto de alta prevalencia de la enfermedad, fundamentalmente debemos considerar que:",
+   "o": [
+    "Aumenta la sensibilidad de la prueba.",
+    "Aumenta la especificidad de la prueba.",
+    "Aumenta el valor predictivo positivo de la prueba.",
+    "Aumenta el valor predictivo negativo de la prueba."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del objetivo estratégico Innovación y atención sanitaria 5P, de la Estrategia de Salud Digital del Ministerio de Sanidad del Gobierno de España, las 5P corresponden a:",
+   "o": [
+    "Preventiva, predictiva, personalizada, participativa y potenciadora.",
+    "Prevención, promoción, personalización, participación y profesionalización.",
+    "Poblacional, preventiva, predictiva, personalizada y participativa.",
+    "Población, participación, potenciación, personalización y planificación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

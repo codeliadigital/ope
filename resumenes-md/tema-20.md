@@ -39,7 +39,7 @@ sub: Resumen OPE Enfermería SMS · Farmacocinética, correctos, medicamentos de
 | **Intraósea** | — | — | Alternativa urgente si no hay vía IV; **tibia proximal**; mismas dosis que IV; **retirar antes de 24 h** |
 
 - **HBPM**: **no purgar la burbuja** de aire (sella el trayecto y evita hematomas) y **no masajear**.
-- **Zonas IM**: **vasto externo** (tercio medio de la cara anterolateral del muslo; **de elección en < 3 años**); **deltoides** (3-5 cm bajo el acromion; vacunas en adultos; riesgo de nervio radial); **dorsoglútea** (cuadrante superior externo; riesgo de **nervio ciático**, desaconsejada); **ventroglútea (Hochstetter)**: palma sobre el trocánter mayor, índice a la espina ilíaca anterosuperior y medio hacia la cresta ilíaca: **la zona más segura** en adultos y niños > 3 años.
+- **Zonas IM**: ==**vasto externo**== (tercio medio de la cara anterolateral del muslo; **de elección en < 3 años**); **deltoides** (3-5 cm bajo el acromion; vacunas en adultos; riesgo de nervio radial); **dorsoglútea** (cuadrante superior externo; riesgo de **nervio ciático**, desaconsejada); **ventroglútea (Hochstetter)**: palma sobre el trocánter mayor, índice a la espina ilíaca anterosuperior y medio hacia la cresta ilíaca: **la zona más segura** en adultos y niños > 3 años.
 - **Técnica en Z**: desplazar la piel 2,5-3 cm, inyectar, esperar 10 s y soltar; para fármacos irritantes o que **tiñen** la piel (**hierro**). En obesos, agujas más largas.
 - **Aspirar**: **no** en vacunas; sí con fármacos oleosos o microcristalinos (penicilina benzatina, depot) por el riesgo de embolia (**síndrome de Nicolau**).
 
@@ -92,8 +92,8 @@ sub: Resumen OPE Enfermería SMS · Farmacocinética, correctos, medicamentos de
 | **SMAQ** | 6 | Pregunta por el **fin de semana**; validado en VIH |
 
 !! La única vía enteral que evita del todo el primer paso hepático es la **sublingual**.
-!! **KCl nunca en bolo IV**.
-!! Lactante: IM en el **vasto externo**; adulto: la zona más segura es la **ventroglútea**.
+!! ==**KCl nunca en bolo IV**.==
+!! ==Lactante: IM en el **vasto externo**; adulto: la zona más segura es la **ventroglútea**.==
 !! 30 ml/h en bomba = **10 gotas/min** de macrogoteo.
 
 ## Imágenes clave del tema

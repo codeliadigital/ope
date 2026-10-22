@@ -1,0 +1,1386 @@
+{
+ "id": "eir-07",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 7,
+ "titulo": "EIR · Técnicas y procedimientos de enfermería",
+ "explicadas": false,
+ "descripcion": "124 preguntas de los exámenes EIR de 2018 a 2025 sobre técnicas y procedimientos de enfermería, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Respecto a la medición de la presión arterial (PA) en consulta, ¿cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "Se deben tomar tres mediciones, separadas 1 2 minutos; si hay diferencias mayores de 10 mmHg se toman medidas adicionales. La PA se debe registrar como la media de las tres últimas medidas.",
+    "El paciente debe sentarse cómodamente y reposar al menos 5 minutos antes de la medición, evitando ejercicio o estimulantes (como la cafeína o el tabaco) durante los 30 minutos previos.",
+    "El manguito utilizado debe ajustarse al tamaño del brazo, cubriendo entre el 75 - 100% de la longitud y el 35 - 50% del ancho de la circunferencia del brazo.",
+    "Se recomienda evaluar la hipotensión ortostática en la primera visita. Tras permanecer el paciente 5 minutos en reposo sentado o en decúbito, se debe medir la PA entre 1 minuto y/o 3 minutos tras la bipedestación, con un umbral para la hipotensión ortostática de una disminución de ≥ 20 / 10 mmHg (PA sistólica / PA diastólica)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la fiebre elevada con oscilaciones diarias mayores de 1ºC, se le denomina:",
+   "o": [
+    "Fiebre remitente.",
+    "Fiebre constante.",
+    "Fiebre recurrente.",
+    "Fiebre intermitente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efecto se producirá si a la hora de medir una tensión arterial utilizamos un manguito demasiado estrecho para el brazo del paciente?:",
+   "o": [
+    "Obtendremos una tensión erróneamente baja.",
+    "Obtendremos una tensión erróneamente alta.",
+    "La tensión diastólica será erróneamente baja.",
+    "La tensión sistólica será erróneamente alta y la diastólica erróneamente baja."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Quién realizó la primera medición de la presión arterial en 1733?:",
+   "o": [
+    "Stephen Hales.",
+    "Ambroise Paré.",
+    "Charles Gabriel Pravaz.",
+    "Claude Bernard."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué casos el paciente podrá autorretirarse en su domicilio un sistema de monitorización Holter?:",
+   "o": [
+    "Cuando sea un dispositivo de duración semanal, para realizar su higiene corporal.",
+    "A la hora de salir a realizar una actividad deportiva (jugar a fútbol, ciclista...).",
+    "En dispositivos de 24 horas colocados en mujeres de busto abundante, en el momento de irse a dormir para evitar artefactos.",
+    "Cuando el paciente prevea encontrarse en decúbito prono más de 1 hora."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude al domicilio de un paciente anglosajón, quien sólo dispone de un termómetro calibrado en grados Fahrenheit. Al tomarle la temperatura usted determina que presenta 101 grados Fahrenheit, lo que signiﬁca que presentará:",
+   "o": [
+    "Hipotermia.",
+    "Febrícula.",
+    "Fiebre.",
+    "Hiperpirexia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes aﬁrmaciones considera INCORRECTA respecto a la toma de las cifras de Presión Arterial (PA)?:",
+   "o": [
+    "La gran ventaja del método automático de medida de las cifras de PA frente al método tradicional es que en el primero al paciente se le permite hablar durante la determinación.",
+    "El uso más generalizado de toma de PA mediante tensiómetros automáticos se asocia con un menor número de casos de \"bata blanca\".",
+    "La utilidad de las lecturas clínicas automatizadas mediante esfigmomanómetros electrónicos una evidencia creciente.",
+    "Se reconoce que la automedida de la PA (AMPA) tiene mayor aplicabilidad que la monitorización ambulatoria de la PA de 24 h (MAPA)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la Imagen 1, respecto a la administración de medicación en este caso, ¿qué material NO es necesario incluir en el procedimiento de enfermería?:",
+   "o": [
+    "Agujas de bisel especial tipo Gripper.",
+    "Guantes estériles.",
+    "Povidona yodada.",
+    "Heparina cálcica"
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2025-2026-1.jpg"
+  },
+  {
+   "q": "Con respecto a la ECMO (oxigenación por membrana extracorpórea), indique la respuesta INCORRECTA:",
+   "o": [
+    "Puede ser utilizada en el contexto del tras plante proporcionando soporte respiratorio o circulatorio cuando el paciente no puede mantener suficientes niveles de oxígeno o flujo sanguíneo.",
+    "En donación en asistolia, mediante la técnica de PRN (Perfusión Regional Normotérmica), aumenta la viabilidad de los órganos donados mejorando su estado y facilitando un trasplante exitoso.",
+    "Proporciona un soporte vital que puede permitir al paciente recuperarse o mejorar sus condiciones previas al trasplante, aumentando la supervivencia.",
+    "Cuando se aplica a un potencial donante en la PRN, como sólo se perfunde la cavidad abdominal, no es necesario emplear anticoagulantes ni canalizar la arteria y la vena femorales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre el uso de Catéteres Centrales de Inserción Periférica (PICC) en el paciente crítico, publicada en 2022 por la Sociedad Española de Medicina Intensiva Crítica y Unidades Coronarias (SEMICYUC), por de la Sociedad Española de Enfermería Intensiva y Unidades Coronarias (SEEIUC), y por la Sociedad Española de Infusión y Acceso Vascular (SEINAV), ¿cuál es la relación máxima recomendable entre el diámetro del catéter (o luz) y el calibre de la vena para minimizar el riesgo de trombosis?:",
+   "o": [
+    "≤ 20 %.",
+    "≤ 45 %.",
+    "≤ 60 %.",
+    "≤ 75 %."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el “Protocolo de inserción y mantenimiento de catéteres vasculares. Bacteriemia Zero, 2.ª edición (2021)”, una de las medidas obligatorias para prevenir bacteriemias relacionadas con catéteres venosos centrales (CVC) es:",
+   "o": [
+    "Colocación guiada por ecografía obligatoria en todos los casos.",
+    "Uso de máxima barrera estéril durante la inserción del catéter.",
+    "Cambio programado del catéter cada 5 días, aunque no haya signos de infección.",
+    "Uso sistemático de antibióticos profilácticos en todos los catéteres"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. Las imágenes muestran la exploración de un brazo mediante ecografía y doppler con la sonda en posición caudocraneal. ¿Qué vaso, por qué, y qué calibre máximo de catéter sugerido podría utilizar para la canalización de una vía venosa central de inserción periférica?:",
+   "o": [
+    "El vaso correspondiente al color rojo, ya que el azul es una arteria. El tamaño máximo de catéter será un 4Fr.",
+    "El vaso correspondiente al color rojo, ya que el azul es un nervio. El tamaño máximo de catéter será un 5Fr.",
+    "El vaso correspondiente al color azul, ya que el rojo es un nervio. El tamaño máximo de catéter será un 5Fr.",
+    "El vaso correspondiente al color azul, ya que el rojo es una arteria. El tamaño máximo de catéter será un 6Fr."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2024-2025-1.jpg"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones es correcta sobre la desinfección de la conexión de un catéter central según los estándares de buenas prácticas del Protocolo de inserción y mantenimiento de catéteres vasculares (Bacteriemia Zero)?:",
+   "o": [
+    "La desinfección activa con hisopos de gluconato de clorhexidina alcohólica o alcohol isopropílico al 70% es siempre superior a la desinfección pasiva con tapones desinfectantes.",
+    "Se cambiará el apósito transparente semipermeable estéril en el punto de inserción cada tres días, además de cuando estén visiblemente sucios, húmedos o despegados.",
+    "Tanto la desinfección activa como la pasiva se pueden utilizar para reducir la contaminación, siendo ambas opciones recomendadas en los estándares de buenas prácticas.",
+    "Se puede utilizar antibióticos y antisépticos tópicos en pomada para proteger el punto de inserción."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes es una medida recogida en el protocolo Bacteriemia Zero?:",
+   "o": [
+    "Retirar catéteres venosos innecesarios.",
+    "Administrar profilaxis antibiótica en pacientes portadores de catéter venoso central.",
+    "Pulverizar con alcohol isopropílico las conexiones de los catéteres antes de acceder a ellos.",
+    "Cambio del apósito transparente de la vía cada 96h."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué posición debe usted colocar los parches de un marcapasos transcutáneo no invasivo en el caso de que dicho marcapasos no tenga función ni capacidad de desfibrilación?:",
+   "o": [
+    "En el tórax posición líneas axilares medias a la altura del corazón.",
+    "Debajo de la clavícula derecha y por fuera de la mamila izquierda.",
+    "En el tórax en posición centrada anteroposterior.",
+    "En ápex y esternón."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Está midiendo un Índice tobillo brazo y obtiene los siguientes datos: Tensión Arterial (TA) miembro superior derecho 140/80 mmHg, TA miembro superior izquierdo 135/80 mmHg, TA sistólica tibial posterior izquierdo 125 y derecha 95, TA sistólica pedia izquierda 130 y derecha 70. ¿Cuál sería el cálculo correcto?:",
+   "o": [
+    "Izquierda 130 dividido entre 140.",
+    "Derecho 70 dividido entre 140.",
+    "Izquierda 125 dividido entre 135.",
+    "Derecho 95 dividido entre 135."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA respecto al catéter de línea media o midline: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 96",
+   "o": [
+    "Se inserta con ayuda ecográfica y usando la técnica Seldinger.",
+    "Es un catéter venoso central de acceso periférico.",
+    "Se puede usar para la administración de fármacos, transfusiones, terapias intravenosas y toma de muestras.",
+    "Está indicado en tratamientos superiores a 7 días."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué posición se coloca al paciente para la canalización de una vía venosa central en la vena yugular interna?:",
+   "o": [
+    "Trendelemburg.",
+    "Morestín.",
+    "Fowler.",
+    "Semifowler."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La colocación de los electrodos posteriores para la realización de un ECG será:",
+   "o": [
+    "V7 en línea posterior axilar, V8 en ángulo escapular y V9 en línea paravertebral.",
+    "V7 5º espacio intercostal derecho, línea clavicular media. V8 en 5º espacio intercostal derecho, línea axilar anterior. V9 5º espacio intercostal derecho, línea axilar media.",
+    "V7 5º espacio intercostal izquierdo, línea clavicular media. V8 5º espacio intercostal izquierdo, línea axilar anterior. V9 5º espacio intercostal izquierdo, línea axilar media.",
+    "V7 en línea paravertebral. V8 en ángulo escapular y V9 en línea posterior axilar."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las contraindicaciones del uso de la Oxigenación por membrana extracorpórea venoarterial (ECMO-VA) se encuentra:",
+   "o": [
+    "Pacientes con tormenta eléctrica que no responden a tratamiento antiarrítmico y/o ablación por radiofrecuencia.",
+    "Intoxicación aguda por fármacos cardiodepresores.",
+    "Insuficiencia aórtica grave.",
+    "Shock cardiogénico secundario a infarto de miocardio que no responde al tratamiento y se ha realizado revascularización mediante intervencionismo coronario."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el porcentaje de vena que ha de ocupar como máximo un catéter venoso central de inserción periférico?:",
+   "o": [
+    "28 %.",
+    "33 %.",
+    "45 %.",
+    "50 %."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con el método de inserción por zona (método ZIM) de canalización de catéteres venosos centrales de inserción periférica (PICC):",
+   "o": [
+    "Nos indica que la zona más adecuada para la inserción es la proximal por su baja tasa de complicaciones.",
+    "La zona distal es la que menos se asocia a complicaciones mecánicas e infecciosas.",
+    "La zona media se asocia a una mayor seguridad tanto en la inserción como en el mantenimiento.",
+    "Este método establece 3 zonas de punción teniendo en cuenta la distancia desde la muñeca hasta el hombro."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de limpiar las llaves o válvulas de los accesos intravenosos, indique el tiempo correcto en el cual podemos acceder en función del desinfectante:",
+   "o": [
+    "Alcohol isopropílico: 5 segundos; Clorhexidina alcohólica: 20 segundos; Povidona yodada: 6 minutos.",
+    "Alcohol isopropílico: 10 segundos; Clorhexidina alcohólica: 15 segundos; Povidona yodada: 30 segundos.",
+    "Alcohol isopropílico: 15 segundos; Clorhexidina alcohólica: 30 segundos; Povidona yodada: 60 segundos.",
+    "Alcohol isopropílico: 20 segundos; Clorhexidina alcohólica: 45 segundos; Povidona yodada: 2 minutos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el protocolo de Bacteriemia Zero, se debe considerar el uso de apósitos impregnados en clorhexidina en todos los casos siguientes EXCEPTO:",
+   "o": [
+    "En el caso de accesos venosos cercanos a traqueotomía.",
+    "Personas con accesos con mayor riesgo de bacteriemia relacionada con catéter.",
+    "Pacientes que han tenido bacteriemia relacionada con catéter en ocasiones anteriores.",
+    "Personas con implantación reciente de prótesis aórticas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la posición de colocación de los parches para realizar una desfibrilación a un paciente en decúbito prono en una unidad de cuidados intensivos?:",
+   "o": [
+    "Antero-posterior.",
+    "Escapular derecha y axilar izquierda a la altura de la derivación V6.",
+    "Bi-axilar.",
+    "Escapular izquierda y axilar izquierda a la altura de la derivación V6."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo ha de realizarse una desfibrilación de doble secuencia?:",
+   "o": [
+    "Se utilizará un desfibrilador con un duplicador de parches que se colocarán de forma anteroposterior, proporcionando un choque tridimensional.",
+    "Se utilizará un desfibrilador con colocación biaxial de parches, administrando dos choques manteniendo una corriente y duración constante a lo largo de la descarga, con independencia de la impedancia del tórax del paciente.",
+    "Se utilizarán dos desfibriladores conectados a un único juego de parches colocados de forma anterolateral, lanzando cada uno de ellos una descarga.",
+    "Se utilizarán dos desfibriladores, colocando unos parches de forma anterolateral y otros anteroposterior. Se lanzará un choque simultáneo entre ellos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cual es la posición adecuada para prevenir la embolia gaseosa en la retirada del Catéter Central de Inserción Periférica (PICC)?:",
+   "o": [
+    "Trendelemburg.",
+    "Semifowler o sentada.",
+    "Decúbito lateral opuesto al brazo donde está implantado el PICC.",
+    "Decúbito supino."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son las medidas a seguir para evitar el síndrome de pinch off en los reservorios venosos?:",
+   "o": [
+    "Implantación del catéter por vía subclavia en posición forzada del miembro superior y control mediante RX.",
+    "Utilizar el acceso yugular para la inserción del catéter y extraer el puerto venoso inmediatamente cuando ya no sea necesario.",
+    "Implantación del catéter entre la primera costilla y la subclavia y observar de cerca al paciente.",
+    "Implantación del catéter venoso central en el tercio medial del espacio costoclavicular."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué indica un resultado de 1 en un Índice de Tobillo-Brazo?:",
+   "o": [
+    "Normalidad.",
+    "Enfermedad arterial periférica leve.",
+    "Enfermedad arterial periférica moderada.",
+    "Enfermedad arterial periférica grave."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas opcionales para la prevención de bacteriemia asociada a catéter venoso central recogidas en el protocolo “bacteriemia zero” se encuentra:",
+   "o": [
+    "Higiene corporal diaria del paciente con clorhexidina.",
+    "Preferencia de canalización de vena yugular externa.",
+    "Sustitución de equipos que contengan emulsiones lipídicas cada 96h.",
+    "Retirar todos los catéteres venosos centrales innecesarios."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una vía venosa periférica con eritema, tumefacción en el punto de inserción y cordón venoso palpable de 5-6 cm por encima del punto de inserción y ﬁebre. ¿Qué puntuación recibirá en la escala Maddox?:",
+   "o": [
+    "2.",
+    "3.",
+    "4.",
+    "5."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En ausencia de recomendaciones especíﬁcas, ¿cuál es el intervalo recomendado de cambio de bioconectores de un PICC?: Escala visual de valoracion de flebitis Sin dolor, eritema, hinchazón, ni cordón palpable Nivel 0 No signos de flebitis: OBSERVAR punto de inserción Sin dolor Dolor sin eritema, hinchazón, ni cordón palpable en la zona de punción Nivel 1 Posible signo de flebitis: OBSERVAR punto de inserción Molestias Dolor con eritema y/o hinchazón, sin cordón palpable en la zona de punción Nivel 2 Inicio de flebitis: RETIRAR catéter Dolor medio Dolor, eritema, hinchazón, endurecimiento o cordón venoso palpable < 6 cm por encima del sitio de inserción Nivel 3 Etapa media de flebitis: RETIRAR catéter y valorar tratamiento Dolor medio Dolor, eritema, hinchazón, endurecimiento, cordón venoso palpable > 6 cm por encima del sitio de inserción y/o purulencia Nivel 4 Avanzado estado de flebitis: RETIRAR catéter y valorar tratamiento Dolor severo Trombosis venosa franca con todos los signos anteriores y dificultad o detención de la perfusión. Nivel 5 Tromboflebitis: RETIRAR catéter e iniciar tratamiento. Dolor severo PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 102",
+   "o": [
+    "48 horas.",
+    "96 horas.",
+    "5 días.",
+    "7 días."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Entre las complicaciones absolutas para la ﬁnalización precoz de una prueba de esfuerzo se encuentra?:",
+   "o": [
+    "Disnea.",
+    "Fatiga.",
+    "Palidez.",
+    "Desarrollo de bloqueo de rama que no pueda diferenciarse de una taquicardia ventricular."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la actitud a seguir en un paciente con un marcapasos que presenta un exceso de detección:",
+   "o": [
+    "Aumente la sensibilidad del dispositivo.",
+    "Reduzca la frecuencia de rescate del dispositivo.",
+    "Reduzca el miliamperaje del dispositivo.",
+    "Coloque un imán sobre el dispositivo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el sistema de monitorización que presenta el paciente de la imagen:",
+   "o": [
+    "MCL-1.",
+    "EASI.",
+    "Derivación de Lewis.",
+    "Mason-Likar."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2021-2022-10.jpg"
+  },
+  {
+   "q": "De las siguientes aﬁrmaciones señale la respuesta correcta según las últimas recomendaciones ILCOR-ERC 2021 sobre la cardioversión eléctrica:",
+   "o": [
+    "En taquicardia ventricular se recomienda utilizar niveles de energía entre 70 y 120 J considerando aumentar gradualmente la energía si con la primera descarga no se consigue el ritmo sinusal.",
+    "En la fibrilación auricular se recomienda administrar una descarga sincronizada a la máxima energía del desfibrilador en lugar de una estrategia con energías crecientes.",
+    "Para el flutter auricular se recomienda utilizar niveles de energía entre 120 y 150 J en la primera descarga.",
+    "Para la taquicardia supraventricular paroxística se recomienda utilizar niveles de energía entre 120 y 150 J en la primera descarga."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las modificaciones temporales inducidas por interferencias electromagnéticas sobre dispositivos implantables (marcapasos/ desfibriladores automáticos), NO se encuentra:",
+   "o": [
+    "Funcionamiento en modo asíncrono A00/ V00/D00.",
+    "Cambio automático de modo de estimulación DDD(R) a VVV(R).",
+    "Terapia de choque inapropiada.",
+    "Cambio de funcionamiento a modo “Back Up”."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un resultado en el Índice tobillo-brazo (ITB) mayor de 1,3 indica:",
+   "o": [
+    "Normal.",
+    "Obstrucción leve.",
+    "Obstrucción grave.",
+    "Sospecha de calcificación arterial."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al uso de clorhexidina en la preparación de la piel para la inserción de un catéter venoso periférico, señale la opción correcta:",
+   "o": [
+    "Preparar la piel limpia con una preparación de clorhexidina alcohólica al 5 % antes de la inserción de un catéter intravascular y en los cambios de apósito.",
+    "Si existe hipersensibilidad a la clorhexidina y la piel está limpia, como alternativa puede usarse suero fisiológico al 9 %.",
+    "Si existe hipersensibilidad a la clorhexidina, pueden usarse como alternativas tintura de yodo o alcohol al 70 %. 105 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Si existe hipersensibilidad a la clorhexidina, pueden usarse como alternativas tintura de yodo o alcohol al 96 %."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Se encuentra usted realizando una canalización de un PICC en brazo con ecógrafo. La ecografía 1, representa las cavidades A, B y C, que usted localiza al apoyar inicialmente la sonda. Posteriormente, al aplicar presión sobre el punto con la sonda (ecografía 2), queda únicamente visible la cavidad B. Teniendo en cuenta esta situación, indique a qué corresponde cada cavidad:",
+   "o": [
+    "A (arteria). B (vena). C (arteria).",
+    "A (nervio). B (arteria). C (vena).",
+    "A (nervio). B (vena). C (arteria).",
+    "A (vena). B (arteria). C (vena)."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2020-2021-6.jpg"
+  },
+  {
+   "q": "Para la administración de sueroterapia y medicación intravenosa con una osmolaridad inferior a 500 mOsm que se prevé de una duración inferior a 7 días, ¿cuál sería la elección adecuada del tipo de catéter?:",
+   "o": [
+    "El catéter seleccionado debe ser el de calibre más pequeño y con la longitud más larga necesaria para garantizar el tratamiento prescrito.",
+    "El catéter seleccionado debe ser el de calibre más grande y con la longitud más larga necesaria para garantizar el tratamiento prescrito.",
+    "El catéter seleccionado debe ser el de calibre más grande y con la longitud más corta necesaria para garantizar el tratamiento prescrito.",
+    "El catéter seleccionado debe ser el de calibre más pequeño y con la longitud más corta necesaria para garantizar el tratamiento prescrito. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 106"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la prueba de mesa basculante para el diagnóstico de síncope:",
+   "o": [
+    "La clasificación más frecuentemente utilizada para definir la respuesta positiva en la prueba de mesa basculante se define en el Vasovagal Syncope International Study (VASIS).",
+    "En caso de administrar nitroglicerina, se recomienda una dosis fija de 100 microgramos intravenosos, administrada con el paciente en posición vertical.",
+    "En la fase de bipedestación, se recomienda un ángulo de inclinación de la mesa de entre 80º y 90º.",
+    "Antes de colocarse en decúbito supino, se recomienda que el paciente permanezca inclinado al menos 5 minutos, si no se ha colocado una vía venosa, y al menos 20 minutos desde la canalización de una vía venosa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta a la hora de realizar un electrocardiograma a un paciente con dextrocardia:",
+   "o": [
+    "Aparecen cambios compatibles con un hemibloqueo de rama izquierda.",
+    "Nos hará sospechar de ésta, una onda P y un complejo QRS positivo en D-I, junto con una onda T invertida.",
+    "Observaremos una elevación del segmento ST principalmente en v4 y v5.",
+    "No es necesario invertir la derivación AVF."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Antes de implantar un PICC medimos el diámetro de la vena elegida. El porcentaje de ocupación de la vena debe ser:",
+   "o": [
+    "≤ 45 %.",
+    "≤ 50 %.",
+    "≤ 60 %.",
+    "Es indiferente, ya que la punta del catéter se sitúa en una vena de diámetro mucho mayor."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se pretende diagnosticar mediante el test de ergonovina, de realización frecuente en el laboratorio de hemodinámica?:",
+   "o": [
+    "Se busca detectar la presencia de una Angina de Prinzmetal o vasoespástica.",
+    "Se busca detectar el origen del impulso eléctrico que provoca una Taquicardia Paroxística para eliminarlo mediante una ablación cardíaca.",
+    "Es un test diseñado para el diagnóstico del Síndrome de Wolff-Parkinson-White.",
+    "Se busca diferenciar si un paciente sufre un bloqueo aurículo-ventricular de segundo grado Mobitz 1 o un bloqueo aurículoventricular de segundo grado Mobitz 2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1 (arriba). Teniendo en cuenta la imagen, indique la frecuencia cardiaca del paciente:",
+   "o": [
+    "50 latidos por minuto.",
+    "65 latidos por minuto.",
+    "80 latidos por minuto.",
+    "100 latidos por minuto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante un paciente al que se le ha implantado un marcapasos permanente y que va a ser dado de alta hospitalaria, indique cuál de las siguientes recomendaciones es INCORRECTA:",
+   "o": [
+    "Evitará permanecer durante tiempo prolongado junto a los dispositivos antirrobo existentes en lugares como centros comerciales, aeropuertos, etc.",
+    "Llevará consigo en todo momento la tarjeta identificativa que le acredita como portador de este dispositivo.",
+    "Evitará realizar soldaduras eléctricas y el uso de motosierras o en su defecto limitará la corriente de la soldadura o utilizará motosierras eléctricas en vez de gasolina.",
+    "En el domicilio, evitará permanecer cerca de los dispositivos “Wi-Fi”."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), ¿Cuánto tiempo debemos realizar compresión ﬁrme sobre el punto de punción tras una gasometría arterial en un paciente sin alteraciones hematológicas ni tratamiento con anticoagulantes?:",
+   "o": [
+    "Tres minutos en arteria radial.",
+    "Siete minutos en arteria radial.",
+    "Diez minutos en arteria femoral y humeral.",
+    "Quince minutos en arteria femoral y humeral."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La ubicación más adecuada para la punta de los catéteres centrales de inserción periférica (PICC) es:",
+   "o": [
+    "La parte superior de la vena cava superior.",
+    "La unión de la vena braquiocefálica izquierda y la vena cava superior.",
+    "El tercio inferior de la vena cava superior, próxima a la unión de dicha vena con la aurícula derecha.",
+    "Contigua a la pared lateral de la parte superior de la vena cava superior. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 110"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Al instaurar un catéter periférico de Calibre 18G, usted sabe que el ﬂujo máximo es aproximadamente de:",
+   "o": [
+    "330 ml/min.",
+    "215 ml/min.",
+    "106 ml/min.",
+    "62 ml/min."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El volumen mínimo de solución recomendado para el lavado de un catéter venoso es de:",
+   "o": [
+    "5 ml usando la técnica de “Push-stop”.",
+    "5 ml finalizando con presión positiva.",
+    "5 ml usando una jeringa de 10 ml para generar mayor presión.",
+    "El doble del volumen interno del catéter y sistema a lavar (por ejemplo, alargadera si la lleva)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la aplicación y medición el índice tobillo-brazo (ITB), identiﬁque la respuesta INCORRECTA:",
+   "o": [
+    "El ITB es el resultado de dividir el valor de la presión arterial sistólica (PAS) más alto de cualquiera de las arterias braquiales entre la PAS de cada tobillo.",
+    "La determinación del ITB es una herramienta muy útil en la estratificación del riesgo cardiovascular ya que identifica sujetos con aterosclerosis subclínica y alto riesgo cardiovascular.",
+    "Obtener como resultado 1,1 se considera dentro de los valores de normalidad.",
+    "Es una prueba sencilla, barata y reproducible, con una gran utilidad para el diagnóstico de la enfermedad arterial periférica y para la detección de sujetos con alto riesgo cardiovascular."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué frecuencia se recomienda cambiar los equipos utilizados para la perfusión continua de soluciones lipídicas a través de un catéter venoso central?:",
+   "o": [
+    "12 horas.",
+    "24 horas.",
+    "96 horas.",
+    "Una semana."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuándo se recomienda considerar el uso de apósitos con gel de clorhexidina para la prevención de la bacteriemia asociada a catéter?:",
+   "o": [
+    "En pacientes pediátricos.",
+    "En pacientes críticos o no críticos portadores de un catéter venoso central o de un catéter arterial.",
+    "En pacientes portadores de catéter venoso central.",
+    "Sólo en pacientes con alto riesgo de bacteriemia asociada a catéter venoso central."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Con objeto de prevenir la bacteriemia por catéter, ¿cuándo se recomienda la sustitución del catéter venoso periférico?:",
+   "o": [
+    "Cada 96 horas como máximo, ya que a partir de las 96 horas aumenta el riesgo de infección.",
+    "Solamente cuando se observen signos de inflamación o malfuncionamiento, ya que la sustitución ritunaria no disminuye la tasa de bacteriemia por catéter y aumenta los costes y la carga de trabajo.",
+    "Cada 72 horas.",
+    "Cada 7 días, junto con el cambio de sistemas de administración."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes actuaciones se recomienda ante la aparición de reacciones de sensibilidad repetidas en el punto de inserción de una vía subcutánea? Indique la opción correcta:",
+   "o": [
+    "Cambiar el punto de inserción de la vía subcutánea, la dirección de la inserción del mismo o aumentar la frecuencia de cambio de catéter.",
+    "Pasar a una velocidad de infusión de 5-6ml/h.",
+    "Retirar la infusión continua por vía subcutánea y administrar la medicación en bolos endovenosos.",
+    "Retirar la vía subcutánea y canalizar una vía venosa central."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las recomendaciones recogidas en el Protocolo de Prevención de las Neumonías Asocia das con la Ventilación Mecánica, en las UCIs españolas (Neumonía Zero) recogidos por el Ministerio de Sanidad y avaladas por la Socie dad Española de Enfermería Intensiva y Unidades Coronarias (SEEIUC) y la Sociedad Española de Medicina Intensiva, Crítica y Unida des Coronarias, SEMICYUC (actualizado en diciembre de 2021), ¿qué medida tiene mayor nivel de evidencia en la prevención de Neumonía Asociada a Ventilación Mecánica (NAVM):",
+   "o": [
+    "Realización de la higiene bucal del paciente sometido a ventilación mecánica, de forma periódica cada 6 - 8 horas utilizando soluciones de clorhexidina al 0,12 - 0,2%.",
+    "Uso profiláctico de antibióticos intravenosos de forma sistemática a todo paciente sometido a ventilación mecánica.",
+    "Cambios de circuito de los sistemas respiratorios de los equipos de ventilación mecánica periódicamente cada 48 horas como máximo.",
+    "Mantener al paciente en posición supina con una inclinación del cabecero no superior a 15 grados sobre el plano horizontal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta acerca del índice de fuerza inspiratoria negativa (NIF):",
+   "o": [
+    "Valores inferiores a -30cm de H2O, son predictores de un destete exitoso.",
+    "Se relaciona con la demanda ventilatoria y expresa la actividad del centro respiratorio.",
+    "Una presión mayor de 6 mbar indica fatiga inminente de los músculos respiratorios, con una alta probabilidad de fracaso en el destete.",
+    "Equivale a la presión negativa a los 100 milisegundos de la inspiración espontánea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre volúmenes y capacidades pulmonares es correcta?:",
+   "o": [
+    "El volumen residual (VR) es el volumen de aire que se puede exhalar después de una espiración forzada.",
+    "La capacidad vital (CV) es el volumen de aire que queda en los pulmones después de una inspiración normal.",
+    "La capacidad pulmonar total (CPT) es la suma del volumen residual (VR) y la capacidad vital (CV).",
+    "El volumen corriente (VC) es el volumen máximo de aire que una persona puede exhalar después de una inspiración máxima."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con relación al protocolo Neumonía Zero:",
+   "o": [
+    "La aspiración subglótica no debe superar los 50 mmHg.",
+    "En caso de administrar pasta para la higiene de la cavidad oral, esta ha de ser absorbible. 115 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Ha de administrarse antibiótico sistémico a todos los pacientes en los que se prevea una duración de intubación superior a 72h.",
+    "El diámetro de la sonda de aspiración de secreciones traqueales no debe superar la mitad de la luz interna del tubo traqueal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes variables NO corresponde a una espirometría forzada:",
+   "o": [
+    "Capacidad Vital Forzada.",
+    "Índice de Tiffeneau.",
+    "Volumen Espiratorio Forzado en el Primer Segundo.",
+    "Cociente FEV1/FVC."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, ¿cuál NO se considera una ventaja en la administración de inhaladores mediante cámara espaciadora en pediatría?:",
+   "o": [
+    "Evita el problema de la coordinación ya que permite el retraso entre el inicio de la inspiración y el disparo.",
+    "Obtienen un mejor depósito pulmonar.",
+    "Disminuyen la aparición de candidiasis oral tras la inhalación de corticoides.",
+    "Aumenta el impacto orofaríngeo de las partículas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación a los drenajes torácicos de aspiración seca:",
+   "o": [
+    "El sello de agua conecta el pulmón con el exterior.",
+    "Para aumentar la fuerza de succión, ha de añadirse agua a la cámara de aspirado.",
+    "Cuando el sello de agua sube por encima de los 2 cm, se produce una disminución de la presión intratorácica.",
+    "Cuando se produce un aumento de la presión intratorácica, ha de apretarse el botón de escape situado en la parte superior del drenaje hasta que el sello vuelve al nivel deseado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. Teniendo en cuenta la imagen, indique la opción INCORRECTA:",
+   "o": [
+    "La espirometría basal muestra una obstrucción leve al flujo aéreo.",
+    "Hay una obstrucción reversible al flujo aéreo.",
+    "La prueba broncodilatadora es positiva.",
+    "Los resultados de la prueba son compatibles con una Enfermedad Pulmonar Obstructiva Crónica."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2023-2024-9.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 14. Teniendo en cuenta la imagen, indique la opción correcta:",
+   "o": [
+    "El paciente activa el trigger de forma adecuada.",
+    "El paciente se encuentra ventilado en una modalidad controlada por presión.",
+    "El flujo ventilatorio es acelerado.",
+    "El paciente presenta secreciones."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2023-2024-14.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 15. ¿Qué es el dispositivo sanitario de la imagen?:",
+   "o": [
+    "Irrigador ginecológico.",
+    "Flutter respiratorio.",
+    "Medidor de flujo urinario portátil.",
+    "Agitador bucal."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2023-2024-15.jpg"
+  },
+  {
+   "q": "En el caso de que el canal de aspiración subglótica no esté permeable, ¿qué acción recomienda el protocolo de Neumonía Zero?:",
+   "o": [
+    "Desobstrucción con 5 ml de suero fisiológico.",
+    "Inyección a través del canal de 2 ml de agua destilada estéril.",
+    "Inyección a través del canal de 2 ml de aire.",
+    "Lavado del canal con 10 ml de agua destilada estéril."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuánto tiempo podrá durar como máximo la aplicación de oxígeno por gafas nasales con un ﬂujo de 5 litros por minuto a un paciente, si está conectado a una bala de oxígeno de 25 litros presurizada a 200 bares, y con una presión residual segura de 50 bares?:",
+   "o": [
+    "400 minutos.",
+    "625 minutos.",
+    "750 minutos.",
+    "875 minutos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuál de los siguientes es un factor que NO afecta a la calidad de medición de la pulsioximetría:",
+   "o": [
+    "Ictericia.",
+    "Presencia de carboxihemoglobina.",
+    "Altos niveles de luz ambiental.",
+    "Presencia de metahemoglobina (congénita o adquirida)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la actualización de las recomendaciones del proyecto Neumonía Zero publicada en 2022, ¿cuándo se recomienda controlar la presión del neumotaponamiento, decisión respaldada con una evidencia elevada y grado de recomendación fuerte?:",
+   "o": [
+    "Cada 4 horas.",
+    "Cada 6 horas.",
+    "Cada 8 horas y siempre que se realice un cambio postural.",
+    "De forma continua."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones se ha incluido como obligatoria en la actualización del proyecto Neumonía Zero publicado en 2022?:",
+   "o": [
+    "Utilización de clorhexidina acuosa al 0.5% en la higiene bucal.",
+    "Administración de probióticos por sonda nasogástrica.",
+    "Emplear tubos con sistema de aspiración continuo de secreciones endotraqueales.",
+    "Administrar antibióticos durante las 24 horas siguientes a la intubación de pacientes con disminución de consciencia previo a la intubación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes NO es un signo de alarma en la inserción del drenaje pleural:",
+   "o": [
+    "Fiebre.",
+    "Quilotórax.",
+    "Disnea.",
+    "Enfisema subcutáneo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta en relación con el trigger en ventilación mecánica:",
+   "o": [
+    "El trigger por flujo requiere menos trabajo respiratorio que el trigger por presión.",
+    "Un trigger excesivamente sensible producirá un aumento del trabajo respiratorio.",
+    "En la ventilación controlada por presión, el trigger dará lugar a una deflexión negativa en la curva de presión.",
+    "Es habitual fijar el trigger por volumen en 8-9 litros por minuto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el manejo avanzado de la vía aérea de un paciente en edad pediátrica, ¿cuál de las siguientes aﬁrmaciones es correcta en relación con el dióxido de carbono presente al ﬁnal de la espiración (ETCO2):",
+   "o": [
+    "En la parada cardiorrespiratoria, un ETCO2 ausente siempre implica que el tubo endotraqueal está mal colocado.",
+    "La detección de unos niveles adecuados de ETCO2 para confirmar la correcta posición del tubo en la tráquea puede sustituir a otras técnicas como la auscultación o la radiografía de tórax.",
+    "Durante la reanimación cardiopulmonar refleja el flujo sanguíneo pulmonar pero no el gasto cardiaco.",
+    "Una intubación selectiva del bronquio derecho no se puede valorar con la monitorización del CO2 espirado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A partir de qué porcentaje se considera un test de fuga negativo en la fase de destete de la ventilación mecánica?:",
+   "o": [
+    "Menor de un 10 %.",
+    "Mayor de un 10 %.",
+    "Menor de un 15 %.",
+    "Mayor de un 15 %."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Documento Internacional de Consenso sobre la Apnea Obstructiva del Sueño, señale la correcta sobre el uso de la CPAP:",
+   "o": [
+    "Se considera buena adhesión, la utilización del dispositivo durante al menos 5 h/noche durante el 80 % de las noches.",
+    "Se considera un cumplimiento óptimo, una utilización mínima de 6 h/noche.",
+    "Se recomienda que todo paciente en tratamiento con CPAP sea controlado los primeros quince días de tratamiento y hacer una revisión presencial mínima al año.",
+    "En caso de incumplimiento manifiesto, con un uso medio inferior a 3 h/noche, se debe incluir al paciente en un programa de cumplimiento y efectuar una nueva evaluación transcurrido un mínimo de un mes."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Manual SEPAR de Procedimientos, indique la opción INCORRECTA sobre los signos y síntomas de la neuropatía por compresión tras la realización de una gasometría:",
+   "o": [
+    "Parestesia.",
+    "Debilidad muscular.",
+    "Alodinia.",
+    "Rigidez muscular."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la aﬁrmación INCORRECTA en relación con el uso de inhaladores:",
+   "o": [
+    "Los inhaladores de cartucho presurizado requieren de propelentes para la emisión del fármaco.",
+    "Los inhaladores de polvo seco requieren de un transportador para el fármaco, que frecuentemente es la lactosa.",
+    "Los inhaladores de niebla fina requieren propelentes para la emisión del fármaco, pero a diferencia de los de cartucho presurizado, el propelente empleado tiene menos efectos sobre la huella de carbono.",
+    "Se consigue una mejor administración del fármaco inhalado si se emplea una cámara espaciadora con los inhaladores de cartucho presurizado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al control de la vía aérea a través de la técnica de intubación retrógrada en el Soporte Vital Avanzado en trauma, señale la INCORRECTA:",
+   "o": [
+    "Es una técnica útil en casos de lesiones maxilofaciales graves donde las referencias anatómicas se han perdido.",
+    "Para realizarla se introduce un catéter intravenoso que atraviese la membrana cricotiroidea.",
+    "Mediante la técnica de Seldinger se dirige la guía metálica desde la membrana cricotiroidea hasta su aparición por la boca.",
+    "El breve tiempo requerido para su realización es una de las principales ventajas de esta técnica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. ¿Cómo se llama la cánula que aparece en la imagen?:",
+   "o": [
+    "Cánula de Guedel.",
+    "Cánula de Berman.",
+    "Cánula de Fashtrach.",
+    "Tapón de ostomía curvo (o de Reims)."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2020-2021-4.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. El dispositivo de la imagen se utiliza para:",
+   "o": [
+    "Administración de gas sedante.",
+    "Extracción de tapones de cera en los oídos.",
+    "Succión de secreciones.",
+    "Administración de enema en paciente pediátrico encamado."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2020-2021-8.jpg"
+  },
+  {
+   "q": "¿Cuál de las siguientes escalas de valoración de la vía aérea precisa el uso de laringoscopio?:",
+   "o": [
+    "Escala de Mallampati.",
+    "Escala de Patil (distancia tiromentoniana).",
+    "Escala de Cormack y Lehane.",
+    "Escala de Hachinsky."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), ¿cuál es la indicación correcta para llevar a cabo una espirometría lenta?:",
+   "o": [
+    "Inspirar todo el aire que pueda hasta capacidad vital y soplar lentamente hasta volumen residual.",
+    "Inspirar hasta capacidad pulmonar total y soplar lentamente hasta volumen residual.",
+    "Inspirar todo el aire que pueda hasta capacidad vital y soplar lentamente hasta capacidad residual.",
+    "Inspirar todo el aire que pueda hasta capacidad pulmonar total y soplar lentamente hasta capacidad residual."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía Española de Manejo del Asma (GEMA), indique la respuesta correcta sobre los nebulizadores jet:",
+   "o": [
+    "Los nebulizadores jet con débito constante administran el aerosol sólo durante la inspiración o una fracción de esta.",
+    "Deben utilizarse flujos elevados, de entre 6 y 9 l/min.",
+    "Siempre queda un volumen residual que suele ser 0,1-0,3 ml.",
+    "En los nebulizadores jet con efecto Venturi, aproximadamente un 60-70 % del volumen nominal se pierde en el ambiente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con las diferencias entre los modos ventilatorios Volumen Control (VC) y Presión Control (PC):",
+   "o": [
+    "La presión máxima se mantiene constante en el modo VC, mientras que es variable en el PC.",
+    "El volumen circulante se mantiene constante en el modo PC, mientras que es variable en el VC.",
+    "El aumento del esfuerzo inspiratorio por parte del paciente reduce la presión de la vía aérea en el modo VC, mientras que aumenta el volumen circulante en el modo PC.",
+    "Una distensibilidad alta en el pulmón del paciente aumenta la presión de la vía aérea en el modo VC, mientras que reduce el volumen circulante en el modo PC."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la ventilación mediante gafas de alto ﬂujo:",
+   "o": [
+    "Administran un flujo decelerado.",
+    "No se encuentran indicadas en procedimientos invasivos (por ejemplo, una fibroscopia) ante el riesgo de agravar síntomas previos.",
+    "De cara a un mayor éxito de la terapia, se debe evitar la humidificación.",
+    "La FiO2 suministrada se aproxima a la que recibe el paciente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía Española para el Manejo del Asma (GEMA), ¿cuál de las siguientes es la técnica correcta de inhalación de un inhalador de cartucho presurizado?:",
+   "o": [
+    "Comenzar a inhalar lentamente a través de la boca y al mismo tiempo presionar el dispositivo para activar una dosis.",
+    "Inhalar desde el principio con el máximo esfuerzo inspiratorio tan profundo y fuerte como pueda hasta llenar los pulmones y al mismo tiempo presionar el dispositivo para activar una dosis.",
+    "Comenzar a inhalar lentamente a través de la boca y después presionar el dispositivo para activar una dosis.",
+    "Inhalar desde el principio con el máximo esfuerzo inspiratorio tan profundo y fuerte como pueda hasta llenar los pulmones y después presionar el dispositivo para activar una dosis."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué nos indica el nivel elevado del sello de agua de un drenaje torácico?:",
+   "o": [
+    "La presión negativa en la cavidad torácica.",
+    "La presión positiva en la cavidad torácica.",
+    "La presión de llenado del drenaje torácico.",
+    "El volumen de llenado del drenaje torácico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "O.F.B. es portador de una cánula de traqueotomía con neumotaponamiento. Entre los cuidados de enfermería que usted debe llevar a cabo se encuentra:",
+   "o": [
+    "Llenar el balón del neumotaponamiento con agua estéril con el volumen indicado por el fabricante de la cánula.",
+    "Llenar el balón del neumotaponamiento con suero fisiológico con el volumen indicado por el fabricante de la cánula.",
+    "Comprobar al menos cada 8 horas, mediante manómetro, que la presión del balón de neumotaponamiento se encuentra entre 20-30 mmHg.",
+    "Aspiración de secreciones de forma rutinaria, mediante rigurosa técnica aséptica."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "La utilización del dispositivo de cánula nasal de alto ﬂujo con respecto a la presión positiva continua nasal en las vías respiratorias (CPAP) como terapia ventilatoria en el lactante, presenta ciertas diferencias. Indique la opción correcta:",
+   "o": [
+    "La cánula nasal de alto flujo utiliza gas caliente y humidificado mientras que la CPAP lo hace a condiciones ambientales.",
+    "Existe menor riesgo de lesiones nasales con la aplicación de CPAP en comparación con las cánulas nasales de alto flujo.",
+    "El sistema de cánula nasal de alto flujo mantiene flujos fijos generando presiones variables, mientras que la CPAP utiliza flujos variables obteniendo una presión fija. 129 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Tanto la cánula nasal de alto flujo como la CPAP mejoran el patrón ventilatorio, aumentando la frecuencia respiratoria y disminuyendo las necesidades de oxígeno."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué tres exploraciones se realizan en la consulta de preanestesia para identiﬁcar una posible vía aérea difícil?:",
+   "o": [
+    "Valoración de náuseas y vómitos previos, índice biespectral y gasometría.",
+    "Mallampati, distancia tiromentoniana (Patil Aldreti) y correcta movilidad cervical.",
+    "Pruebas complementarias, maniobra de Sellick y pulsioximetría.",
+    "Capnometría, valoración columna vertebral y ausencia de piezas dentales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la técnica de espirometría forzada señale la INCORRECTA:",
+   "o": [
+    "Es necesario utilizar la pinza nasal.",
+    "Los valores obtenidos se interpretan comparándolos con los valores teóricos correspondientes teniendo en cuenta el sexo, edad, talla, peso y etnia.",
+    "Mide el porcentaje de la capacidad vital forzada que se espira durante el primer segundo de la maniobra de espiración forzada.",
+    "Mide el volumen de aire exhalado durante el primer segundo de la maniobra de espiración forzada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de calcular la dosis de oxígeno domiciliario en un paciente con Enfermedad Pulmonar Obstructiva Crónica (EPOC), señale cuál de los siguientes enunciados es correcto:",
+   "o": [
+    "Colocaremos al paciente en bipedestación respirando aire ambiente, junto con gafas nasales y monitorizado con pulsioxiometría.",
+    "Dejaremos de aumentar el flujo de oxígeno en el momento que la pulsioximetría alcance valores de 88% o superiores de forma estable.",
+    "Para el cálculo de la dosis durante el sueño, realizaremos un test de 10 minutos caminando con la dosis de oxígeno de reposo.",
+    "Ante un eventual viaje en avión, incrementaremos de forma empírica la dosificación en 2 litros por minuto."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo debemos preparar a un paciente traqueotomizado mediante una cánula fenestrada con balón, en el que nos indican que puede iniciar la fonación?:",
+   "o": [
+    "Balón traqueal hinchado, camisa interna sin fenestrar, abertura exterior cerrada.",
+    "Balón traqueal deshinchado, camisa interna fenestrada, abertura exterior abierta.",
+    "Balón traqueal hinchado, camisa interna fenestrada, abertura exterior abierta.",
+    "Balón traqueal deshinchado, camisa interna fenestrada, abertura exterior cerrada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La espirometría es la principal prueba de función pulmonar y resulta imprescindible para la evaluación y el seguimiento de las enfermedades respiratorias. Señale cuál NO es una Contraindicación absoluta de la espirometría:",
+   "o": [
+    "Cirugía cerebral, ocular u otorrinolaringológica reciente.",
+    "Despredimiento agudo de retina.",
+    "Hipertensión intracraneal.",
+    "Angina inestable."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles serían los signos y síntomas de toxicidad por oxígeno en un paciente tratado con oxigenoterapia al 60% desde hace 72 horas?:",
+   "o": [
+    "Dolor agudo subesternal, parestesias, adormilamiento, respiración superficial.",
+    "Molestias subesternales, parestesias, disnea, intranquilidad, sensación de malestar, dificultad respiratoria, hipoxemia.",
+    "Dolor en las bases pulmonares, calambres en las extremidades, tos productiva con abundante secreción fluida y espumosa.",
+    "Malestar general, hiperventilación, cianosis, desorientación, tos irritativa y hemoptisis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para la administración de fármacos por una sonda de gastrostomía (sonda PEG) se deben tener en cuenta una serie de recomendaciones. Señale la correcta:",
+   "o": [
+    "Se recomienda administrar el fármaco a la vez que se introduce la nutrición enteral o comida triturada casera para reducir su impacto sobre la mucosa gástrica.",
+    "Se deberá detener la alimentación 15 minutos antes de administrar el fármaco (en administración continua) o 1 hora antes en el caso de administración de los alimentos en bolo.",
+    "En caso de tener que administrar más de un fármaco diferente a la vez, no introducir agua por la sonda entre las distintas sustancias farmacológicas, y acabar lavando finalmente la sonda con al menos 30 ml de agua después de la administración del último fármaco. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 132",
+    "En caso de administrar varios fármacos se deben administrar primero las formas sólidas y finalmente las más líquidas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Usted se encuentra trabajando en una Unidad de Cuidados Intensivos, cuando le solicitan monitorizar la presión intraabdominal (PIA) de AMP, el paciente ubicado en el box 3, diagnosticado de shock séptico. Tras monitorizar dicha presión mediante un medio no invasivo, ¿qué cifras obtenidas le indicarán una posible hipertensión intraabdominal?:",
+   "o": [
+    "PIA ≥ 10 mmHg.",
+    "PIA ≥ 11 mmHg.",
+    "PIA ≥ 12 mmHg.",
+    "PIA ≥ 15 mmHg."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuántas luces tiene una sonda tipo Linton-Nachlas?:",
+   "o": [
+    "Una",
+    "Dos.",
+    "Tres.",
+    "Cuatro."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta el protocolo ITU Zero, ¿cuál de los siguientes factores tiene mayor relevancia para evitar la colonización bacteriana y reducir la tasa de infecciones del tracto urinario asociadas a catéteres?:",
+   "o": [
+    "Aplicación de povidona yodada en el meato uretral antes de la inserción del catéter.",
+    "Utilización de un sistema de drenaje urinario cerrado y estéril.",
+    "Cambios periódicos del catéter cada 7 días para prevenir biofilms.",
+    "Administración profiláctica de antibióticos durante la inserción del catéter."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta ante un paciente con retención aguda de orina:",
+   "o": [
+    "Se aplicarán medidas para evitar la aparición de hematuria ex-vacuo.",
+    "Se vaciará la vejiga completamente de forma rápida sin interrupción.",
+    "El cateterismo suprapúbico se encuentra contraindicado en pacientes con prostatitis aguda reciente.",
+    "Se debe retirar el sondaje si el volumen drenado en los 15 primeros minutos se encuentra por debajo de los 400 ml."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes medidas se encuentra recogida entre las “no hacer” dentro del protocolo ITU-Zero:",
+   "o": [
+    "Toma de cultivos si se sospecha infección.",
+    "Cambio de sonda urinaria si se sospecha infección.",
+    "Realizar lavados vesicales.",
+    "Fijar la sonda vesical al muslo del paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué frecuencia recomienda el proyecto ITU Zero que deben revisarse y actualizarse los protocolos de inserción y mantenimiento de la sonda uretral, con el fin de garantizar la calidad de los cuidados?:",
+   "o": [
+    "Cada 2 años y/o cuando se publique nueva evidencia.",
+    "Cada 3 años y/o cuando se publique nueva evidencia.",
+    "Cada 4 años y/o cuando se publique nueva evidencia.",
+    "Cada 5 años y/o cuando se publique nueva evidencia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta acerca de la colocación de un catéter de derivación urinaria doble J:",
+   "o": [
+    "Es una intervención en la que se realiza una incisión suprapúbica.",
+    "Precisa de Rayos x para su colocación.",
+    "El catéter quedará ubicado un extremo en el uréter contrario al afectado y el otro en la vejiga.",
+    "La colocación supone un deterioro para la calidad de vida del paciente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes medidas se encuentra recogida en las recomendaciones de “no hacer” del protocolo ITU-ZERO?:",
+   "o": [
+    "Realizar lavados vesicales.",
+    "Mantener siempre el sistema colector cerrado.",
+    "Utilizar técnica estéril de inserción.",
+    "Mantener el flujo de orina libre sin obstáculos en el circuito."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La deﬁnición de caso a valorar para el diagnóstico de la infección del tracto urinario en el paciente con sonda vesical sería:",
+   "o": [
+    "Pacientes que hayan portado sonda vesical durante más de 2 días y en el momento de presentación de los síntomas la sonda esté todavía presente o se haya retirado el día anterior y no en las 48 horas previas.",
+    "Pacientes que hayan portado sonda vesical durante más de 2 días y en el momento de presentación de los síntomas la sonda se haya retirado las 48 horas previas.",
+    "Pacientes que hayan portado sonda vesical durante más de 3 días y en el momento de presentación de los síntomas la sonda esté todavía presente o se haya retirado el día anterior y no en las 72 horas previas.",
+    "Pacientes que hayan portado sonda vesical durante más de 3 días y en el momento de presentación de los síntomas la sonda esté todavía presente o se haya retirado el día anterior y no en las 48 horas previas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas recomendadas para prevenir las infecciones del tracto urinario relacionadas con el sondaje vesical permanente, NO se encuentra: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 136",
+   "o": [
+    "Lavado con agua y jabón del meato urinario durante el aseo.",
+    "Lavado diario del meato urinario con antisépticos.",
+    "Lavado de manos del paciente, cuidadores y profesionales sanitarios.",
+    "Cambio de la sonda en caso de infección sintomática que requiera tratamiento antibiótico, con el fin de evitar recidivas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "J.C.L., de 46 años, con lesión medular tras accidente de tráﬁco hace 5 años, precisa realizarse sondajes intermitentes. Acude a consulta de enfermería en el centro de Salud a recoger el material necesario. ¿Qué tipo de catéter podría ser más beneﬁcioso en su caso?:",
+   "o": [
+    "Los catéteres de látex elastomérico recubiertos de hidrogel.",
+    "Los catéteres hidrofóbicos prelubricados.",
+    "Los catéteres de silicona impregnados de antibióticos para reducir el riesgo de infección.",
+    "Los catéteres con materiales hidrofílicos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A.T.C., de 72 años, es portador de sonda vesical permanente desde hace 8 años y acude a la consulta de su enfermera en el Centro de Salud para recogida de muestra de orina. ¿Cuál sería la intervención correcta?: 137 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+   "o": [
+    "La recogida de orina se realiza por punciónaspiración a través del dispositivo específico en la sonda, con aguja y jeringa estériles después de limpiar el punto de la toma.",
+    "Se pinzará el catéter, pasados 20 minutos se desconectará de la bolsa colectora sobre campo estéril y se despinzará, recogiendo la muestra directamente en un recipiente estéril.",
+    "El catéter debe ser reemplazado y la muestra de orina se obtendrá del catéter recién colocado.",
+    "Se pinzará el catéter y, sobre campo estéril, se conectará una bolsa colectora con válvula de vaciado. Pasados 20 minutos, se despinzará el catéter y se abrirá la válvula de vaciado recogiendo la muestra directamente en un recipiente estéril."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la referencia anatómica para la medición del cero de la presión intracraneal en un drenaje ventricular externo?:",
+   "o": [
+    "En el conducto auditivo externo, coincidiendo con el agujero de Monro.",
+    "Dos dedos por encima del conducto auditivo externo, coincidiendo con el foramen oval.",
+    "Unión fronto-parietal a la altura de la sutura coronal.",
+    "Borde superior del pabellón auricular."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes NO es una complicación derivada de la aplicación de un taponamiento nasal:",
+   "o": [
+    "Sinequia septal.",
+    "Necrosis septal nasal.",
+    "Shock tóxico.",
+    "Hipoacusia."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes aﬁrmaciones es INCORRECTA en relación a la aplicación de medicación oftálmica?:",
+   "o": [
+    "El tiempo de espera a la hora de aplicar dos colirios diferentes es de 3-5 minutos. 139 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Si el paciente no es capaz de sentir la gota caer en el ojo, deberá conservar el envase en el frigorífico con el fin de poder sentir el cambio de temperatura.",
+    "Para disminuir la absorción sistémica y reducir al mínimo los efectos indeseables, es importante ocluir los puntos lacrimales, en especial en los individuos con mayor vulnerabilidad a las sobredosis de fármacos.",
+    "No se debe retirar el exceso de medicación del ojo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación al proceso asistencial de extracción de tapones de cerumen en adultos. Seleccione la correcta:",
+   "o": [
+    "Uno de los posibles síntomas que pueden aparecer durante la extracción es la sensación de que pasa agua de lavado a la garganta.",
+    "El usuario se colocará en posición de Fowler.",
+    "Se debe dirigir el cono de la jeringuilla con agua tibia hacia la pared inferior del conducto auditivo externo.",
+    "Se tracciona el pabellón auricular para alinear las curvaturas del conducto auditivo hacia abajo y atrás, y así facilitar la entrada de agua y la salida de cerumen."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El tiempo que pueden permanecer a temperatura ambiente los frascos de hemocultivos antes de ser introducidos en el sistema de incubación no debe superar en ningún caso:",
+   "o": [
+    "2 horas.",
+    "6 horas.",
+    "12 horas.",
+    "18 horas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la técnica del control del INR con sangre capilar en pacientes que toman anticoagulantes orales antagonistas de la vitamina K, ¿cuál es la zona de punción correcta?:",
+   "o": [
+    "La zona de punción debe ser en el extremo más proximal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 3er o 4º dedo.",
+    "La zona de punción debe ser en el extremo más proximal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 2º o 3er dedo.",
+    "La zona de punción debe ser en el extremo más distal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 2º o 3er dedo.",
+    "La zona de punción debe ser en el extremo más distal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 3er o 4º dedo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según establece la Norma ISO 6710:2018, el tubo de la Imagen 9 contiene:",
+   "o": [
+    "Ácido etilendiaminotetraacético EDTA K3E.",
+    "Citrato trisódico.",
+    "Heparina de litio.",
+    "Heparina de sodio. 141 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA"
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2025-2026-9.jpg"
+  },
+  {
+   "q": "Teniendo en cuenta las directrices de la OMS sobre extracción de sangre mediante venopunción, indique cuál de los siguientes representa el orden correcto de llenado de muestras:",
+   "o": [
+    "Hemocultivos, coagulación, bioquímica, hemograma.",
+    "Hemograma, bioquímica, coagulación, serología, hemocultivos.",
+    "Coagulación, hemograma, bioquímica, tubo sin aditivos.",
+    "Hemograma, coagulación, bioquímica, serología."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la extracción de hemocultivos, es cierto que:",
+   "o": [
+    "Se recomienda el uso de mascarilla durante la extracción.",
+    "Se recomienda el uso de clorhexidina acuosa 2 %, frotando 10 segundos y dejando secar.",
+    "Se recomienda no desechar la sangre extraída de un catéter venoso central previo a la inoculación en el frasco de hemocultivo.",
+    "Se recomienda sacar los hemocultivos coincidiendo con el pico febril del paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica Enfermera sobre Hemocultivos del Instituto Español de Investigación Enfermera, ¿Cuál es el mejor método de aplicación del antiséptico para desinfección de la piel previo a la extracción de hemocultivos?:",
+   "o": [
+    "Uso de clorhexidina 2 % alcohólica, frotando durante 30 segundos la zona indicada y dejando secar al menos 3-5 minutos.",
+    "Uso de clorhexidina 2 % alcohólica, frotando durante 30 segundos la zona indicada y dejando secar al menos 2 minutos.",
+    "Uso de clorhexidina 2 % alcohólica, frotando durante 15 segundos la zona indicada y dejando secar al menos 3-5 minutos.",
+    "Uso de clorhexidina 2 % alcohólica por fricción en un área de 2-3 x 2-3 cm durante 15 segundos la zona indicada y dejando secar al menos 3-5 minutos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Se va a realizar la extracción de una muestra para hemocultivos a un niño de 48 horas de vida. ¿Qué antiséptico es el recomendado para la desinfección de la piel?:",
+   "o": [
+    "Clorhexidina alcohólica al 0.5%, dejando secar 2 minutos.",
+    "Clorhexidina acuosa al 1%, dejando secar 2 minutos.",
+    "Clorhexidina alcohólica al 0,12%, dejando secar 3-5 minutos.",
+    "Clorhexidina acuosa al 2%, dejando secar 3-5 minutos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones es correcta, con relación a la diferencia en tiempo de crecimiento entre hemocultivos simultáneamente tomados por el catéter y de una vena periférica (tiempo diferencial de positividad entre los hemocultivos)?:",
+   "o": [
+    "No se considera un método diagnóstico preciso para el diagnóstico de Bacteriemia Relacionada con el Catéter (BRC).",
+    "Requiere que el volumen de sangre extraído en ambos hemocultivos sea igual.",
+    "El tiempo que establece diferencia de crecimiento significativa entre las muestras pareadas es de 60 minutos.",
+    "Permite no tener que extraer sangre de todas las luces del catéter, con tomar muestra de la luz distal del catéter es suficiente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las manifestaciones clínicas de los tapones de cerumen NO se suelen encontrar:",
+   "o": [
+    "Sensación de plétora en el conducto auditivo externo.",
+    "Autofonía.",
+    "Acúfenos, tinnitus o zumbidos.",
+    "Iridociclitis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Para reducir el riesgo de infección, cuando la infusión subcutánea se utiliza para hidratación, se recomienda el cambio del sitio de punción:",
+   "o": [
+    "Cada 72 o 96 horas.",
+    "Cada 24-48 horas.",
+    "Cada 7 días, con el cambio de apósito.",
+    "No se debe cambiar rutinariamente, sólo se cambiará cuando haya signos de complicaciones."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La cavitación es un efecto biológico específico de:",
+   "o": [
+    "La ecografía.",
+    "La Resonancia Magnética Nuclear.",
+    "La Tomografía Computadorizada.",
+    "La Radiología convencional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

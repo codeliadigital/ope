@@ -1,0 +1,482 @@
+{
+ "tema": 20,
+ "preguntas": [
+  {
+   "q": "Pregunta asociada a la imagen 4. Teniendo en cuenta la imagen, indique la opción correcta:",
+   "o": [
+    "Tras elevar la presión del manguito al menos 40mmHg por encima de la presión sistólica durante 2-5 minutos, la imagen indica que los niveles de calcio en sangre son superiores a 2,15 mmol/L.",
+    "Tras elevar la presión del manguito al menos 20mmHg por encima de la presión sistólica durante 2-5 minutos, la imagen indica que los niveles de calcio en sangre son inferiores a 2,15 mmol/L.",
+    "Tras elevar la presión del manguito al menos 60mmHg por encima de la presión sistólica durante 5-10 minutos, la imagen indica que los niveles de calcio en sangre son superiores a 10,2 mmol/L.",
+    "Tras elevar la presión del manguito al menos 50mmHg por encima de la presión sistólica durante 5-10 minutos, la imagen indica que los niveles de calcio en sangre son inferiores a 10,2 mmol/L."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t06-2019-2020-4.jpg"
+  },
+  {
+   "q": "Una vía venosa periférica con eritema, tumefacción en el punto de inserción y cordón venoso palpable de 5-6 cm por encima del punto de inserción y ﬁebre. ¿Qué puntuación recibirá en la escala Maddox?:",
+   "o": [
+    "2.",
+    "3.",
+    "4.",
+    "5."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Se encuentra usted realizando una canalización de un PICC en brazo con ecógrafo. La ecografía 1, representa las cavidades A, B y C, que usted localiza al apoyar inicialmente la sonda. Posteriormente, al aplicar presión sobre el punto con la sonda (ecografía 2), queda únicamente visible la cavidad B. Teniendo en cuenta esta situación, indique a qué corresponde cada cavidad:",
+   "o": [
+    "A (arteria). B (vena). C (arteria).",
+    "A (nervio). B (arteria). C (vena).",
+    "A (nervio). B (vena). C (arteria).",
+    "A (vena). B (arteria). C (vena)."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2020-2021-6.jpg"
+  },
+  {
+   "q": "Al instaurar un catéter periférico de Calibre 18G, usted sabe que el ﬂujo máximo es aproximadamente de:",
+   "o": [
+    "330 ml/min.",
+    "215 ml/min.",
+    "106 ml/min.",
+    "62 ml/min."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El volumen mínimo de solución recomendado para el lavado de un catéter venoso es de:",
+   "o": [
+    "5 ml usando la técnica de “Push-stop”.",
+    "5 ml finalizando con presión positiva.",
+    "5 ml usando una jeringa de 10 ml para generar mayor presión.",
+    "El doble del volumen interno del catéter y sistema a lavar (por ejemplo, alargadera si la lleva)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes actuaciones se recomienda ante la aparición de reacciones de sensibilidad repetidas en el punto de inserción de una vía subcutánea? Indique la opción correcta:",
+   "o": [
+    "Cambiar el punto de inserción de la vía subcutánea, la dirección de la inserción del mismo o aumentar la frecuencia de cambio de catéter.",
+    "Pasar a una velocidad de infusión de 5-6ml/h.",
+    "Retirar la infusión continua por vía subcutánea y administrar la medicación en bolos endovenosos.",
+    "Retirar la vía subcutánea y canalizar una vía venosa central."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes aﬁrmaciones es INCORRECTA en relación a la aplicación de medicación oftálmica?:",
+   "o": [
+    "El tiempo de espera a la hora de aplicar dos colirios diferentes es de 3-5 minutos. 139 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Si el paciente no es capaz de sentir la gota caer en el ojo, deberá conservar el envase en el frigorífico con el fin de poder sentir el cambio de temperatura.",
+    "Para disminuir la absorción sistémica y reducir al mínimo los efectos indeseables, es importante ocluir los puntos lacrimales, en especial en los individuos con mayor vulnerabilidad a las sobredosis de fármacos.",
+    "No se debe retirar el exceso de medicación del ojo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación al proceso asistencial de extracción de tapones de cerumen en adultos. Seleccione la correcta:",
+   "o": [
+    "Uno de los posibles síntomas que pueden aparecer durante la extracción es la sensación de que pasa agua de lavado a la garganta.",
+    "El usuario se colocará en posición de Fowler.",
+    "Se debe dirigir el cono de la jeringuilla con agua tibia hacia la pared inferior del conducto auditivo externo.",
+    "Se tracciona el pabellón auricular para alinear las curvaturas del conducto auditivo hacia abajo y atrás, y así facilitar la entrada de agua y la salida de cerumen."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las manifestaciones clínicas de los tapones de cerumen NO se suelen encontrar:",
+   "o": [
+    "Sensación de plétora en el conducto auditivo externo.",
+    "Autofonía.",
+    "Acúfenos, tinnitus o zumbidos.",
+    "Iridociclitis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El desarrollo del organismo durante la edad pediátrica afecta a la farmacocinética de los medicamentos; Indique la opción INCORRECTA respecto a los factores que pueden modificar la respuesta a los fármacos:",
+   "o": [
+    "La absorción percutánea está aumentada en neonatos y lactantes.",
+    "El pH gástrico es más ácido y el vaciado gástrico se encuentra aumentado hasta los tres meses de edad.",
+    "La absorción tras la administración intramuscular se considera lenta y errática en el lactante.",
+    "El mayor contenido en agua corporal del neonato en comparación a niños más grandes genera concentraciones plasmáticas más bajas ante igual dosis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes factores disminuye la absorción de fármacos vía intramuscular, subcutánea e intradérmica en niños?:",
+   "o": [
+    "Masaje en el punto de punción.",
+    "Enzima hialuronidasa.",
+    "Aplicación de calor local.",
+    "Aplicación de frío local."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un recién nacido prematuro de 1.800 gramos de peso, debe recibir NeoRespR (medicamento ficticio), a una dosis de 12 microgramos/Kg de peso/dosis. Este medicamento viene en una presentación de 120 microgramos en un mililitro. ¿Cuántos mililitros se deben administrar por dosis?:",
+   "o": [
+    "0,12 ml.",
+    "0,15 ml.",
+    "0,18 ml.",
+    "0,25 ml."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A cuantas microgotas/min debe pasar un suero pautado a 12 ml/h en un paciente pediátrico?:",
+   "o": [
+    "26 microgotas/minuto.",
+    "24 microgotas/minuto.",
+    "14 microgotas/minuto.",
+    "12 microgotas/minuto."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Disponemos de un vial de propofol al 2 % de 50 ml y 2 ampollas de fentanilo de 3 ml y 0,15 mg. Indique la respuesta correcta para la administración de 40 mg de propofol y 75 mcg de fentanilo: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 192",
+   "o": [
+    "1 ml de propofol y 1 ml de fentanilo.",
+    "2 ml de propofol y 1,5 ml de fentanilo.",
+    "3 ml de propofol y 2 ml de fentanilo.",
+    "4 ml de propofol y 2,5 ml de fentanilo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es un inhibidor selectivo de la Cox-2 que se administra por vía parenteral?:",
+   "o": [
+    "Ibuprofeno.",
+    "Parecoxib.",
+    "Naproxeno.",
+    "Celecoxib."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los siguientes posibles usos clínicos de las benzodiazepinas, indique la OPCIÓN INCORRECTA:",
+   "o": [
+    "Ansiolítico.",
+    "Hipnótico.",
+    "Relajante muscular.",
+    "Analgésico."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En base al coeficiente de partición sangre / gas, ¿qué anestésico inhalado presenta un inicio de acción (inducción) más rápido?:",
+   "o": [
+    "Halotano.",
+    "Cloruro de etilo.",
+    "Desflurano.",
+    "Enflurano."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes indica una actuación correcta en la revisión farmacoterapéutica de un paciente que tiene prescritos inhibidores de la bomba de protones (omeprazol)?:",
+   "o": [
+    "Le explica al paciente que debe mantener una toma crónica de una vez al día porque tuvo una esofagitis por reflujo hace un año, está polimedicado y es mayor de 65 años.",
+    "Le recuerda al paciente que la administración debe ser por la noche, después de la ingesta de alimentos.",
+    "Valorar en el paciente el déficit de absorción de vitamina B12, calcio y magnesio dado que es un tratamiento crónico.",
+    "Le recuerda al paciente que la hipersecreción ácida de rebote por una interrupción brusca incrementa el riesgo de neumonía e infección entérica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El antídoto de elección ante una sobredosis de atenolol es:",
+   "o": [
+    "Flumazenilo.",
+    "Amiodarona.",
+    "Glucagón.",
+    "Naloxona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el antídoto del etilenglicol:",
+   "o": [
+    "Azul de metileno.",
+    "Fomepizol.",
+    "Carnitina.",
+    "Dimercaprol."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes antipsicóticos de administración intramuscular está indicado como tratamiento de mantenimiento en personas diagnosticadas de esquizofrenia?:",
+   "o": [
+    "Carbonato de litio.",
+    "Palmitato de paliperidona.",
+    "Zuclopentixol acetato.",
+    "Olanzapina."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué opioide presenta una mayor potencia analgésica?:",
+   "o": [
+    "Morfina.",
+    "Metadona.",
+    "Meperidina.",
+    "Fentanilo. 209 FARMACOLOGÍA"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En un niño de 5 años que acude a urgencias por vómitos persistentes asociados a un cuadro de gastroenteritis aguda, ¿qué fármaco en dosis única sería el de elección para el manejo de los vómitos, antes de introducir terapia de rehidratación?:",
+   "o": [
+    "Metoclopramida.",
+    "Domperidona.",
+    "Ondansetrón.",
+    "Haloperidol."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la administración intravenosa de nitroglicerina, debe saber que:",
+   "o": [
+    "La dilución siempre se realizará en un envase de vidrio.",
+    "La dilución sólo se realizará con suero glucosado al 10 %. 211 FARMACOLOGÍA",
+    "Puede administrarse en inyección intravenosa lenta si se diluye a razón de 1 mg/ml.",
+    "En el tratamiento de una angina inestable se iniciará una infusión de carga a dosis elevadas (200-250 microgramos/minuto), la cual se irá ajustando y reduciendo progresivamente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta con relación al seguimiento farmacoterapéutico y la reevaluación del mismo que se debe realizar a un paciente anticoagulado con acenocumarol:",
+   "o": [
+    "El acenocumarol puede seguir tomándolo durante el embarazo sin incrementar el riesgo de alteraciones en la gestación o malformaciones en el feto.",
+    "El aumento o disminución del consumo de hortalizas de hoja verde por parte del paciente no influye en la anticoagulación ni en la consiguiente dosificación del acenocumarol.",
+    "No es necesario suspender la pauta de acenocumarol en pacientes que van a someterse a pequeñas cirugías como, por ejemplo, la extracción de una pieza dental.",
+    "La dosis diaria de acenocumarol se administra en una única toma al día, siempre a la misma hora y lo más separado posible de las comidas."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la dosis diaria máxima recomendada de paracetamol en un adulto?:",
+   "o": [
+    "2 g.",
+    "4 g.",
+    "5 g.",
+    "6 g."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre los siguientes fármacos, que alivian el temblor y la rigidez muscular en la enfermedad de Parkinson, pero no la bradicinesia, ¿cuáles pueden causar confusión mental, agitación y alteraciones en la memoria cuando se utilizan en personas mayores?:",
+   "o": [
+    "Anticolinesterásicos.",
+    "Antimuscarínicos.",
+    "IMAO A.",
+    "Levodopa y otros potenciadores dopaminégicos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la naturaleza química de la heparina?:",
+   "o": [
+    "Es un glúcido.",
+    "Es un lípido.",
+    "Es una proteína.",
+    "Es un polinucleótido."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué fármaco, cuando se administra en perfusión rápida, puede provocar la aparición del “síndrome del cuello rojo” o del “hombre rojo”?:",
+   "o": [
+    "Vancomicina.",
+    "Ondansetrón.",
+    "Dexametasona.",
+    "Azitromicina."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes fármacos, ¿cuál es un diurético osmótico?:",
+   "o": [
+    "Manitol.",
+    "Furosemida.",
+    "Hidroclorotiazida.",
+    "Espironolactona."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "img": "img/preguntas/tubo-azul.svg",
+   "q": "¿Qué lleva en su interior el tubo con este tapón para que la sangre no coagule?",
+   "o": [
+    "EDTA",
+    "Heparina de litio",
+    "Citrato sódico al 3,2 %",
+    "Fluoruro sódico"
+   ],
+   "a": 2,
+   "e": "Tapón azul claro = citrato sódico 3,2 % (9:1): pruebas de coagulación (TP/INR, TTPA, fibrinógeno, dímero D). Pregunta literal del EIR. Llenarlo exactamente hasta la marca."
+  },
+  {
+   "img": "img/preguntas/tubo-morado.svg",
+   "q": "Este tubo (tapón morado) es el adecuado para:",
+   "o": [
+    "Hemograma",
+    "Coagulación",
+    "Bioquímica con gel separador",
+    "Glucosa diferida"
+   ],
+   "a": 0,
+   "e": "Morado = EDTA: hemograma (recuento y fórmula), HbA1c, carga viral. Invertir 8-10 veces."
+  },
+  {
+   "img": "img/preguntas/tubo-gris.svg",
+   "q": "El tubo con este tapón (gris) se utiliza principalmente para:",
+   "o": [
+    "VSG",
+    "Glucosa y lactato",
+    "Grupo sanguíneo",
+    "Hormonas tiroideas"
+   ],
+   "a": 1,
+   "e": "Gris = fluoruro sódico (inhibe la glucólisis) + oxalato potásico (anticoagulante): glucosa, lactato, alcohol. Es el último en el orden de extracción."
+  },
+  {
+   "img": "img/preguntas/tubo-verde.svg",
+   "q": "¿Qué anticoagulante lleva el tubo con este tapón (verde)?",
+   "o": [
+    "Citrato sódico",
+    "EDTA K3",
+    "Oxalato potásico",
+    "Heparina"
+   ],
+   "a": 3,
+   "e": "Verde = heparina de litio (o sodio): plasma para bioquímica urgente. En el orden de extracción va después del suero y antes del EDTA."
+  },
+  {
+   "img": "img/preguntas/tubo-negro.svg",
+   "q": "El tubo con tapón negro se emplea para:",
+   "o": [
+    "Velocidad de sedimentación globular (VSG)",
+    "Pruebas cruzadas",
+    "Gasometría venosa",
+    "Amonio"
+   ],
+   "a": 0,
+   "e": "Negro = citrato sódico en proporción 4:1 para la VSG (método de Westergren)."
+  },
+  {
+   "img": "img/preguntas/tubo-amarillo.svg",
+   "q": "Este tubo (tapón amarillo/dorado) lleva activador de la coagulación y gel separador. ¿Qué se obtiene al centrifugarlo?",
+   "o": [
+    "Plasma citratado",
+    "Sangre total",
+    "Suero",
+    "Plasma con EDTA"
+   ],
+   "a": 2,
+   "e": "Tubo de suero (SST): la sangre coagula (≈ 30 min) y el gel queda entre el coágulo y el suero. Bioquímica, serologías, hormonas, marcadores tumorales, niveles de fármacos."
+  },
+  {
+   "img": "img/preguntas/tubo-rosa.svg",
+   "q": "El tubo de tapón rosa, con EDTA, se reserva para:",
+   "o": [
+    "Coagulación",
+    "Banco de sangre: grupo, Rh y pruebas cruzadas",
+    "Glucemia",
+    "Microbiología"
+   ],
+   "a": 1,
+   "e": "Rosa = EDTA K2 para inmunohematología (grupo ABO/Rh, escrutinio de anticuerpos, pruebas cruzadas). Identificación inequívoca del paciente en la cabecera: un error de identificación puede causar una reacción hemolítica mortal."
+  },
+  {
+   "img": "img/preguntas/cateter-naranja.svg",
+   "q": "¿Qué calibre tiene el catéter venoso periférico de este color?",
+   "o": [
+    "14 G",
+    "16 G",
+    "18 G",
+    "22 G"
+   ],
+   "a": 0,
+   "e": "Naranja = 14 G, el de mayor calibre: politraumatizado, shock hemorrágico, reposición masiva. 16 G es gris."
+  },
+  {
+   "img": "img/preguntas/cateter-verde.svg",
+   "q": "Paciente que va a recibir una transfusión de concentrado de hematíes. ¿Qué calibre corresponde al catéter de este color, apto para transfundir en el adulto?",
+   "o": [
+    "24 G",
+    "22 G",
+    "18 G",
+    "26 G"
+   ],
+   "a": 2,
+   "e": "Verde = 18 G. Para transfundir en el adulto se recomiendan 18-20 G (los más finos pueden hemolizar y enlentecer el ritmo)."
+  },
+  {
+   "img": "img/preguntas/cateter-rosa.svg",
+   "q": "El catéter de este color es de calibre:",
+   "o": [
+    "18 G",
+    "20 G",
+    "22 G",
+    "24 G"
+   ],
+   "a": 1,
+   "e": "Rosa = 20 G, el estándar para fluidoterapia y medicación en el adulto."
+  },
+  {
+   "img": "img/preguntas/cateter-azul.svg",
+   "q": "El catéter de este color es de calibre:",
+   "o": [
+    "16 G",
+    "18 G",
+    "20 G",
+    "22 G"
+   ],
+   "a": 3,
+   "e": "Azul = 22 G: venas finas, ancianos, niños."
+  },
+  {
+   "img": "img/preguntas/cateter-amarillo.svg",
+   "q": "El catéter de este color (amarillo) se usa sobre todo en:",
+   "o": [
+    "Politraumatizados adultos",
+    "Neonatos y lactantes",
+    "Transfusión masiva",
+    "Administración de contraste en TAC"
+   ],
+   "a": 1,
+   "e": "Amarillo = 24 G (neonatos, lactantes, venas muy frágiles). Violeta = 26 G."
+  }
+ ]
+}

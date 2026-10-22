@@ -1,0 +1,223 @@
+{
+ "id": "eir-29",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 29,
+ "titulo": "EIR · Salud laboral. Enfermería del trabajo",
+ "explicadas": false,
+ "descripcion": "19 preguntas de los exámenes EIR de 2018 a 2025 sobre salud laboral. enfermería del trabajo, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Las técnicas de prevención de riesgos laborales son:",
+   "o": [
+    "Higiene en el trabajo, Ergonomía y Psicosociología, Seguridad aplicada y Medicina del Trabajo.",
+    "Seguridad industrial, Ergonomía y Psicosociología aplicada, Medicina del trabajo e Higiene en el trabajo.",
+    "Seguridad en el trabajo, Higiene industrial, Ergonomía y Psicosociología aplicada y Medicina del Trabajo.",
+    "Higiene industrial, Medicina del trabajo, Ergonomía y Seguridad aplicada y Psicosociología en el trabajo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Frente a qué tipo de incendios estaría indicado un extintor de clase B?:",
+   "o": [
+    "Incendios provocados por líquidos inflamables.",
+    "Incendios provocados por equipos eléctricos.",
+    "Incendios provocados por materiales sólidos.",
+    "Incendios provocados por metales combustibles."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Todo centro o servicio que utilice material sanitario cortopunzante:",
+   "o": [
+    "Dispondrá de Plan de Prevención de heridas ocasionadas a profesionales y usuarios.",
+    "Dispondrá de Plan de Prevención de heridas sea cual sea su naturaleza u origen.",
+    "Dispondrá de Plan de Prevención de heridas ocasionadas a los profesionales.",
+    "Podrá disponer de Plan de Prevención de heridas ocasionadas a los profesionales."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, señale la respuesta INCORRECTA acerca de las competencias y facultades de los Delegados de Prevención de Riesgos Laborales:",
+   "o": [
+    "Ser consultados por el empresario, con carácter previo a su ejecución, acerca de las decisiones a que se refiere el artículo 33 de la presente Ley.",
+    "Ejercer una labor de vigilancia y control sobre el incumplimiento de la normativa de prevención de riesgos laborales.",
+    "Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales.",
+    "Colaborar con la dirección de la empresa en la mejora de la acción preventiva."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el extintor apropiado para uso en incendios en los que están implicados equipos eléctricos:",
+   "o": [
+    "Tipo A.",
+    "Tipo B.",
+    "Tipo C.",
+    "Tipo D."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Imagen 7 contiene el registro de una audiometría tonal. Siguiendo la clasificación de la Guía de práctica clínica de audiometría tonal por vía aérea y ósea con y sin enmascaramiento. ¿Con qué se corresponde?:",
+   "o": [
+    "Con una audiometría normal.",
+    "Con una hipoacusia leve.",
+    "Con una hipoacusia moderada.",
+    "Con una hipoacusia severa."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t29-2025-2026-7.jpg"
+  },
+  {
+   "q": "En el contexto de la actividad asistencial que implica el uso habitual de equipos informáticos para el registro de la actividad clínica, ¿cuál es la distancia mínima recomendada entre los ojos y la pantalla para prevenir riesgos visuales y posturales?:",
+   "o": [
+    "350 mm para tareas habituales.",
+    "450 mm para tareas habituales.",
+    "500 mm en pantallas táctiles.",
+    "600 mm."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según se determina en el Protocolo de Vigilancia Sanitaria Específica para los trabajadores expuestos a Dermatosis Laborales, la dermatosis de contacto provocada por la utilización de guantes de látex:",
+   "o": [
+    "Es de estadio II si provoca una urticaria localizada en la zona de contacto.",
+    "Es de estadio II si provoca una urticaria generalizada y asma.",
+    "Es de estadio II si provoca una urticaria generalizada y una reacción anafiláctica.",
+    "Es de estadio II si provoca una urticaria local y generalizada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. ¿Dónde depositaría el residuo sanitario que aparece en la imagen si está claramente manchado de fluidos buconasales?",
+   "o": [
+    "Debe recogerse en un contenedor de color negro.",
+    "Debe recogerse en un contenedor de color amarillo.",
+    "Debe recogerse en un contenedor de color azul.",
+    "Debe recogerse en un contenedor de color rojo."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t29-2024-2025-5.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Teniendo en cuenta el dispositivo de la imagen, indique la opción INCORRECTA:",
+   "o": [
+    "Se trata de un dosímetro tipo pulsera que contiene una lámina con cuatro detectores termoluminiscentes.",
+    "Su esterilización no requiere procesos de temperaturas superiores a 80˚C.",
+    "Su recambio se realizará semanalmente.",
+    "Si es necesaria la utilización de guantes, el dosímetro de muñeca debe colocarse por debajo de éstos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la OMS, ¿qué nivel máximo de intensidad acústica debería haber en los hospitales?:",
+   "o": [
+    "15 decibelios.",
+    "35 decibelios.",
+    "50 decibelios.",
+    "65 decibelios."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía Técnica del Instituto de Seguridad y Salud en el Trabajo para la evaluación y prevención de riesgos laborales relativos al uso de equipos con pantallas de visualización de datos, la colocación de la pantalla en ningún caso debe estar a menos de:",
+   "o": [
+    "300mm.",
+    "350mm.",
+    "400mm.",
+    "500mm."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme al Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, aquel agente biológico que resulta poco probable que cause una enfermedad en el hombre, se clasifica como:",
+   "o": [
+    "Agente Biológico del grupo 1.",
+    "Agente Biológico del grupo 2. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 626",
+    "Agente Biológico del grupo 3.",
+    "Agente Biológico del grupo 4."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. La señal en forma de panel de la imagen, en un lugar de trabajo, advierte sobre un riesgo o peligro por:",
+   "o": [
+    "Materias radiactivas.",
+    "Radiaciones ionizantes.",
+    "Riesgo biológico.",
+    "Radiación atómica."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t29-2022-2023-9.jpg"
+  },
+  {
+   "q": "Según el Reglamento sobre protección sanitaria contra radiaciones ionizantes, el límite de dosis efectiva para los trabajadores expuestos será:",
+   "o": [
+    "De 50 mSv durante todo período de cuatro años oficiales consecutivos, sujeto a una dosis efectiva máxima de 25 mSv en cualquier año oficial.",
+    "De 100 mSv durante todo período de dos años oficiales consecutivos, sujeto a una dosis efectiva máxima de 50 mSv en cualquier año oficial.",
+    "De 100 mSv durante todo período de cinco años oficiales consecutivos, sujeto a una dosis efectiva máxima de 50 mSv en cualquier año oficial.",
+    "De 50 mSv durante todo período de cinco años oficiales consecutivos, sujeto a una dosis efectiva máxima de 10 mSv en cualquier año oficial."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "De acuerdo con el Reglamento sobre protección sanitaria contra radiaciones ionizantes, en función del riesgo de exposición y teniendo en cuenta la probabilidad y magnitud de las exposiciones potenciales, el titular de la práctica clasificará los lugares de trabajo en las siguientes zonas:",
+   "o": [
+    "Zona controlada y zona vigilada.",
+    "Zona controlada y zona de alto riesgo.",
+    "Zona vigilada y zona de riesgo.",
+    "Zona de control y zona de público general."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme a lo dispuesto en el Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, el Coronavirus del síndrome respiratorio agudo grave 2 (SARS-CoV-2), es considerado:",
+   "o": [
+    "Agente Biológico del grupo 1.",
+    "Agente Biológico del grupo 2.",
+    "Agente Biológico del grupo 3.",
+    "Agente Biológico del grupo 4."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la OMS, para que un edificio sea considerado como “enfermo”, ¿qué porcentaje mínimo de sus ocupantes deben tener algún tipo de afectación asociada a su construcción?:",
+   "o": [
+    "20 %.",
+    "15 %.",
+    "12 %.",
+    "5 %."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el RD 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social y se establecen criterios para su notificación y registro, ¿a qué grupo pertenecen las enfermedades profesionales causadas por agentes carcinógenos?:",
+   "o": [
+    "Grupo 3.",
+    "Grupo 4.",
+    "Grupo 5.",
+    "Grupo 6."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

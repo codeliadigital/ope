@@ -44,7 +44,7 @@ sub: Resumen OPE Enfermería SMS · Ley 39/2006 y SAAD, principios, niveles de p
 
 ## 5. Escalas de valoración geriátrica
 
-- **Índice de Barthel (ABVD, 0-100)**: 10 actividades; **traslado cama-sillón y deambulación valen hasta 15**; comer, vestirse, deposición, micción, retrete y escaleras hasta 10; **baño y arreglarse 5**. **100 independiente** (90 en silla de ruedas); **≥ 60 leve**; **40-55 moderada**; **20-35 grave**; **< 20 total**.
+- **Índice de Barthel (ABVD, 0-100)**: 10 actividades; **traslado cama-sillón y deambulación valen hasta 15**; comer, vestirse, deposición, micción, retrete y escaleras hasta 10; **baño y arreglarse 5**. **100 independiente** (90 en silla de ruedas); **≥ 60 leve**; **40-55 moderada**; **20-35 grave**; ==**< 20 total**==.
 - **Índice de Katz (ABVD)**: 6 funciones (baño, vestido, retrete, movilidad, continencia, alimentación) con letras **A (independiente) a G (dependiente en todas)**.
 - **Lawton y Brody (AIVD, 0-8)**: teléfono, compras, comida, hogar, ropa, transporte, **medicación**, **dinero**; **8 = independiente**. Las **AIVD son las primeras que se pierden** en el deterioro cognitivo. Sesgo de género en algunos ítems.
 - **MEC de Lobo** (adaptación del MMSE de 30 puntos): **35 puntos**; orientación, fijación, cálculo (restar de 3 en 3 desde 30), memoria diferida, lenguaje y construcción (copia de **pentágonos**); se **corrige por edad y escolaridad**; **≤ 23 = deterioro** (corte 23/24).
@@ -69,12 +69,12 @@ sub: Resumen OPE Enfermería SMS · Ley 39/2006 y SAAD, principios, niveles de p
 !! Ley **39/2006, de 14 de diciembre**; crea el **SAAD**; «cuarto pilar».
 !! Nivel **mínimo = Estado**; acordado = Estado + comunidad; adicional = comunidad.
 !! Autonomía = **decidir**; dependencia = **permanente**, necesita **otra persona** para las **ABVD**.
-!! Grado I **1 vez/día (25-49)**; II **2-3 veces/día (50-74)**; III **apoyo continuo (75-100)**; **< 25 sin grado**.
+!! ==Grado I **1 vez/día (25-49)**; II **2-3 veces/día (50-74)**; III **apoyo continuo (75-100)**; **< 25 sin grado**.==
 !! Prioridad de los **servicios**; teleasistencia compatible con todo **salvo residencia**.
 !! Cuidador no profesional: **≥ 18 años** y parentesco hasta **3.er grado** (tíos y sobrinos sí; **primos no**).
 !! Resolver en **6 meses**; traslado: **60 días**; revisión por **cambio de salud, error o cambio de situación**.
 !! BVD **≥ 3 años**, **47 tareas, 10 actividades**, observación directa; EVE **< 3 años** (1-2-3).
-!! Barthel: **15 puntos solo traslado y deambulación**; silla de ruedas máx. **90**; **< 20 total**.
+!! ==Barthel: **15 puntos solo traslado y deambulación**; silla de ruedas máx. **90**; **< 20 total**.==
 !! Katz **A = independiente**, **G = dependiente**; Lawton **8 ítems**, se pierden **primero**.
 !! MEC de Lobo **35**, corte **23/24**; Pfeiffer **cuenta errores** (≥ 3 deterioro).
 !! Gijón **> 15** riesgo social; Zarit **≥ 56** intensa (abreviado **≥ 17**).

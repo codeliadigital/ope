@@ -53,7 +53,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: El proceso de atención de enferme
 - **NANDA-I 2024-2026**: **13 dominios, 47 clases y 277 diagnósticos**. Novedades: nueva clase en el Dominio 12 (Confort), revisión de los 8 ejes, términos MeSH, lenguaje inclusivo, nuevos diagnósticos (alfabetización en salud, envejecimiento saludable) y retirada de diagnósticos simples (obesidad, insomnio).
 - **Priorización**: gravedad/urgencia, jerarquía de **Maslow** (fisiológicas primero) o **ABC** en emergencias. El riesgo alto va antes que los de bienestar.
 
-!! El diagnóstico **de riesgo NO lleva "S"** y el de **promoción de la salud NO lleva "E"**.
+!! ==El diagnóstico **de riesgo NO lleva "S"** y el de **promoción de la salud NO lleva "E"**.==
 !! NANDA-I aconseja valorar con los **patrones de Gordon**, no con sus propios dominios.
 
 ## A4. Planificación
@@ -177,7 +177,7 @@ Persona **mayor de edad, capaz y libre**; por escrito ante **notario** (sin test
 
 !! El consentimiento **no** es "siempre escrito": la regla es verbal.
 !! Ojo: el manual de este tema recoge la redacción antigua ("decide el menor y se informa a los padres"). La Ley 41/2002 vigente (reformada en 2015) dice que, en **grave riesgo**, consiente el **representante legal** tras oír al menor. Así lo recogen también los manuales de los temas 5 y 10.
-!! Regla **3-2-2** de testigos. "Ninguno puede ser familiar" es falso: uno sí puede serlo.
+!! ==Regla **3-2-2** de testigos. "Ninguno puede ser familiar" es falso: uno sí puede serlo.==
 !! En la sustitución, el familiar consanguíneo es el **último** escalón.
 
 ## B4. Historia clínica y deberes (Títulos VI y VII)
@@ -192,7 +192,7 @@ Persona **mayor de edad, capaz y libre**; por escrito ante **notario** (sin test
 - **Alta forzosa (art. 64)**: si el paciente rechaza el tratamiento y **no firma el alta voluntaria**, la dirección del centro, a propuesta del facultativo, dispone el **alta forzosa**.
 
 !! Excepciones al acceso del paciente: **terceros** y **anotaciones subjetivas**.
-!! Los 20 años cuentan desde el **último alta**, no desde la creación del documento ni el nacimiento.
+!! ==Los 20 años cuentan desde el **último alta**, no desde la creación del documento ni el nacimiento.==
 !! Doble negativa (tratamiento y alta voluntaria) = **alta forzosa**, no retención ni juez.
 
 ## B5. Ley 12/2014, de 16 de diciembre, de Transparencia y Participación Ciudadana

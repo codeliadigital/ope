@@ -1,0 +1,496 @@
+{
+ "id": "eir-27",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 27,
+ "titulo": "EIR · Dermatología",
+ "explicadas": false,
+ "descripcion": "44 preguntas de los exámenes EIR de 2018 a 2025 sobre dermatología, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Pregunta asociada a la imagen 5. Identifique de qué tipo de tejido se trata:",
+   "o": [
+    "Tejido muscular cardiaco.",
+    "Tejido muscular liso.",
+    "Tejido conjuntivo especializado.",
+    "Tejido adiposo."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t27-2020-2021-5.jpg"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA en relación con las líneas de Langer:",
+   "o": [
+    "Son líneas o arrugas naturales con una mínima tensión lineal.",
+    "Se denominan también líneas de tensión.",
+    "Delimitan el plano sagital del cuerpo dividiéndolo en derecha e izquierda.",
+    "Deben tenerse en cuenta a la hora de diseñar las incisiones quirúrgicas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El auge de la realización de tatuajes corporales va acompañado de un aumento de la incidencia de complicaciones, tanto locales, como sistémicas, habiendo evidencia de la relación causal entre el color de las tintas utilizadas y posibles complicaciones, entre las que se encuentra la dermatitis alérgica de contacto. ¿A qué color de tinta se debe más habitualmente?:",
+   "o": [
+    "Amarillo.",
+    "Rojo.",
+    "Verde.",
+    "Azul."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes es un factor de riesgo en el cáncer de piel de tipo no-melanoma?:",
+   "o": [
+    "Es muy importante la intensidad de la exposición a la luz solar.",
+    "Tienen más predisposición las personas de raza negra.",
+    "Influye la radiación UV a lo largo de toda la vida.",
+    "No influye la genodermatosis."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Documento Técnico del Grupo Nacional para el Estudio y Asesoramiento en Úlceras (GNEAUPP) (3ª edición, 2021), ¿por qué las lesiones producidas en personas sanas, como las ocasionadas por el roce de una raqueta, un zapato nuevo o una dermatitis perianal tras una gastroenteritis, no se consideran lesiones relacionadas con la dependencia?:",
+   "o": [
+    "Porque se localizan en tejidos blandos y no en prominencias óseas.",
+    "Porque no aparecen en pacientes institucionalizados.",
+    "Porque no existe limitación o pérdida de autonomía ni necesidad de ayuda en las actividades básicas.",
+    "Porque son lesiones leves que cicatrizan de forma espontánea en pocos días, sin tendencia a cronificarse."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué debería de tener en cuenta si aplicara sulfadiazina argéntica en una quemadura de segundo grado?:",
+   "o": [
+    "Se recomienda cubrir con vendaje y cambiar cada 24-48 horas para minimizar el riesgo de infección.",
+    "Su empleo puede provocar una reacción cutánea grave que comprometa la vida del paciente (necrolisis epidérmica tóxica).",
+    "Puede provocar una hiperpigmentación grisácea de la piel e hiperproliferación de tejido conectivo por fotosensibilización.",
+    "El empleo crónico o en zonas extensas puede provocar una trombocitopenia con sangrado activo del lecho de la herida."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Una lesión cutánea asociada a la humedad de Categoría 2A es:",
+   "o": [
+    "Aquella que presenta un eritema superficial sin pérdida de la integridad cutánea.",
+    "Aquella que presenta un eritema intenso sin pérdida de la integridad cutánea.",
+    "Aquella que presenta una erosión menor al 50 % de la superficie del eritema.",
+    "Aquella que presenta una erosión mayor al 50 % de la superficie del eritema."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes NO es un indicador de la presencia de biofilm en una herida?:",
+   "o": [
+    "Granulación deficiente / friable.",
+    "Disminución del exudado / humedad.",
+    "Recurrencia del retraso en la cicatrización tras el cese del tratamiento antibiótico.",
+    "Signos sutiles de infección."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los trastornos cutáneos que pueden conducir a úlceras de etiología venosa, la lipodermatoesclerosis es:",
+   "o": [
+    "Una lesión cutánea secundaria a extravasación de hematíes y depósitos de hemosiderina.",
+    "Una zona cutánea indurada que afecta a la piel y tejido celular subcutáneo, formando placas hiperpigmentadas.",
+    "Una zona cutánea de aspecto blanquecino, a menudo surcadas por capilares y varículas.",
+    "Una lesión cutánea secundaria a la inflamación de los vasos linfáticos, por lo general de etiología bacteriana."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La mayoría de las lesiones por presión (LPP) en niños menores de tres años, se localizan en:",
+   "o": [
+    "Talones.",
+    "Zona sacra.",
+    "Trocánteres.",
+    "Cabeza."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué puntuación obtendrá mediante la escala Perineal Assessment Tool (PAT) al valorar a una paciente con dermatitis asociada a la incontinencia y que presenta heces líquidas con orina, se le cambia el pañal cada 2 horas, muestra piel erosionada con dermatitis, su nivel de albúmina es de 2,8 mg/dl y tiene pautado tratamiento antibiótico y nutrición parenteral total?:",
+   "o": [
+    "7.",
+    "9.",
+    "12.",
+    "15."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La aplicación de soluciones que contienen ácido hipocloroso, hipoclorito sódico, octenidina, PHMB y povidona yodada, deben ser únicamente consideradas en las lesiones por presión (LPP) que presentan:",
+   "o": [
+    "Esfacelos.",
+    "Exudado purulento.",
+    "Exudado sero-hemático y mal olor.",
+    "Biofilm."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la prevención de las lesiones por presión se recomienda el empleo de:",
+   "o": [
+    "Cojines redondos cerrados, tipo rosca, flotadores, etc.",
+    "Masajes sobre prominencias óseas.",
+    "Ácidos grasos hiperoxigenados de aplicación tópica.",
+    "Pieles de cordero sintéticas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes situaciones NO se da habitualmente en un biofilm del lecho de una herida:",
+   "o": [
+    "Se puede retirar fácilmente con una gasa/ cureta.",
+    "Persiste a los desbridamientos autolítico y enzimático.",
+    "Se encuentra muy adherido al lecho de la lesión.",
+    "Se regenera facilmente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La terapia de presión negativa para el tratamiento de las heridas está contraindicada en:",
+   "o": [
+    "Úlceras neoplásicas.",
+    "Pacientes anticoagulados.",
+    "Exposición ósea.",
+    "Pacientes no colaboradores."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la etiología y características de la herida, ¿cuál de los siguientes aspectos NO es habitualmente necesario contemplar en la valoración de la misma?:",
+   "o": [
+    "Dolor.",
+    "Tejido del lecho.",
+    "Índice de roce.",
+    "Tunelización/cavitaciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La metodología recomendada para la obtención de la muestra microbiana en una úlcera de extremidad inferior es:",
+   "o": [
+    "Frotis mediante hisopo.",
+    "Punción-aspiración.",
+    "Microscopía molecular.",
+    "Biopsia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En heridas en neonatos, el método de desbridamiento de primera elección sería:",
+   "o": [
+    "El desbridamiento cortante.",
+    "El desbridamiento enzimático o químico.",
+    "El desbridamiento autolítico.",
+    "El desbridamiento osmótico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Aceptando la clasificación de la ISTAP y el GNEAUPP, a un desgarro cutáneo con pérdida parcial del colgajo, que no puede volverse a colocar para cubrir la totalidad del lecho de la herida, le asignaremos la:",
+   "o": [
+    "Categoría 1.",
+    "Categoría 2.",
+    "Categoría 3.",
+    "Categoría 4."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Salvo que sea necesario controlar la carga bacteriana, la limpieza rutinaria de las heridas crónicas debe realizarse con:",
+   "o": [
+    "Clorhexidina.",
+    "Hipoclorito sódico/ácido hipocloroso.",
+    "Suero fisiológico o agua potable.",
+    "Polihexanida."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La recomendación sobre el grado de compresión vigente en España (Ferrer et al., 2003) para las medias elásticas, clasifica como compresión fuerte la establecida entre:",
+   "o": [
+    "22-29 mmHg.",
+    "30-40 mmHg.",
+    "40-50 mmHg.",
+    "Mayor de 50 mmHg."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes características clínicas NO es habitual encontrar en las lesiones de tejidos profundos?:",
+   "o": [
+    "Doble eritema (el segundo más oscuro y dentro del primero).",
+    "Desplazamiento entre 30-45º de las crestas óseas.",
+    "Su color puede diferir de la piel de los alrededores.",
+    "Evolución favorable con un tratamiento óptimo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El GNEAUPP propone como definición de lesiones por humedad:",
+   "o": [
+    "Lesión localizada en la piel (no suele afectar a tejidos subyacentes) que se presenta como una inflamación (eritema) y/o erosión de la misma, causada por la exposición prolongada (continua o casi continua) a diversas fuentes de humedad con potencial irritativo para la piel (por ejemplo: orina, heces, exudado de heridas, efluentes de estomas o fístulas, sudor, saliva o moco).",
+    "Lesión localizada en la piel y tejidos profundos que se presenta como una inflamación (eritema) y/o erosión de la misma, causada por la exposición prolongada (continua o casi continua) a diversas fuentes de humedad con potencial irritativo para la piel (por ejemplo: orina, heces, exudado de heridas, efluentes de estomas o fístulas, sudor, saliva o moco). 601 DERMATOLOGÍA",
+    "Lesión localizada en la piel (no suele afectar a tejidos subyacentes) que se presenta siempre con erosión de la misma, causada por la exposición prolongada (continua o casi continua) a diversas fuentes de humedad con potencial irritativo para la piel (por ejemplo: orina, heces, exudado de heridas, efluentes de estomas o fístulas, sudor, saliva o moco).",
+    "Lesión localizada en la piel y tejidos profundos que se presenta como una inflamación (eritema), causada por la desvitalización del tejido como consecuencia de la pérdida de turgencia celular por exposición prolongada a diversas fuentes irritativas (físicas o químicas)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante úlceras de extremidad inferior profundas (Grado IV) altamente exudativas, son válidos para el control del exceso de exudado los apósitos de:",
+   "o": [
+    "Hidrogel.",
+    "Film de poliuretano.",
+    "Gasa.",
+    "Alginato."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En pacientes en posicionamiento en decúbito prono ingresados en las unidades de cuidados críticos, como ha sido necesario con algunos pacientes COVID-19, señale cuál de las siguientes recomendaciones específicas NO sería apropiada:",
+   "o": [
+    "Valoración facial en cada rotación para constatar lesiones.",
+    "Valorar en cada rotación otras partes del cuerpo que en esta posición pueden estar en peligro de ulceración (zonas del pecho, rodillas, dedos de los pies, pene, sínfisis púbica…).",
+    "Aplicar rodetes de espuma al menos en rodillas, mentón y zona frontal de la cara.",
+    "Descargar los puntos de presión en la cara y cuerpo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el uso del sistema de terapia de presión negativa V.A.C. (cierre asistido por vacío), indique la respuesta INCORRECTA:",
+   "o": [
+    "Está indicado en colgajos e injertos.",
+    "La presión ejercida oscila entre 125 mmHg y 300 mmHg. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 602",
+    "Está contraindicado en fístulas inexploradas y no entéricas.",
+    "Se puede establecer una presión continua o intermitente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la clasificación de las úlceras por presión según las estructuras afectas de los tejidos del Grupo Nacional para el Estudio y Asesoramiento en Úlceras por Presión y Heridas Crónicas (GNEAUPP), la pérdida parcial del grosor de la piel que afecta a la epidermis, dermis o ambas, teniendo un aspecto de abrasión, ampolla o cráter superficial, se corresponde con:",
+   "o": [
+    "Estadio I.",
+    "Estadio II.",
+    "Estadio III.",
+    "Estadio IV."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique qué actividades NO están recomendadas en una persona con riesgo de padecer úlceras por presión que permanece sentada:",
+   "o": [
+    "Cambiar el apoyo de las zonas de presión del cuerpo cada 15 minutos mientras permanezca sentada.",
+    "Poner un cojín tipo donuts para aumentar la comodidad y mejorar el reparto de presiones.",
+    "Asegurarse de que los pies de la persona estén correctamente apoyados mientras permanezca sentada.",
+    "Enseñar a la persona las técnicas adecuadas para cambiar las zonas de presión de acuerdo con el plan de cuidados interprofesional."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el sistema de clasificación de las úlceras por presión propuesto por el Grupo Nacional para el Estudio y Asesoramiento en Úlceras por Presión y Heridas Crónicas (GNEAUPP) y la NPUAP/EPUAP, se define como úlcera por presión de categoría III:",
+   "o": [
+    "La pérdida de espesor parcial de la dermis que se presenta como una úlcera abierta muy profunda con un lecho de la herida entre rosado y rojizo, con esfacelos. También puede presentarse como una ampolla intacta o abierta/rota llena de suero o de suero sanguinolento.",
+    "La pérdida de espesor parcial de la dermis que se presenta como una úlcera abierta poco profunda con un lecho de la herida entre rosado y rojizo, sin esfacelos. También puede presentarse como una ampolla intacta o abierta/rota llena de suero o de suero sanguinolento.",
+    "La pérdida completa del grosor del tejido. La grasa subcutánea puede resultar visible, pero los huesos, tendones o músculos no se encuentran expuestos. Pueden aparecer esfacelos. Puede incluir cavitaciones y tunelizaciones.",
+    "La pérdida total del espesor del tejido con hueso, tendón o músculo expuestos. Pueden aparecer esfacelos o escaras. Incluye a menudo cavitaciones y tunelizaciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la evaluación de los signos y síntomas más prevalentes atribuibles a la úlcera de etiología venosa, NO se encuentra habitualmente:",
+   "o": [
+    "Localización: zona lateral interna del tercio distal de la pierna.",
+    "Forma redonda-oval con bordes excavados.",
+    "Dolor persistente, con exacerbación al colocar la extremidad en posición decúbito.",
+    "Tejido periulceroso con signos de insuficiencia venosa crónica avanzada: pigmentación, eccema y lipodermatoesclerosis, entre otros."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el documento Técnico GNEAUPP Nº I, clasificación-categorización de las lesiones relacionadas con la dependencia, una lesión por humedad en la zona perianal relacionada con la incontinencia urinaria y que presenta pérdida parcial del espesor de la dermis menor al 50 % del eritema, la clasificaremos en: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 604",
+   "o": [
+    "Categoría 1A.",
+    "Categoría 1B.",
+    "Categoría 2A.",
+    "Categoría 2B."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. El objetivo principal de este dispositivo sanitario es:",
+   "o": [
+    "Proporcionar infusión continua de un fármaco.",
+    "Aumentar la perfusión sanguínea de forma controlada sobre los tejidos.",
+    "Incrementar la concentración de oxígeno en la fracción de aire ambiental inspirado.",
+    "Medir la saturación de oxígeno."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t27-2019-2020-2.jpg"
+  },
+  {
+   "q": "Entre los elementos que pueden enlentecer o impedir la cicatrización de heridas crónicas, señale cual NO es habitual:",
+   "o": [
+    "Deshidratación o sequedad excesiva.",
+    "Exceso de humedad.",
+    "Vivir solo.",
+    "Problemas neurológicos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la clasificación-estadiaje de las úlceras por presión, el GNEAUPP y el NPUAP-EPUAP-PPPIA refieren una categoría denominada “lesión de tejidos profundos” con unas características muy definidas. ¿A qué son debidas este tipo de lesiones?:",
+   "o": [
+    "A la acción de la presión.",
+    "A la acción combinada de la presión y la humedad.",
+    "A la acción combinada de presión y cizalla.",
+    "A la acción de la fricción en combinación con la presión."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La localización de úlceras por presión en niños cambia en función de la edad. ¿Cuáles son las zonas de mayor riesgo de presentar lesiones en menores de 3 años?:",
+   "o": [
+    "Occipucio y orejas.",
+    "Talones y zona sacra.",
+    "Nariz y talones.",
+    "Cara y talones."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante úlceras de extremidad inferior altamente exudativas se recomienda proteger la piel perilesional mediante:",
+   "o": [
+    "Películas barrera no irritantes o pomadas a base de óxido de zinc.",
+    "Apósitos hidrocoloides.",
+    "Apósitos de film de poliuretano.",
+    "Povidona iodada en solución."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el sistema de clasificación de las úlceras por presión propuesto por el Grupo Nacional para el Estudio y Asesoramiento en Úlceras por Presión y Heridas Crónicas (GNEAUPP) y el Panel Consultivo Nacional para las Úlceras por Presión (NPUAP) y el Panel Consultivo Europeo para las Úlceras por Presión (EPUAP), se define como Úlcera por presión de categoría II:",
+   "o": [
+    "La pérdida de espesor parcial de la dermis que se presenta como una úlcera abierta muy profunda con un lecho de la herida entre rosado y rojizo, con esfacelos. También puede presentarse como una ampolla intacta o abierta/rota llena de suero o de suero sanguinolento.",
+    "La pérdida de espesor parcial de la dermis que se presenta como una úlcera abierta poco profunda con un lecho de la herida abierta entre rosado y rojizo, sin esfacelos. También puede presentarse como una ampolla intacta o abierta/rota llena de suero o de suero sanguinolento.",
+    "La pérdida completa del grosor del tejido. La grasa subcutánea puede resultar visible, pero los huesos, tendones o músculos no se encuentran expuestos. Pueden aparecer esfacelos. Puede incluir cavitaciones y tunelizaciones.",
+    "La pérdida total del espesor del tejido con hueso, tendón o músculo expuestos. Pueden aparecer esfacelos o escaras. Incluyen a menudo cavitaciones y tunelizaciones."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué aspectos hemos de tener en cuenta a la hora de valorar la piel del paciente en riesgo de desarrollar úlceras por presión?:",
+   "o": [
+    "La textura, coloración, presencia de lesiones.",
+    "Valorar la piel sobre las prominencias óseas, decoloración de la piel, aumento de temperatura.",
+    "Ausencia de dolor, dureza en la zona y eritema no blanqueable.",
+    "Presencia de eritema, calor, edema, induración, dolor y localización."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el principal factor relacionado con la dermatitis asociada a la incontinencia?:",
+   "o": [
+    "La Incontinencia urinaria.",
+    "La piel deteriorada.",
+    "La disminución de la movilidad.",
+    "La incontinencia fecal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La compresión es la piedra angular del tratamiento de la úlcera de etiología venosa. Sin embargo, desde el punto de vista práctico, una adecuada compresión NO permite:",
+   "o": [
+    "Favorecer el flujo venoso de retorno.",
+    "Reducir el edema",
+    "Disminuir el riesgo de infección en la herida.",
+    "Reducir la sintomatología de la disfunción venosa como dolor o pesadez."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Uno de los siguientes factores NO es indicador de la sospecha de biofilm en una úlcera por presión.",
+   "o": [
+    "Ausencia de exudado.",
+    "No respuesta al tratamiento antimicrobiano.",
+    "Signos y síntomas clínicos de inflamación.",
+    "No indicio de curación durante dos semanas previas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta ante la actitud a tomar frente a una herida con tejido desvitalizado que va a ser sometida a desbridamiento cortante:",
+   "o": [
+    "Debemos retirar los restos del antiséptico utilizado con agua bidestilada, solución salina o ringer lactato.",
+    "No existen evidencias que justifiquen el uso de anestésicos locales a la hora de realizar un desbridamiento cortante.",
+    "Debemos realizar cortes por planos comenzando por los bordes de la herida y avanzar hacia el centro de esta.",
+    "El sangrado facilita la recuperación de la herida al permitir la llegada de sustancias reparadoras al lecho."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La Federación de Asociaciones de Enfermería Comunitaria y Atención Primaria (FAECAP), la Asociación de Enfermería Comunitaria (AEC), a través del proyecto Compromiso por la Calidad de las Sociedades Científicas en España coordinado por el Ministerio de Sanidad, Consumo y Bienestar Social, recomiendan:",
+   "o": [
+    "Realizar masajes sobre prominencias óseas con piel íntegra para prevención de las úlceras por presión.",
+    "No utilizar flotadores para la prevención de las úlceras por presión.",
+    "Utilizar de forma rutinaria povidona yodada en niños menores de dos años como antiséptico de elección frente a otros de carácter fungicida.",
+    "No aplicar de manera habitual clorhexidina para limpiar las heridas crónicas salvo cuando se precise disminuir la carga bacteriana."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes ítems no debe recogerse de forma obligatoria en la valoración general del paciente con úlceras neoplásicas?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 610",
+   "o": [
+    "Pronóstico del proceso oncológico.",
+    "Estado nutricional del paciente.",
+    "Tratamiento antineoplásico administrado.",
+    "Aspectos psicológicos del paciente (autoestima e imagen corporal)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

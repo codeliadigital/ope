@@ -1,0 +1,950 @@
+{
+ "id": "eir-19",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 19,
+ "titulo": "EIR · Urgencias y emergencias",
+ "explicadas": false,
+ "descripcion": "85 preguntas de los exámenes EIR de 2018 a 2025 sobre urgencias y emergencias, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "¿En qué posición hay que colocar el cinturón pélvico en la atención al trauma grave con sospecha de fractura pélvica?:",
+   "o": [
+    "Sobre las crestas iliacas.",
+    "Sobre los trocánteres mayores.",
+    "En la cintura.",
+    "Sobre las diáfisis del fémur."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. Teniendo en cuenta el dispositivo, indique la opción correcta para su uso:",
+   "o": [
+    "No se puede utilizar sobre articulaciones, debiendo dejarse una distancia de respeto de 5-8 cm sobre estas.",
+    "En la segunda vuelta, ha de variar el sentido inicial de giro de este, pasándolo siempre por dentro del aplicador, realizando presión en cada una de las vueltas restantes.",
+    "Lo colocaremos en la zona más alta posible, dejando espacio suficiente para un segundo dispositivo.",
+    "No se encuentra indicado como cobertura inicial en heridas por armas de fuego."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t19-2023-2024-8.jpg"
+  },
+  {
+   "q": "En la Regla de Frecuencia Cardiaca y las 4P (FC+4P) para la valoración del estado circulatorio del niño con politraumatismo, las 4 P hacen referencia a:",
+   "o": [
+    "Pulsos, perfusión periférica, presión arterial sistólica y post-carga.",
+    "Pulsos, perfusión periférica, presión arterial sistólica y precarga.",
+    "Pulsos, perfusión periférica, presión arterial diastólica y post-carga.",
+    "Pulsos, perfusión periférica, presión arterial diastólica y precarga."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con un “sangrado de la unión”, señale la respuesta INCORRECTA:",
+   "o": [
+    "La hemorragia de la unión se define como el sangrado que ocurre donde se juntan dos zonas anatómicas distintas.",
+    "No existen torniquetes específicos para estas zonas de sangrado.",
+    "El tratamiento clave para este tipo de hemorragia es la compresión directa sobre los grandes vasos que abarcan el área proximal de la lesión.",
+    "El uso de agentes hemostáticos externos combinado con la compresión inicial dan buenos resultados."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes conjuntos de intervenciones de enfermería refleja la secuencia de prioridades críticas en el manejo inicial de un paciente adulto con Traumatismo Craneoencefálico (TCE) grave, cumpliendo con el protocolo de manejo traumático?:",
+   "o": [
+    "Administración inmediata de Manitol (si no está contraindicado) para disminuir la Presión Intracraneal (PIC), seguida del control de la vía aérea con elevación de la cabecera.",
+    "Asegurar la inmovilización cervical estricta, priorizar la permeabilidad de la vía aérea (con maniobras no invasivas como la tracción mandibular si es necesario), y obtener una valoración neurológica basal con la Escala de Coma de Glasgow (GCS).",
+    "Control de la hemorragia externa con torniquete si fuera necesario, seguido de la administración agresiva de volumen mediante bolos de cristaloides hasta alcanzar una Presión Arterial Sistólica (PAS) de 120 mmHg.",
+    "Colocación de una sonda nasogástrica para prevenir la aspiración, seguido de la monitorización de la temperatura corporal y la administración de oxígeno mediante mascarilla con reservorio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la última Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad, ¿cuál es el orden correcto de prioridad en la evaluación inicial 433 URGENCIAS Y EMERGENCIAS básica (“ABC”) en el paciente extrahospitalario con traumatismo craneoencefálico (TCE)?:",
+   "o": [
+    "(A) Asegurar perímetro→ (B) Valorar estado de consciencia → (C) Coordinar equipo para atención o traslado.",
+    "Vía (A)aérea permeable → Asegurar (B)Ventilación → Tratar alteraciones de la (C) Circulación.",
+    "(A) Asegurar perímetro → Evitar (B) broncoaspiración → (C) Control hemodinámico.",
+    "(A) Airear → (B) Bombear →(C) Cargar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA ante un caso de traumatismo craneoencefálico en paciente pediátrico:",
+   "o": [
+    "Es la principal causa de muerte en trauma pediátrico.",
+    "Para clasificar su gravedad utilizamos la escala de Glasgow.",
+    "Se valorará la protección cervical con collarín rígido atendiendo a la gravedad y a la naturaleza del trauma.",
+    "Si existe sospecha de aumento de presión intracraneal se colocará al paciente en posición Trendelemburg asegurando el retorno venoso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un sujeto apuñalado presenta una insuficiencia respiratoria muy grave y por las características de sus lesiones, así como los signos que se observan, se puede sospechar un neumotórax a tensión. ¿Cuál de los siguientes signos NO esperamos encontrar en esta situación?:",
+   "o": [
+    "Importante trabajo respiratorio.",
+    "Venas del cuello aplanadas.",
+    "Desviación de la tráquea hacia el lado sano.",
+    "Ruidos respiratorios muy disminuidos o ausentes."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el cálculo de la extensión de una quemadura según la regla de la palma de la mano, hay que considerar que:",
+   "o": [
+    "La superficie que cubre la palma de la mano (incluyendo los dedos juntos y estirados) es el 1% de la superficie corporal total. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 434",
+    "La superficie que cubre la palma de la mano (sin incluir los dedos) es el 1% de la superficie corporal total.",
+    "La superficie que cubre la palma de la mano (incluyendo los dedos juntos y estirados) es el 2% de la superficie corporal total.",
+    "La superficie que cubre la palma de la mano (sin incluir los dedos) es el 2% de la superficie corporal total."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el volumen a infundir en las 8 primeras horas conforme a la fórmula de Parkland y teniendo como referencia la regla de Wallace, a una persona que presenta quemaduras en la cara anterior de ambos brazos, tórax-abdomen, y región genital, cuyo peso es de 71 kg:",
+   "o": [
+    "7.952 ml.",
+    "3.976 ml.",
+    "1.988 ml.",
+    "994 ml."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Contemplando al agente causal, ¿cuál es el principal tipo de quemadura en la edad pediátrica?:",
+   "o": [
+    "Quemadura térmica.",
+    "Quemadura eléctrica.",
+    "Quemadura química.",
+    "Quemadura por radiación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una quemadura causada por un líquido caliente, muy dolorosa, con flictenas, de aspecto rojo brillante y sin afectación del retorno venoso, se considera:",
+   "o": [
+    "De segundo grado superficial.",
+    "De segundo grado profundo.",
+    "De tercer grado.",
+    "De primer grado profundo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la fórmula de Parkland, ¿cuál sería la cantidad de líquido a reponer en un paciente con un 30 % de superficie corporal quemada, con quemaduras de segundo grado profundo y con un peso de 70 kg?:",
+   "o": [
+    "1.500 ml.",
+    "3.800 ml.",
+    "5.000 ml.",
+    "8.400 ml."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las quemaduras en la infancia señale la respuesta correcta:",
+   "o": [
+    "En menores de 14 años se puede determinar la extensión mediante la gráfica de Lund y Browder.",
+    "Las quemaduras eléctricas son las más comunes en menores de 4 años.",
+    "En el manejo inicial de las quemaduras químicas está contraindicada la irrigación de la zona afectada con suero fisiológico.",
+    "Como tratamiento local se puede aplicar hielo en los tejidos afectados por la quemadura."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendemos en colaboración con bomberos a un paciente varón adulto de 90 kg de peso con quemaduras en cara anterior del tórax, abdomen, muslo derecho y zona genital, tras las maniobras iniciales de resucitación iniciamos tratamiento de reposición de líquidos. ¿Cuál sería la velocidad de infusión inicial durante la primera hora, así como la solución a perfundir tomando como referencia la fórmula de Parkland y la regla de Wallace?:",
+   "o": [
+    "405 ml/h de solución salina 0,9 %.",
+    "410 ml/h de solución ringer lactato.",
+    "600 ml/h de solución salina 0,9 %.",
+    "630 ml/ h de solución ringer lactato."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La Guía de la Surviving Sepsis Campaign (2021), recogidas por la Sociedad Española de Medicina Intensiva y Unidades Coronarias (SEMICYUC) y la Sociedad Española de Medicina de Emergencias (SEMES), recoge las recomendaciones para la fase inicial de reanimación en el paciente séptico, así como los signos clínicos de empeoramiento a tener en cuenta dado el riesgo de deterioro inminente, asociado a elevada mortalidad. Señale la opción INCORRECTA:",
+   "o": [
+    "Cifras de Presión Arterial Media (PAM) Invasiva < 65 mmHg.",
+    "Nivel de lactato en sangre ≥ 4 mmol/l.",
+    "Cuadro de PAM < 65 mmHg y nivel de lactato en sangre ≥ 4 mmol/l, de forma combinada.",
+    "Nivel de Saturación de oxígeno venosa mixta (SvO₂) superior a 70 %."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la dosis y la vía de administración correcta de adrenalina en el tratamiento de la anafilaxia en niños?:",
+   "o": [
+    "0,01 mg por Kg con un máximo de 300 microgramos por vía intramuscular.",
+    "0,01 mg por Kg con un máximo de 300 microgramos por vía intravenosa.",
+    "0,1 mg por Kg con un máximo de 300 microgramos por vía intramuscular.",
+    "0,1 mg por Kg con un máximo de 300 microgramos por vía intravenosa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se calcula y qué interpretación tiene el Índice de Shock?:",
+   "o": [
+    "Frecuencia cardiaca entre Tensión arterial sistólica. Una puntuación superior a 1, predice mortalidad temprana.",
+    "Tensión arterial sistólica menos Tensión arterial diastólica. Una puntuación superior a 40 indica estabilidad.",
+    "Saturación de Oxígeno entre Fracción inspirada de oxígeno (FiO2). Una puntuación inferior a 160 indica shock de primer grado.",
+    "Tensión arterial sistólica entre dosis ajustada a peso de norepinefrina. Valores por debajo de 100 indican mortalidad temprana."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas generales de intervención al paciente con sepsis se incluye:",
+   "o": [
+    "Retirada inmediata del sondaje vesical y sustitución por pañal.",
+    "Mantener la glucemia por debajo de 150 mg/dl incluso en pacientes no diabéticos.",
+    "Administrar bicarbonato si el pH ≤ 7,35.",
+    "Retirar corticoides cuando no haya respuesta a fármacos vasopresores."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una anafilaxia por una reacción alérgica grave, que se instaura de forma rápida y que es potencialmente mortal en un adulto, ¿cuál es la vía, dosis y fármaco inicial de elección?:",
+   "o": [
+    "Vía intramuscular dosis 0,01 mg/kg de adrenalina, llegando a un máximo de 0,5 mg.",
+    "Vía intravenosa dosis 0,01 mg/kg de adrenalina, llegando a un máximo de 1 mg. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 438",
+    "Vía intravenosa dosis 0,5 mg/kg de hidrocortisona, llegando a un máximo de máximo 200 mg.",
+    "Vía intramuscular dosis 0,01 mg/kg de atropina, llegando a un máximo de 0,5 mg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En el tratamiento inicial de un niño mayor de 2 años en shock hipovolémico grado III, el volumen total a infundir de cristaloides isotónicos es de:",
+   "o": [
+    "10 mililitros por kilo de peso.",
+    "20 mililitros por kilo de peso.",
+    "Entre 30 y 60 mililitros por kilo de peso.",
+    "Entre 60 y 90 mililitros por kilo de peso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta con respecto a la prevención de la parada cardiorrespiratoria en sepsis:",
+   "o": [
+    "Han de medirse niveles séricos de ácido láctico.",
+    "Ha de iniciarse anticoagulación con heparina (80 u.i./kg IV) a la mayor brevedad posible.",
+    "Enfriar pasivamente al paciente hasta una temperatura inferior a 35 ºC.",
+    "Ha de considerarse la administración precoz de amiodarona."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes escalas NO está recomendada por la Guía de la Surviving Sepsis como herramienta única de screening o detección de la sepsis o del shock séptico?:",
+   "o": [
+    "MEWS.",
+    "q-SOFA.",
+    "NEWS.",
+    "SIRS."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los signos o manifestaciones de alarma que deben ser reconocidos por el personal sanitario antes de que un niño hospitalizado se descompense, NO se encuentra:",
+   "o": [
+    "Aumento del trabajo respiratorio.",
+    "Hipotensión.",
+    "Saturación de oxígeno menor del 85 % o disminución de la saturación de oxígeno un 5 % por debajo de la basal en niños con cardiopatías congénitas cianógenas.",
+    "Preocupación creciente del personal médico, de enfermería o padres."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes herramientas se considera un parámetro dinámico, que permite guiar la reanimación con líquidos en adultos con sepsis o shock séptico?:",
+   "o": [
+    "Volumen tidal.",
+    "Presión Venosa Central.",
+    "Respuesta a la elevación pasiva de las piernas combinada con medición de aumento de presión de pulso.",
+    "Lactato sérico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente en edad pediátrica (6 años) con una insuficiencia cardiorrespiratoria descompensada por un shock séptico refractario severo, se decide iniciar terapia con un sistema de oxigenación por membrana extracorpórea (ECMO). Durante la canulación, el niño entra en parada cardiorrespiratoria. ¿Cuál sería la actitud correcta a seguir?:",
+   "o": [
+    "Suspender la canulación e iniciar RCP convencional.",
+    "Continuar la canulación e iniciar RCP-ECMO.",
+    "Continuar con la canulación, por si es necesaria más adelante. Mientras parte del equipo inicia RCP convencional.",
+    "Administrar un bolo de 20 ml por kg de peso de suero fisiológico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante la ausencia de una indicación específica para un tipo de líquido alternativo, ¿cuál es en general el fluido recomendado para la reanimación inicial de niños/as con shock/ choque séptico u otra disfunción orgánica asociada a sepsis?:",
+   "o": [
+    "Solución de cloruro sódico al 0,9 %.",
+    "Ringer lactato.",
+    "Hidroxietilalmidón.",
+    "Albúmina."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la dosis de adrenalina intramuscular en el tratamiento de la anafilaxia en un niño de 7 años y 35 kilogramos de peso?:",
+   "o": [
+    "5 microgramos por kilogramo de peso.",
+    "150 microgramos.",
+    "300 microgramos.",
+    "500 microgramos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De las tres etapas en que se divide el shock (compensatoria, progresiva e irreversible), ¿cuáles son las características de la Respiración, Frecuencia Cardiaca (FC) y Tensión Arterial (TA) que corresponden a la etapa progresiva?:",
+   "o": [
+    "Respiración rápida y con estertores; FC > 150 lpm; TA sistólica < 90 mmHg. 441 URGENCIAS Y EMERGENCIAS",
+    "Frecuencia respiratoria (FR) > 20 respiraciones por minuto; FC > 100 lpm; TA Normal.",
+    "Respiración que requiere intubación y ventilación; FC errática; TA que requiere apoyo farmacológico.",
+    "Respiración: FR normal; FC > 180 lpm; TA sistólica > 180 mmHg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes medidas NO se incluye en el Bundle de 1 hora propuesto por los expertos de la Surviving Sepsis Campaing para el tratamiento inicial de la sepsis?:",
+   "o": [
+    "Administrar 30 ml/kg de cristaloides si el paciente tiene el lactato en sangre de 2 mmol/L o más.",
+    "Administrar antibióticos de amplio espectro.",
+    "Medir el nivel de lactato en sangre.",
+    "Administrar vasopresores si el paciente está hipotenso durante o después de la reanimación con fluidos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Son medidas fundamentales para el abordaje y cuidados del paciente en shock:",
+   "o": [
+    "Garantizar una producción de orina de al menos 15-20 ml/h.",
+    "Administración de oxígeno para todos los pacientes en shock, incluso para los que presenten una respiración adecuada.",
+    "Colocar al paciente en posición de Trendelemburg, poniendo especial atención en garantizar una suficiente inclinación del tronco, especialmente en casos de shock cardiogénico.",
+    "Evitar la administración de opiáceos para reducir la depresión respiratoria. Compensatoria Progresiva Irreversible Presión arterial Normal PAS < 80-90 mmHg Necesidad de soporte mecánico o farmacológico Respiratorio F.R. >20x´ Respiración rápida y con estertores Intubación orotraqueal Frecuencia cardiaca > 100 x´ > 150 x´ Errática o asistolia Piel Fría y húmeda Marmórea, petequias Ictericia Diuresis Disminuida < 30 ml/hora Anuria Estado mental Confusión Letargo Inconsciencia Equilibrio ácido-base Alcalosis respiratoria Alcalosis metabólica Acidosis profunda PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 442"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendemos a un paciente politraumatizado en el box de críticos, con 70 kg de peso, confuso, con una FC: 130 lpm, FR: 35 rpm, diuresis de 10 ml/h y un relleno capilar mayor de 4 segundos. ¿Qué pérdida de sangre estimada tendrá este?:",
+   "o": [
+    "0-15%.",
+    "15-30%.",
+    "30-40%.",
+    "40%."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente es atendido en el Servicio de Urgencias con una sobredosis grave y potencialmente hepatotóxica por Paracetamol (Acetaminofén). La enfermera debe preparar la administraciónbdel antídoto específico. ¿Cuál es el antídoto de elección para esta intoxicación y cuál es la vía de administración preferente en el entorno hospitalario?:",
+   "o": [
+    "Flumazenil, administrado por vía oral (VO).",
+    "Vitamina K, administrada por vía intravenosa (IV).",
+    "Naloxona, administrada exclusivamente por vía intramuscular (IM).",
+    "N-acetilcisteína, administrada por infusión intravenosa (IV)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con la intoxicación por cáusticos:",
+   "o": [
+    "La intoxicación por álcalis tiene la capacidad de producir lesiones cuando el pH es igual o superior a 9.",
+    "La presencia o ausencia de lesiones en boca o faringe se correlaciona con la posible presencia o ausencia de lesión esofágica.",
+    "Se puede diluir el tóxico con leche o agua si la ingesta es muy reciente (menos de 30 minutos).",
+    "Se ha de realizar una endoscopia antes de las 72 horas para valorar la gravedad y la extensión de las lesiones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una intoxicación por ingesta oral en un paciente pediátrico, la administración de carbón activado es la técnica de descontaminación digestiva de elección, siempre y cuando la sustancia sea absorbible por este. Indique la respuesta INCORRECTA respecto a las sustancias con baja o nula adsorción por el carbón activado:",
+   "o": [
+    "Cáusticos.",
+    "Litio.",
+    "Hidrocarburos.",
+    "Opiáceos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un varón de 26 años que estaba nadando en el mar Cantábrico, presenta lesiones lineales pruriginosas y dolorosas en brazos y tórax. No presenta disnea, ni signos de reacción alérgica ni otra sintomatología sistémica. Refiere que ha fotografiado el animal marino que le ha causado las lesiones, que corresponde a la Imagen 10. Atendiendo a las recomendaciones de la Subdirección General de Sanidad Ambiental y Salud Laboral sobre las picaduras de medusas, ¿cuál es la actuación inmediata que debe realizarse?:",
+   "o": [
+    "Limpiar las zonas afectadas sin frotar, utilizando agua dulce. Retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Aplicar una solución tópica de bicarbonato de sodio. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas frotando enérgicamente para retirar todos los restos. Lavar la zona utilizando agua de mar o una solución salina. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas sin frotar, y retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Aplicar en las zonas afectadas una dilución de vinagre y agua. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas sin frotar, utilizando agua de mar o una solución salina. Retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Se puede aplicar una solución tópica de bicarbonato de sodio. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t19-2025-2026-10.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 11. Teniendo en cuenta el tipo de anzuelo, ¿cómo se procederá a su retirada mediante la técnica tradicional?:",
+   "o": [
+    "Traccionaremos del anzuelo en sentido perpendicular a como entró.",
+    "Doblaremos el ojal y pasaremos el anzuelo a través del interior.",
+    "Rotaremos el anzuelo sobre sí mismo y traccionaremos en perpendicular al punto de inserción.",
+    "Introduciremos más el anzuelo hasta que aparezca la barba, cortaremos esta, y traccionaremos en sentido inverso a como se introdujo."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t19-2022-2023-11.jpg"
+  },
+  {
+   "q": "Indique la opción correcta en relación con el tratamiento de una picadura de medusa:",
+   "o": [
+    "Lavar la zona con abundante agua salada/ solución salina, sin frotar, aplicando posteriormente una solución de vinagre y “afeitar” la zona con un plástico o cuchilla para retirar los posibles restos.",
+    "Lavar la zona con abundante agua del grifo, frotando enérgicamente con una esponja o gasa, y administrar analgésicos tópicos a continuación.",
+    "Desinfectar la zona con clorhexidina 2 % y posteriormente lavar la zona con agua dulce, sin frotar. Se recomienda la pauta de antibióticos profilácticos.",
+    "Eliminar los restos del animal con una solución de amoniaco diluido al 0,5 % y posteriormente aplicar hielo, así como una pomada antibiótica profiláctica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a nuestro servicio un paciente por mordedura de serpiente. Se decide administrar suero antiveneno. ¿Cuál de las siguientes acciones se encuentra indicada?:",
+   "o": [
+    "Debemos medir la circunferencia de la mordedura antes de infundir el suero y posteriormente cada 15 minutos.",
+    "Debemos administrar el suero en menos de 15 minutos con el fin de corregir la reacción del veneno de la mordedura.",
+    "Si el paciente acude con el animal, debemos extraer veneno de este con el fin de escoger el antídoto adecuado mediante análisis en laboratorio.",
+    "Ubicaremos al paciente en una habitación individual para que se tranquilice y pueda descansar mientras se administra el suero."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son algunas de las alteraciones más frecuentes y comunes en la hipotermia?:",
+   "o": [
+    "Aparición de la Onda J o de Osborn en el electrocardiograma, reducción del consumo de oxígeno al 6 % cada oC.",
+    "Enuresis por frío, aumento de la amplitud del electroencefalograma y trombocitopenia.",
+    "Hipoglucemia y aumento de las hormonas hipofisarias, así como disminución del gasto cardiaco.",
+    "Disminución progresiva de la consciencia por debajo de 28 ºC y estado comatoso a partir de los 23 ºC."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Basándonos en el Original Swiss System de estadificación para hipotermia accidental de la Comisión Internacional de Medicina de Emergencia de Montaña (ICAR MedCom), ¿qué temperatura central estimará para un paciente extraviado que rescata de una montaña a 2000 m de altitud, con una temperatura ambiente de 2 °C, sin lesiones aparentes, mal equipado y con alteración de la consciencia sin escalofríos?:",
+   "o": [
+    "Temperatura central estimada de 37-35 ºC.",
+    "Temperatura central estimada de < 32-28 ºC. 447 URGENCIAS Y EMERGENCIAS",
+    "Temperatura central estimada de < 28-24 ºC.",
+    "Temperatura central estimada de < 24-13,7 ºC."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al objetivo del tratamiento de las congelaciones en las extremidades, señale la respuesta INCORRECTA:",
+   "o": [
+    "Es primordial detener el proceso de congelación, intentar mejorar la microcirculación y evitar una posible infección.",
+    "Hay que tratar previamente la hipotermia si existe, siendo un buen método los masajes y fricciones del miembro congelado.",
+    "Es recomendable sumergir el miembro afectado en agua a 10-15 ºC, e ir elevando la temperatura 5 ºC cada 5 minutos hasta un máximo de 40 ºC.",
+    "Si hay heridas abiertas o rotura de flictenas, debe disolverse en el agua algún antiséptico jabonoso, como povidona yodada, por ejemplo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La causa más común de golpe de calor:",
+   "o": [
+    "Ciertos fármacos en especial los diuréticos.",
+    "La realización de ejercicio durante actividades deportivas o de trabajo.",
+    "Exposición prolongada a una temperatura ambiente mayor de 39,2 oC.",
+    "Agotamiento por calor."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El tratamiento de la hipotermia mediante recalentamiento externo activo consiste en:",
+   "o": [
+    "Uso de mantas calientes con aire forzado.",
+    "Administración de líquidos calientes.",
+    "Oxígeno caliente humectado mediante ventilador.",
+    "Lavado peritoneal caliente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA sobre el tratamiento de la congelación por la exposición a temperaturas congelantes:",
+   "o": [
+    "Colocar las extremidades congeladas en un baño de 37 ºC a 40 ºC.",
+    "Realizar masajes en las zonas afectadas.",
+    "Administrar analgésicos para el dolor.",
+    "Desbridar las ampollas no hemorrágicas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El tratamiento del golpe de calor se basa en tres pilares fundamentales. Indique la medida terapéutica más importante:",
+   "o": [
+    "Medidas físicas de enfriamiento corporal.",
+    "Soporte cardiopulmonar.",
+    "Control hidroelectrolítico.",
+    "Tratamiento de las complicaciones."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad (2014), recoge las recomendaciones generales para el paciente ahogado o con lesiones de buceo, A EXCEPCIÓN DE:",
+   "o": [
+    "Se combatirá la hipotermia: desvestir, secar y protección térmica.",
+    "Se retirará al paciente del agua, teniendo siempre presente que lo prioritario es la seguridad del rescatador.",
+    "Se efectuará adecuada limpieza de la vía aérea. Está indicada si hay obstrucción por algas, arenas, etc.",
+    "Se realizará intubación y ventilación mecánica invasiva tan pronto como se extrae al paciente del agua, para garantizar una ventilación eficaz."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuál de las siguientes afirmaciones es INCORRECTA ante un paciente con sospecha de enfermedad descompresiva tras una inmersión en aguas profundas y que va a ser derivado a una cámara hiperbárica:",
+   "o": [
+    "Si el paciente está despierto, consciente y sin déficits neurológicos centrales, puede ser trasladado por tierra.",
+    "Enfriaremos de forma activa al paciente, a ritmo de 1 grado por hora.",
+    "Ante la sospecha de embolia gaseosa, se bajará la cabecera del paciente durante el traslado.",
+    "Se administrará oxígeno al 100% antes y durante el traslado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué tipo de atrapamiento sufriría una persona conductora de un vehículo que tras un impacto frontal contra otro vehículo tiene atrapadas las piernas por la deformidad estructural del salpicadero del coche?:",
+   "o": [
+    "Atrapamiento mecánico.",
+    "Atrapamiento físico 1.",
+    "Atrapamiento físico 2.",
+    "Atrapamiento exterior."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 3. Indique la opción INCORRECTA respecto a la maniobra correspondiente a la imagen:",
+   "o": [
+    "El reanimador se situará tras la cabeza del recién nacido.",
+    "La mascarilla facial no debe sobrepasar el mentón ni apoyarse sobre los globos oculares. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 450",
+    "Se colocará al recién nacido en decúbito supino con la cabeza en hiperextensión.",
+    "Debe mantenerse un ritmo de 30 a 60 respiraciones/minuto."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t19-2021-2022-3.jpg"
+  },
+  {
+   "q": "Ante una situación de obstrucción de la vía aérea por cuerpo extraño (OVACE) en un lactante de 10 meses, indique la actuación correcta:",
+   "o": [
+    "Con presencia de tos eficaz realizaremos ventilaciones de rescate.",
+    "Ante tos ineficaz y paciente consciente, lo trataremos con golpes en la espalda y compresiones torácicas.",
+    "Si el paciente está inconsciente están indicadas las compresiones abdominales.",
+    "Con el objeto de extraer el cuerpo extraño se realizarán varios intentos de barrido a ciegas con un dedo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las recomendaciones de la “European Resuscitation Council Guidelines” para paro cardíaco con fibrilación ventricular o taquicardia ventricular sin pulso en adultos, ¿qué intervención enfermera debe realizarse de forma prioritaria tras cada descarga del desfibrilador durante el protocolo de Soporte Vital Cardiovascular Avanzado (ACLS)?:",
+   "o": [
+    "Comprobar inmediatamente el pulso carotídeo.",
+    "Administrar 1 mg de Adrenalina IV.",
+    "Retomar las compresiones torácicas de forma inmediata.",
+    "Ventilar con presión positiva al ritmo de 10 ventilaciones por minuto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA en el tratamiento de la Parada Cardiorrespiratoria por un ritmo desfibrilable en niños:",
+   "o": [
+    "La adrenalina se administra tras las desfibrilaciones impares, administrando la primera dosis tras la tercera descarga.",
+    "Si las cinco primeras desfibrilaciones no son efectivas, se aumenta la energía para las siguientes.",
+    "Las 5 primeras descargas se administran a una energía de 4 julios por Kg.",
+    "La amiodarona se administra antes de la cuarta descarga a una dosis de 5 mg por Kg y antes de la sexta descarga a mitad de dosis (2,5 mg / Kg)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué volumen de la dilución estándar pediátrica de adrenalina (1mg/1ml + 9 ml Suero Fisiológico) administraremos a una niña en asistolia que pesa 12 kilogramos?:",
+   "o": [
+    "0,12 ml.",
+    "0,6 ml.",
+    "1 ml.",
+    "1,2 ml."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la posición de los parches de desfibrilación para el tratamiento eléctrico en el soporte vital avanzado, señale la respuesta INCORRECTA:",
+   "o": [
+    "La posición de elección para su colocación es la posición antero-lateral con el parche apical colocado al nivel de la posición del electrodo V6 del electrocardiograma.",
+    "En pacientes con un dispositivo implantable (Marcapasos/DAI) el parche debe estar a 8 centímetros del dispositivo.",
+    "En un ritmo desfibrilable refractario a la desfibrilación se puede considerar una posición alternativa de los parches (p.ej. posición anteroposterior).",
+    "En un paciente en decúbito prono la posición de los parches recomendada consiste en modificar el parche esternal y ponerlo en la espalda del paciente a la misma altura. 453 URGENCIAS Y EMERGENCIAS"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con el golpe precordial en presencia de una parada cardiaca:",
+   "o": [
+    "Su uso rutinario está recomendado.",
+    "Se administra un impacto seco en la mitad superior del esternón.",
+    "Se aplica con el borde cubital y el puño fuertemente apretado desde una altura aproximada de 20 cm.",
+    "Está indicado en una parada cardiaca de un paciente no monitorizado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación al uso de la capnografía (ETCO2) durante las maniobras de Soporte Vital Avanzado:",
+   "o": [
+    "El aumento de la ETCO2 puede producirse incluso antes de que el pulso sea palpable.",
+    "Unas compresiones torácicas de calidad dan como resultado valores típicos de ETCO2 de 1 a 1,5 kilopascales (7,5-11,2 mmHg).",
+    "Un descenso de la ETCO2 durante la resucitación se asocia con una mayor probabilidad de recuperación de la circulación espontánea.",
+    "La capnografía tiene baja sensibilidad y especificidad para determinar la adecuada posición del tubo endotraqueal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las siguientes opciones, ¿cuál de las recomendaciones para resucitación y soporte de transición de recién nacidos en el paritorio NO estaría indicada?:",
+   "o": [
+    "Tras el parto la temperatura del recién nacido sin asfixia debe mantenerse entre 36,5 ºC y 37,5 ºC.",
+    "La intubación traqueal debe utilizarse de forma sistemática en presencia de meconio.",
+    "El soporte ventilatorio de los recién nacidos a término debe comenzarse como aire ambiente.",
+    "Para recién nacidos sin compromiso, a término o a pretérmino, se recomienda una demora en el pinzamiento de cordón de al menos un minuto desde la expulsión completa del lactante."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la afirmación INCORRECTA respecto a la Reanimación Cardiopulmonar Avanzada:",
+   "o": [
+    "En los ritmos no desfibrilables el fármaco de elección es la atropina.",
+    "En los ritmos desfibrilables, administrar adrenalina 1 mg. intravenoso tras la tercera descarga, así como la primera dosis de amiodarona (300 mg. intravenoso).",
+    "Es preferible desfibrilar con electrodos (parches adhesivos) si es posible en vez de con las palas.",
+    "El golpe precordial no se recomienda de forma rutinaria, y solo mientras llega el desfibrilador en arritmia monitorizada y presenciada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Se encuentra vigilando a un adulto en el área de críticos del servicio de urgencias de un centro de tercer nivel, cuando presencia un ritmo de fibrilación ventricular en el monitor cardiaco. ¿Cuál será la actitud a seguir por su parte?:",
+   "o": [
+    "Administrar un choque eléctrico bifásico de al menos 150 julios e iniciar compresiones cardiacas de alta calidad.",
+    "Administrar hasta 3 choques eléctricos bifásicos seguidos de al menos 150 julios, comprobando entre cada uno de ellos el retorno de circulación espontánea. Iniciar compresiones cardiacas de alta calidad si no hay retorno de circulación.",
+    "Administrar hasta 5 choques eléctricos bifásicos seguidos de al menos 150 julios, comprobando entre cada uno el retorno de circulación espontánea. Iniciar compresiones cardiacas de alta calidad si no hay retorno de circulación.",
+    "Administrar hasta 3 choques eléctricos bifásicos seguido de al menos 150 julios e iniciar compresiones cardiacas de alta calidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Por debajo de qué frecuencia cardiaca deberemos iniciar compresiones torácicas en un recién nacido?:",
+   "o": [
+    "60 latidos por minuto.",
+    "65 latidos por minuto.",
+    "70 latidos por minuto.",
+    "75 latidos por minuto."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La Reanimación Cardio-Pulmonar en la mujer embarazada tiene características especiales. Señale cuál de las siguientes se considera específica de esta situación:",
+   "o": [
+    "Asegurar la escena, la seguridad del reanimador y de la víctima.",
+    "Lateralizar el útero hacia la izquierda mediante colocación de cuña o tracción del abdomen.",
+    "Apertura de la vía aérea mediante maniobra correspondiente.",
+    "Evaluar pulso carotídeo durante 5 a 10 segundos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En una paciente embarazada en parada cardiorrespiratoria a la que se le están aplicando maniobras de soporte vital avanzado, señale la afirmación correcta:",
+   "o": [
+    "Si estamos en presencia de un ritmo desfibrilable, los parches de desfibrilación deben situarse en situación antero-posterior.",
+    "Si la edad gestacional es > 20 semanas o el útero es palpable por encima del nivel del ombligo, hay que tratar de obtener una inclinación de 15-30º hacia el lado derecho durante las compresiones torácicas.",
+    "Si la edad gestacional es > 20 semanas o el útero es palpable por encima del nivel del ombligo y la reanimación inicial (primeros 4 min) no tiene éxito, hay que extraer el feto por cesárea urgente.",
+    "La posición de las manos para realizar las compresiones torácicas se modifica y las manos se sitúan en el tercio superior del esternón."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En un accidente de tráfico se encuentra a una gestante con altura uterina unos 12 cm por encima de la altura del ombligo, politraumatizada y en parada cardiorrespiratoria. ¿Qué maniobras deberíamos añadir a las habituales del Soporte Vital Básico?:",
+   "o": [
+    "Revisión del pubis o miembros inferiores en búsqueda de aparición de líquido amniótico.",
+    "Prepararse para una cesárea perimortem a los 5 minutos de maniobras de reanimación cardiopulmonar sin restablecimiento del pulso.",
+    "Desplazamiento uterino manual hacia la izquierda.",
+    "Elevación de miembros inferiores a 45º."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con una parada cardiaca en el contexto de una hipotermia accidental, señale cuál de las siguientes afirmaciones es INCORRECTA según las recomendaciones de las guías del European Resuscitation Council 2021:",
+   "o": [
+    "Se deben comprobar los signos vitales hasta un minuto.",
+    "El ritmo de compresiones torácicas y la frecuencia de ventilación difieren de la RCP en pacientes normotérmicos.",
+    "No se debe administrar adrenalina si la temperatura central es menor de 30 ºC.",
+    "A los pacientes con PCR por hipotermia se les debería realizar RCP continua durante el traslado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA en relación con la aplicación de maniobras de soporte vital avanzado a una víctima en parada cardiaca que ha sido rescatada tras permanecer sepultada durante una avalancha de nieve:",
+   "o": [
+    "Considerar que la RCP es fútil en una parada cardiaca con un tiempo de enterramiento superior a 60 minutos y evidencias de obstrucción de la vía aérea.",
+    "Realizar soporte vital avanzado convencional si el tiempo de sepultamiento es inferior a 60 minutos.",
+    "El pronóstico de un recalentamiento hospitalario con éxito debe basarse exclusivamente en el potasio sérico (punto de corte 7 mmol/l) y la temperatura corporal (punto de corte 30 ºC).",
+    "Realizar maniobras de reanimación completas, incluyendo recalentamiento con soporte vital extracorpóreo a las víctimas sepultadas más de 60 min sin evidencia de obstrucción de la vía aérea o lesiones adicionales letales."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La hipotermia es un cuadro frecuente en los rescates marítimos de inmigrantes en pateras accidentadas. En relación con las características de la misma y su tratamiento, señale la respuesta INCORRECTA:",
+   "o": [
+    "Ante una parada cardiorrespiratoria en un paciente con 29 ºC de temperatura central, deberemos suspender las maniobras de RCP si tras 30 minutos no tiene pulso.",
+    "Las personas mayores y los niños menores de 2 años son especialmente susceptibles.",
+    "En la hipotermia moderada (28º-32 ºC) cesa la tiritona y los sujetos presentan bradicardia y bradipnea.",
+    "Las arritmias supraventriculares y los bloqueos suelen resolverse espontáneamente con el recalentamiento de los sujetos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente en parada cardiorrespiratoria que presenta hipotermia con una temperatura corporal < 30 ºC: señale la afirmación INCORRECTA:",
+   "o": [
+    "La frecuencia de las compresiones torácicas y ventilaciones es diferente a la RCP en pacientes normotérmicos.",
+    "Los intervalos de administración de adrenalina deben aumentarse, administrándose cada 6-10 minutos.",
+    "Si la fibrilación ventricular persiste después de tres descargas consecutivas, hay que retrasar los intentos posteriores hasta que la temperatura corporal sea > 30 °C.",
+    "El pronóstico de un recalentamiento hospitalario exitoso debe basarse en las escalas de puntuación HOPE o ICE."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuándo está recomendada la administración de la primera dosis de adrenalina endovenosa en un paciente con Actividad Eléctrica Sin Pulso y con una temperatura de 28 ºC?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 458",
+   "o": [
+    "En cuanto se disponga de un acceso vascular.",
+    "Tras reanimar y calentar a la víctima hasta conseguir una temperatura ≥ 30 ºC.",
+    "Tras reanimar y calentar a la víctima hasta conseguir una temperatura ≥ 32 ºC.",
+    "No está recomendado el uso de adrenalina en situaciones de hipotermia severa."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con las recomendaciones del European Resuscitation Council sobre el soporte vital avanzado en situación de pandemia por Covid-19:",
+   "o": [
+    "Ante un paciente inconsciente, no oír ni acercar la mejilla a la cara del paciente, compruebe si tiene signos vitales y/o pulso.",
+    "No iniciar las compresiones torácicas o intervenciones sobre la vía aérea sin un Equipo de Protección Individual frente a transmisión aérea para procedimientos generadores de aerosoles.",
+    "Si se ha insertado un dispositivo supraglótico no se recomienda mantener la relación compresión/ventilación de 30/2.",
+    "Minimizar el uso del dispositivo mascarilla balón autoinflable, siempre con un filtro HEPA y utilizando la técnica de dos personas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las recomendaciones de la Guía de Soporte Vital Avanzado, del Consejo Europeo de Resucitación (ERC), recogido en el Plan Nacional de Reanimación Cardiopulmonar de 2021 sobre el manejo del paciente crítico postparada cardiaca, con relación al control de temperatura:",
+   "o": [
+    "Se recomienda la prevención activa de la fiebre (definida como una temperatura >37,7 °C) durante al menos 72 h.",
+    "Se debe mantener una temperatura de 32–36 °C durante al menos 24 horas.",
+    "Se deben realizar hemocultivos a todo paciente que supere los 37 °C para identificar focos de infección de manera precoz.",
+    "No se recomienda un control específico de temperatura."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El Real Decreto 365/2009 establece las condiciones y requisitos mínimos de seguridad y calidad en la utilización de desfibriladores automáticos y semiautomáticos externos fuera del ámbito sanitario. Define un desfibrilador semiautomático externo (DESA) como:",
+   "o": [
+    "El producto sanitario destinado para administrar una descarga eléctrica con la finalidad de modificar el ritmo cardiaco con altos niveles de seguridad.",
+    "El producto sanitario destinado a analizar el ritmo cardiaco, identificar las arritmias mortales tributarias de desfibrilación y administrar una descarga eléctrica con la finalidad de restablecer el ritmo cardiaco viable con altos niveles de seguridad.",
+    "El producto sanitario destinado a analizar el ritmo cardiaco, identificar las arritmias y administrar una descarga eléctrica con altos niveles de seguridad.",
+    "El producto sanitario destinado a analizar el ritmo cardiaco, identificar las arritmias de forma automática y administrar una descarga eléctrica con la finalidad de establecer el ritmo cardiaco normal con altos niveles de seguridad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación a la donación de riñones en situación de asistolia, indique la opción correcta:",
+   "o": [
+    "El receptor puede escoger si acepta un órgano donado mediante esta técnica.",
+    "En el caso de rechazar el órgano, se procederá a retrasar su puesto en la lista de espera de trasplante.",
+    "Durante la fase postrasplante, se debe evitar la sobrecarga hidrosalina.",
+    "La estancia hospitalaria del receptor es inferior a la de aquellos que reciben un órgano procedente de una donación por muerte encefálica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes respuestas invalida el diagnóstico de muerte encefálica durante un proceso de donación de órganos?:",
+   "o": [
+    "Aumento de frecuencia cardiaca de un 15 % ante la inyección en bolo de 0,04 mg/kg de atropina iv.",
+    "Ausencia de reflejo tusígeno.",
+    "Ausencia de movimiento ocular ante la instilación de agua fría en el conducto auditivo externo.",
+    "Presencia de actividad motora de origen espinal espontánea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Es posible realizar la donación en el contexto de un posible donante de órganos diagnosticado de COVID-19?:",
+   "o": [
+    "Sí, siempre que, entre otros criterios, el receptor haya pasado COVID-19 en el año anterior.",
+    "Sí, siempre que el receptor no se encuentre vacunado con una vacuna de ARNm.",
+    "No, a excepción de una donación controlada de pulmones.",
+    "No es viable la donación de órganos con un proceso activo de COVID-19 en el momento de la donación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué zona se situará el personal sanitario ante un incidente de múltiples víctimas?:",
+   "o": [
+    "Zona de impacto.",
+    "Zona de salvamento.",
+    "Zona de socorro.",
+    "Zona de base."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes parámetros se valora en el método de triaje básico SHORT y no se valora en el método START?:",
+   "o": [
+    "Habla.",
+    "Respiración.",
+    "Respuesta a órdenes.",
+    "Marcha."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el método START de triaje, ¿qué prioridad de asistencia asignaría a una víctima de la que comprueba que no puede caminar, respira con una frecuencia respiratoria de 26 rpm, tiene un tiempo de relleno capilar de 3 segundos y obedece órdenes sencillas?:",
+   "o": [
+    "Prioridad 4-Negro.",
+    "Prioridad 3-Verde.",
+    "Prioridad 2-Amarillo.",
+    "Prioridad 1-Rojo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una catástrofe es un acontecimiento que aparece bruscamente, conlleva importantes daños y altera el orden normal de las cosas. ¿Cómo se clasifican las catástrofes según el origen del factor desencadenante de la catástrofe (Clasificación CROCQ)?:",
+   "o": [
+    "Naturales, Humanitarias, Biológicas y Medioambientales.",
+    "Medioambientales, Tecnológicas y Humanitarias.",
+    "Naturales, Tecnológicas y Causadas por el hombre.",
+    "Naturales, Sociológicas y Geológicas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto de las tarjetas de clasificación o triaje en una catástrofe o accidente de múltiples víctimas, es correcto que:",
+   "o": [
+    "Se asigne una tarjeta negra a aquellas víctimas que se encuentren en situación de Parada Cardiorrespiratoria (PCR) no presenciada por la persona responsable del triaje.",
+    "Se asigne tarjeta negra a aquellas víctimas que se encuentren en situación de PCR tanto presenciada como no presenciada por la persona responsable del triaje.",
+    "Se asigne tarjeta negra a aquellas víctimas que se encuentren en situación agónica, moribundos o en PCR a juicio de la persona responsable del triaje.",
+    "Se asigne tarjeta negra a las víctimas cuyo criterio de evaluación es ‘diferida’."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según se indica en el Real Decreto 836/2012, de 25 de mayo, por el que se establecen las características técnicas, el equipamiento sanitario y la dotación de personal de los vehículos de transporte sanitario por carretera, las ambulancias de Clase B:",
+   "o": [
+    "Se consideran ambulancias convencionales, destinadas al transporte de pacientes en camilla.",
+    "Se consideran de transporte colectivo, acondicionadas para el transporte conjunto de enfermos cuyo traslado no revista carácter de urgencia, ni estén aquejados de enfermedades infecto-contagiosas.",
+    "Son las destinadas a proporcionar soporte vital básico y atención sanitaria inicial.",
+    "Son las destinadas a proporcionar soporte vital avanzado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Para disminuir los efectos que producen las aceleraciones, desaceleraciones (frenazos) y los cambios bruscos de velocidad durante el transporte sanitario terrestre, debemos tener en cuenta:",
+   "o": [
+    "La posición del paciente debería ser siempre en el sentido de la marcha.",
+    "La posición del paciente debería ser siempre en el sentido contrario de la marcha en caso de patología neurológica.",
+    "La posición del paciente debería ser acorde con su patología inicial siempre buscando un confort para el paciente.",
+    "La posición del paciente consciente debe ser siempre la que él elija para evitar posibles mareos durante el transporte. En caso de paciente inconsciente, el equipo sanitario elige la posición más adecuada para realizar sus cuidados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 836/2012, de 25 de mayo, por el que se establecen las características técnicas, el equipamiento sanitario y la dotación de personal de los vehículos de transporte sanitario por carretera, las ambulancias de clase C son:",
+   "o": [
+    "Ambulancias destinadas a proporcionar soporte vital básico y atención sanitaria inicial.",
+    "Ambulancias destinadas a proporcionar soporte vital avanzado.",
+    "Ambulancias de transporte colectivo, acondicionadas para el transporte conjunto de enfermos cuyo traslado no revista carácter de urgencia, ni estén aquejados de enfermedades infectocontagiosas.",
+    "Ambulancias convencionales, destinadas al transporte de pacientes en camilla."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los vehículos destinados a la prestación de los servicios de transporte sanitario que estén dotados al menos, de un conductor que esté en posesión del título de Formación Profesional de Técnico en Emergencias sanitarias y de un enfermero, y que, cuando la asistencia a prestar lo requiera deberán contar con un médico, son:",
+   "o": [
+    "Las ambulancias asistenciales A1.",
+    "Las ambulancias no asistenciales A2.",
+    "Las ambulancias asistenciales B.",
+    "Las ambulancias asistenciales C."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Las desaceleraciones durante el traslado de pacientes en una ambulancia terrestre, pueden provocar los siguientes cambios, EXCEPTO:",
+   "o": [
+    "Hipotensión arterial.",
+    "Hipertensión arterial.",
+    "Bradicardia refleja.",
+    "Aumento de la presión intracraneal (en pacientes con traumatismos craneoencefálicos pueden aumentar sus lesiones)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

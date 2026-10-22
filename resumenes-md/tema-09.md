@@ -69,7 +69,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Principios bioéticos, CEA, IA, se
 
 - **Renovación en curso** (Comisión Deontológica Nacional): ética digital e IA, teleenfermería, final de la vida (LORE), genética y reproducción.
 
-!! La objeción de conciencia **nunca** ampara negar la atención en una **urgencia vital**.
+!! ==La objeción de conciencia **nunca** ampara negar la atención en una **urgencia vital**.==
 
 ## A6. RGPD (Reglamento UE 2016/679)
 
@@ -88,7 +88,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Principios bioéticos, CEA, IA, se
 - **Derechos (arts. 13-18)**: **acceso** (salvo anotaciones subjetivas y datos de terceros), **rectificación**, **supresión** ("derecho al olvido", muy limitado por la obligación de conservar la historia), **limitación**, **portabilidad** y **oposición**.
 - **Delegado de Protección de Datos (art. 34)**: obligatorio en los centros sanitarios que mantienen historias clínicas, **salvo los profesionales que ejercen a título individual**. Enlace con la **AEPD**.
 
-!! **14 años** = consentimiento para datos (LOPDGDD). **16 años** = consentimiento clínico (Ley 41/2002).
+!! ==**14 años** = consentimiento para datos (LOPDGDD). **16 años** = consentimiento clínico (Ley 41/2002).==
 !! La "A" de ARCO es **acceso**.
 
 ## == BLOQUE B · Sistemas de información y registros de enfermería

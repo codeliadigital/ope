@@ -1,0 +1,558 @@
+{
+ "tema": 44,
+ "preguntas": [
+  {
+   "q": "A la fiebre elevada con oscilaciones diarias mayores de 1ºC, se le denomina:",
+   "o": [
+    "Fiebre remitente.",
+    "Fiebre constante.",
+    "Fiebre recurrente.",
+    "Fiebre intermitente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude al domicilio de un paciente anglosajón, quien sólo dispone de un termómetro calibrado en grados Fahrenheit. Al tomarle la temperatura usted determina que presenta 101 grados Fahrenheit, lo que signiﬁca que presentará:",
+   "o": [
+    "Hipotermia.",
+    "Febrícula.",
+    "Fiebre.",
+    "Hiperpirexia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuál de los siguientes es un factor que NO afecta a la calidad de medición de la pulsioximetría:",
+   "o": [
+    "Ictericia.",
+    "Presencia de carboxihemoglobina.",
+    "Altos niveles de luz ambiental.",
+    "Presencia de metahemoglobina (congénita o adquirida)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué tres exploraciones se realizan en la consulta de preanestesia para identiﬁcar una posible vía aérea difícil?:",
+   "o": [
+    "Valoración de náuseas y vómitos previos, índice biespectral y gasometría.",
+    "Mallampati, distancia tiromentoniana (Patil Aldreti) y correcta movilidad cervical.",
+    "Pruebas complementarias, maniobra de Sellick y pulsioximetría.",
+    "Capnometría, valoración columna vertebral y ausencia de piezas dentales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuántas luces tiene una sonda tipo Linton-Nachlas?:",
+   "o": [
+    "Una",
+    "Dos.",
+    "Tres.",
+    "Cuatro."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la técnica del control del INR con sangre capilar en pacientes que toman anticoagulantes orales antagonistas de la vitamina K, ¿cuál es la zona de punción correcta?:",
+   "o": [
+    "La zona de punción debe ser en el extremo más proximal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 3er o 4º dedo.",
+    "La zona de punción debe ser en el extremo más proximal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 2º o 3er dedo.",
+    "La zona de punción debe ser en el extremo más distal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 2º o 3er dedo.",
+    "La zona de punción debe ser en el extremo más distal y lateral de un dedo de la mano, evitando las yemas, preferentemente en el 3er o 4º dedo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes escalas, es adecuada para la detección de síntomas clínicos de disfagia y se utiliza como método de cribado?:",
+   "o": [
+    "Eating Assessement Tool (EAT-10).",
+    "Eating Attitudes Test (EAT-26).",
+    "Método de exploración Clínica Volumen-Viscosidad (MECV-V).",
+    "Escala de Zarit."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La American Dietetic Association (ADA) y la British Dietetic Association (BDA), establecen unas propiedades cualitativas de los niveles de viscosidad del líquido. ¿Cuál de las siguientes opciones se corresponde con la viscosidad tipo néctar?:",
+   "o": [
+    "Necesita cuchara, no puede beberse con una cañita ni con un vaso.",
+    "Puede beberse con un vaso, pero no con cañita. Al decantar cae en forma de finas gotas que no producen salpicaduras.",
+    "Puede beberse con una cañita o con un vaso. Al decantar cae formando un hilo y al resbalar deja un residuo fino.",
+    "No puede beberse con una cañita ni con un vaso. Al resbalar deja un residuo grueso."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los niveles de viscosidad de los líquidos propuestos por la Iniciativa para la Estandarización de la Dieta de la Disfagia (IDDSI)?:",
+   "o": [
+    "Líquido, néctar, miel y pudding.",
+    "Fina, ligeramente espesa, poco espesa, moderadamente espesa, extremadamente espesa.",
+    "Fina, ligeramente espesa, moderadamente espesa, extremadamente espesa.",
+    "Néctar, miel, pudding."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con las pruebas diagnósticas de la disfagia MECV-V:",
+   "o": [
+    "Se proporciona al paciente una solución con tres viscosidades diferentes: líquida, néctar y pudding. La prueba comienza administrando al paciente la textura pudding, después la textura néctar y finalmente la textura líquida.",
+    "Se valoran tres alteraciones en la seguridad: tos, cambios en la voz y desaturación > 3 %. Estas alteraciones conllevan cambios en las siguientes texturas a administrar, y la interrupción de la prueba si suceden en la textura pudding.",
+    "Se valoran cuatro alteraciones de la eficacia: ineficacia del sello labial, residuo oral, deglución fraccionada y residuo faríngeo. Estas alteraciones suponen la interrupción de la prueba y conllevan la colocación de una sonda para alimentación.",
+    "El volumen y viscosidad seguro para el paciente es aquél en el que han aparecido alteraciones de la eficacia, pero no alteraciones en la seguridad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Al realizar una exploración del abdomen utilizando las zonas topográficas descritas por la escuela francesa, la zona explorada contiene: epiplón mayor, porción baja gástrica, colon transverso, mesenterio, vena cava y aorta. Usted está explorando:",
+   "o": [
+    "Hipocondrio derecho.",
+    "Mesogastrio.",
+    "Hipogastrio.",
+    "Fosa ilíaca derecha."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La pirámide de decisión del tratamiento de la incontinencia fecal (IF) conlleva un enfoque escalonado yendo de abajo (medidas conservadoras) a arriba (técnicas invasivas). ¿Qué lugar ocuparía la realización de un estoma para el tratamiento de la IF?:",
+   "o": [
+    "En primer lugar, en la base, es una técnica conservadora.",
+    "En la zona media, la realización de un estoma es una técnica mínimamente invasiva.",
+    "En último lugar, en el vértice, es una técnica invasiva.",
+    "No se realiza un estoma para tratar la IF."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Para el cribado de la disfagia en la consulta de Atención Primaria se recomienda utilizar el test:",
+   "o": [
+    "Eating-Assessment Tool-10 (EAT-10).",
+    "Método de Exploración Clínica Volumen-Viscosidad (MECV-V).",
+    "Manometría faringoesofágica.",
+    "Videofluroscopia de la deglución (VFS)."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "El Método Volumen Viscosidad (MECV-V) permite identificar a los pacientes con disfagia orofaríngea. Indique el algoritmo correcto para su puesta en práctica: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 544",
+   "o": [
+    "Serie de 5 ml, 10 ml y 20 ml de viscosidad pudding, progresar a viscosidad néctar (5 ml, 10 ml y 20 ml) y concluir con viscosidad líquida (5 ml, 10 ml y 20 ml).",
+    "Serie de 5 ml, 10 ml y 20 ml de viscosidad néctar, progresar a viscosidad pudding (5 ml, 10 ml y 20 ml) y concluir con viscosidad líquida (5 ml, 10 ml y 20 ml).",
+    "Serie de 5 ml, 10 ml y 20 ml de viscosidad líquida, progresar a viscosidad néctar (5 ml, 10 ml y 20 ml) y concluir con viscosidad pudding (5 ml, 10 ml y 20 ml).",
+    "Serie de 5 ml, 10 ml y 20 ml de viscosidad néctar, progresar a viscosidad líquida (5 ml, 10 ml y 20 ml) y concluir con viscosidad pudding (5 ml, 10 ml y 20 ml)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La exploración deglutoria con el Método de Exploración Clínica Volumen-Viscosidad (MECV-V) se realiza a pacientes en los que se sospecha disfagia orofaríngea. Según este método, ¿cuáles de estos signos, nos indicarían alteración de la seguridad de la deglución?:",
+   "o": [
+    "Deglución fraccionada, residuo oral y babeo.",
+    "Residuo faríngeo, propulsión lenta y sello labial incompleto.",
+    "Tos, voz húmeda, desaturación de oxígeno ≥ 3 %.",
+    "Tos, cambios en el tono de voz, saturación de oxígeno < 92 % durante la exploración."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. Señale qué tipo de gastrectomía se corresponde con la imagen:",
+   "o": [
+    "Billroth II.",
+    "Y de Roux.",
+    "Billroth I.",
+    "Manga gástrica. 545 DIGESTIVO"
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t24-2024-2025-9.jpg"
+  },
+  {
+   "q": "Teniendo en cuenta las diferentes técnicas quirúrgicas para la cirugía bariátrica laparoscópica, señale la respuesta correcta:",
+   "o": [
+    "La manga gástrica es de tipo malabsortivo y restrictivo.",
+    "La derivación biliopancreática con anulación duodenal es de tipo malabsortivo.",
+    "Las deficiencias nutricionales postquirúrgicas son mayores en las de tipo restrictivo.",
+    "Disminuyen de manera inmediata la comorbilidad asociada a la obesidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta acerca de la perfusión sanguínea del estómago:",
+   "o": [
+    "La vena gástrica derecha es conocida como vena coronaria.",
+    "No existe vena gastroduodenal y si arteria gastroduodenal.",
+    "La vena gástrica derecha e izquierda drenan la curvatura mayor del estómago.",
+    "El tronco celíaco no perfunde al estómago."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las estrategias para la prevención del síndrome de evacuación gástrica rápida (dumping) se encuentra:",
+   "o": [
+    "Elegir la administración de nutrición en tomas fraccionadas frente a infusión continua si el paciente lo tolera.",
+    "Administrar la nutrición preferentemente fría.",
+    "Lavar la sonda con la cantidad mínima de agua antes y después de administrar la nutrición.",
+    "Acelerar la toma lo posible, para una rápida digestión de los glúcidos y la prevención de hipoglucemias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Un proceso inflamatorio granulomatoso subagudo o crónico de todas las capas (lesión transmural) de la pared del tubo digestivo, con afectación segmentaria prolongada del aparato digestivo, se corresponde con:",
+   "o": [
+    "La colitis ulcerosa.",
+    "La enfermedad diverticular.",
+    "La enfermedad de Crohn.",
+    "El síndrome del intestino irritable."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones describe correctamente el Tipo 1 de la Escala de Bristol para la clasificación de las heces?:",
+   "o": [
+    "Heces en forma de salchicha con grietas en la superficie.",
+    "Heces duras en forma de pequeñas bolitas, difíciles de evacuar.",
+    "Heces blandas con bordes definidos, fáciles de evacuar.",
+    "Heces acuosas sin forma sólida, completamente líquidas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La manometría anorrectal (MAR) es una técnica que permite el estudio de la actividad motora anorrectal. En relación con dicha técnica señale la opción CORRECTA:",
+   "o": [
+    "Para su realización se coloca al paciente en posición de litotomía y se introduce a través del ano una sonda con el balón rectal.",
+    "La finalidad de esta técnica es evaluar la actividad presiva de la región anorrectal, la sensibilidad rectal, los reflejos rectoanales y la función del esfínter anal tanto en reposo como durante la defecación.",
+    "En los sujetos normales se observa un aumento de la presión rectal acompañado de la contracción del esfínter anal durante la maniobra defecatoria.",
+    "Es una prueba diagnóstica fundamental para el estudio de la estenosis y de la obstrucción anorrectal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para un estudio de colonoscopia adecuado, se deben cumplir requisitos de calidad indispensables que aseguren su máximo rendimiento; uno de ellos es la limpieza del intestino, siendo la Escala de Boston uno de los métodos utilizados para valorar dicha limpieza. Señale la opción INCORRECTA en relación con dicha escala:",
+   "o": [
+    "Evalúa los 3 segmentos del colon (ascendente, transverso y descendente).",
+    "La puntuación de la escala es la siguiente: 3 puntos presencia de heces sólidas; 2 puntos presencia de suciedad o líquido opaco; 1 punto poca suciedad, pero la mucosa puede verse bien; 0 puntos toda la mucosa del segmento colónico puede verse bien sin suciedad residual.",
+    "Se considera una preparación inadecuada cuando en algún segmento del colón la puntuación es de 0 o 1.",
+    "Se considera una preparación inadecuada cuando la puntuación total es menor de 6."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La comunicación entre la luz intestinal y la superficie de una herida abdominal abierta hace referencia a:",
+   "o": [
+    "Fístula enterocutánea.",
+    "Prolapso de una ostomía digestiva.",
+    "Fístula enteroatmosférica.",
+    "Eventración de una colostomía."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La irrigación transanal (ITA) se recomienda para el tratamiento de pacientes con disfunción intestinal originada por distintas causas. Señale la opción en la que NO se indicaría la ITA:",
+   "o": [
+    "Disfunción intestinal neurógena.",
+    "Problemas funcionales intestinales (incontinencia sin respuesta a otros tratamientos, por tránsito lento, etc.).",
+    "Situaciones postquirúrgicas (resección anterior de recto, bolsa ileoanal, etc.).",
+    "Enfermedades inflamatorias intestinales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la causa que origina la colitis por diversión (inflamación crónica del colon o de uno de sus segmentos)?:",
+   "o": [
+    "La realización de una ileostomía temporal que ocasiona disfunción en el colon.",
+    "La inflamación y las úlceras de la mucosa que recubre el colon.",
+    "Un proceso crónico y autoinmune de la mucosa del colon.",
+    "La presencia de infiltrados eosinofílicos en el tracto digestivo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando hablamos de una ileostomía fantasma o virtual, nos referimos a que:",
+   "o": [
+    "El íleon se aboca de manera única a la pared abdominal mientras en el interior del abdomen queda el resto del íleon.",
+    "La ileostomía no llega a crearse, sino que el íleon queda referenciado en la localización elegida para facilitar la maduración en caso de que sea necesario.",
+    "Se realiza una eversión de la ileostomía para proteger la serosa, puede realizarse tanto en las ileostomías terminales como en asa.",
+    "Se crea una ileostomía percutánea o ileostomía transcecal mediante endoscopia, utilizando una técnica parecida a la de la colocación de gastrostomías."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale lo correcto con relación al Clostridium difficile:",
+   "o": [
+    "El clostridium difficile es un bacilo gramnegativo aerobio estricto.",
+    "Se trata de un patógeno nosocomial responsable de la mayoría de los casos de diarrea asociada a antibióticos.",
+    "Es formador de endosporas, con capacidad toxigénica.",
+    "No resiste durante largos periodos de tiempo en condiciones ambientales extremas ni a ciertos tratamientos químicos, contribuyendo así a la aniquilación del microorganismo."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con el Sobrecrecimiento Bacteriano en el Intestino Delgado (SIBO):",
+   "o": [
+    "La modificación de la dieta en relación con la ingesta de hidratos de carbono constituye el pilar principal del tratamiento. 551 DIGESTIVO",
+    "Entre las causas se encuentran la hipoclorhidria, diverticulosis y distrofia muscular congénita.",
+    "El test de aliento es considerado el método más fiable de diagnóstico.",
+    "Entre los síntomas característicos se encuentran las náuseas y vómitos de repetición."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las complicaciones inmediatas de los estomas NO se encuentra:",
+   "o": [
+    "Necrosis.",
+    "Hemorragia.",
+    "Granuloma.",
+    "Dehiscencia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La disinergia defecatoria recibe cualquiera de las siguientes denominaciones EXCEPTO:",
+   "o": [
+    "Disinergia del suelo pélvico.",
+    "Contracción paradójica del suelo pélvico.",
+    "Anismo.",
+    "Síndrome del suelo pélvico laxo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes opciones, además de las exploraciones pertinentes, es fundamental para identificar el estreñimiento y sus subtipos:",
+   "o": [
+    "Escala de Vaizey (St. Mark´s Hospital).",
+    "Criterios Roma IV.",
+    "Escala de incontinencia de Wexner (Cleveland Clinic).",
+    "Escala LARS (Low Anterior Resectión Score)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes es una de las clasificaciones diagnósticas más utilizadas para la diverticulitis aguda:",
+   "o": [
+    "Escala de Boston.",
+    "Clasificación de París.",
+    "Clasificación de Kudo.",
+    "Clasificación de Hinchey y col. modificada por Kaiser y col."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El CV-20 es el primer cuestionario específico en castellano, sobre calidad de vida en pacientes con estreñimiento. Con relación a dicho cuestionario es correcto que:",
+   "o": [
+    "Valora 5 dimensiones: física general, emocional, física rectal, social y hábito intestinal.",
+    "La puntuación varía entre 0 y 5 puntos para cada ítem.",
+    "El valor 0 indica mejor calidad de vida.",
+    "Consta de un total de 20 ítems."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el cribado de las pruebas de sangre oculta en heces, existen dos métodos para la detección de hemoglobina (Hb). Con relación al test mediante método químico (guayaco SOHg), señale la opción INCORRECTA:",
+   "o": [
+    "Se basa en la actividad pseudoperoxidasa del grupo heme, que induce la oxidación del guayaco al añadirse peróxido de hidrógeno.",
+    "Este test puede rehidratarse o no.",
+    "Para evitar falsos positivos o negativos, el test de guayaco SOHg requiere la toma de 3 muestras y realizar una dieta específica previa durante 3 días.",
+    "Tres días antes de hacer la prueba evitar el tratamiento con antiinflamatorios no esteroideos (AINE) y fomentar el consumo de suplementos de vitamina C. 553 DIGESTIVO"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La escala de evaluación rápida de la gravedad de la incontinencia fecal, RAFIS (Rapid Assessment Faecal Incontinence Score), permite ponderar la gravedad clínica y su impacto sobre el bienestar emocional. Se compone de dos subescalas. ¿Qué miden dichas subescalas?:",
+   "o": [
+    "Una de ellas mide el estado general del sujeto a través de una escala visual, y la otra mide la frecuencia de fugas a través de una escala numérica.",
+    "Una de ellas mide el estado general del sujeto a través de una escala visual y la otra mide la consistencia de las heces a través de una escala visual.",
+    "Una de ellas evalúa la severidad de la disfunción neurógena intestinal a través de una escala visual y la otra clasifica el tipo de heces del 1 al 7 a través de una escala numérica.",
+    "Una mide si el paciente ha presentado pérdida no controlada de gas, deposiciones líquidas y sólidas a través de una escala visual, y la otra indaga en el impacto que esto tiene sobre su calidad de vida y actividad sexual mediante una escala numérica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La técnica de Malone se refiere a:",
+   "o": [
+    "Procedimiento usado en adultos, para la disfunción intestinal neurógena, con aplicación de un enema de agua con aceite de parafina o jabonoso, obteniendo un vaciamiento del colorrecto distal hasta la flexura esplénica.",
+    "Se trata de una colectomía y anastomosis ileorrectal. Está reservada a un pequeño grupo de pacientes con síntomas graves y refractarios: inercia colónica y trastorno motor limitado al colon con un tránsito orocecal normal.",
+    "Procedimiento que consiste en la formación de un conducto continente, generalmente una apendicostomía, que permite la cateterización intermitente para la irrigación y la limpieza rápida y controlada del colon (enema anterógrado).",
+    "Técnica utilizada en la defecación disinérgica. El objetivo en estos pacientes es restablecer un patrón defecatorio normal, consiguiendo una contracción abdominal adecuada junto con la relajación de los esfínteres."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el año 2012, Emmertsen y colaboradores, desarrollaron una herramienta objetiva, eficiente y fácil de utilizar en la práctica diaria, para la evaluación de la función intestinal posterior a una resección rectal. ¿Cómo se llama esta escala?:",
+   "o": [
+    "Escala MSKCC BFI (Memorial Sloan Kettering Cancer Centre Bowel Function Instrument Score).",
+    "Escala NBD (Neurogenic Bowel Dysfunction Score).",
+    "Escala RAFIS (Rapid Assessment Faecal Incontinence Score).",
+    "Escala LARS (Low Anterior Resection Score)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La irrigación a través de la colostomía es un método para buscar la continencia en personas colostomizadas. Al respecto, señale la afirmación INCORRECTA:",
+   "o": [
+    "Está indicada en las colostomías sigmoideas y descendentes.",
+    "Está contraindicada durante el tratamiento con quimioterapia.",
+    "Se inicia a partir de un mes de la intervención con autorización del cirujano o enfermera experta sin necesidad de esperar a que el tránsito intestinal esté normalizado.",
+    "La irrigación se realizará al principio cada 24 horas, después cada 48 y si es posible se puede hacer cada 72 horas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El pioderma gangrenoso (PG) son un tipo de úlceras que pueden aparecer en la piel periestomal de ciertos pacientes. Señale la opción correcta en relación con el PG:",
+   "o": [
+    "El pioderma gangrenoso es una enfermedad cutánea crónica, ulcerativa y dolorosa de probable etiología autoinmunitaria. Progresa en pocos días desde una pequeña pústula hasta formar una gran úlcera.",
+    "Existen cuatro variantes clínicas de pioderma gangrenoso: clásico o ulceroso, papuloso, maculoso y vegetante.",
+    "Al ser de origen bacteriano los tratamientos de elección son antibióticos betalactámicos o macrólidos.",
+    "El pioderma gangrenoso es una enfermedad cutánea muy frecuente y es la clave para el diagnóstico de una enfermedad interna."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones para la práctica en relación a la Fase Preoperatoria, se recoge en la Guía de Buenas Prácticas Clínicas: Cuidado y manejo de la ostomía de la Registered Nurses Association of Ontario (RNAO)?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 556",
+   "o": [
+    "Examinar el posible impacto de la cirugía de ostomía en las relaciones íntimas y la función sexual del paciente y su pareja.",
+    "Identificar los factores de riesgo que influyen en las complicaciones del estoma y de la zona periestomal.",
+    "Asegurarse de que el plan de cuidados de la ostomía es un plan personalizado que cubrirá las necesidades del paciente y de su familia.",
+    "Formar al paciente y a sus familiares para que puedan reconocer las complicaciones que afectan al estoma y a la piel periestomal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué cuestionario validado en nuestro medio mide la calidad de vida de las personas enterostomizadas?:",
+   "o": [
+    "Cuestionario SF-38.",
+    "Cuestionario CVRS.",
+    "Cuestionario Stoma-QoL.",
+    "Cuestionario Stoma-Live."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la diarrea de tipo secretor aparece una de las siguientes manifestaciones fisiopatológicas:",
+   "o": [
+    "El pH de las heces es ácido.",
+    "La osmolalidad de las heces es normal.",
+    "La diarrea cede con el ayuno.",
+    "El hiato osmolal de las heces es elevado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes consejos prácticos que como enfermero/a Vd. recomendaría sobre las relaciones sexuales a una persona ostomizada, señale la opción INCORRECTA:",
+   "o": [
+    "Evite alimentos que puedan aumentar la producción de gases y olores.",
+    "Aplique gotas desodorantes en la bolsa.",
+    "Si lo desea póngase un cinturón de ostomías.",
+    "Cambie la bolsa para una de mayor tamaño que la suya, para evitar vaciarla durante el encuentro."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El conducto colédoco se forma por la unión de:",
+   "o": [
+    "Conducto pancreático accesorio y pancreático principal.",
+    "Conducto hepático común y conducto cístico.",
+    "Conducto pancreático y conducto cístico.",
+    "Conducto pancreático y hepático derecho."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA respecto a la anatomía de la vesícula y vía biliar:",
+   "o": [
+    "Las partes de la vesícula biliar son el fondo, cuerpo, infundíbulo y cuello.",
+    "La vesícula se apoya en la cara inferior de los segmentos IV y V del hígado y es la encargada de almacenar la secreción biliar.",
+    "El conducto colédoco es el formado por la unión del conducto cístico y el conducto hepático común, desembocando en el duodeno a través de la Ampolla de Wirsung.",
+    "A través de la Ampolla de Vater la secreción biliar y pancreática llegan al duodeno."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según los criterios de West-Haven, ¿Cuál de las siguientes opciones NO CORRESPONDE a una manifestación clínica habitual en alguno de los grados de encefalopatía hepática?:",
+   "o": [
+    "Grado 1. El paciente permanece completamente alerta y orientado, participa activamente en conversaciones prolongadas durante todo el día.",
+    "Grado 2. Se observa aumento de la somnolencia y desorientación, junto con cambios del estado de ánimo, comportamiento inapropiado y agitación.",
+    "Grado 3. Presenta estupor, dificultad importante para despertar, duerme la mayor parte del tiempo, con confusión marcada y habla incoherente.",
+    "Grado 4. El paciente se encuentra en estado de coma."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la cirrosis hepática, ¿cuál de las siguientes afirmaciones es cierta?:",
+   "o": [
+    "En la cirrosis biliar hay amplias bandas de tejido cicatricial, como resultado tardío de un episodio de hepatitis vírica.",
+    "En la cirrosis postnecrótica, la cicatrización ocurre en el hígado, alrededor de los conductos biliares, como resultado de una obstrucción biliar crónica e infección (colangitis).",
+    "En la cirrosis biliar, se produce una acumulación de grasa en los hepatocitos, que aumentan considerablemente de tamaño llegando a colapsar los conductos biliares.",
+    "En la cirrosis alcohólica, el tejido cicatricial rodea de manera característica a las áreas portales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la habitación 304 se encuentra ingresado un paciente varón con diagnóstico de encefalopatía hepática crónica. Indique la respuesta correcta:",
+   "o": [
+    "Para valorar si el paciente tiene asterixis, pedirá al paciente que sostenga el brazo flexionado y la mano extendida hacia arriba.",
+    "Debe controlar los hidratos de carbono de la dieta debido a que su digestión enzimática es la fuente más grande de amoníaco.",
+    "Ciertos antibióticos, como la ampicilina, pueden ayudar a reducir el amoníaco sérico por reducción del número de bacterias intestinales.",
+    "La pauta de lactulosa debe revisarse de forma estrecha, pues de aparecer heces diarreicas acuosas nos indicarían sobredosis del medicamento."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La hemorragia digestiva baja es con mayor frecuencia secundaria a:",
+   "o": [
+    "Enfermedad diverticular.",
+    "Enfermedad de Crohn.",
+    "Colitis ulcerosa.",
+    "Úlcera gástrica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

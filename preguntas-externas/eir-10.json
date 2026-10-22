@@ -1,0 +1,925 @@
+{
+ "id": "eir-10",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 10,
+ "titulo": "EIR · Farmacología",
+ "explicadas": false,
+ "descripcion": "83 preguntas de los exámenes EIR de 2018 a 2025 sobre farmacología, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Un varón de 75 años y 80 kilos de peso, presenta un Síndrome Coronario Agudo con Elevación del Segmento ST. El tiempo estimado de llegada a la sala de hemodinámica en ambulancia es de 150 minutos desde la aparición de los síntomas. Teniendo en cuenta esta situación, su condición de enfermero/a y el Real Decreto 1302/2018, de 22 de octubre, de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros, indique la acción a seguir:",
+   "o": [
+    "Administrará 10mg subcutáneos de Cloruro Mórfico, 500mg de ácido acetilsalicílico, oxígeno por mascarilla venturi a 15 litros por minuto y esperará la llegada de la Unidad de Emergencias ya que se encuentra dentro del tiempo límite para angioplastia.",
+    "Administrará 10mg subcutáneos de Cloruro Mórfico, 500mg de ácido acetilsalicílico, oxígeno por mascarilla venturi a 15 litros por minuto, 40mg de tenecteplasa i.v. y esperará la llegada de la Unidad de Emergencias.",
+    "Administrará 5mg i.v. de Cloruro Mórfico, 500mg de ácido acetilsalicílico, oxígeno por mascarilla venturi a 15 litros por minuto y un bolo inicial de 15mg de alteplasa mientras espera la llegada de la Unidad Medicalizada de Emergencias.",
+    "Conforme a la legislación vigente no podrá realizar ninguna de las acciones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El proceso LADME (liberación, absorción, distribución, metabolismo y excreción) hace referencia a:",
+   "o": [
+    "El proceso farmacodinámico que experimenta el medicamento administrado.",
+    "El proceso u órganos diana en los que el fármaco ejerce un efecto agonista o antagonista.",
+    "El proceso farmacocinético que experimenta el medicamento administrado.",
+    "El proceso o puntos de farmacovigilancia que experimenta el medicamento administrado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La cinética de eliminación saturable o de orden cero que experimentan algunos fármacos o tóxicos, como por ejemplo el alcohol etílico, se caracteriza por:",
+   "o": [
+    "Presentar una velocidad de eliminación proporcional a la cantidad de fármaco o tóxico.",
+    "Presentar una velocidad de eliminación constante, independientemente de la cantidad de fármaco o tóxico a eliminar (por ejemplo, 12 mililitros/hora). PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 188",
+    "Eliminar siempre un determinado porcentaje del fármaco o tóxico por unidad de tiempo (por ejemplo, el 40 % en 4 horas).",
+    "Presentar una semivida o vida media (t1/2) constante."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Un número considerable de interacciones farmacocinéticas se pueden producir con determinados alimentos, suplementos dietéticos o hierbas adquiridas en herboristerías. Con relación al hipérico o Hierba de San Juan, señale la opción correcta:",
+   "o": [
+    "Es un potente inductor enzimático del CYP3A4 capaz de disminuir la biodisponibilidad de fármacos orales metabolizados por estas enzimas.",
+    "Es capaz de aumentar la biodisponibilidad de fármacos orales metabolizados por el citocromo P450 3A.",
+    "Aumenta la eficacia de los anticonceptivos orales al disminuir su metabolismo.",
+    "Produce fallos terapéuticos de la ciclosporina al incrementar su biodisponibilidad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El desarrollo del organismo durante la edad pediátrica afecta a la farmacocinética de los medicamentos; Indique la opción INCORRECTA respecto a los factores que pueden modificar la respuesta a los fármacos:",
+   "o": [
+    "La absorción percutánea está aumentada en neonatos y lactantes.",
+    "El pH gástrico es más ácido y el vaciado gástrico se encuentra aumentado hasta los tres meses de edad.",
+    "La absorción tras la administración intramuscular se considera lenta y errática en el lactante.",
+    "El mayor contenido en agua corporal del neonato en comparación a niños más grandes genera concentraciones plasmáticas más bajas ante igual dosis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El zumo de pomelo puede propiciar toxicidad grave por algunos fármacos debido a que:",
+   "o": [
+    "Inhibe su metabolismo.",
+    "Aumenta su absorción digestiva.",
+    "Desplaza su unión a proteínas plasmáticas.",
+    "Disminuye su excreción renal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes factores disminuye la absorción de fármacos vía intramuscular, subcutánea e intradérmica en niños?:",
+   "o": [
+    "Masaje en el punto de punción.",
+    "Enzima hialuronidasa.",
+    "Aplicación de calor local.",
+    "Aplicación de frío local."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes es un proceso estructurado y multidisciplinar, que implica tanto a los profesionales sanitarios como a los pacientes y sus familiares o cuidadores, para lograr que la información que se transmite sobre la medicación en los puntos de transición o traspaso asistencial sea precisa, completa y segura: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 190",
+   "o": [
+    "Análisis y gestión de los errores de medicación.",
+    "Conciliación de medicación.",
+    "Prescripción electrónica.",
+    "Notificación de incidentes relacionados con el uso de medicamentos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 12. El símbolo que aparece en la imagen hace referencia a:",
+   "o": [
+    "Es el símbolo internacional de la farmacia.",
+    "Es el símbolo SIGRE.",
+    "Señala los productos insecticidas.",
+    "Identifica a los medicamentos fitoterápicos."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t10-2022-2023-12.jpg"
+  },
+  {
+   "q": "Indique a qué corresponde el símbolo “•” que figura junto al código nacional en el margen superior derecho de ambas caras principales del embalaje exterior de un medicamento:",
+   "o": [
+    "Uso exclusivo hospitalario.",
+    "Conservación en frío.",
+    "Dispensación sujeta a prescripción médica.",
+    "Dispensación con receta oficial de estupefacientes."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un recién nacido prematuro de 1.800 gramos de peso, debe recibir NeoRespR (medicamento ficticio), a una dosis de 12 microgramos/Kg de peso/dosis. Este medicamento viene en una presentación de 120 microgramos en un mililitro. ¿Cuántos mililitros se deben administrar por dosis?:",
+   "o": [
+    "0,12 ml.",
+    "0,15 ml.",
+    "0,18 ml.",
+    "0,25 ml."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A cuantas microgotas/min debe pasar un suero pautado a 12 ml/h en un paciente pediátrico?:",
+   "o": [
+    "26 microgotas/minuto.",
+    "24 microgotas/minuto.",
+    "14 microgotas/minuto.",
+    "12 microgotas/minuto."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Disponemos de un vial de propofol al 2 % de 50 ml y 2 ampollas de fentanilo de 3 ml y 0,15 mg. Indique la respuesta correcta para la administración de 40 mg de propofol y 75 mcg de fentanilo: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 192",
+   "o": [
+    "1 ml de propofol y 1 ml de fentanilo.",
+    "2 ml de propofol y 1,5 ml de fentanilo.",
+    "3 ml de propofol y 2 ml de fentanilo.",
+    "4 ml de propofol y 2,5 ml de fentanilo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es un inhibidor selectivo de la Cox-2 que se administra por vía parenteral?:",
+   "o": [
+    "Ibuprofeno.",
+    "Parecoxib.",
+    "Naproxeno.",
+    "Celecoxib."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los siguientes posibles usos clínicos de las benzodiazepinas, indique la OPCIÓN INCORRECTA:",
+   "o": [
+    "Ansiolítico.",
+    "Hipnótico.",
+    "Relajante muscular.",
+    "Analgésico."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es un anticuerpo monoclonal totalmente humano ANTI TNF-ALFA (factor de necrosis tumoral-ALFA) ?:",
+   "o": [
+    "Omalizumab.",
+    "Infliximab.",
+    "Adalimumab.",
+    "Rituximab."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es una ciclodextrina sintética utilizada para revertir el bloqueo neuromuscular inducido por el rocuronio?:",
+   "o": [
+    "Sugammadex.",
+    "Sumatriptán.",
+    "Atracurio.",
+    "Valproato sódico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el mecanismo de acción de la fluoxetina, fármaco utilizado en el tratamiento de la depresión?:",
+   "o": [
+    "Inhibe la recaptación de noradrenalina y serotonina.",
+    "Es un inhibidor selectivo de la recaptación de serotonina.",
+    "Es un inhibidor de la enzima convertidora de angiotensina (IECA).",
+    "Se une al receptor del GABA (ácido gammaaminobutírico) y potencia su acción."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos tienen actividad antiinflamatoria además de inmunosupresora?:",
+   "o": [
+    "Tramadol.",
+    "Antiinflamatorios no esteroideos (AINE).",
+    "Metamizol.",
+    "Glucocorticoides."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el fármaco agonista adrenérgico beta-3 utilizado en el tratamiento del síndrome de vejiga hiperactiva porque relaja el músculo detrusor?:",
+   "o": [
+    "Mirabegrón.",
+    "Salbutamol.",
+    "Tamsulosina.",
+    "Atropina."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las siguientes afirmaciones sobre los anestésicos locales, indique la opción INCORRECTA:",
+   "o": [
+    "La bupivacaína es un anestésico local de corta duración.",
+    "Su mecanismo de acción se basa en el bloqueo de canales de sodio.",
+    "Se pueden asociar a vasoconstrictores como la adrenalina.",
+    "La bupivacaína es un anestésico local de larga duración. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 196"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En una reacción anafiláctica, se utiliza la adrenalina (epinefrina) como fármaco más eficaz porque:",
+   "o": [
+    "Es agonista sobre los receptores α1 adrenérgicos, los receptores β1 adrenérgicos y los receptores β2 adrenérgicos.",
+    "Es antagonista sobre los receptores α1 adrenérgicos, los receptores β1 adrenérgicos y los receptores β2 adrenérgicos.",
+    "Es antagonista sobre los receptores α1 adrenérgicos y agonista sobre los receptores β1 adrenérgicos y los receptores β2 adrenérgicos.",
+    "Es agonista sobre los receptores α1 adrenérgicos y antagonista sobre los receptores β1 adrenérgicos y los receptores β2 adrenérgicos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué contexto clínico estaría indicada la aplicación de la Guía para “La indicación, uso y autorización de dispensación de medicamentos sujetos a prescripción médica por parte de las enfermeras/os en el caso de infección del tracto urinario” publicada en el Boletín Oficial del Estado nº 200, de 19 de agosto de 2024?:",
+   "o": [
+    "En mujeres mayores de 18 años con signos de cistitis no complicada.",
+    "En mujeres mayores de 65 años.",
+    "En mujeres mayores de 14 años con signos de cistitis no complicada.",
+    "En mujeres con infección urinaria recurrente (2 o más episodios en seis meses)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos se utiliza comúnmente en la terapia inmunosupresora de mantenimiento tras un trasplante renal?:",
+   "o": [
+    "Interferón beta.",
+    "Cisplatino.",
+    "Cistatina C.",
+    "Tacrolimus."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto al uso de haloperidol, ¿qué afirmación es cierta?:",
+   "o": [
+    "Es un fármaco con alta acción antipsicótica.",
+    "Tiene un riesgo de sintomatología extrapiramidal menor al aripiprazol u olanzapina.",
+    "No debe utilizarse en el tratamiento sintomático del síndrome confusional.",
+    "Tiene una elevada acción anticolinérgica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Informe de Posicionamiento Terapéutico de Esketamina (IPT, 17/2022 V2, de la Agencia Española de Medicamentos y Productos Sanitarios), ¿cuál de las siguientes afirmaciones es FALSA respecto a la Esketamina intranasal (Spravato®) ?:",
+   "o": [
+    "Ha sido autorizada para el tratamiento del trastorno depresivo mayor resistente al tratamiento en adultos que no han respondido al menos a dos tratamientos diferentes con antidepresivos en el episodio depresivo moderado o grave actual.",
+    "Se usa en combinación con un inhibidor selectivo de la recaptación de serotonina (ISRS) o un inhibidor de la recaptación de serotonina y noradrenalina (IRSN).",
+    "En la fase de inducción (semanas 1 a 3), la dosis recomendada en adultos menores a 65 años es de 25 mg dos veces por semana. En la fase de mantenimiento (semanas 4 a 12) la dosis recomendada es de 50 mg una vez por semana.",
+    "Los problemas de seguridad más importantes son los trastornos disociativos, el aumento transitorio de la presión arterial, la somnolencia y la sedación que se pueden producir tras la administración, por lo que se requiere una observación clínica del paciente hasta la estabilidad."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una mujer de 64 años, con demencia frontotemporal variante conductual, inicia tratamiento con trazodona para controlar irritabilidad y agitación. Tras dos semanas, la enfermera observa somnolencia diurna marcada y mareos frecuentes. ¿Cuál debería ser la actuación prioritaria de la enfermera ante estos efectos secundarios?:",
+   "o": [
+    "Reforzar medidas de seguridad para prevenir caídas y comunicar al médico responsable la aparición de sedación y mareo.",
+    "Aconsejar aumentar la dosis de trazodona para lograr mayor control de los síntomas conductuales.",
+    "Recomendar suspender por completo el tratamiento y consultar con su médico.",
+    "Considerar que los síntomas son esperables y no requieren intervención específica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué complicación es fundamental vigilar estrechamente en pacientes con miastenia gravis que están recibiendo inhibidores de la acetilcolinesterasa, como la piridostigmina?:",
+   "o": [
+    "Crisis colinérgica debido a una sobredosis de medicación.",
+    "Parálisis flácida debido a la sobreestimulación de receptores nicotínicos.",
+    "Hipertensión grave debido a la potenciación de los efectos simpáticos.",
+    "Crisis miasténica debido a la falta de eficacia del tratamiento."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál podría ser la causa de la sintomatología presentada por un paciente en tratamiento crónico con morfina que presenta dolor generalizado, diarrea, cólico abdominal, náuseas, irritabilidad, taquicardia y midriasis?:",
+   "o": [
+    "Necesidad de aumentar la dosis debido a un fenómeno de taquifilaxia por tolerancia crónica.",
+    "Reacción adversa frecuente y poco grave a la morfina, dicha semiología se mitigará en unos días.",
+    "Espasmo del esfínter de Oddi, reacción adversa frecuente.",
+    "Síndrome de abstinencia por una interrupción brusca del tratamiento o interacción con agonista / antagonista opioide."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En base al coeficiente de partición sangre / gas, ¿qué anestésico inhalado presenta un inicio de acción (inducción) más rápido?:",
+   "o": [
+    "Halotano.",
+    "Cloruro de etilo.",
+    "Desflurano.",
+    "Enflurano."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación a la semaglutida, señale la respuesta correcta:",
+   "o": [
+    "Es un inhibidor de SGLT2.",
+    "Aumenta la secreción de insulina en glucemias elevadas y estimula la secreción de glucagón en hipoglucemias.",
+    "Entre sus reacciones adversas podemos destacar: náuseas, vómitos, diarrea, y en menor medida, pancreatitis aguda.",
+    "Ejerce un efecto metabólico (glucémico y lipídico) positivo, pero cardioprotector negativo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes podría ser una de las causas por las que tras administrar dos bolos de efedrina no se revierte la hipotensión arterial y aparecen efectos no deseados?:",
+   "o": [
+    "Hiperoxia.",
+    "Hipocapnia.",
+    "Acidosis.",
+    "Interacción con un inhibidor de la monoaminooxidasa (moclobemida)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes indica una actuación correcta en la revisión farmacoterapéutica de un paciente que tiene prescritos inhibidores de la bomba de protones (omeprazol)?:",
+   "o": [
+    "Le explica al paciente que debe mantener una toma crónica de una vez al día porque tuvo una esofagitis por reflujo hace un año, está polimedicado y es mayor de 65 años.",
+    "Le recuerda al paciente que la administración debe ser por la noche, después de la ingesta de alimentos.",
+    "Valorar en el paciente el déficit de absorción de vitamina B12, calcio y magnesio dado que es un tratamiento crónico.",
+    "Le recuerda al paciente que la hipersecreción ácida de rebote por una interrupción brusca incrementa el riesgo de neumonía e infección entérica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes medicamentos puede desencadenar una interacción farmacológica con el tacrolimus grave y/o potencialmente mortal?:",
+   "o": [
+    "Simvastatina.",
+    "Petidina hidrocloruro.",
+    "Clindamicina.",
+    "Ritonavir."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efecto debe vigilar durante el periodo postoperatorio inmediato de un o una paciente que ha recibido atropina en el periodo preoperatorio?:",
+   "o": [
+    "Diarrea.",
+    "Bradicardia.",
+    "Retención urinaria.",
+    "Salivación excesiva."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué resultado analítico podría indicar un efecto adverso al tratamiento con torasemida 5 mg/día, en un paciente diagnosticado de insuficiencia cardiaca?:",
+   "o": [
+    "Cloro 98 mmol/L.",
+    "Sodio 146 mmol/L.",
+    "Potasio 3.1 mmol/L.",
+    "BUN 5.4 mmol/L."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una persona está diagnosticada de trastorno esquizoafectivo y dentro de su tratamiento farmacológico se incluye la pauta: clonazepam2mg (1-0-1). ¿Cuál de los siguientes efectos NO es atribuible a este fármaco?:",
+   "o": [
+    "Efecto ansiolítico.",
+    "Efecto antipsicótico.",
+    "Efecto hipnótico.",
+    "Efecto anticonvulsivante."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos consideraría usar ante una intoxicación por bisoprolol?:",
+   "o": [
+    "Atropina.",
+    "Glucagón.",
+    "Cloruro Cálcico.",
+    "Gluconato Cálcico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El antídoto de elección ante una sobredosis de atenolol es:",
+   "o": [
+    "Flumazenilo.",
+    "Amiodarona.",
+    "Glucagón.",
+    "Naloxona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Se encuentra usted en urgencias y acude un paciente varón que refiere haber consumido Nitrito de Alquilo (Popper) de forma inhalada. Respecto a los efectos adversos y complicaciones de esta sustancia se encuentra:",
+   "o": [
+    "Dependencia, síntomas psicóticos, agitación, convulsiones, distonías, toxicidad cardiológica y renal y Síndrome serotoninérgico.",
+    "Cefalea, toxicidad retiniana, hipoxia, anemia hemolítica.",
+    "Ansiedad, taquicardia, bruxismo, golpe de calor, síntomas afectivos y resaca en días posteriores.",
+    "Dispepsia, diarrea y alteraciones visuales transitorias (tinción azul de la visión)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una paciente hipertensa que planea quedarse embarazada, ¿qué debemos tener en cuenta con respecto a su tratamiento con un ARA II (antagonista de los receptores de la angiotensina II)?:",
+   "o": [
+    "Necesidad de suspender el tratamiento, especialmente en el segundo y tercer trimestre, por riesgo de teratogenicidad.",
+    "Aumento del riesgo de proteinuria y vómitos durante el primer trimestre.",
+    "Mantener el tratamiento y una vigilancia más estrecha a partir del segundo trimestre para controlar y reducir el riesgo de preeclampsia. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 204",
+    "Siempre que la paciente lo tolere (aumento hipotensión ortostática) mantener el tratamiento por su efecto cardioprotector y la menor incidencia de eclampsia asociada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El fluconazol, al ser un inhibidor de la CYP2C9, ¿con qué analgésico puede interaccionar siendo necesario vigilar los efectos tóxicos o adversos del mismo y/o disminuir su dosis?:",
+   "o": [
+    "Paracetamol.",
+    "Metamizol.",
+    "Ibuprofeno.",
+    "Tramadol."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿La inhibición de la HMG CoA reductasa mediada por las estatinas para reducir el colesterol también reduce la síntesis de?:",
+   "o": [
+    "Coenzima Q10.",
+    "Biotina.",
+    "Creatinfosfoquinasa (CPK).",
+    "Ácido pantoténico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el mecanismo de acción por el que la cocaína produce su efecto tóxico: hipertensión, taquicardia, diaforesis, temblor, midriasis e hipertermia?:",
+   "o": [
+    "Simpaticomimético de acción indirecta que inhibe la recaptación presináptica de noradrenalina aumentando la estimulación adrenérgica.",
+    "Parasimpaticomimético directo que inhibe la recaptación de acetilcolina aumentando su disponibilidad para estimular los receptores muscarínicos.",
+    "Agonista colinérgico de los receptores muscarínicos y nicotínicos.",
+    "Antagonista selectivo de los receptores adrenérgicos α1 que bloquea la estimulación adrenérgica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué fármaco es compatible y/o presenta un riesgo muy bajo perfectamente asumible con la lactancia materna?:",
+   "o": [
+    "Atenolol.",
+    "Doxepina hidrocloruro.",
+    "Cabergolina.",
+    "Esomeprazol."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué reacción adversa se asocia al empleo de isoflurano inhalado durante la inducción anestésica?:",
+   "o": [
+    "Laringoespasmo.",
+    "Hipertensión.",
+    "Hipopotasemia.",
+    "Experiencia extracorpórea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el antídoto del etilenglicol:",
+   "o": [
+    "Azul de metileno.",
+    "Fomepizol.",
+    "Carnitina.",
+    "Dimercaprol."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique qué alimento puede ingerir una persona en tratamiento con Inhibidores de la Monoamino-oxidasa (IMAO): PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 206",
+   "o": [
+    "Queso curado.",
+    "Guisantes.",
+    "Plátano verde.",
+    "Espinacas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes antipsicóticos de administración intramuscular está indicado como tratamiento de mantenimiento en personas diagnosticadas de esquizofrenia?:",
+   "o": [
+    "Carbonato de litio.",
+    "Palmitato de paliperidona.",
+    "Zuclopentixol acetato.",
+    "Olanzapina."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué nos referimos cuando hablamos de dietas de redistribución proteica en pacientes con Parkinson?:",
+   "o": [
+    "Patrones de ingesta para los pacientes en tratamiento con levodopa que restringen la ingesta de proteínas a 0.5 gr/kg de peso/día.",
+    "Patrones de ingesta para pacientes en tratamiento con nutrición enteral complementaria, con aporte proteico de 2 gr/kg de peso/día.",
+    "Patrones de ingesta con restricción de proteínas en la cena, completando los requerimientos proteicos durante el día.",
+    "Patrones de ingesta para los pacientes en tratamiento con levodopa con restricción de proteínas durante el día, completando los requerimientos en la cena."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Tras haber cenado hace dos horas unos crêpes de setas del género Clitocybe e Inocybe acude a urgencias un paciente que presenta vómitos, diarrea, dolor abdominal, sialorrea, broncorrea, miosis, bradicardia e hipotensión. ¿Cuál de los siguientes fármacos sería preferentemente recomendado?: 207 FARMACOLOGÍA",
+   "o": [
+    "Dexclorfeniramina.",
+    "Metilprednisolona.",
+    "Atropina.",
+    "Pilocarpina."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el tratamiento del alcoholismo, ¿qué fármaco se emplea para controlar la impulsividad, hiperexcitabilidad y el temblor durante la fase de deshabituación?:",
+   "o": [
+    "Carbamazepina.",
+    "Naltrexona.",
+    "Disulfiram.",
+    "Tiamina (vitamina B1)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos antihipertensivos se clasifica según su mecanismo de acción como un bloqueante de los canales del calcio?:",
+   "o": [
+    "Amlodipino.",
+    "Enalapril.",
+    "Doxazosina.",
+    "Candesartán."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el mecanismo de acción de las estatinas como fármaco hipolipemiante?:",
+   "o": [
+    "Bloquean la absorción de colesterol en el intestino delgado. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 208",
+    "Reducen la biosíntesis de colesterol inhibiendo la enzima HMG-CoA reductasa.",
+    "Son resinas quelantes o secuestradores de ácidos biliares que se unen a estos aumentando su excreción con las heces.",
+    "Disminuyen las concentraciones de VLDL y por ende las de LDL, además de proporcionar un efecto deseado en la reducción de triglicéridos y aumento de HDL."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efecto produce la activación de los receptores β2-adrenérgicos?:",
+   "o": [
+    "Vasoconstricción.",
+    "Glucogénesis.",
+    "Broncodilatación.",
+    "Contracción del tubo gastrointestinal."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efectos adversos produce el aciclovir?:",
+   "o": [
+    "Hipovolemia e hiponatremia.",
+    "Estreñimiento y déficit de vitamina B12.",
+    "Estomatitis y calambres musculares.",
+    "Náuseas y erupción cutánea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué opioide presenta una mayor potencia analgésica?:",
+   "o": [
+    "Morfina.",
+    "Metadona.",
+    "Meperidina.",
+    "Fentanilo. 209 FARMACOLOGÍA"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta sobre los fármacos dentro del grupo de las benzodiacepinas:",
+   "o": [
+    "Inhiben la acción inhibitoria sobre el sistema nervioso periférico del ácido gamma aminobutírico.",
+    "Sus efectos beneficiosos incluyen sedación, amnesia y acción anticonvulsiva.",
+    "En caso de sobredosis o reacciones adversas, su acción se revierte con la naloxona.",
+    "El midazolam produce una sedación más lenta y una vida media más larga que el diazepam."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un niño de 5 años que acude a urgencias por vómitos persistentes asociados a un cuadro de gastroenteritis aguda, ¿qué fármaco en dosis única sería el de elección para el manejo de los vómitos, antes de introducir terapia de rehidratación?:",
+   "o": [
+    "Metoclopramida.",
+    "Domperidona.",
+    "Ondansetrón.",
+    "Haloperidol."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la prevención, toxicidad y detección precoz de sobredosificaciones por metotrexato oral, debemos saber que:",
+   "o": [
+    "La pauta posológica del metotrexato en el tratamiento de la artritis reumatoide será de 40 mg al día, preferiblemente siempre a la misma hora.",
+    "Los síntomas gastrointestinales (mucositis, diarreas, vómitos, hemorragias digestivas) y hematológicos (trombopenia, leucopenia, anemia) son predictivos y/o concomitantes en los casos de toxicidad por sobredosificación.",
+    "La administración de metamizol disminuye el riesgo de pancitopenia grave. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 210",
+    "La administración de ácido fólico aumenta el riesgo de toxicidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efectos adversos graves pueden acontecer en un paciente con insuficiencia cardíaca congestiva, en el esquema farmacoterapéutico que combina espironolactona con un diurético de asa y un inhibidor de la enzima convertidora de la angiotensina?:",
+   "o": [
+    "Hipernatremia, hipoglucemia y agitación.",
+    "Hiponatremia, hipocalemia y aumento de las resistencias vasculares periféricas.",
+    "Hipernatremia e hipopotasemia grave si se combinan con “sales de régimen” (cloruro de potasio-KCl).",
+    "Hiponatremia, hiperpotasemia, insuficiencia renal y acidosis metabólica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes antidiabéticos orales, ¿cuál de ellos ocasiona un mayor riesgo de hipoglucemia?:",
+   "o": [
+    "Metformina (biguanidas).",
+    "Glimepirida (sulfonilureas).",
+    "Sitagliptina (inhibidores de la dipeptidil peptidasa-4 / DPP-4).",
+    "Acarbosa (inhibidores de la α-glucosidasa)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la administración intravenosa de nitroglicerina, debe saber que:",
+   "o": [
+    "La dilución siempre se realizará en un envase de vidrio.",
+    "La dilución sólo se realizará con suero glucosado al 10 %. 211 FARMACOLOGÍA",
+    "Puede administrarse en inyección intravenosa lenta si se diluye a razón de 1 mg/ml.",
+    "En el tratamiento de una angina inestable se iniciará una infusión de carga a dosis elevadas (200-250 microgramos/minuto), la cual se irá ajustando y reduciendo progresivamente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes medicaciones puede producir valores anormalmente altos del Índice Biespectral (BIS) a pesar de presentar el paciente un óptimo nivel de sedación?:",
+   "o": [
+    "Ketamina.",
+    "Óxido nitroso con concentración del 50 %.",
+    "Dexmedetomidina.",
+    "Bromuro de ipratropio."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes antibióticos, ¿con cuál sospecharía menor probabilidad de reacción alérgica en un paciente alérgico a la penicilina?:",
+   "o": [
+    "Piperacilina-Tazobactam.",
+    "Amoxicilina.",
+    "Cloxacilina.",
+    "Ciprofloxacino."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los síntomas de una intoxicación digitálica en un adulto?:",
+   "o": [
+    "Hipertensión, taquicardia y depresión respiratoria.",
+    "Acidosis respiratoria, hiperpotasemia e insuficiencia renal aguda.",
+    "Náuseas, vómitos, diarrea, somnolencia, cefaleas, alteraciones visuales y arritmias.",
+    "Dolor retroesternal, oliguria y sudoración fría y profusa."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta con relación al seguimiento farmacoterapéutico y la reevaluación del mismo que se debe realizar a un paciente anticoagulado con acenocumarol:",
+   "o": [
+    "El acenocumarol puede seguir tomándolo durante el embarazo sin incrementar el riesgo de alteraciones en la gestación o malformaciones en el feto.",
+    "El aumento o disminución del consumo de hortalizas de hoja verde por parte del paciente no influye en la anticoagulación ni en la consiguiente dosificación del acenocumarol.",
+    "No es necesario suspender la pauta de acenocumarol en pacientes que van a someterse a pequeñas cirugías como, por ejemplo, la extracción de una pieza dental.",
+    "La dosis diaria de acenocumarol se administra en una única toma al día, siempre a la misma hora y lo más separado posible de las comidas."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué fármaco interaccionan las benzodiacepinas potenciando los efectos depresores sobre el Sistema Nervioso Central?:",
+   "o": [
+    "Ciprofloxacino.",
+    "Paracetamol.",
+    "Hidroxicina.",
+    "Hidrocortisona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el tratamiento anticoagulante con acenocumarol en una mujer de 30 años portadora de prótesis valvular mecánica es FALSO que:",
+   "o": [
+    "Durante el tratamiento con anticoagulantes orales se desaconseja el embarazo.",
+    "Si algún día olvida tomar la dosis a la hora acostumbrada, pero se da cuenta a lo largo de ese mismo día, se la tomará lo antes posible, aunque deberá dejar pasar 12 horas entre toma y toma. 213 FARMACOLOGÍA",
+    "Un valor de INR de 2 indica que existe riesgo de hemorragia y está indicado disminuir la dosis total semanal en un 5-10% y realizar un nuevo control de INR a las dos semanas.",
+    "Aunque inicialmente los controles del INR se realizarán con relativa frecuencia, una vez alcanzada una dosis estable, éstos podrán efectuarse cada 4-6 semanas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La dosificación de los aminoglucósidos “una vez al día” se justifica atendiendo a todos los siguientes criterios, EXCEPTO:",
+   "o": [
+    "En caso de insuficiencia renal no sería necesario un ajuste de dosis.",
+    "La actividad bactericida de estos antibióticos es concentración dependiente.",
+    "El riesgo de toxicidad es menor si se compara con la dosificación a dosis múltiples.",
+    "Presentan un efecto postantibiótico prolongado."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la dosis diaria máxima recomendada de paracetamol en un adulto?:",
+   "o": [
+    "2 g.",
+    "4 g.",
+    "5 g.",
+    "6 g."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos podría estar asociado a la hipomagnesemia y desarrollo de osteoporosis cuando se utiliza como tratamiento a largo plazo?:",
+   "o": [
+    "Omeprazol.",
+    "Ranitidina.",
+    "Ondansetrón",
+    "Loperamida."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre los siguientes fármacos, que alivian el temblor y la rigidez muscular en la enfermedad de Parkinson, pero no la bradicinesia, ¿cuáles pueden causar confusión mental, agitación y alteraciones en la memoria cuando se utilizan en personas mayores?:",
+   "o": [
+    "Anticolinesterásicos.",
+    "Antimuscarínicos.",
+    "IMAO A.",
+    "Levodopa y otros potenciadores dopaminégicos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de estos fármacos se utiliza de manera alternante (a días alternos) en los tratamientos prolongados, tratando de disminuir sus efectos adversos:",
+   "o": [
+    "AINE.",
+    "Alquilantes.",
+    "Glucocorticoides.",
+    "Antituberculosos de primera línea."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Se va a realizar una sedación moderada (consciente) a un paciente utilizando benzodiacepinas. Respecto a su uso, usted debe tener en cuenta (señale la opción INCORRECTA):",
+   "o": [
+    "Entre los efectos secundarios se encuentra la disminución de la presión arterial y el aumento de la frecuencia cardíaca.",
+    "Producen ansiólisis y amnesia.",
+    "Su antídoto es la naxolona.",
+    "Carecen de propiedades analgésicas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El ácido clavulánico es un inhibidor suicida de un tipo de enzimas que se expresan en determinadas cepas de bacterias como resistencia a la acción de la penicilina. ¿Cómo se denominan dichas enzimas?:",
+   "o": [
+    "Carboxipeptidasas.",
+    "Transpeptidasas.",
+    "β-lactamasas.",
+    "Monoamino oxidasas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la naturaleza química de la heparina?:",
+   "o": [
+    "Es un glúcido.",
+    "Es un lípido.",
+    "Es una proteína.",
+    "Es un polinucleótido."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué fármaco, cuando se administra en perfusión rápida, puede provocar la aparición del “síndrome del cuello rojo” o del “hombre rojo”?:",
+   "o": [
+    "Vancomicina.",
+    "Ondansetrón.",
+    "Dexametasona.",
+    "Azitromicina."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes fármacos, ¿cuál es un diurético osmótico?:",
+   "o": [
+    "Manitol.",
+    "Furosemida.",
+    "Hidroclorotiazida.",
+    "Espironolactona."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones generales que daría a un paciente con fibrilación auricular en tratamiento anticoagulante oral (TAO) con acenocumarol se encuentran las siguientes EXCEPTO:",
+   "o": [
+    "El anticoagulante debe tomarse una vez al día, siempre a la misma hora y preferiblemente por la mañana. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 216",
+    "Las verduras de hoja verde no son alimentos prohibidos sino alimentos que deben tomarse sin grandes variaciones en cuanto a la cantidad.",
+    "El tabaco debe evitarse, disminuye el efecto de los anticoagulantes por su alto contenido en vitamina K.",
+    "No es necesario suspender, ni siquiera reducir, la administración de los anticoagulantes orales previamente a la práctica de una exodoncia, siempre y cuando el INR antes de la intervención odontológica se halle dentro del margen terapéutico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 1591/2009, de 16 de octubre, por el que se regulan los productos sanitarios, el marcado de conformidad “CE”, será:",
+   "o": [
+    "Recomendable en caso de fabricantes de la Unión Europea.",
+    "Obligatorio para todos los productos sanitarios fabricados fuera de la Unión Europea.",
+    "Obligatorio para todos los productos sanitarios, excepto los productos a medida y los destinados a investigaciones científicas.",
+    "Obligatorio para los productos destinados a investigaciones científicas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Los Productos Sanitarios, atendiendo a su duración se clasifican como de “uso prolongado” cuando están:",
+   "o": [
+    "Destinados normalmente a utilizarse de forma continua durante menos de sesenta minutos.",
+    "Destinados normalmente a utilizarse de forma continua durante un período de hasta quince días.",
+    "Destinados normalmente a utilizarse de forma continua durante un período de hasta treinta días.",
+    "Destinados normalmente a utilizarse de forma continua durante un período de más de treinta días."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme al Real Decreto 1616/2009, de 26 de octubre, por el que se regulan los productos sanitarios implantables activos, la definición: \" Cualquier producto sanitario que dependa de la electricidad o de cualquier otra fuente de energía distinta de la generada directamente por el cuerpo humano o por la gravedad para funcionar adecuadamente\" hace referencia:",
+   "o": [
+    "Producto sanitario integrado.",
+    "Producto sanitario activo.",
+    "Producto a medida.",
+    "Producto destinado a investigaciones clínicas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

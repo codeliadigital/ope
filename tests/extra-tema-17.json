@@ -1,0 +1,60 @@
+{
+ "tema": 17,
+ "preguntas": [
+  {
+   "q": "Los yesos de las escayolas, ¿a qué grupo dentro de la clasificación de gestión de residuos sanitarios pertenece?:",
+   "o": [
+    "I: residuos sanitarios asimilables a residuos municipales.",
+    "II: residuos sanitarios no específicos.",
+    "III: residuos sanitarios específicos.",
+    "IV: residuos tipificados en normativas singulares."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La sensibilidad de un órgano de un cuerpo humano frente a las radiaciones ionizantes y la evaluación de su posible daño, se define como:",
+   "o": [
+    "La dosis absorbida.",
+    "La tasa de exposición.",
+    "La dosis equivalente.",
+    "La dosis efectiva."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta respecto a las características de los efectos estocásticos producidos por las radiaciones ionizantes.",
+   "o": [
+    "Son efectos que se producen de forma no aleatoria.",
+    "Es necesaria una dosis umbral para producirlos.",
+    "Pueden aparecer tras la exposición a pequeñas dosis de radiación ionizante.",
+    "Son efectos de aparición inmediata."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Es un residuo sanitario Grupo III o residuo sanitario específico o de biorriesgo:",
+   "o": [
+    "Una gasa manchada de secreciones.",
+    "Unas calzas desechables usadas para visitar a un familiar en una UCI.",
+    "Una bolsa de sangre para una transfusión de la que se ha utilizado el 10% del contenido.",
+    "Restos de un medicamento citotóxico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Las muestras de amoxicilina oral caducada se considera un residuo sanitario del grupo:",
+   "o": [
+    "Grupo I.",
+    "Grupo II.",
+    "Grupo III.",
+    "Grupo IV."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

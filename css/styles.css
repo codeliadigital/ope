@@ -318,3 +318,8 @@ main { padding-top: 20px; padding-bottom: 64px; outline: none; }
 @media (max-width: 340px) {
   .topnav a { padding: 6px 5px; font-size: 13px; }
 }
+.group-title { margin: 28px 0 12px; font-size: 20px; color: var(--navy); }
+.set-teoria { margin-top: 16px; }
+.por { margin: 8px 0 0; padding-left: 18px; font-size: 14px; color: var(--muted); }
+.por li { margin: 3px 0; }
+.por li.tuya { color: var(--ko); }

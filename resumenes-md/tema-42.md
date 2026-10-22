@@ -101,8 +101,8 @@ sub: Resumen OPE Enfermería SMS · Fisiología renal y embarazo, valoración (G
 !! Cólico nefrítico: **AINE**, **calor**, filtrar la orina; el paciente **no para quieto**.
 !! Indicación enfermera ITU: **mujer adulta, baja, no complicada**; **fosfomicina** o **nitrofurantoína**.
 !! Anciano con confusión brusca: **descartar ITU**.
-!! **Sangre en el meato tras fractura pélvica = no sondar**.
-!! Balón con **agua destilada**, nunca suero; globo grande: **vaciar por fases**.
+!! ==**Sangre en el meato tras fractura pélvica = no sondar**.==
+!! ==Balón con **agua destilada**, nunca suero; globo grande: **vaciar por fases**.==
 !! Próstata grande: **Tiemann**; coágulos: **Couvelaire** y sonda de **3 vías**.
 !! Bricker: **moco normal**. FAV: **thrill se toca, soplo se oye**; brazo **intocable**.
 !! Diálisis peritoneal: **efluente turbio = peritonitis**.

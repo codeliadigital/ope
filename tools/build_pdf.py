@@ -15,6 +15,7 @@ Formato del .md:
   !! texto                 -> líneas seguidas = caja "TRAMPAS DE EXAMEN"
   ?? texto                 -> líneas seguidas = caja "CLAVE" (??: Título cambia el título)
   [[img: archivo.jpg | pie]] -> figura con imagen de resumenes-md/img/ y pie de foto
+  ==texto==                -> negrita en rojo: lo que cae casi siempre (usar con mucha moderación)
 """
 import html
 import os
@@ -47,7 +48,12 @@ def box(kind, title, items):
     return f'<div class="{kind}"><div class="tt">{html.escape(title)}</div><ul>{lis}</ul></div>'
 
 
+TOP_RE = re.compile(r"==(?=\S)(.+?)(?<=\S)==")
+
+
 def preprocess(body):
+    # ==texto== -> negrita roja: lo que cae casi siempre en el examen
+    body = TOP_RE.sub(lambda m: f'<strong class="top">{m.group(1).replace("**", "")}</strong>', body)
     lines = body.splitlines()
     out, i = [], 0
     while i < len(lines):
@@ -97,22 +103,25 @@ def parse(path):
 
 
 def build(num, chrome):
-    src = os.path.join(SRC, f"tema-{num:02d}.md")
+    # num: número de tema o nombre de un resumen suelto (p. ej. "trampas")
+    name = f"tema-{num:02d}" if isinstance(num, int) else num
+    src = os.path.join(SRC, f"{name}.md")
     meta, body = parse(src)
     content = markdown.markdown(preprocess(body), extensions=["tables", "sane_lists"])
-    pie = f'Tema {meta["tema"]} · {meta.get("pie", "")} · Resumen OPE SMS'
+    kicker = f'Tema {meta["tema"]}' if meta.get("tema") else meta.get("kicker", "")
+    pie = f'{kicker} · {meta.get("pie", "")} · Resumen OPE SMS'
     css = open(CSS, encoding="utf-8").read().replace('var(--footer, "")', '"' + pie.replace('"', "'") + '"')
     page = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
-<title>Tema {meta['tema']} · Resumen OPE</title><style>{css}</style></head><body>
-<header class="portada"><h1>TEMA {meta['tema']} · {html.escape(meta['titulo'])}</h1>
+<title>{kicker} · Resumen OPE</title><style>{css}</style></head><body>
+<header class="portada"><h1>{kicker.upper()} · {html.escape(meta['titulo'])}</h1>
 <p class="sub">{html.escape(meta.get('sub', ''))}</p></header>
 {content}
 </body></html>"""
     tmpdir = tempfile.mkdtemp(prefix="ope_pdf_")
-    html_path = os.path.join(tmpdir, f"tema-{num:02d}.html")
+    html_path = os.path.join(tmpdir, f"{name}.html")
     with open(html_path, "w", encoding="utf-8") as fh:
         fh.write(page)
-    pdf_path = os.path.join(OUT, f"tema-{num:02d}.pdf")
+    pdf_path = os.path.join(OUT, f"{name}.pdf")
     subprocess.run([
         chrome, "--headless", "--disable-gpu", "--no-pdf-header-footer",
         f"--user-data-dir={os.path.join(tmpdir, 'prof')}",
@@ -124,14 +133,14 @@ def build(num, chrome):
         pages = pymupdf.open(pdf_path).page_count
     except Exception:
         pages = "?"
-    print(f"tema-{num:02d}.pdf  {pages} págs")
+    print(f"{name}.pdf  {pages} págs")
 
 
 def main():
     chrome = next((c for c in CHROME_CANDIDATES if os.path.exists(c)), None)
     if not chrome:
         sys.exit("No se encontró Chrome ni Edge")
-    nums = [int(a) for a in sys.argv[1:]] or sorted(
+    nums = [int(a) if a.isdigit() else a for a in sys.argv[1:]] or sorted(
         int(f[5:7]) for f in os.listdir(SRC) if re.match(r"tema-\d\d\.md$", f))
     for n in nums:
         build(n, chrome)

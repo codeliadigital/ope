@@ -86,7 +86,7 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 | **Citarabina** | **Toxicidad cerebelosa** | **Prueba de la firma** diaria |
 | **Antraciclinas** (doxorrubicina) | **Cardiotoxicidad irreversible y acumulativa** (control de **FEVI**); orina **roja**; muy **vesicantes** | Límite de dosis total; extravasación: **frío + DMSO / dexrazoxano** |
 | **Bleomicina** | **Fibrosis pulmonar** (casi sin mielosupresión) | Evitar **FiO₂ alta** |
-| **Vincristina** (alcaloides de la vinca) | **Neuropatía**, **íleo paralítico**; **mortal por vía intratecal** | Solo en **minibolsa**; extravasación: **calor + hialuronidasa** |
+| **Vincristina** (alcaloides de la vinca) | **Neuropatía**, **íleo paralítico**; **mortal por vía intratecal** | Solo en **minibolsa**; extravasación: ==**calor + hialuronidasa**== |
 | **Paclitaxel** (taxanos) | **Anafilaxia** (diluyente Cremophor), neutropenia, alopecia | **Premedicación** (corticoide + antihistamínico) y **equipos sin PVC** con filtro |
 | **Irinotecán** | **Síndrome colinérgico agudo** / **diarrea tardía** | **Atropina** / **loperamida** a dosis altas |
 | **Etopósido** | **Hipotensión** si se infunde rápido | Perfusión lenta (30-60 min) |
@@ -135,7 +135,7 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 !! ECOG **sube = peor**; Karnofsky **sube = mejor**. En cama **< 50% = ECOG 2**; **> 50% = ECOG 3**.
 !! HADS **excluye síntomas físicos**. MNA = **anciano**. Norton/Braden: **menos puntos, más riesgo**.
 !! G4 **anaplásico** = peor pronóstico; Tis **no rompe la membrana basal**; M1 = **estadio IV**.
-!! Neutropenia febril: **< 500 + > 38,3 °C** → **hemocultivos antes del antibiótico** (1.ª hora). **Nada rectal**.
+!! ==Neutropenia febril: **< 500 + > 38,3 °C** → **hemocultivos antes del antibiótico** (1.ª hora). **Nada rectal**.==
 !! Mucositis en radioterapia: **sin clorhexidina ni alcohol**; suero o bicarbonato.
 !! NVIQ: comida **fría o templada**; cisplatino = vómitos **diferidos**.
 !! Neuropático: **pregabalina, gabapentina, amitriptilina**. Opioides: **laxante desde el día 1**.
@@ -145,7 +145,7 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 !! Ciclofosfamida → **mesna**; metotrexato → **ácido folínico**; oxaliplatino → **frío**; vincristina intratecal = **mortal**.
 !! Antraciclinas: cardiotoxicidad **irreversible acumulativa**; trastuzumab: **reversible**.
 !! Paclitaxel: **premedicar + equipo sin PVC**. Irinotecán: **atropina** (agudo) / **loperamida** (tardío).
-!! Extravasación: **parar → aspirar → retirar**; **no comprimir**; vinca/taxanos **calor + hialuronidasa**; antraciclinas **frío + DMSO/dexrazoxano**.
+!! ==Extravasación: **parar → aspirar → retirar**; **no comprimir**; vinca/taxanos **calor + hialuronidasa**; antraciclinas **frío + DMSO/dexrazoxano**.==
 !! Derrame: **detergente alcalino, nunca lejía**; cristales **con pinzas**. Guantes **30 min**, bata **3,5 h**, **FFP2/FFP3**.
 !! Citostáticos = **clase VI**, envase **hermético sin compactar** → **incineración**.
 !! Hipercalcemia: **hidratar → furosemida**, **nunca tiazidas**. Vena cava superior: **Fowler, nada en los brazos**.

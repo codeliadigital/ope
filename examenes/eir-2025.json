@@ -1,0 +1,2124 @@
+{
+ "id": "eir-2025",
+ "anio": 2025,
+ "grupo": "Exámenes EIR (Ministerio de Sanidad)",
+ "titulo": "EIR 2025 · Enfermería (versión 0)",
+ "descripcion": "Examen oficial de la prueba EIR 2025 del Ministerio de Sanidad: 200 preguntas más 10 de reserva, 10 con imagen, con la plantilla de respuestas definitiva. En el examen real eran 4 h 30 min y cada fallo restaba 1/3.",
+ "minutos": 270,
+ "penalizacion": 0.3333333333333333,
+ "preguntas": [
+  {
+   "q": "Con relación a la Imagen 1, respecto a la administración de medicación en este caso, ¿qué material NO es necesario incluir en el procedimiento de enfermería?:",
+   "o": [
+    "Agujas de bisel especial tipo Gripper.",
+    "Guantes estériles.",
+    "Povidona yodada.",
+    "Heparina cálcica."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2025-01.jpg"
+  },
+  {
+   "q": "Tomando en consideración la Imagen 2, señale la opción verdadera:",
+   "o": [
+    "Un cierre inadecuado del tabique interauricular supondría una comunicación de la estructura 1 con la aurícula izquierda.",
+    "Un desgarro o rotura de la estructura 2, supondría una estenosis de la válvula mitral.",
+    "Una obstrucción de la estructura 3, conllevaría una enfermedad del tronco coronario.",
+    "Un trastorno del ritmo resultante en una contracción ineficaz de la estructura 4 supone un elevado riesgo de trombosis."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2025-02.jpg"
+  },
+  {
+   "q": "El endotelio vascular es una estructura funcional que tapiza todos los vasos sanguíneos del cuerpo y está compuesta por las siguientes estructuras referenciadas en la Imagen 3, A EX- CEPCIÓN DE:",
+   "o": [
+    "Glucosaminoglicanos.",
+    "Proteoglicanos.",
+    "Oleoglicanos.",
+    "Glicoproteínas."
+   ],
+   "a": 2,
+   "img": "img/eir-examen/2025-03.jpg"
+  },
+  {
+   "q": "Mujer de 48 años, triatleta, tras competir el domingo, el martes de la semana siguiente, acude al servicio de urgencias porque dice sentir “el pulso acelerado”. Tras hacerle un ECG, recogido en la Imagen 4, detectamos:",
+   "o": [
+    "Fibrilación auricular",
+    "Extrasístoles auriculares de la unión con las ondas P",
+    "Flutter auricular con conducción variable",
+    "Bigeminismo auricular."
+   ],
+   "a": 2,
+   "img": "img/eir-examen/2025-04.jpg"
+  },
+  {
+   "q": "En un reconocimiento médico de empresa, F.L.G de 52 años, asintomático y normotenso, tiene un ECG, recogido en la Imagen 5, que refleja un:",
+   "o": [
+    "Bloqueo de rama izquierda de Primer Grado.",
+    "Bloqueo de rama derecha de Primer Grado.",
+    "Bloqueo de rama izquierda de Segundo Grado.",
+    "Bloqueo de rama derecha de Segundo Grado."
+   ],
+   "a": 1,
+   "img": "img/eir-examen/2025-05.jpg"
+  },
+  {
+   "q": "La Imagen 6 es de una curva flujo - volumen que corresponde a:",
+   "o": [
+    "Una obstrucción bronquial unilateral del tronco principal.",
+    "Una enfermedad pulmonar obstructiva crónica.",
+    "Una obstrucción extratorácica variable.",
+    "Una obstrucción intratorácica variable."
+   ],
+   "a": 1,
+   "img": "img/eir-examen/2025-06.jpg"
+  },
+  {
+   "q": "La Imagen 7 contiene el registro de una audiometría tonal. Siguiendo la clasificación de la Guía de práctica clínica de audiometría tonal por vía aérea y ósea con y sin enmascaramiento. ¿Con qué se corresponde?:",
+   "o": [
+    "Con una audiometría normal.",
+    "Con una hipoacusia leve.",
+    "Con una hipoacusia moderada.",
+    "Con una hipoacusia severa."
+   ],
+   "a": 2,
+   "img": "img/eir-examen/2025-07.jpg"
+  },
+  {
+   "q": "Una revisión sistemática analiza el resultado de un programa experimental enfermero (intervención experimental) y lo compara con el resultado de la intervención enfermera que se utiliza habitualmente (intervención control). El resultado del metaanálisis está recogido en la Imagen 8. Según ese resultado ¿qué afirmación es correcta?:",
+   "o": [
+    "El resultado está a favor de la intervención experimental.",
+    "El resultado está a favor de la intervención control.",
+    "No existe diferencia entre las dos intervenciones que se analizan.",
+    "El resultado parece estar a favor de la intervención experimental, pero no es significativo."
+   ],
+   "a": 0,
+   "img": "img/eir-examen/2025-08.jpg"
+  },
+  {
+   "q": "Según establece la Norma ISO 6710:2018, el tubo de la Imagen 9 contiene:",
+   "o": [
+    "Ácido etilendiaminotetraacético EDTA K3E.",
+    "Citrato trisódico.",
+    "Heparina de litio.",
+    "Heparina de sodio."
+   ],
+   "a": 1,
+   "img": "img/eir-examen/2025-09.jpg"
+  },
+  {
+   "q": "Un varón de 26 años que estaba nadando en el mar Cantábrico, presenta lesiones lineales pruriginosas y dolorosas en brazos y tórax. No presenta disnea, ni signos de reacción alérgica ni otra sintomatología sistémica. Refiere que ha fotografiado el animal marino que le ha causado las lesiones, que corresponde a la Imagen 10. Atendiendo a las recomendaciones de la Subdirección General de Sanidad Ambiental y Salud Laboral sobre las picaduras de medusas, ¿cuál es la actuación inmediata que debe realizarse?:",
+   "o": [
+    "Limpiar las zonas afectadas sin frotar, utilizando agua dulce. Retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Aplicar una solución tópica de bicarbonato de sodio. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas frotando enérgicamente para retirar todos los restos. Lavar la zona utilizando agua de mar o una solución salina. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas sin frotar, y retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Aplicar en las zonas afectadas una dilución de vinagre y agua. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia.",
+    "Limpiar las zonas afectadas sin frotar, utilizando agua de mar o una solución salina. Retirar los restos que puedan quedar adheridos a la piel utilizando pinzas o en su defecto, una tarjeta de plástico. Se puede aplicar una solución tópica de bicarbonato de sodio. Si el dolor es muy intenso o hay un empeoramiento del estado general, acudir de inmediato a un servicio de urgencia."
+   ],
+   "a": 3,
+   "img": "img/eir-examen/2025-10.jpg"
+  },
+  {
+   "q": "¿Qué nervio se encuentra comprimido en el síndrome del túnel carpiano?:",
+   "o": [
+    "Nervio mediano.",
+    "Nervio cubital.",
+    "Nervio radial.",
+    "Nervio interóseo anterior."
+   ],
+   "a": 0
+  },
+  {
+   "q": "El bronquio, los vasos linfáticos, los vasos sanguíneos y los nervios entran y salen del pulmón, a través de:",
+   "o": [
+    "Vértice del pulmón.",
+    "Hilio.",
+    "Base del pulmón.",
+    "Escotadura cardíaca."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes válvulas cardíacas se localiza entre la aurícula y el ventrículo izquierdos?:",
+   "o": [
+    "Tricúspide.",
+    "Pulmonar.",
+    "Bicúspide.",
+    "Aórtica."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El conducto colédoco se forma por la unión de:",
+   "o": [
+    "Conducto pancreático accesorio y pancreático principal.",
+    "Conducto hepático común y conducto cístico.",
+    "Conducto pancreático y conducto cístico.",
+    "Conducto pancreático y hepático derecho."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿En cuál de las siguientes partes del sistema urinario se produce la filtración inicial de la sangre?:",
+   "o": [
+    "Túbulo contorneado proximal.",
+    "Asa de Henle.",
+    "Glomérulo.",
+    "Uréter."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La estimulación del nervio vago genera una respuesta parasimpática caracterizada por:",
+   "o": [
+    "Incremento del tono simpático y de la presión arterial.",
+    "Reducción del automatismo del nodo sinoauricular y enlentecimiento de la conducción auriculoventricular.",
+    "Aumento del gasto cardíaco y del flujo coronario.",
+    "Estimulación de la contractilidad ventricular."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El principal estímulo fisiológico para la ventilación en sujetos sanos es:",
+   "o": [
+    "La hipoxemia (PaO₂ baja) detectada por quimiorreceptores periféricos.",
+    "La presión arterial sistémica.",
+    "La hipercapnia (PaCO₂ alta) y el aumento de H⁺ detectados por quimiorreceptores centrales.",
+    "El consumo de adenosín trifosfato (ATP) durante el ejercicio físico."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Ley de Frank-Starling, el volumen de eyección ventricular aumenta cuando:",
+   "o": [
+    "Se incrementa la poscarga y disminuye la distensibilidad ventricular, facilitando la fracción de eyección.",
+    "Aumenta la precarga, lo que produce mayor estiramiento de las fibras miocárdicas y una contracción más intensa.",
+    "Disminuye el volumen telediastólico, reduciendo la precarga.",
+    "Se activa el sistema simpático sin cambios en el llenado ventricular."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Con respecto al pH sanguíneo, NO ES CIERTO que:",
+   "o": [
+    "Refleja la concentración de hidrogeniones.",
+    "Se expresa de manera logarítmica debido a la baja concentración de H+.",
+    "Un pH bajo corresponde a una elevada concentración de hidrogeniones, por lo que indica que el medio es ácido.",
+    "El pH es directamente proporcional a la concentración de hidrogeniones."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según las guías Kidney Disease: Improving Global Outcomes (KDIGO), el filtrado glomerular estimado (eGFR) se define como:",
+   "o": [
+    "El volumen total de sangre que circula por el riñón cada minuto.",
+    "La velocidad de secreción tubular de la creatinina.",
+    "El volumen de orina producido en 24 horas indexado por peso del paciente (ml / Kg).",
+    "Una estimación de la cantidad de plasma filtrada por los glomérulos por unidad de tiempo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Seleccione la respuesta INCORRECTA. Las enzimas son:",
+   "o": [
+    "Proteínas.",
+    "Moléculas inorgánicas compuestas por carbono e hidrógeno.",
+    "Catalizadores biológicos.",
+    "Polipéptidos con potencial asociación de cofactores."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Señala cuál de las siguientes rutas metabólicas es puramente anabólica:",
+   "o": [
+    "Gluconeogénesis.",
+    "Ciclo del ácido tricarboxílico (Ciclo TCA).",
+    "Glucolisis.",
+    "Ciclo de las pentosas."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál es la función principal de las lipoproteínas LDL y HDL?:",
+   "o": [
+    "Transportar glucosa desde el intestino al hígado.",
+    "Degradar los triglicéridos en moléculas de glicerol más ácidos grasos libres.",
+    "Transportar el colesterol circulante entre hígado y tejidos periféricos.",
+    "Transportar enzimas para la síntesis de colesterol."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuáles son los productos finales mayoritarios del catabolismo?:",
+   "o": [
+    "NADH y FADH2.",
+    "Agua, CO2 y ATP.",
+    "Ac. láctico y Acetil-CoA.",
+    "Proteínas, glucosa y ácidos grasos simples."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Los lípidos son las moléculas de reserva energética por excelencia debido a que:",
+   "o": [
+    "Se almacenan hidratados en la mitocondria.",
+    "Tienen una estructura rígida y dan consistencia a los tejidos.",
+    "Se pueden almacenar como glucógeno, ocupando poco espacio en el citosol.",
+    "Producen mucha energía por cada gramo de peso."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La valoración del estado nutricional de una persona es un aspecto clave dentro de la valoración enfermera. En referencia a este aspecto, indica la frase correcta:",
+   "o": [
+    "El Mini Nutritional Assessment (MNA) es un método validado para la población pediátrica.",
+    "En la Valoración Global Subjetiva se mide la pérdida de peso en los últimos 6 meses.",
+    "En la herramienta de cribado Malnutrition Universal Screening Tool (MUST), a mayor puntuación mejor estado nutricional.",
+    "Un Índice de Masa Corporal (IMC) de 22 kg/m2 se corresponde con un estado de desnutrición."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál es la ingesta adecuada de ácidos grasos monoinsaturados para la población española según el estudio PREDIMED (Prevención con Dieta Mediterránea) ?:",
+   "o": [
+    "0,5-1 % del consumo calórico diario.",
+    "Inferior al 8 % del consumo calórico diario.",
+    "2-10 % del consumo calórico diario.",
+    "20-25 % del consumo calórico diario."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El ácido alfa-linolénico pertenece al grupo:",
+   "o": [
+    "Ácidos grasos Omega 3.",
+    "Ácidos grasos Omega 6.",
+    "Ácidos grasos Omega 9.",
+    "Ácidos grasos Trans."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Indica la recomendación nutricional correcta según la AESAN (Agencia Española de Seguridad Alimentaria y Nutrición):",
+   "o": [
+    "3 raciones de pescado a la semana, priorizando el pescado blanco.",
+    "3 raciones de legumbres a la semana.",
+    "Utilizar el aceite de oliva virgen, extra preferentemente, todos los días.",
+    "La ingesta de sal no debe superar los 10g/día."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es el aminoácido limitante de las legumbres?:",
+   "o": [
+    "Lisina.",
+    "Alanina.",
+    "Histidina.",
+    "Metionina."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es un inhibidor selectivo de la Cox-2 que se administra por vía parenteral?:",
+   "o": [
+    "Ibuprofeno.",
+    "Parecoxib.",
+    "Naproxeno.",
+    "Celecoxib."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Entre los siguientes posibles usos clínicos de las benzodiazepinas, indique la OPCIÓN INCO- RRECTA:",
+   "o": [
+    "Ansiolítico.",
+    "Hipnótico.",
+    "Relajante muscular.",
+    "Analgésico."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es un anticuerpo monoclonal totalmente humano ANTI TNF-ALFA (factor de necrosis tumoral-ALFA) ?:",
+   "o": [
+    "Omalizumab.",
+    "Infliximab.",
+    "Adalimumab.",
+    "Rituximab."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos es una ciclodex-trina sintética utilizada para revertir el bloqueo neuromuscular inducido por el rocuronio?:",
+   "o": [
+    "Sugammadex.",
+    "Sumatriptán.",
+    "Atracurio.",
+    "Valproato sódico."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Un recién nacido prematuro de 1.800 gramos de peso, debe recibir NeoRespR (medicamento ficticio), a una dosis de 12 microgramos/Kg de peso/dosis. Este medicamento viene en una presentación de 120 microgramos en un mililitro. ¿Cuántos mililitros se deben administrar por dosis?:",
+   "o": [
+    "0,12 ml.",
+    "0,15 ml.",
+    "0,18 ml.",
+    "0,25 ml."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es el mecanismo de acción de la fluoxetina, fármaco utilizado en el tratamiento de la depresión?:",
+   "o": [
+    "Inhibe la recaptación de noradrenalina y serotonina.",
+    "Es un inhibidor selectivo de la recaptación de serotonina.",
+    "Es un inhibidor de la enzima convertidora de angiotensina (IECA).",
+    "Se une al receptor del GABA (ácido gammaaminobutírico) y potencia su acción."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos tienen actividad antiinflamatoria además de inmunosupresora?:",
+   "o": [
+    "Tramadol.",
+    "Antiinflamatorios no esteroideos (AINE).",
+    "Metamizol.",
+    "Glucocorticoides."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál es el fármaco agonista adrenérgico beta-3 utilizado en el tratamiento del síndrome de vejiga hiperactiva porque relaja el músculo detrusor?:",
+   "o": [
+    "Mirabegrón.",
+    "Salbutamol.",
+    "Tamsulosina.",
+    "Atropina."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Entre las siguientes afirmaciones sobre los anestésicos locales, indique la opción INCORREC- TA:",
+   "o": [
+    "La bupivacaína es un anestésico local de corta duración.",
+    "Su mecanismo de acción se basa en el bloqueo de canales de sodio.",
+    "Se pueden asociar a vasoconstrictores como la adrenalina.",
+    "La bupivacaína es un anestésico local de larga duración."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En una reacción anafiláctica, se utiliza la adrenalina (epinefrina) como fármaco más eficaz porque:",
+   "o": [
+    "Es agonista sobre los receptores α1 adrenérgicos, los receptores β1 adrenérgicos y los receptores β2 adrenérgicos.",
+    "Es antagonista sobre los receptores α1 adrenérgicos, los receptores β1 adrenérgicos y los receptores β2 adrenérgicos.",
+    "Es antagonista sobre los receptores α1 adrenérgicos y agonista sobre los receptores β1 adrenérgicos y los receptores β2 adrenérgicos.",
+    "Es agonista sobre los receptores α1 adrenérgicos y antagonista sobre los receptores β1 adrenérgicos y los receptores β2 adrenérgicos."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de los siguientes factores disminuye la absorción de fármacos vía intramuscular, subcutánea e intradérmica en niños?:",
+   "o": [
+    "Masaje en el punto de punción.",
+    "Enzima hialuronidasa.",
+    "Aplicación de calor local.",
+    "Aplicación de frío local."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿En qué contexto clínico estaría indicada la aplicación de la Guía para “La indicación, uso y autorización de dispensación de medicamentos sujetos a prescripción médica por parte de las enfermeras/os en el caso de infección del tracto urinario” publicada en el Boletín Oficial del Estado nº 200, de 19 de agosto de 2024?:",
+   "o": [
+    "En mujeres mayores de 18 años con signos de cistitis no complicada.",
+    "En mujeres mayores de 65 años.",
+    "En mujeres mayores de 14 años con signos de cistitis no complicada.",
+    "En mujeres con infección urinaria recurrente (2 o más episodios en seis meses)."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos se utiliza comúnmente en la terapia inmunosupresora de mantenimiento tras un trasplante renal?:",
+   "o": [
+    "Interferón beta.",
+    "Cisplatino.",
+    "Cistatina C.",
+    "Tacrolimus."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En cuanto al uso de haloperidol, ¿qué afirmación es cierta?:",
+   "o": [
+    "Es un fármaco con alta acción antipsicótica.",
+    "Tiene un riesgo de sintomatología extrapiramidal menor al aripiprazol u olanzapina.",
+    "No debe utilizarse en el tratamiento sintomático del síndrome confusional.",
+    "Tiene una elevada acción anticolinérgica."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el Informe de Posicionamiento Terapéutico de Esketamina (IPT, 17/2022 V2, de la Agencia Española de Medicamentos y Productos Sanitarios), ¿cuál de las siguientes afirmaciones es FALSA respecto a la Esketamina intranasal (Spravato®) ?:",
+   "o": [
+    "Ha sido autorizada para el tratamiento del trastorno depresivo mayor resistente al tratamiento en adultos que no han respondido al menos a dos tratamientos diferentes con antidepresivos en el episodio depresivo moderado o grave actual.",
+    "Se usa en combinación con un inhibidor selectivo de la recaptación de serotonina (ISRS) o un inhibidor de la recaptación de serotonina y noradrenalina (IRSN).",
+    "En la fase de inducción (semanas 1 a 3), la dosis recomendada en adultos menores a 65 años es de 25 mg dos veces por semana. En la fase de mantenimiento (semanas 4 a 12) la dosis recomendada es de 50 mg una vez por semana.",
+    "Los problemas de seguridad más importantes son los trastornos disociativos, el aumento transitorio de la presión arterial, la somnolencia y la sedación que se pueden producir tras la administración, por lo que se requiere una observación clínica del paciente hasta la estabilidad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En un metaanálisis, ¿con qué medida se evalúa la heterogeneidad entre los estudios incluidos?:",
+   "o": [
+    "Prueba de log-rank.",
+    "Estadístico I².",
+    "Coeficiente de Pearson.",
+    "Odds ratio."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En un ensayo clínico sobre la eficacia de un nuevo antihipertensivo con el objetivo de controlar la Tensión Arterial (TA) y evitar eventos cardiovasculares adversos, el 10 % de los pacientes del grupo tratado presentó un evento cardiovascular mayor frente al 20 % en el grupo control. ¿Qué representa el Número Necesario a Tratar (NNT) en este estudio?:",
+   "o": [
+    "El número de pacientes que presentarán un evento cardiovascular con el nuevo tratamiento.",
+    "El número de pacientes que deben ser excluidos para reducir el sesgo de confusión.",
+    "El número de pacientes que es necesario tratar con el nuevo fármaco para evitar un evento cardiovascular adicional en comparación con el control.",
+    "El número de pacientes que deben ser tratados para observar un evento adverso grave."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En un estudio realizado en atención primaria para validar un test rápido de detección de antígenos del estreptococo β-hemolítico del grupo A en pacientes con faringitis, el valor predictivo positivo del test fue del 90 %. ¿Qué interpretación es correcta?:",
+   "o": [
+    "Que el test identifica correctamente al 90 % de los pacientes con infección estreptocócica.",
+    "Que el 90 % de los pacientes con un resultado positivo en el test realmente presentan faringitis estreptocócica.",
+    "Que el test ofrece un resultado negativo en el 90 % de los pacientes sin infección.",
+    "Que el test acierta el 90 % de las veces, tanto en positivos como en negativos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En un estudio de cohortes se ha observado que el riesgo relativo (RR) de sufrir un evento cardiovascular en mujeres que no toman anticonceptivos frente a las que sí lo toman es de 0,6. ¿Cuál de las siguientes interpretaciones es correcta?:",
+   "o": [
+    "Las mujeres que no toman anticonceptivos presentan un riesgo 60 % mayor de sufrir un evento cardiovascular.",
+    "El uso de anticonceptivos es un factor protector, ya que las mujeres que los toman tienen un riesgo 40 % menor de presentar un evento cardiovascular.",
+    "No tomar anticonceptivos se asocia a un factor protector, pues el riesgo de evento cardiovascular es un 40 % menor en comparación con las mujeres que los toman.",
+    "El RR de 0,6 indica ausencia de asociación entre el uso de anticonceptivos y los eventos cardiovasculares."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En un programa de cribado de cáncer de próstata mediante Prostate-Specific Antigen (PSA), se observa que la supervivencia a 5 años desde el diagnóstico es del 95 % en pacientes detectados por cribado frente al 70 % en pacientes con diagnóstico clínico. Sin embargo, la mortalidad global por esta causa no se ha reducido. ¿Qué sesgo explica principalmente este fenómeno?:",
+   "o": [
+    "Sesgo de duración.",
+    "Sesgo de adelanto diagnóstico.",
+    "Sesgo de sobrediagnóstico.",
+    "Sesgo de voluntariado."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la Teoría de la Acción Razonada de Ajzen y Fishbein (1980), ¿cuál de los siguientes componentes explica la presión social percibida para realizar una conducta?:",
+   "o": [
+    "Creencias conductuales.",
+    "Actitud hacia la conducta.",
+    "Creencias normativas.",
+    "Normas subjetivas."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe correctamente una característica de la memoria a corto plazo según el modelo multialmacén de Atkinson y Shiffrin (1968) ?:",
+   "o": [
+    "Almacena información con capacidad prácticamente ilimitada durante intervalos superiores a varios minutos mediante consolidación espontánea.",
+    "El almacén a corto plazo es la memoria de trabajo del sujeto; recibe entradas seleccionadas del registro sensorial y también del almacén a largo plazo.",
+    "Emplea exclusivamente codificación icónica para la retención temporal de datos, sin intervención de mecanismos fonológicos.",
+    "Presenta una amplitud funcional superior a 15 unidades informativas simultáneas gracias a estrategias automáticas de agrupamiento."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe con mayor precisión la violencia vicaria según su definición conceptual?:",
+   "o": [
+    "Estrategia coercitiva que consiste en impedir el contacto entre la madre y los/as hijos/as mediante aislamiento social y control del entorno.",
+    "Forma de violencia intrafamiliar que consiste en sustituir a un individuo por otro en la ejecución de agresiones, de modo que la persona agredida no coincide con el objetivo real.",
+    "Modalidad de violencia psicológica exclusiva de relaciones afectivas adolescentes, caracterizada por manipulación emocional y control digital.",
+    "Conducta que consiste en la exposición del menor a contenidos violentos en medios audiovisuales con el fin de alterar su desarrollo emocional."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones refleja el enfoque del modelo biopsicosocial propuesto por George L. Engel?:",
+   "o": [
+    "La interacción dinámica entre factores biológicos, psicológicos y sociales que influyen en el funcionamiento global de la persona.",
+    "El equilibrio del sistema nervioso central, la regulación neuroquímica y los factores sociales, determinan el estado de salud mental del individuo.",
+    "La salud mental depende de la resolución adecuada de conflictos inconscientes personales y sociales, derivados de experiencias infantiles reprimidas.",
+    "La salud mental se alcanza mediante la autorrealización, la autenticidad y la búsqueda de sentido vital social, más allá de la presencia de enfermedad."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según la Organización Mundial de la Salud (OMS), ¿cuál de las siguientes aportaciones puede realizar la Educación Sexual Integral a los jóvenes?:",
+   "o": [
+    "Dar a conocer que la identidad de género se refiere a los genitales masculinos o femeninos, así como la identidad sexual se refiere a nuestra apariencia o forma de actuar.",
+    "Dar a conocer los conceptos de sexualidad facilita condiciones más seguras para las relaciones sexuales en los jóvenes, pero se inician a edades más tempranas y aumenta la actividad sexual.",
+    "Dar a conocer normas de conducta y valores morales tradicionales sobre las relaciones afectivas y sexuales.",
+    "Dar a conocer los aspectos cognitivos, emocionales, físicos y sociales de la sexualidad."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes descripciones corresponde al grupo A de los Trastornos de Personalidad según el manual diagnóstico y estadístico de los trastornos mentales DSM-5?:",
+   "o": [
+    "Aglutina los trastornos de la personalidad evasiva, dependiente y obsesivo-compulsiva. Los individuos con estos trastornos suelen ser ansiosos o temerosos.",
+    "Se compone de los trastornos de la personalidad antisocial, límite, histriónica y narcisista. Las personas de este grupo se caracterizan por ser exageradamente dramáticas, emocionales o erráticas.",
+    "Está compuesto por los trastornos de la personalidad paranoide, esquizoide y esquizotípico. Los individuos con estos trastornos suelen mostrarse raros o excéntricos.",
+    "Incluye los trastornos de la personalidad con rasgos afectivos intensos y conductas impredecibles. Los individuos con estos trastornos suelen ser inseguros o emocionalmente inestables."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La presencia de los siguientes signos y/o síntomas: Humor disfórico; náuseas o vómitos; dolores musculares; lagrimeo o rinorrea; dilatación pupilar; piloerección o sudoración; diarrea; bostezos; fiebre e insomnio. ¿A qué síndrome de abstinencia corresponde este cuadro clínico?:",
+   "o": [
+    "Abstinencia por benzodiacepinas.",
+    "Abstinencia por opiáceos.",
+    "Abstinencia por cannabis.",
+    "Abstinencia por alcohol."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El Trastorno Obsesivo Compulsivo (TOC) se caracteriza por:",
+   "o": [
+    "Un Trastorno en el que aparecen obsesiones y compulsiones siempre juntas.",
+    "Un Trastorno de personalidad donde aparecen impulsos o imágenes recurrentes que se experimentan como no deseadas, causando ansiedad o malestar importante en la persona afectada.",
+    "Un Trastorno donde aparecen comportamientos repetitivos que la persona realiza como respuesta a la ansiedad generalizada.",
+    "Un Trastorno caracterizado por la presencia de obsesiones, compulsiones, o ambas, que pueden aparecer de manera aislada o simultánea."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre la Psicosis es correcta?:",
+   "o": [
+    "La fase de pródromos de las Psicosis es una de las líneas de interés de investigación para iniciar intervenciones precoces.",
+    "Es infrecuente la existencia de gradiente social en las personas que padecen Psicosis.",
+    "Son trastornos mentales emergentes que suelen iniciarse con mayor frecuencia en la edad adulta avanzada.",
+    "La intervención precoz en la Psicosis significa empezar a trabajar cuando la persona afectada ya presenta delirios y otros síntomas psicóticos."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre el Trastorno del Espectro Autista (TEA) es correcta?:",
+   "o": [
+    "El diagnóstico de TEA no puede establecerse de manera fiable antes de los 3 años o de alcanzar una edad mental equivalente.",
+    "En la edad adulta, la mayoría de las personas con TEA experimentan una remisión completa de los síntomas nucleares del trastorno.",
+    "El fenómeno del camuflaje social es más frecuente en mujeres con TEA, lo que puede contribuir a su infradiagnóstico.",
+    "La prevalencia del TEA es similar en ambos sexos cuando se aplican los mismos criterios diagnósticos y herramientas de cribado en la infancia."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre las Intervenciones Terapéuticas en el Trastorno por Déficit de Atención con Hiperactividad (TDAH) del Sistema Nacional de Salud, ¿cuál de estas afirmaciones sobre el tratamiento farmacológico del TDAH es verdadera?:",
+   "o": [
+    "El metilfenidato, la lisdexanfetamina, la guanfacina y la atomoxetina son fármacos recomendados para el tratamiento en niños y adolescentes con TDAH.",
+    "El tratamiento con metilfenidato o atomoxetina aumentan el riesgo de suicidio o de repetición de este en personas con TDAH.",
+    "En adultos, en los casos moderados a graves con TDAH, se recomienda como tratamiento de primera línea el psicológico.",
+    "En personas con TDAH, el tratamiento con fármacos estimulantes aumenta el riesgo de abuso de sustancias."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el Manual Diagnóstico y Estadístico de los Trastornos Mentales (DSM-5-TR), ¿cuál de los siguientes diagnósticos NO ESTÁ INCLUÍ- DO como Trastorno de la Conducta Alimentaria?:",
+   "o": [
+    "Pica.",
+    "Trastorno de evitación/restricción de la ingesta de alimentos.",
+    "Trastorno por atracón.",
+    "Vigorexia."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El síndrome que incluye la producción o simulación intencionada de síntomas físicos o psicológicos en uno mismo, incluso sin que exista un beneficio externo evidente, con el objetivo de asumir el papel de enfermo, se denomina:",
+   "o": [
+    "Trastorno facticio.",
+    "Trastorno somatomorfo.",
+    "Trastorno de conversión.",
+    "Trastorno de personalidad histriónica."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Eva, usuaria de 19 años, acude a consulta para valoración enfermera. Refiere que desde hace aproximadamente dos meses se siente con el ánimo bajo. Destaca que actividades que antes le resultaban placenteras, como ir al cine, escuchar música o pasar tiempo con su mascota, ya no le generan el mismo disfrute. ¿Cómo se denomina este síntoma?:",
+   "o": [
+    "Abulia.",
+    "Anhedonia.",
+    "Aplanamiento emocional.",
+    "Depresión reactiva."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes combinaciones de sustancias se asocia frecuentemente a sesiones de chemsex?:",
+   "o": [
+    "Mefedrona, GHB/GBL (Ácido Gammahidroxibutírico / Gamma-Butirolactona) y metanfetamina.",
+    "Heroína, benzodiacepinas y LSD (Ácido Lisérgico Dietilamida).",
+    "Alcohol, cannabis y cocaína.",
+    "Tramadol, codeína y alprazolam."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Respecto la conducta suicida, ¿cuál de las siguientes afirmaciones es cierta?:",
+   "o": [
+    "En nuestro país, los hombres tienen mayor riesgo de suicidio consumado que las mujeres.",
+    "Las personas con intentos previos de suicidio tienen un riesgo bajo de acabar consumando el suicidio al haber sobrevivido.",
+    "Los antecedentes familiares de suicidio son independientes del riesgo que pueda presentar una persona.",
+    "La franja de edad de mayor riesgo de suicidio corresponde a jóvenes de 18 a 35 años."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre la Esquizofrenia es cierta?:",
+   "o": [
+    "Es un trastorno crónico que genera un deterioro en el funcionamiento social.",
+    "La edad de debut del trastorno es más temprano en las mujeres que en los hombres.",
+    "Es un diagnóstico con menor incidencia en los hombres.",
+    "Las ideas delirantes, las alucinaciones y la conducta desorganizada definen los síntomas negativos propios del trastorno."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Sobre el uso adictivo de pantallas, ¿qué afirmación es cierta?:",
+   "o": [
+    "Los factores genéticos no han demostrado ser factores predisponentes.",
+    "Mejorar la autoestima y las estrategias de afrontamiento de estresores entre los jóvenes son factores protectores.",
+    "El manual diagnóstico y estadístico de los trastornos mentales (DSM-5) reconoce oficialmente la adicción a pantallas como un diagnóstico.",
+    "Las experiencias negativas de la primera infancia no han demostrado ser factores predisponentes."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Los mosquitos del género Culex son los principales vectores de transmisión en humanos, ¿de cuál de las siguientes enfermedades?:",
+   "o": [
+    "Dengue.",
+    "Zika.",
+    "Fiebre del Nilo Occidental.",
+    "Paludismo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En el contexto de la actividad asistencial que implica el uso habitual de equipos informáticos para el registro de la actividad clínica, ¿cuál es la distancia mínima recomendada entre los ojos y la pantalla para prevenir riesgos visuales y posturales?:",
+   "o": [
+    "350 mm para tareas habituales.",
+    "450 mm para tareas habituales.",
+    "500 mm en pantallas táctiles.",
+    "600 mm."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "El modelo de la historia natural de la enfermedad, propuesto por Leavell y Clark, se estructura en:",
+   "o": [
+    "Prevención primaria, secundaria y terciaria.",
+    "Periodo prepatogénico y periodo patogénico.",
+    "Periodo subclínico y periodo clínico.",
+    "Fase de exposición, fase de enfermedad y fase de rehabilitación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "La cobertura vacunal óptima en salud pública se refiere a:",
+   "o": [
+    "La proporción de personas vacunadas por cada 100.000 habitantes.",
+    "La proporción de dosis administradas por cada 100.000 habitantes.",
+    "La proporción de personas vacunadas respecto a la población objetivo.",
+    "La proporción de personas vacunadas respecto a la población total."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Durante la revisión del calendario vacunal en la consulta de enfermería de un paciente de 40 años con enfermedad renal crónica avanzada en programa de hemodiálisis, ¿cuál de las siguientes vacunas está específicamente indicada según el Calendario de Vacunación 2025 del Consejo Interterritorial del Sistema Nacional de Salud?:",
+   "o": [
+    "Vacuna frente a hepatitis A (HA).",
+    "Vacuna frente a hepatitis B (HB).",
+    "Vacuna frente al Herpes Zoster.",
+    "Enfermedad Meningocócica."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El Sentido de Coherencia (SOC) es un concepto central en el modelo salutogénico de Aaron Antonovsky. ¿Cuáles son sus tres componentes principales?:",
+   "o": [
+    "Manejabilidad, significatividad y adaptabilidad.",
+    "Comprensibilidad, aceptabilidad y manejabilidad.",
+    "Comprensibilidad, manejabilidad y significatividad.",
+    "Manejabilidad, flexibilidad y significatividad."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según el documento de la Organización Mundial de la Salud sobre regulación de Inteligencia Artificial (IA) en salud (2023), uno de los principales riesgos de los sistemas de Inteligencia Artificial (IA) es:",
+   "o": [
+    "El exceso de transparencia en los algoritmos que compromete secretos comerciales.",
+    "Los sesgos codificados en algoritmos que pueden perpetuar desigualdades, especialmente si los datos de entrenamiento no son representativos de poblaciones diversas.",
+    "La excesiva participación de pacientes en el diseño de sistemas de Inteligencia Artificial (IA).",
+    "Los sesgos de transparencia en los algoritmos que comprometen secretos comerciales y desigualdades poblacionales, así como sesgos por excesiva participación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En un centro educativo se detecta un aumento en el uso de cigarrillos electrónicos entre adolescentes de 13 a 18 años. Para diseñar una intervención eficaz, se aplica el modelo PRE- CEDE con el fin de identificar los factores que influyen en esta conducta. Uno de los hallazgos es la baja percepción de riesgo sobre las consecuencias del vapeo. Según el modelo PRECE- DE, este factor se clasifica como:",
+   "o": [
+    "Factor reforzante.",
+    "Factor facilitador.",
+    "Factor limitante.",
+    "Factor predisponente."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según Ajzen, ¿cuál de las siguientes es una teoría psicológica diseñada específicamente para explicar o modificar los comportamientos relacionados con la salud de una persona?:",
+   "o": [
+    "Comunitaria o colectiva.",
+    "Individual.",
+    "Organizacional.",
+    "Familiar."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "¿Cuál de las siguientes NO es una de las dimensiones del empoderamiento comunitario?:",
+   "o": [
+    "Comunitaria o colectiva.",
+    "Individual.",
+    "Organizacional.",
+    "Familiar."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál es el instrumento operativo que fomenta la promoción de la salud mediante la participación comunitaria y el trabajo intersectorial, según la Estrategia de Promoción de la Salud y Prevención en el Sistema Nacional de Salud (2013) ?:",
+   "o": [
+    "El mapeo de activos en salud.",
+    "La mesa de participación comunitaria.",
+    "El plan de salud local.",
+    "El consejo local de salud."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Guía de la Sociedad Española de Cardiología ESC 2024 sobre el manejo de la presión arterial elevada y la hipertensión, todas las siguientes medidas forman parte del tratamiento no farmacológico, EXCEPTO:",
+   "o": [
+    "Aumentar la actividad física mediante ejercicios aeróbicos y de resistencia.",
+    "Reducir al menos un 15 % - 20 % del peso corporal en personas con sobrepeso u obesidad.",
+    "Reducir la ingesta de sodio a menos de 2300 mg/día.",
+    "Reducir al menos entre el 5 % - 10 % del peso corporal en personas con sobrepeso u obesidad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Según la European Society of Cardiology, qué escala se utiliza para calcular el riesgo de morbimortalidad vascular a 10 años en población de entre 40 y 69 años?:",
+   "o": [
+    "Framingham Risk Score.",
+    "SCORE2.",
+    "SCORE2-OP.",
+    "ADVANCE Risk Score."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la nueva definición propuesta por la Organización Mundial de la Salud (OMS), la “alfabetización en salud” hace referencia a:",
+   "o": [
+    "Las habilidades cognitivas y sociales que determinan la motivación y la capacidad de las personas para acceder a la información, comprenderla y utilizarla de manera que promuevan y mantengan su salud.",
+    "Proceso orientado a empoderar a las personas para la toma de decisiones informadas, que combina oportunidades de aprendizaje planificadas que implican alguna forma de conocimiento y desarrollo de habilidades personales para mejorar la salud individual y comunitaria.",
+    "Habilidades para la promoción de la salud basada en el uso de estrategias para informar e influir en las decisiones individuales y comunitarias que mejoran la salud, abarcar procesos que faciliten el intercambio de información, promover cambios de comportamiento y apoyar la participación activa en la toma de decisiones relacionada con la salud.",
+    "El conocimiento y las competencias personales que se acumulan por medio de las actividades cotidianas, las interacciones sociales y entre generaciones. En los conocimientos y las competencias personales influyen las estructuras institucionales y la disponibilidad de recursos que permiten a las personas acceder a la información y a los servicios, así como comprenderlos, evaluarlos y utilizarlos de manera que promuevan y mantengan una buena salud para sí mismo y su entorno."
+   ],
+   "a": 3
+  },
+  {
+   "q": "De acuerdo con la evidencia presentada en el informe de la Comisión de la Organización Mundial de la Salud sobre Conexión Social (2025), el aislamiento social y la soledad se asocian con:",
+   "o": [
+    "Un coste económico insignificante para los sistemas de salud y empleadores, pero un riesgo moderado de depresión únicamente en las poblaciones de ingresos altos.",
+    "Una reducción del riesgo de mortalidad, actuando como factor protector contra enfermedades crónicas como la enfermedad cardiovascular y la diabetes tipo 2.",
+    "Impactos graves y negativos en la salud física (incluyendo el riesgo de enfermedad cardiovascular y diabetes tipo 2), la salud mental (como depresión y ansiedad) y un aumento significativo en la mortalidad general.",
+    "Un vínculo causal comprobado con 20 de las 26 enfermedades crónicas examinadas (como la diabetes tipo 2 y la enfermedad hepática crónica), según los estudios de aleatorización mendeliana."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué es el consejo asistido o Counselling?:",
+   "o": [
+    "Proceso que permite a las personas incrementar el control sobre los determinantes de su salud para mejorarla, incluyendo acciones sobre factores personales, sociales, ambientales y económicas.",
+    "Proceso interactivo basado en estrategias de enseñanza apoyada en recursos audiovisuales que ayuda a la persona a tomar decisiones adecuadas para sí misma, conforme a sus valores, intereses y estado emocional.",
+    "Proceso de enseñanza teórica expositiva, generalmente oral y apoyada en recursos audiovisuales, cuyo objetivo principal es la transmisión de información en la esfera de la actividad intelectual.",
+    "Proceso interactivo basado en estrategias de comunicación que ayuda a la persona a reflexionar y tomar decisiones adecuadas para sí misma, conforme a sus valores, intereses y estado emocional."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Cuando la población participa en la toma de decisiones de forma autónoma y desarrolla parcialmente o por sí misma las acciones planificadas, ¿a qué nivel de participación comunitaria corresponde durante la elaboración de un programa de salud?:",
+   "o": [
+    "Decisión-Acción Conjunta.",
+    "Control comunitario.",
+    "Liderazgo múltiple y compartido.",
+    "Consulta."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según el modelo de atención primaria orientada a la comunidad (APOC), uno de los pilares fundamentales es:",
+   "o": [
+    "La planificación sanitaria basada en indicadores clínico-epidemiológicos del centro de salud.",
+    "La participación activa de la comunidad en la planificación y evaluación de los servicios.",
+    "La priorización de la atención al medio ambiente del entorno.",
+    "La priorización de la adecuación de las infraestructuras urbanas del entorno."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el modelo de Nutbeam, ¿cuáles son las tres dimensiones que conforman la alfabetización en salud?:",
+   "o": [
+    "Funcional, interactiva y crítica.",
+    "Cognitiva, conductual y emocional.",
+    "Técnica, informativa y comunicativa.",
+    "Básica, funcional y comunitaria."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según la Guía de enfermería obstétrica y ginecológica de Cotobal (2025), ¿qué recomendaciones se establecen para que una mujer en periodo de lactancia con mastitis aguda pueda continuar con la lactancia materna?:",
+   "o": [
+    "No suspender la lactancia materna.",
+    "Suspender la lactancia inmediatamente para evitar la transmisión de la infección al bebé.",
+    "Alternar la lactancia con leche de fórmula para reducir la demanda sobre el pecho afectado.",
+    "Suspender la lactancia del pecho afectado y continuar solo con el sano."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Qué patología benigna se presenta con un cordón palpable en la mama debido a tromboflebitis de las venas subcutáneas torácicas?:",
+   "o": [
+    "Enfermedad de Mondor.",
+    "Esteatonecrósis.",
+    "Ectasia ductal.",
+    "Mastopatía fibroquística."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál es la diferencia entre esterilidad e infertilidad?:",
+   "o": [
+    "La infertilidad es un término general, mientras que la esterilidad se refiere específicamente a causas femeninas.",
+    "Son términos sinónimos que se utilizan para describir cualquier problema para tener hijos.",
+    "La esterilidad es la incapacidad de concebir, mientras que la infertilidad es la incapacidad de llevar un embarazo a término.",
+    "La esterilidad se diagnostica tras 6 meses sin concebir y la infertilidad tras 12 meses."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Mujer de 21 años, con amenorrea primaria es diagnosticada de Síndrome de Turner. ¿Qué cariotipo presenta?:",
+   "o": [
+    "45 X.",
+    "46 XX.",
+    "47 XXX.",
+    "47 XXY."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Respecto al signo de Chadwick, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "Se refiere a la aparición de contracciones irregulares del útero en el tercer trimestre.",
+    "Debido al aumento de la vascularización, la vagina y cuello uterino adquieren un color rojo en el embarazo precoz.",
+    "Se refiere al reblandecimiento del cuello uterino durante el parto.",
+    "Es un cambio en la forma del útero que ocurre hacia la semana 20 de gestación."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿En qué patología del embarazo está indicado el sulfato de magnesio?:",
+   "o": [
+    "Diabetes.",
+    "Eclampsia.",
+    "Hiperémesis.",
+    "Anemia."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la Sociedad española de Ginecología y Obstetricia en su programa de 2018, ¿cuándo se realizará el cribado de diabetes gestacional o Test de O´Sullivan en el primer trimestre?:",
+   "o": [
+    "Edad menor de 35 años.",
+    "Índice de masa corporal igual a 28.",
+    "Intolerancia glucídica o diabetes gestacional previas.",
+    "Antecedente de diabetes en familiares de segundo grado."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Durante la gestación, ¿qué evaluamos mediante las maniobras de Leopold?:",
+   "o": [
+    "El grado de madurez pulmonar fetal.",
+    "La contractilidad uterina.",
+    "La situación, presentación y posición fetal.",
+    "El estado del cuello uterino y la dilatación."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Qué papel tiene el consentimiento informado según la Guía de Interrupción Voluntaria del Embarazo 2025?:",
+   "o": [
+    "Se puede omitir si la persona acepta explícitamente el procedimiento farmacológico.",
+    "Es obligatorio y debe adaptarse a la situación personal de la gestante.",
+    "Solo es necesario en los procedimientos instrumentales, no en los farmacológicos.",
+    "No se menciona en la guía."
+   ],
+   "a": 1
+  },
+  {
+   "q": "De las siguientes opciones, ¿cuál es considerada un factor protector frente al cáncer de mama?:",
+   "o": [
+    "Lactancia materna prolongada.",
+    "Uso de anticoncepción hormonal.",
+    "Nuliparidad o primera gestación tardía.",
+    "Menarquía temprana y menopausia tardía."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La forma en la que el niño expresa su dolor va a depender de su estadio de desarrollo, ¿cuál de los siguientes indicadores de dolor, NO CO- RRESPONDEN al estadio de desarrollo lactante?:",
+   "o": [
+    "Verbaliza el dolor y señala la zona dolorosa.",
+    "Sufrimiento físico generalizado.",
+    "Lloro e inquietud.",
+    "Agitación de piernas y brazos."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál es la principal complicación asociada al uso de salicilatos en niños con infección de varicela o gripe?:",
+   "o": [
+    "Enfermedad de Kawasaki.",
+    "Síndrome de Turner.",
+    "Síndrome de Reye.",
+    "Síndrome de Albright."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según el protocolo común de actuación sanitaria frente a la violencia en la infancia y la adolescencia, en un caso de maltrato, ¿cuándo lo notificaremos?:",
+   "o": [
+    "En procedimiento ordinario, notificación urgente con Parte al Juzgado de Guardia.",
+    "En procedimiento ordinario sin lesiones, enviar Hoja de detección y Notificación de Maltrato Infantil a la Delegación Territorial con competencia en protección de Menores.",
+    "En los casos de urgencia enviar hoja de detección y notificación de Maltrato Infantil a los Servicios Sociales Comunitarios de la localidad de residencia de la persona menor.",
+    "En los casos en que se presenten criterios de urgencia, la comunicación se hará de forma inmediata utilizando la vía telefónica preferentemente."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Un niño de 2 años tiene fiebre alta durante 3 días, está irritable y, cuando la fiebre remite aparece un exantema morbiliforme de color rosa y no pruriginoso que comienza en el tronco y se extiende al cuello y extremidades. ¿Cuál es el diagnóstico más probable?:",
+   "o": [
+    "Sarampión.",
+    "Roséola infantil.",
+    "Rubéola.",
+    "Eritema infeccioso."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes vacunas está recomendada para su administración a los 12 meses, con una dosis de refuerzo a los 2 años?:",
+   "o": [
+    "La hepatitis B.",
+    "La triple vírica.",
+    "Varicela.",
+    "Neumococo."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿A qué edad aparecen signos puberales de pubertad precoz, desarrollo mamario en niñas y desarrollo testicular en niños?:",
+   "o": [
+    "Antes de los 6 años en niñas y de los 7 años en niños.",
+    "Antes de los 7 años en niñas y de los 7 años en niños.",
+    "Antes de los 8 años en niñas y de los 7 años en niños.",
+    "Antes de los 8 años en niñas y de los 9 años en niños."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes NO ES una causa de dolor en los niños con cáncer relacionadas con el tratamiento?:",
+   "o": [
+    "La mucositis.",
+    "La quimioterapia.",
+    "La fiebre.",
+    "Enfermedad injerto contra huésped."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De entre las siguientes opciones, ¿cuál es la complicación más frecuente de la tétrada de Gregg?:",
+   "o": [
+    "Hipoacusia.",
+    "Cataratas.",
+    "Ductus arterioso persistente.",
+    "Microcefalia."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Con respecto al síndrome de muerte súbita del lactante (SMSL), indique cuál de las siguientes opciones NO CONSTITUYE un factor de riesgo:",
+   "o": [
+    "Hábito tabáquico materno.",
+    "Prematuridad y bajo peso.",
+    "Ser varón.",
+    "Ser mujer."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Con respecto al megacolon aganglionar congénito o enfermedad de Hirschprung, indique cuál de las siguientes opciones es FALSA:",
+   "o": [
+    "Afecta con más frecuencia al sexo femenino.",
+    "Retraso en la eliminación del meconio.",
+    "Algunos pacientes pueden presentar vómitos biliosos o fecaloideos con ausencia de tránsito.",
+    "Déficit de inervación parasimpática del colon."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el Informe de la Comisión de la Organización Mundial de la Salud sobre Conexión Social (2025), ¿qué proporción aproximada de adultos de 60 años o más vive con aislamiento social (estado objetivo) ?:",
+   "o": [
+    "Más del 40 % % de los adultos mayores.",
+    "Aproximadamente el 14,23% de los adultos mayores.",
+    "Aproximadamente entre el 25% y el 34% de los adultos mayores.",
+    "Más del 50% de los adultos mayores."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Estrategia para el Abordaje de la Cronicidad en el Sistema Nacional de Salud (SNS), Documento de Desarrollo 2025-2028, ¿qué opción describe mejor la planificación anticipada de decisiones en personas con enfermedades crónicas avanzadas?:",
+   "o": [
+    "Procedimiento formal centrado en la cumplimentación de documentos legales.",
+    "Proceso estructurado de comunicación entre profesionales, pacientes y entorno para anticipar decisiones clínicas en el final de la vida.",
+    "Mecanismo de derivación clínica a programas específicos de cuidados paliativos.",
+    "Herramienta aplicada en contextos hospitalarios para pacientes con enfermedades terminales."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el Documento Técnico del Grupo Nacional para el Estudio y Asesoramiento en Úlceras (GNEAUPP) (3ª edición, 2021), ¿por qué las lesiones producidas en personas sanas, como las ocasionadas por el roce de una raqueta, un zapato nuevo o una dermatitis perianal tras una gastroenteritis, no se consideran lesiones relacionadas con la dependencia?:",
+   "o": [
+    "Porque se localizan en tejidos blandos y no en prominencias óseas.",
+    "Porque no aparecen en pacientes institucionalizados.",
+    "Porque no existe limitación o pérdida de autonomía ni necesidad de ayuda en las actividades básicas.",
+    "Porque son lesiones leves que cicatrizan de forma espontánea en pocos días, sin tendencia a cronificarse."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la definición recogida en el Estudio EDI Personas Mayores (2024), ¿qué elemento caracteriza a las instituciones basadas en el concepto de “instituciones totales” de Erving Goffman aplicado al sistema de cuidados?:",
+   "o": [
+    "Favorecen la autonomía de los residentes mediante el control individualizado de sus decisiones.",
+    "Sitúan las necesidades individualizadas de las personas por encima de los requisitos de la organización.",
+    "Tienden a aislar a las personas de la comunidad y a priorizar los requisitos organizativos sobre las necesidades de los residentes.",
+    "Promueven la convivencia comunitaria flexible y abierta a la toma de decisiones compartida."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es el objetivo central del enfoque basado en derechos (EBD) cuando se aplica a los cuidados de las personas mayores, según el Estudio EDI Personas Mayores (2024) ?:",
+   "o": [
+    "Analizar desigualdades en las políticas de cuidado y eliminar prácticas discriminatorias que impiden el disfrute de derechos fundamentales.",
+    "Organizar los recursos asistenciales priorizando criterios de eficiencia económica.",
+    "Asegurar la homogeneidad en la prestación de servicios de cuidado.",
+    "Favorecer un modelo asistencial que considere a las personas mayores principalmente como receptoras de necesidades."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Qué afirmación describe con mayor precisión la magnitud y consecuencias de las caídas en personas mayores?:",
+   "o": [
+    "Aproximadamente un tercio de los mayores de 65 años y la mitad de los mayores de 80 años presentan al menos una caída al año, y entre el 20 – 30 % de estos sufren una lesión que puede comprometer su autonomía o incrementar la mortalidad.",
+    "Entorno al 10 % de las personas mayores de 80 años presentan caídas anuales, con lesiones habitualmente leves sin repercusión funcional.",
+    "La prevalencia de caídas en mayores de 65 años es inferior al 5 %, son más frecuentes en hombres consumidores de polifarmacia y se dan en el domicilio.",
+    "Aproximadamente el 20 % de los mayores de 65 años y dos tercios de los mayores de 80 años presentan al menos una caída al año, y entre el 30 – 40 % de estos sufren una lesión que puede comprometer su autonomía o incrementar la mortalidad."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Qué se entiende por edadismo?:",
+   "o": [
+    "El edadismo es sinónimo de gerofobia profesional y afecta a la falta de cuidados o negligencia profesional con las personas mayores.",
+    "El edadismo es un tipo de discriminación basado en la edad, y las mujeres mayores requieren especial protección por factores como menor acceso a la educación, más discapacidad y mayor soledad.",
+    "El edadismo es un prejuicio vinculado a la etapa de la vejez avanzada, y afecta sobre todo a personas en situación de dependencia.",
+    "El edadismo es un prejuicio vinculado a la etapa de la vejez y es especialmente evidente en el ámbito laboral. Perjudica de forma homogénea a hombres y mujeres mayores."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Una mujer de 64 años, con demencia frontotemporal variante conductual, inicia tratamiento con trazodona para controlar irritabilidad y agitación. Tras dos semanas, la enfermera observa somnolencia diurna marcada y mareos frecuentes. ¿Cuál debería ser la actuación prioritaria de la enfermera ante estos efectos secundarios?:",
+   "o": [
+    "Reforzar medidas de seguridad para prevenir caídas y comunicar al médico responsable la aparición de sedación y mareo.",
+    "Aconsejar aumentar la dosis de trazodona para lograr mayor control de los síntomas conductuales.",
+    "Recomendar suspender por completo el tratamiento y consultar con su médico.",
+    "Considerar que los síntomas son esperables y no requieren intervención específica."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Un grupo de investigadoras revisó la bibliografía para clarificar los atributos de la “fragilidad oral”, un término emergente empleado para referirse a los problemas bucales en el envejecimiento (Yang et al., 2023). ¿Cómo se denomina esa estrategia para clarificar el significado de fenómenos clínicos?:",
+   "o": [
+    "Teoría de rango medio.",
+    "Teoría fundamentada.",
+    "Análisis de concepto.",
+    "Derivación de teoría."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Un adulto mayor en tratamiento con varios fármacos liposolubles presenta somnolencia prolongada y mayor riesgo de caídas. ¿Qué factor fisiológico propio del envejecimiento explica este efecto y debe ser tenido en cuenta por la enfermera en la vigilancia de reacciones adversas?:",
+   "o": [
+    "Disminución de la acidez gástrica y del peristaltismo intestinal.",
+    "Disminución del número de túbulos renales funcionales y de la filtración glomerular.",
+    "Reducción de la actividad enzimática hepática y del flujo sanguíneo portal.",
+    "Aumento del almacenamiento de fármacos liposolubles en el tejido graso."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El dolor es uno de los síntomas principales que aborda un equipo de cuidados paliativos. Es fundamental realizar una correcta valoración del dolor. Cuando el mecanismo de producción del dolor es nociceptivo, lo describimos como:",
+   "o": [
+    "Dolor central.",
+    "Dolor somático y/o dolor visceral.",
+    "Dolor periférico o neuropático.",
+    "Dolor psicosomático."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El principio conocido como “Ley del Donante Muerto” (Dead Donor Rule), fundamental en bioética y medicina de trasplantes, establece que:",
+   "o": [
+    "Los órganos no podrán extraerse del donante por equipos que participen en el cuidado del paciente en la última etapa de la vida, para evitar conflictos de intereses.",
+    "Los órganos pueden extraerse si el pronóstico vital es terminal, aunque el paciente no haya fallecido.",
+    "Los órganos solo pueden extraerse de donantes legal y éticamente fallecidos, y el acto de extracción no debe causar la muerte del donante.",
+    "Solo aplica a donación en asistolia y no a donación en muerte encefálica."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El delirium es un estado confusional agudo y fluctuante que resulta de una disfunción cerebral difusa. Clínicamente se caracteriza por la alteración simultánea de la atención y del nivel de consciencia, con cambios en la cognición y la percepción, ¿En qué tanto por ciento se estima que se presenta en los pacientes en los últimos días de vida?:",
+   "o": [
+    "10 %.",
+    "40 % - 50 %.",
+    "20 % - 25 %.",
+    "60 % - 90 %."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Definimos la sedación paliativa como el uso de medicación sedante para aliviar el sufrimiento intolerable causado por un síntoma refractario. ¿A qué nos referimos cuando hablamos de síntoma refractario?:",
+   "o": [
+    "Síntoma que se relaciona directamente con el tratamiento utilizado para el manejo de los síntomas paliativos.",
+    "Síntoma que no puede ser adecuadamente controlado con medidas terapéuticas que no comprometan el nivel de consciencia.",
+    "Síntoma que puede aparecer en cualquier momento durante la sedación paliativa.",
+    "Síntoma que compromete la vida de la persona."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Paciente con un diagnóstico enfermero de “Deterioro de la movilidad física relacionado con masa muscular inadecuada manifestado por inestabilidad postural y enlentecimiento del movimiento”. Se establecieron las siguientes puntuaciones para el resultado NOC de movilidad: Puntuación basal: 1; puntuación diana a los 10 días: 4; puntuación final: 1 ¿Cuál es la puntuación de cambio en la evaluación de este paciente?:",
+   "o": [
+    "La puntuación de cambio del resultado es 1.",
+    "La puntuación de cambio del resultado es 0.",
+    "La puntuación de cambio del resultado es negativa.",
+    "La puntuación de cambio del resultado es 3."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Quién fue la escritora que abogó por la reforma hospitalaria y por la unificación de la enfermería en el siglo XIX?:",
+   "o": [
+    "Concepción Arenal.",
+    "Isabel Zendal.",
+    "Elvira Dávila.",
+    "María del Carmen Angoloti y Mesa."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Qué teoría o modelo desarrolló Sor Callista Roy?:",
+   "o": [
+    "Modelo de sistemas.",
+    "Modelo de la conservación.",
+    "Teoría de las transiciones.",
+    "Modelo de adaptación."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En cuanto al metaparadigma enfermero, señalar la respuesta correcta:",
+   "o": [
+    "Una asunción es una teoría adoptada de otra disciplina",
+    "Los conceptos nucleares del metaparadigma son la persona, el medio ambiente, la enfermedad y la enfermería.",
+    "Actualmente nos situamos en el paradigma de transformación.",
+    "Las grandes teorías especifican cuándo aplicar unos cuidados concretos a una población concreta de pacientes."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Quién fue la enfermera estadounidense que promulgó el concepto de control de la natalidad y luchó por la legalización de los anticonceptivos?:",
+   "o": [
+    "Linda Richards.",
+    "Margaret Sanger.",
+    "Mary Seacole.",
+    "Mabel Keaton Staupers."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuáles son las fuentes de las manifestaciones de dependencia según Virginia Henderson?:",
+   "o": [
+    "Los déficits de autocuidado.",
+    "Falta de fuerza, voluntad o conocimientos.",
+    "Las descompensaciones.",
+    "Las respuestas desadaptativas."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Qué aspecto del paciente NO SE MIDE con los resultados NOC?:",
+   "o": [
+    "Estados.",
+    "Sentimientos.",
+    "Percepciones.",
+    "Conductas."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Si en la fase de evaluación del Proceso de Atención de Enfermería (PAE) observamos que el paciente ha empeorado y no hemos logrado identificar las causas que han provocado dicho empeoramiento, ¿qué haría?:",
+   "o": [
+    "Continuar con el plan de cuidados establecido.",
+    "Modificar el plan de cuidados.",
+    "Modificar el diagnóstico enfermero o problema de colaboración.",
+    "Dar por solucionado el diagnóstico enfermero o problema de colaboración."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿En qué Real Decreto se establece el uso de NANDA, NOC y NIC en el conjunto mínimo de datos del informe de cuidados de enfermería?:",
+   "o": [
+    "Real Decreto 1093/2000.",
+    "Real Decreto 1093/2010.",
+    "Real Decreto 1083/2000.",
+    "Real Decreto 1083/2010."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Paciente de 50 años, refiere ser alérgico a un medicamento, ya que en una cirugía previa tuvo una reacción anafiláctica, pero no recuerda el nombre de dicha medicación. ¿En qué patrón funcional de Marjory Gordon incluirías esta información?:",
+   "o": [
+    "Percepción-manejo de la salud.",
+    "Autopercepción-autoconcepto.",
+    "Cognitivo-perceptual.",
+    "Evitar peligros ambientales y evitar lesiones a otras personas."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿En qué dominio de NANDA se clasifica la etiqueta diagnóstica “Disminución de la capacidad para bañarse” ?:",
+   "o": [
+    "Promoción de la salud.",
+    "Eliminación e intercambio.",
+    "Afrontamiento-tolerancia al estrés.",
+    "Actividad-reposo."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones se considera un componente normalizado en la taxonomía NIC?:",
+   "o": [
+    "Definición.",
+    "Actividad.",
+    "Código.",
+    "Referencias bibliográficas."
+   ],
+   "a": 0
+  },
+  {
+   "q": "La Bioética principialista fue formulada por primera vez por:",
+   "o": [
+    "Diego Gracia Guillén.",
+    "Warren Thomas Reich.",
+    "Aldo Leopold.",
+    "Beauchamp y Childress."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre el pensamiento enfermero es FALSA?:",
+   "o": [
+    "Los prejuicios y creencias de los y las enfermeras pueden sesgar el juicio clínico.",
+    "La presión del tiempo y las interrupciones reducen la calidad del pensamiento crítico.",
+    "Es irrelevante conocer el patrón típico de respuesta del paciente para la toma de decisiones clínicas.",
+    "La autorregulación es una habilidad necesaria para desarrollar el pensamiento crítico."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre el modelo de Hildegard Elizabeth Peplau es correcta?:",
+   "o": [
+    "El eje básico de su modelo es el establecimiento de la relación enfermera, paciente y familia.",
+    "Las fases de la relación interpersonal de su modelo son orientación, identificación, intervención y resolución.",
+    "Define la Enfermería como un concepto interpersonal terapéutico y significativo.",
+    "En el rol de sustituto, la enfermera no establece vínculo alguno con el paciente."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La taxonomía NANDA describe el diagnóstico [00400] Ansiedad excesiva como “Preocupación desproporcionada y persistente por situaciones y acontecimientos percibidos como amenazantes”. ¿Cuál de las siguientes sería, según esta fuente, una característica definitoria de esta etiqueta diagnóstica?:",
+   "o": [
+    "Extremidades calientes.",
+    "Ampliación del campo perceptivo.",
+    "Palidez facial.",
+    "Dilatación pupilar."
+   ],
+   "a": 3
+  },
+  {
+   "q": "¿En qué principio se fundamenta el límite del secreto profesional relacionado con la comunicación de enfermedades infecciosas de declaración obligatoria?:",
+   "o": [
+    "Justicia.",
+    "Beneficencia.",
+    "No maleficencia.",
+    "Autonomía."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Respecto a la Declaración de Helsinki, señalar la respuesta correcta:",
+   "o": [
+    "Define la atención primaria como un conjunto esencial para la promoción de la salud.",
+    "Expone los límites del secreto profesional.",
+    "Establece los principios éticos para orientar la investigación en seres humanos.",
+    "Define Beneficencia, Respeto y Justicia en el ámbito asistencial."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación con la confidencialidad, señale la respuesta INCORRECTA:",
+   "o": [
+    "La confidencialidad es el carácter reservado con el que deben tratarse los datos de la historia clínica del paciente.",
+    "El secreto profesional se clasifica como secreto prometido.",
+    "La Constitución Española de 1978 reconoce el derecho a la intimidad personal.",
+    "El derecho a la confidencialidad está protegido en la Ley General de Sanidad 19/1986."
+   ],
+   "a": null,
+   "anulada": true
+  },
+  {
+   "q": "Respecto a la objeción de conciencia, señalar la respuesta correcta:",
+   "o": [
+    "Es el derecho a ser eximido de cumplir un deber legal por resultar contrario a las convicciones propias.",
+    "No necesita ser comunicado por escrito.",
+    "Define los valores prioritarios que una organización o grupo quieren proteger.",
+    "Cuestiona una norma jurídica vigente porque implica un conflicto de valores religiosos o filosóficos."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Una enfermera atiende a un paciente anciano con deterioro cognitivo leve. Durante la planificación del tratamiento, el hijo del paciente propone modificar la medicación sin consultar al médico. Ante esta situación y desde la perspectiva ética ¿cómo debe actuar la enfermera?:",
+   "o": [
+    "Aplicando el principio de justicia distributiva.",
+    "Como representante del paciente, defendiendo su autonomía y bienestar.",
+    "Apoyando la decisión de la familia, al considerar que el paciente, debido a su deterioro cognitivo, no tiene capacidad para comprender su situación clínica ni el tratamiento indicado.",
+    "Imponiendo un tratamiento al paciente por considerar que lo necesita sin tener en cuenta su capacidad de decisión."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿En qué norma se aprueba formalmente el Protocolo de actuación frente al acoso sexual y al acoso por razón de sexo en el ámbito de la Administración General del Estado y de sus organismos públicos?:",
+   "o": [
+    "Ley 4/2023, de 28 de febrero.",
+    "Real Decreto 247 / 2024, de 8 de marzo.",
+    "Ley 31/1995, de 8 de noviembre.",
+    "Real Decreto 1026/2024, de 8 de octubre."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Si un paciente de 70 años, diagnosticado de esclerosis lateral amiotrófica en fase avanzada, recibe de un amigo una medicación que él mismo se administra para producir su muerte, ¿qué término describe lo sucedido?:",
+   "o": [
+    "Eutanasia.",
+    "Suicidio asistido.",
+    "Ayuda al suicidio.",
+    "Homicidio."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según la Ley 41/2002 reguladora de la autonomía del paciente, la enfermera puede prescindir de solicitar el consentimiento informado cuando:",
+   "o": [
+    "El procedimiento a realizar se desarrolle en un corto espacio de tiempo.",
+    "El paciente presente alteración de la conciencia y no existen familiares o representantes disponibles, requiriendo actuación inmediata para evitar un daño grave.",
+    "El paciente delega su decisión en el profesional sanitario que lo atiende.",
+    "El procedimiento de enfermería implica riesgos moderados."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según el Real Decreto que aprueba el conjunto mínimo de datos de los informes clínicos en el Sistema Nacional de Salud, ¿cuáles de los siguientes documentos clínicos forman parte del Conjunto Mínimo de Datos de los Informes Clínicos (CMDIC)?:",
+   "o": [
+    "Informe clínico al alta, informe de laboratorio y registros de farmacia hospitalaria.",
+    "Informe clínico de consultas externas, informes del gasto por la atención y protocolos internos.",
+    "Informe clínico de atención primaria, informes de investigación médica y copias de las citas.",
+    "Resumen de historia clínica, informe clínico de urgencias e informe de cuidados de enfermería."
+   ],
+   "a": 3
+  },
+  {
+   "q": "El Real Decreto 365/2009 establece las condiciones y requisitos mínimos de seguridad y calidad en la utilización de desfibriladores automáticos y semiautomáticos externos fuera del ámbito sanitario. Define un desfibrilador semiautomático externo (DESA) como:",
+   "o": [
+    "El producto sanitario destinado para administrar una descarga eléctrica con la finalidad de modificar el ritmo cardiaco con altos niveles de seguridad.",
+    "El producto sanitario destinado a analizar el ritmo cardiaco, identificar las arritmias mortales tributarias de desfibrilación y administrar una descarga eléctrica con la finalidad de restablecer el ritmo cardiaco viable con altos niveles de seguridad.",
+    "El producto sanitario destinado a analizar el ritmo cardiaco, identificar las arritmias y administrar una descarga eléctrica con altos niveles de seguridad.",
+    "El producto sanitario destinado a analizar el ritmo cardiaco, identificar las arritmias de forma automática y administrar una descarga eléctrica con la finalidad de restablecer el ritmo cardiaco normal con altos niveles de seguridad."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Qué establece el artículo 3 del Real Decreto 1302/2018, en relación con la actuación de las enfermeras, respecto a los medicamentos sujetos a prescripción médica?:",
+   "o": [
+    "Que las enfermeras están habilitadas para prescribir cualquier fármaco sin ser precisa una supervisión médica.",
+    "Que las enfermeras sólo pueden administrar medicamentos previamente indicados por un farmacéutico en el ámbito asistencial.",
+    "Que las enfermeras no tienen ninguna competencia sobre medicamentos sujetos a prescripción médica.",
+    "Que las enfermeras, en el ejercicio de su actividad profesional, podrán indicar, usar y autorizar la dispensación de medicamentos sujetos a prescripción médica conforme a protocolos y guías de práctica clínica y asistencial."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Ley 14/1986, de 25 de abril, General de Sanidad, establece las orientaciones que deben regir las actuaciones de las Administraciones Públicas Sanitarias. Seleccione la opción correcta:",
+   "o": [
+    "Promover el interés individual, familiar y social por la salud mediante la adecuada educación sanitaria de la población.",
+    "Garantizar que cuantas acciones sanitarias se desarrollen estén dirigidas a la curación de las enfermedades.",
+    "Financiar los fármacos y productos sanitarios necesarios para la atención de los pacientes.",
+    "Adecuar su organización y funcionamiento a los principios de eficiencia, autonomía, beneficencia e interés público."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según la Ley 41/2002, de autonomía del paciente, ¿a quién corresponde el derecho a recibir la información asistencial?:",
+   "o": [
+    "Al médico responsable del paciente.",
+    "Al paciente, con carácter general, aunque puede renunciar a ser informado.",
+    "Al representante legal únicamente si el paciente es mayor de edad.",
+    "Al familiar más cercano del paciente, en todos los casos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de los siguientes estilos o modelos de liderazgo enfermero es frecuentemente señalado como el más adecuado para fomentar la innovación, el compromiso profesional y la mejora de la calidad en servicios de salud, y por qué?:",
+   "o": [
+    "Liderazgo autocrático, porque garantiza control estricto y cumplimiento de normas.",
+    "Liderazgo transaccional, porque se basa en recompensas e intercambio entre el equipo.",
+    "Liderazgo transformacional, porque genera entornos laborales saludables, promueve el desarrollo profesional y favorece el cambio.",
+    "Liderazgo Laissez-Faire, porque delega completamente y da libertad absoluta al equipo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál es el orden correcto de las fases del ciclo PDCA o ciclo de Deming que se utiliza para la mejora continua de la calidad asistencial?:",
+   "o": [
+    "Diagnosticar – Planificar – Evaluar – Corregir.",
+    "Planificar – Hacer – Verificar – Actuar.",
+    "Analizar – Controlar – Documentar – Aplicar.",
+    "Observar – Ejecutar – Supervisar – Repetir."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias (LOPS), ¿qué principio fundamental rige la formación de los profesionales sanitarios?:",
+   "o": [
+    "La formación inicial garantiza los conocimientos necesarios para ejercer de forma continuada en el tiempo.",
+    "La formación continuada es un deber y un derecho de todos los profesionales sanitarios.",
+    "La formación continuada es un deber sólo de los especialistas y máster.",
+    "La formación sanitaria depende de los profesionales de los centros asistenciales."
+   ],
+   "a": 1
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe correctamente la clasificación de alguno de los indicadores en el modelo de calidad de Donabedian?:",
+   "o": [
+    "Un indicador de estructura mide el número de pacientes que mejoran su estado de salud tras un tratamiento.",
+    "Un indicador de resultado refleja los efectos de la atención sanitaria en la salud del paciente o su satisfacción.",
+    "Un indicador de proceso evalúa la disponibilidad de recursos humanos, materiales o tecnológicos en el centro sanitario.",
+    "Los indicadores de resultado se utilizan para evaluar cómo se desarrollan las actividades."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según las directrices del Consejo Internacional de Enfermería (CIE), ¿qué caracteriza a una enfermera de práctica avanzada (EPA)?:",
+   "o": [
+    "Es la enfermera que trabaja en investigación fuera del entorno clínico.",
+    "Es la enfermera gestora que da apoyo educativo y conocimiento más avanzado.",
+    "Es la enfermera que tiene autonomía para la indicación, uso y administración de productos sanitarios.",
+    "Es la enfermera especialista o generalista con formación de grado superior, una base de conocimientos experta, habilidades para la toma de decisiones complejas y competencias clínicas ampliadas según el contexto en el que ejerce."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En la atención inicial de un paciente adulto con sospecha de Ictus agudo, y en ausencia de signos de inestabilidad hemodinámica (como hipotensión o hipovolemia), ¿cómo debe colocarse al paciente?:",
+   "o": [
+    "Mantener la cama plana (0º) para maximizar el flujo sanguíneo cerebral, incluso si el paciente presenta deterioro de la deglución.",
+    "Colocar al paciente en posición de Trendelenburg para favorecer el drenaje venoso cerebral rápido.",
+    "Elevar la cabecera de la cama 30º, como medida esencial para reducir el riesgo de broncoaspiración y favorecer el retorno venoso cerebral.",
+    "Colocar al paciente siempre en decúbito lateral de seguridad, ya que ésta es la posición universalmente recomendada para todos los pacientes neurológicos."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Durante una intervención en el domicilio de un paciente adulto con diabetes, el equipo de urgencias extrahospitalarias comprueba que el paciente está consciente, colaborador y capaz de deglutir, presentando una glucemia capilar de 65 mg/dl. ¿Cuál es el protocolo de actuación inmediata recomendado para corregir esta hipoglucemia de Nivel I en este entorno extrahospitalario?:",
+   "o": [
+    "Administrar 1 mg de Glucagón por vía intramuscular, ya que su uso es seguro y universal en el entorno extrahospitalario.",
+    "Iniciar una perfusión de Glucosa al 50% por vía intravenosa, ya que en el entorno hospitalario siempre se prefiere la vía parenteral.",
+    "Administrar 15−20 g de carbohidratos de acción rápida por vía oral (ej. tabletas de glucosa o zumo) y reevaluar la glucemia a los 15 minutos, repitiendo la ingesta si es necesario.",
+    "Administrar una comida completa que incluya carbohidratos de absorción lenta y proteínas para prevenir la recurrencia a largo plazo."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según las recomendaciones de la Guía de Soporte Vital Avanzado, del Consejo Europeo de Resucitación (ERC), recogido en el Plan Nacional de Reanimación Cardiopulmonar de 2021 sobre el manejo del paciente crítico postparada cardiaca, con relación al control de temperatura:",
+   "o": [
+    "Se recomienda la prevención activa de la fiebre (definida como una temperatura >37,7 °C) durante al menos 72 h.",
+    "Se debe mantener una temperatura de 32–36 °C durante al menos 24 horas.",
+    "Se deben realizar hemocultivos a todo paciente que supere los 37 °C para identificar focos de infección de manera precoz.",
+    "No se recomienda un control específico de temperatura."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál es la vía principal de transmisión de Encefalopatías Espongiformes Transmisibles (ETT) al ser humano?:",
+   "o": [
+    "Por transmisión zoonósica directa de los animales al ser humano.",
+    "A través del consumo de productos o tejidos procedentes de animales infectados por priones.",
+    "A través de la inhalación de partículas que contienen priones de origen animal",
+    "A través de vectores biológicos, especialmente insectos hematófagos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "De las siguientes opciones, indique el patrón correcto correspondiente a una acidosis respiratoria aguda:",
+   "o": [
+    "pH normal, HCO3⁻ normal y pCO2 elevada.",
+    "pH normal, HCO3⁻ elevado y pCO2 elevada.",
+    "pH bajo, HCO3⁻ elevado y pCO2 disminuida.",
+    "pH bajo, HCO3⁻ normal y pCO2 elevada."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La gravedad de la enfermedad renal crónica (ERC), según el filtrado glomerular, se clasifica en cinco categorías funcionales. Un filtrado glomerular entre 15 y 29 ml/min/1,73 m2 indica:",
+   "o": [
+    "Filtrado glomerular gravemente disminuido.",
+    "Es necesario considerar terapia de reemplazo renal.",
+    "Filtrado glomerular normal.",
+    "Filtrado glomerular aumentado."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Paciente de 49 años con diversas fracturas costales tras sufrir un accidente de tráfico. Refiere tener mucho dolor (EVA 10). Al realizar la valoración enfermera, en la necesidad de respirar normalmente, presenta: disnea, uso excesivo de los músculos accesorios para respirar, falta de aliento y aleteo nasal. ¿A qué etiqueta diagnóstica, según NANDA (North American Nursing Diagnosis Association), conduce esta valoración?:",
+   "o": [
+    "Patrón respiratorio ineficaz.",
+    "Deterioro del intercambio de gases.",
+    "Limpieza ineficaz de las vías aéreas.",
+    "Deterioro de la ventilación espontánea."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cómo se denomina el neumotórax que puede deberse a la ruptura de pequeñas bullas localizadas en el vértice pulmonar?:",
+   "o": [
+    "Neumotórax traumático.",
+    "Neumotórax colapsado.",
+    "Neumotórax espontáneo.",
+    "Neumotórax a tensión."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de los siguientes criterios permite establecer el diagnóstico de diabetes mellitus por sí solo?:",
+   "o": [
+    "Glucemia ≥ 200 mg/dl en cualquier momento del día acompañada de síntomas clínicos.",
+    "Glucemia basal en ayunas >126 mg/dl, detectada en una ocasión.",
+    "Glucemia > 200 mg/dl a las 2 horas de una sobrecarga oral de glucosa.",
+    "Hemoglobina glicosilada (HbA1c) > 6,5%."
+   ],
+   "a": 0
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre la enfermedad de von Willebrand es correcta?:",
+   "o": [
+    "Es un trastorno de la coagulación hereditario poco frecuente.",
+    "Se caracteriza por un déficit en la producción del factor IX.",
+    "Solo provoca sangrados graves y espontáneos.",
+    "Se transmite en la mayoría de los casos con un patrón autosómico dominante."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación con el Síndrome de Cushing, indique la opción correcta:",
+   "o": [
+    "Puede causar hipotensión.",
+    "Puede producir hipoglucemias.",
+    "Provoca debilidad muscular.",
+    "La piel se vuelve más fuerte y gruesa."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En el contexto de un paciente que ha sufrido un ictus hemorrágico, señala la respuesta INCO- RRECTA:",
+   "o": [
+    "En la hemorragia subaracnoidea se produce una situación de hipovolemia derivada de la pérdida de sangre.",
+    "La hiperglucemia (niveles de glucosa > 126 mg/dl) mantenida en el tiempo se asocia con un aumento de la mortalidad y de la extensión del ictus.",
+    "El inicio abrupto de un dolor de cabeza súbito e intenso está presente en prácticamente todos los pacientes con hemorragia subaracnoidea.",
+    "Los vómitos son frecuentes en pacientes con hemorragia intracerebral o hemorragia subaracnoidea."
+   ],
+   "a": 0
+  },
+  {
+   "q": "De los siguientes signos y síntomas identifica cual NO es una característica típica del Síndrome Hiperosmolar Hiperglucémico:",
+   "o": [
+    "Aumento de la sed.",
+    "Aumento de la diuresis.",
+    "Taquicardia.",
+    "Hipertensión."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA con relación a las recomendaciones de la guía de la Societe Europeenne de Nutrition Clinique et Metabolisme, Guía ESPEN, para el manejo de la nutrición clínica en la enfermedad inflamatoria intestinal:",
+   "o": [
+    "No existe una pauta dietética universalmente aplicable que pueda recomendarse para inducir la remisión en todos los pacientes con enfermedad inflamatoria intestinal activa.",
+    "En la enfermedad inflamatoria intestinal activa, los requerimientos proteicos aumentan, por lo que la ingesta recomendada en adultos debe incrementarse a 1,2 - 1,5 g / kg /día en comparación con las recomendaciones para la población general.",
+    "Seguir una dieta abundante en frutas y verduras, con un elevado contenido de ácidos grasos n-6 y bajo en ácidos grasos n-3, se asocia a una reducción del riesgo de desarrollar enfermedad de Crohn o colitis ulcerosa, por lo que resulta una recomendación adecuada.",
+    "En pacientes con enfermedad inflamatoria intestinal en fase de remisión, los requerimientos proteicos no son elevados y la ingesta recomendada es similar a la de la población general, alrededor de 1 g / kg / día en adultos."
+   ],
+   "a": 2
+  },
+  {
+   "q": "De acuerdo con la Guía Clínica Española del Acceso Vascular para Hemodiálisis, una fístula arteriovenosa nativa se define como:",
+   "o": [
+    "Un tipo de catéter venoso central situado en un túnel subcutáneo hasta su entrada en la vena.",
+    "Una fístula arteriovenosa en la que se implanta un injerto de material sintético entre una arteria y una vena, donde el cuerpo del injerto actúa como conducto de acceso para la canulación y la conexión durante la hemodiálisis.",
+    "Una fístula arteriovenosa que una vez transcurridas entre 4 y 6 semanas desde su realización, no cumple los criterios de maduración.",
+    "Una fístula arteriovenosa donde la vena sirve como conducto de acceso para la canulación y conexión a hemodiálisis."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En relación con la indicación de oxigenoterapia en pacientes con EPOC ¿cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "La oxigenoterapia a largo plazo está indicada en pacientes con PaO₂ ≤ 55 mm Hg, o saturación de oxígeno ≤ 88%, con o sin hipercapnia confirmada en dos ocasiones en tres semanas.",
+    "La oxigenoterapia a largo plazo (>15 horas al día) no mejora la supervivencia en pacientes con hipoxemia grave en reposo.",
+    "Se recomienda oxigenoterapia intermitente para pacientes cuya desaturación de oxígeno ocurre solamente durante el ejercicio, el sueño o las actividades cotidianas.",
+    "La oxigenoterapia a largo plazo también puede indicarse en pacientes con PaO₂ entre 55 y 60 mm Hg y evidencia de daño orgánico (por ejemplo, edema por insuficiencia cardíaca derecha)."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Respecto a la medición de la presión arterial (PA) en consulta, ¿cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "Se deben tomar tres mediciones, separadas 1- 2 minutos; si hay diferencias mayores de 10 mmHg se toman medidas adicionales. La PA se debe registrar como la media de las tres últimas medidas.",
+    "El paciente debe sentarse cómodamente y reposar al menos 5 minutos antes de la medición, evitando ejercicio o estimulantes (como la cafeína o el tabaco) durante los 30 minutos previos.",
+    "El manguito utilizado debe ajustarse al tamaño del brazo, cubriendo entre el 75 - 100% de la longitud y el 35 - 50% del ancho de la circunferencia del brazo.",
+    "Se recomienda evaluar la hipotensión ortostática en la primera visita. Tras permanecer el paciente 5 minutos en reposo sentado o en decúbito, se debe medir la PA entre 1 minuto y/o 3 minutos tras la bipedestación, con un umbral para la hipotensión ortostática de una disminución de ≥ 20 / 10 mmHg (PA sistólica / PA diastólica)."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Con respecto a la bursitis, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "En la bursitis aparecen cuerpos sueltos dentro de una articulación como resultado del desgaste del cartílago articular y de la erosión ósea.",
+    "La bursitis es una neuropatía de atrapamiento que ocurre cuando el nervio mediano es comprimido en la muñeca por la vaina engrosada del tendón flexor.",
+    "En la bursitis se produce una acumulación de material gelatinoso cerca de las vainas tendinosas y de las articulaciones, dando lugar a la aparición de una estructura quística firme y redondeada, por lo general, en el dorso de la muñeca.",
+    "La bursitis ocurre cuando los sacos llenos de líquido que previenen la fricción entre las estructuras articulares durante la actividad se inflaman."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La escala NIHSS (National Institute of Health Stroke Scale) permite a la enfermera la valoración frecuente y el registro de la función neurológica, necesarios y esenciales para detectar cambios en la evolución del paciente. Señala la opción INCORRECTA en relación con esta escala:",
+   "o": [
+    "La escala consta de 11 ítems.",
+    "La puntuación varía de 0 (déficit neurológico severo) a 42 (ausencia de déficit neurológico).",
+    "La escala NIHSS no valora manifestaciones del ictus como la diplopía.",
+    "La escala NIHSS no valora manifestaciones del ictus como la disfagia."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En caso de hipoglucemia en un paciente diabético adulto inconsciente, respecto al uso de glucagón, indique la opción INCORRECTA:",
+   "o": [
+    "El glucagón es una hormona producida por las células Beta del páncreas que estimula al hígado a liberar glucógeno, la glucosa que está almacenada.",
+    "La duración de la acción de 1 mg de glucagón es breve. Se inicia pasados los 5 minutos y dura menos de 30 minutos.",
+    "Algunas personas podrán experimentar náuseas después de la administración del glucagón.",
+    "Después de la administración de glucagón, cuando el paciente recupere la consciencia, se le debe dar una fuente concentrada de hidratos de carbono seguida por un refrigerio, a fin de prevenir la recurrencia de la hipoglucemia y para reponer la reserva hepática de glucosa."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según los criterios de West-Haven, ¿Cuál de las siguientes opciones NO CORRESPONDE a una manifestación clínica habitual en alguno de los grados de encefalopatía hepática?:",
+   "o": [
+    "Grado 1. El paciente permanece completamente alerta y orientado, participa activamente en conversaciones prolongadas durante todo el día.",
+    "Grado 2. Se observa aumento de la somnolencia y desorientación, junto con cambios del estado de ánimo, comportamiento inapropiado y agitación.",
+    "Grado 3. Presenta estupor, dificultad importante para despertar, duerme la mayor parte del tiempo, con confusión marcada y habla incoherente.",
+    "Grado 4. El paciente se encuentra en estado de coma."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Con relación a la enfermedad renal en etapa terminal o insuficiencia renal crónica, identifique cuál de las siguientes afirmaciones es IN- CORRECTA:",
+   "o": [
+    "La anemia se produce debido a la menor producción de eritropoyetina, menor vida útil de los eritrocitos, deficiencias nutricionales y tendencia al sangrado en el tubo digestivo.",
+    "La aparición de hipertensión está relacionada con la retención de agua y sodio y se asocia con una activación del sistema reninaangiotensina-aldosterona.",
+    "La enfermedad ósea y las calcificaciones metastásicas y vasculares se producen debido a la retención de calcio, a la disminución de las concentraciones de fósforo y a las concentraciones elevadas de aluminio.",
+    "La hipercalemia se debe a una excreción reducida de potasio, aumento del catabolismo y a una ingesta excesiva a través de la dieta, medicamentos o líquidos."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Un proceso inflamatorio granulomatoso subagudo o crónico de todas las capas (lesión transmural) de la pared del tubo digestivo, con afectación segmentaria prolongada del aparato digestivo, se corresponde con:",
+   "o": [
+    "La colitis ulcerosa.",
+    "La enfermedad diverticular.",
+    "La enfermedad de Crohn.",
+    "El síndrome del intestino irritable."
+   ],
+   "a": 2
+  },
+  {
+   "q": "En relación con la cirrosis hepática, ¿cuál de las siguientes afirmaciones es cierta?:",
+   "o": [
+    "En la cirrosis biliar hay amplias bandas de tejido cicatricial, como resultado tardío de un episodio de hepatitis vírica.",
+    "En la cirrosis postnecrótica, la cicatrización ocurre en el hígado, alrededor de los conductos biliares, como resultado de una obstrucción biliar crónica e infección (colangitis).",
+    "En la cirrosis biliar, se produce una acumulación de grasa en los hepatocitos, que aumentan considerablemente de tamaño llegando a colapsar los conductos biliares.",
+    "En la cirrosis alcohólica, el tejido cicatricial rodea de manera característica a las áreas portales."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Con relación al vértigo postural paroxístico, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "Ocurre cuando la cabeza cambia con respecto a la gravedad, por lo general, al colocarla hacia atrás con el oído afectado hacia abajo.",
+    "Se produce por una inflamación del laberinto del oído interno.",
+    "Es una alteración subyacente del oído que se vincula con la pérdida auditiva.",
+    "Se produce por una anomalía en el equilibrio de los líquidos del oído interno, por malabsorción en el saco endolinfático u obstrucción del conducto endolinfático."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el Proyecto Cirugía Segura, ¿cuál de las siguientes funciones corresponde al personal de enfermería en la implementación de prácticas seguras dentro del bloque quirúrgico?:",
+   "o": [
+    "Supervisar el cumplimiento de las medidas de seguridad quirúrgica y promover la aplicación de la lista de verificación de forma exclusiva entre el personal de enfermería.",
+    "Limitarse al cumplimiento de las indicaciones aprobadas por el personal médico que motiven su participación en la verificación del procedimiento.",
+    "La enfermera instrumentista deberá confirmar verbalmente el indicador de esterilización, que verifica que el instrumental ha sido esterilizado satisfactoriamente.",
+    "No se contempla la participación en los procesos de auditoría del programa."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Con respecto a la ECMO (oxigenación por membrana extracorpórea), indique la respuesta INCORRECTA:",
+   "o": [
+    "Puede ser utilizada en el contexto del trasplante proporcionando soporte respiratorio o circulatorio cuando el paciente no puede mantener suficientes niveles de oxígeno o flujo sanguíneo.",
+    "En donación en asistolia, mediante la técnica de PRN (Perfusión Regional Normotérmica), aumenta la viabilidad de los órganos donados mejorando su estado y facilitando un trasplante exitoso.",
+    "Proporciona un soporte vital que puede permitir al paciente recuperarse o mejorar sus condiciones previas al trasplante, aumentando la supervivencia.",
+    "Cuando se aplica a un potencial donante en la PRN, como sólo se perfunde la cavidad abdominal, no es necesario emplear anticoagulantes ni canalizar la arteria y la vena femorales."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Con respecto a la válvula mitral, señale la afirmación más acertada:",
+   "o": [
+    "La rotura de una de las cuerdas tendinosas de su aparato subvalvular provocará una insuficiencia tricuspídea.",
+    "El aparato subvalvular conecta con tres valvas que han de coaptar a la perfección para permitir una adecuada dinámica del flujo.",
+    "La rotura de una cuerda tendinosa provocará una estenosis crítica de la válvula, comprometiendo el flujo anterógrado.",
+    "La válvula se compone de dos velos uno más pequeño, y con menor movilidad, y otro de mayor tamaño, que suele dividirse en 3 secciones conocidas como P1, P2 y P3."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Tomando en consideración lo recogido en la última guía de práctica clínica para manejo sanguíneo en cirugía cardiovascular elaborada por las sociedades europeas de cirugía, anestesia y perfusión (EACTS/EACTA/EBCP Patient Blood Management Guideline 2024), en el manejo de sangrado intraoperatorio tras completar la corrección quirúrgica, deberá de tomarse como prioridad:",
+   "o": [
+    "Realización de una escrupulosa hemostasia quirúrgica, y después emplear estrategias farmacológicas coadyuvantes, pudiendo emplear test viscoelásticos.",
+    "Administración de antifibrinolíticos, al completar el destete de la circulación extracorpórea, para que sea posible contener el sangrado",
+    "Administración de protamina hasta conseguir interrumpir el sangrado, dado que es el antídoto de la heparina, y si existe un sangrado activo, esto se debe al efecto residual de la heparina circulante.",
+    "La transfusión de plasma y factores de la coagulación para favorecer un medio proclive a la coagulación."
+   ],
+   "a": 0
+  },
+  {
+   "q": "En la Unidad de Recuperación Postanestésica (URPA), un paciente intervenido de herniorrafía inguinal bajo anestesia general presenta en la valoración:  Movilidad voluntaria de dos extremidades.  Respiración superficial con disnea.  Tensión arterial un 30% inferior a la basal.  Consciente, responde a estímulos verbales.  Saturación de O2 del 92% con oxigenoterapia suplementaria. Según la Escala Aldrete modificada, ¿cuál es la puntuación total y la conducta adecuada en este caso?:",
+   "o": [
+    "7 puntos. Debe permanecer en observación en la URPA.",
+    "8 puntos. Puede considerarse el alta a planta con vigilancia estándar.",
+    "9 puntos. Alta a planta inmediata sin necesidad de monitorización.",
+    "10 puntos. Candidato a alta directa a domicilio desde la URPA."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Durante la programación de una colecistectomía laparoscópica, el equipo quirúrgico aplica la lista de verificación de seguridad de la Organización Mundial de la Salud (OMS). El anestesiólogo revisa con la enfermera circulante la identificación del paciente, el procedimiento y el sitio quirúrgico. Posteriormente, el cirujano marca con un rotulador el área de incisión. ¿Cuál es el objetivo principal de este procedimiento según las recomendaciones del Ministerio de Sanidad?:",
+   "o": [
+    "Reducir la probabilidad de infecciones de localización quirúrgica al delimitar con precisión el campo operatorio.",
+    "Disminuir el riesgo de eventos centinela relacionados con paciente equivocado, procedimiento incorrecto o localización errónea.",
+    "Facilitar el registro de la trazabilidad quirúrgica en la historia clínica electrónica y en la hoja de ruta quirúrgica.",
+    "Facilitar la coordinación entre los distintos profesionales del Bloque Quirúrgico mediante la unificación de la secuencia de pasos quirúrgicos."
+   ],
+   "a": 1
+  },
+  {
+   "q": "En relación con la zonificación del Bloque Quirúrgico, ¿cuál es la opción correcta según las recomendaciones del Ministerio de Sanidad?:",
+   "o": [
+    "El principal determinante de la carga bacteriana es el sistema de ventilación no el movimiento de personal.",
+    "La ventilación laminar es esencial para disminuir el riesgo de infección nosocomial.",
+    "La segregación de pasillos múltiples garantiza una reducción significativa de las infecciones quirúrgicas.",
+    "Los quirófanos deben mantenerse en presión positiva respecto a pasillos y áreas adyacentes."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Durante una intervención quirúrgica programada de reemplazo valvular mitral, el equipo de enfermería detecta que uno de los contenedores rígidos de instrumental presenta un cambio anómalo en el indicador químico externo. Tras revisar la trazabilidad, se comprueba que el registro del ciclo de esterilización muestra una presión adecuada pero una temperatura final inferior a la programada, y que el indicador biológico del lote aún no ha sido procesado. Según las recomendaciones del Ministerio de Sanidad y la OMS sobre seguridad del paciente y control del material estéril, ¿cuál de las siguientes actuaciones sería la más correcta?:",
+   "o": [
+    "Retirar el material del campo quirúrgico, anular el lote completo, no utilizarlo hasta confirmar el resultado del indicador biológico, y registrar el incidente en el sistema de calidad.",
+    "Utilizar el material tras verificar que el ciclo se completó y notificar el incidente para su análisis posterior.",
+    "Permitir el uso del material, ya que el indicador externo no es determinante y la presión registrada asegura la esterilidad.",
+    "Utilizar el material y, si se produce infección postoperatoria, notificarlo como evento adverso al servicio de Medicina Preventiva."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Un paciente de 72 años, anticoagulado con acenocumarol por fibrilación auricular, es programado para cirugía de hernia inguinal electiva. Durante la verificación preoperatoria, la enfermera detecta que no hay registro en la historia clínica sobre la suspensión o ajuste del tratamiento anticoagulante, y que no se ha solicitado INR reciente. Según las recomendaciones del Ministerio de Sanidad (Bloque Quirúrgico, 2009) y las guías de la OMS (2009) sobre seguridad del paciente quirúrgico, ¿cuál sería la actuación correcta?:",
+   "o": [
+    "Proceder con la cirugía si el paciente no presenta signos de sangrado y la hemostasia intraoperatoria es cuidadosa.",
+    "Posponer la intervención hasta verificar el INR, revisar el protocolo de manejo perioperatorio de anticoagulantes, y reprogramar la cirugía si no se garantiza seguridad hemostática.",
+    "Permitir la intervención y registrar el incidente como “riesgo asumido” en el parte quirúrgico.",
+    "Realizar la intervención, pero mantener plasma fresco y hemoderivados disponibles para transfusión en caso de sangrado."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Durante la preparación del campo operatorio, una enfermera aplica clorhexidina alcohólica al 2 % y, tras 30 segundos, el cirujano inicia la incisión. Posteriormente se detecta combustión superficial en la piel por ignición del electrobisturí. Según las recomendaciones del Ministerio de Sanidad y la OMS, ¿qué error contribuyó al evento?:",
+   "o": [
+    "No utilizar povidona yodada.",
+    "Usar un campo quirúrgico textil en vez de desechable.",
+    "No respetar el tiempo mínimo de secado del antiséptico antes de la incisión.",
+    "No considerar el empleo de glutaraldehído como desinfectante de la piel."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cuál de los siguientes conjuntos de intervenciones de enfermería refleja la secuencia de prioridades críticas en el manejo inicial de un paciente adulto con Traumatismo Craneoencefálico (TCE) grave, cumpliendo con el protocolo de manejo traumático?:",
+   "o": [
+    "Administración inmediata de Manitol (si no está contraindicado) para disminuir la Presión Intracraneal (PIC), seguida del control de la vía aérea con elevación de la cabecera.",
+    "Asegurar la inmovilización cervical estricta, priorizar la permeabilidad de la vía aérea (con maniobras no invasivas como la tracción mandibular si es necesario), y obtener una valoración neurológica basal con la Escala de Coma de Glasgow (GCS).",
+    "Control de la hemorragia externa con torniquete si fuera necesario, seguido de la administración agresiva de volumen mediante bolos de cristaloides hasta alcanzar una Presión Arterial Sistólica (PAS) de 120 mmHg.",
+    "Colocación de una sonda nasogástrica para prevenir la aspiración, seguido de la monitorización de la temperatura corporal y la administración de oxígeno mediante mascarilla con reservorio."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según las \"ICN Core Competencies in Disaster Nursing\" (International Council of Nurses), ¿cuál de los siguientes conjuntos de estrategias formativas y de gestión es la medida más efectiva que puede implementar el liderazgo de enfermería para fomentar la resiliencia psicológica y operativa del personal asistencial durante y después de la respuesta a un evento crítico o desastre?:",
+   "o": [
+    "Concentrar la capacitación únicamente en los aspectos técnicos y asistenciales (ej. manejo de múltiples víctimas), delegando el soporte emocional a personal externo especializado.",
+    "Proveer programas de entrenamiento que incluyan la gestión emocional, el autocuidado planificado, la promoción de la comunicación abierta y la facilitación de sesiones de debriefing o apoyo mutuo entre compañeros.",
+    "Ignorar la posibilidad de burnout y estrés postraumático, confiando en la experiencia individual del profesional y desaconsejando el diálogo sobre las experiencias traumáticas.",
+    "Establecer un sistema de turnos de trabajo prolongados para asegurar la continuidad asistencial, minimizando los tiempos de descanso y las pausas para la alimentación y el descanso."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según la última Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad, ¿cuál es el orden correcto de prioridad en la evaluación inicial básica (“ABC”) en el paciente extrahospitalario con traumatismo craneoencefálico (TCE)?:",
+   "o": [
+    "(A) Asegurar perímetro→ (B) Valorar estado de consciencia → (C) Coordinar equipo para atención o traslado.",
+    "Vía (A)aérea permeable → Asegurar (B)Ventilación → Tratar alteraciones de la (C) Circulación.",
+    "(A) Asegurar perímetro → Evitar (B) broncoaspiración → (C) Control hemodinámico.",
+    "(A) Airear → (B) Bombear →(C) Cargar."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Un paciente es atendido en el Servicio de Urgencias con una sobredosis grave y potencialmente hepatotóxica por Paracetamol (Acetaminofén). La enfermera debe preparar la administración del antídoto específico. ¿Cuál es el antídoto de elección para esta intoxicación y cuál es la vía de administración preferente en el entorno hospitalario?:",
+   "o": [
+    "Flumazenil, administrado por vía oral (VO).",
+    "Vitamina K, administrada por vía intravenosa (IV).",
+    "Naloxona, administrada exclusivamente por vía intramuscular (IM).",
+    "N-acetilcisteína, administrada por infusión intravenosa (IV)."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad (2014), recoge las recomendaciones generales para el paciente ahogado o con lesiones de buceo, A EXCEPCIÓN DE:",
+   "o": [
+    "Se combatirá la hipotermia: desvestir, secar y protección térmica.",
+    "Se retirará al paciente del agua, teniendo siempre presente que lo prioritario es la seguridad del rescatador.",
+    "Se efectuará adecuada limpieza de la vía aérea. Está indicada si hay obstrucción por algas, arenas, etc.",
+    "Se realizará intubación y ventilación mecánica invasiva tan pronto como se extrae al paciente del agua, para garantizar una ventilación eficaz."
+   ],
+   "a": 3
+  },
+  {
+   "q": "La Guía de la Surviving Sepsis Campaign (2021), recogidas por la Sociedad Española de Medicina Intensiva y Unidades Coronarias (SEMICYUC) y la Sociedad Española de Medicina de Emergencias (SEMES), recoge las recomendaciones para la fase inicial de reanimación en el paciente séptico, así como los signos clínicos de empeoramiento a tener en cuenta dado el riesgo de deterioro inminente, asociado a elevada mortalidad. Señale la opción INCORRECTA:",
+   "o": [
+    "Cifras de Presión Arterial Media (PAM) Invasiva < 65 mmHg.",
+    "Nivel de lactato en sangre ≥ 4 mmol/l.",
+    "Cuadro de PAM < 65 mmHg y nivel de lactato en sangre ≥ 4 mmol/l, de forma combinada.",
+    "Nivel de Saturación de oxígeno venosa mixta (SvO₂) superior a 70 %."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre el uso de Catéteres Centrales de Inserción Periférica (PICC) en el paciente crítico, publicada en 2022 por la Sociedad Española de Medicina Intensiva Crítica y Unidades Coronarias (SEMICYUC), por de la Sociedad Española de Enfermería Intensiva y Unidades Coronarias (SEEIUC), y por la Sociedad Española de Infusión y Acceso Vascular (SEINAV), ¿cuál es la relación máxima recomendable entre el diámetro del catéter (o luz) y el calibre de la vena para minimizar el riesgo de trombosis?:",
+   "o": [
+    "≤ 20 %.",
+    "≤ 45 %.",
+    "≤ 60 %.",
+    "≤ 75 %."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Según las recomendaciones recogidas en el Protocolo de Prevención de las Neumonías Asociadas con la Ventilación Mecánica, en las UCIs españolas (Neumonía Zero) recogidos por el Ministerio de Sanidad y avaladas por la Sociedad Española de Enfermería Intensiva y Unidades Coronarias (SEEIUC) y la Sociedad Española de Medicina Intensiva, Crítica y Unidades Coronarias, SEMICYUC (actualizado en diciembre de 2021), ¿qué medida tiene mayor nivel de evidencia en la prevención de Neumonía Asociada a Ventilación Mecánica (NAVM):",
+   "o": [
+    "Realización de la higiene bucal del paciente sometido a ventilación mecánica, de forma periódica cada 6 - 8 horas utilizando soluciones de clorhexidina al 0,12 - 0,2%.",
+    "Uso profiláctico de antibióticos intravenosos de forma sistemática a todo paciente sometido a ventilación mecánica.",
+    "Cambios de circuito de los sistemas respiratorios de los equipos de ventilación mecánica periódicamente cada 48 horas como máximo.",
+    "Mantener al paciente en posición supina con una inclinación del cabecero no superior a 15 grados sobre el plano horizontal."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según el “Protocolo de inserción y mantenimiento de catéteres vasculares. Bacteriemia Zero, 2.ª edición (2021)”, una de las medidas obligatorias para prevenir bacteriemias relacionadas con catéteres venosos centrales (CVC) es:",
+   "o": [
+    "Colocación guiada por ecografía obligatoria en todos los casos.",
+    "Uso de máxima barrera estéril durante la inserción del catéter.",
+    "Cambio programado del catéter cada 5 días, aunque no haya signos de infección.",
+    "Uso sistemático de antibióticos profilácticos en todos los catéteres."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Dentro de los estándares indicados por la última Guía de Unidades de Cuidados Intensivos (2010), del Ministerio de Sanidad, en el cálculo de las ratios de personal de enfermería se recomienda considerar:",
+   "o": [
+    "Utilizar la metodología TISS (Simplified Therapeutic Intervention Score System), por la que los pacientes de la clase IV requerirán una relación 1:1.",
+    "Utilizar la metodología TISS, por la que los pacientes de clase III relativamente estables pueden ser agrupados con dos de clase II, por ser de bajo riesgo, y pueden ser tratados por una sola enfermera.",
+    "Para una UCI de nivel III se requeriría una auxiliar de enfermería por cada 8 pacientes en turno de día, y 12 en turno de noche.",
+    "La dimensión de la plantilla no se debe ajustar por nivel de dependencia de los pacientes, sino solamente en base al criterio diagnóstico."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según las recomendaciones de la “European Resuscitation Council Guidelines” para paro cardíaco con fibrilación ventricular o taquicardia ventricular sin pulso en adultos, ¿qué intervención enfermera debe realizarse de forma prioritaria tras cada descarga del desfibrilador durante el protocolo de Soporte Vital Cardiovascular Avanzado (ACLS)?:",
+   "o": [
+    "Comprobar inmediatamente el pulso carotídeo.",
+    "Administrar 1 mg de Adrenalina IV.",
+    "Retomar las compresiones torácicas de forma inmediata.",
+    "Ventilar con presión positiva al ritmo de 10 ventilaciones por minuto."
+   ],
+   "a": 2
+  },
+  {
+   "q": "El intervalo de confianza (IC) del 95 % calculado para la media aritmética, indica:",
+   "o": [
+    "Que la media de la población tiene un 95 % de probabilidad de encontrarse dentro de ese rango.",
+    "Que el 95 % de los sujetos se sitúa dentro del intervalo calculado.",
+    "Que, si se repite el estudio muchas veces, en el 95 % de los casos el intervalo incluirá la media poblacional.",
+    "Que existe un 95 % de probabilidad de que la hipótesis nula sea verdadera."
+   ],
+   "a": 2
+  },
+  {
+   "q": "Según el Consenso Español sobre la Terapia Electroconvulsiva ¿cuál de las siguientes afirmaciones sobre la Terapia Electroconvulsiva es correcta?:",
+   "o": [
+    "Está contraindicada en el embarazo por riesgo de malformaciones fetales.",
+    "Puede ser el tratamiento de elección en cuadros psiquiátricos graves como la catatonía, la depresión, el trastorno bipolar y las psicosis.",
+    "Actualmente solo se utiliza la estimulación unilateral.",
+    "El tratamiento agudo consiste en 1 sesión semanal durante 6 semanas."
+   ],
+   "a": 1
+  },
+  {
+   "q": "Considerando los indicadores de función renal estimados a partir de una analítica sanguínea, NO SE DISPONE DE:",
+   "o": [
+    "Concentración de creatinina plasmática.",
+    "Concentración de urea plasmática.",
+    "NGAL (Neutrophil Gelatinase-Associated Lipocalin).",
+    "Tasa de filtrado glomerular estimada."
+   ],
+   "a": 2
+  },
+  {
+   "q": "¿Cómo se denomina la presencia de pezones supernumerarios situados por debajo de la mama?:",
+   "o": [
+    "Mastodinia.",
+    "Telorrea.",
+    "Polimastia.",
+    "Politelia."
+   ],
+   "a": 3
+  },
+  {
+   "q": "En un paciente con insuficiencia renal aguda en hemodiálisis, indica la recomendación dietéticaproteica:",
+   "o": [
+    "0,4 g/Kg/día.",
+    "0,8 g/kg/día.",
+    "1-1,2 g/kg/día.",
+    "2 g/kg/día."
+   ],
+   "a": 2
+  },
+  {
+   "q": "La tasa de mortalidad infantil se calcula como:",
+   "o": [
+    "Número de muertes en menores de 5 años por cada 1.000 nacidos vivos en un año.",
+    "Número de muertes en menores de 1 año por cada 1.000 nacidos vivos en un año.",
+    "Número de muertes en menores de 1 año por cada 100.000 habitantes en un año.",
+    "Número de muertes neonatales precoces por cada 1.000 habitantes en un año."
+   ],
+   "a": 1
+  },
+  {
+   "q": "El modelo de los determinantes de la salud integra una serie de dimensiones clave que son:",
+   "o": [
+    "Biología humana, medio ambiente, hábitos de salud y estilos de vida y la organización de los servicios de salud.",
+    "Determinantes políticos, el entorno social, ambiental y laboral, la integración social, junto con los estilos de vida.",
+    "Determinantes estructurales de las desigualdades de la salud, donde se encuentra el contexto socioeconómico y político, y los determinantes intermedios de la salud.",
+    "Dimensiones individuales y sociales realizadas con el estilo de vida, las influencias comunitarias, las condiciones de vida y de trabajo, y las condiciones sociales que los rodean."
+   ],
+   "a": 0
+  },
+  {
+   "q": "Según se determina en el Protocolo de Vigilancia Sanitaria Específica para los trabajadores expuestos a Dermatosis Laborales, la dermatosis de contacto provocada por la utilización de guantes de látex:",
+   "o": [
+    "Es de estadio II si provoca una urticaria localizada en la zona de contacto.",
+    "Es de estadio II si provoca una urticaria generalizada y asma.",
+    "Es de estadio II si provoca una urticaria generalizada y una reacción anafiláctica.",
+    "Es de estadio II si provoca una urticaria local y generalizada."
+   ],
+   "a": 3
+  },
+  {
+   "q": "Con respecto al Eritema Tóxico del Recién Nacido, ¿cuál de las siguientes opciones es correcta?:",
+   "o": [
+    "Se trata con antisépticos tópicos.",
+    "Se trata con antibióticos tópicos.",
+    "Presenta manifestaciones sistémicas.",
+    "Se trata de una erupción autolimitada benigna."
+   ],
+   "a": 3
+  }
+ ]
+}

@@ -51,7 +51,7 @@ sub: Resumen OPE Enfermería SMS · Kohlberg, Spitz (hospitalismo), Piaget y Eri
 - **Afrontamiento**: **centrado en el problema** (actuar sobre la causa: informarse, planificar), **centrado en la emoción** (regular el malestar cuando la situación **no se puede cambiar**: relajación, reinterpretar; o desadaptativo: negación, fármacos) y **centrado en el significado** (Folkman: dar sentido, valores, espiritualidad).
 - **Selye: síndrome general de adaptación** (respuesta **inespecífica** a cualquier estresor): **alarma** (simpático y **adrenalina**: taquicardia, hipertensión, midriasis) → **resistencia** (eje hipotálamo-hipófisis-suprarrenal: **cortisol**, hiperglucemia) → **agotamiento** (inmunosupresión, úlceras de estrés, fallo).
 - **Maslow (1943)**: **fisiológicas** → **seguridad** → **afiliación** (sociales) → **estima** → **autorrealización**. Primero las básicas: **no se puede educar a un paciente con dolor intenso** (EVA 8): primero analgesia.
-- **Modelo transteórico (Prochaska y DiClemente)**: **precontemplación** (no piensa cambiar en **6 meses**) → **contemplación** (ambivalencia) → **preparación** (decide hacerlo en **30 días**) → **acción** → **mantenimiento** (**> 6 meses**) → **recaída** (parte normal del proceso, sin culpabilizar).
+- **Modelo transteórico (Prochaska y DiClemente)**: **precontemplación** (no piensa cambiar en ==**6 meses**==) → **contemplación** (ambivalencia) → **preparación** (decide hacerlo en ==**30 días**==) → **acción** → **mantenimiento** (==**> 6 meses**==) → **recaída** (parte normal del proceso, sin culpabilizar).
 
 ## 4. Factores socioculturales
 
@@ -82,9 +82,9 @@ sub: Resumen OPE Enfermería SMS · Kohlberg, Spitz (hospitalismo), Piaget y Eri
 !! TOC = egodistónico; personalidad obsesiva = **egosintónica**.
 !! Límite o antisocial: **límites firmes y comunes**.
 !! Lazarus: **primaria** = ¿amenaza?; **secundaria** = ¿recursos?
-!! Selye: **alarma, resistencia, agotamiento**.
+!! ==Selye: **alarma, resistencia, agotamiento**.==
 !! Maslow: primero lo **fisiológico** (el dolor impide aprender).
-!! Precontemplación **6 meses**; preparación **30 días**; mantenimiento **> 6 meses**.
+!! ==Precontemplación **6 meses**; preparación **30 días**; mantenimiento **> 6 meses**.==
 !! Lalonde/Dever: estilo de vida **43%** del efecto y **1,5%** del gasto; sistema sanitario **11%** y **90%**.
 !! Redes familiares y laborales = capa de **redes sociales y comunitarias** (Dahlgren-Whitehead).
 !! Leininger: **preservar, acomodar, reestructurar**.

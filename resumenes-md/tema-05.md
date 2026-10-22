@@ -160,11 +160,11 @@ Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protecc
 
 ## B4. Derechos y deberes (arts. 17-19 EM)
 
-- **Individuales (art. 17)**: estabilidad, retribución, **formación continuada**, **carrera profesional** (progresar sin cambiar de puesto), movilidad y promoción, salud laboral, descanso y conciliación.
+- **Individuales (art. 17)**: estabilidad, retribución, ==**formación continuada**==, **carrera profesional** (progresar sin cambiar de puesto), movilidad y promoción, salud laboral, descanso y conciliación.
 - **Colectivos (art. 18)**: libre sindicación, actividad sindical, **huelga** (con **servicios mínimos**), negociación colectiva y reunión.
 - **Deberes (art. 19)**: respetar la Constitución y el Estatuto, lealtad e imparcialidad, obedecer las instrucciones, colaborar en alarma, excepción o catástrofe, **secreto profesional** (permanente, también tras la muerte del paciente o la jubilación), cumplir horarios y **mantener la formación**.
 
-!! La **formación continuada** es a la vez **derecho** (art. 17) y **deber** (art. 19).
+!! ==La **formación continuada** es a la vez **derecho** (art. 17) y **deber** (art. 19).==
 
 ## B5. Régimen disciplinario (arts. 70-75 EM)
 
@@ -185,6 +185,6 @@ Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protecc
 - **Prescripción (regla 4-2-6)**: faltas y sanciones **muy graves 4 años**, **graves 2 años**, **leves 6 meses**. Las faltas cuentan desde su comisión (las **continuadas**, desde el **último acto**); las sanciones, desde el día siguiente a su firmeza.
 - **Extinción de la responsabilidad (art. 71)**: cumplimiento, **fallecimiento**, prescripción, indulto o amnistía. La **jubilación o renuncia no la extingue**: el expediente continúa.
 
-!! Una falta **grave nunca** puede sancionarse con separación del servicio.
+!! ==Una falta **grave nunca** puede sancionarse con separación del servicio.==
 !! El apercibimiento **verbal no existe**.
 !! Suspensión por falta grave: **máximo 2 años**.

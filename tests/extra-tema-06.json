@@ -1,0 +1,159 @@
+{
+ "tema": 6,
+ "preguntas": [
+  {
+   "q": "Señale la respuesta INCORRECTA en relación con la Cartera de Servicios Comunes al Sistema Nacional de Salud:",
+   "o": [
+    "Las Comunidades Autónomas no podrán incorporar en sus carteras de servicios, una técnica, tecnología o procedimiento no contemplado en la Cartera de Servicios Comunes del Sistema Nacional de Salud.",
+    "Es el conjunto de técnicas, tecnologías o procedimientos, mediante los que se hacen efectivas las prestaciones sanitarias.",
+    "Los servicios contenidos tienen la consideración de básicos y comunes.",
+    "Debe garantizar la atención integral y la continuidad de la asistencia prestada a los usuarios."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, reconoce, entre otros, el derecho de los ciudadanos a:",
+   "o": [
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que resida, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en otra comunidad autónoma.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en esa comunidad autónoma.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que resida, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en el conjunto de la Unión Europea.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías de la comunidad autónoma en la que resida."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con el régimen de funcionamiento del Consejo Interterritorial del Sistema Nacional de Salud:",
+   "o": [
+    "Los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por mayoría simple de sus miembros.",
+    "Los acuerdos del Consejo se plasmarán a través de instrucciones que se aprobarán, en su caso, por consenso.",
+    "Los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por consenso.",
+    "Los acuerdos del Consejo se plasmarán a través de instrucciones que se aprobarán, en su caso, por mayoría simple de sus miembros."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA sobre lo dispuesto en la Orden SSI/81/2017, de 19 de enero, por la que se publica el Acuerdo de la Comisión de Recursos Humanos del Sistema Nacional de Salud, por el que se aprueba el protocolo mediante el que se determinan pautas básicas destinadas a asegurar y proteger el derecho a la intimidad del paciente por los alumnos y residentes en Ciencias de la Salud:",
+   "o": [
+    "Se recomienda que el alumnado en formación realice actividades simuladas en sus propios centros con carácter previo al inicio de las prácticas en el centro sanitario.",
+    "El paciente no puede negarse a que el personal en formación esté presente en el proceso de atención asistencial, siempre que este último haya acreditado su condición de estudiante universitario y que el centro sanitario tenga la característica de hospital universitario.",
+    "Se puede solicitar el consentimiento global del paciente para autorizar la presencia del personal en formación (estudiantes) en las actividades asistenciales que reciba, por un periodo no superior a 15 días.",
+    "El personal en formación suscribirá obligatoriamente, al inicio de su estancia en el centro sanitario donde se esté formando, un compromiso de confidencialidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las pautas de actuación en relación con la presencia de residentes en formación en Ciencias de la Salud en los procesos asistenciales, regulados por la Orden SSI/81/2017, señale la opción INCORRECTA:",
+   "o": [
+    "Los residentes en formación estarán obligados a presentar de forma visible la tarjeta identificativa proporcionada por la dirección del centro.",
+    "Concluido el periodo de formación en el centro, será obligatorio devolver la tarjeta identificativa a los servicios de personal del centro.",
+    "A partir del segundo año de formación, los residentes tendrán acceso directo al paciente de forma progresiva y según las indicaciones de su tutor.",
+    "Salvo supuestos especiales consentidos por el paciente y para preservar su intimidad, durante los actos clínicos que se realicen en presencia del mismo no deberán estar presentes más de dos residentes por paciente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias, ¿qué principio fundamental rige la formación de los profesionales sanitarios?:",
+   "o": [
+    "La formación inicial garantiza los conocimientos necesarios para ejercer de forma continuada en el tiempo.",
+    "La formación continuada es un deber y un derecho de todos los profesionales sanitarios.",
+    "La formación continuada es un deber solo de los especialistas y master.",
+    "La formación sanitaria depende de los profesionales de los centros asistenciales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta el Real Decreto 1146/2006, de 6 de octubre, por el que se regula la relación laboral especial de residencia para la formación de especialistas en Ciencias de la Salud, en el contrato de trabajo por el que se formalice la relación laboral especial de residencia:",
+   "o": [
+    "Se establecerá un periodo de prueba de un mes.",
+    "Se establecerá un periodo de prueba de seis meses.",
+    "Se establecerá un periodo de prueba menor de tres meses.",
+    "No podrá establecerse periodo de prueba."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 576/2023, de 4 de julio, por el que se modifica el Real Decreto 99/2011, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado, señale la respuesta correcta:",
+   "o": [
+    "La duración de los estudios de doctorado será de un máximo de tres años a tiempo completo, o una duración máxima de seis años a tiempo parcial, a contar desde la fecha de matrícula en el programa hasta la fecha del depósito de la tesis doctoral.",
+    "Podrán acceder quienes estén en posesión de títulos universitarios oficiales españoles o títulos españoles equivalentes siempre que se hayan superado, al menos, 240 ECTS en el conjunto de estas enseñanzas y acreditar un nivel 3 del Marco Español de Cualificaciones para la Educación Superior.",
+    "Podrán acceder los titulados universitarios que, previa obtención de plaza en formación en la correspondiente prueba de acceso a plazas de formación sanitaria especializada, hayan superado con evaluación positiva al menos un año de formación de un programa para la obtención del título oficial de alguna de las especialidades en Ciencias de la Salud.",
+    "Podrán acceder quienes estén en posesión de otro título de Doctora o Doctor."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con el Artículo 15 del Real Decreto 183/2008, de 8 de febrero, por el que se determinan y clasifican las especialidades en Ciencias de la Salud y se desarrollan determinados aspectos del sistema de formación sanitaria especializada, en el que se exponen aspectos referentes a la responsabilidad progresiva del residente:",
+   "o": [
+    "La supervisión de residentes de primer año será de presencia física.",
+    "No es necesaria la presencia física durante la residencia, pero su trabajo debe revisarse por profesionales que presten servicios en los distintos dispositivos del centro o unidad por los que el residente esté rotando o prestando servicios de atención continuada.",
+    "La supervisión dependerá de las destrezas y experiencia previa del residente, independientemente del año formativo.",
+    "El grado de supervisión dependerá de la valoración que haga el Tutor, independientemente del año formativo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la duración del mandato de los vocales en representación de los especialistas en formación que componen cada Comisión Nacional de una Especialidad en Ciencias de la Salud?:",
+   "o": [
+    "Dos años.",
+    "Cuatro años.",
+    "Cuatro años, con posibilidad de ser designados nuevamente para otro periodo de igual duración.",
+    "Ocho años."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La Resolución de 20 de octubre de 2020, de la Dirección General de Salud Pública, por la que se valida la “Guía para la indicación, uso y autorización de la dispensación de medicamentos sujetos a prescripción médica por parte de los enfermeros de: Heridas”:",
+   "o": [
+    "Define los medicamentos sujetos a prescripción médica, que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación en determinadas situaciones y de forma protocolizada.",
+    "Recoge aquellos medicamentos sujetos a prescripción médica que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación de forma protocolizada, sin otorgar capacidad para modificar la pauta, prorrogar o suspender el tratamiento sin autorización médica previa.",
+    "Se adapta a la evidencia científica disponible en la actualidad y debe ser revisada cada dos años por un comité de expertos del Ministerio de Sanidad, aunque en ese período pueden incorporarse y autorizarse nuevos medicamentos.",
+    "Permite a las Comunidades Autónomas desarrollar, a partir de los contenidos establecidos en la citada guía, sus propios protocolos y/o guías de práctica clínica o asistencial específicas aumentando si así se dispone, las competencias de los enfermeros/as recogidas en el RD en esta materia en el ámbito exclusivo de la C. Autónoma donde el enfermero haya obtenido la acreditación para esta competencia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El Real Decreto 954/2015, de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros (modificado por el Real Decreto 1302/2018, de 22 de octubre) establece que (marque la opción CORRECTA):",
+   "o": [
+    "Para el uso de determinados medicamentos de especial complejidad, y de manera excepcional, se podrá exigir que los enfermeros o enfermeras complementen su formación.",
+    "Los enfermeros y enfermeras procedentes de otros estados miembros de la Unión Europea que posean titulación de enfermería tendrán automáticamente reconocida la acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano en nuestro país.",
+    "La administración de las vacunas contempladas en el calendario vacunal y aquellas tributarias de campañas de salud que se determinen por las autoridades sanitarias, no precisarán de la orden de dispensación.",
+    "Para disponer de la acreditación para indicar, autorizar o dispensar medicamentos y productos sanitarios de uso humano, será necesario estar colegiado/a o contratar, en su defecto, un seguro privado de responsabilidad civil de validez en todo el territorio nacional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La enfermera o enfermero responsable de cuidados generales podrá ser titular de una acreditación emitida por el órgano competente de la comunidad autónoma para poder indicar, utilizar o autorizar medicamentos o productos sanitarios de uso humano si (marque la opción correcta):",
+   "o": [
+    "Está en posesión del título de Graduado en Enfermería, de Diplomado en Enfermería, o de Ayudante Técnico Sanitario, o equivalente, y acredita una experiencia profesional mínima de 6 meses en centros asistenciales especializados (Hospitales de cualquier nivel) y/o de un año en centros de Atención Primaria.",
+    "Los Diplomados en Enfermería, o los Ayudantes Técnicos Santuarios, deberán en todos los casos realizar un curso de adaptación adecuado para acreditar las mismas competencias que los que poseen el título de Graduado/a. 21 LEGISLACIÓN Y ÉTICA",
+    "Los enfermeros/as en posesión del título de Graduado en Enfermería no necesitan requisitos adicionales para la obtención de la acreditación.",
+    "Excepcionalmente, las enfermeras y enfermeros que no posean el título de Graduado en Enfermería, de Diplomado en Enfermería o de Ayudante Técnico Sanitario y que hayan desarrollado funciones de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, podrán acceder igualmente a la acreditación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Son objetivos previstos en el Plan del Gobierno Español para la protección de la Salud frente a las pseudoterapias y Prestaciones del Sistema Nacional de Salud:",
+   "o": [
+    "Autorizar el uso de pseudoterapias única y exclusivamente en aquellos casos cuyo titular de la acción sea un profesional sanitario con el título de Grado o equivalente y esté debidamente acreditado para ejercer una profesión sanitaria y bajo su propia responsabilidad.",
+    "Autorizar la realización de pseudoterapias única y exclusivamente en aquellos centros que cuenten con la acreditación oficial de centro sanitario reconocido.",
+    "Desarrollar alianzas con la Conferencia de Decanos, los/las rectores/as, las CCAA, la comunidad universitaria y los colegios profesionales para garantizar que las pseudoterapias analizar las pseudoterapias bajo los principios del conocimiento y la evidencia científica a través de la Red Española de Agencias de Evaluación de Tecnologías.",
+    "Se lleven a cabo única y exclusivamente por los profesionales autorizados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

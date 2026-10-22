@@ -84,10 +84,10 @@ sub: Resumen OPE Enfermería SMS · Examen del estado mental, NANDA en salud men
 !! Ilusión = estímulo real deformado; alucinación = **sin estímulo**.
 !! Nivel de ansiedad (1211) es **NOC**; Ansiedad (00146) es **NANDA**.
 !! Contención: **último recurso**, **decúbito supino**, cabecera elevada, 4-5 personas, el líder **sujeta la cabeza**.
-!! Litio **0,6-1,2**; tóxico **> 1,5**; **nunca dieta sin sal** ni deshidratación.
+!! ==Litio **0,6-1,2**; tóxico **> 1,5**; **nunca dieta sin sal** ni deshidratación.==
 !! IMAO: **nada de tiramina** (quesos curados, embutidos, vino tinto).
-!! Distonía aguda por haloperidol → **biperideno**.
-!! **Intento previo** = mejor predictor de suicidio; SAD PERSONS **≥ 5** → ingreso recomendado.
+!! ==Distonía aguda por haloperidol → **biperideno**.==
+!! ==**Intento previo** = mejor predictor de suicidio; SAD PERSONS **≥ 5** → ingreso recomendado.==
 !! Apgar familiar: **5 preguntas**, satisfacción con la familia.
 !! Zarit: **0-88** (ítems de 0 a 4).
 !! CIWA-Ar **no mide constantes vitales**.

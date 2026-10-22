@@ -1,0 +1,302 @@
+{
+ "tema": 3,
+ "preguntas": [
+  {
+   "q": "Un paciente de 17 años de edad, emancipado, cuya capacidad no ha sido modificada judicialmente, y que es plenamente capaz de tomar decisiones según criterio del médico responsable de su asistencia:",
+   "o": [
+    "Es plenamente autónomo para prestar el consentimiento.",
+    "El consentimiento lo podrían prestar sus progenitores, una vez oída y tenida en cuenta la opinión de este.",
+    "El consentimiento lo prestará el representante legal del menor, una vez oída y tenida en cuenta la opinión de este, cuando se trate de una actuación de grave riesgo para la vida o salud del menor, según el criterio del facultativo.",
+    "El consentimiento lo prestarán las personas vinculadas a él por razones familiares o, de hecho."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con los derechos y deberes sobre la custodia, protección o cesión de datos en una relación asistencial:",
+   "o": [
+    "Los usuarios y pacientes del sistema de salud tienen la obligación de facilitar los datos necesarios sobre su estado de salud de una forma leal, conforme a veracidad y colaborar en su obtención, especialmente en los casos que por razones de asistencia sanitaria o de interés público sean necesarios.",
+    "El titular de la información de salud es el paciente o usuario del sistema de salud. En caso de incapacidad, el titular de la información serán los familiares vinculados al paciente por razones de parentesco o su representante legal, no siendo necesario dar información a la paciente adaptada a su comprensión ni obtener su permiso explícito o tácito.",
+    "Los datos de carácter personal tienen la característica legal de poder ser utilizados para una finalidad diferente o no compatible con la finalidad con la que fueron recogidos sin obtener legalmente el consentimiento de la persona afectada siempre que no se vulnere el deber de confidencialidad de los mismos.",
+    "El consentimiento informado es imprescindible para cualquier intervención en materia de salud, siendo especialmente necesario en caso de riesgo grave para la integridad física o psíquica del paciente o en caso de existencia de riesgo para la salud pública."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, defiende y garantiza con sus principios y su articulado la siguiente premisa:",
+   "o": [
+    "La facultad del paciente o usuario de optar libre y voluntariamente entre dos o más alternativas terapéuticas y de tratamiento asistencial, entre varios facultativos o entre centros asistenciales de manera legítima fuera de los términos y condiciones que establezcan los servicios de salud competentes y contando con el beneplácito de su médico responsable.",
+    "El derecho del paciente a ser informado con motivo de cualquier actuación en el ámbito de su salud de toda la información disponible sobre la misma sin ninguna excepción estipulada por la ley, respetando también su derecho a no ser informado.",
+    "El titular del derecho a la información es el paciente y podrán ser también informadas las personas vinculadas a él por motivos familiares o de hecho en la medida que el paciente lo permita de forma expresa o tácita. Sin embargo, este derecho a la información puede limitarse en caso de estado de necesidad terapéutica debidamente acreditado.",
+    "El derecho a la información de la persona sobre cuestiones que atañen a su propia salud no se aplica en el caso de existir problemas sanitarios en la colectividad que impliquen un riesgo para la salud pública o para la salud individual."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con el deber ético de velar para que en el proceso final de la vida se respete la dignidad de la persona y sus deseos legítimos en el acto sanitario:",
+   "o": [
+    "En el caso de que el paciente haya realizado un Documento de Instrucciones Previas, Testamento Vital o Voluntades Anticipadas, lo indicado en dicho documento debe primar en todo acto derivado de la relación asistencial salvo en los casos en los cuales se proporcionen tratamientos y alternativas terapéuticas que alarguen la vida de los pacientes.",
+    "Los cuidados al final de la vida adecuan las acciones y tratamientos al objetivo principal de aliviar el sufrimiento del paciente y conseguir la máxima confortabilidad, respetando sus derechos legítimos, representando el máximo exponente del principio bioético de autonomía decisoria.",
+    "La persona que se encuentra en el proceso final de la vida tiene derecho a recibir información clínica de forma comprensible y adecuada y, dada la trascendencia de dicha información, no existe en este caso la posibilidad de rechazo a la información por parte del paciente.",
+    "La persona que se encuentre en el proceso final de la vida tiene en todo momento el derecho a recibir información adecuada a sus deseos y comprensión del lenguaje, adaptada a su situación actual. Su deseo de rechazo a la retirada de un tratamiento solo se podrá realizar según la ley si coincide con el criterio clínico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando hablamos de la administración de fármacos, en las dosis y combinaciones mínimas necesarias para reducir la consciencia del paciente con enfermedad avanzada o en fase terminal, con el fin de aliviar los síntomas refractarios, nos estamos refiriendo a:",
+   "o": [
+    "Sedación paliativa.",
+    "Sedación en la agonía.",
+    "Eutanasia.",
+    "Sedación terminal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la fase de entrevista a familiares y obtención del consentimiento, recogida por la Organización Nacional de Trasplantes para la solicitud de donación de órganos, indique la opción INCORRECTA:",
+   "o": [
+    "En caso de negativa familiar, el coordinador o el profesional que haya realizado la entrevista debe plantearse si es una decisión definitiva e irrevocable o existe la posibilidad de que la familia cambie de opinión.",
+    "Se debe evitar informar a la familia sobre el desarrollo del proceso de obtención de órganos y posterior restauración del cadáver.",
+    "En el caso del posible donante en asistolia controlada, si se tratase de un paciente que está consciente y que sea competente para tomar la decisión libre y voluntariamente, será él quien otorgue el consentimiento.",
+    "Se informará de que el consentimiento para la extracción de órganos incluye la necesidad de injertos vasculares para su implante en el receptor."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se entiende como sedación paliativa?:",
+   "o": [
+    "El suicidio asistido al paciente con necesidades paliativas destinado a provocar la muerte de una persona que tiene una enfermedad grave e irreversible por razones compasivas en un contexto médico. 29 LEGISLACIÓN Y ÉTICA",
+    "Intervención deliberada para poner fin a la vida de un paciente con enfermedad grave y avanzada y que se encuentre en un programa de Cuidados Paliativos.",
+    "Muerte de un paciente en el entorno de Cuidados Paliativos, sin sufrimiento físico, dirigida por un médico.",
+    "La administración deliberada de fármacos, para reducir la consciencia de un paciente con una enfermedad avanzada o en fase terminal para aliviar síntomas refractarios y con consentimiento explícito."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en referencia a la Ley 14/2007, de 4 de julio, de Investigación Biomédica:",
+   "o": [
+    "El investigador principal tiene la potestad de dirigir y asumir riesgos en investigación biomédica si ésta presenta la suficiente importancia y trascendencia para el avance en el campo sanitario basada en la premisa de la ley de investigación biomédica que garantiza la libertad de investigación y de producción científica.",
+    "Si la investigación biomédica tiene la necesaria trascendencia e importancia clínica se procederá a retrasar o privar a los participantes de los procedimientos médicos, diagnósticos o terapéuticos que sean necesarios para su estado de salud previo consentimiento del sujeto sometido a investigación.",
+    "La información proporcionada a los sujetos en investigación debe ser proporcionada por escrito y comprenderá la naturaleza, importancia, implicaciones y riesgos de la investigación no pudiéndose otorgar el consentimiento por representación cuando la persona esté incapacitada legalmente o sea menor de edad.",
+    "La persona sujeta a investigación tiene derecho a ser informada de sus datos genéticos y cualquier otro de carácter personal que se obtengan en la investigación según los términos en que manifestó su voluntad, pudiéndose ceder dichos datos a terceros ajenos a la actuación médico-asistencial o a la investigación biomédica previo consentimiento expreso y por escrito del sujeto participante en la investigación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Si en la fase de evaluación del Proceso de Atención de Enfermería (PAE) observamos que el paciente ha empeorado y no hemos logrado identificar las causas que han provocado dicho empeoramiento, ¿qué haría?:",
+   "o": [
+    "Continuar con el plan de cuidados establecido.",
+    "Modificar el plan de cuidados.",
+    "Modificar el diagnóstico enfermero o problema de colaboración.",
+    "Dar por solucionado el diagnóstico enfermero o problema de colaboración."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de pensamiento crítico de los cuatro círculos de R. Alfaro-LeFevre ofrece un marco general sobre lo que significa pensar con sentido crítico. ¿Cuál de las siguientes opciones NO está incluida dentro de ese modelo?:",
+   "o": [
+    "Desarrollar habilidades interculturales.",
+    "Desarrollar características y conductas.",
+    "Adquirir conocimiento teórico y práctico.",
+    "Ampliar habilidades técnicas prácticas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "A qué tipo de Diagnóstico Enfermero de la NANDA 2018-2020 corresponde un juicio clínico sobre la susceptibilidad de un individuo, familia, grupo o comunidad para desarrollar una respuesta humana indeseable a condiciones de salud/procesos de vida:",
+   "o": [
+    "Diagnóstico enfermero.",
+    "Diagnóstico enfermero de promoción de la salud.",
+    "Diagnóstico enfermero enfocado en el problema.",
+    "Diagnóstico enfermero de riesgo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué dominio de NANDA se clasifica la etiqueta diagnóstica “Disminución de la capacidad para bañarse”?:",
+   "o": [
+    "Promoción de la salud.",
+    "Eliminación e intercambio.",
+    "Afrontamiento-tolerancia al estrés.",
+    "Actividad-reposo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La taxonomía NANDA describe el diagnóstico [00400] Ansiedad excesiva como \"Preocupación desproporcionada y persistente por situaciones y acontecimientos percibidos como amenazantes\". ¿Cuál de las siguientes sería, según esta fuente, una característica definitoria de esta etiqueta diagnóstica?:",
+   "o": [
+    "Extremidades calientes.",
+    "Ampliación del campo perceptivo.",
+    "Palidez facial.",
+    "Dilatación pupilar."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Paciente de 49 años con diversas fracturas costales tras sufrir un accidente de tráfico. Refiere tener mucho dolor (EVA 10). Al realizar la valoración enfermera, en la necesidad de respirar normalmente, presenta: disnea, uso excesivo de los músculos accesorios para respirar, falta de aliento y aleteo nasal. ¿A qué etiqueta diagnóstica, según NANDA (North American Nursing Diagnosis Association), conduce esta valoración?:",
+   "o": [
+    "Patrón respiratorio ineficaz.",
+    "Deterioro del intercambio de gases.",
+    "Limpieza ineficaz de las vías aéreas.",
+    "Deterioro de la ventilación espontánea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la taxonomía de los diagnósticos enfermeros NANDA 2024-2026, indique la respuesta correcta:",
+   "o": [
+    "El dominio 11 hace referencia a confort.",
+    "Dentro del dominio 5: percepción/conocimiento, se encuentra la clase 3: imagen corporal.",
+    "La promoción de la salud no se corresponde con ningún dominio.",
+    "Dentro del dominio 4: actividad/reposo, se encuentra la clase 5: autocuidado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la clasificación de diagnósticos NANDA, el patrón de reacciones rápidas, no planeadas, ante estímulos internos o externos y sin tener en cuenta las consecuencias negativas de estas reacciones para la persona o para los demás, se corresponde con el diagnóstico:",
+   "o": [
+    "Negación ineficaz.",
+    "Control de impulsos ineficaz.",
+    "Confusión aguda.",
+    "Control emocional inestable."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación a los diagnósticos enfermeros taxonomía NANDA 2021-2023:",
+   "o": [
+    "El diagnóstico hipotermia neonatal ha sido retirado.",
+    "Uno de los nuevos diagnósticos es duelo inadaptado.",
+    "El diagnóstico de incontinencia urinaria asociada a discapacidad ha sido modificado por incontinencia urinaria funcional.",
+    "El diagnóstico autogestión ineficaz de la salud familiar ha sido retirado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la clasificación de diagnósticos de enfermería NANDA 2021-2023, la incapacidad para mantener una percepción completa e integrada del “yo” se corresponde con:",
+   "o": [
+    "Riesgo de baja autoestima situacional.",
+    "Negación ineficaz.",
+    "Deterioro de la resiliencia personal.",
+    "Trastorno de la identidad personal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifique la respuesta correcta sobre el modelo Análisis del Resultado del Estado Actual (AREA):",
+   "o": [
+    "Proporciona una estructura que vincula los diagnósticos, intervenciones y resultados NANDA-I, NIC y NOC.",
+    "Fue desarrollado por Marion Johnson y Meridean Maas.",
+    "Supone una clasificación estandarizada y exhaustiva de los resultados del paciente.",
+    "La investigación destinada a su desarrollo comenzó en 1987."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las siguientes respuestas NO corresponde con las características de un Diagnóstico Enfermero:",
+   "o": [
+    "Dirige las actividades enfermeras para obtener resultados y proporciona información sobre la patología del paciente.",
+    "Se encarga de las respuestas humanas reales o potenciales a los problemas de salud y procesos vitales.",
+    "Proporciona una comprensión más holística sobre el impacto de la enfermedad sobre el paciente y su familia.",
+    "Aporta un lenguaje estandarizado para el uso en la Historia Clínica Electrónica (HCE)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Paciente de 50 años, refiere ser alérgico a un medicamento, ya que en una cirugía previa tuvo una reacción anafiláctica, pero no recuerda el nombre de dicha medicación. ¿En qué patrón funcional de Marjory Gordon incluirías esta información?:",
+   "o": [
+    "Percepción-manejo de la salud.",
+    "Autopercepción-autoconcepto.",
+    "Cognitivo-perceptual.",
+    "Evitar peligros ambientales y evitar lesiones a otras personas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la valoración de enfermería según los patrones funcionales de M. Gordon, ¿cuál de los siguientes aspectos NO se registraría dentro del patrón autopercepción-autoconcepto?:",
+   "o": [
+    "Ánimo expansivo.",
+    "Expresión sobre su imagen corporal.",
+    "Reconocimiento de datos personales (edad, nivel de estudios, fecha de nacimiento).",
+    "Anhedonia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con los patrones funcionales es cierto que:",
+   "o": [
+    "Uno de los patrones incluidos es sueñodescanso.",
+    "El patrón nutricional-metabólico pretende conocer el hábito defecatorio y/o urinario de la persona.",
+    "Se centra en 14 patrones funcionales.",
+    "Una de las necesidades incluidas en el modelo es moverse y mantener una buena postura."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la Clasificación de Resultados de Enfermería (NOC), la clase: crecimiento y desarrollo que tiene relación con los resultados que describen la maduración física, emocional y social de una persona, ¿a qué dominio pertenece?: 185 ENFERMERÍA FUNDAMENTAL",
+   "o": [
+    "Salud funcional.",
+    "Salud psicosocial.",
+    "Salud fisiológica.",
+    "Salud percibida."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones se considera un componente normalizado en la taxonomía NIC?:",
+   "o": [
+    "Definición.",
+    "Actividad.",
+    "Código.",
+    "Referencias bibliográficas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las Intervenciones de Enfermería para Facilitar el Duelo (NIC 5290) se encuentra:",
+   "o": [
+    "Reconducir las preguntas de los niños sobre la muerte para evitar incidir en la pérdida y minimizar el impacto emocional.",
+    "Retirar de la vista de la persona doliente fotos o recuerdos de la persona fallecida.",
+    "Utilizar palabras claras como “muerte” o “muerto” en lugar de eufemismos.",
+    ".Evitar la discusión reiterada de experiencias de pérdidas anteriores."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A.C.L. es un niño de 9 años que ingresó en la Unidad de Pediatría diagnosticado con su debut diabético sin cetosis asociada. En la realización del plan de cuidados de enfermería se le atribuye el diagnostico NANDA “Riesgo de nivel de glucemia inestable (00179)”. ¿Cuál de las siguientes opciones NO se trata de una actividad de enfermería asociada a este diagnóstico?:",
+   "o": [
+    "Enseñar al paciente y familia los signos y los síntomas, factores de riesgo y tratamiento de la hipoglucemia.",
+    "Fomentar el autocontrol de los niveles de glucosa en sangre siempre bajo la estricta supervisión de padre o adultos.",
+    "Enseñar al paciente a llevar un diario de comidas.",
+    "Conducta de mantenimiento del peso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

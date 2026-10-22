@@ -71,12 +71,12 @@ sub: Resumen OPE Enfermería SMS · Profesiones sanitarias, ejercicio profesiona
 
 | Órgano | Claves |
 |---|---|
-| **Comisión de Docencia** (art. 27; RD 183/2008) | Preside el **Jefe de Estudios** (voto de calidad); vocales tutores y residentes (elegidos por **voto directo y secreto**); secretario administrativo **sin voto**. Quórum: mitad más uno; acuerdos por **mayoría simple**. Planifica, autoriza rotaciones, certifica evaluaciones e informa en expedientes disciplinarios |
+| **Comisión de Docencia** (art. 27; RD 183/2008) | Preside el ==**Jefe de Estudios**== (voto de calidad); vocales tutores y residentes (elegidos por **voto directo y secreto**); secretario administrativo **sin voto**. Quórum: mitad más uno; acuerdos por **mayoría simple**. Planifica, autoriza rotaciones, certifica evaluaciones e informa en expedientes disciplinarios |
 | **Tutor** | Especialista de plantilla **acreditado** (el tutor "accidental" no existe). Derecho a tiempo protegido, formación y sustitución inmediata |
 | **Comisiones Nacionales de Especialidad** (art. 28) | Una por especialidad: elaboran el **programa formativo**, los criterios de evaluación, auditan unidades docentes y proponen ACE |
 | **Consejo Nacional de Especialidades** (art. 30) | Reúne a los presidentes de las Comisiones Nacionales; asesora a los Ministerios |
 
-!! La Comisión de Docencia la preside el **Jefe de Estudios**, nunca el Gerente ni la Dirección de Enfermería.
+!! ==La Comisión de Docencia la preside el **Jefe de Estudios**, nunca el Gerente ni la Dirección de Enfermería.==
 !! El programa formativo lo redacta la **Comisión Nacional** de la especialidad; el hospital lo aplica.
 
 ## 6. Formación continuada (arts. 33-36)

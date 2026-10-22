@@ -1,0 +1,885 @@
+{
+ "id": "eir-14",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 14,
+ "titulo": "EIR · Enfermería pediátrica",
+ "explicadas": false,
+ "descripcion": "79 preguntas de los exámenes EIR de 2018 a 2025 sobre enfermería pediátrica, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "De entre las siguientes respuestas, ¿cuál NO es una estructura cardiovascular exclusiva de la circulación fetal?:",
+   "o": [
+    "Conducto venoso.",
+    "Coartación de aorta.",
+    "Agujero oval.",
+    "Conducto arterioso."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA en cuanto a los mecanismos de adaptación del recién nacido a la vida extrauterina:",
+   "o": [
+    "La adaptación se caracteriza por el inicio de una respiración vigorosa gracias a varios estímulos como son el pinzamiento de cordón y la estimulación térmica y táctil.",
+    "En su adaptación respiratoria, se produce una reabsorción del líquido pulmonar con disminución del surfactante pulmonar.",
+    "Al nacer, las resistencias vasculares pulmonares disminuyen rápidamente.",
+    "Los intercambios térmicos entre el recién nacido y el ambiente se realizan de cuatro formas: conducción, convección, radiación y evaporación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En pediatría, en referencia al término de “saturación de oxígeno arterial preductal” medida por pulsioximetría, indique la respuesta correcta:",
+   "o": [
+    "Se trata de la saturación de oxígeno arterial medida en el miembro inferior derecho.",
+    "La medición de la saturación de oxígeno preductal en el recién nacido nos da información sobre la hipercapnia en el momento del parto.",
+    "En el paciente pediátrico, la medición mediante pulsioximetría de la saturación de oxígeno arterial preductal no tiene indicación. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 316",
+    "La interpretación de la medición de saturación arterial preductal con respecto a la saturación postductal, proporciona indicios importantes acerca de la causa de la hipoxemia en el recién nacido."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes enfermedades no está incluida en el Programa de cribado neonatal de enfermedades endocrino-metabólicas de la cartera común de servicios del Sistema Nacional de Salud?:",
+   "o": [
+    "Hipotiroidismo congénito.",
+    "Autismo.",
+    "Fenilcetonuria.",
+    "Anemia falciforme."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al Eritema Tóxico del Recién Nacido, ¿cuál de las siguientes opciones es correcta?:",
+   "o": [
+    "Se trata con antisépticos tópicos.",
+    "Se trata con antibióticos tópicos.",
+    "Presenta manifestaciones sistémicas.",
+    "Se trata de una erupción autolimitada benigna."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. ¿Cómo se denomina la anomalía pediátrica de partes blandas identificada en la imagen?:",
+   "o": [
+    "Diastema.",
+    "Anquiloglosia.",
+    "Fibromatosis gingival.",
+    "Ránula."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2024-2025-7.jpg"
+  },
+  {
+   "q": "Durante el examen físico en una revisión de un lactante en consulta de Atención Primaria, encontramos uno de los testículos en localización suprapúbica sin posibilidad de descenso a su posición escrotal. ¿Cómo definiría este trastorno?:",
+   "o": [
+    "Testículo ectópico.",
+    "Testículo no descendido.",
+    "Testículo retráctil.",
+    "Testículo evanescente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las recomendaciones para realizar el contacto piel con piel precoz tras el parto, se encuentran todas EXCEPTO:",
+   "o": [
+    "Se recomienda secar cabeza y espalda, pero no las manos.",
+    "Se recomienda ponerle un gorro y cubrirle con una manta precalentada.",
+    "Se recomienda que el bebé esté en decúbito prono sobre el abdomen materno, con la cabeza ladeada.",
+    "Se recomienda que tenga una duración máxima de 60 minutos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el pinzamiento tardío del cordón umbilical en los recién nacidos, la nueva actualización de las Recomendaciones de Estabilización y Reanimación Neonatal de la Sociedad Española de Neonatología establece que:",
+   "o": [
+    "El pinzamiento tardío del cordón (al menos un minuto) debe ser la estrategia de elección en recién nacidos a término (RNT) y prematuros (RNPT) de cualquier edad gestacional, nacidos por vía vaginal o cesárea, que no requieran reanimación inmediata.",
+    "En neonatos que requieren reanimación se debe priorizar el pinzamiento tardío antes que el inicio de la ventilación con presión positiva (VPP).",
+    "El pinzamiento tardío del cordón (al menos un minuto) debe ser la estrategia de elección en recién nacidos a término (RNT) y prematuros (RNPT) de cualquier edad gestacional, solamente en los nacidos por vía vaginal.",
+    "El ordeño del cordón umbilical desde la placenta hacia neonato con el cordón íntegro (milking) es muy superior al pinzamiento tardío, en términos de beneficios para el neonato."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. Indique la opción correcta con respecto a la técnica mostrada:",
+   "o": [
+    "Generalmente visualizaremos dos vasos venosos y uno arterial. 319 ENFERMERÍA PEDIÁTRICA",
+    "La canalización arterial permite la administración de medicamentos y hemoderivados.",
+    "No se recomienda esta canalización tras las primeras 24 horas de vida.",
+    "La canalización de la vena umbilical es la vía de elección en la reanimación neonatal en sala de partos."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2022-2023-1.jpg"
+  },
+  {
+   "q": "Ante una puntuación 7 en el test de Apgar al minuto de vida de un recién nacido, cabe esperar:",
+   "o": [
+    "Frecuencia cardiaca > 100, respiración regular, coloración sonrosada, llanto vigoroso y movimiento activo.",
+    "Frecuencia cardiaca < 100, respiración débil, cianosis distal, muecas como respuesta a estímulos y flacidez.",
+    "Frecuencia cardiaca > 100, respiración regular, cianosis distal, sin respuesta a estímulos y extremidades con flexión moderada.",
+    "Frecuencia cardíaca > 100, respiración regular, sonrosado, sin respuesta a estímulos y flexión moderada de las extremidades."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Indique la respuesta INCORRECTA con relación al reflejo primitivo de la imagen:",
+   "o": [
+    "Se trata del reflejo cervical tónico asimétrico.",
+    "Se explora con el paciente en supino y girando la cabeza hacia un lado.",
+    "Se denomina reflejo o respuesta del esgrimista.",
+    "Está presente desde el nacimiento."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2020-2021-7.jpg"
+  },
+  {
+   "q": "¿A qué se refiere el término “minuto de oro” en la reanimación neonatal en sala de partos?:",
+   "o": [
+    "Comprende el primer minuto de aplicación de maniobras de masaje cardiaco y ventilación asistida.",
+    "Se trata del tiempo recomendado de espera en el pinzamiento tardío de cordón umbilical.",
+    "Es el tiempo mínimo de empleo en la organización y la distribución de roles previo a la reanimación.",
+    "Periodo que comprende las medidas de estabilización y evaluación inicial con inicio de ventilación y monitorización."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Al defecto congénito de la pared abdominal, habitualmente localizado a la derecha del cordón umbilical, con exposición del intestino y sin membrana de recubrimiento se le denomina:",
+   "o": [
+    "Gastrosquisis.",
+    "Onfalitis.",
+    "Onfalocele.",
+    "Hernia umbilical."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina la inflamación o infección del glande en el paciente pediátrico manifestada por clínica de eritema, edema y dolor del pene?:",
+   "o": [
+    "Balanitis.",
+    "Parafimosis.",
+    "Glanditis.",
+    "Priapismo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Dónde se recomienda colocar el pulsioxímetro en un recién nacido durante las maniobras de estabilización /reanimación?:",
+   "o": [
+    "Extremidad superior derecha.",
+    "Extremidad superior izquierda.",
+    "Extremidad inferior izquierda.",
+    "Lóbulo oreja izquierda."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con relación a la alergia a proteína de leche de vaca (APLV) en el niño:",
+   "o": [
+    "La APLV mediada por Inmunoglobulina E produce reacciones alérgicas inmediatas.",
+    "La leche de vaca es uno de los alimentos menos frecuentes en producir reacciones anafilácticas fatales. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 322",
+    "La mayoría de los niños con APLV no adquieren tolerancia espontánea a la PLV.",
+    "En la dieta de eliminación indicada ante una APLV, se recomienda sustituir la leche de vaca por leche de otros bóvidos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale de las siguientes, cuál es el método clínico estandarizado para evaluar el grado de anquiloglosia y su impacto en la lactancia materna:",
+   "o": [
+    "Herramienta de Hazelbaker.",
+    "Escala de evaluación de la lactancia materna LATCH.",
+    "Test de Clements.",
+    "Escala de Bayley."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la prueba \"gold standard\" de confirmación en el diagnóstico de la alergia no mediada por inmunoglobulina E, a las proteínas de la leche de vaca en un lactante?:",
+   "o": [
+    "Anamnesis (semiología típica).",
+    "Prick Test.",
+    "Determinación IgE específica.",
+    "Prueba de provocación oral."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las recomendaciones higiénicodietéticas que indicaremos a un paciente en edad infantil diagnosticado de síndrome de Kostmann encontramos:",
+   "o": [
+    "Evitar grasas saturadas.",
+    "No exposición directa al sol.",
+    "Ingesta moderada de líquidos.",
+    "Limpieza e higiene minuciosa de la cavidad oral."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. ¿Cuál es la posición de lactancia que se muestra?:",
+   "o": [
+    "Balón de Rugby.",
+    "Acunado clásico.",
+    "Sentada o caballito.",
+    "Reclinada."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2021-2022-1.jpg"
+  },
+  {
+   "q": "Con respecto a la alergia a las proteínas transportadoras de lípidos vegetales (LTPs), indique la respuesta FALSA:",
+   "o": [
+    "Se trata de alérgenos alimentarios vegetales muy extendidos.",
+    "Son altamente resistentes al procesamiento de alimentos y al medio gastrointestinal.",
+    "Las manifestaciones clínicas de los pacientes en edad pediátrica alérgicos a las LTPs consisten en síntomas locales leves.",
+    "Estas proteínas tienen mayor presencia en la piel que en la pulpa de las frutas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con la Escala de Evaluación de Lactancia Materna (LATCH): PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 324",
+   "o": [
+    "La puntuación LATCH del primer día está inversamente relacionada con la tasa de lactancia materna no exclusiva al alta en maternidad.",
+    "Cada ítem se puntúa de 0 a 2 de menos a más favorable.",
+    "Se distinguen 6 áreas de evaluación.",
+    "El pezón plano se puntúa con el valor de 1."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Por qué debemos recomendar evitar el consumo de miel en niños menores de un año?:",
+   "o": [
+    "Causa obesidad en edades tempranas.",
+    "Es considerado un alimento muy alergénico.",
+    "Está relacionada con casos de botulismo infantil.",
+    "Se trata de un alimento de escaso valor nutricional."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes criterios según la Guía de Práctica Clínica sobre lactancia materna del Ministerio de Sanidad, Servicios Sociales e Igualdad, le haría pensar que NO existe un buen inicio o instauración de la Lactancia Materna?:",
+   "o": [
+    "La boca del lactante está bien abierta con el labio inferior evertido y ambos labios forman un ángulo de unos 120º.",
+    "Hay menos areola visible por debajo de la barbilla que por encima del pezón.",
+    "Hay sonidos de chupeteo por parte del recién nacido.",
+    "Una curva ponderal ascendente con una ganancia media de 20-35 gr/día a partir del cuarto día de nacimiento, asegura una ingesta adecuada."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la afirmación INCORRECTA acerca de las recomendaciones sobre lactancia materna que aparecen en el documento: “Grupo de trabajo de la Guía de Práctica Clínica sobre lactancia materna”. Ministerio de Sanidad, Servicios Sociales e Igualdad, 2017 perteneciente a las Guías de Práctica Clínica en SNS:",
+   "o": [
+    "Se sugiere el colecho en el hogar (en cama o en cuna sidecar) como una opción que puede ayudar a la madre a mantener la lactancia materna. Recomendación débil.",
+    "Se recomienda evitar siempre que sea posible el uso del chupete durante el primer mes para facilitar el buen inicio de la lactancia materna. Recomendación fuerte.",
+    "Se recomienda informar a las madres y familias del peligro que supone para la seguridad del lactante que el lactante permanezca solo en la cama de un adulto, en un sofá o en un sillón. Recomendación fuerte.",
+    "Se recomienda evitar la administración de suplementos si no existe indicación médica que lo justifique. Recomendación fuerte."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La “Prueba del cribado de Denver” o “Test de Denver” (DDST II) es una herramienta utilizada en el seguimiento del niño sano en la consulta de enfermería. ¿Qué áreas evaluaremos según la aplicación del dicho test?:",
+   "o": [
+    "Psicomotricidad, agilidad, lenguaje y autonomía.",
+    "Lenguaje, desarrollo muscular, desarrollo motor y agilidad mental.",
+    "Desarrollo personal, desarrollo social, agilidad perceptiva y lenguaje. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 326",
+    "Lenguaje, motor grueso, motor fino adaptativo y personal-social."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, cuál NO es un factor de riesgo en la aparición de la retinopatía del prematuro:",
+   "o": [
+    "Bajo peso al nacer.",
+    "Hipoxia.",
+    "Hemorragia intracraneal.",
+    "Edad gestacional."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Siguiendo la estrategia del Ministerio de Sanidad frente a la infección por el Virus Respiratorio Sincitial (VRS) en población infantil para la temporada 2024/2025, ¿en qué localización y por qué vía administramos este anticuerpo monoclonal?:",
+   "o": [
+    "Vía subcutánea, en la cara externa superior del brazo.",
+    "Vía intramuscular exclusiva, preferentemente en la cara anterolateral externa, tercio medio del muslo.",
+    "Vía subcutánea exclusiva, en la cara externa posterior del músculo tríceps del brazo.",
+    "Vía intramuscular, en el músculo deltoides."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La estrategia de la Comisión de Salud Pública del Ministerio de Sanidad frente a la infección por VRS en población infantil para la temporada 2024/2025, contempla varias determinaciones. Indique la opción INCORRECTA en relación a dichas determinaciones:",
+   "o": [
+    "La estrategia es la inmunización pasiva con nirsevimad.",
+    "Se recomienda la inmunización de prematuros de menos de 35 semanas antes de cumplir los 12 meses de edad cronológica. 327 ENFERMERÍA PEDIÁTRICA",
+    "Se recomienda la inmunización de todos los nacidos entre el 1 de abril de 2024 y el 31 de marzo de 2025.",
+    "Los nacidos durante la temporada (de octubre a marzo) deberán recibir nirsevimad a partir de la semana de vida."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las recomendaciones de utilización de nirsevimab, frente al virus respiratorio sincitial (VRS), publicado por la Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud del Ministerio de Sanidad en julio de 2023, es correcto:",
+   "o": [
+    "La dosis recomendada es una dosis única de 50 mg para lactantes con peso corporal < 5 kg.",
+    "La dosis recomendada es de dos dosis de 100 mg para lactantes con peso corporal > 5 kg.",
+    "Deberá administrarse por separado y con un plazo superior al menos de 7 días de otras vacunas recomendadas en el calendario vacunal.",
+    "No se incluyen dentro de la población infantil con alto riesgo de enfermedad grave por VRS a los lactantes con trastornos congénitos del metabolismo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La bronquiolitis aguda es la infección del tracto respiratorio inferior más frecuente en el lactante que supone una importante demanda asistencial tanto en el ámbito de la Atención Primaria como a nivel hospitalario. NO se considera un factor de riesgo de gravedad de la bronquiolitis:",
+   "o": [
+    "Antecedentes de prematuridad.",
+    "Ausencia de lactancia materna.",
+    "Atopía.",
+    "Tener hermanos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Ingresa en la Unidad de Neonatología un recién nacido con 5 horas de vida que presenta dificultad respiratoria. En la valoración se observa una respiración taquipneica con aleteo nasal mínimo, con marcado tiraje intercostal, quejido respiratorio audible con fonendo, bamboleo y mínima xifoidea. ¿Qué puntuación del Test de Silverman-Andersen tendría según la exploración?:",
+   "o": [
+    "Cuatro.",
+    "Cinco.",
+    "Seis.",
+    "Siete."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA respecto a los soplos inocentes:",
+   "o": [
+    "Tienen una prevalencia de hasta el 50% en niños menores de 14 años.",
+    "Se producen durante la diástole.",
+    "La cianosis nunca debe acompañar un soplo inocente.",
+    "Pueden evaluarse mediante historia clínica y examen físico con auscultación y electrocardiografía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles de las siguientes son las 4 anomalíasmás características de la anomalía congénita Tetralogía de Fallot?:",
+   "o": [
+    "Estenosis de canal auriculoventricular. Hipertrofia auricular derecha. Comunicación interventricular. Acabalgamiento aórtico. 329 ENFERMERÍA PEDIÁTRICA",
+    "Estenosis pulmonar. Hipertrofia ventricular izquierda. Comunicación interauricular. Acabalgamiento aórtico.",
+    "Estenosis pulmonar. Hipertrofia ventricular derecha. Comunicación interventricular. Acabalgamiento aórtico.",
+    "Estenosis aórtica. Hipertrofia ventricular izquierda. Comunicación interventricular. Acabalgamiento pulmonar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Los defectos cardíacos son las malformaciones congénitas más frecuentes. Dentro de las cardiopatías congénitas se encuentra la Transposición de Grandes Vasos. Indique la respuesta correcta en relación con esta cardiopatía:",
+   "o": [
+    "Se trata de una cardiopatía acianótica que debuta en periodo neonatal.",
+    "En su presentación simple, la aorta está conectada al ventrículo anatómicamente derecho y la pulmonar al ventrículo izquierdo.",
+    "Para asegurar la oxigenación debe facilitarse la mezcla de sangre a través del cierre del ductus arteriovenoso.",
+    "Las características anatómicas que presenta son estenosis pulmonar y cabalgamiento aórtico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al megacolon aganglionar congénito o enfermedad de Hirschprung, indique cuál de las siguientes opciones es FALSA: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 330",
+   "o": [
+    "Afecta con más frecuencia al sexo femenino.",
+    "Retraso en la eliminación del meconio.",
+    "Algunos pacientes pueden presentar vómitos biliosos o fecaloideos con ausencia de tránsito.",
+    "Déficit de inervación parasimpática del colon."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué caracteriza a la enfermedad de Hirschsprung (HSCR) conocida también por el nombre de megacolon agangliónico?:",
+   "o": [
+    "Es una enfermedad más predominante en el sexo femenino.",
+    "En estos pacientes se descarta la realización de una ostomía digestiva.",
+    "La variante más común de HSCR es la aganglionosis total del intestino grueso.",
+    "Se produce una ausencia de células ganglionares en los plexos submucoso y mientérico del colon."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la enfermedad de Hirschsprung o megacolon agangliónico congénito, indique la respuesta correcta:",
+   "o": [
+    "Es la causa más frecuente de obstrucción intestinal inferior en la edad escolar.",
+    "Se debe a una disfunción de las células ganglionares de la pared intestinal, de extensión variable.",
+    "El segmento afectado se presenta hipotónico y dilatado.",
+    "Debe sospecharse el diagnóstico ante un retraso en la expulsión de meconio superior a 48 horas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes manifestaciones clínicas, ¿cuál NO es indicativa de deshidratación grave en el lactante?:",
+   "o": [
+    "Retraso del relleno capilar > 1,5 segundos.",
+    "Pérdida de peso corporal > 10 %.",
+    "Depresión del nivel de conciencia.",
+    "Piel fría y moteada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La enterocolitis necrosante es la urgencia digestiva más frecuente en la unidad de cuidados intensivos neonatales. Entre sus factores de riesgo NO encontramos:",
+   "o": [
+    "Prematuridad y/o bajo peso al nacer.",
+    "Líquido amniótico meconial durante el parto.",
+    "Alimentación con leche y/o preparados para lactantes.",
+    "Cardiopatía congénita."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la recomendación correcta en la educación para la salud proporcionada a las familias con hijos que padecen enuresis nocturna o incontinencia nocturna intermitente:",
+   "o": [
+    "Explicar la importancia de una ingesta adecuada de líquidos y aconsejar que se restrinjan. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 332",
+    "Explicar la prevalencia del problema, ya que aproximadamente el 50% de los niños mojan la cama a la edad de 5 años.",
+    "Desaconsejar el uso del pañal si el niño ya ha permanecido seco durante el día por algún tiempo.",
+    "La utilización de la alarma de enuresis proporciona baja tasa de éxito a largo plazo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la ictericia fisiológica observaremos una hiperbilirrubinemia del recién nacido con un aumento de:",
+   "o": [
+    "Bilirrubina no conjugada indirecta.",
+    "Bilirrubina conjugada directa.",
+    "Bilirrubina conjugada indirecta.",
+    "Metabilirrubina."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una crisis convulsiva en un paciente pediátrico, ¿cuál de las siguientes vías de administración de benzodiazepinas NO se considera de elección?:",
+   "o": [
+    "Vía rectal.",
+    "Vía endotraqueal.",
+    "Vía bucal.",
+    "Vía intranasal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué es el Síndrome de Rett?:",
+   "o": [
+    "Es un trastorno del espectro autista, con alto nivel de funcionamiento.",
+    "Es un trastorno neurológico, de causa genética, que afecta fundamentalmente a niñas.",
+    "Es un trastorno genético que cursa con disminución de hormonas sexuales y sensación continua de hambre.",
+    "Es un trastorno endocrino-metabólico con afectación neurocognitiva y manifestaciones psicomotoras."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La hipotermia moderada como tratamiento para los recién nacidos con encefalopatía hipóxico-isquémica perinatal es una opción eficaz en la reducción de la mortalidad y la discapacidad mayor asociada. En cuanto a la aplicación de este tratamiento, ¿cuál de las siguientes es INCORRECTA?:",
+   "o": [
+    "Existen dos formas de aplicación de la hipotermia con efecto protector: la corporal total y la selectiva de la cabeza.",
+    "La hipotermia debe ser iniciada antes de las primeras 24 horas de vida.",
+    "Se mantiene durante 72 horas.",
+    "El recalentamiento debe ser lento y progresivo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la clasificación de pacientes susceptibles de recibir atención paliativa en la edad pediátrica, ¿qué pacientes forman parte del GRUPO 1?:",
+   "o": [
+    "Quienes sufren enfermedades graves, para las cuales el tratamiento curativo existe, pero puede fracasar.",
+    "Quienes sufren procesos irreversibles, pero no progresivos, asociados con discapacidad grave, que conlleva una extrema vulnerabilidad de padecer complicaciones que den lugar a una muerte prematura.",
+    "Quienes sufren enfermedades en las que la muerte prematura es inevitable, pero, con el tratamiento adecuado, se prolonga la vida durante largos periodos de tiempo.",
+    "Quienes sufren enfermedades progresivas sin opciones de tratamiento curativo, sólo paliativo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el tumor renal maligno primario más común en la infancia?:",
+   "o": [
+    "Nefroma mesoblástico.",
+    "Rabdomiosarcoma.",
+    "Teratoma.",
+    "Tumor de Wilms."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un niño de 2 años tiene fiebre alta durante 3 días, está irritable y, cuando la fiebre remite aparece un exantema morbiliforme de color rosa y no pruriginoso que comienza en el tronco y se extiende al cuello y extremidades. ¿Cuál es el diagnóstico más probable?:",
+   "o": [
+    "Sarampión.",
+    "Roséola infantil.",
+    "Rubeola.",
+    "Eritema infeccioso."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, ¿cuál es la complicación más frecuente de la tétrada de Gregg?:",
+   "o": [
+    "Hipoacusia.",
+    "Cataratas.",
+    "Ductus arterioso persistente.",
+    "Microcefalia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El eritema infeccioso, también denominado como quinta enfermedad, es la manifestación clínica más común del virus:",
+   "o": [
+    "Parvovirus.",
+    "Citomegalovirus.",
+    "Adenovirus.",
+    "Herpes virus tipo 2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al impétigo, señale la respuesta correcta:",
+   "o": [
+    "Se trata de una infección superficial causada por el Virus de Epstein Barr.",
+    "Es más frecuente en niños lactantes en épocas de frío.",
+    "El impétigo es poco contagioso, lo más habitual es que aparezca en tórax y abdomen, y se suele acompañar de fiebre.",
+    "El tratamiento se basa en la limpieza de las lesiones con agua y jabón, y en la aplicación de una pomada antibiótica de mupirocina o ácido fusídico."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la exploración física de un paciente pediátrico la presencia de un exantema petequial en el paladar blando NO es indicativo de:",
+   "o": [
+    "Enfermedad de Lyme.",
+    "Faringitis estreptocócica.",
+    "Abuso sexual.",
+    "Rubeola."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con la enfermedad de boca-mano-pie:",
+   "o": [
+    "En la mayoría de los casos se trata de una infección por virus coxsackie o un enterovirus.",
+    "Produce lesiones pruriginosas de la piel en extremidades y cavidad oral.",
+    "Puede transmitirse por secreciones respiratorias.",
+    "Comúnmente, se transmite por la vía oralfecal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "P.G.R. es un niño de 4 años que acude al servicio de urgencias de un hospital por fiebre mantenida de una semana. A la exploración presenta edema y eritema en manos y pies, lesiones orales con lengua “aframbuesada”, exantema polimorfo y adenopatía cervical unilateral. Tras el examen físico y realizadas las pruebas diagnósticas pertinentes, es diagnosticado de Enfermedad de Kawasaki. Dentro del abordaje terapéutico, tratamiento y cuidados de esta patología podemos afirmar que:",
+   "o": [
+    "El tratamiento con AAS (ácido acetil salicílico) está contraindicado.",
+    "La administración de corticoides intravenosos es el tratamiento de elección.",
+    "Se indicará reposo absoluto en su fase aguda.",
+    "El paciente requiere aplicación de medidas de aislamiento de contacto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA entre las siguientes afirmaciones respecto a la infección por virus del sarampión:",
+   "o": [
+    "El portal de entrada del virus es a través de las vías respiratorias o conjuntivas después del contacto con gotas o aerosoles en los que se suspende.",
+    "La infección se inicia con una fase exantemática seguida de fiebre y cuadro catarral con tos y coriza.",
+    "La manchas de Koplick son el signo patognomónico del sarampión.",
+    "La erupción maculopapular se inicia en la frente y región retroauricular extendiéndose al torso y las extremidades."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal complicación asociada al uso de salicilatos en niños con infección de varicela o gripe?:",
+   "o": [
+    "Enfermedad de Kawasaki.",
+    "Síndrome de Turner.",
+    "Síndrome de Reye.",
+    "Síndrome de Albright."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina a uno de los síndromes de fiebre recurrente más frecuente en la infancia, con intervalos regulares entre los episodios, acompañados de amigdalitis, aftas orales y/o adenopatías?:",
+   "o": [
+    "Síndrome de Schnitzler.",
+    "Síndrome de PFAPA.",
+    "Fiebre mediterránea familiar.",
+    "Síndrome de Rett."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al síndrome de muerte súbita del lactante (SMSL), indique cuál de las siguientes opciones NO CONSTITUYE un factor de riesgo:",
+   "o": [
+    "Hábito tabáquico materno.",
+    "Prematuridad y bajo peso.",
+    "Ser varón.",
+    "Ser mujer."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes NO es un criterio de inclusión para definir un Episodio Breve Resuelto Inexplicado (BRUE)?:",
+   "o": [
+    "Episodio resuelto de cianosis o palidez de menos de 1 minuto de duración.",
+    "Cambio marcado del tono muscular en forma de hipertonía o hipotonía.",
+    "Respiración ausente, disminuida o irregular.",
+    "Lactante > 1 año de vida."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué edad aparecen signos puberales de pubertad precoz, desarrollo mamario en niñas y desarrollo testicular en niños?:",
+   "o": [
+    "Antes de los 6 años en niñas y de los 7 años en niños.",
+    "Antes de los 7 años en niñas y de los 7 años en niños.",
+    "Antes de los 8 años en niñas y de los 7 años en niños.",
+    "Antes de los 8 años en niñas y de los 9 años en niños."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Pediatría, las recomendaciones sobre el calzado ideal para los niños incluyen:",
+   "o": [
+    "La suela debe ser de adherencia fuerte, para que no se resbale y el niño se sujete al suelo.",
+    "Los zapatos deben ser ligeros, sin necesidad de tener protecciones en la puntera y talón, así el niño se siente mejor.",
+    "La puntera no debe tener refuerzos para evitar la rigidez sobre los dedos.",
+    "La suela debe ser plana (no más de 3mm), no debe ser muy blanda, pero sí muy flexible en la zona de los dedos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La valoración antropométrica de una niña de 19 meses presenta un Z-Score en el peso para la edad de -1,25 desviaciones estándar. Según los estándares de crecimiento infantil de la OMS del 2006, ¿qué le ocurre a esta niña?:",
+   "o": [
+    "Desnutrición severa crónica.",
+    "Desnutrición leve aguda.",
+    "Nada.",
+    "Sobrepeso."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta acerca de los estadíos de Tanner del desarrollo puberal en la mujer y en el varón:",
+   "o": [
+    "En el estadio 2 del varón, el vello púbico se hace más tosco, se riza, se oscurece y aumenta en cantidad.",
+    "En el estadio 3 de la mujer, se produce una elevación de la mama y areola en el mismo plano.",
+    "En el estadio 4 de la mujer, el vello púbico es como el de una adulta y se extiende a la cara interna de los muslos.",
+    "En el estadio 3 del varón, se desarrolla el glande y los testículos con un aumento y oscurecimiento del escroto."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las actividades preventivas para la detección precoz de anomalías visuales en pediatría, se utiliza el test o método de Hirschberg. Indique la respuesta correcta en relación con dicho test:",
+   "o": [
+    "Se trata de un test de agudeza visual utilizado en edad escolar.",
+    "El paciente se fija en una fuente de luz a no más de 20 cm de distancia.",
+    "La sala de exploración debe estar a oscuras.",
+    "Se valora la simetría del reflejo corneal de la luz."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones es INCORRECTA en relación con las recomendaciones de actuación ante una avulsión dental susceptible de reimplante en un paciente pediátrico?:",
+   "o": [
+    "Actuar de igual manera si se trata de un diente temporal o permanente.",
+    "Manipular el diente desde la corona evitando tocar la raíz.",
+    "Animar al paciente o acompañante a reimplantar el diente en el lugar del traumatismo.",
+    "Conservar el diente para su transporte en leche, solución salina o saliva."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El test de Adams, es un test de cribado de la escoliosis comúnmente utilizado en la consulta de atención primaria. ¿Cuál de las siguientes opciones es correcta en relación con el test?:",
+   "o": [
+    "Valora la asimetría del tronco desde atrás, con el niño flexionado hacia un lado.",
+    "Se considera positivo cuando el torso del niño estando completamente paralelo al suelo, presenta una giba a nivel dorsal o una deformidad lumbar.",
+    "El test de Adams positivo significa que el paciente presenta una rotación en el tronco y una posible escoliosis.",
+    "Es un test simple y seguro con una apreciación objetiva."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el protocolo común de actuación sanitaria frente a la violencia en la infancia y la adolescencia, en un caso de maltrato, ¿cuándo lo notificaremos?:",
+   "o": [
+    "En procedimiento ordinario, notificación urgente con Parte al Juzgado de Guardia.",
+    "En procedimiento ordinario sin lesiones, enviar Hoja de detección y Notificación de Maltrato Infantil a la Delegación Territorial con competencia en protección de Menores.",
+    "En los casos de urgencia enviar hoja de detección y notificación de Maltrato Infantil a los Servicios Sociales Comunitarios de la localidad de residencia de la persona menor.",
+    "En los casos en que se presenten criterios de urgencia, la comunicación se hará́ de forma inmediata utilizando la vía telefónica preferentemente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes intervenciones se incluye en el Protocolo Común de Actuación Sanitaria frente a la Violencia en la Infancia y la Adolescencia (2023), para la prevención del maltrato infantil intrafamiliar:",
+   "o": [
+    "Promover visitas domiciliarias desde el nacimiento hasta los primeros seis meses de vida.",
+    "Promover las redes de apoyo.",
+    "Promover los programas de psicoprofilaxis durante los primeros seis años de vida.",
+    "Realizar una valoración del riesgo psicosocial, centrada exclusivamente en las Experiencias Adversas en la Infancia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son algunos de los factores de riesgo para presentar síndrome de abstinencia en niños con disminución de la sedoanalgesia?:",
+   "o": [
+    "Perfusión continua de midazolam o fentanilo durante 5 o más días, lactantes menores de 6 meses y retraso psicomotor.",
+    "Dosis acumuladas de fentanilo mayor de 0,8 mg/kg y de midazolam de 20 mg/kg.",
+    "Lactantes menores de 1 mes y perfusiones de fentanilo superiores a 2 μg/kg/hora y midazolam mayor a 0.5 mg/kg/hora.",
+    "Duración del tratamiento con dexmedetomidina mayor a 5 días y dosis acumulada superior a 50 μg/kg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Cómo se denomina a “Las acciones deliberadas por parte de un adulto de cara a establecer lazos de amistad con un niño/niña en Internet, con el objetivo de obtener satisfacción sexual mediante imágenes eróticas o pornográficas del menor o incluso como preparación para un encuentro sexual”:",
+   "o": [
+    "Sexting.",
+    "Ciberacoso.",
+    "Sextorsión.",
+    "Grooming."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En el “Protocolo básico de intervención del maltrato infantil en el ámbito familiar” del Ministerio de Sanidad, Consumo y Bienestar Social, se acuerda utilizar cuatro tipologías básicas del maltrato con la finalidad de facilitar la notificación y comunicación entre los profesionales y garantizar el tratamiento agrupado de los datos. ¿Cuál de las siguientes opciones NO hace referencia a un tipo de maltrato definido en este protocolo?:",
+   "o": [
+    "Maltrato psicológico.",
+    "Abuso sexual.",
+    "Negligencia",
+    "Maltrato físico."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "En el triaje de una lactante de 1 mes de vida observamos que está activa, tranquila, responde a estímulos, piel normocoloreada, con un cutis marmorata y con una puntuación de 0 en el test de Silverman-Anderson. ¿Cómo valoraría el Triángulo de Evaluación Pediátrica?:",
+   "o": [
+    "Agudo.",
+    "Subagudo.",
+    "Estable.",
+    "Inestable."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Triángulo de Evaluación Pediátrica, una niña de 10 años que presenta dificultad respiratoria severa, somnolienta y con escasa respuesta a estímulos verbales y cianosis periférica en labios, presenta un estado fisiopatológico de:",
+   "o": [
+    "Disfunción del sistema nervioso central.",
+    "Fallo respiratorio.",
+    "Fallo cardiopulmonar.",
+    "Shock descompensado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El Triángulo de Evaluación Pediátrica (TEP), utilizado para la evaluación inicial del paciente pediátrico en las salas de triaje de urgencias, está compuesto por tres lados o aspectos a evaluar, que son:",
+   "o": [
+    "Trabajo respiratorio, estado general y pulso.",
+    "Apariencia, respiración y circulación.",
+    "Tiempo de asistencia, capacidad de respuesta y postura.",
+    "Respiración, pulso y respuesta a estímulos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las reglas o fórmulas utilizadas para el cálculo de dosis en paciente pediátrico NO se encuentra:",
+   "o": [
+    "Regla de Young.",
+    "Regla de Cowling.",
+    "Fórmula de Clark.",
+    "Fórmula de Bloise."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de aplicar un tratamiento para una otitis externa de un paciente pediátrico de 2 años consistente en la administración de gotas óticas, hay que tener en cuenta:",
+   "o": [
+    "La técnica de administración se realizará de igual forma que en un paciente adulto.",
+    "Se debe tirar del pabellón auricular del oído afectado hacia abajo y hacia atrás.",
+    "Hay que tirar del pabellón auricular del oído afectado hacia arriba y hacia atrás.",
+    "No se recomienda la administración de gotas óticas en pacientes menores de 3 años."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En una reanimación cardiopulmonar de un niño de 5 años ahogado, al que se le han realizado varios intentos de canalización de una vía venosa periférica, es de elección la canalización de una vía intraósea. De entre las siguientes opciones, ¿cuál sería el lugar de punción indicado para esta edad?:",
+   "o": [
+    "Tibia distal, dos centímetros por encima del maléolo tibial interno.",
+    "Superficie anteromedial de la tibia, 2-3 centímetros por debajo de la tuberosidad tibial.",
+    "Tercio superior del esternón.",
+    "Cara posterior de la metáfisis proximal del radio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación a los métodos de recogida de orina empleados en el diagnóstico de una Infección del Tracto Urinario en edad pediátrica:",
+   "o": [
+    "El cateterismo vesical es una prueba invasiva que no permite descartar completamente el riesgo de contaminación.",
+    "La punción suprapúbica está considerada la técnica de recogida de orina de referencia.",
+    "La recogida de orina mediante bolsas perineales tiene bajo riesgo de contaminación en comparación con la obtenida mediante el chorro miccional.",
+    "En población pediátrica que controla la micción, se recomienda la recogida de orina limpia en mitad de chorro miccional."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

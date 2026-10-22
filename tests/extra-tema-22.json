@@ -1,0 +1,160 @@
+{
+ "tema": 22,
+ "preguntas": [
+  {
+   "q": "Un varón de 75 años y 80 kilos de peso, presenta un Síndrome Coronario Agudo con Elevación del Segmento ST. El tiempo estimado de llegada a la sala de hemodinámica en ambulancia es de 150 minutos desde la aparición de los síntomas. Teniendo en cuenta esta situación, su condición de enfermero/a y el Real Decreto 1302/2018, de 22 de octubre, de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros, indique la acción a seguir:",
+   "o": [
+    "Administrará 10mg subcutáneos de Cloruro Mórfico, 500mg de ácido acetilsalicílico, oxígeno por mascarilla venturi a 15 litros por minuto y esperará la llegada de la Unidad de Emergencias ya que se encuentra dentro del tiempo límite para angioplastia.",
+    "Administrará 10mg subcutáneos de Cloruro Mórfico, 500mg de ácido acetilsalicílico, oxígeno por mascarilla venturi a 15 litros por minuto, 40mg de tenecteplasa i.v. y esperará la llegada de la Unidad de Emergencias.",
+    "Administrará 5mg i.v. de Cloruro Mórfico, 500mg de ácido acetilsalicílico, oxígeno por mascarilla venturi a 15 litros por minuto y un bolo inicial de 15mg de alteplasa mientras espera la llegada de la Unidad Medicalizada de Emergencias.",
+    "Conforme a la legislación vigente no podrá realizar ninguna de las acciones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 12. El símbolo que aparece en la imagen hace referencia a:",
+   "o": [
+    "Es el símbolo internacional de la farmacia.",
+    "Es el símbolo SIGRE.",
+    "Señala los productos insecticidas.",
+    "Identifica a los medicamentos fitoterápicos."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t10-2022-2023-12.jpg"
+  },
+  {
+   "q": "Indique a qué corresponde el símbolo “•” que figura junto al código nacional en el margen superior derecho de ambas caras principales del embalaje exterior de un medicamento:",
+   "o": [
+    "Uso exclusivo hospitalario.",
+    "Conservación en frío.",
+    "Dispensación sujeta a prescripción médica.",
+    "Dispensación con receta oficial de estupefacientes."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las siguientes afirmaciones sobre los anestésicos locales, indique la opción INCORRECTA:",
+   "o": [
+    "La bupivacaína es un anestésico local de corta duración.",
+    "Su mecanismo de acción se basa en el bloqueo de canales de sodio.",
+    "Se pueden asociar a vasoconstrictores como la adrenalina.",
+    "La bupivacaína es un anestésico local de larga duración. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 196"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué contexto clínico estaría indicada la aplicación de la Guía para “La indicación, uso y autorización de dispensación de medicamentos sujetos a prescripción médica por parte de las enfermeras/os en el caso de infección del tracto urinario” publicada en el Boletín Oficial del Estado nº 200, de 19 de agosto de 2024?:",
+   "o": [
+    "En mujeres mayores de 18 años con signos de cistitis no complicada.",
+    "En mujeres mayores de 65 años.",
+    "En mujeres mayores de 14 años con signos de cistitis no complicada.",
+    "En mujeres con infección urinaria recurrente (2 o más episodios en seis meses)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una mujer de 64 años, con demencia frontotemporal variante conductual, inicia tratamiento con trazodona para controlar irritabilidad y agitación. Tras dos semanas, la enfermera observa somnolencia diurna marcada y mareos frecuentes. ¿Cuál debería ser la actuación prioritaria de la enfermera ante estos efectos secundarios?:",
+   "o": [
+    "Reforzar medidas de seguridad para prevenir caídas y comunicar al médico responsable la aparición de sedación y mareo.",
+    "Aconsejar aumentar la dosis de trazodona para lograr mayor control de los síntomas conductuales.",
+    "Recomendar suspender por completo el tratamiento y consultar con su médico.",
+    "Considerar que los síntomas son esperables y no requieren intervención específica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique qué alimento puede ingerir una persona en tratamiento con Inhibidores de la Monoamino-oxidasa (IMAO): PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 206",
+   "o": [
+    "Queso curado.",
+    "Guisantes.",
+    "Plátano verde.",
+    "Espinacas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efectos adversos produce el aciclovir?:",
+   "o": [
+    "Hipovolemia e hiponatremia.",
+    "Estreñimiento y déficit de vitamina B12.",
+    "Estomatitis y calambres musculares.",
+    "Náuseas y erupción cutánea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el tratamiento anticoagulante con acenocumarol en una mujer de 30 años portadora de prótesis valvular mecánica es FALSO que:",
+   "o": [
+    "Durante el tratamiento con anticoagulantes orales se desaconseja el embarazo.",
+    "Si algún día olvida tomar la dosis a la hora acostumbrada, pero se da cuenta a lo largo de ese mismo día, se la tomará lo antes posible, aunque deberá dejar pasar 12 horas entre toma y toma. 213 FARMACOLOGÍA",
+    "Un valor de INR de 2 indica que existe riesgo de hemorragia y está indicado disminuir la dosis total semanal en un 5-10% y realizar un nuevo control de INR a las dos semanas.",
+    "Aunque inicialmente los controles del INR se realizarán con relativa frecuencia, una vez alcanzada una dosis estable, éstos podrán efectuarse cada 4-6 semanas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes fármacos podría estar asociado a la hipomagnesemia y desarrollo de osteoporosis cuando se utiliza como tratamiento a largo plazo?:",
+   "o": [
+    "Omeprazol.",
+    "Ranitidina.",
+    "Ondansetrón",
+    "Loperamida."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones generales que daría a un paciente con fibrilación auricular en tratamiento anticoagulante oral (TAO) con acenocumarol se encuentran las siguientes EXCEPTO:",
+   "o": [
+    "El anticoagulante debe tomarse una vez al día, siempre a la misma hora y preferiblemente por la mañana. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 216",
+    "Las verduras de hoja verde no son alimentos prohibidos sino alimentos que deben tomarse sin grandes variaciones en cuanto a la cantidad.",
+    "El tabaco debe evitarse, disminuye el efecto de los anticoagulantes por su alto contenido en vitamina K.",
+    "No es necesario suspender, ni siquiera reducir, la administración de los anticoagulantes orales previamente a la práctica de una exodoncia, siempre y cuando el INR antes de la intervención odontológica se halle dentro del margen terapéutico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 1591/2009, de 16 de octubre, por el que se regulan los productos sanitarios, el marcado de conformidad “CE”, será:",
+   "o": [
+    "Recomendable en caso de fabricantes de la Unión Europea.",
+    "Obligatorio para todos los productos sanitarios fabricados fuera de la Unión Europea.",
+    "Obligatorio para todos los productos sanitarios, excepto los productos a medida y los destinados a investigaciones científicas.",
+    "Obligatorio para los productos destinados a investigaciones científicas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Los Productos Sanitarios, atendiendo a su duración se clasifican como de “uso prolongado” cuando están:",
+   "o": [
+    "Destinados normalmente a utilizarse de forma continua durante menos de sesenta minutos.",
+    "Destinados normalmente a utilizarse de forma continua durante un período de hasta quince días.",
+    "Destinados normalmente a utilizarse de forma continua durante un período de hasta treinta días.",
+    "Destinados normalmente a utilizarse de forma continua durante un período de más de treinta días."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme al Real Decreto 1616/2009, de 26 de octubre, por el que se regulan los productos sanitarios implantables activos, la definición: \" Cualquier producto sanitario que dependa de la electricidad o de cualquier otra fuente de energía distinta de la generada directamente por el cuerpo humano o por la gravedad para funcionar adecuadamente\" hace referencia:",
+   "o": [
+    "Producto sanitario integrado.",
+    "Producto sanitario activo.",
+    "Producto a medida.",
+    "Producto destinado a investigaciones clínicas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

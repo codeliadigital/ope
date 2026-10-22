@@ -81,8 +81,8 @@ sub: Resumen OPE Enfermería SMS · Sexo y género, morbilidad diferencial (biol
 !! Sexo = biología; género = construcción social.
 !! Mujeres: **viven más, pero peor**; infarto **atípico** y diagnóstico más tardío.
 !! Walker: **tres fases** (tensión, explosión, luna de miel).
-!! LO 1/2004: pareja o expareja, **con o sin convivencia**; la ayuda social **no exige denuncia**.
-!! **Parte de lesiones obligatorio** aunque la mujer no quiera denunciar.
+!! ==LO 1/2004: pareja o expareja, **con o sin convivencia**; la ayuda social **no exige denuncia**.==
+!! ==**Parte de lesiones obligatorio** aunque la mujer no quiera denunciar.==
 !! Riesgo vital: **no dejarla salir** y **llamar al 112**.
 !! Agresor presente: **no confrontar**, aislarla con un pretexto.
 !! WAST-corto: **tensión y dificultad** en la pareja; positivo ≠ diagnóstico (VPP 40%).

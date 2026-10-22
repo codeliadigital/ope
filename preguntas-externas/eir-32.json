@@ -1,0 +1,842 @@
+{
+ "id": "eir-32",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 32,
+ "titulo": "EIR · Enfermería comunitaria",
+ "explicadas": false,
+ "descripcion": "75 preguntas de los exámenes EIR de 2018 a 2025 sobre enfermería comunitaria, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "¿Cuál es el instrumento operativo que fomenta la promoción de la salud mediante la participación comunitaria y el trabajo intersectorial, según la Estrategia de Promoción de la Salud y Prevención en el Sistema Nacional de Salud (2013)?:",
+   "o": [
+    "El mapeo de activos en salud.",
+    "La mesa de participación comunitaria.",
+    "El plan de salud local.",
+    "El consejo local de salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El término \"enfermera sanitarista\" como una descripción de las enfermeras que trabajaban para promover la salud y prevenir enfermedades en grandes concentraciones de inmigrantes pobres a principios del siglo XX, se le atribuye a:",
+   "o": [
+    "Cicely Saunders.",
+    "Lillian Wald.",
+    "Cicely Williams.",
+    "Patricia Benner."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la definición de Investigación Participativa Basada en la Comunidad?:",
+   "o": [
+    "Proceso de investigación en el que se pretende analizar la realidad para mejorarla a través de un trabajo conjunto entre el grupo investigador y la comunidad.",
+    "Proceso de investigación realizado en una comunidad concreta a través de entrevistas.",
+    "Proceso de investigación donde la comunidad es quien define los objetivos y la metodología y realiza el desarrollo.",
+    "Proceso de investigación en el que el equipo investigador vive dentro de la comunidad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación al Plan de Acción de Atención Primaria y Comunitaria 2022-2023, del Ministerio de Sanidad:",
+   "o": [
+    "Se divide en 5 líneas estratégicas.",
+    "Cada línea estratégica conlleva una serie de objetivos y acciones concretas para su desarrollo, contando con 23 objetivos y 100 acciones en total.",
+    "Entre las líneas estratégicas se encuentran la de impulsar la formación y la investigación de Atención Primaria y potenciar el uso de las tecnologías de la información y la comunicación.",
+    "El Marco Estratégico, dentro de la macrogestión, contempla cambios en el modelo retributivo, donde juega un papel principal el abordaje de los determinantes sociales de la salud."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "En qué escala o cuestionario aparece la pregunta: ¿Está satisfecho con la ayuda que recibe de su familia cuando tiene un problema?:",
+   "o": [
+    "Escala de depresión de Yessavage.",
+    "Escala de Zarit.",
+    "Escala de depresión de Goldberg.",
+    "Cuestionario Apgar familiar."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Obtener como resultado 2 puntos en el cuestionario APGAR FAMILIAR, significa:",
+   "o": [
+    "Normofuncional.",
+    "Disfuncional leve.",
+    "Disfuncional moderado.",
+    "Disfuncional grave."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Identifique de qué herramienta se trata:",
+   "o": [
+    "Ecomapa.",
+    "Genograma.",
+    "Apgar familiar.",
+    "Ficha familiar."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t32-2021-2022-6.jpg"
+  },
+  {
+   "q": "El aborto como suceso en un miembro del núcleo familiar es:",
+   "o": [
+    "Un aspecto estructural del APGAR familiar.",
+    "Un aspecto/símbolo a incluir en el genograma.",
+    "Un determinante incluido en el modelo de Lalonde.",
+    "Un acontecimiento no incluido en la escala de acontecimientos vitales estresantes."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La herramienta utilizada para apreciar la estructura familiar y la conexión de ésta con la red de soporte extrafamiliar de recursos existente o ausente en cada familia, se denomina:",
+   "o": [
+    "Genograma.",
+    "Ecomapa.",
+    "Ficha familiar.",
+    "APGAR familiar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La incorporación de un nuevo miembro a la familia es:",
+   "o": [
+    "Un determinante incluido en el modelo de Lalonde.",
+    "Un acontecimiento incluido en la escala de acontecimientos vitales estresantes.",
+    "Un aspecto a valorar incluido en el documento Consejo integral en estilo de vida en Atención Primaria, vinculado con recursos comunitarios en población adulta.",
+    "Una situación a valorar en el APGAR familiar (adaptación, participación, gradiente de recurso personal, afecto y recursos)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El siguiente símbolo utilizado en el genograma identifica a:",
+   "o": [
+    "Paciente identificado.",
+    "Mujer con Problema de alcoholismo.",
+    "Mujer embarazada.",
+    "Cuidadora principal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Tras revisar este genograma, la simbología nos indica que:",
+   "o": [
+    "El matrimonio sufrió un aborto espontáneo.",
+    "El matrimonio está divorciado.",
+    "La relación entre la madre y la hija es unida.",
+    "La relación entre los descendientes es conflictiva."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El Sentido de Coherencia (SOC) es un concepto central en el modelo salutogénico de Aaron Antonovsky. ¿Cuáles son sus tres componentes principales?:",
+   "o": [
+    "Manejabilidad, significatividad y adaptabilidad.",
+    "Comprensibilidad, aceptabilidad y manejabilidad.",
+    "Comprensibilidad, manejabilidad y significatividad.",
+    "Manejabilidad, flexibilidad y significatividad."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO es una de las dimensiones del empoderamiento comunitario?:",
+   "o": [
+    "Comunitaria o colectiva.",
+    "Individual.",
+    "Organizacional.",
+    "Familiar."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando la población participa en la toma de decisiones de forma autónoma y desarrolla parcialmente o por sí misma las acciones planificadas, ¿a qué nivel de participación comunitaria corresponde durante la elaboración de un programa de salud?:",
+   "o": [
+    "Decisión-Acción Conjunta.",
+    "Control comunitario.",
+    "Liderazgo múltiple y compartido.",
+    "Consulta."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el modelo de atención primaria orientada a la comunidad (APOC), uno de los pilares fundamentales es:",
+   "o": [
+    "La planificación sanitaria basada en indicadores clínico-epidemiológicos del centro de salud. 677 ENFERMERÍA COMUNITARIA",
+    "La participación activa de la comunidad en la planificación y evaluación de los servicios.",
+    "La priorización de la atención al medio ambiente del entorno.",
+    "La priorización de la adecuación de las infraestructuras urbanas del entorno."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique con qué término se conocen las diferencias sistemáticas en una o más dimensiones de la salud entre grupos o subgrupos de población, que son consideradas socialmente injustas y potencialmente evitables:",
+   "o": [
+    "Diferencias relativas de salud.",
+    "Ley inversa de la asistencia de Hart.",
+    "Desigualdades sociales en salud.",
+    "Determinantes sociales de la salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el Mapa de Activos de acción Comunitaria para ganar salud del Ministerio de Sanidad es correcto que: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 678",
+   "o": [
+    "Se desarrolla por medio de un proceso participativo entre las personas, asociaciones e instituciones de una comunidad.",
+    "Es un inventario de recursos de la comunidad para visibilizar, hacer accesible y ofrecer a la población los recursos locales que pueden mejorar su salud.",
+    "Es un bien o servicio que puede mejorar la salud o el bienestar de una persona o población (Mirada objetiva).",
+    "Es el recurso que es reconocido como favorable para mantener o mejorar la salud desde la perspectiva de las personas implicadas (Mirada subjetiva)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta sobre el ciclo de acción comunitaria:",
+   "o": [
+    "Es un esquema de actuación dividido en cuatro fases.",
+    "Cada fase es independiente y no condiciona el desarrollo de las fases siguientes.",
+    "Los resultados obtenidos en cada vuelta del ciclo ofrecen los mismos objetivos.",
+    "El desarrollo de las fases propuestas es orientativo y estarán condicionadas por los diferentes contextos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué es un activo para la salud en acción comunitaria?: 679 ENFERMERÍA COMUNITARIA",
+   "o": [
+    "Bien o servicio que puede mejorar la salud o el bienestar de una persona o población y cuyo inventario aporta información valiosa para estudiar su distribución por áreas e identificar focos de acción para un posterior desarrollo o potenciación de los mismos.",
+    "Recurso que es reconocido como favorable para mantener o mejorar la salud desde la perspectiva de las personas implicadas. Supone una mirada subjetiva.",
+    "Recurso que es reconocido como favorable para mantener o mejorar la salud desde la perspectiva y mirada objetiva de las personas implicadas.",
+    "Bien o servicio que puede mejorar la salud o el bienestar de una persona o población. Supone una mirada objetiva."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. El ciclo de la acción comunitaria es un esquema de actuación dividido en diferentes fases orientativas, ya que puede variar según las circunstancias de cada grupo de trabajo. ¿Con qué fase corresponde el número 3 de la imagen?:",
+   "o": [
+    "Explorar la comunidad.",
+    "Analizar y priorizar.",
+    "Actuar.",
+    "Evaluar."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t32-2023-2024-6.jpg"
+  },
+  {
+   "q": "Existen múltiples técnicas educativas para realizar Educación Para la Salud, entre ellas, la técnica de las 9 cuestiones, que se caracteriza por:",
+   "o": [
+    "Es una técnica de desarrollo de habilidades.",
+    "Se plantea la elaboración de un plan de acción comunitaria en grupos grandes.",
+    "Genera nuevas visiones, perspectivas y estrategias de afrontamiento de problemas.",
+    "Es una técnica de análisis a través de 9 preguntas: ¿qué?, ¿por qué?, ¿para qué?, ¿para quién?, ¿dónde?, ¿cómo?, ¿cuándo?, ¿con qué? y ¿cuánto?"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Atendiendo a la imagen, seleccione la respuesta correcta:",
+   "o": [
+    "En las teorías y la práctica de este modelo, la capacidad, la habilidad y el talento de los individuos, las familias y las comunidades, buscan soluciones positivas que les fortalezcan su autoestima para resolver los retos del ambiente.",
+    "Se corresponde con el modelo del déficit.",
+    "Se sustenta en una metodología que enfatiza el desarrollo de políticas y actividades basadas en las capacidades, habilidades y recursos.",
+    "Fue propuesto por Dubos, 1959."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t32-2022-2023-7.jpg"
+  },
+  {
+   "q": "Atendiendo a la propuesta de indicadores comunes para la evaluación de estrategias de salud comunitaria y las acciones del plan de acción de Atención Primaria, el porcentaje de Comunidades Autónomas que tienen implantada la Cartera de Servicios Autonómica de Atención Comunitaria, sería de tipo:",
+   "o": [
+    "De Estructura.",
+    "De Proceso.",
+    "De Resultado.",
+    "De Eficacia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifique la opción INCORRECTA con respecto a los apartados explícitos propuestos para incluir en el diseño de estrategias de salud comunitaria según las últimas recomendaciones:",
+   "o": [
+    "Presupuesto específico.",
+    "Objetivos.",
+    "Líneas de acción.",
+    "Evaluación del diseño por un comité de expertos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A qué se refiere un “recurso reconocido como favorable para mantener o mejorar la salud desde la perspectiva de las personas implicadas”:",
+   "o": [
+    "Activo.",
+    "Recurso.",
+    "Proceso de empoderamiento.",
+    "Producto saludable."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Son todos pilares de la acción comunitaria, SALVO:",
+   "o": [
+    "Análisis de la situación.",
+    "Participación.",
+    "Procesos relacionales.",
+    "Claves de resultado."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre los agentes comunitarios, clave en los procesos comunitarios, señale la opción FALSA:",
+   "o": [
+    "Son el conjunto de diferentes actores y actrices formales e informales que operan en el entorno comunitario.",
+    "Se clasifican en Administraciones, recursos técnicos y profesionales públicos y privados, y ciudadanía.",
+    "La ciudadanía siempre ha de estar representada mediante asociaciones o grupos, para mejorar el funcionamiento del proceso, no se recomienda la participación individual.",
+    "En la acción comunitaria es especialmente importante el papel del gobierno local dentro de las administraciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las redes comunitarias, señale la INCORRECTA:",
+   "o": [
+    "Las redes comunitarias son estructuras de colaboración para gestionar un bien o problema común.",
+    "La fortaleza de las redes comunitarias reside en su inclusividad (diversidad de sectores, profesiones y grupos sociales) y su flexibilidad (diversas opciones de implicación que puedan cambiar con el tiempo).",
+    "El trabajo coordinado resulta fundamental para poner en marcha acciones en las redes comunitarias.",
+    "La evaluación de la puesta en marcha de acciones por una red comunitaria se realizará tras la finalización de las acciones y tendrá en cuenta principalmente su efectividad."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el modelo de activos para la salud en Atención Primaria de Salud, indique la respuesta INCORRECTA:",
+   "o": [
+    "El enfoque de activos se basa en la teoría de la salutogénesis desarrollada por Antonovsky basada en el modelo factorial denominado “sentido de la coherencia”.",
+    "El modelo de activos aporta claves fundamentales para abordar la promoción de la salud a nivel comunitario, y proporciona herramientas para trabajar desde diferentes niveles en Atención Primaria.",
+    "Se define activo de salud como cualquier factor o recurso que identifican profesionales sanitarios como potenciadores de la capacidad de individuos, comunidades y poblaciones para mantener la salud y el bienestar.",
+    "El modelo de activos para la salud supone una revitalización de las intervenciones de promoción de la salud y de salud comunitaria en términos de intersectorialidad, salud positiva, participación, equidad y orientación a los determinantes de la salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes recursos, ¿cuál es el más recomendable si tenemos problemas de entendimiento con mujeres afectadas o en riesgo de padecer mutilación genital femenina?:",
+   "o": [
+    "Trabajadora social del centro.",
+    "Mediadora intercultural.",
+    "Enfermera de pediatría.",
+    "Departamento de protección a la Infancia y Fiscalía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el modelo de la promoción de salud basada en activos, señale la afirmación INCORRECTA:",
+   "o": [
+    "El modelo de activos para la salud supone una revitalización de las intervenciones de promoción de la salud y de salud comunitaria en términos de intersectorialidad, salud positiva, participación, equidad y orientación a los determinantes de la salud.",
+    "Un activo de salud es cualquier factor (o recurso) que mejora la capacidad de las personas, grupos, comunidades, poblaciones, sistemas sociales e instituciones para mantener y sostener la salud y el bienestar.",
+    "En el modelo de activos, la capacidad, la habilidad y el talento de los individuos, las familias y las comunidades, buscan soluciones en los recursos profesiones para resolver los retos del ambiente.",
+    "Se define mapa de activos como un inventario dinámico de las fortalezas y capacidades de las personas que forma una comunidad, antes de prevenir."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué nivel de orientación comunitaria pertenece la acción: “Regular, mediante normativa, los espacios formales de participación como los Consejos de Salud o las Comisiones de Salud Comunitaria”?:",
+   "o": [
+    "Nivel 1.",
+    "Nivel 2.",
+    "Nivel 3.",
+    "Nivel 4."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según los niveles de Salud Comunitaria en Atención Primaria, ¿con cuál de las siguientes afirmaciones se corresponde el nivel 2?:",
+   "o": [
+    "Nivel individual y familiar, pasando consulta mirando a la calle.",
+    "Nivel colectivo: acción comunitaria en salud, \"el centro de salud no es el único centro de salud\".",
+    "Nivel grupal: educación para la salud grupal trabajando sobre las causas de las causas.",
+    "Nivel colectivo y familiar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las acciones propias del Nivel 2 de Salud Comunitaria en Atención Primaria (AP) se contempla:",
+   "o": [
+    "Desarrollar protocolos que guíen y sistematicen la recomendación de activos para la salud y recursos comunitarios.",
+    "Contar con la experiencia, los materiales y las acciones que se organizan desde las escuelas de salud y desde otras iniciativas y recursos de la comunidad.",
+    "Promover la participación de profesionales de AP en actividades de educación para la salud grupal con enfoque de determinantes sociales.",
+    "Regular, mediante normativa, los espacios formales de participación como los Consejos de Salud o las Comisiones de Salud Comunitaria de la Zona Básica de Salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de fortalecer la orientación comunitaria en Atención Primaria, la educación para la salud grupal trabajando sobre “las causas de las causas”, se corresponde con: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 686",
+   "o": [
+    "El nivel 1.",
+    "El nivel 2.",
+    "El nivel 3.",
+    "El nivel 4."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué año se llevó a cabo, en Astaná, la Conferencia Mundial sobre Atención Primaria de Salud “Desde Alma-Ata hacia la cobertura sanitaria universal y los Objetivos de Desarrollo Sostenible”?:",
+   "o": [
+    "1978.",
+    "2000.",
+    "2010.",
+    "2018."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En qué Conferencia Mundial de Promoción de la Salud aparece el concepto de Salud en Todas la Políticas, definido como un “enfoque para las políticas públicas en todos los sectores que, de manera sistemática, tiene en cuenta las implicaciones en la salud que tienen las decisiones que se toman”:",
+   "o": [
+    "Ottawa.",
+    "Helsinki.",
+    "Shanghai.",
+    "Nairobi."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué Conferencia de Promoción de la Salud de la OMS se recoge la necesidad de asumir compromisos mundiales destinados a lograr resultados sanitarios y sociales equitativos, sin destruir la salud de nuestro planeta?: 687 ENFERMERÍA COMUNITARIA",
+   "o": [
+    "Ginebra 2021.",
+    "Shanghai 2016.",
+    "Helsinki 2013.",
+    "Nairobi 2009."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué conferencia de la OMS se publicó la carta de Ottawa para la Promoción de la Salud?:",
+   "o": [
+    "En la segunda conferencia en 1976.",
+    "En la primera conferencia en 1979.",
+    "En la tercera conferencia en 1984.",
+    "En la primera conferencia en 1986."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál fue la aportación principal de la Octava Conferencia Mundial de Promoción de la Salud celebrada en Helsinki en 2013?",
+   "o": [
+    "Abordaje de los determinantes de la salud, incluyendo aspectos nuevos como la promoción de la responsabilidad social.",
+    "Compromiso con el enfoque «Salud en todas las políticas».",
+    "La necesidad de establecer políticas públicas favorables a la salud.",
+    "Se centró en la relación entre la salud, sus determinantes y el empoderamiento de las personas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de la cartera de servicios comunes de atención primaria, NO se encuentra:",
+   "o": [
+    "Atención sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo.",
+    "Información y vigilancia epidemiológica.",
+    "Atención paliativa a enfermos terminales.",
+    "Actividades de información y vigilancia en la protección de la salud."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Seleccione la respuesta correcta con respecto a la Atención Domiciliaria:",
+   "o": [
+    "Existen 3 modalidades básicas de atención domiciliaria: espontánea, urgente y programada.",
+    "Da respuesta a necesidades de asistencia creadas por personas que de forma temporal o permanente se encuentran incapacitadas para desplazarse al Centro de Salud.",
+    "La atención domiciliaria espontánea es la que permite el desarrollo de tareas de tipo curativo, prevención, educación sanitaria, promoción del autocuidado y rehabilitación dirigidas a mejorar la calidad de vida.",
+    "El conocimiento directo del entorno vital inmediato de sus integrantes de una familia no serán valorados en este tipo de atención."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del Plan de Recuperación, Transformación y Resiliencia, en su componente 22: “Plan de choque para la economía de los Cuidados y refuerzo de las políticas de igualdad e inclusión”, ¿qué modelo se considera más adecuado para la provisión de cuidados de larga duración en las personas dependientes?:",
+   "o": [
+    "Modelo de Atención Centrada en la Persona.",
+    "Modelo de Cuidado Integral de la Salud.",
+    "Modelo de Sistemas de Neuman.",
+    "Modelo Bismarck."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la gestión de la cronicidad en la pirámide de KAISER, señale la respuesta INCORRECTA: 689 ENFERMERÍA COMUNITARIA",
+   "o": [
+    "Es un modelo de estratificación del riesgo.",
+    "Se basa en el análisis y estratificación de la población según la complejidad y las necesidades de atención.",
+    "Clasifica a pacientes en cinco categorías, dependiendo de su nivel de complejidad.",
+    "Permite utilizar mejor los recursos humanos, concentrándolos sobre los grupos más complejos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Es cierto en relación con la teleasistencia o asistencia telemática:",
+   "o": [
+    "Hoy en día, el acceso a las nuevas tecnologías por los pacientes no suele suponer una limitación.",
+    "Las limitaciones físicas de los pacientes son una dificultad para su uso.",
+    "La alta seguridad jurídica permite que la aceptación de su uso por los profesionales sea muy generalizada.",
+    "La tecnología ha conseguido solventar la práctica totalidad de las limitaciones de la no presencialidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la frecuentación de las consultas en Atención Primaria, señale la respuesta INCORRECTA:",
+   "o": [
+    "El principal factor que influye en la frecuentación de las consultas es la morbilidad del paciente.",
+    "La frecuentación se calcula dividiendo todas las visitas realizadas en un año en un centro de salud entre todas las personas atendidas. Modelo de Kaiser Permanente PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 690",
+    "La frecuentación es el número de veces que cada persona acude para recibir atención a demanda en un centro de salud en un año.",
+    "Las particularidades de los profesionales influyen en la frecuentación de las consultas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al modelo de estratificación de riesgos de Kaiser Permanente, señale la respuesta INCORRECTA:",
+   "o": [
+    "Se basa en el análisis y estratificación de la población según la complejidad y las necesidades de atención.",
+    "Identifica cinco niveles de intervención según el grado de complejidad del caso.",
+    "Organiza a los pacientes según su riesgo, lo que permite utilizar mejor los recursos humanos, concentrándolos sobre los grupos más complejos.",
+    "En el nivel 1 de la pirámide de riesgo se encuentran los pacientes enfermos crónicos con buen control de su enfermedad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Hospitalización a domicilio (SEHAD), señale lo correcto con referencia a los criterios de Voluntariedad del paciente/cuidador para ingreso en domicilio:",
+   "o": [
+    "La voluntad de ingreso en Hospitalización a Domicilio es del paciente y cuidador, aunque sea admitido por la unidad de hospitalización a domicilio.",
+    "El rechazo a continuar ingresado en hospitalización a domicilio, requiere de la firma de alta voluntaria, aunque el paciente quiera regresar a ingresar en el hospital.",
+    "El rechazo al ingreso en hospitalización a domicilio, una vez valorado y aceptado por la unidad de hospitalización a domicilio, lleva implícito el alta voluntaria en el hospital, por parte del paciente o familiar.",
+    "La decisión de finalizar el proceso de hospitalización a domicilio, es tomada por el paciente o cuidador una vez completado el plan de cuidados y procedimientos que motivó su ingreso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En un centro educativo se detecta un aumento en el uso de cigarrillos electrónicos entre adolescentes de 13 a 18 años. Para diseñar una intervención eficaz, se aplica el modelo PRECEDE con el fin de identificar los factores que influyen en esta conducta. Uno de los hallazgos es la baja percepción de riesgo sobre las consecuencias del vapeo. Según el modelo PRECEDE, este factor se clasifica como:",
+   "o": [
+    "Factor reforzante.",
+    "Factor facilitador.",
+    "Factor limitante.",
+    "Factor predisponente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la nueva definición propuesta por la Organización Mundial de la Salud (OMS), la “alfabetización en salud” hace referencia a:",
+   "o": [
+    "Las habilidades cognitivas y sociales que determinan la motivación y la capacidad de las personas para acceder a la información, comprenderla y utilizarla de manera que promuevan y mantengan su salud.",
+    "Proceso orientado a empoderar a las personas para la toma de decisiones informadas, que combina oportunidades de aprendizaje planificadas que implican alguna forma de conocimiento y desarrollo de habilidades personales para mejorar la salud individual y comunitaria.",
+    "Habilidades para la promoción de la salud basada en el uso de estrategias para informar e influir en las decisiones individuales y comunitarias que mejoran la salud, abarcar procesos que faciliten el intercambio de información, promover cambios de comportamiento y apoyar la participación activa en la toma de decisiones relacionada con la salud.",
+    "El conocimiento y las competencias personales que se acumulan por medio de las actividades cotidianas, las interacciones sociales y entre generaciones. En los conocimientos y las competencias personales influyen las estructuras institucionales y la disponibilidad de recursos que permiten a las personas acceder a la información y a los servicios, así como comprenderlos, evaluarlos y utilizarlos de manera que promuevan y mantengan una buena salud para sí mismo y su entorno."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el modelo de Nutbeam, ¿cuáles son las tres dimensiones que conforman la alfabetización en salud?:",
+   "o": [
+    "Funcional, interactiva y crítica.",
+    "Cognitiva, conductual y emocional.",
+    "Técnica, informativa y comunicativa.",
+    "Básica, funcional y comunitaria."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de las “5 Aes” para las intervenciones de asesoramiento incluye:",
+   "o": [
+    "Averiguar.",
+    "Abordar.",
+    "Acompañar.",
+    "Asegurar."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del proceso de enseñanza-aprendizaje, en la etapa de actuación se incluye:",
+   "o": [
+    "Desarrollar conocimientos.",
+    "Analizar diferentes aspectos.",
+    "Reflexionar sobre el área emocional.",
+    "Desarrollar recursos y habilidades."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de plantearse el diseño de un programa de Educación para la Salud (EpS), identifique la opción INCORRECTA:",
+   "o": [
+    "La promoción y EpS deben responder a las diferentes necesidades de salud.",
+    "El área reconocida y prioritaria de intervención a tener en cuenta para su abordaje en promoción de la salud son los problemas de salud.",
+    "Los objetivos y planteamientos de la formación tendrán en cuenta conocimientos, actitudes y habilidades.",
+    "El programa de educación debe seguir una metodología diseñada previamente a su ejecución."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué tipo de aprendizaje NO se recomienda dentro de la metodología de la Educación para la Salud?:",
+   "o": [
+    "Aprendizaje significativo.",
+    "Aprendizaje centrado en el discente.",
+    "Aprendizaje constructivista.",
+    "Aprendizaje conductivo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Las rejillas, como técnica formativa utilizada en Educación para la Salud, se corresponde con:",
+   "o": [
+    "Una técnica de investigación.",
+    "Una técnica expositiva.",
+    "Una técnica de análisis.",
+    "Una técnica de desarrollo de habilidades."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Para reorganizar informaciones (transmitir informaciones, conceptos, esquemas interpretativos, etc.) dentro del proceso enseñanza-aprendizaje en Educación para la Salud, una de las técnicas de elección para su abordaje sería:",
+   "o": [
+    "Rejillas.",
+    "Panel de expertos.",
+    "Role-playing.",
+    "Análisis de problemas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los factores personales tienen mucha influencia en los comportamientos en salud, pudiendo ser del área cognitiva, emocional o de habilidades. ¿Cuál de los siguientes factores pertenece al área emocional de la persona?:",
+   "o": [
+    "Autoeficacia.",
+    "Capacidades cognitivas.",
+    "Habilidades psicomotoras.",
+    "Estilos de pensamiento."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué tipo de aprendizaje se debe trabajar desde la Educación para la Salud?:",
+   "o": [
+    "Aprendizaje significativo.",
+    "Aprendizaje informal.",
+    "Aprendizaje personalizado.",
+    "Aprendizaje Blended."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La tormenta de ideas como técnica formativa utilizada en educación para la salud se corresponde con:",
+   "o": [
+    "Una técnica expositiva.",
+    "Una técnica de análisis.",
+    "Una técnica de investigación en el aula.",
+    "Una técnica de desarrollo de habilidades."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO forma parte de las intervenciones de consejo y asesoramiento del modelo de las 5 recomendaciones ´A´ de las U.S. Preventive Services Task Force (USPSTF)?:",
+   "o": [
+    "Assess-Averiguar.",
+    "Agree-Acordar.",
+    "Accompany-Acompañar.",
+    "Arrange-Asegurar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La intervención educativa de tipo oportunista, de 2 a 10 minutos de duración, que incluye información y una propuesta motivadora de cambio, aprovechando el encuentro profesional corresponde a:",
+   "o": [
+    "Educación grupal o colectiva.",
+    "Educación individual.",
+    "Educación particular.",
+    "Consejo breve."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la soledad como problema de salud, señale la respuesta INCORRECTA:",
+   "o": [
+    "La soledad no deseada es la carencia de redes sociales satisfactorias en el entorno próximo (Weiss, 1973).",
+    "La sensación de soledad se puede medir con la escala de soledad de UCLA.",
+    "Se relaciona con una mayor morbimortalidad.",
+    "No se aborda en el Marco Estratégico para la Atención Primaria y Comunitaria de 2019."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las últimas recomendaciones del Programa de Actividades Preventivas y Promoción de la Salud, en la prevención del aislamiento social en personas mayores, son todas ciertas EXCEPTO: 697 ENFERMERÍA COMUNITARIA",
+   "o": [
+    "Tener ≥ 75 años, no tener hijos o estar jubilado, se consideran factores de riesgo de aislamiento social.",
+    "Son herramientas validadas para la evaluación del aislamiento social y de uso habitual en Atención Primaria las escalas de Gijón y OARS (escala de recursos sociales).",
+    "Aunque no hay suficiente evidencia sobre la efectividad de las intervenciones para mejorar el aislamiento social, las que parecen ser más efectivas son aquellas que ofrecen una actividad social y/o apoyo dentro de un formato grupal en el que se organizan charlas en las que se favorece el aprendizaje conductista.",
+    "Para poder implementar medidas de prevención es necesario identificar a las personas en riesgo de aislamiento, disponer de métodos para evaluar el aislamiento, desarrollar intervenciones dirigidas a la prevención."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la periodicidad del consejo sobre el tabaco en población adulta general, es cierto que:",
+   "o": [
+    "No es necesario reinterrogar a las personas mayores de 25 años de las que se tenga constancia en la historia clínica, que nunca han fumado.",
+    "Se debe realizar cada 7-10 meses en fumadores, coincidiendo con la valoración del resto de los factores.",
+    "Se debe realizar en todos los casos cada vez que el paciente acuda a consulta por cualquier otro motivo.",
+    "Se debe realizar al menos cada 3 años en fumadores, coincidiendo con la valoración del resto de los factores."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta que las lesiones provocadas por los siniestros viales son un problema de salud pública, es primordial fomentar la seguridad vial. ¿Cuál NO sería una de las recomendaciones en la infancia?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 698",
+   "o": [
+    "En el coche hasta que los niños midan 1,50 metros deben sentarse siempre en los asientos traseros del vehículo.",
+    "En otros medios de transporte público como el taxi, en la ciudad es recomendable el uso de sistema de retención infantil, aunque no es obligatorio.",
+    "En el autobús urbano ubicar la silla o el carrito en las zonas habilitadas a tal efecto y usar las fijaciones disponibles. No olvidar colocar el carrito en sentido contrario a la marcha y con el freno activado.",
+    "En el avión, cuando tienen menos de 2 años, deben viajar en el regazo de la persona a cargo, con un arnés que se sujeta a la persona adulta."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta la importancia del abordaje de la seguridad y lesiones no intencionales en la consulta del niño sano por parte de la Enfermera de Atención Primaria, identifique qué tipo de sistema de retención infantil en vehículos les indicaría a los padres de un niño de 14 kg:",
+   "o": [
+    "Grupo 1.",
+    "Grupo 2.",
+    "Grupo 3.",
+    "Grupo 4."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Estrategia para el Abordaje de la Cronicidad en el Sistema Nacional de Salud (SNS), Documento de Desarrollo 2025-2028, ¿qué opción describe mejor la planificación anticipada de decisiones en personas con enfermedades crónicas avanzadas?:",
+   "o": [
+    "Procedimiento formal centrado en la cumplimentación de documentos legales.",
+    "Proceso estructurado de comunicación entre profesionales, pacientes y entorno para anticipar decisiones clínicas en el final de la vida.",
+    "Mecanismo de derivación clínica a programas específicos de cuidados paliativos.",
+    "Herramienta aplicada en contextos hospitalarios para pacientes con enfermedades terminales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué dos poblaciones se han priorizado en una primera etapa en el ámbito de acción relacionado con los estilos de vida de la Estrategia de Promoción de la Salud y Prevención, del Ministerio de Sanidad, Servicios Sociales e Igualdad (2015):",
+   "o": [
+    "Menores de 14 años y mayores de 65 años.",
+    "Menores de 14 años y mayores de 50 años.",
+    "Menores de 15 años y mayores de 65 años.",
+    "Menores de 15 años y mayores de 50 años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cada cuánto tiempo debe hacerse el consejo sobre alimentación en población general adulta?:",
+   "o": [
+    "Al menos cada 2 años, coincidiendo con la valoración del resto de los factores incluidos en la Estrategia para el Abordaje de la Cronicidad en el Sistema Nacional de la Salud (SNS).",
+    "Una vez al año, coincidiendo con la valoración del resto de los factores incluidos en la estrategia para el abordaje de la cronicidad en el SNS.",
+    "Cada 6-9 meses, coincidiendo con la valoración del resto de los factores incluidos en la estrategia para el abordaje de la cronicidad en el SNS.",
+    "Cada vez que el paciente acuda a consulta, ya que el consejo frecuente ha demostrado incrementar los cambios de estilos de vida."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "R.F.F., de 56 años, acude a consulta de enfermería programada para control y seguimiento de su hipertensión. Durante la atención, hacemos educación individual para la promoción de la actividad física. En este sentido, ¿qué aspecto clave hay que valorar en la consulta?:",
+   "o": [
+    "Se realizará un registro de la actividad física realizada en un mes por el paciente.",
+    "Se valorarán los periodos sedentarios de más de 3 horas.",
+    "Analizar las experiencias y vivencias del paciente respecto a la actividad física.",
+    "En aquellos pacientes que realicen periodos sedentarios de más de 3 horas de duración, se darán recomendaciones para evitarlos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el test de Morisky Green Levine de adherencia al tratamiento es cierto que:",
+   "o": [
+    "Se considera un paciente cumplidor si responde afirmativamente a todos los ítems.",
+    "Se considera un paciente cumplidor si responde de forma negativa a todos los ítems.",
+    "Se considera un paciente cumplidor si responde correctamente al menos al 75 % de los ítems.",
+    "Se considera un paciente cumplidor si responde de forma incorrecta al menos al 75 % de los ítems."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes escalas de valoración, ¿cuál es la más oportuna para valorar la soledad no deseada en pacientes?:",
+   "o": [
+    "Escala Loneliness.",
+    "Escala de DUKE.",
+    "Escala UCLA.",
+    "Escala Goldberg."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifica una de las herramientas que se utiliza para valorar la adherencia terapéutica del paciente en la consulta de Atención Primaria:",
+   "o": [
+    "Test de Morisky-Green.",
+    "Test de Richmond.",
+    "Cuestionario EuroQol - 5D.",
+    "Cuestionario de Salud SF-12."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

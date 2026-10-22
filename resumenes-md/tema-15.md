@@ -102,7 +102,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Comunicación, asertividad, Peplau
 | Periodicidad | Decenal (años terminados en 1) | **Continua** |
 | Carácter | Estadístico, **secreto estadístico** | Administrativo y **público**; prueba de residencia; necesario para la **TSI** |
 
-- **Población de hecho** = residentes presentes + **transeúntes**. **Población de derecho** = residentes presentes + **residentes ausentes**.
+- **Población de hecho** = residentes presentes + ==**transeúntes**==. **Población de derecho** = residentes presentes + **residentes ausentes**.
 - Encuestas: **ENSE** (Ministerio de Sanidad e INE) y **Encuesta Europea de Salud** (cada 5 años, Eurostat).
 - **Pirámide**: edades en el eje vertical, hombres a la **izquierda** y mujeres a la derecha. Pagoda o expansiva (joven), campana o estacionaria y **bulbo, urna o regresiva** (España y Murcia; el "abultamiento" de **50-70 años** es el ***baby boom***, que llegará a los 65 en la próxima década).
 
@@ -119,7 +119,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Comunicación, asertividad, Peplau
 | **Índice sintético de fecundidad** | Hijos por mujer; **reemplazo: 2,1** (España ≈ 1,1-1,2) |
 | Tasa bruta de mortalidad | Defunciones / población media × 1.000 (alta en países envejecidos) |
 | Mortalidad específica | Denominador: **solo el subgrupo** (p. ej., varones de 40-44 años) |
-| **Mortalidad infantil** | Muertes < 1 año / **nacidos vivos** × 1.000 |
+| **Mortalidad infantil** | Muertes < 1 año / ==**nacidos vivos**== × 1.000 |
 | **Mortalidad materna** | Muertes por embarazo, parto o puerperio / **nacidos vivos** × **100.000** |
 
 - **Neonatal**: < 28 días (**precoz < 7 días**, causas endógenas y obstétricas; tardía 7-27 días). **Postneonatal**: 28 días a < 1 año (causas **exógenas**: infecciones, accidentes; la más sensible a la enfermería comunitaria).
@@ -156,6 +156,6 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Comunicación, asertividad, Peplau
 - **Dahlgren y Whitehead**: núcleo (edad, sexo, genética), capa 1 (estilos de vida), **capa 2 (redes sociales y comunitarias: familia, soledad)**, **capa 3 (condiciones de vida y trabajo, incluido el sistema sanitario)**, capa 4 (condiciones socioeconómicas, culturales y ambientales).
 
 !! Disco rayado = **repetir**; banco de niebla = **dar parte de razón** sin ceder.
-!! Población de **derecho** = presentes + **ausentes**; de **hecho** = presentes + **transeúntes**.
-!! Mortalidad infantil y materna: denominador **nacidos vivos** (la materna, × 100.000).
+!! ==Población de **derecho** = presentes + **ausentes**; de **hecho** = presentes + **transeúntes**.==
+!! ==Mortalidad infantil y materna: denominador **nacidos vivos** (la materna, × 100.000).==
 !! Las tasas de dependencia tienen como denominador la población de **15-64 años**.

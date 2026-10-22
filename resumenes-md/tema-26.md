@@ -42,6 +42,24 @@ sub: Resumen OPE Enfermería SMS · Cambios fisiológicos, nutrición, higiene, 
 - **Preeclampsia**: **TA ≥ 140/90 después de la semana 20** con **proteinuria ≥ 300 mg/24 h** o daño de órgano. **Grave**: **≥ 160/110**, cefalea, **escotomas**, hiperreflexia, **dolor epigástrico** o en hipocondrio derecho, transaminasas al doble, creatinina > 1,1, oliguria, **plaquetas < 100.000**. **Eclampsia** = convulsiones. Cuidados: **habitación tranquila y oscura**, constantes, reflejos, sondaje y diuresis horaria.
   - **Sulfato de magnesio** (prevención de la eclampsia): vigilar **frecuencia respiratoria > 12**, **reflejo rotuliano presente** y **diuresis > 30 ml/h**; antídoto: **gluconato cálcico** a pie de cama.
 - **Diabetes gestacional**: resistencia a la insulina por el **lactógeno placentario**. **O'Sullivan** (50 g, sin ayuno) **≥ 140 mg/dl a la hora** → **sobrecarga oral de 100 g** de 3 h (ayuno 8-10 h y 3 días de dieta rica en hidratos): límites **105, 190, 165 y 145 mg/dl**; **≥ 2 valores alterados = diabetes gestacional**; 1 = intolerancia (repetir en 3-4 semanas). Riesgo fetal: **macrosomía** (hiperinsulinismo fetal) y retraso de la maduración pulmonar. Objetivos: **basal < 95** y **1 h tras comer < 140**; si no se controla con dieta y ejercicio, **insulina** (no cruza la placenta). NANDA: **riesgo de nivel de glucemia inestable**.
+  - **Síndrome HELLP** (complicación de la preeclampsia grave): **H**emólisis, **EL**evación de enzimas hepáticas y **L**ow **P**latelets (plaquetopenia); dolor en epigastrio o hipocondrio derecho.
+- **Fecha probable de parto** (regla de **Naegele**): **FUR − 3 meses + 7 días + 1 año** (≈ 280 días). **Maniobras de Leopold**: 4 pasos de palpación abdominal para conocer **situación, presentación, posición** y encajamiento.
+- **Hemorragias del 1.er trimestre**:
+  - **Aborto**: interrupción **antes de la semana 22 o < 500 g**; la causa más frecuente de sangrado en el 1.er trimestre. **Amenaza** (sangrado leve, **cuello cerrado**, embrión vivo), en curso o inevitable (**cuello abierto**), incompleto, completo, **diferido** (embrión muerto retenido), séptico. **Aborto de repetición**: **≥ 2-3 consecutivos**. Tras un aborto en Rh negativa: **anti-D**.
+  - **Embarazo ectópico**: lo más frecuente en la **ampolla de la trompa**; tríada **amenorrea + dolor abdominal + sangrado escaso**; si se rompe: **shock hemorrágico** (cirugía). Sin rotura y estable: expectante o **metotrexato**.
+  - **Mola hidatiforme**: proliferación del trofoblasto (vesículas «en racimo de uvas»), **útero mayor que la amenorrea**, **β-hCG muy alta** e hiperémesis; legrado por aspiración y **seguimiento de la β-hCG** (evitar embarazo durante el seguimiento, ≈ 6-12 meses); puede evolucionar a **coriocarcinoma**.
+- **Hemorragias del 3.er trimestre**:
+
+| | **Placenta previa** | **Desprendimiento prematuro (DPPNI)** |
+|---|---|---|
+| Inicio | Insidioso | **Brusco** |
+| Dolor | **Indolora** | **Dolor intenso**, constante |
+| Sangre | **Roja, abundante**, recidivante | **Oscura y escasa** (puede quedar oculta) |
+| Útero | **Blando**, se palpa el feto | **Hipertonía** («útero de madera») |
+| Feto | Sin sufrimiento al principio | **Sufrimiento fetal** precoz |
+| Factores | Multíparas, cesáreas previas | **HTA/preeclampsia**, tabaco, **cocaína**, traumatismo |
+
+  - En la placenta previa **nunca tacto vaginal** (ecografía); la **oclusiva** (total o parcial) termina en **cesárea**.
 - **Molestias**: lumbalgia (relaxina): postura, calor local, calzado, báscula pélvica; NANDA dolor agudo. **Paracetamol**, el analgésico seguro en todo el embarazo.
 
 ## 5. Puerperio
@@ -72,7 +90,8 @@ sub: Resumen OPE Enfermería SMS · Cambios fisiológicos, nutrición, higiene, 
 !! La anemia del embarazo es **dilucional**; la creatinina baja es lo normal.
 !! Útero **desviado a la derecha** tras el parto = **globo vesical**.
 !! Sangrado con útero **contraído** = **trauma** (desgarro).
-!! Mastitis: **no** se suspende la lactancia.
+!! ==Mastitis: **no** se suspende la lactancia.==
+!! ==Placenta previa: sangre **roja, indolora**, útero blando, **sin tacto vaginal**; desprendimiento: **dolor + hipertonía** y sangre oscura.==
 
 ## Imágenes clave del tema
 

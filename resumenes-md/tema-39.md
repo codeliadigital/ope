@@ -84,11 +84,11 @@ sub: Resumen OPE Enfermería SMS · Valoración neurológica (Glasgow, FOUR, pup
 - **Drenaje ventricular externo**: técnica aséptica, **cero a la altura del trago** (agujero de Monro), altura pautada y **pinzarlo siempre antes de movilizar** al paciente.
 - **Paciente inmovilizado**: prevenir **úlceras** (cambios, colchón de aire, ácidos grasos hiperoxigenados) y **úlceras corneales** (lubricante ocular y oclusión palpebral si no cierra los ojos).
 
-!! Broca (frontal) = afasia **motora**; Wernicke (temporal) = afasia **sensitiva**.
-!! Glasgow **≤ 8** = grave (intubar); decorticación = flexión; descerebración = **extensión**.
+!! ==Broca (frontal) = afasia **motora**; Wernicke (temporal) = afasia **sensitiva**.==
+!! ==Glasgow **≤ 8** = grave (intubar); decorticación = flexión; descerebración = **extensión**.==
 !! **Anisocoria aguda > 1 mm** = posible herniación; opiáceos = **miosis**.
 !! XII par: la lengua se desvía **hacia el lado lesionado**.
-!! Cincinnati: **un signo** basta para el Código Ictus; fibrinólisis **4,5 h**; puerta-aguja **< 60 min**.
+!! ==Cincinnati: **un signo** basta para el Código Ictus; fibrinólisis **4,5 h**; puerta-aguja **< 60 min**.==
 !! Ictus isquémico: **no bajar la TA bruscamente** (salvo > 185/110 para fibrinolisar); tratar la **fiebre** y la hiperglucemia.
 !! Disfagia: **cribado (MECV-V) antes de dar nada por boca**; PEG si **> 4-6 semanas**.
 !! Crisis: **nada en la boca, no sujetar**, lateral de seguridad al ceder; estatus a los **5 min**.

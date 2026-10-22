@@ -1,0 +1,313 @@
+{
+ "tema": 27,
+ "preguntas": [
+  {
+   "q": "Dentro de los test y escalas que podemos utilizar para valorar el estado del suelo pélvico, aquel que mide concretamente la fuerza muscular es:",
+   "o": [
+    "Test de Sandvik.",
+    "Escala Cervantes.",
+    "Escala de Oxford.",
+    "Test de la compresa."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes características del ovario es correcta?:",
+   "o": [
+    "Es una glándula endocrina que produce las hormonas folículo-estimulante (FSH) y luteinizante (LH).",
+    "Dentro de las estructuras de suspensión ovárica se encuentra el ligamento ancho.",
+    "En la capa cortical se encuentran los vasos sanguíneos y linfáticos.",
+    "La médula ovárica contiene los folículos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué tipo de pelvis, presente en un 15% de los casos, hace referencia la siguiente descripción clínica?: estrecho superior en forma elípctica con predominio de los diámetros anteroposteriores respecto a los transversos, y estrecho inferior ensanchado:",
+   "o": [
+    "Ginecoide.",
+    "Androide.",
+    "Platipeloide.",
+    "Antropoide."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante el ciclo menstrual femenino, la fase en que se observa una elevación rápida de la producción de progesterona corresponde a:",
+   "o": [
+    "Fase folicular.",
+    "Fase menstrual o menstruación.",
+    "Fase proliferativa.",
+    "Fase lútea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación al ciclo ovárico:",
+   "o": [
+    "Los niveles de progesterona son altos en la fase folicular.",
+    "Los niveles de FSH y LH descienden durante la fase de funcionamiento del cuerpo lúteo.",
+    "Tras la ovulación, se produce un pico de FSH.",
+    "Durante la ovulación se presentan niveles bajos de FSH y LH, y concentraciones altas de estrógenos y progesterona."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes hormonas, señale el andrógeno producido por el ovario:",
+   "o": [
+    "Estrona.",
+    "Estradiol.",
+    "Androstenodiona.",
+    "Pregnenolona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Las hormonas sexuales esteroideas tienen un papel fundamental en el ciclo genital femenino. ¿Cuál de los siguientes efectos corresponde a los estrógenos?:",
+   "o": [
+    "Aumentan la fragilidad capilar.",
+    "Tienen el efecto protector sobre el tejido óseo ya que estimulan la acción de los osteoblastos.",
+    "Tienen un efecto termógeno, suben la temperatura basal del cuerpo en unos 0,5 ºC.",
+    "Estimulan las secreciones en el endometrio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Mujer de 21 años, con amenorrea primaria es diagnosticada de Síndrome de Turner. ¿Qué cariotipo presenta?:",
+   "o": [
+    "45 X.",
+    "46 XX. 281 ENFERMERÍA MATERNAL",
+    "47 XXX.",
+    "47 XXY."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Ginecología y Obstetricia (SEGO) y la Sociedad Española de Endocrinología y Nutrición (SEEN), en su documento de consenso sobre el manejo de la disfunción tiroidea durante el embarazo, es cierto que:",
+   "o": [
+    "La patología tiroidea es igual de frecuente en la mujer como en el hombre.",
+    "En la hiperfunción tiroidea primaria la hipófisis intenta estimular la glándula tiroides aumentando la secreción de la hormona estimulante de la tiroides (TSH), mientras que, en el hipotiroidismo, se inhibe la producción de TSH.",
+    "En España, la SEEN y la SEGO recomiendan la realización de un cribado selectivo de función tiroidea en la gestación.",
+    "Todos los grados de yododeficiencia (leve, moderada o severa), pueden potencialmente causar daño neurológico en el feto."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la imagen siguiente, ¿de qué dispositivo se trata?:",
+   "o": [
+    "Es un dispositivo que permite realizar hemostasia en cavidades.",
+    "Se trata de una ventosa obstétrica tipo Kiwi.",
+    "Se trata de un dispositivo de ajuste de presión en terapia V.A.C. o terapia por presión negativa.",
+    "Es un sistema de ventosa para recuperación muscular."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. Según la imagen mostrada, ¿qué prueba de las siguientes se está realizando?:",
+   "o": [
+    "Glucemia capilar.",
+    "Donación de sangre de cordón umbilical.",
+    "Biopsia corial.",
+    "Análisis de pH en sangre de cordón umbilical."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Para valorar si el estado materno en un parto extrahospitalario permite el traslado a un centro sanitario se usa un sistema de puntuación. Indique cuál de los siguientes es dicho sistema:",
+   "o": [
+    "Test de Apgar.",
+    "Test de Malinas.",
+    "Test de Silverman.",
+    "Test de Bishop."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La Organización Mundial de la Salud (OMS) incluye la tasa de cesáreas como un indicador de calidad de la atención materna y perinatal basada en el número de mujeres en quienes se prevén complicaciones, recomendado que dicha tasa sea de un:",
+   "o": [
+    "25% a un 30%.",
+    "18% a un 22%",
+    "10% a un 15%.",
+    "2% a un 5 %."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes opciones, ¿cuál es considerada un factor protector frente al cáncer de mama?:",
+   "o": [
+    "Lactancia materna prolongada.",
+    "Uso de anticoncepción hormonal",
+    "Nuliparidad o primera gestación tardía.",
+    "Menarquía temprana y menopausia tardía."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la clasificación BIRADS, que busca estandarizar la clasificación de las lesiones radiológicas mamarias, la categoría 3 corresponde a:",
+   "o": [
+    "Hallazgo sospechoso de malignidad.",
+    "Hallazgo probablemente benigno.",
+    "Mamografía normal.",
+    "Se requieren nuevas pruebas, datos no concluyentes. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 302"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Documento de consenso sobre la modificación del Programa de Cribado de Cáncer de Cérvix del Ministerio de Sanidad, ¿cuál de los siguientes casos sería correcto?:",
+   "o": [
+    "Una mujer de 60 años que ha seguido el programa de cribado adecuadamente habrá finalizado el cribado.",
+    "En una mujer de 29 años el cribado debe realizarse con una prueba de detección del virus del papiloma humano.",
+    "En una mujer de 26 años la prueba de elección para el cribado es la citología cervical.",
+    "Una mujer de 23 años debe incluirse en el programa cribado si hace más de 5 años que comenzó con relaciones sexuales coitales."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de los siguientes es un factor protector relacionado con los miomas uterinos:",
+   "o": [
+    "Menarquia precoz.",
+    "Mujeres de raza negra.",
+    "Nuliparidad.",
+    "Tabaquismo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La terapia hormonal feminizante también se llama terapia hormonal de afirmación de género. Indique cuál de las siguientes es una contraindicación absoluta en el tratamiento con estrógenos en mujeres transexuales:",
+   "o": [
+    "Obesidad grado I.",
+    "Enfermedad tromboembólica.",
+    "Tabaquismo.",
+    "Diabetes mellitus."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes afirmaciones es INCORRECTA en relación con la endometriosis en las mujeres que padecen esta enfermedad:",
+   "o": [
+    "La infertilidad puede alcanzar al 30-40 % de las mujeres con endometriosis.",
+    "Puede catalogarse como una enfermedad crónica e invalidante para algunas pacientes, especialmente para el subgrupo de mujeres con endometriosis más grave denominada endometriosis profunda.",
+    "Las mujeres con dolor pélvico crónico sin endometriosis tienen una menor frecuencia de trastornos psicológicos que las mujeres con endometriosis.",
+    "En general los síntomas son menos intensos durante el periodo menstrual y suelen empeorar con la menopausia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la endometriosis, indica cuál de lassiguientes afirmaciones es INCORRECTA:",
+   "o": [
+    "El método diagnóstico es la laparoscopia, quepermite la inspección visual de la pelvis.",
+    "En general los síntomas son más intensos durante la menstruación.",
+    "Los síntomas más comunes son dismenorrea,dispareunia, infertilidad y dolor pélvico crónico.",
+    "Es un proceso agudo y puntual."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes criterios se debe aplicar, según la actual cartera de servicios comunes del Sistema Nacional de Salud, respecto al cribado poblacional de cáncer de cérvix:",
+   "o": [
+    "En una mujer de 26 años se debe recomendar una citología anual.",
+    "En una mujer que se indique determinación de papiloma humano de alto riesgo (VPH-AR), si resulta positivo, se debe realizar un triaje con citología.",
+    "En una mujer de 50 años que se indique determinación de papiloma humano de alto riesgo (VPH-AR), si resulta negativo, no precisa hacerse más controles.",
+    "En una mujer de 50 años se debe recomendar una determinación del papiloma humano de alto riesgo (VPH-AR) trianual."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la relación entre el cáncer de mama y la lactancia materna como factor protector, ¿cuál de las siguientes afirmaciones es cierta?:",
+   "o": [
+    "El factor protector está ligado a la secreción de prolactina durante la lactancia.",
+    "El aumento de los niveles séricos de estrógenos en la lactancia disminuye la incidencia de cáncer de mama.",
+    "El retraso en el restablecimiento de la función ovárica dada en la lactancia no tiene relación con la incidencia del cáncer de mama.",
+    "El riesgo de cáncer de mama se reduce un 4,3% por cada 12 meses de lactancia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes factores de riesgo NO se relaciona con el cáncer de endometrio?:",
+   "o": [
+    "Diabetes Mellitus.",
+    "Obesidad.",
+    "Multiparidad.",
+    "Hipertensión arterial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes se considera una recomendación fuerte para el tratamiento de los síntomas vasomotores asociados a la menopausia, según la Guía de Práctica Clínica sobre el abordaje de síntomas vasomotores y vaginales asociados a la menopausia y la postmenopausia del Ministerio de Sanidad y Servicios Sociales e Igualdad de España?:",
+   "o": [
+    "La práctica de yoga se ha mostrado significativamente superior a la actividad física para la reducción de síntomas vasomotores.",
+    "Evitar bebidas calientes, alcohólicas y ambientes calurosos, disminuye claramente la frecuencia y/o intensidad de los sofocos.",
+    "En mujeres que conservan el útero no se recomienda añadir gestágenos al tratamiento con estrógenos.",
+    "No se recomienda el tratamiento hormonal en mujeres con síntomas vasomotores leves."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes escalas climatéricas es una escala validada para la población española, según la Guía de Práctica Clínica sobre el abordaje de síntomas vasomotores y vaginales asociados a la menopausia y la postmenopausia del Ministerio de Sanidad, Servicios Sociales e Igualdad:",
+   "o": [
+    "Escala de REEDA.",
+    "Índice de Kupperman.",
+    "Escala de Cervantes.",
+    "Escala Braden."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre el abordaje de los síntomas vasomotores y vaginales asociados a la menopausia y la postmenopausia, ¿qué edad se corresponde con el término de menopausia precoz?:",
+   "o": [
+    "Entre los 45 y 47 años.",
+    "Entre los 42 y 44 años.",
+    "Antes de los 40 años.",
+    "Antes de los 39 años."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica sobre el abordaje de síntomas vasomotores y vaginales asociados a la menopausia y la postmenopausia, del Ministerio de Sanidad, Servicios Sociales e Igualdad, algunos de los siguientes factores se relacionan con la edad de aparición de la menopausia, EXCEPTO:",
+   "o": [
+    "Menarquia temprana.",
+    "Alto índice de masa corporal.",
+    "Consumo de tabaco.",
+    "Edad de la menopausia en la madre y hermanas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA en relación con la perimenopausia y postmenopausia:",
+   "o": [
+    "Pueden aparecer síntomas que pueden causar malestar y empeorar la calidad de vida de las mujeres entre los que se encuentran los síntomas vasomotores y la atrofia vaginal.",
+    "La menopausia es una condición que se alcanza cuando han pasado más de 12 meses de la última regla.",
+    "En este periodo todavía existe riesgo de embarazo ya que es posible la ovulación espontanea ocasional.",
+    "En caso de tratamiento hormonal se recomienda iniciar el tratamiento con dosis altas y disminuirla progresivamente hasta la remisión o mejora importante de la sintomatología."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

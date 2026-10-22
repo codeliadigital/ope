@@ -101,11 +101,11 @@ sub: Resumen OPE Enfermería SMS · Modelo español y marco legal, tipos de dona
 
 - **Aislamiento protector (inverso)**: **presión positiva** (el aire sale de la habitación; la **presión negativa** es para pacientes **contagiosos** como la tuberculosis), **filtros HEPA** (≥ 99,97% de partículas de 0,3 µm; previenen la **aspergilosis**), muchas renovaciones de aire por hora. Limpieza **húmeda** (nunca barrer en seco) **de lo más limpio a lo más sucio**; **sin plantas ni flores**; **dieta de baja carga microbiana** (sin ensaladas crudas, frutas sin pelar, quesos sin pasteurizar); contacto telemático con la familia.
 - **Hemoderivados**: concentrado de hematíes, **plaquetas** (pool leucodeplecionado), **plasma fresco** (factores de coagulación).
-- **Transfusión**: **doble comprobación** por dos profesionales a pie de cama; **quedarse con el paciente los primeros 15 min** con ritmo lento y constantes. **Hemolítica aguda**: fiebre, escalofríos, **dolor lumbar**, orina oscura. **TRALI**: disnea e hipoxemia con **hipotensión** (principal causa de muerte transfusional). **TACO**: sobrecarga de volumen con **hipertensión**. Ante una reacción: **parar la transfusión, mantener la vía con SF y avisar** al médico y al banco de sangre.
+- **Transfusión**: **doble comprobación** por dos profesionales a pie de cama; **quedarse con el paciente los primeros 15 min** con ritmo lento y constantes. **Hemolítica aguda**: fiebre, escalofríos, ==**dolor lumbar**==, orina oscura. **TRALI**: disnea e hipoxemia con ==**hipotensión**== (principal causa de muerte transfusional). **TACO**: sobrecarga de volumen con ==**hipertensión**==. Ante una reacción: **parar la transfusión, mantener la vía con SF y avisar** al médico y al banco de sangre.
 
 !! Ley **30/1979** = consentimiento **presunto**, pero **siempre se pregunta a la familia**; **anonimato** absoluto.
 !! RD **1723/2012** = criterios de **muerte encefálica**; observación **6 h** (lesión destructiva) / **24 h** (anoxia).
-!! ME: **Glasgow 3**, sin reflejos del tronco, **apnea con PaCO₂ > 60**.
+!! ==ME: **Glasgow 3**, sin reflejos del tronco, **apnea con PaCO₂ > 60**.==
 !! Donante en ME: bradicardia que **no responde a atropina**; PAM **> 60**, diuresis **> 1 ml/kg/h**, glucemia **120-180**.
 !! Terapia triple: **corticoide + tiroxina + insulina**; diabetes insípida → **desmopresina**.
 !! Maastricht **III** = asistolia controlada tras LTSV o PAM.
@@ -119,4 +119,4 @@ sub: Resumen OPE Enfermería SMS · Modelo español y marco legal, tipos de dona
 !! Niveles **valle antes de la dosis**; **no vacunas vivas**; fotoprotección.
 !! TPH: DMSO = **olor a ajo**; EICH = **piel + hígado + diarrea**.
 !! Protector = **presión positiva + HEPA**; contagioso = **presión negativa**.
-!! Transfusión: **dolor lumbar** = hemolítica; TRALI **hipotensión**, TACO **hipertensión**; **parar y mantener la vía con SF**.
+!! ==Transfusión: **dolor lumbar** = hemolítica; TRALI **hipotensión**, TACO **hipertensión**; **parar y mantener la vía con SF**.==

@@ -7,181 +7,211 @@
       "q": "Según la Ley 14/1986, General de Sanidad, las Áreas de Salud se delimitarán con carácter general para atender a una población:",
       "o": ["Entre 5.000 y 25.000 habitantes", "Entre 100.000 y 150.000 habitantes", "No inferior a 200.000 ni superior a 250.000 habitantes", "No inferior a 250.000 ni superior a 300.000 habitantes"],
       "a": 2,
-      "e": "La LGS fija para el Área de Salud una horquilla de 200.000-250.000 habitantes (con excepciones). La de 5.000-25.000 corresponde a la Zona Básica de Salud."
+      "e": "La LGS fija para el Área de Salud una horquilla de 200.000-250.000 habitantes (con excepciones). La de 5.000-25.000 corresponde a la Zona Básica de Salud.",
+      "por": ["5.000-25.000 habitantes es la horquilla de la Zona Básica de Salud, no del Área.", "100.000-150.000 no es ninguna cifra de la LGS.", null, "Se pasa del máximo: la horquilla del Área es 200.000-250.000."]
     },
     {
       "q": "El Consejo Interterritorial del Sistema Nacional de Salud está presidido por:",
       "o": ["El Presidente del Gobierno", "La persona titular del Ministerio de Sanidad", "Un consejero autonómico elegido por rotación anual", "El Director del Instituto de Salud Carlos III"],
       "a": 1,
-      "e": "La presidencia del CISNS corresponde al titular del Ministerio de Sanidad. La vicepresidencia la ocupa un consejero autonómico elegido por y entre ellos."
+      "e": "La presidencia del CISNS corresponde al titular del Ministerio de Sanidad. La vicepresidencia la ocupa un consejero autonómico elegido por y entre ellos.",
+      "por": ["El Presidente del Gobierno no forma parte del CISNS.", null, "Un consejero autonómico ocupa la vicepresidencia, no la presidencia.", "El Instituto de Salud Carlos III no preside el CISNS."]
     },
     {
       "q": "La Ley 14/1986, General de Sanidad, entró en vigor el:",
       "o": ["25 de abril de 1986", "29 de abril de 1986", "19 de mayo de 1986", "1 de enero de 1987"],
       "a": 2,
-      "e": "Se aprobó el 25 de abril, se publicó en el BOE el 29 de abril y entró en vigor a los 20 días, el 19 de mayo de 1986."
+      "e": "Se aprobó el 25 de abril, se publicó en el BOE el 29 de abril y entró en vigor a los 20 días, el 19 de mayo de 1986.",
+      "por": ["El 25 de abril de 1986 es la fecha de aprobación.", "El 29 de abril de 1986 es la publicación en el BOE.", null, "No hay vacatio de ocho meses: entró en vigor a los 20 días."]
     },
     {
       "q": "El atributo de la Atención Primaria que se refiere a la relación personal y continuada en el tiempo entre el paciente y su profesional, esté o no enfermo, es la:",
       "o": ["Longitudinalidad", "Continuidad asistencial", "Integralidad", "Accesibilidad"],
       "a": 0,
-      "e": "La longitudinalidad es la relación a lo largo del tiempo con el profesional. La continuidad se refiere a que el proceso asistencial no se interrumpa entre niveles."
+      "e": "La longitudinalidad es la relación a lo largo del tiempo con el profesional. La continuidad se refiere a que el proceso asistencial no se interrumpa entre niveles.",
+      "por": [null, "La continuidad asistencial es que el proceso no se interrumpa entre niveles, no la relación con el profesional.", "La integralidad es la atención biopsicosocial.", "La accesibilidad es la facilidad para llegar al sistema."]
     },
     {
       "q": "Si en un enunciado se describe el abordaje del paciente desde una perspectiva biopsicosocial, ¿a qué atributo de la Atención Primaria se refiere?",
       "o": ["Coordinación", "Accesibilidad", "Longitudinalidad", "Integralidad"],
       "a": 3,
-      "e": "La integralidad supone atender a la persona en su dimensión biológica, psicológica y social, en su contexto."
+      "e": "La integralidad supone atender a la persona en su dimensión biológica, psicológica y social, en su contexto.",
+      "por": ["La coordinación es la relación entre niveles y profesionales.", "La accesibilidad es la facilidad de acceso.", "La longitudinalidad es la relación continuada en el tiempo con el mismo profesional.", null]
     },
     {
       "q": "¿Qué norma regula las vacaciones, permisos y carrera profesional de una enfermera del SMS?",
       "o": ["Ley 44/2003, de ordenación de las profesiones sanitarias", "Ley 16/2003, de cohesión y calidad del SNS", "Ley 55/2003, del Estatuto Marco del personal estatutario", "Ley 41/2002, básica reguladora de la autonomía del paciente"],
       "a": 2,
-      "e": "El Estatuto Marco (Ley 55/2003) regula las condiciones de trabajo. La LOPS (44/2003) regula títulos y funciones, y la Ley 16/2003, la cartera de servicios."
+      "e": "El Estatuto Marco (Ley 55/2003) regula las condiciones de trabajo. La LOPS (44/2003) regula títulos y funciones, y la Ley 16/2003, la cartera de servicios.",
+      "por": ["La LOPS (Ley 44/2003) regula títulos y funciones profesionales, no permisos ni vacaciones.", "La Ley 16/2003 regula la cohesión, la calidad y la cartera de servicios del SNS.", null, "La Ley 41/2002 regula la autonomía del paciente y la documentación clínica."]
     },
     {
       "q": "Según la Ley 4/1994, de Salud de la Región de Murcia, el Defensor del Usuario:",
       "o": ["Se integra en la Dirección Gerencia del Servicio Murciano de Salud", "Se adscribe a la Consejería de Salud para garantizar su independencia", "Depende de la Asamblea Regional", "Es un órgano del Consejo de Administración del SMS"],
       "a": 1,
-      "e": "El Defensor del Usuario no se adscribe al SMS, sino a la Consejería, para no actuar como juez y parte frente a las gerencias."
+      "e": "El Defensor del Usuario no se adscribe al SMS, sino a la Consejería, para no actuar como juez y parte frente a las gerencias.",
+      "por": ["Integrarlo en el SMS lo haría juez y parte; precisamente por eso no está en el SMS.", null, "No depende de la Asamblea Regional (ese sería el modelo de defensor parlamentario).", "No es un órgano del Consejo de Administración del SMS."]
     },
     {
       "q": "Según el mapa sanitario de la Región de Murcia, ¿cuántas Zonas Básicas de Salud y cuántos Centros de Salud existen?",
       "o": ["85 Zonas Básicas y 90 Centros de Salud", "90 Zonas Básicas y 85 Centros de Salud", "90 Zonas Básicas y 90 Centros de Salud", "85 Zonas Básicas y 85 Centros de Salud"],
       "a": 1,
-      "e": "Hay 90 ZBS y 85 centros de salud, porque algunas zonas comparten infraestructura. Es falso que haya tantos centros como zonas."
+      "e": "Hay 90 ZBS y 85 centros de salud, porque algunas zonas comparten infraestructura. Es falso que haya tantos centros como zonas.",
+      "por": ["Está invertido: hay 90 zonas y 85 centros.", null, "No coinciden: algunas zonas comparten centro, por eso hay menos centros (85).", "Las zonas son 90, no 85."]
     },
     {
       "q": "¿Cuál es el Área de Salud de la Región de Murcia con mayor población asignada y mayor número de consultorios locales?",
       "o": ["Área I, Murcia Oeste", "Área VI, Vega Media del Segura", "Área III, Lorca", "Área II, Cartagena"],
       "a": 3,
-      "e": "El Área II (Cartagena) tiene la mayor población (unas 249.700 tarjetas) y 44 consultorios. Lorca es la más extensa y Vega Alta la de menor población."
+      "e": "El Área II (Cartagena) tiene la mayor población (unas 249.700 tarjetas) y 44 consultorios. Lorca es la más extensa y Vega Alta la de menor población.",
+      "por": ["El Área I (Murcia Oeste) no es la de mayor población ni la de más consultorios.", "El Área VI (Vega Media) no es la de mayor población asignada.", "Lorca es la más extensa, pero no la más poblada.", null]
     },
     {
       "q": "Tras el Decreto 343/2023, ¿cuál de las siguientes NO es una Dirección General del Servicio Murciano de Salud?",
       "o": ["Dirección General de Atención Primaria", "Dirección General de Salud Mental", "Dirección General de Asistencia Sanitaria", "Dirección General de Recursos Humanos"],
       "a": 2,
-      "e": "La antigua DG de Asistencia Sanitaria desapareció. Las cuatro actuales son Atención Primaria, Atención Hospitalaria, Salud Mental y Recursos Humanos."
+      "e": "La antigua DG de Asistencia Sanitaria desapareció. Las cuatro actuales son Atención Primaria, Atención Hospitalaria, Salud Mental y Recursos Humanos.",
+      "por": ["Atención Primaria sí es una de las cuatro Direcciones Generales actuales.", "Salud Mental sí es una Dirección General actual.", null, "Recursos Humanos sí es una Dirección General actual."]
     },
     {
       "q": "El Consejo de Administración del Servicio Murciano de Salud está presidido por:",
       "o": ["El Director Gerente del SMS", "El Consejero competente en materia de sanidad", "El Presidente de la Comunidad Autónoma", "El Secretario General Técnico"],
       "a": 1,
-      "e": "La presidencia recae en el Consejero de Salud. El Director Gerente es la máxima autoridad ejecutiva unipersonal."
+      "e": "La presidencia recae en el Consejero de Salud. El Director Gerente es la máxima autoridad ejecutiva unipersonal.",
+      "por": ["El Director Gerente es la máxima autoridad ejecutiva, pero no preside el Consejo de Administración.", null, "El Presidente de la Comunidad no preside órganos del SMS.", "El Secretario General Técnico no preside el Consejo de Administración."]
     },
     {
       "q": "Según el Decreto 54/2016, la presidencia del Consejo de Salud de Área corresponde a:",
       "o": ["El alcalde del municipio más poblado del área", "El Delegado de Salud y Consumo", "La Dirección de Enfermería del Área", "El Gerente del Área de Salud"],
       "a": 3,
-      "e": "El Consejo de Salud de Área lo preside de forma nata el Gerente del Área. No confundir con el Consejo de Administración del SMS (Consejero)."
+      "e": "El Consejo de Salud de Área lo preside de forma nata el Gerente del Área. No confundir con el Consejo de Administración del SMS (Consejero).",
+      "por": ["El alcalde no lo preside; los ayuntamientos son vocales.", "No existe esa figura como presidente del Consejo de Área.", "La Dirección de Enfermería no preside el Consejo de Salud de Área.", null]
     },
     {
       "q": "En la composición del Consejo de Salud de Área, el bloque con mayor número de vocales es el de:",
       "o": ["La Administración sanitaria (SMS)", "Las organizaciones sindicales", "Las organizaciones empresariales", "La Administración local (ayuntamientos)"],
       "a": 3,
-      "e": "Ayuntamientos: 4 vocales; SMS: 3; sindicatos: 2; empresarios: 2. El secretario tiene voz pero no voto."
+      "e": "Ayuntamientos: 4 vocales; SMS: 3; sindicatos: 2; empresarios: 2. El secretario tiene voz pero no voto.",
+      "por": ["El SMS tiene 3 vocales, menos que los ayuntamientos (4).", "Los sindicatos tienen 2 vocales.", "Las organizaciones empresariales tienen 2 vocales.", null]
     },
     {
       "q": "Según el Decreto 54/2016, los Consejos de Salud de Zona:",
       "o": ["Son obligatorios en cada Zona Básica de Salud", "Están presididos por el Gerente del Área", "Tienen carácter facultativo", "Forman parte del Consejo de Administración del SMS"],
       "a": 2,
-      "e": "Los Consejos de Área son obligatorios en las 9 áreas; los de Zona se constituyen solo \"en su caso\" (carácter facultativo)."
+      "e": "Los Consejos de Área son obligatorios en las 9 áreas; los de Zona se constituyen solo \"en su caso\" (carácter facultativo).",
+      "por": ["Obligatorios son los Consejos de Área; los de Zona son facultativos.", "El Gerente del Área preside el Consejo de Área, no los de Zona.", null, "No forman parte del Consejo de Administración del SMS."]
     },
     {
       "q": "Según el RD 1302/2018, ¿qué experiencia profesional mínima se exige para acreditar a una enfermera en la indicación, uso y autorización de dispensación de medicamentos?",
       "o": ["6 meses", "1 año", "2 años", "3 años"],
       "a": 1,
-      "e": "Se exige 1 año de experiencia profesional o, en su defecto, superar un curso de adaptación."
+      "e": "Se exige 1 año de experiencia profesional o, en su defecto, superar un curso de adaptación.",
+      "por": ["6 meses no es suficiente: se exige 1 año.", null, "2 años no es el requisito: basta 1 año.", "3 años no es el requisito: basta 1 año."]
     },
     {
       "q": "La acreditación de las enfermeras para la indicación de medicamentos la otorga:",
       "o": ["El Ministerio de Sanidad", "El Consejo General de Enfermería", "El Colegio Oficial de Enfermería provincial", "La Comunidad Autónoma correspondiente"],
       "a": 3,
-      "e": "La acreditación la concede la Comunidad Autónoma (en Murcia, la Consejería de Salud), no el Ministerio ni los colegios."
+      "e": "La acreditación la concede la Comunidad Autónoma (en Murcia, la Consejería de Salud), no el Ministerio ni los colegios.",
+      "por": ["El Ministerio no acredita; la acreditación es autonómica.", "El Consejo General de Enfermería no acredita.", "Los colegios provinciales no acreditan.", null]
     },
     {
       "q": "Para que una enfermera acreditada indique un medicamento sujeto a prescripción médica (por ejemplo, una vacuna o una insulina) se requiere:",
       "o": ["Una orden escrita del médico para cada dispensación", "La existencia de protocolos o guías de práctica clínica y asistencial validados", "Ser especialista vía EIR", "Nada más: es una actuación autónoma"],
       "a": 1,
-      "e": "Con medicamentos sujetos a prescripción la actuación es colaborativa: solo dentro de protocolos o guías validados. La autónoma se limita a productos sanitarios y medicamentos no sujetos a prescripción."
+      "e": "Con medicamentos sujetos a prescripción la actuación es colaborativa: solo dentro de protocolos o guías validados. La autónoma se limita a productos sanitarios y medicamentos no sujetos a prescripción.",
+      "por": ["No hace falta una orden médica para cada dispensación; se actúa dentro de protocolos o guías.", null, "No es necesario ser especialista EIR.", "Con medicamentos sujetos a prescripción médica no es autónoma: requiere protocolo o guía validados."]
     },
     {
       "q": "Una enfermera acreditada decide indicar un apósito de plata (producto sanitario) a un paciente. Esta actuación es:",
       "o": ["Autónoma", "Colaborativa, solo bajo protocolo del Ministerio", "Exclusiva de la enfermera especialista", "Exclusiva de Atención Especializada"],
       "a": 0,
-      "e": "Los productos sanitarios y los medicamentos no sujetos a prescripción médica se indican de forma autónoma."
+      "e": "Los productos sanitarios y los medicamentos no sujetos a prescripción médica se indican de forma autónoma.",
+      "por": [null, "No es colaborativa: los productos sanitarios se indican de forma autónoma.", "No se exige ser especialista.", "No es exclusiva de Atención Especializada."]
     },
     {
       "q": "El modelo de Enfermería Primaria (enfermera referente) fue desarrollado por:",
       "o": ["Virginia Henderson", "Dorothea Orem", "Marie Manthey", "Barbara Starfield"],
       "a": 2,
-      "e": "Marie Manthey lo desarrolló en EE. UU. en los años 70. Starfield describió los atributos de la Atención Primaria."
+      "e": "Marie Manthey lo desarrolló en EE. UU. en los años 70. Starfield describió los atributos de la Atención Primaria.",
+      "por": ["Henderson describió las 14 necesidades básicas, no la enfermería primaria.", "Orem formuló la teoría del autocuidado.", null, "Starfield describió los atributos de la Atención Primaria."]
     },
     {
       "q": "En una planta, la enfermera A reparte la medicación, la B hace las curas y la C toma las constantes de todos los pacientes. Se trata de un modelo de organización:",
       "o": ["Funcional o por tareas", "De enfermería primaria", "De enfermería en equipo", "De gestión de casos"],
       "a": 0,
-      "e": "Repartir el trabajo por tareas es el modelo funcional, que genera una alta fragmentación de los cuidados."
+      "e": "Repartir el trabajo por tareas es el modelo funcional, que genera una alta fragmentación de los cuidados.",
+      "por": [null, "En la enfermería primaria una enfermera se hace cargo de todos los cuidados de sus pacientes.", "En la enfermería en equipo un grupo atiende a un grupo de pacientes bajo un líder, no por tareas.", "La gestión de casos coordina a pacientes complejos a lo largo del proceso."]
     },
     {
       "q": "En la pirámide de estratificación de Kaiser Permanente, la enfermera gestora de casos interviene en:",
       "o": ["El nivel 1: promoción y prevención", "El nivel 2: seguimiento protocolizado de crónicos estables", "La base de la pirámide (70-80% de la población)", "El nivel 3: pacientes de alta complejidad"],
       "a": 3,
-      "e": "La gestión de casos corresponde al vértice de la pirámide (nivel 3, alrededor del 5% de la población, de alta complejidad)."
+      "e": "La gestión de casos corresponde al vértice de la pirámide (nivel 3, alrededor del 5% de la población, de alta complejidad).",
+      "por": ["El nivel 1 (autogestión, promoción y prevención) es la base de la pirámide.", "El nivel 2 es la gestión de la enfermedad con seguimiento protocolizado, no la gestión de casos.", "La base de la pirámide (70-80%) es población sana o con crónicos leves.", null]
     },
     {
       "q": "Para definir a un paciente como pluripatológico, susceptible de gestión de casos, se utilizan:",
       "o": ["Los criterios de Ollero", "El índice de Barthel", "La escala de Lawton y Brody", "El test de Pfeiffer"],
       "a": 0,
-      "e": "Los criterios de Ollero agrupan las enfermedades crónicas en 8 categorías (A-H); es pluripatológico quien cumple 2 o más."
+      "e": "Los criterios de Ollero agrupan las enfermedades crónicas en 8 categorías (A-H); es pluripatológico quien cumple 2 o más.",
+      "por": [null, "El Barthel mide la dependencia para las actividades básicas, no la pluripatología.", "El Lawton y Brody mide las actividades instrumentales.", "El Pfeiffer valora el deterioro cognitivo."]
     },
     {
       "q": "El programa informático de historia clínica utilizado mayoritariamente en las consultas de Atención Primaria del SMS es:",
       "o": ["Selene", "OMI-AP", "Diraya", "Ágora Plus"],
       "a": 1,
-      "e": "En AP del SMS se usa OMI-AP; en Atención Especializada (hospital), Selene."
+      "e": "En AP del SMS se usa OMI-AP; en Atención Especializada (hospital), Selene.",
+      "por": ["Selene es el programa del hospital (Atención Especializada).", null, "Diraya es el sistema del Servicio Andaluz de Salud.", "Ágora Plus es un visor de la historia clínica, no el programa de consulta de AP."]
     },
     {
       "q": "El objetivo fundamental de las vías clínicas compartidas es:",
       "o": ["Aumentar la autonomía de cada profesional", "Sustituir los informes de alta", "Eliminar la derivación entre niveles", "Reducir la variabilidad clínica"],
       "a": 3,
-      "e": "Las vías clínicas estandarizan el itinerario asistencial basado en la evidencia y reducen la variabilidad clínica."
+      "e": "Las vías clínicas estandarizan el itinerario asistencial basado en la evidencia y reducen la variabilidad clínica.",
+      "por": ["Las vías clínicas no buscan más autonomía individual, sino estandarizar.", "No sustituyen los informes de alta.", "No eliminan la derivación: la ordenan.", null]
     },
     {
       "q": "El médico de Atención Primaria puede consultar la analítica que se hizo a su paciente durante el ingreso hospitalario. Esto es un ejemplo de continuidad:",
       "o": ["De relación", "De gestión", "De información", "Longitudinal"],
       "a": 2,
-      "e": "La continuidad de información garantiza que los datos clínicos estén disponibles. La de gestión evita solapamientos (mismo protocolo, no duplicar pruebas)."
+      "e": "La continuidad de información garantiza que los datos clínicos estén disponibles. La de gestión evita solapamientos (mismo protocolo, no duplicar pruebas).",
+      "por": ["La continuidad de relación es la relación personal con el profesional.", "La continuidad de gestión es que la atención esté coordinada (mismo protocolo, sin duplicar pruebas).", null, "Longitudinal es la relación mantenida en el tiempo, no el acceso a la información."]
     },
     {
       "q": "Dentro de un servicio clínico hospitalario, la organización, planificación y evaluación de los cuidados enfermeros corresponde a:",
       "o": ["El Supervisor de Enfermería", "El Jefe de Servicio", "El Director Médico", "El Gerente del Área"],
       "a": 0,
-      "e": "El Jefe de Servicio es el responsable médico. Los cuidados los organiza el Supervisor de Enfermería."
+      "e": "El Jefe de Servicio es el responsable médico. Los cuidados los organiza el Supervisor de Enfermería.",
+      "por": [null, "El Jefe de Servicio es el responsable médico del servicio.", "El Director Médico dirige la actividad médica del hospital.", "El Gerente del Área dirige el área en su conjunto."]
     },
     {
       "q": "La duración orientativa de una consulta de enfermería programada es de:",
       "o": ["15-20 minutos", "10-15 minutos", "30-40 minutos", "5-10 minutos"],
       "a": 0,
-      "e": "A demanda: 10-15 min; programada: 15-20 min; primera valoración integral: 30-40 min."
+      "e": "A demanda: 10-15 min; programada: 15-20 min; primera valoración integral: 30-40 min.",
+      "por": [null, "10-15 minutos es la consulta a demanda.", "30-40 minutos es la primera valoración integral.", "5-10 minutos no es una duración orientativa de la consulta de enfermería."]
     },
     {
       "q": "Sobre la enfermera escolar en la Región de Murcia, es correcto que:",
       "o": ["Está presente sobre todo en Centros de Educación Especial; en los colegios ordinarios la EpS la realiza la enfermera de AP de la zona", "Su presencia es obligatoria en todos los institutos según la Ley 33/2011", "Es una especialidad regulada por el RD 450/2005", "Depende orgánicamente de la Dirección General de Atención Hospitalaria"],
       "a": 0,
-      "e": "No hay norma que obligue a su presencia. En Murcia está sobre todo en Centros de Educación Especial; el resto se cubre con enfermeras de AP."
+      "e": "No hay norma que obligue a su presencia. En Murcia está sobre todo en Centros de Educación Especial; el resto se cubre con enfermeras de AP.",
+      "por": [null, "No hay ninguna norma que obligue a tener enfermera escolar; la Ley 33/2011 no lo dice.", "No es una especialidad del RD 450/2005.", "No depende de la Dirección General de Atención Hospitalaria."]
     },
     {
       "q": "Según la Ley General de Sanidad, quedan exceptuadas de la norma poblacional de las Áreas de Salud:",
       "o": ["Madrid y Cataluña", "Las comunidades autónomas uniprovinciales", "Murcia y La Rioja", "Baleares, Canarias, Ceuta y Melilla"],
       "a": 3,
-      "e": "Por su carácter insular o geográficamente especial se exceptúan Baleares, Canarias, Ceuta y Melilla. Además, cada provincia tendrá al menos un Área."
+      "e": "Por su carácter insular o geográficamente especial se exceptúan Baleares, Canarias, Ceuta y Melilla. Además, cada provincia tendrá al menos un Área.",
+      "por": ["Madrid y Cataluña no están exceptuadas.", "Las comunidades uniprovinciales no están exceptuadas por serlo.", "Murcia y La Rioja no están exceptuadas.", null]
     },
     {
       "q": "Según el art. 26 de la Ley 4/1994, las normas de organización y funcionamiento de los Equipos de Atención Primaria en las Zonas Básicas de Salud se aprueban:",
       "o": ["Por Orden del Consejero de Salud", "Por Resolución del Director Gerente del SMS", "Por Decreto del Consejo de Gobierno", "Por Ley de la Asamblea Regional"],
       "a": 2,
-      "e": "Corresponde al Consejo de Gobierno regional mediante Decreto."
+      "e": "Corresponde al Consejo de Gobierno regional mediante Decreto.",
+      "por": ["No es una Orden del Consejero.", "No es una Resolución del Director Gerente.", null, "No hace falta una ley de la Asamblea."]
     }
   ]
 }

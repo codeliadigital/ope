@@ -21,7 +21,7 @@ sub: Resumen OPE Enfermería SMS · Valoración y NANDA, ayuno, medicación y pr
 - El ayuno corto reduce la **resistencia a la insulina** inducida por el estrés quirúrgico.
 - **Ducha** con jabón (clorhexidina) la noche antes o esa mañana. **Vello**: no quitarlo salvo que interfiera; si hace falta, **cortadora eléctrica (clíper) inmediatamente antes**; **nunca cuchilla**.
 - **Medicación**: se **mantienen** **betabloqueantes**, antihipertensivos indicados, tiroideos, **antiepilépticos** e inhaladores (con un sorbo de agua hasta 2 h antes). Se **suspenden**: **metformina 24-48 h** (acidosis láctica; control con insulina), **anticoagulantes** (terapia puente con **HBPM**) y antiagregantes según protocolo (días antes).
-- **Profilaxis antibiótica** (habitualmente **cefazolina**): en los **60 min previos a la incisión** (**120 min** para **vancomicina** y fluoroquinolonas, que se infunden lentamente: **síndrome del hombre rojo**); **redosificar** si dura **> 4 h** o hay sangrado **> 1.500 ml**.
+- **Profilaxis antibiótica** (habitualmente **cefazolina**): en los **60 min previos a la incisión** (**120 min** para **vancomicina** y fluoroquinolonas, que se infunden lentamente: **síndrome del hombre rojo**); **redosificar** si dura ==**> 4 h**== o hay sangrado ==**> 1.500 ml**==.
 - **Profilaxis tromboembólica**: medias, compresión neumática, **HBPM**; dejar **≈ 12 h** desde la última dosis profiláctica antes de una **punción epidural o raquídea** (hematoma espinal).
 - **Consentimiento informado** (Ley 41/2002): lo informa y recoge **el médico responsable**; hay **documentos distintos para cirugía y anestesia**. La enfermera **comprueba que existe y está firmado**; si el paciente tiene dudas, **avisa al cirujano o anestesista**. Por representación en incapaces y menores; sin consentimiento solo ante **riesgo vital inmediato** o para la salud pública. Se puede **revocar por escrito en cualquier momento sin justificarlo**.
 
@@ -117,12 +117,12 @@ sub: Resumen OPE Enfermería SMS · Valoración y NANDA, ayuno, medicación y pr
 - Se aplica a **cirugía mayor programada con ingreso** (excluye urgencias, CMA, cirugía menor y endoscópica). Procedimientos vigilados: **colon, prótesis de cadera y de rodilla, bypass aortocoronario**.
 
 !! El preoperatorio termina al pasar a la **mesa quirúrgica**.
-!! Ayuno: **2 h** líquidos claros, **4 h** leche materna, **6 h** comida ligera o fórmula, **8 h** copiosa.
+!! ==Ayuno: **2 h** líquidos claros, **4 h** leche materna, **6 h** comida ligera o fórmula, **8 h** copiosa.==
 !! Vello: **clíper justo antes**, nunca cuchilla. Metformina: suspender por **acidosis láctica**; betabloqueantes **no se suspenden**.
-!! Profilaxis: **60 min antes de la incisión** (vancomicina **120**); redosis si **> 4 h** o **> 1.500 ml**.
+!! ==Profilaxis: **60 min antes de la incisión** (vancomicina **120**); redosis si **> 4 h** o **> 1.500 ml**.==
 !! Consentimiento: lo da **el médico**; la enfermera **verifica**; **dos documentos** (cirugía y anestesia); revocable **sin justificar**.
 !! Zona **gris** = pijama + gorro + calzas; **blanca** = + mascarilla. Quirófano con **presión positiva**.
-!! Checklist: entrada **antes de la inducción**, pausa **antes de la incisión**, salida **antes de salir**; hemorragia **> 500 ml**.
+!! ==Checklist: entrada **antes de la inducción**, pausa **antes de la incisión**, salida **antes de salir**; hemorragia **> 500 ml**.==
 !! Recuento: **instrumentista + circulante**; muestras: **circulante**; Sellick y cal sodada: **anestesia**.
 !! Capnografía = confirmación de la **intubación**; BIS **40-60**; **Allen** antes de la radial.
 !! Supino: brazo **≤ 90°**; litotomía: **peroné → pie caído**; prono: **ojos**.

@@ -1,0 +1,281 @@
+{
+ "tema": 33,
+ "preguntas": [
+  {
+   "q": "Respecto de los procesos que tienen lugar durante la ovogénesis, indique cuál es el enunciado correcto:",
+   "o": [
+    "Al nacimiento este proceso se encuentra pausado en la Mitosis I.",
+    "La Meiosis II sólo se completa si existe fecundación del ovocito secundario.",
+    "La división cromosómica que da lugar a un ovocito con “n” cromosomas, tiene lugar durante la Meiosis II.",
+    "Durante la infancia, los folículos se desarrollan a través de su maduración y crecimiento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la diferencia entre esterilidad e infertilidad?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 278",
+   "o": [
+    "La infertilidad es un término general, mientras que la esterilidad se refiere específicamente a causas femeninas.",
+    "Son términos sinónimos que se utilizan para describir cualquier problema para tener hijos.",
+    "La esterilidad es la incapacidad de concebir, mientras que la infertilidad es la incapacidad de llevar un embarazo a término.",
+    "La esterilidad se diagnostica tras 6 meses sin concebir y la infertilidad tras 12 meses."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica de atención en el embarazo y puerperio del Ministerio de Sanidad, Servicios Sociales e Igualdad, ¿ante cuál de los siguientes agentes infecciosos, NO se recomienda hacer pruebas serológicas de rutina en la embarazada?:",
+   "o": [
+    "VIH.",
+    "Rubeola.",
+    "Hepatitis B.",
+    "Citomegalovirus."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En el cribado serológico de las embarazadas, señale cuál de las siguientes determinaciones debe realizarse específicamente en poblaciones de riesgo:",
+   "o": [
+    "Virus del papiloma humano.",
+    "Enfermedad de Chagas.",
+    "Toxoplasmosis.",
+    "Rubeola."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la localización más frecuente de una gestación ectópica?:",
+   "o": [
+    "Porción ampular tubárica.",
+    "Fimbrias.",
+    "Zona intersticial.",
+    "Porción ístmica tubárica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes antihipertensivos está absolutamente contraindicado durante el embarazo y su administración debe suspenderse tan pronto como se detecte el embarazo?:",
+   "o": [
+    "Propanolol.",
+    "Losartán.",
+    "Nifedipino.",
+    "Verapamil."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. Señale a cuál de las siguientes presentaciones fetales en podálica, corresponde la siguiente imagen:",
+   "o": [
+    "Nalgas completas.",
+    "Nalgas incompletas.",
+    "Nalgas puras.",
+    "Nalgas complejas."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t13-2024-2025-8.jpg"
+  },
+  {
+   "q": "El óxido nitroso es el analgésico inhalatorio que se emplea de forma más habitual durante el parto a nivel mundial, usándose una concentración de este gas al:",
+   "o": [
+    "100 %.",
+    "75 %.",
+    "50 %",
+    "25 %."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La teratozoospermia hace referencia a la mala morfología de los espermatozoides en el semen eyaculado. Según los criterios de la Organización Mundial de la Salud, ¿con qué porcentaje se asocia esta alteración espermática?:",
+   "o": [
+    "Menos del 85 % de espermatozoides con formas normales.",
+    "Menos del 48 % de espermatozoides con formas normales. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 294",
+    "Menos del 15 % de espermatozoides con formas normales.",
+    "Menos del 4 % de espermatozoides con formas normales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué infusión digestiva de las siguientes recomendaría para la madre durante la lactancia atendiendo a su mejor perfil de seguridad?:",
+   "o": [
+    "Hierbabuena.",
+    "Poleo Menta.",
+    "Anís Estrellado.",
+    "Regaliz."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes es la tendinopatía más frecuente en las mujeres postparto, debido a la posición específica de la mano y muñeca que requiere el cuidado de un lactante:",
+   "o": [
+    "Tendinopatía del bíceps.",
+    "Tenosinovitis de De Quervain.",
+    "Tendinopatía aquílea.",
+    "Enfermedad Dupuytren."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el contexto de la radiología intervencionista el resultado de una embolización es:",
+   "o": [
+    "El aumento del diámetro vascular.",
+    "La mejora de la permeabilidad circulatoria.",
+    "La trombosis de la lesión, que será lo más extensa posible.",
+    "El incremento de presión."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de la clasificación de la mutilación genital femenina, según el documento de Mutilación Genital Femenina en España publicado por el Ministerio de Igualdad, la infubilación se clasifica como:",
+   "o": [
+    "Tipo I.",
+    "Tipo II.",
+    "Tipo III.",
+    "Tipo IV."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una mujer de 33 años, acude a la consulta de enfermería en el Centro de Salud solicitando la determinación del virus del papiloma humano de alto riesgo (VPH-AR). Según lo establecido en la cartera de servicios comunes el Sistema Nacional de Salud, ¿cuál sería la actuación correcta?:",
+   "o": [
+    "Determinación del virus del papiloma humano de alto riesgo (VPH-AR). Si VPH-AR es negativo, repetir la prueba VPH-AR a los cinco años.",
+    "Determinación del virus del papiloma humano de alto riesgo (VPH-AR). Si VPH-AR es positivo, triaje con citología. Si la citología es negativa, repetir VPH-AR a los 6 meses.",
+    "Determinación del virus del papiloma humano de alto riesgo (VPH-AR). Si VPH-AR es positivo, triaje con citología. Si la citología es negativa, repetir VPH-AR al año.",
+    "Citología cada 3 años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Como estrategia de prevención primaria del cáncer de cuello de útero para mujeres menores de 25 años, la recomendación más actual es:",
+   "o": [
+    "Realizar prueba de VPH (virus del papiloma humano).",
+    "Realizar colposcopia.",
+    "Administrar vacuna del VPH.",
+    "Hacer genotipado parcial de VPH."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indica cuál es el Virus de Papiloma Humano de alto riesgo más frecuente en las mujeres en nuestro país, según la Revisión del Programa de Vacunación frente a Virus del Papiloma Humano en España editada por el Ministerio de Sanidad, Servicios Sociales e Igualdad:",
+   "o": [
+    "Virus de Papiloma Humano 16.",
+    "Virus de Papiloma Humano 18.",
+    "Virus de Papiloma Humano 51.",
+    "Virus de Papiloma Humano 61."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA en relación con la vacuna del virus del papiloma humano (VPH):",
+   "o": [
+    "Las mujeres mayores de 25 años pueden beneficiarse de la vacunación frente al VPH independientemente de si presentan infección por algún tipo de VPH.",
+    "No se recomienda la vacunación frente a VPH en mujeres tratadas por lesiones cervicales premalignas.",
+    "Actualmente existen tres vacunas autorizadas frente al VPH: la bivalente, la tetravalente y la nonavalente.",
+    "La vacunación profiláctica sistemática frente al VPH se considera actualmente la intervención más eficaz y eficiente para el control de la infección y la prevención de la carga de enfermedad asociada al virus."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En las recomendaciones de la OMS (Organización Mundial de la Salud) sobre las infecciones de transmisión sexual, se recomienda la profilaxis ocular tópica para todos los recién nacidos con la finalidad de prevenir: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 308",
+   "o": [
+    "La conjuntivitis por el virus del papiloma humano (VPH) y VIH.",
+    "La conjuntivitis por gripe.",
+    "La conjuntivitis sifilítica y por toxoplasmosis.",
+    "La conjuntivitis gonocócica y la clamidia neonatal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta sobre las infecciones de transmisión sexual (ITS) en el varón:",
+   "o": [
+    "La uretritis no gonocócica está generalmente producida por el treponema pallidum.",
+    "El chancro blando o chancroide es una infección bacteriana cuyo agente etiológico es Klebsiella granulomatis.",
+    "La manifestación más frecuente de la infección clínica del virus del papiloma humano (VPH), son los condilomas acuminados en la zona mucosa de los genitales, piel del pene y escroto.",
+    "En la infección producida por trichomona vaginalis es frecuente que los hombres muestren síntomas como secreción por la uretra y molestias al orinar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes agentes infecciosos que generan vaginosis señale el que NO se considera una Infección de Transmisión Sexual (ITS):",
+   "o": [
+    "Chlamydia trachomatis.",
+    "Virus del herpes simple tipo 2.",
+    "Gardnerella vaginalis.",
+    "Trichomonas vaginalis."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a las enfermedades de transmisión por vía sexual, ¿cuál es el microrganismo que causa el linfogranuloma venéreo?:",
+   "o": [
+    "H. Ducreyi.",
+    "Chlamydia Trachomatis.",
+    "Calymmatobacterium granulomatis.",
+    "Staphylococcus epidermidis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica de Anticoncepción Hormonal e Intrauterina del Ministerio de Sanidad, Consumo y Bienestar Social, si una mujer olvida tomar su anticonceptivo hormonal combinado y han transcurrido 36 horas, debemos indicarle que:",
+   "o": [
+    "Debe interrumpir la toma de anticonceptivos hasta el primer día de sangrado, momento en el que debe reiniciar la pauta habitual de anticoncepción hormonal.",
+    "No es necesario tomar la píldora olvidada, pero si es preciso continuar con la pauta habitual, junto con adoptar medidas anticonceptivas adicionales hasta final del ciclo.",
+    "Debe tomar la píldora olvidada y continuar con la pauta habitual, tomando medidas anticonceptivas adicionales hasta el final del ciclo.",
+    "Debe tomar la píldora olvidada y continuar con la pauta habitual, sin necesidad de añadir medidas anticonceptivas adicionales hasta el final del ciclo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica de anticoncepción hormonal e intrauterina del Ministerio de Sanidad, Servicios Sociales e Igualdad, en relación con las exploraciones necesarias y obligatorias (clase A) antes de la prescripción para un uso eficaz y seguro del parche anticonceptivo, señale la respuesta correcta:",
+   "o": [
+    "Presión arterial.",
+    "Peso/IMC.",
+    "Exploración mamaria.",
+    "Examen pélvico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes métodos anticonceptivos hormonales, señale los que han mostrado una mayor efectividad:",
+   "o": [
+    "Los anticonceptivos hormonales orales combinados.",
+    "El parche transdérmico y el anillo vaginal.",
+    "Los anticonceptivos de acción prolongada como el implante subcutáneo y el DIU de levonorgestrel.",
+    "La píldora de sólo gestágenos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Usted se encuentra realizando su actividad asistencial en un centro de planificación familiar. Tras realizar la anamnesis a una mujer de 25 años y teniendo en cuenta sus preferencias, usted le recomienda que el mejor anticonceptivo sería el uso del anillo vaginal. ¿Cuál de las siguientes pruebas es estrictamente necesaria antes de la derivación para la pauta del anticonceptivo elegido, según la Guía de Práctica Clínica de Anticoncepción del Ministerio de Sanidad, Consumo y Bienestar Social?:",
+   "o": [
+    "Exploración mamaria.",
+    "Realización de citología cervical.",
+    "Cálculo del Índice de Masa Corporal.",
+    "Toma de presión arterial."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

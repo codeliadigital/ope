@@ -25,7 +25,7 @@ sub: Resumen OPE Enfermería SMS · PIAM y Ley Orgánica 1/2023, índice de Pear
 | Situación | Actuación |
 |---|---|
 | **Olvido de 1 píldora** (< 24 h de retraso) | Tomarla **en cuanto se recuerde** (aunque coincidan dos); **no** hace falta protección extra |
-| **Olvido de ≥ 2 píldoras** (> 48 h) | Tomar la **última** olvidada y seguir; **preservativo 7 días** |
+| **Olvido de ≥ 2 píldoras** (> 48 h) | Tomar la **última** olvidada y seguir; ==**preservativo 7 días**== |
 | Olvidos en la **1.ª semana** con coito en los 5 días previos | Valorar **anticoncepción de urgencia** |
 | Olvidos en la **3.ª semana** | Terminar las activas y **empalmar** con el envase siguiente **sin descanso** |
 | **Anillo fuera < 3 h** | Lavar con agua y reinsertar |
@@ -102,14 +102,14 @@ sub: Resumen OPE Enfermería SMS · PIAM y Ley Orgánica 1/2023, índice de Pear
 
 !! Pearl = embarazos por **100 mujeres** en **1 año**.
 !! OMS 4 con estrógenos: **≥ 35 años y ≥ 15 cigarrillos**, **migraña con aura**, ictus o trombosis.
-!! 1 píldora olvidada: tomarla, **sin** preservativo; ≥ 2: **preservativo 7 días**.
+!! ==1 píldora olvidada: tomarla, **sin** preservativo; ≥ 2: **preservativo 7 días**.==
 !! **Anillo 3 horas**; **parche 48 horas**.
 !! Implante: se retira sobre todo por **sangrados irregulares**.
 !! DIU con EIP: **antibióticos** y retirar solo si **no mejora en 72 h**.
 !! MELA: **< 6 meses + lactancia exclusiva + amenorrea**.
-!! Levonorgestrel **72 h**; ulipristal y DIU de cobre **5 días**; el DIU es el más eficaz.
+!! ==Levonorgestrel **72 h**; ulipristal y DIU de cobre **5 días**; el DIU es el más eficaz.==
 !! Tras ulipristal, **esperar 5 días** para el anticonceptivo hormonal.
-!! IVE a petición **hasta la semana 14**, sin días de reflexión; 16-17 años **sin permiso paterno**.
+!! ==IVE a petición **hasta la semana 14**, sin días de reflexión; 16-17 años **sin permiso paterno**.==
 !! Vasectomía: **seminograma negativo** antes de confiar en ella.
 !! Diafragma: **6-8 h** tras el coito y con espermicida.
 !! PEP: antes de **72 h** y durante **28 días**.

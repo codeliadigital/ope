@@ -1,0 +1,716 @@
+{
+ "id": "eir-08",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 8,
+ "titulo": "EIR · Nutrición y dietética",
+ "explicadas": false,
+ "descripcion": "64 preguntas de los exámenes EIR de 2018 a 2025 sobre nutrición y dietética, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "La valoración del estado nutricional de una persona es un aspecto clave dentro de la valoración enfermera. En referencia a este aspecto, indica la frase correcta:",
+   "o": [
+    "El Mini Nutritional Assessment (MNA) es un método validado para la población pediátrica.",
+    "En la Valoración Global Subjetiva se mide la pérdida de peso en los últimos 6 meses.",
+    "En la herramienta de cribado Malnutrition Universal Screening Tool (MUST), a mayor puntuación mejor estado nutricional.",
+    "Un Índice de Masa Corporal (IMC) de 22 kg/m2 se corresponde con un estado de desnutrición."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al método de screening informático CONUT (control nutricional), utilizado para la prevención, detección precoz y seguimiento de la desnutrición clínica, ¿cuál de los siguientes parámetros analíticos NO es valorado por este método?:",
+   "o": [
+    "Creatinina.",
+    "Albúmina.",
+    "Colesterol total.",
+    "Determinación total de linfocitos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los criterios fenotípicos GLIM que clasifican el grado de desnutrición como severa, se encuentra:",
+   "o": [
+    "Porcentaje de pérdida de peso 5-10% en más de 6 meses.",
+    "IMC menor de 20 kg/m2 en personas de 70 años o más.",
+    "IMC menor de 20 kg/m2 en personas menores de 70 años.",
+    "Porcentaje de pérdida de peso 10-20 % en más de 6 meses."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre la valoración del estado nutricional de las personas mayores mediante la escala Mini Nutritional Assessment (MNA), es cierto que:",
+   "o": [
+    "La MNA no se considera el método de valoración nutricional más comúnmente utilizado para mayores porque no emplea datos de laboratorio.",
+    "La valoración de la disfagia mediante MNA (ítems E y F) supone una de sus principales ventajas frente a otras escalas que no incluyen la valoración de este problema.",
+    "La MNA puede detectar la malnutrición antes de que aparezcan alteraciones bioquímicas y antropométricas.",
+    "La MNA clasifica a los pacientes en 4 categorías: bien nutridos, en riesgo de malnutrición, malnutrición moderada y malnutrición severa."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el cribado nutricional NRS-2002 se valoran los siguientes aspectos:",
+   "o": [
+    "Pérdida de peso, ingesta, gravedad de la enfermedad, IMC.",
+    "Pérdida de peso, ingesta, IMC y soporte nutricional reciente.",
+    "Grado de dependencia, ingesta, IMC y pérdida de peso.",
+    "Grado de sarcopenia, ingesta y pérdida de peso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las características del diagnóstico NANDA “Sobrepeso”, se encuentran:",
+   "o": [
+    "IMC en adultos mayor de 30 kg/m2.",
+    "IMC en niños de 2 a 18 años mayor a percentil 95 por edad y sexo.",
+    "IMC en adultos mayor a 25 kg/m2.",
+    "IMC en niños de 2 a 18 años menor a percentil 85 por edad y sexo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el último documento de Consenso de la Sociedad Española para el Estudio de la Obesidad (SEEDO) y la Sociedad Española de Médicos de Atención Primaria (SEMERGEN), ¿cuáles son los criterios necesarios para la derivación de un paciente obeso desde Atención Primaria a Atención Hospitalaria?:",
+   "o": [
+    "IMC mayor o igual de 40 kg/m2, o IMC mayor o igual de 35 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas.",
+    "IMC mayor o igual de 40 kg/m2, o IMC mayor o igual de 38 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas.",
+    "IMC mayor o igual de 41 kg/m2, o IMC mayor o igual de 36 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas.",
+    "IMC mayor o igual de 45 kg/m2, o IMC mayor o igual de 40 kg/m2 con dos o más patologías relacionadas con la obesidad mal controladas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción FALSA acerca de las características clínicas de un niño con desnutrición tipo kwashiorkor:",
+   "o": [
+    "Presentan abdomen protuberante.",
+    "Aparecen lesiones cutáneas con alternancia de hiper e hipopigmentación.",
+    "Suelen presentar apatía y letargia.",
+    "Los niveles de albúmina sérica son normales o ligeramente reducidos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a las recomendaciones de la Sociedad Española para el Estudio de la Obesidad, son criterios de selección para cirugía bariátrica en pacientes con obesidad:",
+   "o": [
+    "IMC ≥ 45 kg/m², obesidad establecida durante al menos 5 años y dislipemia asociada que no responde al tratamiento.",
+    "IMC ≥ 40 kg/m², síndrome metabólico y alteración en la conducta alimentaria con fracaso del tratamiento cognitivo-conductual.",
+    "IMC ≥ 40 kg/m² o IMC ≥ 35 kg/m² asociado a comorbilidades que pueden mejorar con la pérdida de peso.",
+    "IMC ≥ 50 kg/m² en pacientes con edad inferior a 50 años y fracaso de tratamiento conservador no supervisado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En los documentos de consenso de la Sociedad Española para el estudio de la Obesidad de 2011 y 2016 se definen las características de la dieta hipocalórica clásica. ¿Cuáles son?: 149 NUTRICIÓN Y DIETÉTICA",
+   "o": [
+    "Déficit de 500 Kcal diarias con un reparto de nutrientes de 60% de Hidratos de Carbono (HC), 10-15% de proteínas, 30% de grasas y 25 gramos de fibra.",
+    "Contenido calórico ajustado al peso corregido por obesidad, con un reparto equilibrado de nutrientes: 45-55% de HC, 10-15 % de proteínas, 35% de grasas y 40 gramos de fibra.",
+    "Déficit de 500 a 1000 kcal diarias con reparto equilibrado de nutrientes: 45-55% de HC, 15-25% proteínas, 25-35% grasas y 20-40 gramos de fibra.",
+    "Déficit de 500-1000 kcal diarias con 50-55% de HC, normoproteicas, bajas en Ácidos Grasos saturados, trans y azúcares de absorción rápida, y con alto contenido en fibra."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la valoración nutricional de una paciente de 38 años de edad se recaban los siguientes datos: pérdida involuntaria de peso del 10% en los últimos 3 meses, pliegue tricipital en el percentil 10 para su sexo y edad, circunferencia muscular del brazo en el percentil 20 para su sexo y edad, concentración de albúmina plasmática de 2.5 g/dl (normalidad 3.5-4.5 g/dl) y de transferrina de 150 mg/dl (normalidad 220-350 mg/dl). ¿Cuál es su estado nutricional?:",
+   "o": [
+    "Desnutrición calórica grave.",
+    "Desnutrición proteica leve-moderada.",
+    "Desnutrición mixta grave.",
+    "Desnutrición mixta leve-moderada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la función principal de las lipoproteínas LDL y HDL?:",
+   "o": [
+    "Transportar glucosa desde el intestino al hígado.",
+    "Degradar los triglicéridos en moléculas de glicerol más ácidos grasos libres.",
+    "Transportar el colesterol circulante entre hígado y tejidos periféricos.",
+    "Transportar enzimas para la síntesis de colesterol."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Los lípidos son las moléculas de reserva energética por excelencia debido a que: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 150",
+   "o": [
+    "Se almacenan hidratados en la mitocondria.",
+    "Tienen una estructura rígida y dan consistencia a los tejidos.",
+    "Se pueden almacenar como glucógeno, ocupando poco espacio en el citosol.",
+    "Producen mucha energía por cada gramo de peso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El ácido alfa-linolénico pertenece al grupo:",
+   "o": [
+    "Ácidos grasos Omega 3.",
+    "Ácidos grasos Omega 6.",
+    "Ácidos grasos Omega 9.",
+    "Ácidos grasos Trans."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el aminoácido limitante de las legumbres?:",
+   "o": [
+    "Lisina.",
+    "Alanina.",
+    "Histidina.",
+    "Metionina."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale en cuál de los siguientes alimentos puede encontrar una mayor cantidad de ergocalciferol (Vitamina D2) por cada 100 g:",
+   "o": [
+    "Hígado de bacalao.",
+    "Champiñones.",
+    "Hígado de ternera.",
+    "Pechuga de pollo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes vitaminas del grupo B desempeña un papel importante en el metabolismo de los aminoácidos y la síntesis de neurotransmisores como la serotonina y la dopamina:",
+   "o": [
+    "Vitamina B6 (piridoxina).",
+    "Vitamina B5 (ácido pantoténico).",
+    "Vitamina B3 (niacina).",
+    "Vitamina B12 (cobalamina)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuáles de los siguientes son ácidos grasos de cadena corta (AGCC):",
+   "o": [
+    "El ácido acético, ácido propiónico y ácido butírico.",
+    "Ácidos grasos omega 3, omega 6 y omega 9.",
+    "El ácido alfa-linoleico, ácido docosahexaenoico y el ácido eicosapentaenoico.",
+    "El ácido palmítico, ácido lignocérico y ácido hexacosanoico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes es un buen alimento para recomendar a un paciente con un déficit claro de cianocobalamina, atendiendo a su mayor concentración de este micronutriente por cada 100 gramos?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 152",
+   "o": [
+    "Almeja.",
+    "Mejillón.",
+    "Carne de ternera.",
+    "Carne de ciervo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes es una causa de beri beri?:",
+   "o": [
+    "Dieta basada en maíz.",
+    "Vegetarianismo.",
+    "Ser mujer en edad fértil.",
+    "Dieta basada en arroz refinado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las situaciones que favorecen la aparición de una deficiencia de biotina se encuentra:",
+   "o": [
+    "Dieta basada en arroz.",
+    "Uso de anticonceptivos orales.",
+    "Ingesta excesiva de huevos crudos.",
+    "Utilización de filtros solares."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los órganos más importantes para la metabolización de la Vitamina D?:",
+   "o": [
+    "Piel y vesícula biliar.",
+    "Hígado y riñón.",
+    "Piel e intestino delgado.",
+    "Riñón y pulmones."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las manifestaciones neurológicas que pueden ocurrir en estados de carencia de vitamina B12 encontramos una de las siguientes:",
+   "o": [
+    "Alteraciones de la agudeza visual.",
+    "Alteración de la sensibilidad vibratoria.",
+    "Alteración de la sensibilidad térmica.",
+    "Alteración de la audición."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indica la recomendación nutricional correcta según la AESAN (Agencia Española de Seguridad Alimentaria y Nutrición):",
+   "o": [
+    "3 raciones de pescado a la semana, priorizando el pescado blanco.",
+    "3 raciones de legumbres a la semana.",
+    "Utilizar el aceite de oliva virgen, extra preferentemente, todos los días.",
+    "La ingesta de sal no debe superar los 10g/ día."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En 2001 un panel de expertos encargados por la Organización de las Naciones Unidas para la Agricultura y la Alimentación y respaldado por la Organización Mundial de la Salud, proporcionó la siguiente definición: \"Microorganismos vivos que cuando se administran en cantidades adecuadas otorgan un beneficio en la salud del huésped\". ¿A qué término corresponde dicha definición?:",
+   "o": [
+    "Antibiótico.",
+    "Probiótico.",
+    "Prebiótico.",
+    "Protozoo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son las recientes recomendaciones de la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN), para una alimentación saludable y sostenible con respecto a los lácteos?:",
+   "o": [
+    "Consumir 5 raciones diarias, preferentemente sin azúcares añadidos y con bajo contenido en sal.",
+    "Consumir preferentemente lácteos desnatados, con bajo contenido en azúcares y sal, máximo 3 raciones diarias.",
+    "Consumir un máximo de 3 raciones diarias, sin azúcares añadidos y bajos en sal, preferentemente lácteos enteros para evitar desperdicio y transformación de la grasa extraída.",
+    "Consumir un máximo de 5 raciones diarias, sin azúcares añadidos y con bajo contenido en sal, preferentemente en envases de vidrio para reducir el impacto ambiental."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la novedad en la Pirámide de Alimentación Saludable actualizada de la Sociedad Española de Nutrición Comunitaria con respecto a la de 2001?: Clasificación de los edulcorantes CALÓRICOS Naturales Azúcares Sacarosa, glucosa, dextrosa, fructosa, lactosa, maltosa, galactosa, trehalosa, tagatosa Edulcorantes naturales carólicos Miel, jarabe de arce, azúcar de palma o de coco y jarabe de sorgo Artiﬁciales Azúcares modiﬁcados Jarabe de maiz de alto fructosa, caramelo, azúcar invertido Alcoholes del azúcar Sorbitol, xilitol, manitol, eritritol, maltitol, isomaltulosa, lactitol, glicerol ACALÓRICOS Naturales Edulcorantes naturales sin calorías Luo Han Guo, stevia, taumatina, pentadina, monelina, brazzeina Artificiales Edulcorantes artificiales Aspartamo, sucralosa, sacarina, neotamo, acesulfamo-K, ciclamato, neohosperidina DC, alitamo, advantamo PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 156",
+   "o": [
+    "Incorpora recomendaciones para evitar el sobrepeso, como 30 minutos de actividad física diaria, consumo diario de fruta y verdura de temporada y consumo de alcohol ocasional.",
+    "Aporta indicaciones sobre frecuencia de consumo, ingesta hídrica y calórica adecuada, actividad física diaria y alcohol ocasional.",
+    "Aporta recomendaciones para moderar la ansiedad, mantener el balance ener-gético e hídrico y consejos para la utilización de suplementos nutricionales.",
+    "Incorpora recomendaciones sobre equilibrio energético e ingesta hídrica, técni-cas de cocción, actividad física, consumo de alcohol y equilibrio emocional."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes alimentos soporta -por cada 100 g de porción comestible y al mismo tiempouna mayor cantidad de proteínas y ácidos grasos omega 3 y un menor contenido en colesterol?:",
+   "o": [
+    "Atún.",
+    "Salmón.",
+    "Garbanzos.",
+    "Nueces."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la ingesta adecuada de ácidos grasos monoinsaturados para la población española según el estudio PREDIMED (Prevención con Dieta Mediterránea)?:",
+   "o": [
+    "0,5-1 % del consumo calórico diario.",
+    "Inferior al 8 % del consumo calórico diario.",
+    "2-10 % del consumo calórico diario.",
+    "20-25 % del consumo calórico diario."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son las recomendaciones de la OMS en su guía actualizada de 2015 sobre la ingesta de azúcares libres para adultos y niños?:",
+   "o": [
+    "Tanto en adultos como en niños, menos del 10% de la ingesta calórica total con recomendación firme y menos del 5% con recomendación condicional.",
+    "Menos del 10% de la ingesta calórica total en adultos, y menos del 5% en niños.",
+    "Menos del 25% de la ingesta calórica total diaria con nivel de recomendación fuerte.",
+    "Menos del 5% de la ingesta calórica total diaria con nivel de recomendación fuerte y menos del 10% con recomendación condicional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los requerimientos calóricoproteicos en la población geriátrica según la guía de la Sociedad Europea de Nutrición Clínica y Metabolismo (ESPEN), sobre nutrición clínica e hidratación en el anciano?:",
+   "o": [
+    "30 kcal/kg peso/día y al menos 1 g de proteínas/kg peso/día. Individualizar según nivel de actividad, estado nutricional, estado de la enfermedad y tolerancia.",
+    "1800 kcal diarias en hombres y 1.500 kcal en mujeres. Individualizar aporte de proteínas según nivel de actividad, estado nutricional, estado de la enfermedad y tolerancia.",
+    "20 kcal/kg peso/día y 0,8 g de proteínas/ kg peso/día. Individualizar según nivel de actividad, estado nutricional, estado de la enfermedad y tolerancia.",
+    "2.500 kcal diarias en hombres y 2.000 kcal en mujeres. Asegurar al menos un aporte de 65 g de proteínas al día."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el último informe aprobado por la Agencia Española de Seguridad Alimentaria y Nutrición (AESAN) en 2019, ¿cuál es la ingesta diaria de referencia de calcio en los adultos mayores de 70 años?:",
+   "o": [
+    "800 mg diarios.",
+    "1.000 mg diarios.",
+    "1.200 mg diarios.",
+    "1.400 mg diarios."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes preguntas NO está dentro del cuestionario rápido sobre alimentación en una consulta oportunista en Atención Primaria según la Estrategia de promoción de la salud y prevención en el Sistema Nacional de Salud?:",
+   "o": [
+    "¿Cuánta fruta y verdura toma al día?",
+    "¿Qué bebe normalmente con las comidas y a lo largo del día?",
+    "¿Cuántas veces a la semana come alimentos muy procesados o precocinados?",
+    "¿Cuántas veces come pescado azul a la semana?"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cada cuánto tiempo se debe aconsejar sobre alimentación saludable en población adulta?:",
+   "o": [
+    "Al menos cada 3 meses, coincidiendo con la valoración del resto de los factores.",
+    "Al menos una vez al año, coincidiendo con la valoración del resto de los factores.",
+    "Al menos cada 2 años, coincidiendo con la valoración del resto de los factores.",
+    "Al menos una vez al año, y en cualquier ocasión que contacte con el sistema de manera oportunista."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Un niño de 11 años acude a revisión del niño sano con su enfermera de familia. ¿Cuál de las siguientes es una recomendación de actividad física aeróbica de intensidad moderada que dará la enfermera a los padres?:",
+   "o": [
+    "Caminar a paso ligero (3 km/h) o pasear en bicicleta (8-10 km/h).",
+    "Caminar a paso ligero (más de 3 km/h) o pasear en bicicleta (8-10 km/h).",
+    "Caminar a paso ligero (más de 6 km/h) o pasear en bicicleta (10-15 km/h).",
+    "Caminar a paso ligero (más de 6 km/h) o pasear en bicicleta (19-22 km/h)."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Un niño de 4 años acude a revisión del niño sano acompañado de su padre. ¿Cuál de las siguientes es una de las recomendaciones de actividad física, sedentarismo y tiempo de pantalla que dará la enfermera al padre?:",
+   "o": [
+    "Promover que sea físicamente activo durante al menos 180 minutos al día distribuidos a lo largo del día, no dedicar más de 1 hora seguida, cuando esté despierto, a actividades sedentarias y no pasar más de 1 hora al día delante de una pantalla.",
+    "Promover que sea físicamente activo durante al menos 120 minutos al día distribuidos a lo largo del día, no dedicar más de 30 minutos seguidos, cuando esté despierto, a actividades sedentarias y no pasar tiempo delante de una pantalla.",
+    "Promover que sea físicamente activo durante al menos 150 minutos al día distribuidos a lo largo del día, no dedicar más de 120 minutos, cuando esté despierto, a actividades sedentarias y no pasar más de 30 minutos delante de una pantalla.",
+    "Promover que sea físicamente activo durante al menos 60 minutos al día distribuidos a lo largo del día, no dedicar más de 60 minutos seguidos, cuando esté despierto, a actividades sedentarias y no pasar más de 60 minutos al día delante de una pantalla."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Las recomendaciones de actividad física para las personas mayores de 65 años con dificultad de movilidad incluyen:",
+   "o": [
+    "Ejercicios para mejorar el equilibrio al menos 2 días a la semana.",
+    "Ejercicios de fortalecimiento muscular al menos 5 días a la semana.",
+    "Ejercicios para mejorar el equilibrio al menos 3 días a la semana.",
+    "Ejercicios de fortalecimiento muscular al menos 2 días a la semana."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué recomendación dicta la Organización Mundial de la Salud referente a la Actividad Física para la Salud en edades comprendidas entre 5 a 17 años?:",
+   "o": [
+    "Una actividad física durante mínimo 60 minutos diarios de intensidad moderada a vigorosa.",
+    "La actividad física media diaria debería ser, en su mayor parte, anaeróbica.",
+    "Convendría incorporar actividades vigorosas, en particular para fortalecer los músculos y los huesos, como mínimo dos veces a la semana.",
+    "Una actividad física durante mínimo 120 minutos diarios de intensidad leve a moderada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA con relación a las recomendaciones de la guía de la Societe Europeenne de Nutrition Clinique et Metabolisme, Guía ESPEN, para el manejo de la nutrición clínica en la enfermedad inflamatoria intestinal:",
+   "o": [
+    "No existe una pauta dietética universalmente aplicable que pueda recomendarse para inducir la remisión en todos los pacientes con enfermedad inflamatoria intestinal activa.",
+    "En la enfermedad inflamatoria intestinal activa, los requerimientos proteicos aumentan, por lo que la ingesta recomendada en adultos debe incrementarse a 1,2 - 1,5 g / kg /día en comparación con las recomendaciones para la población general.",
+    "Seguir una dieta abundante en frutas y verduras, con un elevado contenido de ácidos grasos n-6 y bajo en ácidos grasos n-3, se asocia a una reducción del riesgo de desarrollar enfermedad de Crohn o colitis ulcerosa, por lo que resulta una recomendación adecuada.",
+    "En pacientes con enfermedad inflamatoria intestinal en fase de remisión, los requerimientos proteicos no son elevados y la ingesta recomendada es similar a la de la población general, alrededor de 1 g / kg / día en adultos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente con insuficiencia renal aguda en hemodiálisis, indica la recomendación dietéticaproteica:",
+   "o": [
+    "0,4 g/Kg/día.",
+    "0,8 g/kg/día.",
+    "1-1,2 g/kg/día.",
+    "2 g/kg/día."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la característica general de una dieta baja en FODMAP?: 161 NUTRICIÓN Y DIETÉTICA",
+   "o": [
+    "Evitar alimentos con alto contenido en grasas saturadas.",
+    "Evitar alimentos ricos en hidratos de carbono de cadena larga y grasas saturadas.",
+    "Evitar la ingesta de alimentos que contienen hidratos de carbono fermentables.",
+    "Consumir preferentemente alimentos con alto contenido en hidratos de carbono fermentables y grasas de origen vegetal."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuál de las siguientes recomendaciones se incluye en la pancreatitis crónica:",
+   "o": [
+    "Evitar el consumo de legumbres.",
+    "Se recomienda, como norma, realizar dieta baja en grasas.",
+    "Alimentación por sonda yeyunal.",
+    "Realizar ayuno intermitente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la consulta aconseja a una persona seguir una dieta baja en purinas. Ante esta recomendación, el paciente pregunta si puede consumir cerveza sin alcohol. ¿Cuál es la respuesta más adecuada?:",
+   "o": [
+    "Puede consumir cerveza sin alcohol sin restricciones, ya que no contiene purinas.",
+    "La cerveza sin alcohol sigue conteniendo purinas, por lo que se debe limitar su consumo.",
+    "Puede consumir cerveza sin alcohol, pero siempre que evite combinarla con alimentos ricos en purinas.",
+    "No existe relación entre el consumo de cerveza sin alcohol y los niveles de ácido úrico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta con relación a las recomendaciones dietéticas en un paciente con pancreatitis crónica:",
+   "o": [
+    "Dieta pobre en grasas e hidratos de carbono y abundante en proteínas.",
+    "Dieta pobre en grasas y proteínas y abundante en hidratos de carbono.",
+    "Dieta pobre en grasas y abundante en hidratos de carbono y proteínas.",
+    "Dieta normoproteica y abundante en hidratos de carbono y grasas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con el uso de dietas extremadamente bajas en hidratos de carbono (dietas cetogénicas):",
+   "o": [
+    "No se recomiendan en el control de la Diabetes Mellitus 2 debido a la falta de beneficios en la prevención de la enfermedad y por conllevar problemas de seguridad.",
+    "Han sido asociadas con un descenso del colesterol LDL e hipoglucemias.",
+    "Estas dietas son fáciles de seguir y hay evidencia que demuestra su seguridad.",
+    "La evidencia de estudios observacionales a largo plazo en la población general, indica que las ingestas bajas (< 40 % de energía total) y altas (> 70 % de energía total) de carbohidratos están asociadas con una menor mortalidad prematura."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las últimas guías de la Sociedad Europea de Nutrición Enteral y Parenteral (ESPEN), ¿cuál sería la recomendación en cuanto al aporte de proteínas del paciente con cirrosis hepática?:",
+   "o": [
+    "En paciente cirrótico con encefalopatía hepática no se debe restringir el aporte de proteínas porque aumenta el catabolismo proteico.",
+    "En encefalopatía hepática se recomienda restringir el aporte de proteínas a 0.6 gr/ kg de peso/día, y que estas sean de origen vegetal.",
+    "En caso de intolerancia a proteínas, el aporte no debe exceder de 0.5gr/kg de peso/día, siendo aconsejable que sean de origen vegetal.",
+    "En encefalopatía hepática el aporte de proteínas debe ser de 0.8 gr/kg de peso/día, a base de aminoácidos ramificados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación a la nutrición en pacientes con lesión renal aguda:",
+   "o": [
+    "En la fase oligúrica se proporcionará una dieta rica en hidratos de carbono.",
+    "En la fase diurética se restringirá la ingesta calórica del paciente.",
+    "En la fase oligúrica se aumentará la ingesta de alimentos ricos en fósforo.",
+    "En la fase diurética se restringirá la ingesta de líquidos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes alimentos se encuentra dentro de los permitidos de libre consumo para pacientes con gota?:",
+   "o": [
+    "Espinacas.",
+    "Bebidas azucaradas.",
+    "Carne roja.",
+    "Cerveza sin alcohol."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de los siguientes alimentos presenta una mayor cantidad de potasio por cada 100 g y, por tanto, deberá ser desaconsejado en mayor medida para un paciente con enfermedad renal crónica:",
+   "o": [
+    "Sandía.",
+    "Manzana.",
+    "Uva pasa.",
+    "Cereza."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el “Codex Alimentarius” y la legislación europea vigente, ¿cuándo se puede considerar un alimento como “exento de gluten”?:",
+   "o": [
+    "Son alimentos constituidos por uno o más ingredientes procedentes del trigo, el centeno, la cebada, la avena o sus variedades híbridas que han sido procesados de forma especial para eliminar el gluten, y cuyo contenido de gluten no sobrepasa los 0 mg/kg en total, medido en los alimentos tal como se venden o distribuyen al consumidor.",
+    "Son alimentos constituidos por uno o más ingredientes procedentes del trigo, el centeno, la cebada, la avena o sus variedades híbridas que han sido procesados para eliminar el gluten, y cuyo contenido de gluten no sobrepasa los 20 mg/kg en total, medido en los alimentos tal como se venden o distribuyen al consumidor.",
+    "Son alimentos constituidos por uno o más ingredientes procedentes del trigo, el centeno, la cebada, la avena o sus variedades híbridas que han sido procesados de forma especial para eliminar el gluten, y cuyo contenido de gluten no sobrepasa los 50 mg/kg en total, medido en los alimentos tal como se venden o distribuyen al consumidor.",
+    "Son alimentos constituidos por uno o más ingredientes procedentes del trigo, el centeno, la cebada, la avena o sus variedades híbridas que han sido procesados de forma especial para reducir el contenido de gluten a un nivel comprendido entre 20 mg/ kg y 100 mg/kg en total, medido en los alimentos tal como se venden o distribuyen al consumidor."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La alimentación en el paciente con enfermedad renal crónica (ERC) es un punto clave en el desarrollo de la enfermedad. Indique cuál de las siguientes afirmaciones es INCORRECTA:",
+   "o": [
+    "Los principales motivos para el control dietético en los pacientes con ERC son: minimizar el riesgo de uremia, hiperpotasemia, hiperfosfatemia, hipercalcemia, hipervolemia, anemia y acidosis metabólica.",
+    "El paciente con ERC avanzada debe consumir el mínimo de proteínas posible, siendo el objetivo lo más cercano a 0,2 gr/kg ya que la proteína daña el riñón.",
+    "Se recomienda el consumo de manzana y pera en los pacientes con ERC avanzada por su bajo contenido en potasio.",
+    "En el paciente con ERC avanzada es importante dar indicaciones sobre cómo consumir las frutas y verduras, teniendo en cuenta además de una selección adecuada unas correctas técnicas de cocinado: corte fino, eliminación del agua tras ebullición, doble cocción, entre otras."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles de las siguientes modificaciones en la dieta tiene mayor magnitud de efecto en la reducción de colesterol total y colesterol LDL?:",
+   "o": [
+    "Perder peso, limitar el aporte de colesterol en las comidas y realizar actividad física sencilla de forma habitual. 165 NUTRICIÓN Y DIETÉTICA",
+    "Limitar el consumo de grasas saturadas y grasas trans y aumentar la ingesta de fibra consumiendo fruta y verdura fresca y legumbres.",
+    "Reducir el aporte de hidratos de carbono y consumir productos con proteína de soja.",
+    "Incorporar en la dieta alimentos ricos en proteína vegetal y no exceder las 4 consumiciones diarias de alcohol."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la intoxicación por escombroides:",
+   "o": [
+    "Los síntomas aparecen entre 15-90 minutos post exposición siendo en la mayoría de los casos adormecimiento de boca y labios, molestias abdominales leves y náuseas.",
+    "Los de mayor tamaño, tienen efectos cáusticos, generando irritación de mucosas de ojos y vía aérea superior.",
+    "El tratamiento principal consiste en la perfusión intravenosa de dosis bajas de naloxona.",
+    "Frecuentemente aparece fragilidad de uñas y caída de cabello asociadas a un estado avanzado de intoxicación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones que daremos frente a la prevención de la anisakiasis se encuentra:",
+   "o": [
+    "Comprar el pescado más fresco posible y consumir en el día.",
+    "El pescado ahumado no presenta riesgos.",
+    "Cocinar preferentemente el pescado a menos de 60 ºC.",
+    "El cocinado en microondas o plancha no garantiza la muerte del parásito."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las Sociedades Española y Europea de Nutrición Clínica y Metabolismo (SENPE y ESPEN), ¿cuál de las siguientes sería una contraindicación para la administración de nutrición enteral?:",
+   "o": [
+    "Esperanza de vida inferior a 3 meses.",
+    "Tumores del tracto digestivo.",
+    "Hemorragia gastrointestinal.",
+    "Hernia de hiato gigante."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la nutrición enteral por gastrostomía, en caso de que la gastrostomía endoscópica percutánea (PEG) no sea una opción posible para la administración de nutrición enteral a largo plazo, ¿cuáles serían las alternativas seguras según las últimas guías de nutrición de la Sociedad Europea de Nutrición Enteral y Parenteral (ESPEN)?:",
+   "o": [
+    "Gastrostomía percutánea laparoscópica asistida (PLAG) y gastrostomía percutánea radiológica (PRG).",
+    "Gastrostomía quirúrgica y gastro yeyunostomía endoscópica.",
+    "Gastrostomía por video fluoroscopia y gastrostomía quirúrgica.",
+    "Yeyunostomía de Witzel y gastrostomía tipo Stamm."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal diferencia entre fórmulas de nutrición enteral poliméricas y oligomonoméricas?:",
+   "o": [
+    "Las poliméricas están constituidas por proteínas hidrolizadas en forma de péptidos o aminoácidos, mientras que las oligomonoméricas aportan las proteínas enteras.",
+    "La osmolaridad de las fórmulas poliméricas es mayor que la de las fórmulas oligomonoméricas. 167 NUTRICIÓN Y DIETÉTICA",
+    "Las poliméricas están constituidas por proteínas intactas, mientras que las oligomonoméricas aportan las proteínas hidrolizadas en forma de péptidos o aminoácidos.",
+    "Las fórmulas oligomonoméricas aportan las proteínas en forma de macromoléculas o péptidos grandes, mientras que las poliméricas las aportan en forma de aminoácidos libres, por ello la osmolaridad de las primeras es mayor."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la medición de la tolerancia de nutrición enteral:",
+   "o": [
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 200 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 300 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 400 cc.",
+    "Consideraremos que el paciente no tolera la nutrición enteral cuando el volumen residual extraído supera los 500 cc."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la “Guía de Nutrición Enteral Domiciliaria del Sistema Nacional de Salud” se establecen las contraindicaciones para la administración de Nutrición Enteral. Entre estas se encuentran:",
+   "o": [
+    "Hemorragia digestiva, hiperémesis persistente, pancreatitis aguda severa, riesgo de broncoaspiración.",
+    "Hiperémesis persistente no controlada farmacológicamente, pancreatitis hemorrágica necrotizante, íleo paralítico, obstrucción intestinal.",
+    "Perforación intestinal, Obstrucción intestinal, estenosis esofágica, pancreatitis aguda.",
+    "Gastrectomía, fístulas intestinales, obstrucción intestinal, pancreatitis aguda."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente con disfagia orofaríngea grave, a consecuencia de un Ictus, ¿aconsejaría instaurar soporte nutricional?:",
+   "o": [
+    "Sí, se aconseja iniciar la nutrición enteral por sonda nasogástrica endoscópica percutánea (PEG) pasadas 4 semanas si precisa nutrición.",
+    "No, la utilización de sonda nasogástrica para nutrición retrasaría la rehabilitación deglutoria. Es mejor esperar a que se recupere.",
+    "Sí, lo antes posible con suplementos nutricionales orales y espesante por vía oral.",
+    "No, los pacientes con ictus tienen las necesidades nutricionales disminuidas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El Síndrome de Realimentación (SR) es un trastorno complejo derivado de la introducción del soporte nutricional en pacientes desnutridos o con periodos de ayuno. ¿Qué alteraciones se producen de forma habitual en este síndrome?:",
+   "o": [
+    "Hipofosfatemia severa, hipomagnesemia, hipopotasemia, déficit de tiamina y alteraciones del metabolismo hidrocarbonatado.",
+    "Hipofosfatemia moderada, hiperpotasemia, hipernatremia, aumento del catabolismo proteico y déficit de vit A.",
+    "Déficit de piridoxina, hiperpotasemia, hipermagnesemia, hiperfosfatemia grave y alteraciones del metabolismo proteico.",
+    "Déficit de piridoxina, hiperpotasemia grave, hipomagnesemia, hiperfosfatemia y alteraciones del metabolismo proteico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA con relación a la nutrición parenteral:",
+   "o": [
+    "Se recomienda una nutrición parenteral ante la pérdida significativa de peso mayor o igual al 10 % del peso usual, o que el paciente disminuya la ingesta oral de alimentos durante más de una semana.",
+    "Previamente a la administración de la nutrición parenteral se debe comprobar el estado de la bolsa. Es habitual encontrar una separación de la solución o incluso una apariencia oleosa, por lo que debemos agitar suavemente la bolsa para que se restituya y proceder a su administración.",
+    "Es necesario una bomba de infusión para mantener una velocidad precisa de la administración de la nutrición parenteral. Si la solución se termina, se infundirá dextrosa al 10 % y agua hasta que la siguiente solución de nutrición parenteral esté disponible.",
+    "Dentro de las posibles complicaciones de la nutrición parenteral encontraremos: embolia, hiperglucemia, sepsis, sobrecarga de líquidos, o incluso una hipoglucemia rebote."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En qué casos se precisan al menos dos criterios para desarrollar un Síndrome de Realimentación durante el tratamiento nutricional según la guía de soporte nutricional en adultos del Instituto Nacional para la Excelencia Clínica del Reino Unido (NICE):",
+   "o": [
+    "Ingesta nutricional mínima o nula durante más de 10 días, IMC menor de 16 kg/m2, pérdida de peso involuntaria mayor de 15 % en los últimos 3-6 meses, niveles bajos de fósforo, potasio o magnesio previos.",
+    "Ingesta nutricional mínima o nula durante más de 20 días, IMC menor de 20 kg/m2, pérdida de peso involuntaria mayor de 10 % en el último año o alcoholismo.",
+    "Ingesta nutricional mínima o nula durante más de 15 días, IMC menor de 20 kg/m2, pérdida de peso involuntaria mayor de 10 % en los últimos 3-6 meses, alcoholismo, o consumo de ciertos fármacos.",
+    "Ingesta nutricional mínima o nula durante más de 5 días, IMC menor de 18.5 kg/m2, pérdida de peso involuntaria mayor de 10 % en los últimos 3-6 meses, alcoholismo, o consumo de ciertos fármacos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes sería una complicación mecánica de la Nutrición Parenteral Domiciliaria?:",
+   "o": [
+    "Trombosis venosa.",
+    "Infección del orificio de salida del catéter.",
+    "Sepsis asociada al catéter.",
+    "Infección del bolsillo del reservorio."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

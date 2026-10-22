@@ -65,15 +65,29 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
   - **Pinchazo o corte**: dejar **sangrar** sin exprimir, **lavar con agua y jabón**, antiséptico (povidona o **clorhexidina 2%**).
   - **Mucosas**: lavar con abundante **suero fisiológico o agua** (sin desinfectantes).
   - **Notificar** de inmediato (Prevención de Riesgos Laborales; si no, Preventiva o urgencias) y serologías del trabajador («suero cero») y de la fuente.
-- **PPE frente al VIH**: empezar **cuanto antes (idealmente 2-4 h)**, **nunca después de 72 h**; **28 días**; **triple terapia** (p. ej., emtricitabina/tenofovir + raltegravir). Evitar **AINE** con tenofovir (riesgo renal: usar paracetamol); separar el raltegravir **2 h** del hierro y los antiácidos; **preservativo** hasta completar el seguimiento.
+- **PPE frente al VIH**: empezar **cuanto antes (idealmente 2-4 h)**, **nunca después de 72 h**; ==**28 días**==; **triple terapia** (p. ej., emtricitabina/tenofovir + raltegravir). Evitar **AINE** con tenofovir (riesgo renal: usar paracetamol); separar el raltegravir **2 h** del hierro y los antiácidos; **preservativo** hasta completar el seguimiento.
 - **VHB**: trabajador **vacunado respondedor (anti-HBs ≥ 10)** → **nada**. **No vacunado o no respondedor** → **inmunoglobulina antihepatitis B** (mejor en **24 h**, máximo **7 días**) **+ vacuna** en otro lugar anatómico.
 - **VHC**: **no existe vacuna ni inmunoglobulina** ni profilaxis: **seguimiento con PCR de ARN-VHC a las 3-6 semanas** y tratamiento precoz con antivirales si se positiviza.
+
+### Enfermedades exantemáticas de la infancia
+
+| Enfermedad | Agente | Lo típico |
+|---|---|---|
+| **Sarampión** | Paramixovirus | Catarro, conjuntivitis, **manchas de Koplik** (mucosa yugal); exantema **de la cabeza (detrás de las orejas) hacia abajo**; complicación más frecuente: **neumonía**. Aislamiento **aéreo** |
+| **Rubéola** | Togavirus | Exantema leve de 3 días, **adenopatías retroauriculares y occipitales**; **manchas de Forchheimer** (paladar blando). Grave en el **embarazo** (síndrome de rubéola congénita) |
+| **Varicela** | Virus varicela-zóster | Vesículas **en distintos estadios** («cielo estrellado»), pruriginosas, empieza en tronco y cuero cabelludo; contagia hasta que todas son **costra**. **Nunca AAS** (Reye) ni ibuprofeno |
+| **Megaloeritema (5.ª enfermedad)** | **Parvovirus B19** | **Mejillas rojas «abofeteadas»**, luego exantema reticulado en extremidades; artralgias; peligroso en el embarazo (hidrops) y en anemias hemolíticas |
+| **Exantema súbito (roséola, 6.ª)** | **Herpes virus 6** | **3 días de fiebre alta sin otros síntomas** y, **al bajar la fiebre**, exantema en tronco; < 2 años; puede dar **convulsión febril** |
+| **Escarlatina** | **Estreptococo β-hemolítico grupo A** | Faringoamigdalitis, **lengua aframbuesada** (blanca y luego roja), exantema áspero «**en papel de lija**» que blanquea, **líneas de Pastia** en pliegues, descamación posterior; **penicilina** |
+| **Parotiditis** | Paramixovirus | Inflamación parotídea uni o bilateral; complicaciones: **orquitis**, meningitis, pancreatitis, sordera |
+| **Mononucleosis** | **Virus de Epstein-Barr** | Fiebre, faringitis, adenopatías, esplenomegalia (**evitar deportes de contacto**: rotura de bazo); exantema si se da **amoxicilina** |
+| **Enfermedad de Kawasaki** | Vasculitis (causa desconocida) | **Fiebre ≥ 5 días** + conjuntivitis sin secreción, **labios rojos y lengua aframbuesada**, exantema, **edema y descamación de manos y pies**, adenopatía cervical; riesgo de **aneurismas coronarios**: **inmunoglobulinas IV + AAS** (excepción al AAS en niños) |
 
 ## 5. Infecciones relacionadas con la asistencia (IRAS)
 
 - **EPINE**: estudio **anual de prevalencia** (Sociedad Española de Medicina Preventiva). Las infecciones **comunitarias** que trae el paciente superan a las nosocomiales; entre las **IRAS**, el manual de este tema sitúa en cabeza la **infección quirúrgica**, seguida de urinarias y respiratorias (el orden varía entre ediciones; ver Tema 19); **bacteriemias por catéter** en aumento; casi la **mitad** de los ingresados recibe antimicrobianos.
 - ***Clostridioides difficile***: **primera causa de diarrea nosocomial**; tras **antibióticos** de amplio espectro (clindamicina, quinolonas, cefalosporinas): toxinas A y B, **colitis pseudomembranosa**, diarrea, fiebre, **leucocitosis muy alta**, riesgo de **megacolon tóxico**. Diagnóstico: **GDH y toxina en heces**. Tratamiento: retirar el antibiótico y **vancomicina oral** (metronidazol como alternativa; **trasplante de microbiota fecal** en recurrencias). El portador asintomático no se trata.
-  - **Esporas resistentes al alcohol**: **lavado de manos con agua y jabón** (no solución hidroalcohólica); superficies con **lejía**; **aislamiento de contacto**.
+  - **Esporas resistentes al alcohol**: **lavado de manos con agua y jabón** (no solución hidroalcohólica); superficies con ==**lejía**==; **aislamiento de contacto**.
 - **SARM**: resistente a todos los **betalactámicos**; reservorio en **fosas nasales**, axilas e ingles; transmisión por **las manos**: **aislamiento de contacto**. Cribado nasal en UCI y cirugía mayor; **descolonización: mupirocina 2% nasal 3 veces al día + ducha con clorhexidina 4% durante 5 días**.
 - **Código sepsis**: sepsis = **disfunción orgánica** por respuesta desregulada a una infección. **qSOFA ≥ 2**: **FR ≥ 22**, **alteración de la conciencia**, **PAS ≤ 100**. **Primera hora**: **lactato**, **hemocultivos antes del antibiótico**, **antibiótico IV de amplio espectro** y **cristaloides 30 ml/kg** si hipotensión o **lactato ≥ 4 mmol/l**.
 
@@ -105,12 +119,13 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
 !! Gotas **> 5 µm** (≈ 1 m); aérea **≤ 5 µm** (suspendidas).
 !! Hepatitis A y E no cronifican; la **E** es grave en el **embarazo**; la **D** necesita el **HBsAg**.
 !! Vacunado: **solo anti-HBs**; periodo ventana: **anti-HBc IgM**.
-!! Mantoux: **intradérmico**, lectura **48-72 h**, medir **induración** transversal.
+!! ==Mantoux: **intradérmico**, lectura **48-72 h**, medir **induración** transversal.==
 !! Booster: positivo en la 2.ª prueba = infección **antigua**, no reciente.
 !! Isoniacida → **B6**; rifampicina → fluidos **naranjas** y anticonceptivos ineficaces; etambutol → **visión de colores**.
 !! Esputo: enjuague **solo con agua**.
-!! PPE VIH: **< 72 h** y **28 días**; VHC **sin** profilaxis; VHB con anti-HBs ≥ 10: **nada**.
-!! *C. difficile*: **agua y jabón** y **lejía**; el alcohol no mata las esporas.
+!! **Koplik** = sarampión; **mejillas abofeteadas** = parvovirus B19; **fiebre 3 días y exantema al bajar** = roséola (VHH-6); **lengua aframbuesada + papel de lija** = escarlatina.
+!! ==PPE VIH: **< 72 h** y **28 días**; VHC **sin** profilaxis; VHB con anti-HBs ≥ 10: **nada**.==
+!! ==*C. difficile*: **agua y jabón** y **lejía**; el alcohol no mata las esporas.==
 !! qSOFA: **FR ≥ 22, conciencia alterada, PAS ≤ 100**.
 !! Aéreo = **presión negativa**; protector = **presión positiva**.
 !! Hemocultivos: vacío → **aerobio primero**; jeringa → **anaerobio primero**.

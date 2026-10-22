@@ -1,0 +1,259 @@
+{
+ "tema": 9,
+ "preguntas": [
+  {
+   "q": "Según la Ley 41/2002, reguladora de la autonomía del paciente, la enfermera puede prescindir de solicitar el consentimiento informado cuando:",
+   "o": [
+    "El procedimiento a realizar se desarrolle en un corto espacio de tiempo.",
+    "El paciente presenta alteración de la conciencia y no existen familiares o representantes disponibles, requiriendo actuación inmediata para evitar un daño grave.",
+    "El paciente delega su decisión en el profesional sanitario que lo atiende.",
+    "El procedimiento de enfermería implica riesgos moderados."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para garantizar el derecho a la intimidad de los pacientes en centros sanitarios (Orden SSI/81/2017, de 19 de enero), se considera correcto:",
+   "o": [
+    "El deber de confidencialidad o secreto de los residentes y alumnado en formación en un centro sanitario sobre los pacientes a quienes atiendan permanece, aunque haya concluido su periodo de formación, y solo se extingue tras el fallecimiento de los pacientes.",
+    "Los residentes en formación de cualquier año tienen derecho a acceder a la historia clínica de los pacientes implicados en las actuaciones asistenciales que realicen en cada momento sin necesidad de solicitar su consentimiento.",
+    "El deber de confidencialidad o secreto solo hace referencia a los datos contenidos en la historia clínica del paciente, quedando excluidos aquellos obtenidos mediante comunicación verbal u otros medios.",
+    "En cualquier caso, el permiso para consentir la realización de exploraciones, intervenciones o procedimientos clínicos por parte de los residentes en formación podrá recibirse de las personas vinculadas al paciente por razones familiares."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a la confidencialidad de datos de carácter personal y los derechos digitales:",
+   "o": [
+    "La responsabilidad enfermera del mantenimiento de la confidencialidad en todo el proceso de relación asistencial vence una vez que se produzca una desvinculación directa en el proceso asistencial y/o fallecimiento.",
+    "El deber de confidencialidad y secreto profesional obliga solo a los profesionales sanitarios que tienen relación asistencial con el paciente, quedando excluidos aquellos profesionales que tengan una relación burocrática o administrativa.",
+    "El titular de la información en materia de salud es el paciente. También pueden ser informados familiares o representantes legales mediante el consentimiento previo de la persona titular, ya sea de forma expresa o tácita.",
+    "El personal sanitario con funciones de inspección, evaluación y acreditación puede acceder a las historias clínicas previo consentimiento de los pacientes."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, es muy clara en la protección de datos especialmente sensibles como son los datos biomédicos. Indique la respuesta correcta en relación con dicha protección:",
+   "o": [
+    "En caso de riesgo o peligro grave para la salud de la población, las administraciones públicas pueden acceder a los datos no identificativos de los pacientes por razones epidemiológicas o de protección de la salud pública.",
+    "Los profesionales de la salud que deban acceder a los datos de carácter personal de los pacientes en el caso de una situación de riesgo para la salud pública o epidemiológica no están sujetos al deber de secreto profesional.",
+    "En el caso de situaciones de excepcional relevancia y gravedad para la salud pública, las autoridades sanitarias y poderes públicos competentes podrán realizar estudios científicos sin el consentimiento de los afectados.",
+    "Es lícito y compatible la utilización de datos personales con fines de investigación en salud y biomédica para una finalidad concreta una vez conseguido el consentimiento, pero no lo es su reutilización en otra investigación biomédica, aunque la misma esté relacionada con la investigación inicial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Se encuentra en el pasillo de la unidad de hospitalización preparando medicación cuando se acercan dos personas de mediana edad y ropa no uniformada, preguntando por la habitación en la que se encuentra ingresado P.D.R. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en el caso de indicarles dónde se encuentra, usted puede ser sancionada por una infracción de tipo:",
+   "o": [
+    "Leve.",
+    "Grave.",
+    "Muy grave.",
+    "Amonestación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El principio conocido como \"Ley del Donante Muerto\" (Dead Donor Rule), fundamental en bioética y medicina de trasplantes, establece que:",
+   "o": [
+    "Los órganos no podrán extraerse del donante por equipos que participen en el cuidado del paciente en la última etapa de la vida, para evitar conflictos de intereses.",
+    "Los órganos pueden extraerse si el pronóstico vital es terminal, aunque el paciente no haya fallecido.",
+    "Los órganos solo pueden extraerse de donantes legal y éticamente fallecidos, y el acto de extracción no debe causar la muerte del donante.",
+    "Solo aplica a donación en asistolia y no a donación en muerte encefálica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Bioética principialista fue formulada por primera vez por:",
+   "o": [
+    "Diego Gracia Guillen.",
+    "Warren Thomas Reich.",
+    "Aldo Leopold.",
+    "Beauchamp y Childress. 23 LEGISLACIÓN Y ÉTICA"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué principio se fundamenta el límite del secreto profesional relacionado con la comunicación de enfermedades infecciosas de declaración obligatoria?:",
+   "o": [
+    "Justicia.",
+    "Beneficencia.",
+    "No maleficencia.",
+    "Autonomía."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la Declaración de Helsinki, señalar la respuesta correcta:",
+   "o": [
+    "Define la atención primaria como un conjunto esencial para la promoción de la salud.",
+    "Expone los límites del secreto profesional.",
+    "Establece los principios éticos para orientar la investigación en seres humanos.",
+    "Define Beneficencia, Respeto y Justicia en el ámbito asistencial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La ética en la práctica clínica está alumbrada por el respeto a los cuatro principios bioéticos. Indique la respuesta correcta:",
+   "o": [
+    "El principio de Beneficencia es el principio bioético rector de todo acto asistencial de Enfermería.",
+    "Los principios de Beneficencia y Justicia priman en el desarrollo de la práctica clínica sobre el principio de Autonomía del paciente.",
+    "El principio de No Maleficencia primará en todo acto asistencial de Enfermería cuando entre en conflicto con el principio bioético de Beneficencia.",
+    "El principio de Autonomía decisoria prima en el desarrollo de la investigación biomédica siempre que no entre en conflicto con el principio de Beneficencia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante la labor de atención y cuidado a pacientes los principios bioéticos de autonomía, justicia, no maleficencia y beneficencia pueden entrar en conflicto. Indique la respuesta correcta:",
+   "o": [
+    "El principio bioético de autonomía y beneficencia primarán en caso de entrar en conflicto con el principio bioético de no maleficencia.",
+    "El principio de no maleficencia determina de forma específica la no discriminación de ninguna persona en la labor asistencial, protegiendo de forma especial a aquellas personas menos desfavorecidas.",
+    "El principio de justicia determina la libertad personal de cada paciente, que bien informado decide sobre lo que es bueno para él.",
+    "El principio de no maleficencia primará si éste entra en conflicto con el principio bioético de beneficencia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las premisas del informe Belmont asegura en su contenido lo siguiente:",
+   "o": [
+    "Define como básicos en investigación biomédica los principios de beneficencia, justicia y utilidad en la práctica sanitaria y en investigación biomédica.",
+    "Establece el respeto a la autonomía de la persona y la capacidad de decisión de no participar en una investigación una vez explicados los riesgos y beneficios de la misma, salvo en los casos de pacientes incapacitados o menores de edad.",
+    "El grado de protección en investigación de las personas vulnerables dependerá de la probabilidad de obtener beneficio y de la propia decisión de la persona sujeta a investigación.",
+    "La obligación de obtener un consentimiento informado donde el sujeto sometido a investigación biomédica acepta libremente participar tras una amplia explicación de riesgos y beneficios de la investigación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El Principalismo jerarquizado propuesto por Diego Gracia determina la existencia de una ética de máximos y una ética de mínimos caracterizada cada una de ellas por dos principios de los cuatro que conforman la Bioética, de forma que si los principios bioéticos entran en conflicto se deben preservar y proteger en primera instancia los siguientes:",
+   "o": [
+    "Autonomía y beneficencia.",
+    "Beneficencia y justicia.",
+    "Justicia y autonomía.",
+    "No maleficencia y justicia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las premisas del informe Belmont es:",
+   "o": [
+    "La investigación y la práctica pueden llevarse a cabo juntas cuando la primera está diseñada para evaluar la seguridad y la eficacia de la segunda.",
+    "Define como básicos los principios de beneficencia, justicia y utilidad en la práctica clínica e investigación.",
+    "El grado de protección en investigación de las personas vulnerables dependerá de la probabilidad de obtener beneficio y de la propia decisión de la persona sujeta a investigación.",
+    "Las aplicaciones de la investigación conducen a considerar la necesidad de la existencia de un consentimiento informado y la reciprocidad de los beneficios en investigación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes principios éticos hace referencia a la sociedad y considera posibles daños a terceras personas?:",
+   "o": [
+    "No-maleficencia.",
+    "Beneficencia.",
+    "Justicia.",
+    "Autonomía."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a la Adecuación del Esfuerzo Terapéutico (AET):",
+   "o": [
+    "La AET implica una limitación del tratamiento y de los cuidados del paciente con el objetivo de acortar el proceso de la muerte, pudiéndose aplicar medidas extraordinarias de tratamiento en el caso de decisión del equipo de profesionales sanitarios responsable.",
+    "Los ítems de calidad en el proceso de AET pasan por la toma de decisiones centradas en el paciente y su familia, la continuidad de los cuidados y el soporte emocional necesario.",
+    "La AET determina una implicación de todo el equipo asistencial, paciente, familiares y representantes legales en cuya decisión final consensuada, primará la decisión de los profesionales sanitarios en un contexto de respeto al principio bioético de Beneficencia.",
+    "La AET debe comenzar desde el punto de vista legal y de la ética asistencial en los últimos momentos de vida de la persona, cuando ésta entra en el proceso de agonía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La Enfermería como profesión científica, moderna y dinámica, tiene una gran implicación y papel en la investigación en el campo sanitario. Indique la respuesta correcta:",
+   "o": [
+    "La investigación en el campo sanitario implica la protección de datos especialmente sensibles y de carácter personal, pudiendo ser estos empleados en la investigación con finalidad diferente para la que han sido recogidos, sin la necesidad de consentimiento por parte de la persona afectada, siempre que la especial trascendencia de la investigación lo justifique.",
+    "Los datos clínicos sensibles y de carácter personal utilizados en investigación pueden ser utilizados sin el consentimiento de la persona, siempre que se mantenga el deber de confidencialidad de los mismos y haya sido consensuado por los investigadores principales.",
+    "El principio de autonomía decisoria de la persona sujeta a investigación, vertebra toda investigación biomédica salvo en los casos en que la persona renuncie a ello o la investigación tenga un nivel de trascendencia que la justifique.",
+    "La investigación en salud debe proteger el principio de autonomía decisoria de la persona, prevaleciendo en todo el proceso su salud, bienestar y seguridad por encima del interés de la sociedad o de la ciencia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme a lo dispuesto en la Ley 14/2007, de 3 de julio, de Investigación biomédica, en el caso de la investigación con células y tejidos destinados a su aplicación en el ser humano, los datos para garantizar la trazabilidad deben conservarse durante al menos:",
+   "o": [
+    "Cinco años.",
+    "Diez años.",
+    "Veinte años.",
+    "Treinta años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Desde el punto de vista ético la investigación biomédica consta de una serie de garantías y premisas de obligado cumplimiento para dar al proceso la necesaria salvaguarda ético-legal. Señale la respuesta correcta:",
+   "o": [
+    "Desde el punto de vista ético la investigación biomédica garantiza que el interés y el bienestar de la sociedad o de la ciencia prevalecerá sobre el interés y el bienestar de la persona que participe en una investigación de este tipo.",
+    "Éticamente la investigación biomédica debe asegurar que la persona sujeta a investigación no sufre riesgos o molestias desproporcionadas a los beneficios potenciales que se puedan obtener de la misma.",
+    "Desde el punto de vista ético y legal no se puede iniciar una investigación biomédica en los casos en que la persona por su situación clínica de emergencia no pueda otorgar su consentimiento.",
+    "Si la investigación biomédica tiene la necesaria trascendencia e importancia clínica se procederá a retrasar o privar a los participantes de los procedimientos médicos, diagnósticos o terapéuticos que sean necesarios para su estado de salud."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a imagen 2. A la hora de explorar a un o una paciente mediante percusión, ¿dónde espera obtener matidez?:",
+   "o": [
+    "A.",
+    "B.",
+    "C.",
+    "D."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t09-2024-2025-2.jpg"
+  },
+  {
+   "q": "¿Qué aspecto del paciente NO SE MIDE con los resultados NOC?:",
+   "o": [
+    "Estados.",
+    "Sentimientos.",
+    "Percepciones.",
+    "Conductas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cada resultado de enfermería NOC se presenta con todas las características, EXCEPTO:",
+   "o": [
+    "Un nombre indicador.",
+    "Un código propio.",
+    "Una escala de medida.",
+    "Una lista de actividades."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de establecer un plan de cuidados enfermeros NANDA/NIC/NOC de una persona con dependencia que tiene una úlcera por presión, señale la respuesta INCORRECTA:",
+   "o": [
+    "NIC: cuidados del paciente encamado.",
+    "NIC: curación de la herida: por segunda intención.",
+    "Diagnóstico: deterioro de la integridad cutánea.",
+    "Factor relacionado: factores mecánicos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

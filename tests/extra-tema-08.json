@@ -1,0 +1,215 @@
+{
+ "tema": 8,
+ "preguntas": [
+  {
+   "q": "¿En qué norma se aprueba formalmente el Protocolo de actuación frente al acoso sexual y al acoso por razón de sexo en el ámbito de la Administración General del Estado y de sus organismos públicos?:",
+   "o": [
+    "Ley 4/2023, de 28 de febrero.",
+    "Real Decreto 247/2024, de 8 de marzo.",
+    "Ley 31/1995, de 8 de noviembre.",
+    "Real Decreto 1026/2024, de 8 de octubre."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Desde 2021, en España se ha modificado los derechos derivados de la paternidad y de la maternidad tras un nacimiento, quedando el permiso de ambos progenitores en un periodo de:",
+   "o": [
+    "16 semanas para ambos.",
+    "12 semanas para ambos.",
+    "8 semanas para la madre y 6 semanas para el padre.",
+    "12 semanas para la madre y 10 semanas para el padre."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Seleccione el tipo de revisión de la literatura que se considera un precursor de la revisión sistemática, y permite una evaluación preliminar del volumen de la evidencia disponible sobre un tema, con el fin de proporcionar un mapa de esta e identificar lagunas de conocimiento:",
+   "o": [
+    "Revisión narrativa.",
+    "Revisión panorámica.",
+    "Metaanálisis.",
+    "Revisión rápida."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El desarrollo de la Práctica Clínica Basada en la Evidencia (PCBE) se establece en cinco etapas. ¿La tercera etapa a qué corresponde?:",
+   "o": [
+    "Formular preguntas clínicas.",
+    "Realización de búsqueda bibliográfica.",
+    "Lectura crítica.",
+    "Aplicación a la práctica clínica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué corresponde la acción de resumir los resultados de una búsqueda de información que identifica y localiza la mejor evidencia en apoyo de una acción clínica?:",
+   "o": [
+    "Síntesis.",
+    "Sinopsis de síntesis.",
+    "Sumarios.",
+    "Sistemas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. Atendiendo a la imagen, el operador lógico Booleano al que corresponde es:",
+   "o": [
+    "OR.",
+    "NOT.",
+    "AND.",
+    "*."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t04-2022-2023-2.jpg"
+  },
+  {
+   "q": "El sistema GRADE considera como recomendación fuerte:",
+   "o": [
+    "Para los pacientes, la mayoría de las personas estarían de acuerdo con la acción recomendada, pero un número importante de ellos no.",
+    "Para los gestores, existe necesidad de un debate importante y la participación de los grupos de interés.",
+    "Para los clínicos, la mayoría de los pacientes deberían recibir la intervención recomendada.",
+    "Para los planificadores, se reconoce que diferentes opciones serán apropiadas para diferentes pacientes, y que el médico tiene que ayudar a cada paciente a llegar a la decisión más consistente con sus valores y preferencias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la pirámide de Haynes, las fuentes primarias se encuentran en:",
+   "o": [
+    "La base.",
+    "Estrato intermedio: Compendios.",
+    "Estrato intermedio: Sistema.",
+    "La cúspide."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la pirámide de Haynes, ¿cuál de las fuentes de información enumeradas a continuación se halla en la cúspide de la pirámide?:",
+   "o": [
+    "Metaanálisis.",
+    "Artículos originales.",
+    "Sistema de ayuda a la toma de decisiones.",
+    "Revisiones sistemáticas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA en relación con las ventajas del sistema GRADE (Grading of Recommendations, Assessment, Development and Evaluation) sobre otros sistemas de clasiﬁcación: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 68",
+   "o": [
+    "Evaluación explícita de la importancia de los resultados de las estrategias de gestión alternativas.",
+    "Útil para revisiones sistemáticas y evaluaciones de tecnología sanitaria, así como para directrices.",
+    "Reconocimiento explicito de decisiones y referencias.",
+    "Proceso transparente de pasar de la evidencia a las recomendaciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la siguiente pregunta clínica estructurada: Los niños de madres que consumieron cocaína durante el embarazo y que comienzan su escolarización, ¿se deben considerar susceptibles de mayor riesgo de problemas de aprendizaje? Identiﬁque de qué tipo de pregunta clínica se trata:",
+   "o": [
+    "Pregunta sobre intervención.",
+    "Pregunta sobre etiología.",
+    "Pregunta sobre pronóstico.",
+    "Pregunta sobre diagnóstico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la clasiﬁcación Grading of Recommendations Assessment, Development and Evaluation (GRADE), cuando el estimador del efecto puede ser sustancialmente diferente al efecto real, el grado de calidad de la evidencia correcto sería:",
+   "o": [
+    "Muy baja.",
+    "Baja.",
+    "Moderada.",
+    "Alta."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Identiﬁque cuál de las siguientes opciones se corresponde con herramientas facilitadoras para el análisis y lectura crítica de trabajos cientíﬁcos:",
+   "o": [
+    "EndNote.",
+    "eXeLearning.",
+    "BibteX.",
+    "CASPe."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El desarrollo de un trabajo académico o documento cientíﬁco requiere de una bibliografía sistemática y estructurada. La alusión dentro del texto del trabajo académico a ideas, frases o documentos ajenos, remitiendo al lector a la fuente de la que se extrae la información, se denomina:",
+   "o": [
+    "Bibliografía.",
+    "Referencia bibliográfica.",
+    "Cita bibliográfica.",
+    "Lista de referencias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes NO es una base de datos bibliográficas de Ciencias de la Salud:",
+   "o": [
+    "Diagnóstico.",
+    "Pronóstico.",
+    "Tratamiento o intervención.",
+    "De primera línea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala cuál de los siguientes NO es un metabuscador:",
+   "o": [
+    "SUMSearch 2.",
+    "TRIP database.",
+    "Cochrane.",
+    "Epistemonikos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala cuál de los siguientes recursos electrónicos NO es un gestor de referencias bibliográﬁcas:",
+   "o": [
+    "EndNote.",
+    "Feedly.",
+    "RefWorks.",
+    "Zotero."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale qué característica del Digital Object Identiﬁer (DOI) es INCORRECTA:",
+   "o": [
+    "El DOI constituye un identificador único y permanente de una porción de contenido y un mecanismo para acceder a ese contenido electrónicamente.",
+    "Proporciona un sistema de identificación permanente, accionable e interoperable de información.",
+    "Su uso es exclusivo para artículos de revistas científicas.",
+    "Puede incluir otros indicadores como el ISBN."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la opción INCORRECTA:",
+   "o": [
+    "El “Medical Subject Heading (MeSH)” es un tesauro.",
+    "EL “Descriptores en Ciencias de la Salud” (DeCS) es un tesauro disponible en español, inglés y francés.",
+    "En un tesauro, los descriptores están definidos explícitamente.",
+    "Tanto el MeSH como el DeCS son de consulta gratuita."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

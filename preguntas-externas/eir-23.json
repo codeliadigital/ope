@@ -1,0 +1,505 @@
+{
+ "id": "eir-23",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 23,
+ "titulo": "EIR · Nefrología y urología",
+ "explicadas": false,
+ "descripcion": "45 preguntas de los exámenes EIR de 2018 a 2025 sobre nefrología y urología, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "¿En cuál de las siguientes partes del sistema urinario se produce la filtración inicial de la sangre?:",
+   "o": [
+    "Túbulo contorneado proximal.",
+    "Asa de Henle.",
+    "Glomérulo.",
+    "Uréter."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las guías Kidney Disease: Improving Global Outcomes (KDIGO), el filtrado glomerular estimado (eGFR) se define como:",
+   "o": [
+    "El volumen total de sangre que circula por el riñón cada minuto.",
+    "La velocidad de secreción tubular de la creatinina.",
+    "El volumen de orina producido en 24 horas indexado por peso del paciente (ml / Kg).",
+    "Una estimación de la cantidad de plasma filtrada por los glomérulos por unidad de tiempo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Considerando los indicadores de función renal estimados a partir de una analítica sanguínea, NO SE DISPONE DE:",
+   "o": [
+    "Concentración de creatinina plasmática.",
+    "Concentración de urea plasmática.",
+    "3. NGAL (Neutrophil Gelatinase-Associated Lipocalin).",
+    "Tasa de filtrado glomerular estimada."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación a la hematuria y sus causas, señale la respuesta INCORRECTA:",
+   "o": [
+    "Una posible causa de hematuria indolora puede ser la Tuberculosis.",
+    "El ejercicio intenso o la carrera de larga distancia puede causar hematuria.",
+    "Característicamente, la hematuria consecuente a la infección del tracto urinario es indolora.",
+    "Algunos fármacos como la rifampicina o la warfarina, pueden confundir una hematuria al colorear la orina de color rojo-pardo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La gravedad de la enfermedad renal crónica (ERC), según el filtrado glomerular, se clasifica en cinco categorías funcionales. Un filtrado glomerular entre 15 y 29 ml/min/1,73 m2 indica:",
+   "o": [
+    "Filtrado glomerular gravemente disminuido.",
+    "Es necesario considerar terapia de reemplazo renal.",
+    "Filtrado glomerular normal.",
+    "Filtrado glomerular aumentad"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la enfermedad renal en etapa terminal o insuficiencia renal crónica, identifique cuál de las siguientes afirmaciones es INCORRECTA: 527 NEFROLOGÍA Y UROLOGÍA",
+   "o": [
+    "La anemia se produce debido a la menor producción de eritropoyetina, menor vida útil de los eritrocitos, deficiencias nutricionales y tendencia al sangrado en el tubo digestivo.",
+    "La aparición de hipertensión está relacionada con la retención de agua y sodio y se asocia con una activación del sistema reninaangiotensina-aldosterona.",
+    "La enfermedad ósea y las calcificaciones metastásicas y vasculares se producen debido a la retención de calcio, a la disminución de las concentraciones de fósforo y a las concentraciones elevadas de aluminio.",
+    "La hipercalemia se debe a una excreción reducida de potasio, aumento del catabolismo y a una ingesta excesiva a través de la dieta, medicamentos o líquidos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Un varón de 48 años ha sido ingresado con diagnóstico de insuficiencia renal crónica y un filtrado glomerular <15 mI/ min/1,73m2. Indique cuál de estas acciones sería INCORRECTA en su Plan de Cuidados:",
+   "o": [
+    "Valorar el estado de los líquidos: peso diario, turgencia cutánea, ingurgitación yugular.",
+    "Limitar la ingestión de líquidos al volumen prescrito.",
+    "Promover la ingestión de alimentos calóricos para favorecer un equilibrio nitrogenado positivo.",
+    "Promover o recomendar la higiene oral frecuente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta sobre la recomendación de actividad física en pacientes con Lesión Renal Aguda:",
+   "o": [
+    "Se recomendará ejercicio de media intensidad (5-6 MET) con el fin de una mejora cardiovascular.",
+    "Se recomendarán ejercicios de fuerza alternando con ejercicios de resistencia.",
+    "Se recomendará reposo.",
+    "Se recomendará una mayor hidratación preactividad física que en condiciones normales."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Las uñas “mitad y mitad” que presentan una porción proximal blanquecina y la mitad distal roja, rosada o marrón rojizo, y que se asocian a nefropatías crónicas se llaman también:",
+   "o": [
+    "Uñas de Terry.",
+    "Uñas de Lindsay.",
+    "Uñas en vidrio de reloj.",
+    "Uñas con líneas de Mees o con líneas de Muehrcke."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la Enfermedad Renal Crónica (ERC), señale la respuesta INCORRECTA:",
+   "o": [
+    "La diabetes mellitus es la principal causa de ERC en España.",
+    "Un signo típico de la ERC es la Xerosis.",
+    "Existen dos modalidades de terapia renal sustitutiva, la diálisis y el trasplante renal.",
+    "La síntesis de eritropoyetina endógena en la fase 3 de la ERC, condiciona una anemia normocítica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes acciones NO realizarán los profesionales de enfermería ante un paciente con lesión renal aguda?:",
+   "o": [
+    "Se tomarán las medidas necesarias para reducir la tasa metabólica del paciente.",
+    "Siempre que sea posible, colocaremos una sonda vesical permanente al paciente para un mejor control hídrico.",
+    "Proporcionaremos baños de agua fresca, cambios de posición frecuentes y mantendremos la piel humectada, así como las uñas recortadas.",
+    "Realizaremos las aclaraciones pertinentes en lo que respecta a la información médica acerca de su situación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los siguientes datos de laboratorio pertenecen a un paciente con Insuficiencia Renal Aguda: emisión de orina de 24 h: 1,75 litros, índice de filtración glomerular (IFG) 120 ml/ min, BUN 17 mg/dl, potasio 4,9 mEg/L y creatinina 1 mg/dl. Según estos hallazgos, ¿en qué etapa de Insuficiencia Renal Aguda se encuentra?:",
+   "o": [
+    "Fase de Iniciación.",
+    "Fase de Diuresis.",
+    "Fase Oligúrica.",
+    "Fase de Recuperación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA sobre la Insuficiencia Renal:",
+   "o": [
+    "El peso diario preciso es el mejor indicador del equilibrio hídrico aproximado del paciente renal.",
+    "En condiciones normales es difícil que se produzca un aporte oculto significativo de líquido debido a la administración de medicamentos intravenosos en un paciente renal.",
+    "La taquicardia, el aumento de somnolencia o la confusión mental son indicadores frecuentes de infección en los pacientes renales.",
+    "La Insuficiencia Renal Prerrenal es frecuente, especialmente en pacientes con traumatismos, quirúrgicos o gravemente enfermos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el manejo de la Enfermedad Renal Crónica (ERC) según el documento “Guía de Práctica Clínica sobre la Detección y el Manejo de la Enfermedad Renal Crónica“. Ministerio de Sanidad, Servicios Sociales e Igualdad, 2016 (Guías de Práctica Clínica en el SNS), señale cuál de las siguientes recomendaciones es INCORRECTA:",
+   "o": [
+    "Se recomienda que las personales con ERC practiquen ejercicio de forma regular. Recomendación fuerte.",
+    "En pacientes con ERC fumadores se recomienda la abstinencia o el abandono del hábito tabáquico. Recomendación fuerte.",
+    "No se recomienda establecer unas cifras objetivo de presión arterial inferiores a 140/90 mmHg en los pacientes con ERC. Recomendación débil. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 530",
+    "Se sugiere no alterar el tratamiento antihipertensivo en pacientes con cifras con presión arterial inferiores a 140/90 mmHg. Recomendación débil."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De acuerdo con la Guía Clínica Española del Acceso Vascular para Hemodiálisis, una fístula arteriovenosa nativa se define como:",
+   "o": [
+    "Un tipo de catéter venoso central situado en un túnel subcutáneo hasta su entrada en la vena.",
+    "Una fístula arteriovenosa en la que se implanta un injerto de material sintético entre una arteria y una vena, donde el cuerpo del injerto actúa como conducto de acceso para la canulación y la conexión durante la hemodiálisis.",
+    "Una fístula arteriovenosa que una vez transcurridas entre 4 y 6 semanas desde su realización, no cumple los criterios de maduración.",
+    "Una fístula arteriovenosa donde la vena sirve como conducto de acceso para la canulación y conexión a hemodiálisis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En pacientes en diálisis, el uso de quelantes de fósforo es una práctica común. ¿Cuál de las siguientes afirmaciones sobre los quelantes de fósforo a base de carbonato de lantano es correcta?:",
+   "o": [
+    "El lantano se excreta mayoritariamente a través de la vía renal.",
+    "El lantano causa depleción de la vitamina D y de otras vitaminas liposolubles en el paciente con este tratamiento.",
+    "El lantano actúa como sustrato e inhibidor de las enzimas del citocromo P450.",
+    "El lantano no atraviesa la barrera hematoencefálica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué procedimiento sería adecuado aplicar a un paciente del que se sospecha que sufre un episodio de hemólisis aguda durante una sesión de hemodiálisis?:",
+   "o": [
+    "Deberá retornar la sangre presente en el circuito al paciente y detener inmediatamente el tratamiento.",
+    "No deberá retornar la sangre presente en el circuito al paciente y detendrá inmediatamente el tratamiento. 531 NEFROLOGÍA Y UROLOGÍA",
+    "Deberá realizar un cambio del circuito de hemodiálisis y continuar posteriormente con la sesión.",
+    "Deberá realizar un cambio del dializador y continuar posteriormente con la sesión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta sobre implantación quirúrgica de un catéter peritoneal mediante minilaparotomía o vía laparoscópica:",
+   "o": [
+    "El catéter peritoneal empleado se inserta más frecuentemente en el lado derecho.",
+    "El día de la intervención el paciente debe estar en ayunas, habiéndose administrado laxantes osmóticos o enema.",
+    "La inserción se realiza en la consulta de nefrología.",
+    "No precisa de profilaxis antibiótica previa a la colocación del catéter."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta respecto a la principal repercusión clínica de un exceso de concentración de cloro y cloraminas en el líquido de diálisis:",
+   "o": [
+    "Calcificación de los vasos de los miembros inferiores.",
+    "Alteraciones en la conducción neuronal del impulso eléctrico.",
+    "Disminución crítica de la actividad paratiroidea.",
+    "Hemólisis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la función de los fármacos Ciclosilicato de sodio y zirconio (CSZ) administrados a un paciente sometido a un programa de Hemodiálisis?:",
+   "o": [
+    "Control sérico de potasio.",
+    "Control sérico del fósforo.",
+    "Control sérico de la creatinina.",
+    "Control sérico de la urea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes afirmaciones es la correcta con respecto a la Hemodiálisis Expandida:",
+   "o": [
+    "La Hemodiálisis Expandida se caracteriza por el uso de dializadores con membranas de corte medio (medium cut-off).",
+    "La Hemodiálisis Expandida NO se caracteriza por el uso de dializadores con membranas de corte medio (medium cut-off).",
+    "La Hemodiálisis Expandida se caracteriza por combinar en el interior del dializador difusión y translocación.",
+    "La Hemodiálisis Expandida se caracteriza por combinar en el interior del dializador convección y translocación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes clasificaciones con respecto a los dializadores utilizados en hemodiálisis es la correcta:",
+   "o": [
+    "Los dializadores pueden ser clasificados según su diseño geométrico, la composición de la membrana, y de acuerdo con su capacidad para eliminar solutos en sangre.",
+    "Los dializadores pueden ser clasificados según la composición de la membrana y de acuerdo con su capacidad para eliminar solutos en sangre.",
+    "Los dializadores pueden ser clasificados según la composición de la membrana, de acuerdo con su capacidad para eliminar solutos en sangre, según el tipo de placa y según la carcasa.",
+    "Los dializadores pueden ser clasificados según la composición de la membrana, de acuerdo con su capacidad para eliminar solutos en sangre y según la carcasa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De acuerdo con la última Guía de Práctica Clínica para el cuidado peri y postoperatorio de la fístula y el injerto arteriovenoso para hemodiálisis en adultos, publicada por la European Renal Best Practice (ERBP), señale la afirmación correcta:",
+   "o": [
+    "En el momento de la primera canulación en adultos que requieren hemodiálisis, se recomienda esperar seis semanas después de la creación de la fístula arteriovenosa si tras el examen físico se considera que el acceso es adecuado.",
+    "En el momento de la primera canulación en adultos que requieren hemodiálisis, se recomienda esperar ocho semanas después de la creación de la fístula arteriovenosa si tras el examen físico se considera que el acceso es adecuado.",
+    "En adultos que requieren hemodiálisis, se sugiere no canular por primera vez fístulas arteriovenosas entre una y dos semanas después de su creación, a menos que esto pueda evitar la colocación de un catéter venoso central para hemodiálisis. 533 NEFROLOGÍA Y UROLOGÍA",
+    "En adultos que requieren hemodiálisis, se sugiere no canular por primera vez fístulas arteriovenosas entre dos y cuatro semanas después de su creación, a menos que esto pueda evitar la colocación de un catéter venoso central para hemodiálisis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El proceso que ocurre cuando una presión osmótica y/o hidrostática empuja el agua a través de una membrana y se extrae líquido exclusivamente de un compartimento sin pretender la depuración de solutos se denomina:",
+   "o": [
+    "Ultrafiltración.",
+    "Difusión.",
+    "Decantación.",
+    "Adsorción."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente lleva 15 minutos conectado a su monitor de hemodiálisis. Avisa porque siente sudoración y se encuentra mareado. Su tensión arterial de inicio era: 140/80 mmHg. Se toma la tensión de nuevo y tiene 85/50 mmHg. Su ganancia interdiálisis es de 2 kg y tiene pautada 4 horas de sesión. Con estos datos, ¿cuál puede ser el origen de la hipotensión que presenta?:",
+   "o": [
+    "Ganancia interdiálisis elevada.",
+    "Intolerancia a la ingesta de alimentación.",
+    "Desequilibrio hidroelectrolítico.",
+    "Temperatura del líquido de diálisis elevada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el manejo de las fístulas arteriovenosas en hemodiálisis, indique la opción INCORRECTA:",
+   "o": [
+    "No debe utilizarse compresión proximal para la punción de fístulas protésicas.",
+    "La aguja venosa debe insertarse proximal a la arterial para evitar recirculación. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 534",
+    "Se recomienda utilizar la técnica en ojal frente a la punción escalonada en fístulas nativas.",
+    "La punción de toda fístula arteriovenosa debe realizarse exclusivamente por enfermeras especializadas del servicio de hemodiálisis."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué situación durante una sesión de hemodiálisis, estaría indicado administrar suero salino hipertónico y/o glucosa al 50% para corregir la situación?:",
+   "o": [
+    "Crisis de hipo.",
+    "Calambres.",
+    "Somnolencia.",
+    "Prurito."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto a la hemodiafiltración como método de hemodiálisis, señale la opción correcta:",
+   "o": [
+    "La hemodiafiltración se caracteriza por la difusión de bajo flujo.",
+    "En la hemodiafiltración la cantidad de ultrafiltración final es resultado de la suma del exceso hídrico del paciente y del líquido de baño que circula por el dializador durante todo el tratamiento.",
+    "En la hemodiafiltración, no es necesario tener en cuenta la selección del dializador, puesto que cualquiera es válido para realizar este método de diálisis.",
+    "La hemodiafiltración online combina el aclaramiento difusivo y convectivo siendo la modalidad más eficiente para eliminar toxinas urémicas de tamaño pequeño y medio."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes cuidados de enfermería NO se realizarán en el periodo postquirúrgico inmediato tras la realización de una fístula arteriovenosa:",
+   "o": [
+    "Comprobación de la existencia de soplo y frémito en la fístula arteriovenosa.",
+    "Mantener un apósito compresivo en el brazo de la fístula arteriovenosa.",
+    "Mantener elevada la extremidad de la fístula arteriovenosa.",
+    "Monitorizar las constantes vitales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Un usuario diagnosticado de prostatitis aguda le pregunta como enfermera: “¿por qué necesito tomar laxantes? el problema es con mi orina, no con mis intestinos”. ¿Qué debe responder usted?:",
+   "o": [
+    "Es una prescripción estándar para cualquier paciente con un problema urinario.",
+    "Los laxantes le mantendrán el intestino libre de heces, lo que le ayudará a sentirse menos hinchado.",
+    "El estreñimiento aumenta la probabilidad de tener complicaciones asociadas a la prostatitis.",
+    "Le ayudarán, porque el esfuerzo durante las deposiciones resulta doloroso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción incorrecta respecto a las Infecciones del Tracto Urinario (ITU) de repetición:",
+   "o": [
+    "La realización de urocultivos no es necesario para el diagnóstico de ITU de repetición.",
+    "Las recidivas se suelen presentar en las primeras dos semanas tras la curación debido a la persistencia de la cepa original.",
+    "Las reinfecciones son nuevas infecciones causadas por cepas diferentes y se producen de manera tardía (más de dos semanas tras una ITU inicial).",
+    "En mujeres premenopáusicas, el mayor factor de riesgo es el coito. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 536"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes NO sería un factor de riesgo de la infección urinaria asociada al sondaje vesical de una mujer de 82 años portadora de sonda vesical permanente desde hace 6 años?:",
+   "o": [
+    "La falta de tratamiento antibiótico sistémico.",
+    "La creatinina sérica elevada.",
+    "La inserción del catéter en el quirófano.",
+    "El sexo femenino."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto a las infecciones y sepsis urológicas, indique la opción INCORRECTA:",
+   "o": [
+    "El shock séptico presenta anomalías celulares, circulatorias y metabólicas que se asocian a un mayor riesgo de mortalidad que la sepsis.",
+    "Aunque la Escherichia coli es el germen que con más frecuencia causa infecciones urológicas, en hombres es habitual que esté causado por cándidas.",
+    "Cuando las infecciones se agravan produciendo un shock séptico el resultado suele ser similar, independientemente de que las bacterias sean Gram negativas o Gram positivas.",
+    "Debe sospecharse una pielonefritis aguda en los pacientes que presenten fiebre y dolor en el costado, incluso en ausencia de síntomas típicos de cistitis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta con relación a la urolitiasis:",
+   "o": [
+    "Los cálculos de oxalato cálcico y fosfato cálcico, son más frecuentes en países con bajo desarrollo económico.",
+    "Tiene un claro predominio en hombres.",
+    "El aumento de la ingesta de líquidos no tiene repercusión sobre las recurrencias.",
+    "La presencia de orina ácida, fomenta la aparición de cálculos de estruvita."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de educación terapéutica del paciente con sondaje intermitente limpio (SIL), son candidatos al mismo:",
+   "o": [
+    "Pacientes que precisen más de 5 o 6 sondajes al día.",
+    "Pacientes con neoplasia.",
+    "Pacientes con infecciones del tracto urinario de repetición con sintomatología.",
+    "Pacientes con lesión medular."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación a la rehabilitación del suelo pélvico en hombres:",
+   "o": [
+    "Consiste en realizar ejercicios de contracción de la musculatura perineal, aunque el hombre no identifique o localice la musculatura pélvica en su cuerpo.",
+    "Una de las finalidades es mejorar la calidad de las relaciones sexuales y reforzar el soporte visceral.",
+    "Las contracciones se mantendrán durante al menos 10 segundos, para después ir reduciendo el tiempo de contracción hasta 2 o 3 segundos por serie de ejercicios.",
+    "La posición inicial para comenzar la rehabilitación del suelo pélvico no es relevante, aunque se recomienda empezar en bipedestación para sentir mejor la musculatura."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la capacidad de absorción del absorbente de día?:",
+   "o": [
+    "De 50-300 ml.",
+    "De 600-900 ml.",
+    "De 900-1200 ml.",
+    "> 1200 ml."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto de los ejercicios de reeducación vesical para modificar los hábitos de micción, es FALSO:",
+   "o": [
+    "Se recomienda realizar una micción de manera forzada durante momentos establecidos a lo largo del día para mantener vacía la vejiga. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 538",
+    "Se recomienda al paciente iniciar una nueva micción forzada tras el acto miccional para vaciar completamente la vejiga.",
+    "Llevar un diario de la micción ayuda a establecer una programación adecuada en cada paciente.",
+    "Hay evidencias concluyentes que sugieren que el sondaje intermitente es ventajoso frente al permanente o el uso de colectores en pacientes con vejiga neurógena."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los posibles efectos secundarios que puede experimentar un paciente tras un procedimiento de braquiterapia prostática NO se encuentra:",
+   "o": [
+    "Diarrea.",
+    "Dolor o molestias en la eyaculación.",
+    "Cistitis.",
+    "Orquitis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En referencia al cáncer de próstata, indique la opción INCORRECTA:",
+   "o": [
+    "Ante una intervención de braquiterapia, el paciente debe usar preservativo durante las 4 semanas posteriores a la intervención a la hora de mantener relaciones sexuales ante la eventual expulsión de semillas.",
+    "La resección transuretral causa eyaculación retrógrada debido a la eliminación de tejido prostático en el cuello vesical.",
+    "La prostatectomía retropúbica está indicada en la extirpación de próstatas de gran tamaño ya que se visualiza mejor el sitio quirúrgico.",
+    "Después de una prostactectomía, la actividad sexual puede reanudarse a las 6-8 semanas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La cistectomía radical sigue siendo el tratamiento oncológico de elección del tumor vesical músculo-invasivo. Esta cirugía conlleva la reconstrucción de la vía urinaria utilizando habitualmente un segmento intestinal. En el caso de utilizar el íleon distal 539 NEFROLOGÍA Y UROLOGÍA para la confección de la derivación urinaria, esta puede comportar diferentes trastornos metabólicos, sobre todo en los primeros meses tras la cirugía. ¿Qué alteración metabólica destacaría?:",
+   "o": [
+    "Acidosis metabólica.",
+    "Alcalosis metabólica.",
+    "Déficit de vitamina B1.",
+    "Hipercalcemia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA sobre las derivaciones urinarias heterotópicas:",
+   "o": [
+    "La orina saldrá por un conducto diferente de la uretra.",
+    "Estas derivaciones pueden ser continentes o incontinentes.",
+    "Se realiza sustitución vesical respetando la vía excretora natural, es decir la uretra (se crea una neovejiga).",
+    "Una de las derivaciones más usadas es la ureteroileostomía tipo Bricker."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con los consejos a un paciente sometido a una ureterosigmoidostomía. Indique la opción INCORRECTA:",
+   "o": [
+    "Debemos instruir al paciente para que no retrase más de 2-4 horas el vaciado de la orina, incluso de noche.",
+    "Recomendaremos al paciente la ingesta de líquido para prevenir infecciones de orina.",
+    "Recomendaremos al paciente la utilización de crema barrera en la zona perianal como prevención de dermatitis.",
+    "Explicaremos al paciente que la sensación de tenesmo rectal desaparecerá al cabo de 1 mes aproximadamente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a la consulta un paciente varón de 58 años de edad, que refiere problemas de erección. El paciente comenta que el pene alcanza firmeza, pero no lo suficiente para la penetración. En función de la Escala de Calificación del Grado de Firmeza de la Erección (Erection Hardness Grading Score - EHGS), este caso se calificaría como grado: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 540",
+   "o": [
+    "1.",
+    "2.",
+    "3.",
+    "4."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las siguientes respuestas NO corresponde con las características que presenta la Gangrena de Fournier (GF):",
+   "o": [
+    "La GF es una forma específica de fascitis necrotizante que cursa de forma rápida y progresiva y que afecta principalmente a la fascia muscular genital, perineal y perianal, pudiendo incluso extenderse a la pared intraabdominal.",
+    "Es más prevalente en mujeres que en hombres, en una proporción 10:1 respectivamente.",
+    "Los factores más predisponentes para la GF son la diabetes mellitus y el alcoholismo crónico. También se relaciona con procesos que comprometen el estado inmunológico, neoplasias, desnutrición y otros como un nivel socioeconómico bajo y unos hábitos higiénicos deficientes.",
+    "El diagnóstico de la clasificación CIE-10 (Clasificación internacional de enfermedades) para la GF es N-49,3."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

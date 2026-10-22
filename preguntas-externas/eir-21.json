@@ -1,0 +1,265 @@
+{
+ "id": "eir-21",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 21,
+ "titulo": "EIR · Respiratorio",
+ "explicadas": false,
+ "descripcion": "23 preguntas de los exámenes EIR de 2018 a 2025 sobre respiratorio, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "El bronquio, los vasos linfáticos, los vasos sanguíneos y los nervios entran y salen del pulmón, a través de:",
+   "o": [
+    "Vértice del pulmón.",
+    "Hilio.",
+    "Base del pulmón.",
+    "Escotadura cardíaca."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El principal estímulo fisiológico para la ventilación en sujetos sanos es:",
+   "o": [
+    "La hipoxemia (PaO2 baja) detectada por quimiorreceptores periféricos.",
+    "La presión arterial sistémica.",
+    "La hipercapnia (PaCO2 alta) y el aumento de H+ detectados por quimiorreceptores centrales.",
+    "El consumo de adenosín trifosfato (ATP) durante el ejercicio físico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta respecto de la Prueba de Marcha de los 6 minutos o Test de los 6 minutos (PM6M):",
+   "o": [
+    "Mide la distancia máxima que un individuo puede recorrer caminando durante 6 minutos, con intervalos de caminata-descanso de 1 minuto para completar los 6 minutos totales (caminar 1 minuto y descansar otro, hasta completar 6 minutos).",
+    "Evalúa de forma integrada la respuesta de los sistemas respiratorio, cardiovascular, metabólico, músculo esquelético y neurosensorial al estrés impuesto por el ejercicio.",
+    "El pasillo por el que se camina nunca debe estar en interiores y ha de tener superficie plana y con una distancia siempre superior a 30 m.",
+    "El embarazo es una contraindicación para la prueba, aunque debe hacerse una prueba adaptada (Pregnancy Modified 6 Minutes Test o PM3M) en los casos necesarios. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 490"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A la disnea que aparece al inclinarse hacia delante para ponerse los zapatos o atarse los cordones, y que se considera un nuevo síntoma de la insuficiencia cardíaca avanzada, se denomina:",
+   "o": [
+    "Trepopnea.",
+    "Platipnea.",
+    "Ciclopnea.",
+    "Bendopnea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. Indique el patrón respiratorio que se muestra en la imagen:",
+   "o": [
+    "Atáxico.",
+    "Kussmaul.",
+    "Cheyne-Stokes.",
+    "Apnéustico."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t21-2021-2022-8.jpg"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación a la respiración de Kussmaul:",
+   "o": [
+    "Es un tipo particular de hiperventilación mediante la cual el cuerpo intenta compensar el aumento de ácidos metabólicos expulsando CO2.",
+    "Es un patrón de respiraciones superficiales y rápidas interrumpidas por apneas.",
+    "Es un tipo de hipoventilación que puede observarse en pacientes con trastornos del sistema nervioso central.",
+    "Es un patrón respiratorio que se caracteriza por reducción de la frecuencia respiratoria y que se asocia frecuentemente a sobredosis de morfina o sedantes."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La imagen 6 es de una curva flujo-volumen que corresponde a:",
+   "o": [
+    "Una obstrucción bronquial unilateral del tronco principal. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 492",
+    "Una enfermedad pulmonar obstructiva crónica.",
+    "Una obstrucción extratorácica variable.",
+    "Una obstrucción intratorácica variable."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t21-2025-2026-6.jpg"
+  },
+  {
+   "q": "Realiza una espirometría con el resultado de: FVC: 2,42 L (88% del teórico); FEV1: 1,25 L (61% del teórico); FEV1/FVC: 51,51%, se trata de una:",
+   "o": [
+    "Espirometría normal.",
+    "Alteración ventilatoria obstructiva.",
+    "Alteración ventilatoria no obstructiva.",
+    "Alteración ventilatoria mixta."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En los trastornos de la función ventilatoria de carácter restrictivo:",
+   "o": [
+    "La característica principal es la disminución del flujo espiratorio, es decir, el FEV1.",
+    "El cociente FEV1 (flujo espiratorio)/FVC (Capacidad vital forzada) está disminuida.",
+    "La capacidad pulmonar total está disminuida.",
+    "El volumen residual (VR) está aumentado debido al atrapamiento durante la espiración."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la normativa de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), señale a qué patrón espirométrico corresponden los siguientes resultados de una prueba de función respiratoria: FVC: 2.380 cc (71%); FEV1: 1.890 cc (76%), FEV1/FVC: 79,41%:",
+   "o": [
+    "Patrón obstructivo.",
+    "Patrón restrictivo.",
+    "Patrón no obstructivo.",
+    "Patrón mixto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la indicación de oxigenoterapia en pacientes con EPOC ¿cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "La oxigenoterapia a largo plazo está indicada en pacientes con PaO₂ ≤ 55 mm Hg, o saturación de oxígeno ≤ 88%, con o sin hipercapnia confirmada en dos ocasiones en tres semanas.",
+    "La oxigenoterapia a largo plazo (>15 horas al día) no mejora la supervivencia en pacientes con hipoxemia grave en reposo.",
+    "Se recomienda oxigenoterapia intermitente para pacientes cuya desaturación de oxígeno ocurre solamente durante el ejercicio, el sueño o las actividades cotidianas.",
+    "La oxigenoterapia a largo plazo también puede indicarse en pacientes con PaO₂ entre 55 y 60 mm Hg y evidencia de daño orgánico (por ejemplo, edema por insuficiencia cardíaca de recha)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el contexto de la prueba broncodilatadora, ¿qué incremento en el FEV1 post broncodilatador se considera significativo para confirmar una hiperrespuesta bronquial?:",
+   "o": [
+    "Aumento del FVC ≥ 20% y ≥ 300 ml.",
+    "Aumento del FEV1 ≥ 12% y ≥ 200 ml.",
+    "Aumento del FVC ≥ 10% y ≥ 100 ml.",
+    "Aumento del FEV1 ≥ 5% y ≥ 50 ml."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la interpretación de una espirometría, ¿qué valor se utiliza para definir la presencia de una obstrucción bronquial en pacientes con sospecha de EPOC?:",
+   "o": [
+    "FEV1 mayor al 80% del valor predicho.",
+    "FEV1/FVC menor al 70% tras la administración de un broncodilatador.",
+    "FEV1/FVC mayor al 85% antes de la administración de un broncodilatador.",
+    "FVC menor al 60% del valor predicho tras un esfuerzo máximo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el criterio principal para la indicación de oxigenoterapia continua a largo plazo en pacientes con EPOC y sin otras patologías relevantes?:",
+   "o": [
+    "PaO2 ≤ 55 mmHg o saturación de oxígeno ≤ 88%.",
+    "PaO2 ≤ 60 mmHg o saturación de oxígeno ≤ 92%.",
+    "PaCO2 ≥ 45 mmHg.",
+    "FEV1/FVC ≤ 70%."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las medidas obtenidas mediante la espirometría es la relación entre la capacidad vital forzada (FVC) y el volumen espiratorio forzado en el primer segundo (FEV1). En ese sentido, ¿cuál es la definición de la etapa II (moderada) de la EPOC según la clasificación de gravedad de la escala GOLD (Global Initiative for Chronic Obstructive Lung Disease):",
+   "o": [
+    "FEV1/FVC < 70 % y FEV1 de 50 a 80 % del pronosticado, con aparición de falta de aliento típica durante el ejercicio.",
+    "FEV1/FVC < 70 % y FEV1 ≥ 80 % del pronosticado, con síntomas de tos y producción de esputo.",
+    "FEV1/FVC < 70 % y FEV1 < 30 a 50 % del pronosticado, con aumento de la disnea, reducción de la capacidad de ejercicio y exacerbaciones repetidas.",
+    "FEV1/FVC < 70 % y FEV1 < 30 a 50 % del pronosticado, con síntomas y signos de insuficiencia respiratoria crónica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una puntuación final de 18 puntos en el test del control del asma (Asthma Control Test, ACT) significa:",
+   "o": [
+    "El asma está controlada.",
+    "Control parcial del asma.",
+    "Mal control del asma.",
+    "Muy mal control del asma."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Manual SEPAR de Procedimientos, indique la opción correcta sobre la interpretación de la gasometría arterial a nivel del mar, en reposo, con FiO2 de 0,21 y en ausencia de otras patologías:",
+   "o": [
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 80 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 60 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 60 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 80 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 40 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 60 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 60 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 40 mmHg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la insuficiencia respiratoria, indique la opción INCORRECTA:",
+   "o": [
+    "En alturas superiores a 5.000 metros se produce por la disminución de la concentración de oxígeno (FiO2).",
+    "En los casos de tromboembolismo pulmonar se produce un aumento del espacio muerto fisiológico debido a la no perfusión de las zonas afectadas.",
+    "El efecto shunt se produce al no renovarse la carga de CO2 de la sangre en el alvéolo por encontrarse cerrado u obstruido.",
+    "En la intoxicación por cianuro la célula no es capaz de utilizar el oxígeno aun encontrándose valores normales de este en el organismo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las alteraciones oculares asociadas al síndrome de apnea del sueño, NO se encuentra:",
+   "o": [
+    "Síndrome de párpado flácido.",
+    "Glaucoma.",
+    "Neuropatía óptica isquémica.",
+    "Cataratas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la prevención de neumonías, la “tos dirigida” tiene como objetivo drenar las secreciones bronquiales y facilitar su expulsión. ¿Qué Pico de Flujo de Tos debe presentar una persona para asegurar la efectividad de esta técnica?:",
+   "o": [
+    "210 l/min.",
+    "230 l/min.",
+    "250 l/min.",
+    "270 l/min."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En pacientes adultos con distrés respiratorio (SDRA) moderado-grave inducido por sepsis, ¿cuánto tiempo recomienda la ventilación en decúbito prono la Guía de la Surviving Sepsis Campaign?:",
+   "o": [
+    "Menos de 6 horas diarias.",
+    "Entre 6 y 8 horas diarias.",
+    "Al menos 12 horas diarias.",
+    "Al menos 18 horas diarias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina el neumotórax que puede deberse a la ruptura de pequeñas bullas localizadas en el vértice pulmonar?:",
+   "o": [
+    "Neumotórax traumático.",
+    "Neumotórax colapsado.",
+    "Neumotórax espontáneo.",
+    "Neumotórax a tensión."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El señor D.C.M. fue intervenido hace seis días de una fractura de fémur. Súbitamente comienza con disnea, taquipnea y dolor en hemitórax derecho y tras ser valorado, una de las sospechas diagnósticas es de tromboembolismo pulmonar. ¿Cuál escala utilizada para valorar la posibilidad clínica de padecer un tromboembolismo pulmonar?:",
+   "o": [
+    "Escala de Cincinatti",
+    "Escala de Wells.",
+    "Escala de Ashowrth.",
+    "Escala de Gleason."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

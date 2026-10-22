@@ -66,6 +66,16 @@ def main():
             continue
         data, errs, dist = validate(os.path.join(TESTS, f))
         n = data["tema"]
+        # Preguntas añadidas (EIR, con imagen) que reparte tools/repartir_eir.py
+        extra_path = os.path.join(TESTS, f"extra-tema-{n:02d}.json")
+        if os.path.exists(extra_path):
+            extra = json.load(open(extra_path, encoding="utf-8"))["preguntas"]
+            for i, p in enumerate(extra, 1):
+                if len(p.get("o", [])) != 4 or (p.get("a") not in (0, 1, 2, 3) and not p.get("anulada")):
+                    errs.append(f"extra P{i}: opciones o respuesta incorrectas")
+                if p.get("img") and not os.path.exists(os.path.join(ROOT, p["img"])):
+                    errs.append(f"extra P{i}: no existe la imagen {p['img']}")
+            data = dict(data, preguntas=data["preguntas"] + extra)
         tests[n] = data
         pdf = os.path.join(PDFS, f"tema-{n:02d}.pdf")
         status = "OK" if not errs else "ERROR: " + "; ".join(errs)
@@ -100,7 +110,9 @@ def main():
             print(f"{folder}/{f}: {len(data['preguntas'])} preg. {'OK' if not errs else 'ERROR: ' + '; '.join(errs)}")
             items.append(data)
         # Más recientes primero; dentro de cada año, turno libre antes que promoción interna y extraordinarios
-        extra[folder] = sorted(items, key=lambda d: (-d.get("anio", 0), "extra" in d["id"], "-pi" in d["id"]))
+        # Cuestionarios sueltos antes que los agrupados (EIR por temas), estos por su número
+        extra[folder] = sorted(items, key=lambda d: ("EIR" in d.get("grupo", ""), -d.get("anio", 0), "extra" in d["id"],
+                                                     "-pi" in d["id"], d.get("num", 0)))
     write_js(os.path.join(ROOT, "data", "extra.js"),
              f"window.OPE_EXAMENES = {json.dumps(extra['examenes'], ensure_ascii=False)};\n"
              f"window.OPE_CUESTIONARIOS = {json.dumps(extra['cuestionarios'], ensure_ascii=False)};\n")
@@ -119,7 +131,7 @@ def validate_set(path, need_expl):
             errs.append(f"P{i}: no tiene 4 opciones")
         if p.get("a") not in (0, 1, 2, 3) and not p.get("anulada"):
             errs.append(f"P{i}: respuesta fuera de rango")
-        if not p.get("q") or (need_expl and not p.get("e")):
+        if not p.get("q") or (need_expl and data.get("explicadas", True) and not p.get("e")):
             errs.append(f"P{i}: falta enunciado o explicación")
         if p.get("img") and not os.path.exists(os.path.join(ROOT, p["img"])):
             errs.append(f"P{i}: no existe la imagen {p['img']}")

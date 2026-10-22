@@ -8,7 +8,7 @@ sub: Resumen OPE Enfermería SMS · Conceptos y STRAW+10, fisiopatología hormon
 ## 1. Conceptos
 
 - **Climaterio**: etapa **fisiológica** de transición (no una enfermedad) desde la vida reproductiva hasta la senectud, por agotamiento folicular y caída de estrógenos y progesterona.
-- **Menopausia**: **fecha** de la última regla; diagnóstico **retrospectivo** tras **12 meses de amenorrea** sin otra causa. Edad media **≈ 50 años**; **precoz** (insuficiencia ovárica primaria) **< 40 años**; tardía **> 55 años**.
+- **Menopausia**: **fecha** de la última regla; diagnóstico **retrospectivo** tras **12 meses de amenorrea** sin otra causa. Edad media **≈ 50 años**; **precoz** (insuficiencia ovárica primaria) ==**< 40 años**==; tardía **> 55 años**.
 - **Premenopausia** (años previos, ciclos regulares con cambios sutiles), **perimenopausia** (declive más acusado hasta 1 año después de la última regla: irregularidad y **sofocos**; **la fase con más síntomas**) y **posmenopausia** (desde 1 año después hasta el final de la vida: ≈ **un tercio de la vida**; prioridad preventiva cardiovascular y ósea).
 - **STRAW+10**: estadios −5 a +2 con la última regla como 0. Transición temprana (−2): variación del ciclo **≥ 7 días**; tardía (−1): amenorreas **≥ 60 días** y FSH > 25 UI/l. Posmenopausia temprana (+1, unos 6 años): **máxima pérdida ósea**; tardía (+2): síndrome genitourinario.
 
@@ -83,7 +83,7 @@ sub: Resumen OPE Enfermería SMS · Conceptos y STRAW+10, fisiopatología hormon
 | Riesgo cardiovascular | — | HTA, diabetes, lípidos; tabla **SCORE2** (países de bajo riesgo) |
 | **Violencia de género** | Todas | Cribado **oportunista**: hiperfrecuentación, pareja que controla, sexo bajo coacción |
 
-!! Menopausia = **12 meses** de amenorrea; precoz **< 40 años**.
+!! ==Menopausia = **12 meses** de amenorrea; precoz **< 40 años**.==
 !! Primer marcador del declive ovárico: **AMH**; el estado menopáusico es **FSH alta y estradiol bajo**.
 !! Cervantes: **más puntos = peor** calidad de vida.
 !! Tamoxifeno + sofocos: **venlafaxina**, nunca paroxetina.

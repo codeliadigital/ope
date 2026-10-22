@@ -1,0 +1,736 @@
+{
+ "id": "eir-01",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 1,
+ "titulo": "EIR · Legislación y ética",
+ "explicadas": false,
+ "descripcion": "66 preguntas de los exámenes EIR de 2018 a 2025 sobre legislación y ética, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "El sistema básico de protección y cobertura de la Seguridad Social tiene el carácter de:",
+   "o": [
+    "Máximo y obligatorio.",
+    "Mínimo y voluntario.",
+    "Mínimo y obligatorio.",
+    "Mínimo y máximo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la Constitución Española de 1978, señale la competencia en materia sanitaria que corresponde a las Comunidades Autónomas y no al Estado:",
+   "o": [
+    "Bases y coordinación de la sanidad.",
+    "Planificación sanitaria.",
+    "Sanidad exterior.",
+    "Gestión de Instituto Nacional de Gestión Sanitaria (INGESA)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Ley 14/1986, de 25 de abril, General de Sanidad, establece las orientaciones que deben regir las actuaciones de las Administraciones Públicas Sanitarias. Seleccione la opción correcta:",
+   "o": [
+    "Promover el interés individual, familiar y social por la salud mediante la adecuada educación sanitaria de la población.",
+    "Garantizar que cuantas acciones sanitarias se desarrollen estén dirigidas a la curación de las enfermedades. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 2",
+    "Financiar los fármacos y productos sanitarios necesarios para la atención de los pacientes.",
+    "Adecuar su organización y funcionamiento a los principios de eficiencia, autonomía, beneficencia e interés público."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA en relación con la Cartera de Servicios Comunes al Sistema Nacional de Salud:",
+   "o": [
+    "Las Comunidades Autónomas no podrán incorporar en sus carteras de servicios, una técnica, tecnología o procedimiento no contemplado en la Cartera de Servicios Comunes del Sistema Nacional de Salud.",
+    "Es el conjunto de técnicas, tecnologías o procedimientos, mediante los que se hacen efectivas las prestaciones sanitarias.",
+    "Los servicios contenidos tienen la consideración de básicos y comunes.",
+    "Debe garantizar la atención integral y la continuidad de la asistencia prestada a los usuarios."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El uso de una técnica, tecnología o procedimiento para establecer su grado de seguridad, eficacia, efectividad y eficiencia antes de decidir sobre la conveniencia o necesidad de su inclusión efectiva en la cartera de servicios del Sistema Nacional de Salud se denomina: 3 LEGISLACIÓN Y ÉTICA",
+   "o": [
+    "Uso dirigido.",
+    "Uso tutelado.",
+    "Uso experimental.",
+    "Uso limitado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, reconoce, entre otros, el derecho de los ciudadanos a:",
+   "o": [
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que resida, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en otra comunidad autónoma.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en esa comunidad autónoma.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que resida, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías que los ciudadanos residentes en el conjunto de la Unión Europea.",
+    "Recibir, por parte del servicio de salud de la comunidad autónoma en la que se encuentre desplazado, la asistencia sanitaria del catálogo de prestaciones del Sistema Nacional de Salud que pudiera requerir, en las mismas condiciones e idénticas garantías de la comunidad autónoma en la que resida."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme a la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, las personas extranjeras que encontrándose en España no estén registradas ni autorizadas como residentes en España:",
+   "o": [
+    "No tendrán derecho a la protección de la salud y a la atención sanitaria.",
+    "Tendrán derecho a la protección de la salud y a la atención sanitaria en las mismas condiciones que las personas con nacionalidad española, para lo que resultará preceptivo suscribir una póliza de aseguramiento privado.",
+    "Tendrán derecho a la protección de la salud y a la atención sanitaria, al menos en las mismas condiciones que las personas con nacionalidad española.",
+    "Tendrán derecho a la prestación de protección de la salud y atención sanitaria básicas, exclusivamente en caso de situaciones de urgencia o emergencia vital."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con el régimen de funcionamiento del Consejo Interterritorial del Sistema Nacional de Salud:",
+   "o": [
+    "Los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por mayoría simple de sus miembros.",
+    "Los acuerdos del Consejo se plasmarán a través de instrucciones que se aprobarán, en su caso, por consenso.",
+    "Los acuerdos del Consejo se plasmarán a través de recomendaciones que se aprobarán, en su caso, por consenso.",
+    "Los acuerdos del Consejo se plasmarán a través de instrucciones que se aprobarán, en su caso, por mayoría simple de sus miembros."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la Cartera de Servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, identifique cuál NO es un procedimiento terapéutico en la Cartera de Servicios comunes de Atención Primaria:",
+   "o": [
+    "Infiltraciones.",
+    "Inmovilizaciones.",
+    "Terapias de apoyo y técnicas de consejo sanitario estructurado.",
+    "Vacunaciones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Ley 41/2002, reguladora de la autonomía del paciente, la enfermera puede prescindir de solicitar el consentimiento informado cuando:",
+   "o": [
+    "El procedimiento a realizar se desarrolle en un corto espacio de tiempo.",
+    "El paciente presenta alteración de la conciencia y no existen familiares o representantes disponibles, requiriendo actuación inmediata para evitar un daño grave.",
+    "El paciente delega su decisión en el profesional sanitario que lo atiende.",
+    "El procedimiento de enfermería implica riesgos moderados."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Ley 41/2002, de autonomía del paciente, ¿a quién corresponde el derecho a recibir la información asistencial?:",
+   "o": [
+    "Al médico responsable del paciente.",
+    "Al paciente, con carácter general, aunque puede renunciar a ser informado.",
+    "Al representante legal únicamente si el paciente es mayor de edad.",
+    "Al familiar más cercano del paciente, en todos los casos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente de 17 años de edad, emancipado, cuya capacidad no ha sido modificada judicialmente, y que es plenamente capaz de tomar decisiones según criterio del médico responsable de su asistencia:",
+   "o": [
+    "Es plenamente autónomo para prestar el consentimiento.",
+    "El consentimiento lo podrían prestar sus progenitores, una vez oída y tenida en cuenta la opinión de este.",
+    "El consentimiento lo prestará el representante legal del menor, una vez oída y tenida en cuenta la opinión de este, cuando se trate de una actuación de grave riesgo para la vida o salud del menor, según el criterio del facultativo.",
+    "El consentimiento lo prestarán las personas vinculadas a él por razones familiares o, de hecho."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con los derechos y deberes sobre la custodia, protección o cesión de datos en una relación asistencial:",
+   "o": [
+    "Los usuarios y pacientes del sistema de salud tienen la obligación de facilitar los datos necesarios sobre su estado de salud de una forma leal, conforme a veracidad y colaborar en su obtención, especialmente en los casos que por razones de asistencia sanitaria o de interés público sean necesarios.",
+    "El titular de la información de salud es el paciente o usuario del sistema de salud. En caso de incapacidad, el titular de la información serán los familiares vinculados al paciente por razones de parentesco o su representante legal, no siendo necesario dar información a la paciente adaptada a su comprensión ni obtener su permiso explícito o tácito.",
+    "Los datos de carácter personal tienen la característica legal de poder ser utilizados para una finalidad diferente o no compatible con la finalidad con la que fueron recogidos sin obtener legalmente el consentimiento de la persona afectada siempre que no se vulnere el deber de confidencialidad de los mismos.",
+    "El consentimiento informado es imprescindible para cualquier intervención en materia de salud, siendo especialmente necesario en caso de riesgo grave para la integridad física o psíquica del paciente o en caso de existencia de riesgo para la salud pública."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, defiende y garantiza con sus principios y su articulado la siguiente premisa:",
+   "o": [
+    "La facultad del paciente o usuario de optar libre y voluntariamente entre dos o más alternativas terapéuticas y de tratamiento asistencial, entre varios facultativos o entre centros asistenciales de manera legítima fuera de los términos y condiciones que establezcan los servicios de salud competentes y contando con el beneplácito de su médico responsable.",
+    "El derecho del paciente a ser informado con motivo de cualquier actuación en el ámbito de su salud de toda la información disponible sobre la misma sin ninguna excepción estipulada por la ley, respetando también su derecho a no ser informado.",
+    "El titular del derecho a la información es el paciente y podrán ser también informadas las personas vinculadas a él por motivos familiares o de hecho en la medida que el paciente lo permita de forma expresa o tácita. Sin embargo, este derecho a la información puede limitarse en caso de estado de necesidad terapéutica debidamente acreditado.",
+    "El derecho a la información de la persona sobre cuestiones que atañen a su propia salud no se aplica en el caso de existir problemas sanitarios en la colectividad que impliquen un riesgo para la salud pública o para la salud individual."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA sobre lo dispuesto en la Orden SSI/81/2017, de 19 de enero, por la que se publica el Acuerdo de la Comisión de Recursos Humanos del Sistema Nacional de Salud, por el que se aprueba el protocolo mediante el que se determinan pautas básicas destinadas a asegurar y proteger el derecho a la intimidad del paciente por los alumnos y residentes en Ciencias de la Salud:",
+   "o": [
+    "Se recomienda que el alumnado en formación realice actividades simuladas en sus propios centros con carácter previo al inicio de las prácticas en el centro sanitario.",
+    "El paciente no puede negarse a que el personal en formación esté presente en el proceso de atención asistencial, siempre que este último haya acreditado su condición de estudiante universitario y que el centro sanitario tenga la característica de hospital universitario.",
+    "Se puede solicitar el consentimiento global del paciente para autorizar la presencia del personal en formación (estudiantes) en las actividades asistenciales que reciba, por un periodo no superior a 15 días.",
+    "El personal en formación suscribirá obligatoriamente, al inicio de su estancia en el centro sanitario donde se esté formando, un compromiso de confidencialidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para garantizar el derecho a la intimidad de los pacientes en centros sanitarios (Orden SSI/81/2017, de 19 de enero), se considera correcto:",
+   "o": [
+    "El deber de confidencialidad o secreto de los residentes y alumnado en formación en un centro sanitario sobre los pacientes a quienes atiendan permanece, aunque haya concluido su periodo de formación, y solo se extingue tras el fallecimiento de los pacientes.",
+    "Los residentes en formación de cualquier año tienen derecho a acceder a la historia clínica de los pacientes implicados en las actuaciones asistenciales que realicen en cada momento sin necesidad de solicitar su consentimiento.",
+    "El deber de confidencialidad o secreto solo hace referencia a los datos contenidos en la historia clínica del paciente, quedando excluidos aquellos obtenidos mediante comunicación verbal u otros medios.",
+    "En cualquier caso, el permiso para consentir la realización de exploraciones, intervenciones o procedimientos clínicos por parte de los residentes en formación podrá recibirse de las personas vinculadas al paciente por razones familiares."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las pautas de actuación en relación con la presencia de residentes en formación en Ciencias de la Salud en los procesos asistenciales, regulados por la Orden SSI/81/2017, señale la opción INCORRECTA:",
+   "o": [
+    "Los residentes en formación estarán obligados a presentar de forma visible la tarjeta identificativa proporcionada por la dirección del centro.",
+    "Concluido el periodo de formación en el centro, será obligatorio devolver la tarjeta identificativa a los servicios de personal del centro.",
+    "A partir del segundo año de formación, los residentes tendrán acceso directo al paciente de forma progresiva y según las indicaciones de su tutor.",
+    "Salvo supuestos especiales consentidos por el paciente y para preservar su intimidad, durante los actos clínicos que se realicen en presencia del mismo no deberán estar presentes más de dos residentes por paciente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con el deber ético de velar para que en el proceso final de la vida se respete la dignidad de la persona y sus deseos legítimos en el acto sanitario:",
+   "o": [
+    "En el caso de que el paciente haya realizado un Documento de Instrucciones Previas, Testamento Vital o Voluntades Anticipadas, lo indicado en dicho documento debe primar en todo acto derivado de la relación asistencial salvo en los casos en los cuales se proporcionen tratamientos y alternativas terapéuticas que alarguen la vida de los pacientes.",
+    "Los cuidados al final de la vida adecuan las acciones y tratamientos al objetivo principal de aliviar el sufrimiento del paciente y conseguir la máxima confortabilidad, respetando sus derechos legítimos, representando el máximo exponente del principio bioético de autonomía decisoria.",
+    "La persona que se encuentra en el proceso final de la vida tiene derecho a recibir información clínica de forma comprensible y adecuada y, dada la trascendencia de dicha información, no existe en este caso la posibilidad de rechazo a la información por parte del paciente.",
+    "La persona que se encuentre en el proceso final de la vida tiene en todo momento el derecho a recibir información adecuada a sus deseos y comprensión del lenguaje, adaptada a su situación actual. Su deseo de rechazo a la retirada de un tratamiento solo se podrá realizar según la ley si coincide con el criterio clínico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a la confidencialidad de datos de carácter personal y los derechos digitales:",
+   "o": [
+    "La responsabilidad enfermera del mantenimiento de la confidencialidad en todo el proceso de relación asistencial vence una vez que se produzca una desvinculación directa en el proceso asistencial y/o fallecimiento.",
+    "El deber de confidencialidad y secreto profesional obliga solo a los profesionales sanitarios que tienen relación asistencial con el paciente, quedando excluidos aquellos profesionales que tengan una relación burocrática o administrativa.",
+    "El titular de la información en materia de salud es el paciente. También pueden ser informados familiares o representantes legales mediante el consentimiento previo de la persona titular, ya sea de forma expresa o tácita.",
+    "El personal sanitario con funciones de inspección, evaluación y acreditación puede acceder a las historias clínicas previo consentimiento de los pacientes."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales, es muy clara en la protección de datos especialmente sensibles como son los datos biomédicos. Indique la respuesta correcta en relación con dicha protección:",
+   "o": [
+    "En caso de riesgo o peligro grave para la salud de la población, las administraciones públicas pueden acceder a los datos no identificativos de los pacientes por razones epidemiológicas o de protección de la salud pública.",
+    "Los profesionales de la salud que deban acceder a los datos de carácter personal de los pacientes en el caso de una situación de riesgo para la salud pública o epidemiológica no están sujetos al deber de secreto profesional.",
+    "En el caso de situaciones de excepcional relevancia y gravedad para la salud pública, las autoridades sanitarias y poderes públicos competentes podrán realizar estudios científicos sin el consentimiento de los afectados.",
+    "Es lícito y compatible la utilización de datos personales con fines de investigación en salud y biomédica para una finalidad concreta una vez conseguido el consentimiento, pero no lo es su reutilización en otra investigación biomédica, aunque la misma esté relacionada con la investigación inicial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Se encuentra en el pasillo de la unidad de hospitalización preparando medicación cuando se acercan dos personas de mediana edad y ropa no uniformada, preguntando por la habitación en la que se encuentra ingresado P.D.R. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en el caso de indicarles dónde se encuentra, usted puede ser sancionada por una infracción de tipo:",
+   "o": [
+    "Leve.",
+    "Grave.",
+    "Muy grave.",
+    "Amonestación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué papel tiene el consentimiento informado según la Guía de Interrupción Voluntaria del Embarazo 2025?:",
+   "o": [
+    "Se puede omitir si la persona acepta explícitamente el procedimiento farmacológico.",
+    "Es obligatorio y debe adaptarse a la situación personal de la gestante.",
+    "Solo es necesario en los procedimientos instrumentales, no en los farmacológicos.",
+    "No se menciona en la guía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la objeción de conciencia, señale la respuesta correcta:",
+   "o": [
+    "Es el derecho a ser eximido de cumplir un deber legal por resultar contrario a las convicciones propias.",
+    "No necesita ser comunicado por escrito.",
+    "Define los valores prioritarios que una organización o grupo quieren proteger.",
+    "Cuestiona una norma jurídica vigente porque implica un conflicto de valores religiosos o filosóficos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al límite de edad gestacional para la interrupción del embarazo a petición de la mujer embarazada y sin que exista una causa médica, una vez cumplidos los requisitos necesarios, podrá interrumpirse el embarazo:",
+   "o": [
+    "Dentro de las primeras doce semanas de gestación.",
+    "Dentro de las primeras catorce semanas de gestación.",
+    "Dentro de las primeras dieciséis semanas de gestación.",
+    "Dentro de las primeras veintidós semanas de gestación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas para garantizar la prestación de la interrupción voluntaria del embarazo recogidas en la Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo, NO se encuentra la siguiente:",
+   "o": [
+    "Se garantizará a todas las mujeres por igual el acceso a la prestación con independencia del lugar donde residan.",
+    "Se garantizará a todas las mujeres la libre elección de centro sanitario público para el acceso a la prestación con independencia del lugar donde residan.",
+    "Se garantizará que en todo caso los profesionales sanitarios dispensarán tratamiento y atención médica adecuados a las mujeres que lo precisen antes y después de haberse sometido a una intervención de interrupción del embarazo.",
+    "Se garantizará que el acceso y la calidad asistencial de la prestación no resultarán menoscabadas por el ejercicio de la objeción de conciencia de profesionales sanitarios directamente implicados en la interrupción voluntaria del embarazo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Si un paciente de 70 años, diagnosticado de esclerosis lateral amiotrófica en fase avanzada, recibe de un amigo una medicación que él mismo se administra para producir su muerte, ¿qué término describe lo sucedido?:",
+   "o": [
+    "Eutanasia.",
+    "Suicidio asistido.",
+    "Ayuda al suicidio.",
+    "Homicidio."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a los derechos y deberes del paciente y el profesional en el proceso de petición de ayuda para morir en el contexto de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia:",
+   "o": [
+    "La petición de ayuda para morir es un derecho que actualmente contempla la ley y debe respetarse siempre que el paciente haya realizado previamente un Documento de Instrucciones Previas, Testamento Vital o Voluntades Anticipadas.",
+    "La prestación de ayuda para morir está basada en la decisión de los profesionales sanitarios directamente implicados en el proceso, basándose en los principios bioéticos de no maleficencia y justicia.",
+    "En el contexto de la prestación de ayuda para morir priman los deseos legítimos de la persona solicitante, expresados en un contexto de libertad de decisión y de respeto a la dignidad de la persona y su autonomía.",
+    "La prestación de ayuda para morir se asienta en la actuación de los profesionales sanitarios que, de una forma consensuada con la persona solicitante, producen la muerte de la misma de manera indirecta, no siendo necesaria en todos los casos una relación causa-efecto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia:",
+   "o": [
+    "Los cuidados paliativos se encuentran protegidos y contemplados en todo el proceso asistencial siendo restringida su realización en el caso de petición oficial por parte del paciente de la eutanasia. 15 LEGISLACIÓN Y ÉTICA",
+    "La prestación de ayuda para morir no entra dentro de la cartera de prestaciones del Sistema Nacional de Salud salvo en los casos en que el paciente esté recibiendo cuidados paliativos.",
+    "La autonomía decisoria de la persona debe ser respetada en todo momento, salvo en los casos en que tal decisión contravenga las recomendaciones y criterios clínicos del personal sanitario.",
+    "La información al paciente sobre su situación en materia de salud es una obligación por parte del personal sanitario y un derecho de cada paciente salvo en el caso en que el paciente rechace que se le informe."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia, para poder recibir la prestación de ayuda para morir será necesario que la persona cumpla determinados requisitos. Seleccione la respuesta correcta:",
+   "o": [
+    "Tener la nacionalidad española o residencia legal en España o certificado de empadronamiento que acredite un tiempo de permanencia en territorio español superior a seis meses, tener mayoría de edad y ser capaz y consciente en el momento de la solicitud.",
+    "Disponer por escrito de la información que exista sobre su proceso médico y las diferentes alternativas y posibilidades de actuación de terapias curativas comprendidas en la cartera común de servicios y a las prestaciones que tuviera derecho de conformidad con la normativa de atención a la dependencia.",
+    "Haber formulado una solicitud de manera voluntaria y por escrito y sufrir una enfermedad incurable, certificada por el médico responsable.",
+    "Prestar consentimiento informado previamente a recibir la prestación de ayuda para morir. Dicho consentimiento se incorporará a la historia clínica del paciente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Las denegaciones de la prestación de ayuda para morir, reconocida en la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia:",
+   "o": [
+    "Deberán realizarse por escrito o por otro medio que permita dejar constancia, y de manera motivada por el médico responsable, en el plazo máximo de diez días naturales desde la primera solicitud. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 16",
+    "Deberán realizarse por escrito o por otro medio que permita dejar constancia y de manera motivada por el médico responsable, en el plazo máximo de veinte días naturales desde la primera solicitud.",
+    "Deberán realizarse por escrito y de manera motivada por el médico responsable, en el plazo máximo de diez días naturales desde la primera solicitud.",
+    "Deberán realizarse por escrito y de manera motivada por el médico responsable, en el plazo máximo de veinte días naturales desde la primera solicitud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es uno de los requisitos que debe reunir y acreditar el paciente solicitante de eutanasia en España para recibir la prestación de ayuda para morir?:",
+   "o": [
+    "Sufrir una enfermedad grave y tener nacionalidad española o residencia legal durante al menos 24 meses.",
+    "Tener la nacionalidad española o residencia legal en España o certificado que acredite un tiempo de permanencia en territorio español superior a doce meses.",
+    "Certificado de residencia en España durante un periodo de 2 años o mayor.",
+    "Certificar una enfermedad crónica durante al menos 12 meses."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Ley 44/2003, de 21 de noviembre, de Ordenación de las Profesiones Sanitarias, ¿qué principio fundamental rige la formación de los profesionales sanitarios?:",
+   "o": [
+    "La formación inicial garantiza los conocimientos necesarios para ejercer de forma continuada en el tiempo.",
+    "La formación continuada es un deber y un derecho de todos los profesionales sanitarios.",
+    "La formación continuada es un deber solo de los especialistas y master.",
+    "La formación sanitaria depende de los profesionales de los centros asistenciales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta el Real Decreto 1146/2006, de 6 de octubre, por el que se regula la relación laboral especial de residencia para la formación de especialistas en Ciencias de la Salud, en el contrato de trabajo por el que se formalice la relación laboral especial de residencia:",
+   "o": [
+    "Se establecerá un periodo de prueba de un mes.",
+    "Se establecerá un periodo de prueba de seis meses.",
+    "Se establecerá un periodo de prueba menor de tres meses.",
+    "No podrá establecerse periodo de prueba."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 576/2023, de 4 de julio, por el que se modifica el Real Decreto 99/2011, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado, señale la respuesta correcta:",
+   "o": [
+    "La duración de los estudios de doctorado será de un máximo de tres años a tiempo completo, o una duración máxima de seis años a tiempo parcial, a contar desde la fecha de matrícula en el programa hasta la fecha del depósito de la tesis doctoral.",
+    "Podrán acceder quienes estén en posesión de títulos universitarios oficiales españoles o títulos españoles equivalentes siempre que se hayan superado, al menos, 240 ECTS en el conjunto de estas enseñanzas y acreditar un nivel 3 del Marco Español de Cualificaciones para la Educación Superior.",
+    "Podrán acceder los titulados universitarios que, previa obtención de plaza en formación en la correspondiente prueba de acceso a plazas de formación sanitaria especializada, hayan superado con evaluación positiva al menos un año de formación de un programa para la obtención del título oficial de alguna de las especialidades en Ciencias de la Salud.",
+    "Podrán acceder quienes estén en posesión de otro título de Doctora o Doctor."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación con el Artículo 15 del Real Decreto 183/2008, de 8 de febrero, por el que se determinan y clasifican las especialidades en Ciencias de la Salud y se desarrollan determinados aspectos del sistema de formación sanitaria especializada, en el que se exponen aspectos referentes a la responsabilidad progresiva del residente:",
+   "o": [
+    "La supervisión de residentes de primer año será de presencia física.",
+    "No es necesaria la presencia física durante la residencia, pero su trabajo debe revisarse por profesionales que presten servicios en los distintos dispositivos del centro o unidad por los que el residente esté rotando o prestando servicios de atención continuada.",
+    "La supervisión dependerá de las destrezas y experiencia previa del residente, independientemente del año formativo.",
+    "El grado de supervisión dependerá de la valoración que haga el Tutor, independientemente del año formativo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la duración del mandato de los vocales en representación de los especialistas en formación que componen cada Comisión Nacional de una Especialidad en Ciencias de la Salud?:",
+   "o": [
+    "Dos años.",
+    "Cuatro años.",
+    "Cuatro años, con posibilidad de ser designados nuevamente para otro periodo de igual duración.",
+    "Ocho años."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Que establece el artículo 3 del Real Decreto 1302/2018, en relación con la actuación de las enfermeras, respecto a los medicamentos sujetos a prescripción médica?:",
+   "o": [
+    "Que las enfermeras están habilitadas para prescribir cualquier fármaco sin ser precisa una supervisión médica.",
+    "Que las enfermeras solo pueden administrar medicamentos previamente indicados por un farmacéutico en el ámbito asistencial.",
+    "Que las enfermeras no tienen ninguna competencia sobre medicamentos sujetos a prescripción médica.",
+    "Que las enfermeras, en el ejercicio de su actividad profesional, podrán indicar, usar y autorizar la dispensación de medicamentos sujetos a prescripción médica conforme a protocolos y guías de práctica clínica y asistencial."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La Resolución de 20 de octubre de 2020, de la Dirección General de Salud Pública, por la que se valida la “Guía para la indicación, uso y autorización de la dispensación de medicamentos sujetos a prescripción médica por parte de los enfermeros de: Heridas”:",
+   "o": [
+    "Define los medicamentos sujetos a prescripción médica, que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación en determinadas situaciones y de forma protocolizada.",
+    "Recoge aquellos medicamentos sujetos a prescripción médica que las/los enfermeras/os pueden indicar, usar y autorizar su dispensación de forma protocolizada, sin otorgar capacidad para modificar la pauta, prorrogar o suspender el tratamiento sin autorización médica previa.",
+    "Se adapta a la evidencia científica disponible en la actualidad y debe ser revisada cada dos años por un comité de expertos del Ministerio de Sanidad, aunque en ese período pueden incorporarse y autorizarse nuevos medicamentos.",
+    "Permite a las Comunidades Autónomas desarrollar, a partir de los contenidos establecidos en la citada guía, sus propios protocolos y/o guías de práctica clínica o asistencial específicas aumentando si así se dispone, las competencias de los enfermeros/as recogidas en el RD en esta materia en el ámbito exclusivo de la C. Autónoma donde el enfermero haya obtenido la acreditación para esta competencia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El Real Decreto 954/2015, de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros (modificado por el Real Decreto 1302/2018, de 22 de octubre) establece que (marque la opción CORRECTA):",
+   "o": [
+    "Para el uso de determinados medicamentos de especial complejidad, y de manera excepcional, se podrá exigir que los enfermeros o enfermeras complementen su formación.",
+    "Los enfermeros y enfermeras procedentes de otros estados miembros de la Unión Europea que posean titulación de enfermería tendrán automáticamente reconocida la acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano en nuestro país.",
+    "La administración de las vacunas contempladas en el calendario vacunal y aquellas tributarias de campañas de salud que se determinen por las autoridades sanitarias, no precisarán de la orden de dispensación.",
+    "Para disponer de la acreditación para indicar, autorizar o dispensar medicamentos y productos sanitarios de uso humano, será necesario estar colegiado/a o contratar, en su defecto, un seguro privado de responsabilidad civil de validez en todo el territorio nacional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La enfermera o enfermero responsable de cuidados generales podrá ser titular de una acreditación emitida por el órgano competente de la comunidad autónoma para poder indicar, utilizar o autorizar medicamentos o productos sanitarios de uso humano si (marque la opción correcta):",
+   "o": [
+    "Está en posesión del título de Graduado en Enfermería, de Diplomado en Enfermería, o de Ayudante Técnico Sanitario, o equivalente, y acredita una experiencia profesional mínima de 6 meses en centros asistenciales especializados (Hospitales de cualquier nivel) y/o de un año en centros de Atención Primaria.",
+    "Los Diplomados en Enfermería, o los Ayudantes Técnicos Santuarios, deberán en todos los casos realizar un curso de adaptación adecuado para acreditar las mismas competencias que los que poseen el título de Graduado/a. 21 LEGISLACIÓN Y ÉTICA",
+    "Los enfermeros/as en posesión del título de Graduado en Enfermería no necesitan requisitos adicionales para la obtención de la acreditación.",
+    "Excepcionalmente, las enfermeras y enfermeros que no posean el título de Graduado en Enfermería, de Diplomado en Enfermería o de Ayudante Técnico Sanitario y que hayan desarrollado funciones de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, podrán acceder igualmente a la acreditación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué norma se aprueba formalmente el Protocolo de actuación frente al acoso sexual y al acoso por razón de sexo en el ámbito de la Administración General del Estado y de sus organismos públicos?:",
+   "o": [
+    "Ley 4/2023, de 28 de febrero.",
+    "Real Decreto 247/2024, de 8 de marzo.",
+    "Ley 31/1995, de 8 de noviembre.",
+    "Real Decreto 1026/2024, de 8 de octubre."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Desde 2021, en España se ha modificado los derechos derivados de la paternidad y de la maternidad tras un nacimiento, quedando el permiso de ambos progenitores en un periodo de:",
+   "o": [
+    "16 semanas para ambos.",
+    "12 semanas para ambos.",
+    "8 semanas para la madre y 6 semanas para el padre.",
+    "12 semanas para la madre y 10 semanas para el padre."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la ley 39/2006, de Promoción de las Autonomía Personal y Atención a las personas en situación de dependencia, la definición “organizaciones de carácter privado surgidas de la iniciativa ciudadana o social, bajo diferentes modalidades que responden a criterios de solidaridad, con fines de interés general y ausencia de ánimo de lucro, que impulsan el reconocimiento y el ejercicio de los derechos sociales”. Se refiere a:",
+   "o": [
+    "Organizaciones No Gubernamentales.",
+    "Tercer sector.",
+    "Plataformas sociales.",
+    "Asociaciones vecinales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El principio conocido como \"Ley del Donante Muerto\" (Dead Donor Rule), fundamental en bioética y medicina de trasplantes, establece que:",
+   "o": [
+    "Los órganos no podrán extraerse del donante por equipos que participen en el cuidado del paciente en la última etapa de la vida, para evitar conflictos de intereses.",
+    "Los órganos pueden extraerse si el pronóstico vital es terminal, aunque el paciente no haya fallecido.",
+    "Los órganos solo pueden extraerse de donantes legal y éticamente fallecidos, y el acto de extracción no debe causar la muerte del donante.",
+    "Solo aplica a donación en asistolia y no a donación en muerte encefálica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Bioética principialista fue formulada por primera vez por:",
+   "o": [
+    "Diego Gracia Guillen.",
+    "Warren Thomas Reich.",
+    "Aldo Leopold.",
+    "Beauchamp y Childress. 23 LEGISLACIÓN Y ÉTICA"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué principio se fundamenta el límite del secreto profesional relacionado con la comunicación de enfermedades infecciosas de declaración obligatoria?:",
+   "o": [
+    "Justicia.",
+    "Beneficencia.",
+    "No maleficencia.",
+    "Autonomía."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la Declaración de Helsinki, señalar la respuesta correcta:",
+   "o": [
+    "Define la atención primaria como un conjunto esencial para la promoción de la salud.",
+    "Expone los límites del secreto profesional.",
+    "Establece los principios éticos para orientar la investigación en seres humanos.",
+    "Define Beneficencia, Respeto y Justicia en el ámbito asistencial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una enfermera atiende a un paciente anciano con deterioro cognitivo leve. Durante la planificación del tratamiento, el hijo del paciente propone modificar la medicación sin consultar al médico. Ante esta situación y desde la perspectiva ética ¿cómo debe actuar la enfermera?:",
+   "o": [
+    "Aplicando el principio de justicia distributiva.",
+    "Como representante del paciente, defendiendo su autonomía y bienestar.",
+    "Apoyando la decisión de la familia, al considerar que el paciente, debido a su deterioro cognitivo, no tiene capacidad para comprender su situación clínica ni el tratamiento indicado.",
+    "Imponiendo un tratamiento al paciente por considerar que lo necesita sin tener en cuenta su capacidad de decisión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La ética en la práctica clínica está alumbrada por el respeto a los cuatro principios bioéticos. Indique la respuesta correcta:",
+   "o": [
+    "El principio de Beneficencia es el principio bioético rector de todo acto asistencial de Enfermería.",
+    "Los principios de Beneficencia y Justicia priman en el desarrollo de la práctica clínica sobre el principio de Autonomía del paciente.",
+    "El principio de No Maleficencia primará en todo acto asistencial de Enfermería cuando entre en conflicto con el principio bioético de Beneficencia.",
+    "El principio de Autonomía decisoria prima en el desarrollo de la investigación biomédica siempre que no entre en conflicto con el principio de Beneficencia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante la labor de atención y cuidado a pacientes los principios bioéticos de autonomía, justicia, no maleficencia y beneficencia pueden entrar en conflicto. Indique la respuesta correcta:",
+   "o": [
+    "El principio bioético de autonomía y beneficencia primarán en caso de entrar en conflicto con el principio bioético de no maleficencia.",
+    "El principio de no maleficencia determina de forma específica la no discriminación de ninguna persona en la labor asistencial, protegiendo de forma especial a aquellas personas menos desfavorecidas.",
+    "El principio de justicia determina la libertad personal de cada paciente, que bien informado decide sobre lo que es bueno para él.",
+    "El principio de no maleficencia primará si éste entra en conflicto con el principio bioético de beneficencia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las premisas del informe Belmont asegura en su contenido lo siguiente:",
+   "o": [
+    "Define como básicos en investigación biomédica los principios de beneficencia, justicia y utilidad en la práctica sanitaria y en investigación biomédica.",
+    "Establece el respeto a la autonomía de la persona y la capacidad de decisión de no participar en una investigación una vez explicados los riesgos y beneficios de la misma, salvo en los casos de pacientes incapacitados o menores de edad.",
+    "El grado de protección en investigación de las personas vulnerables dependerá de la probabilidad de obtener beneficio y de la propia decisión de la persona sujeta a investigación.",
+    "La obligación de obtener un consentimiento informado donde el sujeto sometido a investigación biomédica acepta libremente participar tras una amplia explicación de riesgos y beneficios de la investigación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El Principalismo jerarquizado propuesto por Diego Gracia determina la existencia de una ética de máximos y una ética de mínimos caracterizada cada una de ellas por dos principios de los cuatro que conforman la Bioética, de forma que si los principios bioéticos entran en conflicto se deben preservar y proteger en primera instancia los siguientes:",
+   "o": [
+    "Autonomía y beneficencia.",
+    "Beneficencia y justicia.",
+    "Justicia y autonomía.",
+    "No maleficencia y justicia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las premisas del informe Belmont es:",
+   "o": [
+    "La investigación y la práctica pueden llevarse a cabo juntas cuando la primera está diseñada para evaluar la seguridad y la eficacia de la segunda.",
+    "Define como básicos los principios de beneficencia, justicia y utilidad en la práctica clínica e investigación.",
+    "El grado de protección en investigación de las personas vulnerables dependerá de la probabilidad de obtener beneficio y de la propia decisión de la persona sujeta a investigación.",
+    "Las aplicaciones de la investigación conducen a considerar la necesidad de la existencia de un consentimiento informado y la reciprocidad de los beneficios en investigación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes principios éticos hace referencia a la sociedad y considera posibles daños a terceras personas?:",
+   "o": [
+    "No-maleficencia.",
+    "Beneficencia.",
+    "Justicia.",
+    "Autonomía."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué documento establece los principios éticos para las investigaciones médicas en seres humanos?:",
+   "o": [
+    "Declaración de los Derechos Humanos.",
+    "Convenio de Oviedo.",
+    "Declaración de Helsinki.",
+    "Declaración Universal sobre Bioética y Derechos Humanos. 27 LEGISLACIÓN Y ÉTICA"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La “Convención sobre los Derechos del Niño” es un convenio de las Naciones Unidas que describe la gama de los derechos que tienen todos los niños y establece normas básicas para su bienestar en las diferentes etapas de su desarrollo. De entre las siguientes opciones indique la que NO forma parte del articulado de la Convención:",
+   "o": [
+    "El niño tendrá derecho desde que nace a un nombre, a adquirir una nacionalidad y, en la medida de lo posible, a conocer a sus padres y a ser cuidado por ellos.",
+    "Los Estados Partes del Convenio reconocen el derecho del niño al disfrute del más alto nivel posible de salud y en particular, adoptarán las medidas apropiadas para asegurar la prestación de la asistencia médica y la atención sanitaria que sean necesarias a todos los niños haciendo hincapié en el desarrollo de la atención hospitalaria.",
+    "El Estado reconoce el derecho del niño a la educación y deberá implantar la enseñanza primaria obligatoria y gratuita para todos.",
+    "Los Estados reconocen el derecho del niño al descanso y el esparcimiento, al juego a las actividades recreativas propias de su edad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a la Adecuación del Esfuerzo Terapéutico (AET):",
+   "o": [
+    "La AET implica una limitación del tratamiento y de los cuidados del paciente con el objetivo de acortar el proceso de la muerte, pudiéndose aplicar medidas extraordinarias de tratamiento en el caso de decisión del equipo de profesionales sanitarios responsable.",
+    "Los ítems de calidad en el proceso de AET pasan por la toma de decisiones centradas en el paciente y su familia, la continuidad de los cuidados y el soporte emocional necesario.",
+    "La AET determina una implicación de todo el equipo asistencial, paciente, familiares y representantes legales en cuya decisión final consensuada, primará la decisión de los profesionales sanitarios en un contexto de respeto al principio bioético de Beneficencia.",
+    "La AET debe comenzar desde el punto de vista legal y de la ética asistencial en los últimos momentos de vida de la persona, cuando ésta entra en el proceso de agonía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando hablamos de la administración de fármacos, en las dosis y combinaciones mínimas necesarias para reducir la consciencia del paciente con enfermedad avanzada o en fase terminal, con el fin de aliviar los síntomas refractarios, nos estamos refiriendo a:",
+   "o": [
+    "Sedación paliativa.",
+    "Sedación en la agonía.",
+    "Eutanasia.",
+    "Sedación terminal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la fase de entrevista a familiares y obtención del consentimiento, recogida por la Organización Nacional de Trasplantes para la solicitud de donación de órganos, indique la opción INCORRECTA:",
+   "o": [
+    "En caso de negativa familiar, el coordinador o el profesional que haya realizado la entrevista debe plantearse si es una decisión definitiva e irrevocable o existe la posibilidad de que la familia cambie de opinión.",
+    "Se debe evitar informar a la familia sobre el desarrollo del proceso de obtención de órganos y posterior restauración del cadáver.",
+    "En el caso del posible donante en asistolia controlada, si se tratase de un paciente que está consciente y que sea competente para tomar la decisión libre y voluntariamente, será él quien otorgue el consentimiento.",
+    "Se informará de que el consentimiento para la extracción de órganos incluye la necesidad de injertos vasculares para su implante en el receptor."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se entiende como sedación paliativa?:",
+   "o": [
+    "El suicidio asistido al paciente con necesidades paliativas destinado a provocar la muerte de una persona que tiene una enfermedad grave e irreversible por razones compasivas en un contexto médico. 29 LEGISLACIÓN Y ÉTICA",
+    "Intervención deliberada para poner fin a la vida de un paciente con enfermedad grave y avanzada y que se encuentre en un programa de Cuidados Paliativos.",
+    "Muerte de un paciente en el entorno de Cuidados Paliativos, sin sufrimiento físico, dirigida por un médico.",
+    "La administración deliberada de fármacos, para reducir la consciencia de un paciente con una enfermedad avanzada o en fase terminal para aliviar síntomas refractarios y con consentimiento explícito."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la legislación actual en vigor desde 2012, respecto a la obtención de órganos de donante vivo, ¿cuánto tiempo mínimo debe pasar entre la firma del documento de cesión del órgano y la extracción del mismo según la legislación actual?:",
+   "o": [
+    "12 horas.",
+    "24 horas.",
+    "48 horas.",
+    "72 horas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La Enfermería como profesión científica, moderna y dinámica, tiene una gran implicación y papel en la investigación en el campo sanitario. Indique la respuesta correcta:",
+   "o": [
+    "La investigación en el campo sanitario implica la protección de datos especialmente sensibles y de carácter personal, pudiendo ser estos empleados en la investigación con finalidad diferente para la que han sido recogidos, sin la necesidad de consentimiento por parte de la persona afectada, siempre que la especial trascendencia de la investigación lo justifique.",
+    "Los datos clínicos sensibles y de carácter personal utilizados en investigación pueden ser utilizados sin el consentimiento de la persona, siempre que se mantenga el deber de confidencialidad de los mismos y haya sido consensuado por los investigadores principales.",
+    "El principio de autonomía decisoria de la persona sujeta a investigación, vertebra toda investigación biomédica salvo en los casos en que la persona renuncie a ello o la investigación tenga un nivel de trascendencia que la justifique.",
+    "La investigación en salud debe proteger el principio de autonomía decisoria de la persona, prevaleciendo en todo el proceso su salud, bienestar y seguridad por encima del interés de la sociedad o de la ciencia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Conforme a lo dispuesto en la Ley 14/2007, de 3 de julio, de Investigación biomédica, en el caso de la investigación con células y tejidos destinados a su aplicación en el ser humano, los datos para garantizar la trazabilidad deben conservarse durante al menos:",
+   "o": [
+    "Cinco años.",
+    "Diez años.",
+    "Veinte años.",
+    "Treinta años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en referencia a la Ley 14/2007, de 4 de julio, de Investigación Biomédica:",
+   "o": [
+    "El investigador principal tiene la potestad de dirigir y asumir riesgos en investigación biomédica si ésta presenta la suficiente importancia y trascendencia para el avance en el campo sanitario basada en la premisa de la ley de investigación biomédica que garantiza la libertad de investigación y de producción científica.",
+    "Si la investigación biomédica tiene la necesaria trascendencia e importancia clínica se procederá a retrasar o privar a los participantes de los procedimientos médicos, diagnósticos o terapéuticos que sean necesarios para su estado de salud previo consentimiento del sujeto sometido a investigación.",
+    "La información proporcionada a los sujetos en investigación debe ser proporcionada por escrito y comprenderá la naturaleza, importancia, implicaciones y riesgos de la investigación no pudiéndose otorgar el consentimiento por representación cuando la persona esté incapacitada legalmente o sea menor de edad.",
+    "La persona sujeta a investigación tiene derecho a ser informada de sus datos genéticos y cualquier otro de carácter personal que se obtengan en la investigación según los términos en que manifestó su voluntad, pudiéndose ceder dichos datos a terceros ajenos a la actuación médico-asistencial o a la investigación biomédica previo consentimiento expreso y por escrito del sujeto participante en la investigación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Desde el punto de vista ético la investigación biomédica consta de una serie de garantías y premisas de obligado cumplimiento para dar al proceso la necesaria salvaguarda ético-legal. Señale la respuesta correcta:",
+   "o": [
+    "Desde el punto de vista ético la investigación biomédica garantiza que el interés y el bienestar de la sociedad o de la ciencia prevalecerá sobre el interés y el bienestar de la persona que participe en una investigación de este tipo.",
+    "Éticamente la investigación biomédica debe asegurar que la persona sujeta a investigación no sufre riesgos o molestias desproporcionadas a los beneficios potenciales que se puedan obtener de la misma.",
+    "Desde el punto de vista ético y legal no se puede iniciar una investigación biomédica en los casos en que la persona por su situación clínica de emergencia no pueda otorgar su consentimiento.",
+    "Si la investigación biomédica tiene la necesaria trascendencia e importancia clínica se procederá a retrasar o privar a los participantes de los procedimientos médicos, diagnósticos o terapéuticos que sean necesarios para su estado de salud."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Son objetivos previstos en el Plan del Gobierno Español para la protección de la Salud frente a las pseudoterapias y Prestaciones del Sistema Nacional de Salud:",
+   "o": [
+    "Autorizar el uso de pseudoterapias única y exclusivamente en aquellos casos cuyo titular de la acción sea un profesional sanitario con el título de Grado o equivalente y esté debidamente acreditado para ejercer una profesión sanitaria y bajo su propia responsabilidad.",
+    "Autorizar la realización de pseudoterapias única y exclusivamente en aquellos centros que cuenten con la acreditación oficial de centro sanitario reconocido.",
+    "Desarrollar alianzas con la Conferencia de Decanos, los/las rectores/as, las CCAA, la comunidad universitaria y los colegios profesionales para garantizar que las pseudoterapias analizar las pseudoterapias bajo los principios del conocimiento y la evidencia científica a través de la Red Española de Agencias de Evaluación de Tecnologías.",
+    "Se lleven a cabo única y exclusivamente por los profesionales autorizados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "tema": 4,
+ "preguntas": [
+  {
+   "q": "¿En qué Real Decreto se establece el uso de NANDA, NOC y NIC en el conjunto mínimo de datos del informe de cuidados de enfermería?:",
+   "o": [
+    "Real Decreto 1093/2000.",
+    "Real Decreto 1093/2010.",
+    "Real Decreto 1083/2000.",
+    "Real Decreto 1083/2010."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la normativa donde se especifican los datos del informe de cuidados de enfermería en los que se encuentran, entre otros, los diagnósticos enfermeros activos, resultados de enfermería e intervenciones de enfermería:",
+   "o": [
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.",
+    "Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y sus normas de desarrollo.",
+    "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.",
+    "Real Decreto 1093/2010, de 3 de septiembre, por el que se aprueba el conjunto mínimo de datos de los informes clínicos en el Sistema Nacional de Salud."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al Registro de Actividad de Atención Sanitaria Especializada, con base en el Conjunto Mínimo Básico de Datos (RAE-CMBD) señale cuál de las siguientes aﬁrmaciones es correcta:",
+   "o": [
+    "El RAE-CMBD se regula por el Real Decreto 69/2015.",
+    "La estructura y contenido del RAE-CMBD se regula en el Real Decreto 198/2014.",
+    "La clasificación de referencia para la codificación de datos clínicos en el RAE-CMBD es la CIE-9MC.",
+    "El objetivo del RAE-CMBD: conocer la demanda asistencial y la morbilidad atendida en los dispositivos de atención primaria y favorecer la realización de estudios de investigación clínica y epidemiológica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la gestión por procesos, ¿a qué tipo de proceso correspondería la formación continuada de los profesionales sanitarios?:",
+   "o": [
+    "Procesos estratégicos.",
+    "Procesos clave.",
+    "Procesos operativos.",
+    "Procesos de soporte."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes estilos o modelos de liderazgo enfermero es frecuentemente señalado como el más adecuado para fomentar la innovación, el compromiso profesional y la mejora de la calidad en servicios de salud, y por qué?:",
+   "o": [
+    "Liderazgo autocrático, porque garantiza control estricto y cumplimiento de normas.",
+    "Liderazgo transaccional, porque se basa en recompensas e intercambio entre el equipo.",
+    "Liderazgo transformacional, porque genera entornos laborales saludables, promueve el desarrollo profesional y favorece el cambio.",
+    "Liderazgo Laissez-Faire, porque delega completamente y da libertad absoluta al equipo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el contexto de la gestión enfermera, ¿cuál es el objetivo principal de un cuadro de mando, considerando el desarrollo de sistemas de información, tecnologías de la información e inteligencia artificial (IA)?:",
+   "o": [
+    "Proporcionar una herramienta de análisis centrada en la satisfacción del paciente, sin incorporar datos de otras áreas asistenciales.",
+    "Facilitar una toma de decisiones eficiente mediante la integración de indicadores clave, aprovechando sistemas de información avanzados, tecnologías de la información y herramientas de IA para optimizar la calidad asistencial, la eficiencia operativa y la gestión de recursos.",
+    "Desarrollar un sistema de evaluación financiera del personal de enfermería basado en algoritmos de IA que predicen costos operativos futuros.",
+    "Generar informes estáticos y retrospectivos que cumplan con las regulaciones, sin utilizar las capacidades dinámicas de los sistemas de información modernos ni de la IA."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con los métodos de priorización de problemas, identiﬁque cuál de los siguientes se basa en los aspectos: gravedad o severidad, magnitud o extensión, eﬁcacia de la intervención y factibilidad del programa:",
+   "o": [
+    "Método CENDES/OPS.",
+    "Método GEVER.",
+    "Método DARE.",
+    "Método Hanlon."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el primer criterio para definir prioridades en la realización de un Programa de Salud?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 38",
+   "o": [
+    "Factibilidad.",
+    "Eficacia y evidencia del problema.",
+    "Magnitud y gravedad del problema de salud.",
+    "Diversidad de la población a la que se dirige."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En gestión de la calidad, uno de los métodos utilizados en la fase de priorización sería:",
+   "o": [
+    "Metodología del Flujograma.",
+    "Método Hanlon.",
+    "Método DAFO-CAME.",
+    "Método Diagrama de Ishikawa."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el modelo de liderazgo integrador no existe un liderazgo superior a los demás. Los líderes están rara vez orientados por completo a las personas o a la tarea. Por ello, inﬂuyen en la efectividad del liderazgo:",
+   "o": [
+    "La jerarquía, las necesidades y los objetivos.",
+    "La conducta, la fuerza y la esperanza.",
+    "El clima, la motivación y la tarea.",
+    "El líder, el seguidor y la situación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La diferencia entre los indicadores PROM y PREM, se basa en que:",
+   "o": [
+    "Los PROM se miden mediante la Encuesta PaRIS (“Patient-Reported Indicator Surveys”) y los PREM mediante la Encuesta BeRLIn (“Best Reports Leading Indicators).",
+    "Los PROM son cuestionarios que recogen los resultados informados por los pacientes y los PREM cuestionarios que recogen las experiencias informadas por los pacientes.",
+    "El objetivo de los PROM es conocer el estado de salud objetivo de los pacientes y el de los PREM conocer su estado subjetivo de salud.",
+    "Los PREM permiten establecer comparaciones entre el estado de salud de los pacientes, mientras que los PROM permiten conocer la satisfacción del paciente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo European Foundation for Quality Management (EFQM) NO se caracteriza por:",
+   "o": [
+    "Establece que la satisfacción del cliente y del personal y la aceptación social de una organización se consigue mediante: Liderazgo, Política y estrategia, Gestión de las personas, Gestión de los recursos y alianza y Gestión de los procesos.",
+    "Consta de 9 criterios de evaluación: 5 criterios agentes y 4 criterios resultados.",
+    "Los criterios resultados indican cómo debería actuar un centro en el que se esté implantando un sistema de gestión de calidad total.",
+    "El modelo EFQM, como modelo de calidad total, es un modelo de excelencia, que todo tipo de organizaciones pueden utilizar y aplicar, tanto sanitarias como no sanitarias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "NO es una característica de los denominados “hospitales magnéticos”: 43 ADMINISTRACIÓN SANITARIA",
+   "o": [
+    "Administración participativa a todos los niveles de organización.",
+    "Oportunidades de promoción para el personal, salarios competitivos y dotación de personal flexible.",
+    "Alta rotación en las plantillas de profesionales de enfermería.",
+    "Relaciones interdisciplinarias satisfactorias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

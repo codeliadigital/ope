@@ -27,7 +27,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 
 - **Digestiva y hepática**: intestino estéril, se coloniza en el parto; estómago de **10-20 ml**; reflujo fisiológico. Inmadurez de la **glucuroniltransferasa** (conjuga la bilirrubina indirecta) + más hematíes de vida más corta (90 días) → **ictericia fisiológica**.
 
-| Ictericia **fisiológica** | Ictericia **patológica** |
+| Ictericia **fisiológica** | Ictericia ==**patológica**== |
 |---|---|
 | Aparece **después de las 24 h** (2.º-3.er día) | Aparece **en las primeras 24 h** |
 | Sube **< 5 mg/dl/día**; pico ≤ 12-15 mg/dl | Sube > 5 mg/dl/día o supera límites |
@@ -63,7 +63,8 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 - **Peso** a término **2.500-4.000 g**. **Pérdida fisiológica del 7-10%** los primeros **3-5 días**; se recupera hacia el **10.º-14.º día**. **Talla** 48-52 cm. **Perímetro cefálico** **34-35 cm** (cinta por occipucio y glabela); el **torácico** ≈ 2 cm menor.
 - Constantes: **FC 120-160 lpm** (auscultación apical, 1 minuto); **FR 40-60 rpm**, abdominal e irregular, con pausas breves normales.
 - **Test de Silverman-Anderson** (dificultad respiratoria): **aleteo nasal**, **quejido espiratorio**, **tiraje intercostal**, **retracción xifoidea** y **disociación toracoabdominal** (**balancín** = 2 puntos). **0 = sin dificultad (lo mejor)**; 1-3 leve; 4-6 moderada; **7-10 grave**. Al revés que el Apgar.
-- **Piel**: **vérnix caseoso** (protector, no frotarlo), **lanugo** (más en prematuros), **mancha mongólica** (azulada lumbosacra, benigna), **eritema tóxico** (pápulas sobre base roja del 1.º al 3.er día, eosinófilos, benigno), **milium** (puntos blancos en nariz).
+- **Piel**: **vérnix caseoso** (protector, no frotarlo), **lanugo** (más en prematuros), **mancha mongólica** (azulada lumbosacra, benigna), **eritema tóxico** (pápulas sobre base roja del 1.º al 3.er día, eosinófilos, benigno), **milium** (puntos blancos en nariz), **fenómeno de arlequín** (mitad del cuerpo roja y la otra pálida, vasomotor y transitorio), **cutis marmorata** (piel moteada con el frío).
+- **Boca**: **perlas de Epstein** (quistes blancos en la línea media del paladar) y **nódulos de Bohn** (en las encías), benignos y transitorios; los **dientes congénitos** pueden extraerse por riesgo de aspiración. **Craneotabes**: reblandecimiento de los huesos del cráneo, fisiológico en el RN.
 - **Fontanelas**: **anterior (bregmática)** romboidal, 2-4 cm, se cierra a los **12-18 meses**; **abombada** = hipertensión intracraneal/meningitis; **hundida** = **deshidratación**. **Posterior (lambdoidea)** triangular, se cierra a los **2-3 meses**.
 
 | | **Caput succedaneum** | **Cefalohematoma** |
@@ -75,11 +76,11 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 
 - **Clavícula**: la **fractura** es el traumatismo óseo obstétrico más frecuente (crepitación, **Moro asimétrico**). **Ingurgitación mamaria** en ambos sexos (estrógenos maternos, «leche de brujas»): **no exprimir** (mastitis).
 - **Cordón**: **2 arterias y 1 vena** (gelatina de Wharton). **Arteria umbilical única**: descartar malformaciones, sobre todo **renales**.
-- **Eliminación**: **micción** en las **primeras 24 h**; **uratos** (mancha anaranjada) normales. **Meconio** en **24-48 h**; si se retrasa, descartar **íleo meconial (fibrosis quística)** y **Hirschsprung**.
+- **Eliminación**: **micción** en las ==**primeras 24 h**==; **uratos** (mancha anaranjada) normales. **Meconio** en **24-48 h**; si se retrasa, descartar **íleo meconial (fibrosis quística)** y **Hirschsprung**.
 - **Genitales**: niñas con flujo blanco o **seudomenstruación** (deprivación hormonal); niños: testículos descendidos (criptorquidia), **hidrocele** que transilumina, meato ventral = **hipospadias**.
 - **Caderas (displasia evolutiva)**: asimetría de pliegues y dos maniobras con cadera a 90°:
   - **Barlow** (**luxante**): **aducción** + presión hacia **atrás** → la cadera inestable «**bota**» y sale.
-  - **Ortolani** (**reductora**): **abducción** + presión hacia **delante** en el trocánter → la cadera luxada «**entra**» con un chasquido.
+  - ==**Ortolani**== (**reductora**): **abducción** + presión hacia **delante** en el trocánter → la cadera luxada «**entra**» con un chasquido.
 
 ## 4. Edad gestacional
 
@@ -91,6 +92,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 ## 5. Cuidados en planta y al alta
 
 - **Cordón**: **cura en seco** en países desarrollados: agua y jabón solo si está sucio, **secado meticuloso**, al aire o con el pañal doblado por debajo. Los antisépticos rutinarios **retrasan la caída**. La **clorhexidina** se reserva a **países de baja renta**, partos domiciliarios sin recursos y UCI neonatal. Caída a los **7-15 días**. **Signos de onfalitis**: enrojecimiento periumbilical que se extiende, pus, **mal olor**, sangrado activo.
+- **Ombligo**: **granuloma umbilical** (tejido rojo húmedo tras caer el cordón: **nitrato de plata**); **onfalitis** (enrojecimiento periumbilical, olor: antibiótico); **persistencia del uraco** (sale orina por el ombligo); **hernia umbilical** (se cierra sola, suele bastar esperar hasta los 3-5 años).
 - **Higiene**: **primer baño después de las 24 h** (preservar el vérnix); jabones syndet. Niñas: limpiar **de delante hacia atrás** (evitar ITU por *E. coli*).
 - **Sueño seguro (SMSL)**: **siempre boca arriba (supino)**; **nunca prono ni de lado** (el lateral rueda a prono). Colchón firme, cuna sin almohadas, peluches ni protectores; sin exceso de abrigo.
 - **Alimentación**: lactancia materna **exclusiva a demanda 6 meses**. Biberón: el polvo **no es estéril** (*Cronobacter sakazakii*): **agua hervida a ≥ 70 °C** al añadir el polvo; después enfriar.
@@ -140,6 +142,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 | **Galant** | Incurva el tronco al rozar junto a la columna | ≈ 3-4 meses |
 | **Deglución** | Traga | **No desaparece** |
 | **Landau** | Extiende tronco y cabeza en suspensión ventral | **No está al nacer**: **aparece a los 4 meses** y dura hasta el año o más |
+| **Paracaídas** | Extiende los brazos al caer hacia delante | **Aparece a los 6-9 meses** y **no desaparece** nunca |
 
 | Edad | Hitos |
 |---|---|
@@ -152,11 +155,11 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 | **2 años** | **Corre**, chuta, sube escaleras (dos pies por escalón); **frases de 2-3 palabras**; negativismo y **rabietas** |
 
 !! Al nacer la pérdida de calor principal es la **evaporación** (secar); ya seco en la cuna, la **radiación**.
-!! Ictericia en las **primeras 24 h** = **patológica**, siempre.
+!! ==Ictericia en las **primeras 24 h** = **patológica**, siempre.==
 !! Vitamina K **IM en el vasto externo**; nunca en el glúteo.
-!! Apgar: **más puntos = mejor**; Silverman: **0 = mejor** (balancín = 2 puntos).
+!! ==Apgar: **más puntos = mejor**; Silverman: **0 = mejor** (balancín = 2 puntos).==
 !! **Caput** cruza suturas y está desde el nacimiento; **cefalohematoma** respeta suturas, aparece horas después.
-!! **Barlow bota** la cadera (aducción); **Ortolani** la hace **entrar** (abducción).
+!! ==**Barlow bota** la cadera (aducción); **Ortolani** la hace **entrar** (abducción).==
 !! Prematuro extremo: **Ballard**, no Capurro.
 !! Biberón con agua a **≥ 70 °C**; dormir **boca arriba**, nunca de lado.
 !! RN de UCI > 5 días o con gentamicina: **potenciales evocados**, no otoemisiones.

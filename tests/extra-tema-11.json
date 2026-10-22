@@ -1,0 +1,600 @@
+{
+ "tema": 11,
+ "preguntas": [
+  {
+   "q": "Cuando en un documento de gestión de la calidad nos encontramos con este dato: Número de nacimientos por cesárea (por 100) dividido por el total de nacimientos en la población en el año de interés. Se está reﬁriendo a:",
+   "o": [
+    "Un indicador.",
+    "Un estándar.",
+    "Un criterio.",
+    "Un objetivo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La afirmación: las personas con más medios, cuyas necesidades de atención sanitaria casi siempre son menores, son las que más atención consumen, mientras que las que tienen menos medios y más problemas de salud son las que menos consumen, se denomina:",
+   "o": [
+    "Atención inversa.",
+    "Atención empobrecedora.",
+    "Atención fragmentada y en proceso de fragmentación.",
+    "Orientación inadecuada de la atención."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de la historia natural de la enfermedad, propuesto por Leavell y Clark, se estructura en:",
+   "o": [
+    "Prevención primaria, secundaria y terciaria.",
+    "Periodo prepatogénico y periodo patogénico.",
+    "Periodo subclínico y periodo clínico.",
+    "Fase de exposición, fase de enfermedad y fase de rehabilitación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el sistema de vigilancia de la mortalidad diaria (Sistema MoMo), NO es cierto que:",
+   "o": [
+    "Es un sistema de vigilancia de la mortalidad por todas las causas, y asociada a excesos de temperatura.",
+    "Se ha implementado en la Unidad de Vigilancia de la Mortalidad diaria del Centro Nacional de Epidemiología (CNE) del Instituto de Salud Carlos III.",
+    "El sistema MoMo en su enfoque predictivo (Índice Kairos), ofrece predicciones del riesgo de mortalidad atribuible a exceso o defecto de temperatura para el día en curso y los siguientes siete días.",
+    "El sistema MoMo analiza la información procedente de tres fuentes distintas: el Instituto Nacional de Estadística (INE), el Ministerio de Justicia y la Agencia Española de Meteorología."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del Plan Estratégico de Salud y Medioambiente para proteger la salud de las personas frente a los efectos del cambio climático, propuesto por el Ministerio de Sanidad y el Ministerio para la Transición Económica y el Reto Demográfico, es correcto que:",
+   "o": [
+    "Tienen mayor atención las temperaturas extremadamente bajas respecto a las olas de calor.",
+    "La mortalidad y los ingresos hospitalarios en relación con el frío ocurren entre 7 y 14 días después de la bajada de las temperaturas.",
+    "Los efectos de las olas de calor (3-4 días), se dan más a largo plazo que los efectos del frío.",
+    "El número de olas de calor en España es mayor que el número de olas de frío."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "La tasa de mortalidad infantil se calcula como:",
+   "o": [
+    "Número de muertes en menores de 5 años por cada 1.000 nacidos vivos en un año.",
+    "Número de muertes en menores de 1 año por cada 1.000 nacidos vivos en un año.",
+    "Número de muertes en menores de 1 año por cada 100.000 habitantes en un año.",
+    "Número de muertes neonatales precoces por cada 1.000 habitantes en un año."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes es la causa externa de muerte más frecuente entre las mujeres en España, según los últimos datos disponibles del Instituto Nacional de Estadística:",
+   "o": [
+    "Enfermedad de Alzheimer.",
+    "Enfermedad hipertensiva.",
+    "Caídas accidentales.",
+    "Suicidios."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En un ensayo clínico sobre la eficacia de un nuevo antihipertensivo con el objetivo de controlar la Tensión Arterial (TA) y evitar eventos cardiovasculares adversos, el 10 % de los pacientes del grupo tratado presentó un evento cardiovascular mayor frente al 20 % en el grupo control. ¿Qué representa el Número Necesario a Tratar (NNT) en este estudio?:",
+   "o": [
+    "El número de pacientes que presentarán un evento cardiovascular con el nuevo tratamiento.",
+    "El número de pacientes que deben ser excluidos para reducir el sesgo de confusión.",
+    "El número de pacientes que es necesario tratar con el nuevo fármaco para evitar un evento cardiovascular adicional en comparación con el control.",
+    "El número de pacientes que deben ser tratados para observar un evento adverso grave."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué concepto estadístico expresa el número de veces que es más probable que un grupo de sujetos fumadores desarrolle una enfermedad respiratoria durante un determinado periodo de estudio, en relación con un grupo de sujetos no fumadores?:",
+   "o": [
+    "Riesgo Relativo.",
+    "Diferencia de riesgo en los expuestos.",
+    "Odds ratio.",
+    "Densidad de incidencia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El cociente entre la incidencia de la enfermedad en los expuestos (Ie) y la incidencia de la enfermedad en los no expuestos (Io), se corresponde con:",
+   "o": [
+    "Riesgo Relativo (RR).",
+    "Riesgo Atribuible (RA).",
+    "Número Necesario a Tratar (NNT).",
+    "Reducción Relativa del Riesgo (RRR)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifique qué resultado del Riesgo Relativo (RR)indica que no hay asociación entre la presencia delfactor de riesgo y el evento:",
+   "o": [
+    "RR= 1.",
+    "RR >1.",
+    "RR < 1.",
+    "RR=0."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los estimadores estadísticos que se utilizan en un ensayo clínico se encuentra el NNT (número necesario de pacientes que hay que tratar). Señale la opción correcta:",
+   "o": [
+    "Es un estimador de la efectividad y magnitud delos resultados de una intervención.",
+    "Informa sobre cuántos pacientes tendrían que recibir el tratamiento experimental en vez del tratamiento de referencia o control para que observemos un daño.",
+    "Un resultado NNT = 1 es un valor nulo, significa que la probabilidad de que ocurra un desenlace es igual en los dos grupos que se están comparando.",
+    "Se calcula como el inverso de la OR (Odds Ratio)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina el tipo de diseño de investigación epidemiológica en el que no se dispone de información sobre la exposición o enfermedad a nivel individual y la aproximación se realiza con datos acerca de la exposición, mortalidad o enfermedad en la población?:",
+   "o": [
+    "Estudio de cohortes.",
+    "Estudio de prevalencia. 647 EPIDEMIOLOGÍA",
+    "Estudio ecológico.",
+    "Estudio de casos y controles."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique a qué tipo de estudio se refiere la siguiente descripción: “sujetos que aún no han adquirido la enfermedad o aquellos que estén en riesgo de adquirirla y en los que se estudian factores preventivos de enfermedades, como pueden ser la administración de vacunas o el seguimiento de dietas”:",
+   "o": [
+    "Ensayo de campo.",
+    "Ensayo comunitario.",
+    "Ensayo clínico.",
+    "Estudio de cohortes."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Se quiere analizar la eficacia de la realización de ejercicio físico para mejorar el estado de salud en pacientes con depresión, ¿qué diseño de estudio sería el adecuado?:",
+   "o": [
+    "Transversal.",
+    "Casos y controles.",
+    "Estudios de concordancia.",
+    "Ensayo clínico aleatorizado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes tipos de estudios es de tipo analítico no observacional?:",
+   "o": [
+    "Estudio de prevalencia.",
+    "Estudio de concordancia.",
+    "Estudio de casos y controles.",
+    "Ensayo de campo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Los estudios de cohortes son longitudinales y existe un seguimiento de los sujetos de estudio. Señale la respuesta correcta con relación a sus características:",
+   "o": [
+    "Se puede estimar la incidencia de la enfermedad en los sujetos expuestos y en los no expuestos, así como el riesgo relativo.",
+    "Son los más adecuados para el estudio de enfermedades raras.",
+    "No sirven para la investigación causal.",
+    "La estimación principal en este tipo de estudios es la prevalencia de una enfermedad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Como enfermera de pediatría usted trabaja con niños con diversas malformaciones congénitas, enfermedades raras, etc. Muchos son los posibles factores de riesgo a los que las madres han podido estar expuestas durante el embarazo (biológicos, medioambientales, culturales, etc.) y desde su unidad querría explorar la relación de algunos de esos factores con determinadas enfermedades raras. ¿Qué diseño epidemiológico sería más útil y pertinente utilizar?:",
+   "o": [
+    "Estudio de cohortes.",
+    "Estudio de caso-control.",
+    "Ensayo clínico aleatorizado.",
+    "Revisión sistemática de ECAs con metaanálisis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifica cuál de las siguientes es una enfermedad de declaración numérica semanal y envío de los datos epidemiológicos básicos agrupados en periodos de cuatro semanas:",
+   "o": [
+    "Hepatitis C.",
+    "Difteria.",
+    "Infección por el virus de la inmunodeficiencia humana/ síndrome de inmunodeficiencia adquirida (VIH/ SIDA).",
+    "Herpes Zoster."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la vía principal de transmisión de Encefalopatías Espongiformes Transmisibles (ETT) al ser humano?:",
+   "o": [
+    "Por transmisión zoonósica directa de los animales al ser humano.",
+    "A través del consumo de productos o tejidos procedentes de animales infectados por priones.",
+    "A través de la inhalación de partículas que contienen priones de origen animal.",
+    "A través de vectores biológicos, especialmente insectos hematófagos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿El número de casos de una enfermedad que aparecen dentro de periodo de incubación entre los contactos susceptibles se denomina?:",
+   "o": [
+    "Tasa de ataque secundaria.",
+    "Número reproductivo básico.",
+    "Tasa de incidencia.",
+    "Letalidad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Un brote de Shigellosis se considera de tipo:",
+   "o": [
+    "Holomiántico o de fuente común.",
+    "Prosodémico.",
+    "Mixto.",
+    "De transmisión de persona a persona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes respuestas acerca del síndrome inflamatorio multisistémico en niños asociado a infección por SARS-CoV-2 es INCORRECTA?:",
+   "o": [
+    "Presenta características similares a la enfermedad de Kawasaki.",
+    "Existe fiebre persistente sin origen clínico claro.",
+    "Se acompaña de neumonía bilateral con infiltrado multilobar.",
+    "Algunos niños progresan clínicamente con rapidez y pueden desarrollar compromiso hemodinámico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta de las siguientes recomendaciones en relación con la COVID-19 y la gestación:",
+   "o": [
+    "Los cambios fisiológicos del embarazo hacen a la gestante menos susceptible a la COVID-19.",
+    "La infección por COVID-19 en la mujer embarazada no modifica el riesgo tromboembólico.",
+    "La base de datos española Red COVID-19 SEGO muestra que no podría plantearse relación entre el cuadro agudo infeccioso o inflamatorio y el parto prematuro. 653 EPIDEMIOLOGÍA",
+    "La OMS recomienda la lactancia exclusiva los primeros 6 meses de vida, incluso en el caso de que la madre presente la infección por el nuevo coronavirus SARS-CoV-2."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un caso con alta sospecha clínico-epidemiológica con pruebas diagnósticas de infección activa por SARS-CoV-2 repetidamente negativa (al menos un PCR) y serología positiva para SARS-CoV-2 realizada por técnicas serológicas de alto rendimiento, sería un:",
+   "o": [
+    "Caso sospechoso.",
+    "Caso probable.",
+    "Caso confirmado con infección activa.",
+    "Caso descartado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes bacterias es anaerobia?:",
+   "o": [
+    "Clostridium botulinum.",
+    "Mycobacterium tuberculosis.",
+    "Legionella pneumophila.",
+    "Haemophilus influenzae tipo B."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "F.T.H. ha sido diagnosticado de escabiosis tras haber estado ingresado en un centro sociosanitario durante un periodo de convalecencia. Vive en su domicilio con su mujer, sus hijas (una de las cuales está amamantando a un bebé de un mes) y sus yernos. Señale cuál de las siguientes recomendaciones NO le daremos tanto a él como a su familia:",
+   "o": [
+    "Toda la familia, incluido F.T.H. (el paciente), deben aplicarse solución de permetrina al 5 % como medida preventiva.",
+    "Han de lavar la ropa de cama de toda la familia diariamente con un programa de al menos 60º de temperatura.",
+    "Deben evitar el contacto directo con F.T.H. todos los miembros de la familia hasta la curación.",
+    "No deben aplicarse el escabicida justo después del baño o ducha."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Los mosquitos del género Culex son los principales vectores de transmisión en humanos, ¿de cuál de las siguientes enfermedades?:",
+   "o": [
+    "Dengue.",
+    "Zika.",
+    "Fiebre del Nilo Occidental.",
+    "Paludismo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta el Plan Nacional de prevención, Vigilancia y control de Enfermedades Transmitidas por Vectores del Ministerio de Sanidad, en relación a la Fiebre del Nilo Occidental, es cierto que:",
+   "o": [
+    "Existe una alta probabilidad de transmisión persona a persona, por lo que se debe aislar al paciente ante la sospecha de detección.",
+    "El escenario 0 contempla la realización de campañas para la protección frente a picaduras.",
+    "El diagnóstico se realiza mediante PCR en frotis nasal.",
+    "En caso de una gestante de parto, debe valorarse la realización de una cesárea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué prueba nos resultará de utilidad a la hora de valorar a un paciente con sospecha de Dengue?:",
+   "o": [
+    "Test de Rumpel-Leede.",
+    "Test de relleno capilar.",
+    "Test de Wrinkle.",
+    "Test de Allen."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante la revisión del calendario vacunal en la consulta de enfermería de un paciente de 40 años con enfermedad renal crónica avanzada en programa de hemodiálisis, ¿cuál de las siguientes vacunas está específicamente indicada según el Calendario de Vacunación 2025 del Consejo Interterritorial del Sistema Nacional de Salud?:",
+   "o": [
+    "Vacuna frente a hepatitis A (HA).",
+    "Vacuna frente a hepatitis B (HB).",
+    "Vacuna frente al Herpes Zoster.",
+    "Enfermedad Meningocócica."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes vacunas está recomendada para su administración a los 12 meses, con una dosis de refuerzo a los 2 años?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 658",
+   "o": [
+    "La hepatitis B.",
+    "La triple vírica.",
+    "Varicela.",
+    "Neumococo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a su consulta para vacunación antigripal un paciente de 18 años con infección por VIH y con CD4 en el último informe <200/ μl. Decide revisar su calendario de vacunación. ¿Qué vacunas revisará?:",
+   "o": [
+    "Neumococo, Hepatitis B y Tétanos-difteria (Td).",
+    "Neumococo y Virus Papiloma Humano.",
+    "Neumococo, Hepatitis B, Hepatitis A, Virus del Papiloma Humano, Herpes Zóster, Meningococo ACWY y Tétanos-difteria (Td).",
+    "Neumococo, Hepatitis B, Hepatitis A, Virus del Papiloma Humano, Herpes Zóster, Meningococo B y Tétanos-difteria (Td)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a consulta una mujer que pregunta si es necesario volverse a vacunar de Varicela, ya que recibió una dosis hace más de dos años, a lo que usted como sanitario responde:",
+   "o": [
+    "Si, de la segunda dosis.",
+    "Si, de las dos dosis puesto que hace más de 2 años que se administró la primera.",
+    "No es necesario, puesto que está cubierta con la dosis administrada.",
+    "No serían necesarias más dosis, a no ser que haya un brote cercano."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la indicación de la vacuna del Virus del Papiloma Humano según el Consejo Interterritorial del Sistema Nacional de Salud (SNS) en su calendario recomendado en el año 2023?:",
+   "o": [
+    "Personas de cualquier edad en situación de prostitución.",
+    "Hombres que tienen relaciones sexuales con hombres, hasta los 26 años.",
+    "Mujeres con cualquier tratamiento de lesión intraepitelial de alto grado en cérvix, hasta los 26 años.",
+    "Mujeres con trasplante de órgano sólido o de progenitores hematopoyéticos, a cualquier edad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La campaña de vacunación contra la COVID-19 (2023-2024), del Consejo Interterritorial del Sistema Nacional de Salud, contempla:",
+   "o": [
+    "Podrá vacunarse toda la población, incluso para completar pauta de primovacunación.",
+    "Los fumadores se incluyen como grupo de riesgo.",
+    "Entre la última dosis o infección por COVID-19 deberán haber pasado 3 meses para la siguiente dosis de vacuna.",
+    "A la población de 6-59 meses sin antecedentes de infección o vacunación previa, se administrarán 2 dosis separadas por 21 días."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a nuestra consulta de Atención Primaria una mujer de 50 años de edad, administrativa, que solicita completar su calendario de vacunación. No aparecen registros sobre su historia vacunal, tiene una serología de hace 2 meses con IgG negativa para varicela y refiere que quiere vacunarse de gripe porque es fumadora. ¿Qué vacunas le corresponden?:",
+   "o": [
+    "Gripe, Hepatitis B, Meningitis C, Triple Vírica, Varicela, Papiloma humano, DTPa.",
+    "Gripe, Hepatitis B, Meningitis ACWY, Triple Vírica, Varicela, Papiloma humano, Td.",
+    "Gripe, Triple vírica, varicela, Td.",
+    "Gripe, Varicela, Triple vírica, Hepatitis B, Td."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Consejo Interterritorial del Sistema Nacional de Salud, señale cuál es la vacunación correcta para personal sanitario en su calendario recomendado de 2023:",
+   "o": [
+    "Sarampión, rubeola y parotiditis si susceptible; tétanos, difteria si susceptible o vacunación incompleta; varicela zóster si susceptible; hepatitis B; gripe anual.",
+    "Sarampión, rubeola y parotiditis si susceptible; tétanos, difteria si susceptible o vacunación incompleta; hepatitis B; hepatitis A; gripe anual.",
+    "Sarampión, rubeola y parotiditis si susceptible; tétanos, difteria si susceptible o vacunación incompleta; Haemophilus influenzae b; hepatitis B; hepatitis A; gripe anual.",
+    "Tétanos, difteria, tosferina; hepatitis B; gripe anual."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude un niño a consulta para que le administremos las vacunas recomendadas por el calendario común de vacunación a lo largo de toda la vida correspondientes a los 4 meses (calendario vigente para 2023). Los padres le preguntan, “¿cuántos pinchazos le tocan?”:",
+   "o": [
+    "2.",
+    "3.",
+    "4.",
+    "6."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la característica general de una vacuna atenuada:",
+   "o": [
+    "No es posible la difusión de la infección a los no vacunados.",
+    "Necesitan gran número de microorganismos.",
+    "Requieren adyuvantes.",
+    "Inducen respuesta humoral y celular"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta la disponibilidad progresiva de dosis en relación con las recomendaciones de vacunación frente a herpes zóster en adultos, se priorizarán las personas con las siguientes condiciones de riesgo, excepto:",
+   "o": [
+    "Hemopatías malignas.",
+    "Tratamiento con fármacos anti-JAK.",
+    "Tumores de más de 20 mm en tratamiento con quimioterapia.",
+    "Trasplante de órgano sólido."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Un varón de 52 años, en estado de inmunosupresión, va a comenzar a trabajar como anillador de murciélagos y solicita la vacuna de la rabia. ¿Cuál será la pauta de administración como profilaxis preexposición?:",
+   "o": [
+    "Se administrarán tres dosis de vacuna: 0, 3 y 21 días.",
+    "Se administrarán tres dosis de vacuna: 0, 3-7 y 14 días.",
+    "Se administrarán tres dosis de vacuna: 0, 3-7 y 21 días.",
+    "Se administrarán tres dosis de vacuna: 0, 7 y 21-28 días."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a las recomendaciones de vacunación frente a la gripe en la temporada 2022-23 del Consejo Interterritorial del SNS y del Comité Asesor de Vacunas de la Asociación Española de Pediatría, indique la respuesta correcta:",
+   "o": [
+    "El esquema de vacunación consiste en 2 dosis si el niño es menor de 9 años y éste se vacuna por primera vez.",
+    "La dosis a administrar en caso de vacunas inactivadas es incompleta (0,2 ml) en cada acto de vacunación.",
+    "Se recomienda la vacunación desde los 3 meses de edad.",
+    "La vacuna frente a la gripe en edad pediátrica no se puede administrar de manera concomitante con otras vacunas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la recomendación de vacunación específica en las personas adultas con insuficiencia renal crónica avanzada, que inician un programa de diálisis atendiendo al calendario de vacunación específico para personas adultas (≥ 18 años) de 2021, con condiciones de riesgo?:",
+   "o": [
+    "Vacuna antineumocócica 23 valente (VNP23).",
+    "Vacuna antineumocócica 13 valente (VNP13) y a las 8 semanas una dosis de VNP23.",
+    "Vacuna Hepatitis A (HA) y Hepatitis B (HB). PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 664",
+    "Vacuna VNP13, VNP23, HB y Gripe anual."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una herida tetanígena de alto riesgo, ¿cuál es la recomendación de vacunación frente a tétanos?:",
+   "o": [
+    "Si el adulto no tiene completa la primovacunación administrar una dosis de vacuna Td y programar las siguientes dosis de vacuna hasta completar la primovacunación y no administrar inmunoglobulina antitetánica.",
+    "Si el adulto tiene completa la primovacunación y hace más de 10 años de la última dosis de vacuna Td, administrar dos dosis de vacuna Td.",
+    "Si el adulto tiene menos de 3 dosis de vacuna Td, administrar también una dosis de inmunoglobulina antitetánica.",
+    "Si el adulto tiene 5 o más dosis de vacuna de tétanos y hace 5 años desde la última dosis, administrar una dosis de vacuna Td."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a las recomendaciones de vacunación frente a la Gripe Temporada 2020-2021 del Consejo Interterritorial del Sistema Nacional de Salud, identifique cuál de los siguientes es considerado un grupo de población diana de vacunación antigripal: PROTOCOLO DE VACUNACIÓN FRENTE AL TÉTANOS Antecedentes de vacunación Herida limpia Herida tetanígena Vacuna Td IGT Vacuna Td IGT Menos de 3 dosis o desconocida Sí (completar vacunación) No Sí (completar vacunación) Sí 3 O 4 dosis No (administrar una dosis si hace más de 10 años desde la última dosis) No No (administrar una dosis si hace más de 5 años desde la última dosis) No* 5 O más dosis No No No (si hace más de 10 años de la última dosis, valorar la administración de una única dosis adicional en función del tipo de herida) No* *En pacientes inmunodeprimidos y UDVP, se administrará una dosis de IGT con heridas tetanígenas, independientemente del estado de vacunación. Se administrará también IGT en personas con heridas tetanígenas contaminadas con gran cantidad de material que pueda contener esporas o con grandes zonas de tejido desvitalizado (heridas de alto riesgo) 665 EPIDEMIOLOGÍA",
+   "o": [
+    "Menores entre los 4 meses y los 4 años con antecedentes de prematuridad menor de 32 semanas de gestación.",
+    "Mujeres durante el puerperio (hasta los 10 meses tras el parto y que no se hayan vacunado durante el embarazo).",
+    "Menos de entre los 4 meses y los 14 años que reciben tratamiento prolongado con ácido acetilsalicílico, por la posibilidad de desarrollar un síndrome de Reye tras la gripe.",
+    "Adolescentes con un índice de masa corporal mayor o igual a 35."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la vacuna contra la COVID-19 de Pfizer/BioNTech (BNT162b2)-COMIRNATY es INCORRECTO que:",
+   "o": [
+    "Los viales no deben agitarse durante la manipulación para evitar alterar la capa lipídica que protege al RNA mensajero de la vacuna.",
+    "La vacuna y el vial debe almacenarse preferentemente con luz ultravioleta una vez extraído del congelador para mejorar su conservación.",
+    "El aspecto de la solución puede contener pequeñas partículas amorfas y opacas de color blanco o blanquecino antes de la reconstitución.",
+    "La vacuna tiene el aspecto de una solución blanquecina sin partículas visibles después de la reconstitución. 667 EPIDEMIOLOGÍA"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de programar una pauta de rescate o acelerada de vacunación a pacientes menores de 6 años con calendario incompleto, según indica el Comité Asesor de Vacunas de la Asociación Española de Pediatría, ¿cuál de las siguientes cuestiones NO tendremos en cuenta?:",
+   "o": [
+    "Se debe reiniciar una pauta de vacunación, aunque ya se hayan administrado dosis previas.",
+    "Es importante respetar la edad mínima para la administración de la vacuna.",
+    "Se respetarán los intervalos mínimos entre dosis.",
+    "La edad mínima para la administración de la vacuna frente a la varicela será de 9 meses en circunstancias especiales."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes vacunas, ¿en cuál se considera la alergia al huevo una contraindicación permanente para su administración en el paciente pediátrico?:",
+   "o": [
+    "Fiebre amarilla.",
+    "Fiebre tifoidea.",
+    "Gripe.",
+    "Hepatitis A."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes vacunas puede ser exigible para entrar en un país mediante un certificado de vacunación internacional?:",
+   "o": [
+    "Hepatitis A, Cólera y Malaria en países endémicos.",
+    "Fiebre amarilla para viajeros que se dirigen o proceden de países o zonas de riesgo de fiebre amarilla, meningitis tetravalente frente a los serogrupos ACY y W135 y vacuna contra la Poliomielitis.",
+    "Rabia para personal que vaya a trabajar con animales en países endémicos de rabia.",
+    "No existen vacunas exigibles, pero sí recomendables, para entrar en un país."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de la cartera de servicios comunes de atención primaria, NO se encuentra:",
+   "o": [
+    "Atención sanitaria a demanda, programada y urgente tanto en la consulta como en el domicilio del enfermo.",
+    "Información y vigilancia epidemiológica.",
+    "Atención paliativa a enfermos terminales.",
+    "Actividades de información y vigilancia en la protección de la salud."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Seleccione la respuesta correcta con respecto a la Atención Domiciliaria:",
+   "o": [
+    "Existen 3 modalidades básicas de atención domiciliaria: espontánea, urgente y programada.",
+    "Da respuesta a necesidades de asistencia creadas por personas que de forma temporal o permanente se encuentran incapacitadas para desplazarse al Centro de Salud.",
+    "La atención domiciliaria espontánea es la que permite el desarrollo de tareas de tipo curativo, prevención, educación sanitaria, promoción del autocuidado y rehabilitación dirigidas a mejorar la calidad de vida.",
+    "El conocimiento directo del entorno vital inmediato de sus integrantes de una familia no serán valorados en este tipo de atención."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Hospitalización a domicilio (SEHAD), señale lo correcto con referencia a los criterios de Voluntariedad del paciente/cuidador para ingreso en domicilio:",
+   "o": [
+    "La voluntad de ingreso en Hospitalización a Domicilio es del paciente y cuidador, aunque sea admitido por la unidad de hospitalización a domicilio.",
+    "El rechazo a continuar ingresado en hospitalización a domicilio, requiere de la firma de alta voluntaria, aunque el paciente quiera regresar a ingresar en el hospital.",
+    "El rechazo al ingreso en hospitalización a domicilio, una vez valorado y aceptado por la unidad de hospitalización a domicilio, lleva implícito el alta voluntaria en el hospital, por parte del paciente o familiar.",
+    "La decisión de finalizar el proceso de hospitalización a domicilio, es tomada por el paciente o cuidador una vez completado el plan de cuidados y procedimientos que motivó su ingreso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Estrategia para el Abordaje de la Cronicidad en el Sistema Nacional de Salud (SNS), Documento de Desarrollo 2025-2028, ¿qué opción describe mejor la planificación anticipada de decisiones en personas con enfermedades crónicas avanzadas?:",
+   "o": [
+    "Procedimiento formal centrado en la cumplimentación de documentos legales.",
+    "Proceso estructurado de comunicación entre profesionales, pacientes y entorno para anticipar decisiones clínicas en el final de la vida.",
+    "Mecanismo de derivación clínica a programas específicos de cuidados paliativos.",
+    "Herramienta aplicada en contextos hospitalarios para pacientes con enfermedades terminales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

@@ -1,0 +1,441 @@
+{
+ "tema": 43,
+ "preguntas": [
+  {
+   "q": "¿Cuál de los siguientes tipos de fibra muscular tiene una alta capacidad para la fosforilación oxidativa y una alta densidad de mitocondrias?:",
+   "o": [
+    "Fibras tipo I.",
+    "Fibras tipo Ia.",
+    "Fibras tipo IIb.",
+    "Fibras tipo IIx."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de los siguientes se trata del músculo longitudinalmente más largo del cuerpo humano:",
+   "o": [
+    "Sartorio.",
+    "Recto anterior.",
+    "Dorsal.",
+    "Semimembranoso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de los siguientes términos es el apropiado para referirse al límite terminal del sarcómero, donde la alfa-actinina actúa como ancla para los filamentos de actina:",
+   "o": [
+    "Línea M.",
+    "Disco Z.",
+    "Disco H.",
+    "Línea S."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes forma parte de los ligamentos de la rodilla?:",
+   "o": [
+    "Ligamento cruzado anterior.",
+    "Ligamento cruzado posterior.",
+    "Ligamento colateral medial.",
+    "Ligamento redondo."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta respecto a las características de la tropomiosina en el músculo esquelético:",
+   "o": [
+    "La tropomiosina es un neurotransmisor clave en la contracción muscular.",
+    "La tropomiosina es una hormona clave en la contracción muscular.",
+    "La tropomiosina depende estrechamente de la concentración de fósforo en la célula muscular para desarrollar su función.",
+    "La tropomiosina depende estrechamente de la concentración de calcio en la célula muscular para desarrollar su función."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de los siguientes enunciados corresponde a la función del músculo grácil:",
+   "o": [
+    "Extender el glúteo.",
+    "Aducir el muslo.",
+    "Extender el muslo.",
+    "Abducir el glúteo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes huesos, ¿cuál se encuentra dentro de los huesos de la cara?:",
+   "o": [
+    "Hueso clivus.",
+    "Hueso malar.",
+    "Hueso esfenoides.",
+    "Hueso calota."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. Identifique el hueso señalado con la letra A:",
+   "o": [
+    "Etmoides.",
+    "Navicular.",
+    "Astrágalo.",
+    "Cuboides."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t26-2022-2023-8.jpg"
+  },
+  {
+   "q": "¿Qué músculos componen la agrupación conocida como isquiosurales?:",
+   "o": [
+    "Semimembranoso, semitendinoso y bíceps femoral.",
+    "Semimembranoso, semitendinoso, bíceps femoral y glúteo mayor.",
+    "Semimembranoso, isquion y bíceps femoral.",
+    "Semimembranoso, isquion, bíceps femoral y recto interno."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 12. El hueso señalado en rojo en la imagen se corresponde con:",
+   "o": [
+    "Hueso trapecio.",
+    "Hueso ganchoso.",
+    "Hueso cuneiforme.",
+    "Hueso escafoides."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t26-2021-2022-12.jpg"
+  },
+  {
+   "q": "¿Qué tendón NO forma parte de la estructura tendinosa denominada pata de ganso?:",
+   "o": [
+    "Tendón del sartorio.",
+    "Tendón del músculo grácil.",
+    "Tendón del músculo semitendinoso.",
+    "Tendón del músculo rotuliano."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes músculos presenta como antagonista al músculo tibial anterior?:",
+   "o": [
+    "Bíceps femoral.",
+    "Romboides.",
+    "Tibial lateral.",
+    "Gastrocnemio."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al tejido muscular esquelético, indique cuál de las siguientes afirmaciones es correcta:",
+   "o": [
+    "El componente principal del tejido muscular esquelético es la proteína (aproximadamente un 75 %).",
+    "Las fibras del tejido muscular esquelético son capaces de producir miocinas, un tipo específico de citocinas y otros péptidos que son capaces de ejercer efectos metabólicos en el organismo.",
+    "Uno de los roles principales del tejido muscular esquelético es el almacenamiento de lípidos como reserva energética del organismo.",
+    "En el tejido muscular esquelético, una fibra muscular está rodeada por una membrana celular también conocida como epimisio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes músculos NO forma parte del manguito de los rotadores del hombro?:",
+   "o": [
+    "Supraespinoso.",
+    "Redondo mayor o teres mayor.",
+    "Infraespinoso.",
+    "Subescapular."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. El plano que señala la flecha se denomina:",
+   "o": [
+    "Plano sagital.",
+    "Plano transversal.",
+    "Eje latero-lateral.",
+    "Eje craneocaudal."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t26-2022-2023-4.jpg"
+  },
+  {
+   "q": "¿Qué nervio se encuentra comprimido en el síndrome del túnel carpiano?:",
+   "o": [
+    "Nervio mediano.",
+    "Nervio cubital.",
+    "Nervio radial.",
+    "Nervio interóseo anterior."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto a la bursitis, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "En la bursitis aparecen cuerpos sueltos dentro de una articulación como resultado del desgaste del cartílago articular y de la erosión ósea.",
+    "La bursitis es una neuropatía de atrapamiento que ocurre cuando el nervio mediano es comprimido en la muñeca por la vaina engrosada del tendón flexor.",
+    "En la bursitis se produce una acumulación de material gelatinoso cerca de las vainas tendinosas y de las articulaciones, dando lugar a la aparición de una estructura quística firme y redondeada, por lo general, en el dorso de la muñeca.",
+    "La bursitis ocurre cuando los sacos llenos de líquido que previenen la fricción entre las estructuras articulares durante la actividad se inflaman."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta acerca del tratamiento no farmacológico en la artrosis:",
+   "o": [
+    "La indicación de tratamiento no farmacológico de la artrosis está suficientemente implementada en la práctica clínica, siendo una práctica habitual en Atención Primaria.",
+    "No se recomiendan medidas físicas como la hidroterapia con agua templada o baños en agua caliente.",
+    "La acupuntura en puntos dolorosos mejora significativamente la clínica que presentan estos pacientes.",
+    "La artrosis de las manos encuentra alivio con baños de parafina."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 12. ¿Cómo describiría la lesión que muestra la imagen?:",
+   "o": [
+    "Fractura diafisaria de fémur.",
+    "Fractura metafisaria de fémur.",
+    "Fractura epifisaria de fémur.",
+    "Fractura fisaria de fémur."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t26-2023-2024-12.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 13. Según la clasificación de Gustilo-Andersen, la imagen corresponde a una fractura abierta tipo:",
+   "o": [
+    "I.",
+    "IB.",
+    "II.",
+    "IIIA."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t26-2023-2024-13.jpg"
+  },
+  {
+   "q": "¿Cómo se llama el síndrome conocido como Distrofia Simpático Refleja (DSR)?:",
+   "o": [
+    "Síndrome del canal de Guyon.",
+    "Síndrome del túnel carpiano.",
+    "Síndrome de Sudeck.",
+    "Síndrome del hombro doloroso."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Paciente de 46 años diagnosticado de fractura en el tercio medio del fémur tras caída accidental mientras practicaba escalada en alta montaña, cuyo rescate se prolongó durante 8 horas. A las 36 horas comienza con dolor torácico y falta de aire y en la exploración se observan petequias conjuntivales, taquipnea, taquicardia y fiebre, además de un nivel neurológico fluctuante. ¿Qué síndrome debemos sospechar?:",
+   "o": [
+    "Shock hipovolémico.",
+    "Sepsis.",
+    "Embolia pulmonar grasa.",
+    "Síndrome compartimental."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con las diferencias entre artritis y artrosis:",
+   "o": [
+    "La artrosis es un proceso inflamatorio, mientras que la artritis es un proceso degenerativo.",
+    "En la artrosis, el cartílago articular puede afectarse de forma secundaria, mientras que en la artritis el cartílago se ulcera, se adelgaza, degenera y puede desaparecer.",
+    "En la artrosis, hay inflamación de la cápsula articular, mientras que en la artritis hay engrosamiento y fibrosis de dicha cápsula.",
+    "En la artrosis, pueden aparecer inflamaciones de la membrana sinovial ocasionalmente, mientras que en la artritis la membrana sinovial enferma primariamente con capacidad invasiva del hueso y capacidad destructiva."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué articulación está afectada en la rizartrosis?:",
+   "o": [
+    "La ubicada entre el trapecio y el primer metacarpiano. 587 TRAUMATOLOGÍA Y REUMATOLOGÍA",
+    "La ubicada entre el grande y el primer metacarpiano.",
+    "La ubicada entre el semilunar y el segundo metacarpiano.",
+    "La ubicada entre el escafoides y el primer metacarpiano."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la afirmación correcta sobre el síndrome del túnel del carpo:",
+   "o": [
+    "Es un síndrome causado por la compresión del nervio cubital.",
+    "El signo de Tinel es generalmente negativo en este síndrome.",
+    "La disminución en el contenido del volumen del túnel carpiano es un hallazgo común en este síndrome.",
+    "Se debe en la mayoría de los casos a la ejercitación repetida de la muñeca."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la opción INCORRECTA respecto al pie zambo?:",
+   "o": [
+    "Da lugar a una elevación del arco longitudinal del medial del pie.",
+    "Puede ser postural, congénito o asociado a una displasia del tejido musculoesquelético.",
+    "Existe flexión plantar y aducción del antepie/ mediopie respecto al retropié.",
+    "También se denomina pie equinovaro."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, ¿qué tipo de fractura es propia de la edad pediátrica?:",
+   "o": [
+    "Fractura conminuta.",
+    "Fractura de Deütschlander.",
+    "Fractura espiroidea.",
+    "Deformación o incurvación plástica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el síndrome del miembro fantasma doloroso, indique la opción correcta:",
+   "o": [
+    "Se ha demostrado que la terapia con espejos no es útil en la reducción del dolor.",
+    "Se sigue la línea de tratamiento del dolor neuropático.",
+    "Posee las mismas características que el dolor del muñón. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 588",
+    "Actualmente la resección quirúrgica del neuroma es el método de elección."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con los cuidados de un paciente con artroplastia total de rodilla:",
+   "o": [
+    "Los pacientes deben movilizar la extremidad y deambular desde el primer día.",
+    "Es recomendable colocar una almohada bajo la rodilla afectada cuando se encuentre en la cama.",
+    "Se debe mantener un INR entre 2-2,5 en prevención de la aparición de trombosis venosa profunda.",
+    "La pierna intervenida debe permanecer en declive cuando el paciente se encuentre sentado."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes es un signo temprano de síndrome compartimental en un paciente con un yeso:",
+   "o": [
+    "Dolor desproporcionado al estiramiento pasivo de otros músculos en la extremidad inmovilizada.",
+    "Olor fétido y secreción purulenta a través del yeso.",
+    "Presión intracompartimental disminuida.",
+    "Eritema y tirantez del tejido subyacente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones para evitar las luxaciones de prótesis total de cadera señale la opción FALSA: 589 TRAUMATOLOGÍA Y REUMATOLOGÍA",
+   "o": [
+    "Si el abordaje de la cirugía es posterolateral, evitar la rotación externa de la pierna y el movimiento de aducción.",
+    "Evitar sentarse en asientos muy bajos e inclinarse hacia delante para atarse los zapatos o ponerse calcetines.",
+    "No cruzar las piernas.",
+    "Si el abordaje quirúrgico es anterior, evitar la rotación externa de la pierna y el movimiento de abducción."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De los siguientes consejos de autocuidado para mantenerse activo o activa en personas con fibromialgia, ¿cuál es INCORRECTO?:",
+   "o": [
+    "Tenga en cuenta que el reposo absoluto, frecuente o mantenido en el tiempo, solo es eficaz en el dolor agudo.",
+    "Organice su tiempo de trabajo e incluya pequeños descansos (no más de 30 minutos) después de un tiempo de actividad no muy prolongado.",
+    "Seleccione alguna actividad que le resulte agradable, adáptela si es necesario a su situación actual de forma que pueda hacerla independientemente de su dolor.",
+    "No se quede en casa todo el día; busque el momento más adecuado para usted y salga aunque sean 10 minutos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes ítems NO se encuentra en la herramienta de valoración del riesgo de fracturas “FRAX®” ?:",
+   "o": [
+    "Antecedentes de padres con fractura de cadera.",
+    "Antecedentes de fracturas previas durante la edad adulta, que pueden ser espontáneas o por un traumatismo que en un individuo sano no se hubiera producido.",
+    "Tabaquismo activo.",
+    "Antecedentes de osteoartritis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El uso de ortesis en enfermedades neuromusculares puede ser útil para corregir posturas articulares anómalas que aumenten o predisponen a la rigidez o deformidad permanente. Indique cuál de las siguientes NO se encuentra entre ellas:",
+   "o": [
+    "Botas especiales para colocación de los pies en ángulo de 90º.",
+    "Almohada en la parte interna del muslo para evitar la rotación coxofemoral.",
+    "Almohada entre el brazo y el cuerpo para prevenir la aducción del brazo.",
+    "Férulas en manos y antebrazos para prevenir la flexión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación al Síndrome de Sudeck o síndrome de dolor regional complejo (SDRC), tras la inmovilización con férula por una fractura de radio:",
+   "o": [
+    "Es más frecuente en hombres (2-3 veces más frecuente que entre las mujeres).",
+    "El diagnóstico se confirma con RMN y la presencia de dolor bilateral en ambos miembros.",
+    "Las personas afectadas presentan cambios vasomotores cutáneos y alteraciones sudomotoras.",
+    "El dolor (urente o lancinante) sigue el recorrido de un solo nervio periférico facilitando el diagnóstico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Como se denomina al vendaje que anula el movimiento que produce dolor, utilizando esparadrapo (tape)?:",
+   "o": [
+    "Vendaje funcional inelástico.",
+    "Vendaje funcional elástico.",
+    "Vendaje neuromuscular.",
+    "Vendaje cofuncional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En una artrodesis lumbar, ¿en qué zona de la vértebra se insertan los tornillos por ser una de las estructuras más resistentes de la vértebra?:",
+   "o": [
+    "Pedículo.",
+    "Apófisis espinosa.",
+    "Apófisis transversa.",
+    "Lámina."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las tracciones utilizadas para inmovilizar y reducir las fracturas NO se encuentra:",
+   "o": [
+    "Tracción de Crutchfield.",
+    "Tracción de Hoffman.",
+    "Tracción de Gardner-Wells.",
+    "Tracción de Vinke."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué indicaciones ofrecerá a un paciente intervenido de una artrodesis de rodilla izquierda para caminar con 4 puntos de apoyo utilizando muletas?:",
+   "o": [
+    "Mueva el pie izquierdo hacia delante, posteriormente mueva la muleta izquierda hacia delante 10-15 cm. A continuación, mueva la muleta derecha hacia delante y, por último, mueva el pie derecho hacia delante.",
+    "Mueva la muleta derecha hacia delante 10-15 cm, posteriormente mueva el pie izquierdo hacia delante hasta la altura de la muleta izquierda. A continuación, mueva la muleta izquierda hacia delante y, por último, mueva el pie derecho hacia delante.",
+    "Mueva ambas muletas y la pierna más débil hacia delante. Posteriormente, mueva la pierna más fuerte hacia delante.",
+    "Mueva la muleta izquierda y el pie derecho hacia delante, a la vez. A continuación, mueva la muleta derecha y el pie izquierdo hacia delante, a la vez."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  }
+ ]
+}

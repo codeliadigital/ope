@@ -1,0 +1,138 @@
+{
+ "tema": 35,
+ "preguntas": [
+  {
+   "q": "En caso de administración incorrecta de la prueba cutánea de la tuberculina, es cierto que:",
+   "o": [
+    "Se debe dar de inmediato otra dosis de prueba en un punto por lo menos a 5 cm de distancia de la inyección inicial. Se debe incluir una nota en la historia clínica indicando el sitio elegido para la segunda prueba.",
+    "Se debe dar otra dosis de prueba necesariamente en el brazo contrario a la inyección inicial. Se debe incluir una nota en la historia clínica indicando el sitio elegido para la segunda prueba.",
+    "Debemos esperar 48 horas para una nueva prueba. Se debe incluir una nota en la historia clínica indicando el sitio de la prueba fallida.",
+    "Debemos esperar 72 horas para una nueva prueba. Se debe incluir una nota en la historia clínica indicando el sitio de la prueba fallida."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la prueba de la tuberculina, una induración de 15 milímetros o mayor se considera una reacción positiva en las personas que:",
+   "o": [
+    "No tienen factores de riesgo de tuberculosis conocidos.",
+    "Sean portadores de VIH.",
+    "Sean receptores de un trasplante de órgano.",
+    "Han tenido un contacto reciente con otra persona con tuberculosis activa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Un usuario con historia de consumo de drogas y seronegativo para el VIH acude a una consulta tras 72 horas de realizarle la técnica de Mantoux para su lectura. Se considera que el resultado es positivo cuando la induración:",
+   "o": [
+    "Es ≥ de 5 mm.",
+    "Es ≥ de 10 mm.",
+    "Es ≥ de 15 mm.",
+    "Es ≥ de 8 mm."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del Plan Estratégico para la Prevención y Control de la Infección por el VIH y las ITS en España 2021-2030, podemos encontrar:",
+   "o": [
+    "Que la meta cambia de 90-90-90 a 95-95-95-95.",
+    "Que el 80% de las personas con infección por el VIH conozcan su estado serológico.",
+    "Que el 85% de las personas con VIH en tratamiento estén en supresión viral.",
+    "Que el 90% de las personas diagnosticadas con el VIH reciban el tratamiento antirretroviral."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el documento de consenso de profilaxis preexposición al VIH en España de 2018, es un criterio de elegibilidad:",
+   "o": [
+    "Tener al menos cuatro criterios de alto riesgo de infección por VIH.",
+    "En personas transexuales que tengan prácticas sexuales de alto riesgo, se aplicarán criterios distintos que los utilizados para el grupo de hombres que tienen sexo con hombres (HSH).",
+    "No haber tenido alguna ITS bacteriana en el último año.",
+    "Uso de drogas relacionadas con el mantenimiento de relaciones sexuales sin protección en el último año."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Tal como se recoge en la Guía de recomendaciones para el diagnóstico precoz del VIH en el ámbito sanitario, y teniendo en cuenta la potencial exposición, se recomienda ofrecer la prueba del VIH a:",
+   "o": [
+    "Todas las personas, con 18 años o más, que lo soliciten por sospechar una exposición de riesgo.",
+    "Personas heterosexuales con más de una pareja sexual y/o prácticas de riesgo en los últimos seis meses.",
+    "Personas procedentes de países de alta prevalencia de VIH (> 2 %) y sus parejas sexuales.",
+    "Personas que desean dejar de utilizar el preservativo con sus parejas estables."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con los criterios de administración de la profilaxis preexposición (PrEP) frente al VIH, ¿cuál de las siguientes afirmaciones NO es cierta?:",
+   "o": [
+    "El paciente debe tener al menos 18 años.",
+    "Se debe descartar la existencia de una infección por el VIH antes de administrar la PrEP.",
+    "Después de iniciar la PrEP, hay que realizar un seguimiento clínico y analítico una vez al año.",
+    "Uno de los diferentes criterios de riesgo a valorar para recomendar la PrEP es que la persona haya tenido al menos 10 parejas sexuales diferentes en el último año."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación a la prueba de diagnóstico de la infección por el Virus de la Inmunodeficiencia Humana (VIH), ¿Cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "La prueba rutinaria del VIH debe realizarse a todas las mujeres embarazadas, aunque no refieran prácticas de riesgo.",
+    "No es necesario solicitar el consentimiento del paciente para realizar la prueba del VIH.",
+    "Sólo debe solicitarse la prueba de aquellas personas que presenten signos de y/o síntomas de infección por VIH o SIDA y a las embarazadas.",
+    "El periodo debe transcurrir actualmente entre una práctica de riesgo y la realización de la prueba de diagnóstico para que se pueda descartar con certeza la infección por el VIH debe ser, al menos, de seis meses."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la transmisión del Virus de la Inmunodeficiencia Humana (VIH) ¿Cuál de las siguientes afirmaciones NO es cierta?",
+   "o": [
+    "El VIH se puede transmitir por contacto con sangre, semen, flujo vaginal y saliva.",
+    "La donación de sangre en España no comporta riesgo para la transmisión del VIH.",
+    "El VIH se puede transmitir de la madre al hijo durante el embarazo, el parto y la lactancia.",
+    "Las personas portadoras del VIH que toman tratamiento antirretroviral y tienen la carga viral indetectable, pueden mantener una vida sexualmente activa sin infectar a sus parejas, e incluso pueden tener hijos de forma natural."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el tratamiento antirretroviral ¿Cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "Es un tratamiento que, a día de hoy, debe tomarse de forma indefinida, para toda la vida.",
+    "El tratamiento consiste en la combinación de varios fármacos, habitualmente entre ocho y diez, que impiden que el virus se replique dentro de los linfocitos.",
+    "El objetivo del tratamiento es conseguir que el paciente tenga una carga viral por debajo de las 10.000 copias.",
+    "Cuando un paciente lleva más de cinco años con el tratamiento antirretroviral y la carga viral se ha mantenido indetectable todo este tiempo, puede retirarse el tratamiento ya que no hay riesgo de que se reanude la replicación del virus."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre la enfermedad de von Willebrand es correcta?:",
+   "o": [
+    "Es un trastorno de la coagulación hereditario poco frecuente.",
+    "Se caracteriza por un déficit en la producción del factor IX.",
+    "Solo provoca sangrados graves y espontáneos.",
+    "Se transmite en la mayoría de los casos con un patrón autosómico dominante."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes constituye una causa excluyente a la hora de realizar una donación de sangre?:",
+   "o": [
+    "Toma de ansiolíticos.",
+    "Vacunación de gripe inferior a 1 semana.",
+    "Consumo de cocaína por vía nasal/esnifada.",
+    "Primera donación a partir de los 65 años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

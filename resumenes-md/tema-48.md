@@ -93,10 +93,10 @@ sub: Resumen OPE Enfermería SMS · Urgencia frente a emergencia, RD 1030/2006 y
 !! Box **≥ 6 m²**; llegada-triaje **< 10 min**; fugas **< 4%** antes y **< 2%** después del triaje.
 !! Triaje avanzado: **analgesia oral, antitérmicos, radiografías, inmovilización**; no morfina IV.
 !! ESI: **sin tiempos**; niveles 3-4-5 según **recursos** (≥ 2 / 1 / 0); sangre + orina = **1 recurso**; medicación oral **no** es recurso.
-!! Manchester: **52 diagramas**; nivel 2 **naranja 10 min**; **4 verde (120)**, **5 azul (240)**; infratriaje en ancianos.
+!! ==Manchester: **52 diagramas**; nivel 2 **naranja 10 min**; **4 verde (120)**, **5 azul (240)**; infratriaje en ancianos.==
 !! SET-MAT: **software e-PAT**; nivel III **30 min**.
 !! Fiabilidad entre observadores = **índice kappa**.
-!! START: **camina → verde**; **no respira tras abrir vía → negro**; **FR > 30, relleno > 2 s o no obedece → rojo**; resto amarillo.
+!! ==START: **camina → verde**; **no respira tras abrir vía → negro**; **FR > 30, relleno > 2 s o no obedece → rojo**; resto amarillo.==
 !! JumpSTART: niño con pulso que no respira → **5 ventilaciones** antes del negro.
 !! PMA en la **zona templada**; ambulancias en la **zona fría**.
 !! SAER: **S**ituación, **A**ntecedentes, **E**valuación, **R**ecomendación.

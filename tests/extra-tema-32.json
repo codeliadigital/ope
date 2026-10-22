@@ -1,0 +1,60 @@
+{
+ "tema": 32,
+ "preguntas": [
+  {
+   "q": "¿Qué es el Síndrome de Rett?:",
+   "o": [
+    "Es un trastorno del espectro autista, con alto nivel de funcionamiento.",
+    "Es un trastorno neurológico, de causa genética, que afecta fundamentalmente a niñas.",
+    "Es un trastorno genético que cursa con disminución de hormonas sexuales y sensación continua de hambre.",
+    "Es un trastorno endocrino-metabólico con afectación neurocognitiva y manifestaciones psicomotoras."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué edad aparecen signos puberales de pubertad precoz, desarrollo mamario en niñas y desarrollo testicular en niños?:",
+   "o": [
+    "Antes de los 6 años en niñas y de los 7 años en niños.",
+    "Antes de los 7 años en niñas y de los 7 años en niños.",
+    "Antes de los 8 años en niñas y de los 7 años en niños.",
+    "Antes de los 8 años en niñas y de los 9 años en niños."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La valoración antropométrica de una niña de 19 meses presenta un Z-Score en el peso para la edad de -1,25 desviaciones estándar. Según los estándares de crecimiento infantil de la OMS del 2006, ¿qué le ocurre a esta niña?:",
+   "o": [
+    "Desnutrición severa crónica.",
+    "Desnutrición leve aguda.",
+    "Nada.",
+    "Sobrepeso."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta acerca de los estadíos de Tanner del desarrollo puberal en la mujer y en el varón:",
+   "o": [
+    "En el estadio 2 del varón, el vello púbico se hace más tosco, se riza, se oscurece y aumenta en cantidad.",
+    "En el estadio 3 de la mujer, se produce una elevación de la mama y areola en el mismo plano.",
+    "En el estadio 4 de la mujer, el vello púbico es como el de una adulta y se extiende a la cara interna de los muslos.",
+    "En el estadio 3 del varón, se desarrolla el glande y los testículos con un aumento y oscurecimiento del escroto."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cómo se denomina a “Las acciones deliberadas por parte de un adulto de cara a establecer lazos de amistad con un niño/niña en Internet, con el objetivo de obtener satisfacción sexual mediante imágenes eróticas o pornográficas del menor o incluso como preparación para un encuentro sexual”:",
+   "o": [
+    "Sexting.",
+    "Ciberacoso.",
+    "Sextorsión.",
+    "Grooming."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

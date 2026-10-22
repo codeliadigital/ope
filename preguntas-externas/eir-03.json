@@ -1,0 +1,222 @@
+{
+ "id": "eir-03",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 3,
+ "titulo": "EIR · Bioestadística",
+ "explicadas": false,
+ "descripcion": "19 preguntas de los exámenes EIR de 2018 a 2025 sobre bioestadística, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "El número de hijos de una familia es una variable:",
+   "o": [
+    "Cualitativa dicotómica.",
+    "Cuantitativa continua.",
+    "Cuantitativa discreta.",
+    "Cuantitativa nominal."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En estadística descriptiva, ¿cuál de las siguientes medidas descriptivas NO es una medida de dispersión?:",
+   "o": [
+    "Varianza.",
+    "Desviación típica.",
+    "Rango.",
+    "Mediana."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. Identiﬁque con qué tipo de variables se utiliza este modelo de gráﬁco:",
+   "o": [
+    "Cuantitativa continua.",
+    "Cuantitativa ordinal.",
+    "Cualitativa nominal.",
+    "Cualitativa discreta."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t03-2020-2021-1.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. Identiﬁque la opción INCORRECTA:",
+   "o": [
+    "La línea roja se corresponde con el Q3.",
+    "La línea azul se corresponde con la media.",
+    "La línea rosa se corresponde con el Q1.",
+    "El símbolo señalado con la flecha se corresponde con el valor extremo de la variable a estudio."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t03-2021-2022-5.jpg"
+  },
+  {
+   "q": "Al aﬁrmar que un paciente pediátrico se encuentra en el percentil 35 de peso, entendemos que:",
+   "o": [
+    "El 65 % de los niños de su sexo y edad están igual o por encima de ese peso.",
+    "El 35 % de los niños de su sexo y edad están igual o por encima de su peso.",
+    "El 65 % de los niños de su sexo y edad están por debajo de ese peso.",
+    "El 35 % de los niños de su sexo y edad mantienen igual peso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA en relación al rango intercuartílico en estadística descriptiva:",
+   "o": [
+    "Se define como la diferencia entre el tercer y el primer cuartil (percentiles 75 y 25, respectivamente).",
+    "Indica la amplitud del 50% central de la muestra.",
+    "Se usa como medida de dispersión cuando la variable presenta valores extremos.",
+    "Suele ir acompañado de la media como medida de tendencia central."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El intervalo de confianza (IC) del 95 % calculado para la media aritmética indica:",
+   "o": [
+    "Que la media de la población tiene un 95 % de probabilidad de encontrarse dentro de ese rango.",
+    "Que el 95 % de los sujetos se sitúa dentro del intervalo calculado. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 52",
+    "Que, si se repite el estudio muchas veces, en el 95 % de los casos el intervalo incluirá la media poblacional.",
+    "Que existe un 95 % de probabilidad de que la hipótesis nula sea verdadera."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En los estudios de investigación cuantitativa, ¿qué test se utilizaría para la comparación de medias entre tres grupos independientes, asumiendo normalidad?:",
+   "o": [
+    "Test de la t de Student.",
+    "Test de ANOVA.",
+    "Test de Kruskal-Wallis.",
+    "Test de Chi Cuadrado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué test se utilizaría para la comparación de medias entre tres o más grupos apareados, en los que la distribución de los datos cuantitativos no es normal?:",
+   "o": [
+    "Test de Friedman.",
+    "Test de ANOVA.",
+    "Test de Kruskal-Wallis.",
+    "Test de Wilcoxon."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se interpretaría un valor del coeficiente de regresión mayor a 0 en los estudios de investigación en los que se pretende explicar la relación que existe entre la variable dependiente (peso) y una única variable independiente (altura)?:",
+   "o": [
+    "A mayor altura, mayor peso.",
+    "A mayor peso, mayor altura.",
+    "A mayor altura, menor peso.",
+    "A mayor peso, menor altura."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Identiﬁque la prueba correcta para el análisis estadístico teniendo en cuenta que se enfrenta una variable cuantitativa con una cualitativa dicotómica, que no hay un buen ajuste con la distribución normal y que las variables están apareadas:",
+   "o": [
+    "U de Mann Whitney.",
+    "Wilcoxon.",
+    "T de Student.",
+    "Friedman."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de realizar el análisis estadístico hay que tener en cuenta varios conceptos. Identiﬁque la respuesta INCORRECTA:",
+   "o": [
+    "Dos variables son apareadas o emparejadas únicamente si se relacionan de manera directa (mismos individuos en distintos medios).",
+    "En una tabla de contingencia de 2xn, con frecuencias esperadas inferiores a 5 en más de una celda (25 %), se debe recurrir a la prueba exacta de Fisher. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 54",
+    "Con variables cuantitativas es necesario evaluar la bondad de ajuste con la distribución normal mediante la prueba Shapiro-Wilk para muestras grandes y la de Kolmogorov-Smirnov para muestras más pequeñas.",
+    "La t de Student para muestras independientes se debe acompañar de la prueba de Levene para evaluar si hay homocedasticidad (p >0,05, varianzas iguales) o heterocedasticidad (p < 0,05, varianzas diferentes)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué prueba paramétrica se utilizará para determinar la varianza?:",
+   "o": [
+    "Test de Wilcoxon.",
+    "U de Mann-Whitney.",
+    "F de Fisher-Snedecor.",
+    "Test de Kruskal-Wallis."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al cálculo del número de sujetos necesarios para la realización de un estudio cuyo objetivo es la estimación de una media o una proporción, señale qué elemento NO interviene:",
+   "o": [
+    "Variabilidad del parámetro que se desea estimar.",
+    "Precisión con la que se desea estimar el parámetro.",
+    "Potencia estadística o capacidad del estudio para detectar una determinada diferencia.",
+    "Nivel de confianza deseado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál sería la prueba no paramétrica en el caso de muestras independientes > 2 grupos?:",
+   "o": [
+    "Kruskal-Wallis.",
+    "U de Mann-Whitney.",
+    "Wilcoxon.",
+    "Friedman."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la comparación de una variable cualitativa de dos categorías y otra de tipo cuantitativa en la que se conoce una distribución normal, la prueba a utilizar será:",
+   "o": [
+    "Chi cuadrado.",
+    "ANOVA.",
+    "t de Student.",
+    "Correlación de Pearson."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En una prueba estadística el valor de p indica:",
+   "o": [
+    "La probabilidad de aceptar la hipótesis nula cuando es verdadera.",
+    "La probabilidad de rechazar la hipótesis alternativa cuando es verdadera.",
+    "La potencia estadística.",
+    "La probabilidad de rechazar la hipótesis nula cuando es verdadera."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la respuesta correcta respecto al intervalo de conﬁanza (IC):",
+   "o": [
+    "Permite evaluar la precisión con que se ha estimado un parámetro poblacional.",
+    "Se calcula siempre con una confianza del 95%.",
+    "Nos indica la estimación puntual de una variable en una muestra.",
+    "Es aplicable únicamente en estimaciones de variables cuantitativas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Si quisiéramos medir la efectividad del seguimiento de pacientes en los programas de cuidados paliativos especializados domiciliarios (variable independiente “seguimiento en cuidados paliativos”: si/no) en términos de la media de permanencia en casa (variable dependiente “media de días sin ingreso hospitalario”). ¿Qué test estadístico utilizaríamos?:",
+   "o": [
+    "T de Student.",
+    "Ji cuadrado. MUESTRAS INDEPENDIENTES MUESTRAS APAREADAS O DEPENDIENTES Paramétrico No paramétrico Paramétrico No paramétrico Cuantitativa con cualitativa (dos categorías) T student U de Mann-Whitney T student para muestras apareadas Wilcoxon Cuantitativa con cualitativa (más dos categorías) ANOVA Kruskal-Wallis ANOVA para muestras apareadas Friedman Cualitativa con cualitativa ---- Chi cuadrado --- McNemar Cuantitativa con cuantitativa Correlación de Pearson Regresión lineal Correlación Rho de Spearman --- --- 57 BIOESTADÍSTICA",
+    "Wilcoxon.",
+    "McNemar."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

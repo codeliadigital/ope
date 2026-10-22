@@ -1,0 +1,226 @@
+{
+ "tema": 29,
+ "preguntas": [
+  {
+   "q": "Indique la respuesta correcta con relación a la alergia a proteína de leche de vaca (APLV) en el niño:",
+   "o": [
+    "La APLV mediada por Inmunoglobulina E produce reacciones alérgicas inmediatas.",
+    "La leche de vaca es uno de los alimentos menos frecuentes en producir reacciones anafilácticas fatales. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 322",
+    "La mayoría de los niños con APLV no adquieren tolerancia espontánea a la PLV.",
+    "En la dieta de eliminación indicada ante una APLV, se recomienda sustituir la leche de vaca por leche de otros bóvidos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la prueba \"gold standard\" de confirmación en el diagnóstico de la alergia no mediada por inmunoglobulina E, a las proteínas de la leche de vaca en un lactante?:",
+   "o": [
+    "Anamnesis (semiología típica).",
+    "Prick Test.",
+    "Determinación IgE específica.",
+    "Prueba de provocación oral."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las recomendaciones higiénicodietéticas que indicaremos a un paciente en edad infantil diagnosticado de síndrome de Kostmann encontramos:",
+   "o": [
+    "Evitar grasas saturadas.",
+    "No exposición directa al sol.",
+    "Ingesta moderada de líquidos.",
+    "Limpieza e higiene minuciosa de la cavidad oral."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto a la alergia a las proteínas transportadoras de lípidos vegetales (LTPs), indique la respuesta FALSA:",
+   "o": [
+    "Se trata de alérgenos alimentarios vegetales muy extendidos.",
+    "Son altamente resistentes al procesamiento de alimentos y al medio gastrointestinal.",
+    "Las manifestaciones clínicas de los pacientes en edad pediátrica alérgicos a las LTPs consisten en síntomas locales leves.",
+    "Estas proteínas tienen mayor presencia en la piel que en la pulpa de las frutas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Por qué debemos recomendar evitar el consumo de miel en niños menores de un año?:",
+   "o": [
+    "Causa obesidad en edades tempranas.",
+    "Es considerado un alimento muy alergénico.",
+    "Está relacionada con casos de botulismo infantil.",
+    "Se trata de un alimento de escaso valor nutricional."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la afirmación INCORRECTA acerca de las recomendaciones sobre lactancia materna que aparecen en el documento: “Grupo de trabajo de la Guía de Práctica Clínica sobre lactancia materna”. Ministerio de Sanidad, Servicios Sociales e Igualdad, 2017 perteneciente a las Guías de Práctica Clínica en SNS:",
+   "o": [
+    "Se sugiere el colecho en el hogar (en cama o en cuna sidecar) como una opción que puede ayudar a la madre a mantener la lactancia materna. Recomendación débil.",
+    "Se recomienda evitar siempre que sea posible el uso del chupete durante el primer mes para facilitar el buen inicio de la lactancia materna. Recomendación fuerte.",
+    "Se recomienda informar a las madres y familias del peligro que supone para la seguridad del lactante que el lactante permanezca solo en la cama de un adulto, en un sofá o en un sillón. Recomendación fuerte.",
+    "Se recomienda evitar la administración de suplementos si no existe indicación médica que lo justifique. Recomendación fuerte."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La “Prueba del cribado de Denver” o “Test de Denver” (DDST II) es una herramienta utilizada en el seguimiento del niño sano en la consulta de enfermería. ¿Qué áreas evaluaremos según la aplicación del dicho test?:",
+   "o": [
+    "Psicomotricidad, agilidad, lenguaje y autonomía.",
+    "Lenguaje, desarrollo muscular, desarrollo motor y agilidad mental.",
+    "Desarrollo personal, desarrollo social, agilidad perceptiva y lenguaje. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 326",
+    "Lenguaje, motor grueso, motor fino adaptativo y personal-social."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Siguiendo la estrategia del Ministerio de Sanidad frente a la infección por el Virus Respiratorio Sincitial (VRS) en población infantil para la temporada 2024/2025, ¿en qué localización y por qué vía administramos este anticuerpo monoclonal?:",
+   "o": [
+    "Vía subcutánea, en la cara externa superior del brazo.",
+    "Vía intramuscular exclusiva, preferentemente en la cara anterolateral externa, tercio medio del muslo.",
+    "Vía subcutánea exclusiva, en la cara externa posterior del músculo tríceps del brazo.",
+    "Vía intramuscular, en el músculo deltoides."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La estrategia de la Comisión de Salud Pública del Ministerio de Sanidad frente a la infección por VRS en población infantil para la temporada 2024/2025, contempla varias determinaciones. Indique la opción INCORRECTA en relación a dichas determinaciones:",
+   "o": [
+    "La estrategia es la inmunización pasiva con nirsevimad.",
+    "Se recomienda la inmunización de prematuros de menos de 35 semanas antes de cumplir los 12 meses de edad cronológica. 327 ENFERMERÍA PEDIÁTRICA",
+    "Se recomienda la inmunización de todos los nacidos entre el 1 de abril de 2024 y el 31 de marzo de 2025.",
+    "Los nacidos durante la temporada (de octubre a marzo) deberán recibir nirsevimad a partir de la semana de vida."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las recomendaciones de utilización de nirsevimab, frente al virus respiratorio sincitial (VRS), publicado por la Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud del Ministerio de Sanidad en julio de 2023, es correcto:",
+   "o": [
+    "La dosis recomendada es una dosis única de 50 mg para lactantes con peso corporal < 5 kg.",
+    "La dosis recomendada es de dos dosis de 100 mg para lactantes con peso corporal > 5 kg.",
+    "Deberá administrarse por separado y con un plazo superior al menos de 7 días de otras vacunas recomendadas en el calendario vacunal.",
+    "No se incluyen dentro de la población infantil con alto riesgo de enfermedad grave por VRS a los lactantes con trastornos congénitos del metabolismo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA respecto a los soplos inocentes:",
+   "o": [
+    "Tienen una prevalencia de hasta el 50% en niños menores de 14 años.",
+    "Se producen durante la diástole.",
+    "La cianosis nunca debe acompañar un soplo inocente.",
+    "Pueden evaluarse mediante historia clínica y examen físico con auscultación y electrocardiografía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la recomendación correcta en la educación para la salud proporcionada a las familias con hijos que padecen enuresis nocturna o incontinencia nocturna intermitente:",
+   "o": [
+    "Explicar la importancia de una ingesta adecuada de líquidos y aconsejar que se restrinjan. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 332",
+    "Explicar la prevalencia del problema, ya que aproximadamente el 50% de los niños mojan la cama a la edad de 5 años.",
+    "Desaconsejar el uso del pañal si el niño ya ha permanecido seco durante el día por algún tiempo.",
+    "La utilización de la alarma de enuresis proporciona baja tasa de éxito a largo plazo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con la enfermedad de boca-mano-pie:",
+   "o": [
+    "En la mayoría de los casos se trata de una infección por virus coxsackie o un enterovirus.",
+    "Produce lesiones pruriginosas de la piel en extremidades y cavidad oral.",
+    "Puede transmitirse por secreciones respiratorias.",
+    "Comúnmente, se transmite por la vía oralfecal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina a uno de los síndromes de fiebre recurrente más frecuente en la infancia, con intervalos regulares entre los episodios, acompañados de amigdalitis, aftas orales y/o adenopatías?:",
+   "o": [
+    "Síndrome de Schnitzler.",
+    "Síndrome de PFAPA.",
+    "Fiebre mediterránea familiar.",
+    "Síndrome de Rett."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al síndrome de muerte súbita del lactante (SMSL), indique cuál de las siguientes opciones NO CONSTITUYE un factor de riesgo:",
+   "o": [
+    "Hábito tabáquico materno.",
+    "Prematuridad y bajo peso.",
+    "Ser varón.",
+    "Ser mujer."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Pediatría, las recomendaciones sobre el calzado ideal para los niños incluyen:",
+   "o": [
+    "La suela debe ser de adherencia fuerte, para que no se resbale y el niño se sujete al suelo.",
+    "Los zapatos deben ser ligeros, sin necesidad de tener protecciones en la puntera y talón, así el niño se siente mejor.",
+    "La puntera no debe tener refuerzos para evitar la rigidez sobre los dedos.",
+    "La suela debe ser plana (no más de 3mm), no debe ser muy blanda, pero sí muy flexible en la zona de los dedos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes opciones es INCORRECTA en relación con las recomendaciones de actuación ante una avulsión dental susceptible de reimplante en un paciente pediátrico?:",
+   "o": [
+    "Actuar de igual manera si se trata de un diente temporal o permanente.",
+    "Manipular el diente desde la corona evitando tocar la raíz.",
+    "Animar al paciente o acompañante a reimplantar el diente en el lugar del traumatismo.",
+    "Conservar el diente para su transporte en leche, solución salina o saliva."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el protocolo común de actuación sanitaria frente a la violencia en la infancia y la adolescencia, en un caso de maltrato, ¿cuándo lo notificaremos?:",
+   "o": [
+    "En procedimiento ordinario, notificación urgente con Parte al Juzgado de Guardia.",
+    "En procedimiento ordinario sin lesiones, enviar Hoja de detección y Notificación de Maltrato Infantil a la Delegación Territorial con competencia en protección de Menores.",
+    "En los casos de urgencia enviar hoja de detección y notificación de Maltrato Infantil a los Servicios Sociales Comunitarios de la localidad de residencia de la persona menor.",
+    "En los casos en que se presenten criterios de urgencia, la comunicación se hará́ de forma inmediata utilizando la vía telefónica preferentemente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes intervenciones se incluye en el Protocolo Común de Actuación Sanitaria frente a la Violencia en la Infancia y la Adolescencia (2023), para la prevención del maltrato infantil intrafamiliar:",
+   "o": [
+    "Promover visitas domiciliarias desde el nacimiento hasta los primeros seis meses de vida.",
+    "Promover las redes de apoyo.",
+    "Promover los programas de psicoprofilaxis durante los primeros seis años de vida.",
+    "Realizar una valoración del riesgo psicosocial, centrada exclusivamente en las Experiencias Adversas en la Infancia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el “Protocolo básico de intervención del maltrato infantil en el ámbito familiar” del Ministerio de Sanidad, Consumo y Bienestar Social, se acuerda utilizar cuatro tipologías básicas del maltrato con la finalidad de facilitar la notificación y comunicación entre los profesionales y garantizar el tratamiento agrupado de los datos. ¿Cuál de las siguientes opciones NO hace referencia a un tipo de maltrato definido en este protocolo?:",
+   "o": [
+    "Maltrato psicológico.",
+    "Abuso sexual.",
+    "Negligencia",
+    "Maltrato físico."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  }
+ ]
+}

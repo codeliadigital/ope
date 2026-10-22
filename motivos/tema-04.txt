@@ -1,0 +1,90 @@
+1|a|La estratégica fija las grandes directrices a largo plazo, no reparte recursos.
+1|b|La normativa establece normas y valores, no distribuye recursos.
+1|d|La operativa organiza las tareas concretas del día a día.
+2|b|El Programa es el producto de la planificación táctica.
+2|c|El plan operativo anual corresponde a la planificación operativa.
+2|d|El protocolo de unidad es una herramienta operativa.
+3|a|Menos de 1 año es la planificación operativa.
+3|c|4 a 10 años es la planificación estratégica.
+3|d|Más de 10 años no es un horizonte habitual de estas planificaciones.
+4|a|De 0 a 10 se puntúan A (magnitud) y B (severidad).
+4|b|0 o 1 es el valor de D (PERLA).
+4|c|1 a 5 no es la escala de ningún componente de Hanlon.
+5|b|No se resta un punto: D es multiplicador y pasa a valer 0.
+5|c|D solo puede valer 0 o 1, nunca 0,5.
+5|d|Sí afecta: al multiplicar por 0 anula toda la prioridad.
+6|a|Estructura son los recursos (ratios, protocolos), no lo que se hace al paciente.
+6|c|Resultado sería la aparición de UPP, no hacer la escala.
+6|d|Impacto es el efecto a largo plazo en la población.
+7|a|La ratio enfermera/paciente es estructura.
+7|b|Tener un protocolo aprobado es estructura.
+7|c|Valorar el riesgo de caídas es proceso.
+8|a|Diseñarlos al final para ajustarlos a los resultados introduce sesgos.
+8|b|En la evaluación se aplican; se diseñan antes.
+8|d|Se diseñan siempre, no solo si el plan fracasa.
+9|a|El financiero es importante, pero el humano es el más crítico y costoso.
+9|c|El material fungible pesa mucho menos que el personal.
+9|d|La alta tecnología no supera el gasto en personal.
+10|b|El plan individualizado se usa en procesos poco predecibles, no en uno estandarizable.
+10|c|La gestión de casos es para crónicos complejos, no para cirugía programada.
+10|d|El PRN mide cargas de trabajo; no es un instrumento de gestión del proceso clínico.
+11|a|El más grave puede ser una complicación posterior (diagnóstico secundario).
+11|b|El que más recursos consume no tiene por qué ser la causa del ingreso.
+11|c|El primero anotado en urgencias es provisional; cuenta el que se establece tras el estudio.
+12|a|El RD 1030/2006 regula la cartera de servicios comunes del SNS.
+12|b|El RD 1039/2011 regula los tiempos máximos de espera.
+12|d|El RDL 16/2012 reformó el aseguramiento y el copago.
+13|b|Tilquin creó el sistema PRN, no los GRD.
+13|c|Donabedian describió estructura-proceso-resultado.
+13|d|SIGNO es un proyecto español de costes, no el origen de los GRD.
+14|a|1 punto son 5 minutos, no 1 minuto.
+14|c|6 horas serían 72 puntos.
+14|d|12 horas serían 144 puntos.
+15|a|La carga de trabajo total es I + II + III.
+15|b|El mantenimiento de la unidad es el Módulo III.
+15|c|El coste por GFH es de SIGNO, no del PRN.
+16|a|Los patrones de Gordon no son la base del SIIPS.
+16|b|Los GRD clasifican pacientes; no son la base del SIIPS.
+16|d|La NIC no es la base del SIIPS.
+17|b|El coste por paciente y proceso es de SIGNO II.
+17|c|Las Normas de Enfermería son del proyecto NIPE.
+17|d|El punto PRN es de otro sistema.
+18|a|No pretendía sustituir los GRD sino integrarse en ellos.
+18|c|Medir tiempos en minutos es propio del PRN.
+18|d|El coste por servicio es de SIGNO I.
+19|a|En la básica está el transporte urgente, no el programado.
+19|b|Los servicios accesorios son otra cartera (no esenciales).
+19|c|No es una cartera complementaria autonómica.
+20|a|Para Herzberg el salario no motiva a largo plazo.
+20|b|El logro es un factor motivador, no el salario.
+20|d|La autorrealización es de Maslow, no un factor de Herzberg.
+21|b|Dirigir es para M1 (no sabe y no quiere).
+21|c|Participar es para M3 (sabe pero le falta motivación o confianza).
+21|d|Delegar es para M4 (sabe y quiere).
+22|a|El laissez-faire no da instrucciones: inviable en una parada.
+22|c|El democrático consulta al equipo y es lento en una emergencia.
+22|d|El participativo comparte las decisiones, lo que no procede en una parada.
+23|a|La Teoría Y es la visión positiva: el trabajador se autodirige.
+23|b|El transformacional inspira y motiva, no controla rígidamente.
+23|c|La afiliación de McClelland es una necesidad de relaciones, no un estilo de control.
+24|a|El personal estatutario está dentro del régimen general del SNS.
+24|b|Los extranjeros residentes están incluidos en el SNS.
+24|d|Los pensionistas están incluidos en el SNS.
+25|b|Sí hace falta el acuerdo del CISNS, y se hace por Orden, no por Real Decreto.
+25|c|No hace falta una ley de las Cortes.
+25|d|Las Comunidades pueden ampliar la cartera, pero la común la actualiza el Ministerio.
+26|a|Las cataratas sí están entre las 5 cirugías garantizadas.
+26|c|La prótesis de rodilla sí está incluida.
+26|d|La cirugía cardiaca valvular sí está incluida.
+27|a|Son 180 días y naturales.
+27|b|150 días es la garantía de Murcia, no la del RD estatal.
+27|c|Son días naturales, no hábiles.
+28|a|El Fondo de Cohesión se reserva para la alta complejidad (CSUR, trasplantes).
+28|b|El Fondo Social Europeo no financia la asistencia sanitaria.
+28|d|El CISNS no tiene un presupuesto para esto.
+29|b|El SMS emite la tarjeta física, no el código CIP-SNS.
+29|c|El INE no genera identificadores sanitarios.
+29|d|La Tesorería gestiona la afiliación, no el código sanitario.
+30|a|10% con tope es la aportación de algunos pensionistas del régimen general.
+30|c|El 40% es para activos con rentas intermedias, sin tope; no es la de los mutualistas.
+30|d|Los mutualistas no están exentos.

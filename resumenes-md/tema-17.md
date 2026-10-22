@@ -9,7 +9,7 @@ sub: Resumen OPE Enfermería SMS · Inmunidad activa y pasiva, vacunas vivas e i
 
 - **Control** (incidencia baja y aceptable), **eliminación** (incidencia cero en una zona, el agente persiste: hay que seguir vacunando; sarampión, polio en Europa) y **erradicación** (desaparición mundial del agente: solo la **viruela**, 1980).
 - **Inmunidad activa**: natural (infección) o **artificial (vacuna)**; tiene **latencia** pero genera **memoria** (respuesta primaria IgM → IgG; secundaria rápida con IgG).
-- **Inmunidad pasiva**: natural (IgG transplacentaria, IgA de la leche) o artificial (**inmunoglobulinas, anticuerpos monoclonales**); protección **inmediata pero transitoria, sin memoria**. Ej.: **nirsevimab** frente al **VRS** en lactantes = inmunización **pasiva**, no una vacuna.
+- **Inmunidad pasiva**: natural (IgG transplacentaria, IgA de la leche) o artificial (**inmunoglobulinas, anticuerpos monoclonales**); protección **inmediata pero transitoria, sin memoria**. Ej.: **nirsevimab** frente al **VRS** en lactantes = inmunización ==**pasiva**==, no una vacuna.
 - **Inmunidad de grupo**: protege a los no vacunados; el umbral depende del R0 (sarampión: coberturas > 95%).
 
 ## 2. Tipos de vacunas
@@ -85,7 +85,7 @@ sub: Resumen OPE Enfermería SMS · Inmunidad activa y pasiva, vacunas vivas e i
 | < 3 dosis o desconocido | **Vacuna** (sin IGT) | **Vacuna + IGT 250 UI** en lugares distintos |
 | ≥ 3 dosis | Vacuna si **> 10 años** de la última | Vacuna si **> 5 años** de la última |
 
-!! Nirsevimab = **pasiva**; las vacunas vivas se contraindican en **embarazo e inmunodepresión**.
+!! ==Nirsevimab = **pasiva**; las vacunas vivas se contraindican en **embarazo e inmunodepresión**.==
 !! Fiebre a las 12 horas de una triple vírica **no** es por la vacuna (aparece del día 5 al 12).
 !! Encefalopatía a los **12 días** de la hexavalente **no** es contraindicación permanente (el plazo es de 7 días).
 !! Catarro con 37,5 °C y amoxicilina: **se vacuna**.

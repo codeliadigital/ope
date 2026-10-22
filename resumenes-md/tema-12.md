@@ -134,7 +134,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Hospitalización a domicilio, segu
 - **AEPD**: inspecciona y sanciona en protección de datos. **D. A. 17.ª de la LOPDGDD**: permite usar datos de salud en investigación **sin nuevo consentimiento** con **seudonimización o anonimización**, sin posibilidad de reidentificación y con **separación de roles** (quien investiga no debe atender al paciente).
 - **Informe final IMRyD**: **Introducción** (en embudo, hasta la laguna de conocimiento y los objetivos), **Métodos** (diseño, muestreo, criterios, CEIm), **Resultados** (IC 95%, p, I²) y **Discusión** (comparación, limitaciones y conclusiones prudentes).
 
-!! Temperatura en °C = escala de **intervalo**, no de razón.
+!! ==Temperatura en °C = escala de **intervalo**, no de razón.==
 !! Elegir a los 20 primeros que llegan a urgencias = muestreo **por conveniencia**.
 !! I² del 75% → **efectos aleatorios**.
 !! El consentimiento en investigación biomédica (Ley 14/2007) es **siempre escrito**.

@@ -1,0 +1,138 @@
+{
+ "tema": 2,
+ "preguntas": [
+  {
+   "q": "Según el Real Decreto que aprueba el conjunto mínimo de datos de los informes clínicos en el Sistema Nacional de Salud, ¿cuáles de los siguientes documentos clínicos forman parte del Conjunto Mínimo de Datos de los Informes Clínicos (CMDIC)?:",
+   "o": [
+    "Informe clínico al alta, informe de laboratorio y registros de farmacia Hospitalaria.",
+    "Informe clínico de consultas externas, informes del gasto por la atención y protocolos internos.",
+    "Informe clínico de atención primaria, informes de investigación médica y copias de las citas.",
+    "Resumen de historia clínica, informe clínico de urgencias e informe de cuidados de enfermería."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de los estándares indicados por la última Guía de Unidades de Cuidados Intensivos (2010), del Ministerio de Sanidad, en el cálculo de las ratios de personal de enfermería se recomienda considerar:",
+   "o": [
+    "Utilizar la metodología TISS (Simplified Therapeutic Intervention Score System), por la que los pacientes de la clase IV requerirán una relación 1:1.",
+    "Utilizar la metodología TISS, por la que los pacientes de clase III relativamente estables pueden ser agrupados con dos de clase II, por ser de bajo riesgo, y pueden ser tratados por una sola enfermera.",
+    "Para una UCI de nivel III se requeriría una auxiliar de enfermería por cada 8 pacientes en turno de día, y 12 en turno de noche.",
+    "La dimensión de la plantilla no se debe ajustar por nivel de dependencia de los pacientes, sino solamente en base al criterio diagnóstico. 35 ADMINISTRACIÓN SANITARIA"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las directrices del Consejo Internacional de Enfermería (CIE), ¿qué caracteriza a una enfermera de práctica avanzada (EPA)?:",
+   "o": [
+    "1Es la enfermera que trabaja en investigación fuera del entorno clínico.",
+    "Es la enfermera gestora que da apoyo educativo y conocimiento más avanzado.",
+    "Es la enfermera que tiene autonomía para la indicación, uso y administración de productos sanitarios. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 36",
+    "Es la enfermera especialista o generalista con formación de grado superior, una base de conocimientos experta, habilidades para la toma de decisiones complejas y competencias clínicas ampliadas según el contexto en el que ejerce."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según Mintzberg, ¿cuál de los siguientes es uno de los 5 mecanismos de control que parecen explicar las formas fundamentales en que las organizaciones coordinan su trabajo?:",
+   "o": [
+    "Trabajo en equipo.",
+    "Evaluación.",
+    "Supervisión indirecta.",
+    "Adaptación mutua."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal diferencia entre los PREMs (Patient Reported Experience Measures) y los PROMs (Patient Reported Outcome Measures) en la evaluación de los servicios de salud?:",
+   "o": [
+    "Los PREMs se centran en los resultados clínicos mientras que los PROMs en la satisfacción con el entorno hospitalario.",
+    "Los PREMs evalúan la experiencia del paciente con el servicio de salud, mientras que los PROMs evalúan el impacto del tratamiento en la salud del paciente.",
+    "Los PREMs miden los resultados a largo plazo, mientras que los PROMs se centran en evaluaciones inmediatas.",
+    "Los PREMs son utilizados exclusivamente en pacientes crónicos, mientras que los PROMs en pacientes agudos. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 40"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando en un documento de gestión de la calidad nos encontramos con este dato: entre un 85 % y un 90 % de los usuarios serán atendidos antes de 10 minutos desde su llegada. Se reﬁere a:",
+   "o": [
+    "Un indicador.",
+    "Un estándar.",
+    "Un criterio.",
+    "Un objetivo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las \"ICN Core Competencies in Disaster Nursing\" (International Council of Nurses), ¿cuál de los siguientes conjuntos de estrategias formativas y de gestión es la medida más efectiva que puede implementar el liderazgo de enfermería para fomentar la resiliencia psicológica y operativa del personal asistencial durante y después de la respuesta a un evento crítico o desastre?:",
+   "o": [
+    "Concentrar la capacitación únicamente en los aspectos técnicos y asistenciales (ej. Manejo de múltiples víctimas), delegando el soporte emocional a personal externo especializado.",
+    "Proveer programas de entrenamiento que incluyan la gestión emocional, el autocuidado planificado, la promoción de la comunicación abierta y la facilitación de sesiones de debriefing o apoyo mutuo entre compañeros.",
+    "Ignorar la posibilidad de burnout y estrés postraumático, confiando en la experiencia individual del profesional y desaconsejando el diálogo sobre las experiencias traumáticas.",
+    "Establecer un sistema de turnos de trabajo prolongados para asegurar la continuidad asistencial, minimizando los tiempos de descanso las pausas para la alimentación y el descanso."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta con relación al Plan de Acción de Atención Primaria y Comunitaria 2022-2023, del Ministerio de Sanidad:",
+   "o": [
+    "Se divide en 5 líneas estratégicas.",
+    "Cada línea estratégica conlleva una serie de objetivos y acciones concretas para su desarrollo, contando con 23 objetivos y 100 acciones en total.",
+    "Entre las líneas estratégicas se encuentran la de impulsar la formación y la investigación de Atención Primaria y potenciar el uso de las tecnologías de la información y la comunicación.",
+    "El Marco Estratégico, dentro de la macrogestión, contempla cambios en el modelo retributivo, donde juega un papel principal el abordaje de los determinantes sociales de la salud."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del Plan de Recuperación, Transformación y Resiliencia, en su componente 22: “Plan de choque para la economía de los Cuidados y refuerzo de las políticas de igualdad e inclusión”, ¿qué modelo se considera más adecuado para la provisión de cuidados de larga duración en las personas dependientes?:",
+   "o": [
+    "Modelo de Atención Centrada en la Persona.",
+    "Modelo de Cuidado Integral de la Salud.",
+    "Modelo de Sistemas de Neuman.",
+    "Modelo Bismarck."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la gestión de la cronicidad en la pirámide de KAISER, señale la respuesta INCORRECTA: 689 ENFERMERÍA COMUNITARIA",
+   "o": [
+    "Es un modelo de estratificación del riesgo.",
+    "Se basa en el análisis y estratificación de la población según la complejidad y las necesidades de atención.",
+    "Clasifica a pacientes en cinco categorías, dependiendo de su nivel de complejidad.",
+    "Permite utilizar mejor los recursos humanos, concentrándolos sobre los grupos más complejos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la frecuentación de las consultas en Atención Primaria, señale la respuesta INCORRECTA:",
+   "o": [
+    "El principal factor que influye en la frecuentación de las consultas es la morbilidad del paciente.",
+    "La frecuentación se calcula dividiendo todas las visitas realizadas en un año en un centro de salud entre todas las personas atendidas. Modelo de Kaiser Permanente PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 690",
+    "La frecuentación es el número de veces que cada persona acude para recibir atención a demanda en un centro de salud en un año.",
+    "Las particularidades de los profesionales influyen en la frecuentación de las consultas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al modelo de estratificación de riesgos de Kaiser Permanente, señale la respuesta INCORRECTA:",
+   "o": [
+    "Se basa en el análisis y estratificación de la población según la complejidad y las necesidades de atención.",
+    "Identifica cinco niveles de intervención según el grado de complejidad del caso.",
+    "Organiza a los pacientes según su riesgo, lo que permite utilizar mejor los recursos humanos, concentrándolos sobre los grupos más complejos.",
+    "En el nivel 1 de la pirámide de riesgo se encuentran los pacientes enfermos crónicos con buen control de su enfermedad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

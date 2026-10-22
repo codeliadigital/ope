@@ -1,0 +1,538 @@
+{
+ "tema": 50,
+ "preguntas": [
+  {
+   "q": "Desde el punto de vista de la infección postoperatoria en las heridas quirúrgicas, ¿cómo clasificaría a una biopsia mamaria?:",
+   "o": [
+    "Potencialmente contaminada.",
+    "Contaminada.",
+    "Limpia.",
+    "Sucia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Manual de Procedimientos de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), ¿cuál de las siguientes es una recomendación específica para el cese alcohólico previo a la cirugía torácica?:",
+   "o": [
+    "Se recomienda una abstinencia previa de dos a cuatro semanas para mejorar la respuesta del sistema inmunitario.",
+    "Se recomienda una abstinencia previa de uno a tres meses para mejorar el tiempo de sangrado.",
+    "Se recomienda una abstinencia previa de cinco a siete días para mejorar la respuesta del sistema neuroendocrino ante la cirugía.",
+    "No existen recomendaciones sobre el tiempo de abstinencia previo a la cirugía."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué periodo de ayuno preoperatorio máximo se recomienda en el protocolo Infección Quirúrgica Zero (IQZ)?:",
+   "o": [
+    "4 horas para líquidos y 12 horas para alimentos sólidos.",
+    "2 horas para líquidos y 12 horas para alimentos sólidos.",
+    "2 horas para líquidos claros y 6 horas para alimentos sólidos.",
+    "6 horas para cualquier tipo de alimentos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué periodo de ayuno desde la última toma debemos considerar para un lactante con lactancia materna exclusiva que va a ser sometido a una prueba diagnóstica bajo sedación?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 398",
+   "o": [
+    "Dos horas de ayuno desde la última toma.",
+    "De tres a cuatro horas de ayuno.",
+    "Seis horas de ayuno.",
+    "No es necesario cumplir ayuno para pacientes con lactancia materna exclusiva."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Una paciente de 27 años, embarazada de 11 semanas y sin otras patologías, que llega a quirófano para intervención quirúrgica por fractura de Colles mientras hacía deporte, estará incluida en la categoría de estado físico ASA (Sociedad Americana de Anestesia):",
+   "o": [
+    "Clase I.",
+    "Clase II.",
+    "Clase IV.",
+    "Clase V."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes personajes fue el primero en usar el éter para anestesiar a la mujer en proceso de parto?:",
+   "o": [
+    "James Young Simpson.",
+    "Curtis Mendelson.",
+    "Ignaz Semmelweis.",
+    "Virginia Apgar."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la respuesta INCORRECTA respecto al ayuno preoperatorio en cirugía electiva de adultos?: 399 PACIENTE QUIRÚRGICO",
+   "o": [
+    "Los líquidos claros pueden ser ingeridos hasta 2 horas antes de la intervención.",
+    "La ingesta de una comida ligera puede realizarse 6 horas antes, y si lleva fritos, grasa o carne, hasta un mínimo de 8 horas.",
+    "La leche no materna se considera un líquido claro.",
+    "Existe controversia entre el tiempo de ayuno de chicles y caramelos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se deberá tener en cuenta a la hora de realizar la valoración de enfermería prequirúrgica de un paciente que será sometido a intervención en la zona perineal?:",
+   "o": [
+    "Si fuera necesario, eliminará el vello de la zona a intervenir con cuchilla de afeitar.",
+    "Si fuera preciso eliminar el vello de la zona a intervenir, utilizará depilación química.",
+    "En caso necesario, eliminará el vello de la zona a intervenir con tijeras.",
+    "Eliminará el vello de la zona a intervenir preferentemente con cera."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La clasificación ASA (American Society of Anesthesiology), se utiliza para estimar el riesgo que plantea la anestesia para los diferentes estados del paciente. Según esta clasificación, un paciente tendrá Clase II cuando:",
+   "o": [
+    "Presenta enfermedad sistémica leve.",
+    "Presenta enfermedad sistémica grave.",
+    "Presenta enfermedad sistémica grave que supone una amenaza constante para la vida.",
+    "Presenta enfermedad terminal y del que no se espera que sobreviva sin cirugía."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Proyecto Cirugía Segura, ¿cuál de las siguientes funciones corresponde al personal de enfermería en la implementación de prácticas seguras dentro del bloque quirúrgico?:",
+   "o": [
+    "Supervisar el cumplimiento de las medidas de seguridad quirúrgica y promover la aplicación de la lista de verificación de forma exclusiva entre el personal de enfermería.",
+    "Limitarse al cumplimiento de las indicaciones aprobadas por el personal médico que motiven su participación en la verificación del procedimiento.",
+    "La enfermera instrumentista deberá confirmar verbalmente el indicador de esterilización, que verifica que el instrumental ha sido esterilizado satisfactoriamente.",
+    "No se contempla la participación en los procesos de auditoría del programa."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Tomando en consideración lo recogido en la última guía de práctica clínica para manejo sanguíneo en cirugía cardiovascular elaborada por las sociedades europeas de cirugía, anestesia y perfusión (EACTS/EACTA/EBCP Patient Blood Management Guideline 2024), en el manejo de sangrado intraoperatorio tras completar la corrección quirúrgica, deberá de tomarse como prioridad:",
+   "o": [
+    "Realización de una escrupulosa hemostasia quirúrgica, y después emplear estrategias farmacológicas coadyuvantes, pudiendo emplear test viscoelásticos.",
+    "Administración de antifibrinolíticos, al completar el destete de la circulación extracorpórea, para que sea posible contener el sangrado.",
+    "Administración de protamina hasta conseguir interrumpir el sangrado, dado que es el antídoto de la heparina, y si existe un sangrado activo, esto se debe al efecto residual de la heparina circulante.",
+    "La transfusión de plasma y factores de la coagulación para favorecer un medio proclive a la coagulación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante la programación de una colecistectomía laparoscópica, el equipo quirúrgico aplica la lista de verificación de seguridad de la Organización Mundial de la Salud (OMS). El anestesiólogo revisa con la enfermera circulante la identificación del paciente, el procedimiento y el sitio quirúrgico. Posteriormente, el cirujano marca con un rotulador el área de incisión. ¿Cuál es el objetivo principal de este procedimiento según las recomendaciones del Ministerio de Sanidad?:",
+   "o": [
+    "Reducir la probabilidad de infecciones de localización quirúrgica al delimitar con precisión el campo operatorio.",
+    "Disminuir el riesgo de eventos centinela relacionados con paciente equivocado, procedimiento incorrecto o localización errónea.",
+    "Facilitar el registro de la trazabilidad quirúrgica en la historia clínica electrónica y en la hoja de ruta quirúrgica.",
+    "Facilitar la coordinación entre los distintos profesionales del Bloque Quirúrgico mediante la unificación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la zonificación del Bloque Quirúrgico, ¿cuál es la opción correcta según las recomendaciones del Ministerio de Sanidad?:",
+   "o": [
+    "El principal determinante de la carga bacteriana es el sistema de ventilación no el movimiento de personal.",
+    "La ventilación laminar es esencial para disminuir el riesgo de infección nosocomial.",
+    "La segregación de pasillos múltiples garantiza una reducción significativa de las infecciones quirúrgicas.",
+    "Los quirófanos deben mantenerse en presión positiva respecto a pasillos y áreas adyacentes."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante una intervención quirúrgica programada de reemplazo valvular mitral, el equipo de enfermería detecta que uno de los contenedores rígidos de instrumental presenta un cambio anómalo en el indicador químico externo. Tras revisar la trazabilidad, se comprueba que el registro del ciclo de esterilización muestra una presión adecuada pero una temperatura final inferior a la programada, y que el indicador biológico del lote aún no ha sido procesado. Según las recomendaciones del Ministerio de Sanidad y la OMS sobre seguridad del paciente y control del material estéril, ¿cuál de las siguientes actuaciones sería la más correcta?:",
+   "o": [
+    "Retirar el material del campo quirúrgico, anular el lote completo, no utilizarlo hasta confirmar el resultado del indicador biológico, y registrar el incidente en el sistema de calidad.",
+    "Utilizar el material tras verificar que el ciclo se completó y notificar el incidente para su análisis posterior.",
+    "Permitir el uso del material, ya que el indicador externo no es determinante y la presión registrada asegura la esterilidad.",
+    "Utilizar el material y, si se produce infección postoperatoria, notificarlo como evento adverso al servicio de Medicina Preventiva."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente de 72 años, anticoagulado con acenocumarol por fibrilación auricular, es programado para cirugía de hernia inguinal electiva. Durante la verificación preoperatoria, la enfermera detecta que no hay registro en la historia clínica sobre la suspensión o ajuste del tratamiento anticoagulante, y que no se ha solicitado INR reciente. Según las recomendaciones del Ministerio de Sanidad (Bloque Quirúrgico, 2009) y las guías de la OMS (2009) sobre seguridad del paciente quirúrgico, ¿cuál sería la actuación correcta?:",
+   "o": [
+    "Proceder con la cirugía si el paciente no presenta signos de sangrado y la hemostasia intraoperatoria es cuidadosa.",
+    "Posponer la intervención hasta verificar el INR, revisar el protocolo de manejo perioperatorio de anticoagulantes, y reprogramar la cirugía si no se garantiza seguridad hemostática.",
+    "Permitir la intervención y registrar el incidente como “riesgo asumido” en el parte quirúrgico.",
+    "Realizar la intervención, pero mantener plasma fresco y hemoderivados disponibles para transfusión en caso de sangrado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante la preparación del campo operatorio, una enf rmera aplica clorhexidina alcohólica al 2% y, tras 30 segundos, el cirujano inicia la incisión. Posteriormente se detecta combustión superficial en la piel por ignición del electrobisturí. Según las recomendaciones del Ministerio de Sanidad y la OMS, ¿qué error contribuyó al evento?:",
+   "o": [
+    "No utilizar povidona yodada.",
+    "Usar un campo quirúrgico textil en vez de desechable.",
+    "No respetar el tiempo mínimo de secado del antiséptico antes de la incisión.",
+    "No considerar el empleo de glutaraldehído como desinfectante de la piel. PREGUNTA 190"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del proceso asistencial descrito en la Vía Clínica de Recuperación intensificada de Cirugía del Adulto (2020), ¿qué actividad se considera desactualizada durante el preoperatorio?:",
+   "o": [
+    "Ayuno antes de la inducción anestésica: 8 horas sólido y 4 horas líquido claro. 405 PACIENTE QUIRÚRGICO",
+    "Suplemento de bebida carbohidratada 2 horas antes de la intervención.",
+    "Administración de 1 dosis de glucocorticoides.",
+    "Evitar, en la medida de lo posible, la eliminación de vello."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. ¿Cuál de las siguientes imágenes corresponde con un montaje correcto de la sutura en el portaagujas?:",
+   "o": [
+    "Figura 1.",
+    "Figura 2.",
+    "Figura 3.",
+    "Figura 4."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2023-2024-2.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 11. El símbolo que aparece en esta imagen hace referencia a:",
+   "o": [
+    "La forma de la punta de la aguja.",
+    "La forma del cuerpo de la aguja.",
+    "La forma del ensamble de la aguja con el hilo.",
+    "La forma del hilo de sutura."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2023-2024-11.jpg"
+  },
+  {
+   "q": "Con respecto al uso del parche hemático epidural (PSE), indique la respuesta correcta:",
+   "o": [
+    "Se emplea para el tratamiento de la cefalea postpunción de menos de 24 horas de duración, que no mejora con medicación, e impide una actividad normal.",
+    "No precisa de una técnica estéril.",
+    "Consiste en extraer sangre del paciente y se inyecta como máximo 5 ml en el espacio epidural.",
+    "Una de las contraindicaciones para su realización es la sepsis."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la posición correcta en la colocación de un paciente en relación con la intervención quirúrgica indicada:",
+   "o": [
+    "Posición de laminectomía en artrodesis lumbar.",
+    "Posición quirúrgica de Morestin para cirugías ginecológicas uterinas.",
+    "Posición en decúbito supino con hiperflexión de cuello y rodete bajo hombros en craneotomía.",
+    "Posición en decúbito supino en mesa de tracción para colocar cirugía de prótesis total de cadera."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 10. ¿Cuál de las siguientes opciones es correcta en relación con el lavado quirúrgico de manos?:",
+   "o": [
+    "Fotografía 1.",
+    "Fotografía 2.",
+    "Fotografía 3.",
+    "Fotografía 4."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2022-2023-10.jpg"
+  },
+  {
+   "q": "Identifique los gases contenidos en las diferentes botellas:",
+   "o": [
+    "1: oxígeno; 2: argón; 3: helio.",
+    "1: aire medicinal; 2: dióxido de carbono; 3: helio.",
+    "1: óxido nitroso; 2: helio; 3: aire medicinal.",
+    "1: oxígeno; 2: aire medicinal; 3: óxido nitroso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Son medidas adecuadas para el control de la infección en el área quirúrgica:",
+   "o": [
+    "Las puertas del quirófano han de ser correderas.",
+    "Se debe mantener la temperatura ambiental entre 21 y 24º C, con una humedad inferior al 75-80%.",
+    "Las intervenciones “sucias” se realizarán preferentemente al principio de la jornada para eliminar todo el material utilizado.",
+    "Los residuos sanitarios tipo I (residuos municipales) pero que procedan del interior del quirófano, se tratarán sistemáticamente como si estuviesen contaminados (tipo II)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta la “Richmond Agitation Sedation Scale” (RASS), una persona a la que podemos despertar con la voz pero que mantiene abiertos los ojos menos de 10 segundos, tendrá una puntuación de:",
+   "o": [
+    "+2.",
+    "+1.",
+    "-1.",
+    "-2."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. Indique la respuesta correcta:",
+   "o": [
+    "El montaje de la hoja del bisturí frío se hará con los dedos índice y pulgar sujetando el mango metálico firmemente con la otra mano.",
+    "No existe riesgo para la esterilidad si se moja el cobertor de la mesa de instrumental quirúrgico, puesto que es impermeable.",
+    "El instrumental suele colocarse de izquierda a derecha por orden de actuación en la cirugía.",
+    "Los instrumentos pueden colocarse en el borde o sobresalir de la mesa de instrumentación de la cirugía sin afectar a la esterilidad."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2021-2022-4.jpg"
+  },
+  {
+   "q": "En relación con las suturas señale la respuesta INCORRECTA:",
+   "o": [
+    "El Cagut es una sutura natural de procedencia bovina u ovina.",
+    "Memoria, flexibilidad, fuerza prensil son algunas de sus propiedades.",
+    "El material de sutura puede ser reabsorbible, irreabsorbible, natural y sintético.",
+    "Una sutura del calibre de 4-0 es más fina que una 2-0."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la monitorización del bloqueo neuromuscular mediante el “tren de cuatro” (TOF), indique la opción correcta:",
+   "o": [
+    "La valoración de la respuesta se realiza de forma visual o táctil.",
+    "Deben producir un estímulo de al menos 90 mA.",
+    "En caso de utilizar un fármaco no despolarizante, las 4 respuestas son idénticas.",
+    "Un neuroestimulador es un dispositivo con 3 electrodos (2 positivos y uno negativo), que se disponen a lo largo del nervio cubital intercalados."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la hipertermia maligna anestésica, señale la respuesta INCORRECTA:",
+   "o": [
+    "Es una respuesta anormal a agentes anestésicos halogenados y/o relajantes neuromusculares despolarizantes (suxametonio).",
+    "Se trata de una anomalía genética no hereditaria que afecta a músculo estriado (determinadas miopatías).",
+    "Entre sus signos y síntomas se encuentran el aumento de CO2 espirado, taquicardia sinusal, hipertermia, rigidez muscular general y acidosis respiratoria.",
+    "Para revertir los síntomas se usa el Dantroleno sódico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el recuento de material quirúrgico, señale la respuesta INCORRECTA:",
+   "o": [
+    "En caso de recuento incorrecto, como primera opción se realizará una radiografía del área de la cirugía.",
+    "Si se realiza un taponamiento por sangrado, se hará con compresas con contraste, anotando el número de compresas que quedan dentro del paciente para que en una posterior reintervención no existan errores.",
+    "No se deben cortar las gasas y compresas con contraste ni retirar el hilo radiológico de las mismas. 415 PACIENTE QUIRÚRGICO",
+    "En el recuento se incluyen: gasas, compresas, paños de tela, torundas, lentinas, instrumental, instrumentos corto-punzantes y todo aquello que pueda quedarse olvidado en una cavidad del paciente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las estructuras fundamentales a proteger en cirugías de tiroides y paratiroides para evitar complicaciones respiratorias es:",
+   "o": [
+    "Nervios laríngeos recurrentes.",
+    "Cartílago cricoides.",
+    "Ligamento tirohiohideo.",
+    "Músculo cricotiroideo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes respuestas indique la opción INCORRECTA en referencia al sistema de verificación quirúrgica en el bloque quirúrgico:",
+   "o": [
+    "Se realiza en voz alta antes de la inducción anestésica, previo a la incisión quirúrgica y antes de salir el paciente de quirófano.",
+    "Antes de la incisión quirúrgica uno de los ítems que se comprueba es la administración de la profilaxis antibiótica pautada.",
+    "Se debe realizar en presencia de anestesista y enfermera.",
+    "Su uso mejora la seguridad del paciente, y a nivel profesional, mejora las relaciones y la comunicación de los equipos de trabajo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuándo se debe administrar la profilaxis antibiótica al paciente que se va someter a una cirugía?: 417 PACIENTE QUIRÚRGICO Grupo terapéutico Ejemplo Color Pantone Benzodiazepinas Diazepam, Midazolam Naranja 151 Antagonistas de las benzodiazepinas Flumazenilo Naranja 151, con barras blancas diagonales Inductores anestésicos Tiopental, Propofol, Ketamina Amarillo Relajantes neuromusculares no despolarizantes Vecuronio, Atracurio Rojo 811 Antagonistas de relajantes neuromusculares no desporalizantes Neostigmina, Sugammadex Rojo 811, con barras diagonales blancas Relajantes neuromusculares despolarizantes Succinilcolina Parte superior: nombre en rojo 811, sobre fondo negro Resto: rojo 811 Opioides Morfina, Fentanilo Azul 297 Antagonistas de opioides Naloxona Azul 297, con barras diagonales blancas Anestésicos locales Lidocaína, Bupivacaina Gris 401 Antieméticos Droperidol, Ondansetron, Dexametasona Salmón 156 Anticolinérgicos Atropina Verde 367 Neurolépticos Haloperidol, Clorpromazina Salmón 156 Vasopresores (excepto adrenalina) Efedrina Violeta 256 Adrenalina Adrenalina Parte superior: nombre violeta 256, sobre fondo negro Resto: violeta 256 Hipotensores Nitroglicerina, Urapidilo, Hidralazina Violeta 256, con barras diagonales blancas Miscelánea Oxitocina, antibióticos, heparina... Blanco PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 418",
+   "o": [
+    "Entre dos y cuatro horas antes de la intervención.",
+    "El día anterior a la intervención quirúrgica.",
+    "Al final de la operación en el postoperatorio inmediato.",
+    "Entre el tiempo inmediato anterior al procedimiento quirúrgico y durante este."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Debemos realizar un traslado interhospitalario de un paciente politraumatizado, para ello nos indican que debe ir en valores de hipnosis profunda monitorizado mediante índice bispectral (BIS®). ¿Qué valor buscaremos en el paciente?:",
+   "o": [
+    "10.",
+    "40.",
+    "70.",
+    "90."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "M.J.T., (mujer) ingresa para intervención de tiroidectomía programada. Durante el preoperatorio se muestra nerviosa ante la posibilidad de tener dolor en la zona de la incisión después de la intervención. Entre los diferentes consejos que le daremos ¿Cuál de estos se encontrará?:",
+   "o": [
+    "Elevar los codos y sujetar las manos detrás del cuello para disminuir la tensión de los músculos y de la incisión quirúrgica.",
+    "Elevar los codos y sujetar las manos delante del cuello para disminuir la tensión de los músculos y de la incisión quirúrgica.",
+    "Elevar los codos y sujetar las manos a ambos lados del cuello para disminuir la tensión.",
+    "Elevar los codos y sujetar las manos enfrentadas entre sí, realizando una fuerza moderada entre ellas, para disminuir la tensión de los músculos y de la incisión quirúrgica. 421 PACIENTE QUIRÚRGICO"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "A los antisépticos destinados a ser aplicados en la piel, con la finalidad de limpieza higiénica y desinfección del área previa a un tratamiento quirúrgico o los utilizados en la zona de inyección:",
+   "o": [
+    "Se les atribuye la condición de productos intermedios.",
+    "Se les atribuye la condición de medicamento de uso humano.",
+    "Se les atribuye la condición de productos biocidas.",
+    "Se les atribuye la condición de productos sanitarios."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes indicaciones ha de tenerse en cuenta a la hora de utilizar clorhexidina alcohólica en una intervención quirúrgica:",
+   "o": [
+    "Es una medida opcional dentro del protocolo Infección Quirúrgica Zero.",
+    "Ha de revisarse el posible derrame de la clorhexidina alcohólica por debajo de la sábana del paciente ante el riesgo de inflamación.",
+    "Ha de esperarse al menos 5 minutos para su completo secado.",
+    "Ha de utilizarse una concentración del 5 %."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA acerca de la esterilización de material quirúrgico:",
+   "o": [
+    "El calor seco, vapor de agua, gas de óxido de etileno y el peróxido de hidrógeno, son algunos métodos de esterilización.",
+    "Se define la vida de anaquel al tiempo que un paquete estéril envuelto permanece estéril cuando se le almacena.",
+    "El peróxido de hidrógeno o plasma gas es inflamable y altamente tóxico.",
+    "Todo material se someterá siempre a un ciclo de lavado y desinfección previo a ser esterilizado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta el protocolo \"Infección Quirúrgica Zero\", ¿cuál de las siguientes prácticas tiene mayor impacto en la reducción de las infecciones del sitio quirúrgico durante el periodo intraoperatorio?:",
+   "o": [
+    "Aplicar profilaxis antibiótica sistémica hasta 48 horas después de la cirugía para prevenir infecciones.",
+    "Control estricto de la temperatura corporal para evitar la hipotermia intraoperatoria.",
+    "Realizar la antisepsia del campo quirúrgico con povidona yodada en dos fases.",
+    "Uso de apósitos impregnados con antibióticos sobre la incisión quirúrgica al finalizar la cirugía."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes recomendaciones se encuentra incluida en el protocolo Resistencia Zero:",
+   "o": [
+    "Se recomienda realizar una búsqueda activa de la presencia de bacterias multirresistentes en todos los pacientes desde el momento de ingreso en UCI y por lo menos una vez a la semana durante todo su ingreso.",
+    "Ante un paciente con sospecha de colonización por una bacteria multirresistente, se recomienda realizar una vez por semana higiene con productos que contengan clorhexidina.",
+    "Se administrarán antibióticos durante las 24 horas siguientes a la intubación de pacientes con disminución del nivel de consciencia previo a la intubación.",
+    "Insertar los catéteres urinarios sólo cuando sea necesario para el cuidado del paciente y dejarlos colocados mientras permanezcan las indicaciones."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes medidas es opcional dentro del protocolo Infección Quirúrgica Zero:",
+   "o": [
+    "Adecuación de profilaxis antibiótica.",
+    "Pincelado con clorhexidina alcohólica al 2 %.",
+    "Eliminación correcta del vello.",
+    "Mantenimiento de la normotermia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las medidas básicas de obligado cumplimiento del Protocolo Neumonía Zero, ¿cuál de las siguientes afirmaciones es cierta?:",
+   "o": [
+    "Cambio de tubuladuras del respirador semanalmente.",
+    "Higiene bucal utilizando clorhexidina (0,12 % - 0,2 %).",
+    "Higiene estricta de las manos con productos de base no alcohólica después de manipular la vía aérea.",
+    "Control y mantenimiento de la presión del neumotaponamiento por encima de 40 cm H2O."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los llamados ‘cinco momentos’ para el lavado de manos en el contexto hospitalario son:",
+   "o": [
+    "Antes de comenzar el turno de trabajo, antes de realizar una técnica aséptica, después de exponerse a fluidos corporales, después de entrar en contacto con el paciente y después de entrar en contacto con el entorno que rodea al paciente.",
+    "Antes de entrar en la habitación del paciente, antes de realizar una técnica aséptica, antes de exponerse a fluidos corporales, antes de entrar en contacto con el paciente y antes de entrar en contacto con el entorno que rodea al paciente.",
+    "Antes de entrar en contacto con el paciente, antes de realizar una técnica aséptica, después de exponerse a fluidos corporales, después de entrar en contacto con el paciente y después de entrar en contacto con el entorno que rodea al paciente.",
+    "Antes de realizar una técnica aséptica, antes de exponerse a fluidos corporales, después de entrar en contacto con el paciente, después de entrar en contacto con el entorno que rodea al paciente y después de realizar el registro de los cuidados realizados al paciente. 425 PACIENTE QUIRÚRGICO"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la medida más eficaz sobre el contacto con pacientes con infección por Clostridium difficile:",
+   "o": [
+    "Los geles hidroalcohólicos han demostrado un alto nivel de eficacia al usarlos tras el contacto con este tipo de pacientes.",
+    "El lavado de manos con agua y jabón constituye la medida más eficaz.",
+    "La solución de alcohol boricado 2 % es la medida costo-beneficio más eficaz.",
+    "Se deberá realizar una desinfección de manos con hipoclorito de sodio al 2 % tras el contacto con estos pacientes."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. Una persona que trabaja durante la pandemia por COVID-19 en un local cerrado y con poca ventilación junto a más personas, nos solicita asesoramiento sobre una mascarilla que ha adquirido tras consejo médico. ¿Qué información le daremos acerca de esta?:",
+   "o": [
+    "Puede utilizarla con seguridad durante un periodo no superior a 8 horas, realizando un descanso al menos cada 4 horas.",
+    "Puede utilizarla con seguridad, ya que se ha demostrado que esta mascarilla es la que mayor protección proporciona en espacios cerrados y con poca ventilación.",
+    "No debería utilizarla puesto que no cumple la normativa vigente.",
+    "No debe utilizarse debido a que es un dispositivo de protección destinado exclusivamente a personal sanitario en contacto estrecho con pacientes contagiados por COVID-19."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2020-2021-2.jpg"
+  },
+  {
+   "q": "Señale la respuesta INCORRECTA acerca de la técnica de lavado quirúrgico de manos:",
+   "o": [
+    "Puede realizarse la técnica con cepillo desechable y antiséptico, o sin cepillo con una solución a base de alcohol, siendo más recomendable y efectiva ésta última.",
+    "Se puede realizar lavado directamente, aunque estén las manos visiblemente sucias.",
+    "Debemos retirarnos anillos, pulseras y relojes, quedando prohibidas las uñas postizas.",
+    "En la secuencia del lavado con solución alcohólica, se comienza por las uñas, seguido de antebrazo y finalizando en mano y dedos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "M.T.T., ingresado en la unidad de hospitalización en la que usted trabaja, ha sido diagnosticado hace dos días de tuberculosis pulmonar activa. Un familiar acude para acompañarlo a la unidad de radiología con la finalidad de realizar una prueba diagnóstica. ¿Qué medidas de protección deben llevarse a cabo?:",
+   "o": [
+    "Familiar entra en la habitación con mascarilla FFP2, paciente sale con mascarilla quirúrgica.",
+    "Familiar entra en la habitación con mascarilla FFP3, paciente sale con mascarilla quirúrgica.",
+    "Familiar entra en la habitación con mascarilla FFP2, paciente sale con mascarilla FFP2.",
+    "Familiar entra en la habitación con mascarilla FFP3, paciente sale con mascarilla FFP3."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendemos a un paciente con sospecha diagnóstica de Ébola. A la hora de retirarnos el EPI (Equipo de Protección Individual) con bata, ¿con qué se corresponderá el 5° paso?",
+   "o": [
+    "Retirada de mascarilla FFP2.",
+    "Retirada de gorro.",
+    "Retirada de gafas protectoras o pantalla protectora.",
+    "Retirada del segundo par de guantes."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

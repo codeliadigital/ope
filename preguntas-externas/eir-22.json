@@ -1,0 +1,571 @@
+{
+ "id": "eir-22",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 22,
+ "titulo": "EIR · Neurosensorial",
+ "explicadas": false,
+ "descripcion": "51 preguntas de los exámenes EIR de 2018 a 2025 sobre neurosensorial, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "¿Cuál de las siguientes opciones es correcta respecto de la Malformación de Arnold Chiari?:",
+   "o": [
+    "Ocurre cuando parte del cráneo es más grande de lo normal.",
+    "Se deben recomendar maniobras de Valsalva para evitar el agravamiento de las cefaleas.",
+    "La sintomatología corresponde al síndrome del agujero occipital pudiendo aparecer el signo de Lhermitte.",
+    "La malformación de Arnold Chiari tipo I es siempre asintomática. Aparecen los síntomas en los tipos II y III."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes huesos compone la silla turca:",
+   "o": [
+    "Etmoides.",
+    "Esfenoides.",
+    "Vómer.",
+    "Pisiforme."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la neuralgia del trigémino, indique la opción INCORRECTA:",
+   "o": [
+    "Los episodios recurrentes de dolor se inician y terminan de manera abrupta y duran desde pocos segundos a minutos, pudiendo ocurrir en brotes hasta cientos de veces al día.",
+    "El dolor se siente en la piel de la cara de manera bilateral, pudiendo ser desencadenado por pequeños estímulos como una brisa fría, hablar, etc.",
+    "Las áreas afectadas abarcan labios, encía superior o inferior, mejillas, frente o un lado de la nariz.",
+    "El sueño proporciona un período de descanso del dolor."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes arterias, componente del polígono arterial de Willis, es rama de la arteria basilar?:",
+   "o": [
+    "Arteria cerebral posterior.",
+    "Arteria cerebral media.",
+    "Arteria cerebral anterior.",
+    "Arteria comunicante anterior."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La parálisis de la hemilengua puede ser la manifestación de la afectación unilateral de uno de los siguientes nervios:",
+   "o": [
+    "Nervio facial (VII par craneal).",
+    "Nervio glosofaríngeo (IX par craneal).",
+    "Nervios espinales nivel C2-C3.",
+    "Nervio hipogloso (XII par craneal)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con respecto a las afasias:",
+   "o": [
+    "La afectación del área de Broca, situada en el lóbulo frontal, da lugar a una afasia motora o de expresión.",
+    "La afectación del área de Wernicke, situada en el lóbulo frontal, da lugar a una afasia sensitiva o de comprensión.",
+    "La afectación del área de Broca, situada en el lóbulo temporal, da lugar a una afasia sensitiva o de comprensión.",
+    "La afectación del área de Wernicke, situada en el lóbulo temporal, da lugar a una afasia motora o de expresión."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La disdiadococinesia es un signo clínico que se asocia a:",
+   "o": [
+    "Trastornos extrapiramidales.",
+    "Síndromes de motoneurona superior.",
+    "Síndromes cerebelosos.",
+    "Neuritis óptica posterior."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes alteraciones es característica del síndrome frontal cerebral?:",
+   "o": [
+    "Apatía y conducta desinhibida.",
+    "Afasia receptiva o de Wernicke.",
+    "Alucinaciones auditivas.",
+    "Déficits de memoria inmediata."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "M.I.A. es una paciente con cáncer de mama. En su última Tomografía Computadorizada de control se le informa de que presenta una masa ocupante de espacio a nivel de la corteza occipital. Señale qué alteración podrá presentar la paciente como consecuencia de esta lesión cerebral:",
+   "o": [
+    "Pérdida de sensibilidad somática en miembros inferiores.",
+    "Pérdida del tono muscular en miembros inferiores.",
+    "Afasia motora.",
+    "Trastorno visual."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Su paciente verbaliza que “Me caigo cuando cierro los ojos, si me tapo la cara con la toalla o me levanto a oscuras”. Al realizar una exploración se detecta “Signo de Romberg positivo, alteraciones de la sensibilidad profunda en los pies, y arreflexia aquílea y rotuliana”. Esta clínica puede relacionarse con:",
+   "o": [
+    "Paresia piramidal.",
+    "Disfunción vestibular.",
+    "Ataxia cerebelosa.",
+    "Ataxia sensorial."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En una visita no demorable para valorar a un paciente, se lo encuentra postrado en un sillón. Cuando lo llama por su nombre abre los ojos y le mantiene la mirada, pero aunque elabora frases, no es capaz de sostener una conversación coherente (no le identifica como su enfermera y no sabe dónde se encuentra). Le indica que se toque ambos hombros y lo realiza sin problema. ¿Qué puntuación en la Escala de Coma de Glasgow registrará en la historia clínica de su paciente?:",
+   "o": [
+    "14.",
+    "13.",
+    "12.",
+    "11."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la puntuación en la escala de coma de Glasgow (GCS) de un paciente que abre los ojos y retira nuestra mano al apretarle en el lecho ungueal, y ante la pregunta de ¿cómo se llama y qué día es?, responde que hace sol y que lleva manzanas en el maletero del coche:",
+   "o": [
+    "8.",
+    "9.",
+    "10.",
+    "11."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la puntuación en la Escala de Coma de Glasgow con Respuesta Pupilar de un paciente que no abre ojos, no responde a la llamada ni al estímulo doloroso, pero dobla el brazo sobre el codo rápidamente sin características anormales al dolor, y una de sus pupilas no es reactiva:",
+   "o": [
+    "4.",
+    "5.",
+    "6.",
+    "7."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes localizaciones, está recomendada para la estimulación a la hora de medir una puntuación en la Escala de Coma de Glasgow?:",
+   "o": [
+    "Zona exterior de muslos o brazos.",
+    "Zona interior de muslos o brazos.",
+    "Arco supraorbitario.",
+    "Zona esternal."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El test de atropina, fundamental en la aspiración neurológica para el diagnóstico de muerte encefálica, consiste en:",
+   "o": [
+    "Administración intravenosa de 0,04 mg/Kg de sulfato de atropina, tras lo cual no debe existir un incremento superior al 10% de la frecuencia cardíaca basal.",
+    "Administración intravenosa de 0,04 mg/Kg de sulfato de atropina, tras lo cual no debe existir un incremento superior al 20% de la frecuencia cardíaca basal.",
+    "Administración intravenosa de 0,05 mg/Kg de sulfato de atropina, tras lo cual no debe existir un incremento superior al 10% de la frecuencia cardíaca basal.",
+    "Administración intravenosa de 0,05 mg/Kg de sulfato de atropina, tras lo cual no debe existir un incremento superior al 20% de la frecuencia cardíaca basal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes signos, aparece en la triada de Cushing:",
+   "o": [
+    "Bradicardia.",
+    "Hipotensión arterial sistémica.",
+    "Ruidos cardiacos apagados.",
+    "Hiperpotasemia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El objetivo mínimo de Presión de Perfusión Cerebral (PPC) para prevenir la aparición de complicaciones graves en pacientes con lesión cefálica, es de:",
+   "o": [
+    "20 mmHg.",
+    "40 mmHg.",
+    "60 mmHg.",
+    "80 mmHg."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La triada de Cushing se caracteriza por:",
+   "o": [
+    "Hipotensión arterial, taquicardia y trastornos respiratorios.",
+    "Hipertensión arterial, taquicardia y trastornos respiratorios.",
+    "Hipotensión arterial, bradicardia y trastornos respiratorios.",
+    "Hipertensión arterial, bradicardia y trastornos respiratorios."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los signos de la triada de Cushing en la hipertensión intracraneal?:",
+   "o": [
+    "Bradicardia, hipertensión arterial y respiración irregular.",
+    "Taquicardia, hipertensión arterial y respiración irregular.",
+    "Bradicardia, hipotensión arterial y respiración irregular.",
+    "Taquicardia, hipotensión arterial y respiración irregular."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al test de la atropina para la determinación de muerte encefálica, indique la respuesta correcta:",
+   "o": [
+    "La prueba de la atropina explora la actividad del IX par craneal.",
+    "La atropina es un dopaminérgico que produce un aumento de la frecuencia cardíaca.",
+    "Se administran 4 mg/kg de peso de sulfato de atropina por vía intravenosa.",
+    "Cuando el reflejo está ausente, la frecuencia cardíaca no debe superar el 10% de la frecuencia cardíaca basal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la atención inicial de un paciente adulto con sospecha de Ictus agudo, y en ausencia de signos de inestabilidad hemodinámica (como hipotensión o hipovolemia), ¿cómo debe colocarse al paciente?:",
+   "o": [
+    "Mantener la cama plana (0º) para maximizar el flujo sanguíneo cerebral, incluso si el paciente presenta deterioro de la deglución.",
+    "Colocar al paciente en posición de Trendelenburg para favorecer el drenaje venoso cerebral rápido.",
+    "Elevar la cabecera de la cama 30º, como medida esencial para reducir el riesgo de broncoaspiración y favorecer el retorno venoso cerebral.",
+    "Colocar al paciente siempre en decúbito lateral de seguridad, ya que ésta es la posición universalmente recomendada para todos los pacientes neurológicos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el contexto de un paciente que ha sufrido un ictus hemorrágico, señala la respuesta INCORRECTA:",
+   "o": [
+    "En la hemorragia subaracnoidea se produce una situación de hipovolemia derivada de la pérdida de sangre.",
+    "La hiperglucemia (niveles de glucosa > 126 mg/dl) mantenida en el tiempo se asocia con un aumento de la mortalidad y de la extensión del ictus.",
+    "El inicio abrupto de un dolor de cabeza súbito e intenso está presente en prácticamente todos los pacientes con hemorragia subaracnoidea.",
+    "Los vómitos son frecuentes en pacientes con hemorragia intracerebral o hemorragia subaracnoidea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La escala NIHSS (National Institute of Health Stroke Scale) permite a la enfermera la valoración frecuente y el registro de la función neurológica, necesarios y esenciales para detectar cambios en la evolución del paciente. Señala la opción INCORRECTA en relación con esta escala:",
+   "o": [
+    "La escala consta de 11 ítems.",
+    "La puntuación varía de 0 (déficit neurológico severo) a 42 (ausencia de déficit neurológico).",
+    "La escala NIHSS no valora manifestaciones del ictus como la diplopía.",
+    "La escala NIHSS no valora manifestaciones del ictus como la disfagia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente que ha sufrido previamente un ictus isquémico y que además tiene un foramen oval permeable (FOP), ¿cuál es la recomendación más adecuada para la prevención de un nuevo episodio?:",
+   "o": [
+    "Administrar terapia anticoagulante según prescripción médica.",
+    "Cierre de FOP más terapia con antiplaquetarios según prescripción médica.",
+    "Asegurar una adecuada hidratación para prevenir complicaciones renales.",
+    "Controlar la dieta restringiendo el consumo de sal y grasas saturadas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones sería la más adecuada para la prevención secundaria del ictus en pacientes adultos con estenosis mitral?:",
+   "o": [
+    "Monitorizar signos de insuficiencia cardíaca y administrar el tratamiento con los antiagregantes pautados.",
+    "Controlar la temperatura corporal para prevenir fiebre reumática.",
+    "Asegurar una dieta rica en calcio para fortalecer el miocardio y anticoagulantes orales.",
+    "Fomentar la ingesta de líquidos para evitar la deshidratación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre el ICTUS es cierto que:",
+   "o": [
+    "No hay diferencias en la incidencia global de ictus entre mujeres y hombres, pero varía en función de la edad.",
+    "Se estima que las mujeres con ictus isquémico tienen un 13% más de probabilidad que los hombres de ser tratadas con trombólisis.",
+    "Las mujeres con ictus tienen mayor mortalidad y peor resultado funcional que los hombres tras sufrir un ACV.",
+    "La prevalencia de depresión post-ictus es un 78 % más alta en hombres que en mujeres."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el documento de consenso de las Sociedad Española de Endocrinología y Nutrición y la Sociedad Española de Neurología (SEEN-SEN 2023), sobre la optimización del tratamiento de la Diabetes Mellitus y del estado nutricional en las unidades de ICTUS, ¿cuáles serían las actuaciones nutricionales durante la fase I o de Hospitalización?:",
+   "o": [
+    "Instaurar nutrición enteral por sonda nasogástrica en las primeras 24 horas tras el ICTUS si existe riesgo nutricional.",
+    "En pacientes con dieta oral, registrar regularmente la seguridad y eficacia de la ingesta.",
+    "Iniciar suplemento nutricional oral a las 48 horas del ICTUS con fórmula monomérica de bajo índice glucémico.",
+    "Realizar cribado de sarcopenia transcurridos 7 días tras el ICTUS."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones de la Sociedad Española de Neurología para la prevención del ictus NO se encuentra:",
+   "o": [
+    "Se recomienda seguir una dieta mediterránea con suplementos de frutos secos y aceite de oliva virgen para reducir el riesgo de ictus.",
+    "Se recomienda la práctica de actividad física moderada 150 min/semana o actividad física vigorosa 75 min/semana para reducir el riesgo de ictus.",
+    "Se recomienda aplicar políticas de salud pública que permitan disminuir la contaminación atmosférica por su potencial efecto en la prevención del ictus.",
+    "Se recomienda la abstinencia del alcohol como prevención del ictus."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El dolor de hombro es un problema que afecta a numerosos pacientes afectados por un ictus, limitando el autocuidado y la calidad de vida. Indique cuál de las siguientes afirmaciones corresponde a una actividad de prevención del hombro doloroso en un paciente afectado por un ictus:",
+   "o": [
+    "Levantaremos al paciente utilizando el hombro flácido o afectado.",
+    "Dispondremos de poleas para que el paciente ejercite la fuerza en los miembros superiores.",
+    "Mientras el paciente permanezca sentado, colocaremos el brazo flácido en posición cómoda sobre una mesa o mediante almohadas. 513 NEUROSENSORIAL",
+    "Deben evitarse los ejercicios de amplitud para prevenir la aparición de dolor."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación a las cefaleas, señale la respuesta INCORRECTA:",
+   "o": [
+    "Las neuralgias y algunas variedades de cefaleas trigémino provocan en los pacientes, crisis a lo largo del día con una duración muy breve (segundos; en general menos de 2 minutos).",
+    "El inicio súbito de una cefalea, alcanzando el acmé en pocos minutos, sugiere una causa secundaria.",
+    "La migraña se caracteriza por crisis de instauración brusca que aparecen con una frecuencia variable pero que duran menos de 2 horas sin tratamiento.",
+    "La cefalea en racimos se define por la aparición de varias crisis de cefalea (típicamente nocturnas) que duran entre 15-180 minutos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La migraña episódica se diferencia de la cefalea tensional:",
+   "o": [
+    "La migraña episódica dura de 30 minutos a 7 días, mientras que la cefalea tensional dura menos de 24 horas.",
+    "La migraña episódica no se agrava con la actividad física rutinaria, mientras que la cefalea tensional sí lo hace.",
+    "La migraña episódica con aura no precisa de pruebas complementarias para el diagnóstico, mientras que en la cefalea tensional se recomienda la realización de un estudio de imagen si se presentan más de 5 episodios al mes.",
+    "La migraña episódica se acompaña de náuseas y/o vómitos o bien fotofobia o fonofobia, mientras que la cefalea tensional no suele presentar este tipo de síntomas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué evaluación corresponde a un paciente con fractura de la vértebra C3 con lesión medular que, en las primeras horas en la exploración neurológica mantiene su función sensitiva por debajo del nivel neurológico de la lesión, pero con ausencia de función motora?:",
+   "o": [
+    "ASIA A.",
+    "ASIA B.",
+    "ASIA C.",
+    "ASIA D."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la exploración física de un paciente de 5 años con diagnóstico médico de meningitis, indique la respuesta correcta:",
+   "o": [
+    "La rigidez de nuca es el signo más frecuente pero menos precoz.",
+    "Un signo de Kernig positivo indica que, ante la flexión pasiva de la pierna, la irritación meníngea provoca dolor en la espalda y en la pierna, y resistencia a la realización de dicha maniobra.",
+    "En la exploración del paciente con signo de Brudzinski positivo, cabe esperar que el signo de Kernig no exista.",
+    "Si al realizar una flexión pasiva de la nuca conlleva la de las rodillas y las caderas, hablamos de Brudzinski positivo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la afirmación correcta acerca de las bases fisiopatológicas de la meningitis:",
+   "o": [
+    "En las meningitis víricas se usan como primera línea de tratamiento antibióticos intravenosos y corticoides orales.",
+    "En las meningitis bacterianas el agente etiológico más frecuente en nuestro entorno es el Streptococcus pneumoniae (neumococo).",
+    "En la meningitis bacteriana el análisis del líquido cefalorraquídeo presenta generalmente valores bajos de glucosa, proteínas y leucocitos.",
+    "Los signos típicos de la encefalitis de origen vírico incluyen cefalea intensa, fiebre alta, rigidez nucal y escalofríos, vómitos y alteración de la conciencia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Tanto el síncope como la crisis comicial cursan frecuentemente con actividad clónica. ¿Cómo podemos realizar un diagnóstico diferencial entre ambas?:",
+   "o": [
+    "En el síncope la confusión tras el evento es frecuente y duradera, mientras que en la crisis comicial es transitoria y dura menos de 1 min.",
+    "En el síncope es infrecuente la cianosis facial, mientras que en la crisis comicial es frecuente.",
+    "En el síncope es frecuente la mordedura de la lengua, mientras que en la crisis comicial es rara. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 516",
+    "En el síncope no se conserva el control de esfínteres, mientras que en la crisis comicial sí se conserva."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con las fluctuaciones motoras en la enfermedad de Parkinson:",
+   "o": [
+    "Se aumentará la ingesta proteica del paciente para contrarrestarlas.",
+    "Ha de concentrarse la ingesta de Levodopa oral en la medida de lo posible.",
+    "Ha de evitarse el tratamiento con infusión subcutánea de apomorfina.",
+    "Podrá administrarse la Levodopa de forma inhalada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los síntomas que puede presentar un paciente con Enfermedad de Parkinson se encuentra:",
+   "o": [
+    "Hipomimia.",
+    "Fenómeno de Uthoff.",
+    "Signo de Lhermitte.",
+    "Pérdida de la visión de un ojo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes manifestaciones clínicas relativa a alteraciones del sistema nervioso autónomo es más común en la enfermedad de Parkinson?:",
+   "o": [
+    "Diarrea e incontinencia urinaria.",
+    "Xerostomía.",
+    "Dermatitis seborreica.",
+    "Priapismo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal complicación a monitorizar durante y después de la administración de inmunoglobulina intravenosa (IVIG) en un paciente con síndrome de Guillain-Barré en fase aguda?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 518",
+   "o": [
+    "Nefrotoxicidad.",
+    "Hipotensión.",
+    "Hiperglucemia.",
+    "Mioclonías generalizadas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la planificación familiar en mujeres con Esclerosis Múltiple (EM) en edad fértil es cierto que:",
+   "o": [
+    "Las mujeres deben ser asesoradas sobre las opciones reproductivas en el momento del diagnóstico y antes de iniciar un tratamiento con fármacos modificadores de la enfermedad, ya que se recomienda suspenderlos hasta 6 meses antes de la concepción.",
+    "Los brotes de EM aumentan durante el embarazo, aunque la tasa de recaídas es menor en el puerperio.",
+    "El parto por cesárea está indicado en la mayoría de los casos, debido a la debilidad muscular de las mujeres con EM.",
+    "La lactancia materna está contraindicada en todos los casos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las indicaciones en el uso de la toxina botulínica NO se encuentra:",
+   "o": [
+    "Hiperhidrosis primaria de axila severa.",
+    "Migraña crónica.",
+    "Vejiga hiperactiva idiopática.",
+    "Enfermedades neuromusculares como la miastenia gravis o la Esclerosis Lateral Amiotrófica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con los consejos de enfermería al paciente con Esclerosis Múltiple:",
+   "o": [
+    "Utilización de prendas de vestir holgadas y frescas.",
+    "Control domiciliario de la presión arterial.",
+    "Evitar el consumo de lácteos.",
+    "Realizar una dieta pobre en residuos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con la anatomía del ojo:",
+   "o": [
+    "El cuerpo ciliar es el encargado de la producción del humor vítreo.",
+    "La retina es la parte intermedia del ojo.",
+    "La capa coroides es avascular.",
+    "El limbo es el tejido donde se une la esclerótica y la córnea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente con agnosia visual:",
+   "o": [
+    "No reconoce un estímulo visualmente (por ejemplo, unas llaves), y puede no reconocerlas tampoco por el resto de las vías sensoriales.",
+    "No reconoce un estímulo visualmente (por ejemplo, unas llaves), pero sí por otras vías sensoriales (por ejemplo, el tintineo de unas llaves o el tacto de las mismas) sin presentar afasia o confusión.",
+    "No reconoce un estímulo visualmente (por ejemplo, unas llaves), pero sí por otras vías sensoriales (por ejemplo, el tintineo de unas llaves o el tacto de las mismas) presentando afasia o confusión.",
+    "Reconoce un estímulo visualmente (por ejemplo, unas llaves), pero no por otras vías sensoriales (por ejemplo, el tintineo de unas llaves o el tacto de las mismas) presentando afasia o confusión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué hace referencia la expresión “Paciente con pseudofaquia”?:",
+   "o": [
+    "Paciente que ha sido intervenida quirúrgicamente para realizar un acceso gástrico contra natura.",
+    "Paciente que ha sido intervenida de cirugía ocular para retirarle el cristalino y en su lugar colocar una lente intraocular.",
+    "Paciente que presenta una malformación congénita con presencia de caracteres sexuales contrarios a su sexo fenotípico.",
+    "Paciente con dificultades con el habla que se corrigen con un dispositivo de asistencia para la voz."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Qué es el queratocono?:",
+   "o": [
+    "Una opacidad del cristalino.",
+    "Lesión conjuntival carnosa de forma triangular que se extiende a córnea.",
+    "Adelgazamiento y protrusión progresiva de la córnea central.",
+    "Es una enfermedad de la retina."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de evaluar la agudeza visual en nuestra consulta de enfermería pediátrica, se pueden utilizar las siguientes herramientas y test. Indique la respuesta INCORRECTA:",
+   "o": [
+    "Test de Bayley.",
+    "Cartilla Snellen.",
+    "Test de Allen.",
+    "Tabla de símbolos LEA."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las recomendaciones generales que daremos a un paciente que padece miodesopsias en ausencia de otras patologías, se encuentra:",
+   "o": [
+    "Utilizar gafas de sol, evitar mirar a fondos claros y no seguir las miodesopsias.",
+    "Evitar el ejercicio intenso a última hora del día.",
+    "Incrementar el consumo de agua hasta los 2 litros/día.",
+    "Incrementar en +1 dioptría las gafas de lectura."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al vértigo postural paroxístico, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "Ocurre cuando la cabeza cambia con respecto a la gravedad, por lo general, al colocarla hacia atrás con el oído afectado hacia abajo.",
+    "Se produce por una inflamación del laberinto del oído interno.",
+    "Es una alteración subyacente del oído que se vincula con la pérdida auditiva.",
+    "Se produce por una anomalía en el equilibrio de los líquidos del oído interno, por malabsorción en el saco endolinfático u obstrucción del conducto endolinfático."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta con relación al vértigo posicional paroxístico benigno:",
+   "o": [
+    "Una posible complicación de las maniobras de recolocación es el desplazamiento de los otolitos de un conducto semicircular a otro, desencadenando un nuevo cuadro vertiginoso.",
+    "Es más frecuente en personas menores de 40 años.",
+    "Es más frecuente en hombres que en mujeres.",
+    "Durante el tratamiento de habituación vestibular, el paciente ha de evitar los movimientos que desencadenan el cuadro vertiginoso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique los resultados esperables de las pruebas de Rinne y Weber en un paciente con otitis media:",
+   "o": [
+    "En la prueba de Weber el sonido se escucha mejor en el oído afectado, mientras que en la de Rinne se escucha durante el mismo tiempo o más en el oído afectado el sonido transmitido por el hueso que por el aire.",
+    "En la prueba de Weber el sonido se escucha mejor en el oído sin afectación, mientras que en la de Rinne se escucha más tiempo el sonido transmitido por el aire en el oído afectado que el conducido por el hueso.",
+    "En la prueba de Weber el sonido se escucha por igual en ambos oídos, mientras que en la de Rinne la conducción aérea es audible más lejos que la ósea en ambos oídos.",
+    "En la prueba de Weber el sonido se escucha mejor en el oído sin afectación, mientras que en la de Rinne se escucha más tiempo el sonido transmitido por el aire que el conducido por el hueso, en ambos oídos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

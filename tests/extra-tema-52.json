@@ -1,0 +1,271 @@
+{
+ "tema": 52,
+ "preguntas": [
+  {
+   "q": "¿En qué casos el paciente podrá autorretirarse en su domicilio un sistema de monitorización Holter?:",
+   "o": [
+    "Cuando sea un dispositivo de duración semanal, para realizar su higiene corporal.",
+    "A la hora de salir a realizar una actividad deportiva (jugar a fútbol, ciclista...).",
+    "En dispositivos de 24 horas colocados en mujeres de busto abundante, en el momento de irse a dormir para evitar artefactos.",
+    "Cuando el paciente prevea encontrarse en decúbito prono más de 1 hora."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué posición debe usted colocar los parches de un marcapasos transcutáneo no invasivo en el caso de que dicho marcapasos no tenga función ni capacidad de desfibrilación?:",
+   "o": [
+    "En el tórax posición líneas axilares medias a la altura del corazón.",
+    "Debajo de la clavícula derecha y por fuera de la mamila izquierda.",
+    "En el tórax en posición centrada anteroposterior.",
+    "En ápex y esternón."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cual es la posición adecuada para prevenir la embolia gaseosa en la retirada del Catéter Central de Inserción Periférica (PICC)?:",
+   "o": [
+    "Trendelemburg.",
+    "Semifowler o sentada.",
+    "Decúbito lateral opuesto al brazo donde está implantado el PICC.",
+    "Decúbito supino."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la prueba de mesa basculante para el diagnóstico de síncope:",
+   "o": [
+    "La clasificación más frecuentemente utilizada para definir la respuesta positiva en la prueba de mesa basculante se define en el Vasovagal Syncope International Study (VASIS).",
+    "En caso de administrar nitroglicerina, se recomienda una dosis fija de 100 microgramos intravenosos, administrada con el paciente en posición vertical.",
+    "En la fase de bipedestación, se recomienda un ángulo de inclinación de la mesa de entre 80º y 90º.",
+    "Antes de colocarse en decúbito supino, se recomienda que el paciente permanezca inclinado al menos 5 minutos, si no se ha colocado una vía venosa, y al menos 20 minutos desde la canalización de una vía venosa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación a los drenajes torácicos de aspiración seca:",
+   "o": [
+    "El sello de agua conecta el pulmón con el exterior.",
+    "Para aumentar la fuerza de succión, ha de añadirse agua a la cámara de aspirado.",
+    "Cuando el sello de agua sube por encima de los 2 cm, se produce una disminución de la presión intratorácica.",
+    "Cuando se produce un aumento de la presión intratorácica, ha de apretarse el botón de escape situado en la parte superior del drenaje hasta que el sello vuelve al nivel deseado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué nos indica el nivel elevado del sello de agua de un drenaje torácico?:",
+   "o": [
+    "La presión negativa en la cavidad torácica.",
+    "La presión positiva en la cavidad torácica.",
+    "La presión de llenado del drenaje torácico.",
+    "El volumen de llenado del drenaje torácico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Usted se encuentra trabajando en una Unidad de Cuidados Intensivos, cuando le solicitan monitorizar la presión intraabdominal (PIA) de AMP, el paciente ubicado en el box 3, diagnosticado de shock séptico. Tras monitorizar dicha presión mediante un medio no invasivo, ¿qué cifras obtenidas le indicarán una posible hipertensión intraabdominal?:",
+   "o": [
+    "PIA ≥ 10 mmHg.",
+    "PIA ≥ 11 mmHg.",
+    "PIA ≥ 12 mmHg.",
+    "PIA ≥ 15 mmHg."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué lugar elegiría para el marcaje de un estoma de eliminación?:",
+   "o": [
+    "Hipocondrio derecho.",
+    "Músculo Recto del abdomen.",
+    "Ángulo esplénico.",
+    "Hipocondrio izquierdo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la recomendación actual de la vía Clínica de Recuperación Intensificada de Cirugía Abdominal (RICA), respecto a la preparación mecánica del colon previo a la cirugía?:",
+   "o": [
+    "No realizarla, excepto en aquellos casos de cirugía rectal en el que existan posibilidad de estoma de protección.",
+    "Se ha de realizar para disminuir el riesgo de infección de la herida quirúrgica.",
+    "La preparación mecánica del colón podría contribuir a una recuperación más rápida del peristaltismo.",
+    "Hay que realizarla porque las recomendaciones y la evidencia son altas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. La herida quirúrgica que aparece en la imagen se corresponde con:",
+   "o": [
+    "Seroma.",
+    "Queloide.",
+    "Dehiscencia.",
+    "Cicatriz hipertrófica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 10. ¿A qué tipo de punto de sutura corresponde?:",
+   "o": [
+    "Punto continuo bloqueante.",
+    "Punto colchonero horizontal.",
+    "Punto colchonero vertical.",
+    "Punto simple."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2024-2025-10.jpg"
+  },
+  {
+   "q": "Una recomendación con nivel de evidencia alto y grado de recomendación fuerte en la Vía Clínica de Recuperación intensificada de Cirugía del Adulto (2020) es:",
+   "o": [
+    "Se recomienda el tratamiento con hierro oral en casos de déficit de hierro o anemia ferropénica leve-moderada, si se dispone de al menos 6 semanas hasta la cirugía.",
+    "Se recomienda la realización de baño completo previo a la cirugía.",
+    "De forma general se recomienda mantener la profilaxis antitrombótica un mínimo de 7 días o hasta la deambulación del paciente.",
+    "En caso de realizar eliminación del vello se pueden utilizar maquinillas eléctricas lo más próximo posible a la intervención, pero siempre fuera del quirófano."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué posición se coloca al paciente para la canalización de una vía venosa central en la vena yugular interna?:",
+   "o": [
+    "Trendelemburg.",
+    "Morestín.",
+    "Fowler.",
+    "Semifowler."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA en relación con las anestesias epidural y raquídea:",
+   "o": [
+    "En la anestesia epidural se inyecta el anestésico a través de un catéter y en la anestesia raquídea se hace a través de una aguja.",
+    "La anestesia raquídea se puede usar para el control del dolor postoperatorio al igual que la anestesia epidural.",
+    "La cantidad de anestésico inyectado es menor en la anestesia raquídea que en la epidural.",
+    "Entre las complicaciones de ambas se encuentran: cefaleas, retención urinaria e hipotensión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes opciones, señale cuál es uno de los aspectos relacionados con la preparación nutricional ambulatoria indicado por la vía Clínica de Recuperación Intensificada en Cirugía del Adulto (RICA):",
+   "o": [
+    "Realizar un cribado nutricional MST a todos los pacientes que vayan a ser sometidos a cirugía mayor.",
+    "Realizar una valoración nutricional completa en pacientes con desnutrición severa y establecer un plan de monitorización.",
+    "Los pacientes con riesgo nutricional severo o desnutrición severa deben recibir un tratamiento nutricional al menos 7 – 10 días antes de la cirugía.",
+    "Realizar una valoración nutricional completa 15 días antes de la cirugía en pacientes con desnutrición moderada y establecer un plan de monitorización."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale qué nombre recibe la siguiente posición quirúrgica recomendada en intervenciones de colón izquierdo y recto: “paciente en decúbito supino, cadera casi en extensión, rodillas flexionadas 30-45º y piernas con ligera rotación interna con apoyo en gemelos. El periné debe sobresalir ligeramente del borde de la mesa”:",
+   "o": [
+    "Posición de Lloyd Davies.",
+    "Posición de York Manson.",
+    "Posición de Kraske.",
+    "Posición de Sims."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Identifique de qué tipo de sutura se trata:",
+   "o": [
+    "Punto simple con nudo enterrado o invertido.",
+    "Sutura continua intradérmica.",
+    "Punto colchonero horizontal semienterrado.",
+    "Sutura Pfannenstiel."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t18-2021-2022-7.jpg"
+  },
+  {
+   "q": "En la Vía de Recuperación Intensificada de Cirugía del Adulto (RICA), ¿cuál es la metodología utilizada en la valoración nutricional completa preoperatoria?:",
+   "o": [
+    "Tras un cribado nutricional positivo, la valoración se realiza con la “Valoración Global Subjetiva (VGS)”.",
+    "La valoración nutricional se realiza con el método NRS-2002, de elección en paciente quirúrgico.",
+    "Se utiliza la Herramienta CONUT o Índice de Control Nutricional, que tiene en cuenta los valores de albúmina sérica y linfocitos absolutos.",
+    "Se realiza con los criterios GLIM (Iniciativa de Liderazgo Global sobre Malnutrición), que valora criterios fenotípicos y etiológicos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las prácticas seguras de administración de medicamentos intraquirófano NO es cierto que:",
+   "o": [
+    "La medicación intratecal o epidural debe ir rotulada en una etiqueta azul, texto negro y una fuente de letra tipo Arial o similar de 10 a 12 puntos.",
+    "Se recomienda evitar la abreviatura “cc” (centímetros cúbicos) y emplear en su defecto la abreviatura “ml” (mililitros).",
+    "Los colores del etiquetado se regirán por la escala Pantone®.",
+    "Los fármacos antagonistas se distinguirá mediante barras diagonales blancas de 1 mm de longitud y 45º de inclinación del mismo color que los fármacos agonistas, y se alternarán con barras blancas de 1 mm. El nombre del fármaco se encontrará en el centro de la etiqueta, y alrededor del mismo se omitirán las barras."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la Unidad de Recuperación Postanestésica (URPA), un paciente intervenido de herniorrafía inguinal bajo anestesia general presenta en la valoración: • Movilidad voluntaria de dos extremidades. • Respiración superficial con disnea. • Tensión arterial un 30% inferior a la basal. • Consciente, responde a estímulos verbales. • Saturación de O2 del 92% con oxigenoterapia suplementaria. Según la Escala Aldrete modificada, ¿cuál es la puntuación total y la conducta adecuada en este caso?:",
+   "o": [
+    "7 puntos. Debe permanecer en observación en la URPA.",
+    "8 puntos. Puede considerarse el alta a planta con vigilancia estándar.",
+    "9 puntos. Alta a planta inmediata sin necesidad de monitorización.",
+    "10 puntos. Candidato a alta directa a domicilio desde la URPA."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué escala se utiliza en la Unidad de Reanimación Postanestésica para valorar la recuperación postoperatoria y establecer criterios para el alta?:",
+   "o": [
+    "Aldrete.",
+    "Mallampati.",
+    "Caprini.",
+    "APACHE."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes escalas se utiliza para valorar el riesgo de náuseas y vómitos postoperatorios?:",
+   "o": [
+    "CHADS.",
+    "Apfel.",
+    "Parkland.",
+    "Bromage."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El sistema de puntuación de recuperación postanestésica de ALDRETE, NO incluye entre sus parámetros a valorar:",
+   "o": [
+    "Saturación de oxígeno.",
+    "Respiración.",
+    "Consciencia.",
+    "Coloración de la piel."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a los drenajes quirúrgicos, se considera un drenaje pasivo:",
+   "o": [
+    "Saratoga.",
+    "Jackson-Pratt.",
+    "Kher.",
+    "Redón."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

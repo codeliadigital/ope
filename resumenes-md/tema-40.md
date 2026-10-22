@@ -37,18 +37,18 @@ sub: Resumen OPE Enfermería SMS · Valoración (patrones, semiología, ausculta
 - **PaO₂ < 60 mmHg** (≈ SatO₂ 90%) respirando aire ambiente. **Tipo I (hipoxémica)**: PaCO₂ normal o baja (parénquima: neumonía, edema, distrés). **Tipo II (hipercápnica)**: además **PaCO₂ > 45-50** (fallo de la «bomba»: EPOC, sobredosis, neuromuscular).
 - Mecanismos: **desequilibrio V/Q** (el más frecuente; responde bien al oxígeno), **shunt** (alvéolos colapsados o llenos: **no mejora solo con O₂**, necesita **presión/PEEP**), **hipoventilación** (gradiente alveoloarterial normal). **pH < 7,35** = agudo; pH normal = crónico compensado (el riñón retiene bicarbonato). **Asterixis** = narcosis por CO₂.
 - **NANDA**: **Patrón respiratorio ineficaz (00032)** (cómo mueve el aire: taquipnea, musculatura accesoria) y **Deterioro del intercambio de gases (00030)** (la sangre arterial: se confirma con **gasometría**). **NIC**: **manejo de la vía aérea (3140)** (Fowler o semi-Fowler, respiración lenta y profunda, aspirar si tos ineficaz) y **oxigenoterapia (3320)**. **NOC**: estado respiratorio: ventilación (0403).
-- **EPOC**: objetivo **SatO₂ 88-92%** (no suprimir el estímulo respiratorio). **Neumonía unilateral**: tumbar sobre el **lado sano** (pulmón sano abajo).
+- **EPOC**: objetivo ==**SatO₂ 88-92%**== (no suprimir el estímulo respiratorio). **Neumonía unilateral**: tumbar sobre el **lado sano** (pulmón sano abajo).
 
 ## 3. EPOC
 
-- Limitación **persistente y poco reversible** del flujo aéreo por inflamación crónica (**tabaco**, humo de biomasa). **Bronquitis crónica**: tos y expectoración **≥ 3 meses al año, 2 años seguidos**. **Enfisema**: **destrucción alveolar** distal al bronquiolo terminal (atrapamiento aéreo).
+- Limitación **persistente y poco reversible** del flujo aéreo por inflamación crónica (**tabaco**, humo de biomasa). **Bronquitis crónica**: tos y expectoración **≥ 3 meses al año, 2 años seguidos**. **Enfisema**: **destrucción alveolar** distal al bronquiolo terminal (atrapamiento aéreo). Fenotipos clásicos: bronquitis = «**abotargado azul**» (obeso, cianótico, mucha expectoración, edemas); enfisema = «**soplador rosado**» (delgado, disnea intensa, poca tos, murmullo disminuido). **Cor pulmonale**: insuficiencia cardiaca derecha por hipertensión pulmonar (**ingurgitación yugular, hepatomegalia, edemas**).
 - **Diagnóstico**: **espirometría** con **FEV1/FVC posbroncodilatador < 0,70**.
 - Escalas: **mMRC** (disnea; ≥ 2 = limitación importante) y **CAT** (impacto; **≥ 10** muy sintomático). No confundir con el **ACT** del asma.
 - **GesEPOC**: fenotipos; el agudizador **eosinofílico (≥ 300 eosinófilos/µl)** responde a corticoides inhalados.
 - **Tratamiento**: broncodilatadores de larga duración inhalados: **LAMA** (tiotropio; efecto adverso: **sequedad de boca**) y **LABA** (formoterol, salmeterol, indacaterol), solos o juntos. **Corticoides inhalados** solo si hay **eosinofilia** o **asma asociada** (riesgo de **neumonía**).
 - **Lo que más cambia la evolución: dejar de fumar**. Valorar fase de cambio (Prochaska), **motivación (Richmond)** y **dependencia (Fagerström: ≥ 7 alta)**. Fármaco financiado: **citisina** (ciclo de **25 días**, se deja de fumar el **día 5**).
 - **Exacerbación** (criterios de **Anthonisen**): más **disnea**, más **volumen de esputo** y **esputo purulento** (la purulencia orienta a antibiótico). **Plan de acción** escrito con el rescate y los signos de alarma.
-- **Oxigenoterapia crónica domiciliaria**: al menos **15 horas al día**.
+- **Oxigenoterapia crónica domiciliaria**: al menos **15-16 horas al día** (incluida la noche); indicada con **PaO₂ ≤ 55 mmHg**, o **55-60** si hay hipertensión pulmonar, cor pulmonale, insuficiencia cardiaca, arritmias o **hematocrito > 55%**.
 - **Respiración con labios fruncidos**: crea PEEP y evita el colapso bronquial en la espiración.
 - **Fases avanzadas**: **disnea refractaria** → **morfina a dosis bajas** (principio del **doble efecto**), aire en la cara, relajación; **planificación anticipada** (ventilación, reanimación).
 
@@ -76,7 +76,7 @@ sub: Resumen OPE Enfermería SMS · Valoración (patrones, semiología, ausculta
 | **Gafas nasales** (bajo flujo) | Variable | Cómodas; **humidificar a partir de 4 l/min** (sequedad, epistaxis) |
 | Mascarilla simple (bajo flujo) | Variable | — |
 | **Mascarilla con reservorio** | Alta | Emergencias; **10-15 l/min** para que la bolsa no se vacíe |
-| **Venturi** (alto flujo) | **Fija y exacta** | **De elección en la EPOC** (retenedor de CO₂) |
+| ==**Venturi**== (alto flujo) | **Fija y exacta** | **De elección en la EPOC** (retenedor de CO₂) |
 | **Cánula nasal de alto flujo** | Alta y precisa | Hasta **60 l/min**, gas a **34-37 °C** y **100% de humedad**; **efecto PEEP** y **lavado del espacio muerto** (menos CO₂); éxito según el **índice ROX** (SpO₂/FiO₂ entre FR); vigilar piel y **condensación** en las tubuladuras |
 
 - El oxígeno es un **fármaco** (prescripción, dosis, pulsioximetría). En la EPOC **nunca reservorio ni flujos altos sin control**.
@@ -85,7 +85,7 @@ sub: Resumen OPE Enfermería SMS · Valoración (patrones, semiología, ausculta
 ## 6. Fisioterapia y drenaje pleural
 
 - **Drenaje postural** (gravedad), **clapping** (mano ahuecada; **contraindicado en hemoptisis, fracturas costales y coagulopatía**), **vibraciones** (en la **espiración**), **incentivador** (inspiración **lenta y profunda** mantenida; evita **atelectasias** tras cirugía), **PEP** (resistencia espiratoria que mantiene abiertas las vías) y **asistente de tos (in-exsuflador)** en enfermedades **neuromusculares** (ELA, distrofias).
-- **Drenaje pleural**: **oscilación** en el sello de agua = sistema **permeable**; **burbujeo** = **fuga aérea**; sin oscilación ni burbujeo: pulmón reexpandido o **tubo obstruido o acodado**. Colector **vertical y siempre por debajo del tórax**. **No pinzar en los traslados** (riesgo de **neumotórax a tensión**); solo para buscar fugas, cambiar el colector o probar la retirada por orden médica. «Ordeñar» suavemente solo si hay coágulos.
+- **Drenaje pleural**: **oscilación** en el sello de agua = sistema **permeable**; **burbujeo** = ==**fuga aérea**==; sin oscilación ni burbujeo: pulmón reexpandido o **tubo obstruido o acodado**. Colector **vertical y siempre por debajo del tórax**. **No pinzar en los traslados** (riesgo de **neumotórax a tensión**); solo para buscar fugas, cambiar el colector o probar la retirada por orden médica. «Ordeñar» suavemente solo si hay coágulos.
 
 ## 7. Ventilación mecánica
 
@@ -103,17 +103,17 @@ sub: Resumen OPE Enfermería SMS · Valoración (patrones, semiología, ausculta
   - **Veno-arterial**: **corazón y pulmón** (shock cardiogénico, parada refractaria); vigilar la **isquemia de la pierna canulada**.
   - Cuidados: **heparina** con controles (**sangrado**), integridad del circuito (aire, acodamientos), **CO₂ alto → aumentar el gas de barrido**; líneas que vibran (*chatter*) = **hipovolemia**; temperatura; ventilador en **reposo pulmonar** (presiones mínimas); vigilancia neurológica y renal.
 
-!! Kussmaul = **cetoacidosis**; Cheyne-Stokes = **insuficiencia cardíaca**; Biot = **lesión bulbar**; paradójica = **fatiga diafragmática**.
+!! ==Kussmaul = **cetoacidosis**; Cheyne-Stokes = **insuficiencia cardíaca**; Biot = **lesión bulbar**; paradójica = **fatiga diafragmática**.==
 !! Vibraciones vocales: **aumentan** en la **condensación**, disminuyen en derrame y neumotórax.
 !! **Roncus cambian con la tos**; **estridor** = obstrucción alta.
 !! IRA: **PaO₂ < 60**; tipo II con **PaCO₂ > 45-50**; el **shunt** no mejora solo con O₂.
-!! EPOC: **FEV1/FVC < 0,70** posbroncodilatador; **SatO₂ 88-92%**; **Venturi**.
+!! ==EPOC: **FEV1/FVC < 0,70** posbroncodilatador; **SatO₂ 88-92%**; **Venturi**.==
 !! **CAT** (EPOC, ≥ 10) ≠ **ACT** (asma, < 20 = mal control).
 !! Prueba broncodilatadora positiva: **+12% y +200 ml**.
 !! CURB-65 **≥ 2** → ingreso.
 !! Dejar de fumar es lo más eficaz; **Fagerström** = dependencia; **Richmond** = motivación.
 !! MDI: inspiración **lenta** + apnea 10 s; DPI: **rápida y fuerte**; corticoides → **enjuagar**.
-!! Drenaje pleural: **por debajo del tórax** y **no pinzar en traslados**; burbujeo = **fuga aérea**.
+!! ==Drenaje pleural: **por debajo del tórax** y **no pinzar en traslados**; burbujeo = **fuga aérea**.==
 !! VMNI solo con paciente **consciente**; hidrocoloide en la nariz **antes**.
 !! VT **6-8 ml/kg de peso ideal**; neumotaponamiento **20-30 cmH₂O**; cabecera **30-45°**.
 !! ECMO **VV = pulmón**; **VA = corazón + pulmón**.

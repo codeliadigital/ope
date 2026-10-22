@@ -1,0 +1,90 @@
+1|b|La valoración va antes que el diagnóstico: no se diagnostica sin datos.
+1|c|El diagnóstico va antes que la planificación: se planifica sobre problemas ya identificados.
+1|d|La planificación va antes que la ejecución.
+2|a|Carpenito es conocida por los diagnósticos y los problemas de colaboración, no por esta definición.
+2|c|Alfaro-Lefevre destaca en la planificación de objetivos.
+2|d|Berman define los objetivos, no la valoración.
+3|a|NANDA-I aconseja no usar sus propios dominios para valorar.
+3|b|La NIC es de intervenciones, no de valoración (y tiene 30 clases, no 7).
+3|d|Maslow sirve para priorizar, no es la guía de valoración que recomienda NANDA-I.
+4|a|PES es el formato del diagnóstico real (con signos y síntomas).
+4|b|PS es el formato del síndrome o de algunos diagnósticos de promoción, no el de riesgo.
+4|c|«P» solo es el formato abreviado del diagnóstico de salud o bienestar.
+5|b|Henderson describió las 14 necesidades, no el formato PES.
+5|c|Orem formuló la teoría del autocuidado.
+5|d|Carpenito difundió el modelo bifocal (diagnósticos y problemas de colaboración).
+6|a|11 dominios es la estructura de Gordon (11 patrones), no NANDA-I.
+6|b|7 dominios y 30 clases es la NIC; 614 son intervenciones, no diagnósticos.
+6|d|540 son, aproximadamente, los resultados NOC; NANDA-I tiene 47 clases.
+7|a|Afectivo son actitudes y valores (aceptar la dieta).
+7|c|Cognitivo son conocimientos (enumerar síntomas), no habilidades.
+7|d|«Conductual-emocional» no es un dominio de Alfaro.
+8|a|Para los diagnósticos de riesgo se plantean objetivos del paciente.
+8|b|Para los de promoción de la salud, objetivos del paciente.
+8|c|Para los diagnósticos reales, objetivos del paciente.
+9|b|Está invertido: 1 es el peor estado y 5 el mejor.
+9|c|La escala NOC es de 5 puntos, no de 0 a 10.
+9|d|Se usa al valorar y sobre todo al evaluar los resultados.
+10|a|277 son los diagnósticos NANDA-I.
+10|b|540 son, aproximadamente, los resultados NOC.
+10|d|700 no es ninguna cifra de la NIC.
+11|a|La responsabilidad de los resultados no se delega.
+11|b|Delegar no exime de supervisar.
+11|c|Se puede delegar en otros profesionales competentes (por ejemplo, TCAE).
+12|a|Continuar sin cambios solo procede si el plan es adecuado y el objetivo va en camino.
+12|c|Se finaliza cuando el objetivo se ha logrado.
+12|d|El alta no depende de un objetivo concreto no alcanzado.
+13|b|Es de 11 de mayo, no de marzo.
+13|c|La Ley 4/1994 es la de Salud de la Región de Murcia.
+13|d|La Ley 12/2014 es la de Transparencia.
+14|a|50 días es el plazo de las primeras consultas externas.
+14|b|90 días no es un plazo de la normativa murciana.
+14|d|180 días es el plazo estatal (RD 1039/2011) para algunas cirugías, no el de Murcia.
+15|a|Son naturales, no hábiles (el distractor típico).
+15|b|50 días es el plazo de las primeras consultas.
+15|c|20 días hábiles es el plazo de la Ley de Transparencia.
+16|a|La TSI es personal e intransferible.
+16|c|El Braille es sistemático, no solo a demanda.
+16|d|Es el documento que acredita el derecho a las prestaciones; no es opcional.
+17|b|Pesar y tallar es una rutina que se pospone para no interrumpir el piel con piel.
+17|c|La vitamina K y la profilaxis ocular se pueden retrasar sin problema tras el piel con piel.
+17|d|Separarlo de la madre va contra el derecho al contacto inmediato.
+18|a|La confidencialidad protege los datos y la información, no el cuerpo ni el espacio.
+18|b|Es el derecho a ser informado, no a que no le observen.
+18|d|La libre elección se refiere al profesional o al centro.
+19|a|Los familiares no tienen derecho a la información sin autorización del paciente.
+19|b|La empresa no tiene acceso a los datos de salud.
+19|c|La edad no es una excepción a la confidencialidad.
+20|a|Que el paciente no quiera saber es el derecho a no ser informado, no la necesidad terapéutica.
+20|c|La familia no puede ocultar la información a un paciente capaz.
+20|d|Actuar sin consentimiento en una urgencia vital es otra excepción distinta.
+21|b|La toma de constantes solo requiere consentimiento verbal (la regla general).
+21|c|Una extracción de sangre rutinaria requiere consentimiento verbal.
+21|d|Una vía periférica requiere consentimiento verbal.
+22|a|El cónyuge o pareja va en tercer lugar.
+22|b|Los hijos van detrás, entre los parientes más próximos.
+22|d|El representante legal va en segundo lugar, detrás del de instrucciones previas.
+23|a|Es la redacción antigua; desde 2015, en grave riesgo decide el representante legal.
+23|b|El juez solo interviene en caso de conflicto.
+23|c|No existe esa figura de consentimiento conjunto.
+24|a|Son tres testigos, no dos.
+24|c|Uno de los tres sí puede ser familiar.
+24|d|No se exigen cinco testigos.
+25|b|5 años es el mínimo de la ley estatal y cuenta desde el alta, no desde cada documento.
+25|c|Se cuenta desde el último alta, no desde el nacimiento.
+25|d|Se cuenta desde el último alta, no desde el primer ingreso, y son 20 años.
+26|a|El paciente sí tiene derecho a sus informes de alta y pruebas de imagen.
+26|b|Los registros de enfermería forman parte de su historia y puede acceder a ellos.
+26|d|Los resultados de laboratorio son datos del paciente.
+27|a|No se puede retener al paciente.
+27|b|La vía judicial no es lo que prevé el art. 64.
+27|c|No se puede tratar contra su voluntad a un paciente capaz.
+28|a|El derecho de acceso es a petición del ciudadano, no por iniciativa de la Administración.
+28|c|La participación ciudadana es la intervención de los ciudadanos en las políticas.
+28|d|La valoración documental es un procedimiento de archivo.
+29|b|El silencio es negativo, no positivo.
+29|c|No existe un silencio positivo para la información sanitaria.
+29|d|No hay un silencio «suspensivo»; si quiere, el ciudadano recurre.
+30|a|El Consejo de la Transparencia (colegiado) fue suprimido.
+30|b|El Defensor del Usuario es del ámbito sanitario, no de la transparencia.
+30|d|La Asamblea ratifica al Comisionado, pero no es el órgano garante.

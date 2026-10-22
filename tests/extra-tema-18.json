@@ -1,0 +1,116 @@
+{
+ "tema": 18,
+ "preguntas": [
+  {
+   "q": "Con relación a la Imagen 1, respecto a la administración de medicación en este caso, ¿qué material NO es necesario incluir en el procedimiento de enfermería?:",
+   "o": [
+    "Agujas de bisel especial tipo Gripper.",
+    "Guantes estériles.",
+    "Povidona yodada.",
+    "Heparina cálcica"
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2025-2026-1.jpg"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones es correcta sobre la desinfección de la conexión de un catéter central según los estándares de buenas prácticas del Protocolo de inserción y mantenimiento de catéteres vasculares (Bacteriemia Zero)?:",
+   "o": [
+    "La desinfección activa con hisopos de gluconato de clorhexidina alcohólica o alcohol isopropílico al 70% es siempre superior a la desinfección pasiva con tapones desinfectantes.",
+    "Se cambiará el apósito transparente semipermeable estéril en el punto de inserción cada tres días, además de cuando estén visiblemente sucios, húmedos o despegados.",
+    "Tanto la desinfección activa como la pasiva se pueden utilizar para reducir la contaminación, siendo ambas opciones recomendadas en los estándares de buenas prácticas.",
+    "Se puede utilizar antibióticos y antisépticos tópicos en pomada para proteger el punto de inserción."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con el método de inserción por zona (método ZIM) de canalización de catéteres venosos centrales de inserción periférica (PICC):",
+   "o": [
+    "Nos indica que la zona más adecuada para la inserción es la proximal por su baja tasa de complicaciones.",
+    "La zona distal es la que menos se asocia a complicaciones mecánicas e infecciosas.",
+    "La zona media se asocia a una mayor seguridad tanto en la inserción como en el mantenimiento.",
+    "Este método establece 3 zonas de punción teniendo en cuenta la distancia desde la muñeca hasta el hombro."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de limpiar las llaves o válvulas de los accesos intravenosos, indique el tiempo correcto en el cual podemos acceder en función del desinfectante:",
+   "o": [
+    "Alcohol isopropílico: 5 segundos; Clorhexidina alcohólica: 20 segundos; Povidona yodada: 6 minutos.",
+    "Alcohol isopropílico: 10 segundos; Clorhexidina alcohólica: 15 segundos; Povidona yodada: 30 segundos.",
+    "Alcohol isopropílico: 15 segundos; Clorhexidina alcohólica: 30 segundos; Povidona yodada: 60 segundos.",
+    "Alcohol isopropílico: 20 segundos; Clorhexidina alcohólica: 45 segundos; Povidona yodada: 2 minutos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al uso de clorhexidina en la preparación de la piel para la inserción de un catéter venoso periférico, señale la opción correcta:",
+   "o": [
+    "Preparar la piel limpia con una preparación de clorhexidina alcohólica al 5 % antes de la inserción de un catéter intravascular y en los cambios de apósito.",
+    "Si existe hipersensibilidad a la clorhexidina y la piel está limpia, como alternativa puede usarse suero fisiológico al 9 %.",
+    "Si existe hipersensibilidad a la clorhexidina, pueden usarse como alternativas tintura de yodo o alcohol al 70 %. 105 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Si existe hipersensibilidad a la clorhexidina, pueden usarse como alternativas tintura de yodo o alcohol al 96 %."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El tiempo que pueden permanecer a temperatura ambiente los frascos de hemocultivos antes de ser introducidos en el sistema de incubación no debe superar en ningún caso:",
+   "o": [
+    "2 horas.",
+    "6 horas.",
+    "12 horas.",
+    "18 horas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la extracción de hemocultivos, es cierto que:",
+   "o": [
+    "Se recomienda el uso de mascarilla durante la extracción.",
+    "Se recomienda el uso de clorhexidina acuosa 2 %, frotando 10 segundos y dejando secar.",
+    "Se recomienda no desechar la sangre extraída de un catéter venoso central previo a la inoculación en el frasco de hemocultivo.",
+    "Se recomienda sacar los hemocultivos coincidiendo con el pico febril del paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de Práctica Clínica Enfermera sobre Hemocultivos del Instituto Español de Investigación Enfermera, ¿Cuál es el mejor método de aplicación del antiséptico para desinfección de la piel previo a la extracción de hemocultivos?:",
+   "o": [
+    "Uso de clorhexidina 2 % alcohólica, frotando durante 30 segundos la zona indicada y dejando secar al menos 3-5 minutos.",
+    "Uso de clorhexidina 2 % alcohólica, frotando durante 30 segundos la zona indicada y dejando secar al menos 2 minutos.",
+    "Uso de clorhexidina 2 % alcohólica, frotando durante 15 segundos la zona indicada y dejando secar al menos 3-5 minutos.",
+    "Uso de clorhexidina 2 % alcohólica por fricción en un área de 2-3 x 2-3 cm durante 15 segundos la zona indicada y dejando secar al menos 3-5 minutos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Se va a realizar la extracción de una muestra para hemocultivos a un niño de 48 horas de vida. ¿Qué antiséptico es el recomendado para la desinfección de la piel?:",
+   "o": [
+    "Clorhexidina alcohólica al 0.5%, dejando secar 2 minutos.",
+    "Clorhexidina acuosa al 1%, dejando secar 2 minutos.",
+    "Clorhexidina alcohólica al 0,12%, dejando secar 3-5 minutos.",
+    "Clorhexidina acuosa al 2%, dejando secar 3-5 minutos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La cavitación es un efecto biológico específico de:",
+   "o": [
+    "La ecografía.",
+    "La Resonancia Magnética Nuclear.",
+    "La Tomografía Computadorizada.",
+    "La Radiología convencional."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

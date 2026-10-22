@@ -108,7 +108,7 @@ sub: Resumen OPE Enfermería SMS · Macro y micronutrientes, clasificación de l
 !! Las vitaminas **no aportan energía**.
 !! Para ver si el soporte funciona esta semana: **prealbúmina**, no albúmina.
 !! El hierro oral se toma en ayunas con **zumo de naranja**, nunca con leche.
-!! Realimentación = pico de insulina = **hipofosfatemia**.
+!! ==Realimentación = pico de insulina = **hipofosfatemia**.==
 
 ## Imágenes clave del tema
 

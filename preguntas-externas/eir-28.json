@@ -1,0 +1,241 @@
+{
+ "id": "eir-28",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 28,
+ "titulo": "EIR · Hematología",
+ "explicadas": false,
+ "descripcion": "21 preguntas de los exámenes EIR de 2018 a 2025 sobre hematología, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "¿A qué tipo de células madre pertenecen los progenitores hematopoyéticos?:",
+   "o": [
+    "Células Totipotentes.",
+    "Células Pluripotentes.",
+    "Células Retropotentes.",
+    "Células Multipotentes."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes causas de anemia responde a la clasificación de anemia regenerativa o periférica?:",
+   "o": [
+    "Presencia de un estado de aplasia medular.",
+    "El diagnóstico de una anemia ferropénica.",
+    "Un paciente que cursa con un déficit crónico y grave de ácido fólico o vitamina B12.",
+    "Un paciente con una fuerte hemorragia aguda por un traumatismo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre la enfermedad de von Willebrand es correcta?:",
+   "o": [
+    "Es un trastorno de la coagulación hereditario poco frecuente.",
+    "Se caracteriza por un déficit en la producción del factor IX.",
+    "Solo provoca sangrados graves y espontáneos.",
+    "Se transmite en la mayoría de los casos con un patrón autosómico dominante."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes es una coagulopatía adquirida?:",
+   "o": [
+    "Hemofilia A.",
+    "Enfermedad de Von Willebrand.",
+    "Coagulación intravascular diseminada (CID).",
+    "Enfermedad de Christmas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la segunda opción a la hora de transfundir plasma sanguíneo a una persona de grupo A:",
+   "o": [
+    "A.",
+    "B.",
+    "AB.",
+    "O."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta a la hora de transfundir un componente sanguíneo:",
+   "o": [
+    "Ha de llenarse la cámara de goteo por encima de la mitad con el fin de conseguir un mayor filtrado.",
+    "El tiempo máximo recomendado de infusión de una unidad de plaquetas es de 1 hora.",
+    "Como término medio, los componentes sanguíneos se administrarán a una velocidad de 20-25 ml/kg/h.",
+    "Los primeros 15 minutos de la transfusión deben realizarse a velocidad lenta, 10 gotas/minuto, con control estricto del profesional de enfermería."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál es una medida de prevención para la Lesión Pulmonar Aguda Relacionada con la Transfusión:",
+   "o": [
+    "Evitar transfundir plasma de donantes de sexo femenino. 613 HEMATOLOGÍA",
+    "Evitar transfundir los concentrados de hematíes en más de 6 horas.",
+    "Priorizar la transfusión de plaquetas en situaciones de shock hemorrágico frente a otros componentes.",
+    "Es recomendable asociar una perfusión de suero ringer lactato a la transfusión del hemocomponente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes tipos de reacciones transfusionales agudas es la considerada clínicamente más grave?:",
+   "o": [
+    "Reacción transfusional hemolítica.",
+    "Reacción transfusional anafiláctica.",
+    "La aparición de un edema pulmonar no cardiogénico asociado a la transfusión.",
+    "Reacción transfusional que cursa con sobrecarga circulatoria."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la donación de sangre, indique la opción correcta:",
+   "o": [
+    "La acupuntura, es criterio de exclusión en todo caso.",
+    "Es preferible que pasen al menos 2 horas desde una comida copiosa para realizar la donación.",
+    "Serán descartados aquellos donantes sometidos a tratamiento adelgazante con una pérdida de peso superior a 10 kg.",
+    "Se podrán aceptar aquellas personas que, tras la donación vayan a realizar una actividad de riesgo, siempre que ésta esté debidamente supervisada."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Al ir a una habitación a administrar un concentrado de plaquetas, el paciente dice que él tiene el grupo sanguíneo By que en la bolsa pone que el donante es A+. Se consulta con el banco de sangre y se comprueba que el donante es A+, el receptor es By el concentrado de plaquetas a administrar tiene un contenido de hematíes inferior a 2 ml. La actuación correcta sería:",
+   "o": [
+    "Descartar el uso del concentrado de plaquetas puesto que el paciente presenta incompatibilidad ABO e incompatibilidad Rh.",
+    "Informar al paciente de que la transfusión de plaquetas no precisa de compatibilidad de grupo sanguíneo, ya que posee un contenido de hematíes inferior a 2 ml. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 614",
+    "Consultar con el hematólogo de guardia y evaluar la posibilidad de premedicar con 40 mg de metilprednisolona intravenosa y 1 g de paracetamol intravenoso 30 minutos antes de la transfusión para evitar efectos secundarios por la incompatibilidad existente.",
+    "Administrar las plaquetas a través de un filtro especial para casos de incompatibilidad ABO de 170-200 μm, de forma lenta (1-2 h) y vigilar estrechamente la posible aparición de signos adversos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A un paciente politraumatizado se le solicita la transfusión de dos unidades de concentrado de hematíes y una de plasma fresco congelado. Tras determinar el grupo sanguíneo del paciente, el resultado obtenido es que los hematíes del paciente aglutinan con suero anti-B y no aglutinan con suero anti-A ni suero anti-D ¿Cuál de los siguientes hemoderivados sería más correcto transfundir?:",
+   "o": [
+    "Concentrado de hematíes del grupo B+ y plasma AB.",
+    "Concentrado de hematíes 0+ y plasma 0.",
+    "Concentrado de hematíes del grupo By plasma AB.",
+    "Concentrado de hematíes del grupo 0y plasma 0."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A un paciente con trombopenia sin sangrado activo ni riesgo de sobrecarga hídrica, se le solicita la transfusión profiláctica de un pool de plaquetas de 300 cc de volumen. ¿Cuál es la velocidad de infusión recomendada para este paciente?:",
+   "o": [
+    "Entre 900 y 600 ml/h.",
+    "Entre 300 y 150 ml/h.",
+    "Entre 150 y 100 ml/h.",
+    "Entre 100 y 75 ml/h."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Tras la administración de un concentrado de hematíes debe valorarse la aparición de signos de reacción hemolítica aguda. Entre estos signos se encuentran:",
+   "o": [
+    "Hipertensión.",
+    "Hematuria.",
+    "Hipotermia.",
+    "Eupnea."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes personas podría ser donante de sangre?:",
+   "o": [
+    "Mujer, 23 años, 59 kg de peso. Hace un mes y medio tuvo una fuerte gripe con fiebre de más de 39 ºC, totalmente resuelta hace un mes.",
+    "Varón, 17 años, 89 kg de peso. Deportista de élite federado, con seguimiento estrecho por parte de los médicos de la federación, goza de un excelente estado de salud. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 616",
+    "Varón, 59 años, 71 kg de peso. Tuvo cáncer de tiroides hace 10 años, actualmente libre de la enfermedad.",
+    "Mujer, 28 años, 65 kg de peso. Fue madre de parto natural hace 4 meses, del que está totalmente recuperada y goza actualmente de un excelente estado de salud."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes constituye una causa excluyente a la hora de realizar una donación de sangre?:",
+   "o": [
+    "Toma de ansiolíticos.",
+    "Vacunación de gripe inferior a 1 semana.",
+    "Consumo de cocaína por vía nasal/esnifada.",
+    "Primera donación a partir de los 65 años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la donación de sangre, indique la respuesta INCORRECTA:",
+   "o": [
+    "El intervalo mínimo entre dos extracciones consecutivas de sangre total, salvo circunstancias excepcionales, no podrá ser inferior a dos meses. El número máximo de estaciones anuales no podrá superar el número de cuatro para los hombres y tres para las mujeres.",
+    "La cantidad de sangre extraída en cada ocasión deberá tener en cuenta el peso del donante, y no deberá superar el 13 por ciento del volumen sanguíneo teórico del volumen del donante.",
+    "La realización de una gastroscopia en los dos meses previos a la donación es un criterio de exclusión temporal.",
+    "Las personas diabéticas con insulinoterapia y niveles de glucosa (últimas mediciones) dentro de la normalidad pueden adaptarse como donantes."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la transfusión sanguínea ¿Cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "Se recomienda realizar la transfusión dentro de los 30 minutos siguientes a la retirada de la refrigeración del banco de sangre.",
+    "Una vez iniciada la transfusión, el periodo de mayor vigilancia deben ser los primeros 15 minutos.",
+    "En pacientes con alto riesgo de sobrecarga de volumen podremos alicuotar los concentrados de hematíes con la finalidad de no superar las cuatro horas de duración en la transfusión de una unidad completa.",
+    "Ante la sospecha de una reacción transfusional la primera medida a adoptar, tras verificar todos los registros, las etiquetas e identificaciones del producto transfundido y del paciente, es avisar al responsable del banco de sangre y seguir sus instrucciones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al estado hematológico y soporte transfusional de los pacientes con Síndrome Mielodisplásico (SMD), es correcto que:",
+   "o": [
+    "La definición de anemia en estos pacientes, de acuerdo con la OMS, corresponde a un valor de Hb inferior a 10 g/dL en varones, o inferior a 8 g/dL en mujeres.",
+    "La cifra de Hb en el momento del diagnóstico de SMD suele mostrar valores normales en el 90 % de los pacientes.",
+    "La anemia crónica en estos pacientes puede provocar mayor gasto cardiaco, hipertrofia ventricular y riesgo de síndromes coronarios.",
+    "La coexistencia de insuficiencia renal y niveles disminuidos de eritropoyetina (EPO) tiene, paradójicamente, un efecto protector sobre el deterioro medular haciendo que responda mejor a la administración de EPO."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes Trasplantes de Progenitores de la Hematopoyesis (TPH) no responde a su origen?:",
+   "o": [
+    "TPH autólogo.",
+    "TPH alogénico.",
+    "TPH singénico.",
+    "TPH mieloablativo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El acondicionamiento en régimen mieloablativo como terapia previa ante un Trasplante de Progenitores de la Hematopoyesis (TPH) consiste en:",
+   "o": [
+    "Es un tratamiento en el cual erradicamos la hematopoyesis del receptor y se crea un espacio en la médula ósea del receptor para albergar a la nueva.",
+    "Es un tratamiento en el que no se erradica la hematopoyesis del receptor, pero se crea un espacio en la médula ósea del receptor para albergar a la nueva.",
+    "Es un tratamiento en el cual se crea un espacio en la médula ósea, pero sin afectar a la hematopoyesis completa del receptor, afectando únicamente a la serie blanca.",
+    "Es un tratamiento preventivo para la posible aparición de un rechazo del receptor al injerto, llamado síndrome del implante. 619 HEMATOLOGÍA"
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de los siguientes cánceres diagnosticados durante el proceso de donación de órganos NO supone un riesgo inaceptable para el proceso:",
+   "o": [
+    "Cáncer de pulmón.",
+    "Cáncer de mama.",
+    "Leucemia.",
+    "Cáncer de próstata."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

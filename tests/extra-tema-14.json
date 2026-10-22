@@ -1,0 +1,471 @@
+{
+ "tema": 14,
+ "preguntas": [
+  {
+   "q": "Según la Orden PCM/1049/2022, de 1 de noviembre, por la que se crea la Comisión Interministerial de Biomonitorización Humana (BMH), es INCORRECTO que:",
+   "o": [
+    "Corresponde a las Comunidades Autónomas la creación, coordinación y mantenimiento de la estructura nacional de BMH junto con el Instituto de Salud Carlos III.",
+    "Es una herramienta de gran utilidad para la protección de la salud, proporcionando información concreta sobre la exposición a sustancias químicas a través de una valoración integrada de las mismas o de sus metabolitos en muestras humanas.",
+    "Permite conocer los niveles de exposición individual, de la población general o de grupos específicos, así como las rutas de exposición e identificación de los factores determinantes.",
+    "Permite diseñar políticas enfocadas a la reducción de la exposición, con objeto de reducir el daño en las personas y controlar la eficacia de las mismas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes NO está dentro de los Objetivos de Desarrollo Sostenible propuestos por la OMS?:",
+   "o": [
+    "Fin de la pobreza.",
+    "Agua limpia y saneamiento.",
+    "Salud y bienestar.",
+    "Cero residuos espaciales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de los determinantes de la salud integra una serie de dimensiones clave que son:",
+   "o": [
+    "Biología humana, medio ambiente, hábitos de salud y estilos de vida y la organización de los servicios de salud.",
+    "Determinantes políticos, el entorno social, ambiental y laboral, la integración social, junto con los estilos de vida.",
+    "Determinantes estructurales de las desigualdades de la salud, donde se encuentra el contexto socioeconómico y político, y los determinantes intermedios de la salud.",
+    "Dimensiones individuales y sociales realizadas con el estilo de vida, las influencias comunitarias, las condiciones de vida y de trabajo, y las condiciones sociales que los rodean."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Atendiendo a la imagen, seleccione la respuesta correcta:",
+   "o": [
+    "Se corresponde con el marco de determinantes de la salud de Lalonde (1991).",
+    "La capa indicada con el número 3, se corresponde con las redes sociales y comunitarias.",
+    "No contempla el sexo como factor determinante debido a la invisibilidad del momento.",
+    "No se contemplan los factores constitucionales."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t30-2022-2023-6.jpg"
+  },
+  {
+   "q": "La teoría de la salutogénesis fue enunciada por:",
+   "o": [
+    "Albert Bandura.",
+    "Aaron Antonovsky.",
+    "Viktor Emil Frankl.",
+    "Butler Flora."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la promoción de la salud basada en el modelo de activos para la salud, cuál de estas afirmaciones es INCORRECTA:",
+   "o": [
+    "En las intervenciones de salud comunitaria, la incorporación del modelo de activos para la salud puede reforzar aspectos relacionados con la equidad y el enfoque hacia los determinantes sociales.",
+    "El modelo de déficits, centrado en la resolución de los problemas de salud potenciando la medicalización y dependencia, y el modelo de activos de salud que aprovecha los talentos y habilidades de la comunidad, no pueden complementarse por resultar incompatibles en su enfoque.",
+    "La intersectorialidad y participación de intervenciones comunitarias podrían potenciarse utilizando el modelo de activos para la salud.",
+    "El modelo de activos aporta una perspectiva de la salud que fomenta que las comunidades se centren en aquello que mejora su salud y bienestar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La vivienda como determinante social de la salud es:",
+   "o": [
+    "Un recurso material.",
+    "Un eje de la desigualdad.",
+    "Un factor conductual.",
+    "Un determinante estructural."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes NO es una Línea Estratégica de la Estrategia de Salud Pública 2022:",
+   "o": [
+    "Fortalecer la salud pública para mejorar la salud de la población.",
+    "Modernizar la vigilancia de la salud pública y garantizar la capacidad de respuesta ante los riesgos y las emergencias en salud.",
+    "Promover la salud y la equidad en salud en la infancia.",
+    "Mejorar la salud y el bienestar a través de la promoción de estilos de vida y entornos saludables, seguros y sostenibles."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las Recomendaciones de Sanidad para la población y voluntarios de la DANA que afectó a algunos pueblos de la provincia de Valencia en octubre de 2024, se desaconseja la participación en las tareas de limpieza de:",
+   "o": [
+    "Personas menores de 18 años.",
+    "Mujeres embarazadas.",
+    "Personas no vacunadas contra el tétanos.",
+    "Personas mayores de 65 años con problemas de movilidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Son radiaciones ionizantes a las que puede resultar expuesto un o una profesional que trabaje en el ámbito sanitario:",
+   "o": [
+    "Radiofrecuencia y microondas.",
+    "Resonancia magnética nuclear y onda corta.",
+    "Magnetoterapia y fototerapia.",
+    "Tomografía axial computadorizada y radiografía."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Es correcto decir sobre los principales diseños evaluativos de intervenciones en Salud Pública:",
+   "o": [
+    "Los diseños no experimentales tienen grupo de comparación, recogiendo información tanto de los individuos que reciben intervención como de los individuos que no reciben intervención.",
+    "Los diseños cuasiexperimentales tienen grupo de comparación, asignando a cada grupo de manera aleatoria.",
+    "El diseño de serie temporal múltiple, es un tipo de diseño cuasiexperimental con presencia de grupo de comparación.",
+    "Los ensayos comunitarios, se encuentran englobados dentro de los diseños experimentales, seleccionando los grupos de manera aleatoria."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los indicadores clave del Sistema Nacional de Salud, ¿cuáles son los que proporcionan información de referencia para el análisis de la oferta y distribución de recursos?:",
+   "o": [
+    "Indicadores de utilización del Sistema Sanitario.",
+    "Indicadores estructurales.",
+    "Indicadores de calidad de la atención en el Sistema Nacional de Salud.",
+    "Indicadores de accesibilidad al sistema."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La mortalidad prematura es un indicador clave del Sistema Nacional de Salud. Señale la respuesta INCORRECTA:",
+   "o": [
+    "Su fórmula es: Población menor de 75 años en ese año, dividido por el número de defunciones en menores de 75 años durante un año para cada una de las causas seleccionadas, multiplicado por 1000.",
+    "El cáncer y la cardiopatía isquémica son causas de muerte prematura incluidas en este indicador.",
+    "La diabetes mellitus y la enfermedad vascular cerebral son causas de muerte prematura incluidas en este indicador.",
+    "Se estudia y analiza por sexo y comunidad autónoma."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Identifique de qué herramienta se trata:",
+   "o": [
+    "Ecomapa.",
+    "Genograma.",
+    "Apgar familiar.",
+    "Ficha familiar."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t32-2021-2022-6.jpg"
+  },
+  {
+   "q": "El aborto como suceso en un miembro del núcleo familiar es:",
+   "o": [
+    "Un aspecto estructural del APGAR familiar.",
+    "Un aspecto/símbolo a incluir en el genograma.",
+    "Un determinante incluido en el modelo de Lalonde.",
+    "Un acontecimiento no incluido en la escala de acontecimientos vitales estresantes."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La herramienta utilizada para apreciar la estructura familiar y la conexión de ésta con la red de soporte extrafamiliar de recursos existente o ausente en cada familia, se denomina:",
+   "o": [
+    "Genograma.",
+    "Ecomapa.",
+    "Ficha familiar.",
+    "APGAR familiar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La incorporación de un nuevo miembro a la familia es:",
+   "o": [
+    "Un determinante incluido en el modelo de Lalonde.",
+    "Un acontecimiento incluido en la escala de acontecimientos vitales estresantes.",
+    "Un aspecto a valorar incluido en el documento Consejo integral en estilo de vida en Atención Primaria, vinculado con recursos comunitarios en población adulta.",
+    "Una situación a valorar en el APGAR familiar (adaptación, participación, gradiente de recurso personal, afecto y recursos)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El siguiente símbolo utilizado en el genograma identifica a:",
+   "o": [
+    "Paciente identificado.",
+    "Mujer con Problema de alcoholismo.",
+    "Mujer embarazada.",
+    "Cuidadora principal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO es una de las dimensiones del empoderamiento comunitario?:",
+   "o": [
+    "Comunitaria o colectiva.",
+    "Individual.",
+    "Organizacional.",
+    "Familiar."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando la población participa en la toma de decisiones de forma autónoma y desarrolla parcialmente o por sí misma las acciones planificadas, ¿a qué nivel de participación comunitaria corresponde durante la elaboración de un programa de salud?:",
+   "o": [
+    "Decisión-Acción Conjunta.",
+    "Control comunitario.",
+    "Liderazgo múltiple y compartido.",
+    "Consulta."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el modelo de atención primaria orientada a la comunidad (APOC), uno de los pilares fundamentales es:",
+   "o": [
+    "La planificación sanitaria basada en indicadores clínico-epidemiológicos del centro de salud. 677 ENFERMERÍA COMUNITARIA",
+    "La participación activa de la comunidad en la planificación y evaluación de los servicios.",
+    "La priorización de la atención al medio ambiente del entorno.",
+    "La priorización de la adecuación de las infraestructuras urbanas del entorno."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique con qué término se conocen las diferencias sistemáticas en una o más dimensiones de la salud entre grupos o subgrupos de población, que son consideradas socialmente injustas y potencialmente evitables:",
+   "o": [
+    "Diferencias relativas de salud.",
+    "Ley inversa de la asistencia de Hart.",
+    "Desigualdades sociales en salud.",
+    "Determinantes sociales de la salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Atendiendo a la imagen, seleccione la respuesta correcta:",
+   "o": [
+    "En las teorías y la práctica de este modelo, la capacidad, la habilidad y el talento de los individuos, las familias y las comunidades, buscan soluciones positivas que les fortalezcan su autoestima para resolver los retos del ambiente.",
+    "Se corresponde con el modelo del déficit.",
+    "Se sustenta en una metodología que enfatiza el desarrollo de políticas y actividades basadas en las capacidades, habilidades y recursos.",
+    "Fue propuesto por Dubos, 1959."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t32-2022-2023-7.jpg"
+  },
+  {
+   "q": "Atendiendo a la propuesta de indicadores comunes para la evaluación de estrategias de salud comunitaria y las acciones del plan de acción de Atención Primaria, el porcentaje de Comunidades Autónomas que tienen implantada la Cartera de Servicios Autonómica de Atención Comunitaria, sería de tipo:",
+   "o": [
+    "De Estructura.",
+    "De Proceso.",
+    "De Resultado.",
+    "De Eficacia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre los agentes comunitarios, clave en los procesos comunitarios, señale la opción FALSA:",
+   "o": [
+    "Son el conjunto de diferentes actores y actrices formales e informales que operan en el entorno comunitario.",
+    "Se clasifican en Administraciones, recursos técnicos y profesionales públicos y privados, y ciudadanía.",
+    "La ciudadanía siempre ha de estar representada mediante asociaciones o grupos, para mejorar el funcionamiento del proceso, no se recomienda la participación individual.",
+    "En la acción comunitaria es especialmente importante el papel del gobierno local dentro de las administraciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las acciones propias del Nivel 2 de Salud Comunitaria en Atención Primaria (AP) se contempla:",
+   "o": [
+    "Desarrollar protocolos que guíen y sistematicen la recomendación de activos para la salud y recursos comunitarios.",
+    "Contar con la experiencia, los materiales y las acciones que se organizan desde las escuelas de salud y desde otras iniciativas y recursos de la comunidad.",
+    "Promover la participación de profesionales de AP en actividades de educación para la salud grupal con enfoque de determinantes sociales.",
+    "Regular, mediante normativa, los espacios formales de participación como los Consejos de Salud o las Comisiones de Salud Comunitaria de la Zona Básica de Salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de fortalecer la orientación comunitaria en Atención Primaria, la educación para la salud grupal trabajando sobre “las causas de las causas”, se corresponde con: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 686",
+   "o": [
+    "El nivel 1.",
+    "El nivel 2.",
+    "El nivel 3.",
+    "El nivel 4."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la nueva definición propuesta por la Organización Mundial de la Salud (OMS), la “alfabetización en salud” hace referencia a:",
+   "o": [
+    "Las habilidades cognitivas y sociales que determinan la motivación y la capacidad de las personas para acceder a la información, comprenderla y utilizarla de manera que promuevan y mantengan su salud.",
+    "Proceso orientado a empoderar a las personas para la toma de decisiones informadas, que combina oportunidades de aprendizaje planificadas que implican alguna forma de conocimiento y desarrollo de habilidades personales para mejorar la salud individual y comunitaria.",
+    "Habilidades para la promoción de la salud basada en el uso de estrategias para informar e influir en las decisiones individuales y comunitarias que mejoran la salud, abarcar procesos que faciliten el intercambio de información, promover cambios de comportamiento y apoyar la participación activa en la toma de decisiones relacionada con la salud.",
+    "El conocimiento y las competencias personales que se acumulan por medio de las actividades cotidianas, las interacciones sociales y entre generaciones. En los conocimientos y las competencias personales influyen las estructuras institucionales y la disponibilidad de recursos que permiten a las personas acceder a la información y a los servicios, así como comprenderlos, evaluarlos y utilizarlos de manera que promuevan y mantengan una buena salud para sí mismo y su entorno."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el modelo de Nutbeam, ¿cuáles son las tres dimensiones que conforman la alfabetización en salud?:",
+   "o": [
+    "Funcional, interactiva y crítica.",
+    "Cognitiva, conductual y emocional.",
+    "Técnica, informativa y comunicativa.",
+    "Básica, funcional y comunitaria."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de las “5 Aes” para las intervenciones de asesoramiento incluye:",
+   "o": [
+    "Averiguar.",
+    "Abordar.",
+    "Acompañar.",
+    "Asegurar."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del proceso de enseñanza-aprendizaje, en la etapa de actuación se incluye:",
+   "o": [
+    "Desarrollar conocimientos.",
+    "Analizar diferentes aspectos.",
+    "Reflexionar sobre el área emocional.",
+    "Desarrollar recursos y habilidades."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de plantearse el diseño de un programa de Educación para la Salud (EpS), identifique la opción INCORRECTA:",
+   "o": [
+    "La promoción y EpS deben responder a las diferentes necesidades de salud.",
+    "El área reconocida y prioritaria de intervención a tener en cuenta para su abordaje en promoción de la salud son los problemas de salud.",
+    "Los objetivos y planteamientos de la formación tendrán en cuenta conocimientos, actitudes y habilidades.",
+    "El programa de educación debe seguir una metodología diseñada previamente a su ejecución."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué tipo de aprendizaje NO se recomienda dentro de la metodología de la Educación para la Salud?:",
+   "o": [
+    "Aprendizaje significativo.",
+    "Aprendizaje centrado en el discente.",
+    "Aprendizaje constructivista.",
+    "Aprendizaje conductivo."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Las rejillas, como técnica formativa utilizada en Educación para la Salud, se corresponde con:",
+   "o": [
+    "Una técnica de investigación.",
+    "Una técnica expositiva.",
+    "Una técnica de análisis.",
+    "Una técnica de desarrollo de habilidades."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Para reorganizar informaciones (transmitir informaciones, conceptos, esquemas interpretativos, etc.) dentro del proceso enseñanza-aprendizaje en Educación para la Salud, una de las técnicas de elección para su abordaje sería:",
+   "o": [
+    "Rejillas.",
+    "Panel de expertos.",
+    "Role-playing.",
+    "Análisis de problemas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los factores personales tienen mucha influencia en los comportamientos en salud, pudiendo ser del área cognitiva, emocional o de habilidades. ¿Cuál de los siguientes factores pertenece al área emocional de la persona?:",
+   "o": [
+    "Autoeficacia.",
+    "Capacidades cognitivas.",
+    "Habilidades psicomotoras.",
+    "Estilos de pensamiento."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué tipo de aprendizaje se debe trabajar desde la Educación para la Salud?:",
+   "o": [
+    "Aprendizaje significativo.",
+    "Aprendizaje informal.",
+    "Aprendizaje personalizado.",
+    "Aprendizaje Blended."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La tormenta de ideas como técnica formativa utilizada en educación para la salud se corresponde con:",
+   "o": [
+    "Una técnica expositiva.",
+    "Una técnica de análisis.",
+    "Una técnica de investigación en el aula.",
+    "Una técnica de desarrollo de habilidades."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO forma parte de las intervenciones de consejo y asesoramiento del modelo de las 5 recomendaciones ´A´ de las U.S. Preventive Services Task Force (USPSTF)?:",
+   "o": [
+    "Assess-Averiguar.",
+    "Agree-Acordar.",
+    "Accompany-Acompañar.",
+    "Arrange-Asegurar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La intervención educativa de tipo oportunista, de 2 a 10 minutos de duración, que incluye información y una propuesta motivadora de cambio, aprovechando el encuentro profesional corresponde a:",
+   "o": [
+    "Educación grupal o colectiva.",
+    "Educación individual.",
+    "Educación particular.",
+    "Consejo breve."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el test de Morisky Green Levine de adherencia al tratamiento es cierto que:",
+   "o": [
+    "Se considera un paciente cumplidor si responde afirmativamente a todos los ítems.",
+    "Se considera un paciente cumplidor si responde de forma negativa a todos los ítems.",
+    "Se considera un paciente cumplidor si responde correctamente al menos al 75 % de los ítems.",
+    "Se considera un paciente cumplidor si responde de forma incorrecta al menos al 75 % de los ítems."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifica una de las herramientas que se utiliza para valorar la adherencia terapéutica del paciente en la consulta de Atención Primaria:",
+   "o": [
+    "Test de Morisky-Green.",
+    "Test de Richmond.",
+    "Cuestionario EuroQol - 5D.",
+    "Cuestionario de Salud SF-12."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

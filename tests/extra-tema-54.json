@@ -1,0 +1,181 @@
+{
+ "tema": 54,
+ "preguntas": [
+  {
+   "q": "En gestión de la calidad, una de las técnicas de análisis de la situación sería la aplicación de la metodología DAFO. Esta herramienta de gestión permite obtener una representación de las debilidades, amenazas, fortalezas y oportunidades. Identiﬁque la respuesta correcta:",
+   "o": [
+    "Debilidades: están relacionadas con características externas.",
+    "Amenazas: son todos aquellos factores externos que pueden llegar a impedir la ejecución de una estrategia o poner en peligro su viabilidad.",
+    "Oportunidades: reúnen el conjunto de recursos internos, posiciones de poder y cualquier tipo de ventaja competitiva propia.",
+    "El análisis externo expone los puntos fuertes y las debilidades."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el orden correcto de las fases del ciclo PDCA o ciclo de Deming que se utiliza para la mejora continua de la calidad asistencial?:",
+   "o": [
+    "Diagnosticar – Planificar – Evaluar – Corregir.",
+    "Planificar – Hacer – Verificar – Actuar.",
+    "Analizar – Controlar – Documentar – Aplicar.",
+    "Observar – Ejecutar – Supervisar – Repetir."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe correctamente la clasificación de alguno de los indicadores en el modelo de calidad de Donabedian?:",
+   "o": [
+    "Un indicador de estructura mide el número de pacientes que mejoran su estado de salud tras un tratamiento.",
+    "Un indicador de resultado refleja los efectos de la atención sanitaria en la salud del paciente o su satisfacción.",
+    "Un indicador de proceso evalúa la disponibilidad de recursos humanos, materiales o tecnológicos en el centro sanitario.",
+    "Los indicadores de resultado se utilizan para evaluar cómo se desarrollan las actividades."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la implementación del ciclo PDCA (Plan-Do-Check-Act) dentro de un proceso de mejora continua en una unidad de enfermería, ¿qué implicaciones tiene un análisis incorrecto en la fase \"Check\"?:",
+   "o": [
+    "La imposibilidad de ajustar los recursos humanos.",
+    "La identificación inadecuada de indicadores clave de desempeño (KPI) para futuras mejoras.",
+    "La planificación incorrecta en la fase inicial \"Plan\" debido a falta de datos previos.",
+    "Que la fase \"Act\" se limite a una repetición de procesos sin lograr mejoras sustanciales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indica cuál de los siguientes son instrumentos esenciales para medir la calidad en una organización sanitaria, y muestran la tendencia y/o desviación de una actividad, con respecto a una unidad de medida convencional:",
+   "o": [
+    "Objetivos de evaluación.",
+    "Estándares de calidad.",
+    "Líneas de tendencia.",
+    "Indicadores de calidad."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El Modelo del Queso Suizo es una herramienta de análisis y gestión de riesgos. NO se incluye en su representación gráﬁca:",
+   "o": [
+    "Una serie de dominios, entre ellos: influencias de la organización.",
+    "Una serie de dominios, entre ellos: supervisión.",
+    "Dos tipos de fallas: actos específicos y condiciones previas.",
+    "Vector de problemas que atraviesa todas las rebanadas hasta que un escenario adverso se materializa."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando hablamos de un error que no produjo un evento adverso porque se detectó a tiempo, nos referimos a:",
+   "o": [
+    "Evento inverso.",
+    "Evento centinela.",
+    "Cuasifalla.",
+    "Seguridad del paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Por un error de prescripción, se ha administrado a un paciente un antibiótico por vía intravenosa, sobre el cual constaba como alérgico en su historia clínica. Sin embargo, el paciente no ha sufrido ningún tipo de reacción. De acuerdo con la taxonomía de seguridad del paciente, promovida por la Organización Mundial de la Salud, diríamos que ha ocurrido:",
+   "o": [
+    "Un cuasi incidente.",
+    "Un incidente sin daño.",
+    "Un evento adverso.",
+    "Una lesión subyacente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El daño sufrido por un paciente como consecuencia de la atención recibida se denomina:",
+   "o": [
+    "Negligencia.",
+    "Mala praxis.",
+    "Incidente relacionado con la seguridad del paciente.",
+    "Evento adverso."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el modelo del “queso suizo” utilizado por Reason, en la organización se deben establecer defensas, barreras y puestos de seguridad que prevengan los errores. Esta teoría establece que el error humano es producto de dos factores:",
+   "o": [
+    "Los fallos activos están relacionados con procesos mal diseñados y decisiones incorrectas tomadas en jerarquías superiores.",
+    "Los fallos latentes pueden deberse a la falta de habilidades técnicas o al déficit de conocimientos de los profesionales que los cometen. Su efecto es inmediato.",
+    "Los fallos latentes están en la organización (error latente) mientras que los fallos activos son el error activo.",
+    "Los fallos latentes son debidos a la falta de habilidades técnicas o al déficit de conocimientos de los profesionales que los cometen, mientras que los fallos activos están relacionados con procesos mal diseñados."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué denominamos Error?:",
+   "o": [
+    "Hecho de no llevar a cabo una acción prevista según se pretendía o de aplicar un plan incorrecto.",
+    "Desvío deliberado de las normas, reglas o procedimientos operativos.",
+    "Evento o circunstancia que ha ocasionado o podría haber ocasionado un daño innecesario a un paciente.",
+    "Daño imprevisto derivado de un acto justificado, realizado durante la aplicación del procedimiento correcto en el contexto en que se produjo el evento."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué entendemos por Evento Adverso?:",
+   "o": [
+    "Incidente que produce daño al paciente.",
+    "Cualquier situación en la que una sucesión continuada de efectos fue detenida evitando la aparición de potenciales consecuencias.",
+    "Se refiere al hecho de no llevar a cabo una acción planeada o de aplicar un plan incorrecto.",
+    "Cualquier situación en la que las cosas se han hecho de forma correcta, pero los resultados han sido desfavorables."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La comunicación entre el personal sanitario en el momento de la transferencia, los cambios de turnos y entre distintas unidades de atención al paciente son momentos críticos que pueden provocar eventos adversos. Entre las estrategias propuestas por la Organización Mundial de la Salud y la Joint Comission para reducir estos posibles eventos adversos se encuentra:",
+   "o": [
+    "El uso de la técnica SBAR (Situación, Antecedentes, Evaluación y Recomendación).",
+    "Llegar 15 minutos antes al puesto de trabajo.",
+    "Dejar que la familia sea partícipe en la transmisión de la información durante el cambio de turno.",
+    "El tiempo necesario para transmitir toda la información referente al paciente no debe sobrepasar los 5 minutos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué entendemos como Cultura de Seguridad?:",
+   "o": [
+    "Conjunto de normas para aplicar durante el procedimiento quirúrgico con el fin de garantizar la seguridad del paciente en la prevención de eventos adversos relacionados con: la infección de la herida quirúrgica, el lugar/ paciente/ procedimiento erróneo, los equipos quirúrgicos, la anestesia y el uso del medicamento.",
+    "Es el producto de los valores, actitudes, percepciones, competencias y patrones de conducta de individuos y grupos que determinan el compromiso, así como su estilo y habilidad respecto a la salud de la organización y la gestión de la seguridad.",
+    "El grado en que los servicios de salud para los individuos y la población aumentan la probabilidad de obtener los resultados deseados y son al mismo tiempo consistentes con el conocimiento científico actual.",
+    "Actividades clínicas, administrativas e industriales que las organizaciones emplean con miras a identificar, evaluar y reducir el riesgo de lesión para los pacientes, el personal y los visitantes y el riesgo de pérdidas para la organización."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La observación es una de las funciones primordiales de los profesionales de la salud. Señale la opción INCORRECTA:",
+   "o": [
+    "Es un proceso pasivo y voluntario.",
+    "Es el arte de saber escuchar, escoger y analizar la información.",
+    "Se debe hacer con discreción.",
+    "Debe ser precisa, verídica y completa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO es una norma para la estandarización de los resultados sensibles a la práctica enfermera?:",
+   "o": [
+    "Las etiquetas de resultados deben ser concisas.",
+    "Los resultados deben describir una conducta o intervención enfermera.",
+    "Las etiquetas de resultados deben conceptualizarse y exponerse en niveles medios de abstracción.",
+    "Las definiciones de los resultados deben ser consistentes con la escala de medición."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

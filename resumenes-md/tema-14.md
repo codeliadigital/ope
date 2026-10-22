@@ -161,7 +161,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Educación para la salud (teorías
 
 !! El teach-back evalúa la **claridad del profesional**, no la inteligencia del paciente.
 !! En un grupo de autoayuda la enfermera **facilita**, no dirige.
-!! Cribado = prevención **secundaria** (reduce prevalencia); desprescribir para evitar iatrogenia = **cuaternaria**.
+!! ==Cribado = prevención **secundaria** (reduce prevalencia); desprescribir para evitar iatrogenia = **cuaternaria**.==
 !! Componente C de Hanlon: **0,5-1,5**, nunca 0-10.
 !! Para comparar la mortalidad de dos regiones: tasa **ajustada**, no bruta.
 

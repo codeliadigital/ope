@@ -38,7 +38,7 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 |---|---|---|---|---|
 | Partícula | — | **> 5 µm** (caen a 1-1,5 m) | **< 5 µm** (suspendidas) | — |
 | Indicaciones | **Multirresistentes** (SARM, BLEE, carbapenemasas, *Acinetobacter*), ***C. difficile***, rotavirus, norovirus, **sarna**, VRS | **Meningococo**, Hib, **tos ferina**, difteria faríngea, *Mycoplasma*, estreptococo A, **gripe**, parotiditis, rubeola | **Sarampión, varicela, tuberculosis** pulmonar o laríngea (**"SaVaTu"**); zóster diseminado | **Neutropenia < 500/mm³**, trasplante de progenitores, grandes quemados |
-| Habitación | Individual o **cohorte con el mismo germen** | Individual o cohorte con **≥ 1,5 m** | Individual, **presión negativa**, ≥ 6-12 renovaciones/h, salida al exterior o **filtro HEPA** | Individual, **presión positiva**, aire HEPA |
+| Habitación | Individual o **cohorte con el mismo germen** | Individual o cohorte con **≥ 1,5 m** | Individual, ==**presión negativa**==, ≥ 6-12 renovaciones/h, salida al exterior o **filtro HEPA** | Individual, ==**presión positiva**==, aire HEPA |
 | Puerta | Abierta o cerrada | **Puede estar abierta** | **Siempre cerrada** | **Siempre cerrada** |
 | EPI del personal | **Bata y guantes** (retirar antes de salir) | **Mascarilla quirúrgica** (FFP2 si hay aerosoles) | **FFP2/FFP3**, puesta antes de entrar y **retirada fuera** | Higiene de manos, bata, mascarilla, guantes |
 | Traslado | — | Paciente con **mascarilla quirúrgica** | Paciente con **mascarilla quirúrgica** (nunca FFP2 con válvula) | Paciente con **FFP2/FFP3** |
@@ -71,8 +71,8 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 - **Socioculturales**: **gradiente social (Marmot)**, determinantes **estructurales** (gobernanza, renta, educación, género, etnia) e **intermedios** (vivienda, conductas, factores psicosociales y sistema sanitario).
 
 !! Infección a las **36 horas** del ingreso = **comunitaria**.
-!! Aéreo = **presión negativa** y puerta cerrada; protector = **presión positiva**.
-!! Retirada del EPI: **guantes primero**, **mascarilla al final y fuera**.
+!! ==Aéreo = **presión negativa** y puerta cerrada; protector = **presión positiva**.==
+!! ==Retirada del EPI: **guantes primero**, **mascarilla al final y fuera**.==
 !! Citostáticos: contenedor **azul**; punzantes: contenedor **rígido amarillo**, siempre grupo III.
 
 ## Imágenes clave del tema

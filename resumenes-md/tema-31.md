@@ -35,7 +35,7 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 - **Crisis asmática**: **Pulmonary Score** (leve < 3-4, moderada 4-6, grave > 6).
   - **Salbutamol** (primera línea); **bromuro de ipratropio** como coadyuvante en crisis **moderadas y graves**; **corticoides sistémicos** precoces; **oxigenoterapia de alto flujo** si no mejora.
   - **Tórax silente** = obstrucción extrema, **parada inminente** (no es mejoría).
-- **Laringitis (crup)**: **6 meses-3 años**, empeora de **noche**. Tríada: **tos perruna**, **afonía** y **estridor inspiratorio**; buen estado general (a diferencia de la epiglotitis).
+- **Laringitis (crup)**: **6 meses-3 años**, empeora de **noche**. Tríada: **tos perruna**, **afonía** y **estridor inspiratorio**; buen estado general (a diferencia de la epiglotitis). La **laringitis espasmódica** («falso crup») es de inicio **brusco nocturno, sin fiebre**, y cede en horas.
   - **Escala de Westley**: leve ≤ 2; moderada 3-7; grave 8-11; fallo ≥ 12.
   - **No agitar al niño** (en brazos de los padres; evitar explorar la faringe y pinchar). O₂ si SpO₂ < 93%.
   - **Dexametasona** en **dosis única** (0,15-0,6 mg/kg, máx. 10 mg; oral, IM o IV); alternativa **budesonida nebulizada** 2 mg.
@@ -79,6 +79,17 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
   - Cuidados: **aislamiento de gotas** hasta **24 h de antibiótico**; habitación **tranquila y en penumbra**; material de aspiración y oxígeno a mano. **No hacer punción lumbar** si hay focalidad, coma, papiledema o inestabilidad: **antibiótico empírico** (cefalosporina de 3.ª generación + vancomicina).
 - **Fiebre**: es una defensa; el objetivo es el **confort**. **Nunca alcohol ni agua fría** (escalofríos y vasoconstricción). Desabrigar, líquidos. **Paracetamol** (desde el periodo neonatal; sin acción antiinflamatoria); **ibuprofeno** (AINE, a partir de los primeros meses). **Varicela: no dar ibuprofeno** (infecciones graves por estreptococo del grupo A, fascitis necrotizante): solo **paracetamol**.
 
+### Otros procesos pediátricos frecuentes
+
+- **Convulsión febril**: la crisis más frecuente en la infancia (**6 meses-5 años**), con fiebre y **sin infección del SNC**. **Simple**: generalizada, **< 15 min**, una sola en 24 h; benigna. Actuación: **lateral de seguridad**, no meter nada en la boca, cronometrar; si dura **> 5 min**, **midazolam bucal o diazepam rectal**. Los antitérmicos **no previenen** recurrencias.
+- **Síndrome de Reye**: encefalopatía aguda + **daño hepático (esteatosis)** tras una virasis (**varicela, gripe**) tratada con **ácido acetilsalicílico**: **no dar AAS a menores de 16 años**.
+- **Cardiopatías congénitas**: **acianóticas** (cortocircuito izquierda-derecha): **CIV (la más frecuente)**, CIA, **ductus arterioso persistente** (soplo continuo «en maquinaria»; se cierra con **ibuprofeno o indometacina**), **coartación de aorta** (**pulsos femorales débiles** y HTA en brazos). **Cianóticas** (derecha-izquierda): **tetralogía de Fallot** (CIV, estenosis pulmonar, hipertrofia del VD y aorta cabalgante; la cianótica más frecuente después del periodo neonatal; en las **crisis hipoxémicas**: **posición genupectoral** o de cuclillas, O₂, morfina) y **transposición de grandes vasos** (la cianótica más frecuente en el **recién nacido**; necesita **prostaglandina E1** para mantener abierto el ductus).
+- **Celiaquía**: intolerancia permanente al **gluten** (gliadina: **trigo, cebada, centeno**; avena por contaminación); diarrea crónica, **distensión abdominal, nalgas aplanadas**, irritabilidad y estancamiento ponderal. Diagnóstico: **anticuerpos antitransglutaminasa IgA** y biopsia; tratamiento: **dieta sin gluten de por vida** (arroz y maíz permitidos).
+- **Estenosis hipertrófica del píloro**: varón de **2-8 semanas**, **vómitos en escopetazo no biliosos** tras las tomas, con hambre posterior, **oliva pilórica** palpable y **alcalosis metabólica hipoclorémica**; piloromiotomía.
+- **Genitales**: **fimosis** (fisiológica en el lactante; no forzar el prepucio); **parafimosis** (el prepucio retraído no vuelve: **reducción urgente**); **torsión testicular** (dolor brusco, **reflejo cremastérico abolido**; **cirugía en < 6 h**).
+- **Tumores infantiles**: lo más frecuente es la **leucemia (LLA, 2-5 años)**; el tumor sólido más frecuente son los del **SNC**; el sólido extracraneal más frecuente, el **neuroblastoma**; renal, el **tumor de Wilms** (masa abdominal: **no palpar repetidamente**); óseos: **osteosarcoma** (metáfisis de huesos largos, adolescentes) y **sarcoma de Ewing** (diáfisis y huesos planos).
+- **Hemofilia**: ligada al X (varones); **A = déficit de factor VIII** (la más frecuente), **B = factor IX**; **hemartros**. Evitar **IM, AAS y AINE**; la **enfermedad de von Willebrand** es el trastorno hereditario de la coagulación más frecuente.
+
 ## 6. Técnicas y procedimientos
 
 - **RCP pediátrica (ERC)**: la parada suele ser **asfíctica** (respiratoria). Abrir vía aérea (frente-mentón; **tracción mandibular** si trauma) y comprobar la respiración (≤ 10 s) → **5 insuflaciones de rescate** → signos de vida/pulso (**braquial o femoral** en el lactante) ≤ 10 s.
@@ -101,12 +112,14 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 !! Paralizado o sedado: las escalas conductuales (FLACC, NIPS) **no valen**.
 !! **Tórax silente** = gravedad extrema, no mejoría.
 !! Crup con adrenalina nebulizada: **observar 3-4 h** antes del alta.
-!! Lactante atragantado: **golpes en la espalda + compresiones torácicas**; Heimlich solo en > 1 año.
+!! ==Lactante atragantado: **golpes en la espalda + compresiones torácicas**; Heimlich solo en > 1 año.==
 !! Cámara: **un puff cada vez**; secar **sin frotar**.
-!! Holliday-Segar: **100 / 50 / 20** ml/kg/día.
+!! ==Holliday-Segar: **100 / 50 / 20** ml/kg/día.==
 !! **Potasio IV solo con diuresis**.
 !! Invaginación: **jalea de grosella** y **signo de la diana**.
 !! Varicela: **nada de ibuprofeno**.
+!! ==**AAS prohibido en < 16 años** (síndrome de Reye).==
+!! Tetralogía de Fallot: crisis hipoxémica → **posición genupectoral (cuclillas)**.
 !! RCP: FC **< 60 con mala perfusión** → compresiones; **15:2** con dos reanimadores.
 !! SNG en niños: **NEMU**; comprobar con **pH ≤ 5,5** o radiografía.
 !! Urocultivo fiable: **sondaje o punción suprapúbica**, no bolsa.

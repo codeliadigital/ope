@@ -1,0 +1,170 @@
+{
+ "tema": 46,
+ "preguntas": [
+  {
+   "q": "Según el World Cancer Report 2020 existe una fuerte evidencia de asociación entre obesidad y un mayor riesgo de algunos tipos de cáncer. De los siguientes, señale la opción INCORRECTA:",
+   "o": [
+    "Vejiga.",
+    "Esófago.",
+    "Colorrectal.",
+    "Riñón."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El Código Europeo Contra el Cáncer incluye entre las recomendaciones de prevención primaria y secundaria del cáncer todas EXCEPTO:",
+   "o": [
+    "Hacer ejercicio diario y limitar o evitar el consumo de alcohol.",
+    "Limitar el tratamiento con terapia hormonal sustitutiva en mujeres.",
+    "Realizar una determinación de PSA (Antígeno Prostático Específico) anual en varones mayores de 50 años como cribado del cáncer de próstata.",
+    "Participar en programas de vacunación infantil: Virus hepatitis B en recién nacidos y Virus del papiloma humano en niñas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la recomendación de las Guías Clínicas de Nutrición en el Paciente Oncológico de la Sociedad Española de Oncología Médica, con respecto al ejercicio físico en la prevención de la sarcopenia de los pacientes con cáncer, ¿cuáles son las estrategias más efectivas?:",
+   "o": [
+    "Entrenamiento anaeróbico, actividad física diaria y limitar ejercicios de resistencia.",
+    "Entrenamiento aeróbico, actividad física diaria y ejercicios de resistencia.",
+    "Entrenamiento aeróbico, actividad física diaria y limitar ejercicios de resistencia.",
+    ")Actividad física, ejercicios de tonificación muscular y entrenamiento con resistencia"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente joven al que se ha trasplantado de médula ósea hace un mes y medio acude a urgencias porque lleva un día con orina hematúrica. En urgencias es diagnosticado de cistitis hemorrágica. ¿Cuál de los siguientes fármacos quimioterápicos puede haber provocado esta situación?:",
+   "o": [
+    "Duxorubicina.",
+    "Citarabina.",
+    "Mesna.",
+    "Ciclofosfamida."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA con relación a los efectos secundarios de los pacientes sometidos a radioterapia en patologías de cuello y cabeza:",
+   "o": [
+    "La complicación más común de la radioterapia de cabeza y cuello es la xerostomía. El cambio de dieta a alimentos húmedos y más blandos pueden mejorar el estado nutricional y el uso de humidificador en la habitación también puede aportar algún beneficio.",
+    "El linfedema interno producido por la radioterapia afecta a la mucosa y al tejido blando subyacente. Puede provocar ronquera, compromiso de las vías respiratorias y disfagia.",
+    "El trismo es una complicación frecuente que suele afectar a más del 30 % de personas que han sido sometidas a radioterapia de cabeza y cuello. El uso de ejercicios mandibulares, dispositivos de movimiento pasivo y férulas, pueden ser útiles.",
+    "La disfagia y la toxicidad esofágica tras la radioterapia es una complicación que está infravalorada, ya que el desarrollo de estas suele producirse muchos años después."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta sobre la escala de valoración de la mucositis de la Organización Mundial de la Salud:",
+   "o": [
+    "Tiene 6 grados.",
+    "En el grado 5 están presentes úlceras muy extensas, encías sangrantes, infecciones, no hay saliva, imposibilidad de deglutir, soporte enteral o parenteral y dolor muy extenso.",
+    "En el grado 2 se observa eritema, úlceras poco extensas, se mantiene la deglución de sólidos y dolor ligero.",
+    "En el grado 1 se observa eritema, mucosa enrojecida, voz normal y dolor ligero."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta en relación con el manejo del reservorio subcutáneo:",
+   "o": [
+    "No inyectar líquidos a través del reservorio con jeringas de menos de 10 ml, ya que la silicona de la cámara se puede fisurar y extravasar la medicación.",
+    "Insertar la aguja oblicuamente a la membrana del reservorio, buscando el centro de la cámara y evitando puntos de inyecciones anteriores, haciéndola avanzar firmemente hasta encontrar el tope metálico.",
+    "Heparinizar el reservorio con 5 ml de una solución heparinizada con una concentración de 200 UI/ml.",
+    "Para infusiones prolongadas, cambiar la aguja al menos una vez cada cuatro semanas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas preventivas para la aparición de mucositis en pacientes a tratamiento radioterápico recomendaría todas las siguientes EXCEPTO:",
+   "o": [
+    "Uso de colutorios que contengan alcohol.",
+    "Evitar las bebidas ácidas.",
+    "Cepillado dental suave tras cada comida.",
+    "Enjuagues con infusión de manzanilla a temperatura ambiente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En un paciente que ha recibido quimioterapia, ¿cuál de las siguientes recomendaciones de cuidados NO daría como enfermera para el nadir?:",
+   "o": [
+    "Evitar las fuentes de infección.",
+    "Evitar las inyecciones intramusculares.",
+    "Planificar su actividad física.",
+    "Aumentar la ingesta de fruta fresca con su piel y verduras crudas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el manual de planes de cuidados estandarizados de enfermería dirigidos a paciente y familia en procesos avanzados y terminales, de la Asociación Española de Enfermería en Cuidados Paliativos (AECPAL), ¿cuál NO sería una clasificación de resultados de enfermería (NOC) relacionada con el diagnóstico “deterioro de la mucosa oral”?:",
+   "o": [
+    "Hidratación.",
+    "Restablecimiento de la salud bucal.",
+    "Satisfacción del paciente/usuario: Control de síntomas.",
+    "Severidad de los síntomas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO ES una causa de dolor en los niños con cáncer relacionadas con el tratamiento?:",
+   "o": [
+    "La mucositis.",
+    "La quimioterapia.",
+    "La fiebre.",
+    "Enfermedad injerto contra huésped."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la cantidad máxima de fluidos en 24 horas que se pueden administrar por vía subcutánea a un paciente con deshidratación moderada o leve?:",
+   "o": [
+    "1.500 ml en total, en uno o varios puntos de punción.",
+    "1.500 ml por cada punto de punción, siendo el máximo 3 puntos de punción diferentes.",
+    "2.500 ml.",
+    "3.000 ml, en dos puntos de punción."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes zonas de punción NO se encuentra indicada para la infusión subcutánea de líquidos?:",
+   "o": [
+    "Zona glútea.",
+    "Zona infraclavicular.",
+    "Zona escapular.",
+    "Zona deltoidea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando la infusión subcutánea se utiliza para infundir medicación, se recomienda el cambio del sitio de punción:",
+   "o": [
+    "Cada 72-96 horas.",
+    "Cada vez que se infunde una nueva dosis de medicación.",
+    "Cada 7 días.",
+    "No se debe cambiar rutinariamente, sólo se cambiará cuando haya signos de complicaciones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son signos de Menten?:",
+   "o": [
+    "Rojeces en la cara y brazos.",
+    "Livideces, nariz fría o pálida, y extremidades frías. 387 PACIENTE ONCOLÓGICO",
+    "Sed, sequedad de boca y tos.",
+    "Sensación de mareo, disnea y somnolencia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

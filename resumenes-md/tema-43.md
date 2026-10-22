@@ -45,6 +45,8 @@ sub: Resumen OPE Enfermería SMS · Recuerdo y embarazo, valoración (dolor mec�
 
 - **Artrosis**: degeneración del **cartílago** con **osteofitos**; primaria (edad, sobrecarga) o secundaria. Dolor **mecánico**, rigidez corta, crepitación. Rodilla (gonartrosis), cadera (coxartrosis), base del pulgar (rizartrosis). **Nódulos de Heberden** (interfalángicas **distales**) y **de Bouchard** (**proximales**).
   - Cuidados: **perder peso** (lo más eficaz en rodilla y cadera), **calor local** 15-20 min (frío solo en el brote), cambiar de postura, **sillas altas con reposabrazos**, calzado cómodo con suela gruesa, **bastón en la mano contraria** a la articulación afectada, ejercicio **de bajo impacto** (natación, bici, caminar en llano) y **fortalecer el cuádriceps**.
+- **Gota**: depósito de cristales de **urato monosódico** por hiperuricemia; ataque típico en la **1.ª metatarsofalángica (podagra)**, nocturno, tras comidas copiosas o alcohol; agudo: **AINE, colchicina**, reposo y frío; **no iniciar alopurinol durante la crisis**; dieta pobre en purinas (vísceras, marisco, cerveza). **Pseudogota**: cristales de **pirofosfato cálcico** (rodilla).
+- **Espondilitis anquilosante**: varón joven, dolor lumbar **inflamatorio** (mejora con el ejercicio), sacroileítis, **HLA-B27**; columna «en caña de bambú»; ejercicio y fisioterapia respiratoria.
 - **Artritis reumatoide**: autoinmune, **sinovitis** con **pannus** que destruye cartílago y hueso. **Poliartritis simétrica** de **manos y pies** (metacarpofalángicas, carpo), dolor **inflamatorio**, **rigidez matutina > 1 h**, articulaciones calientes y tumefactas; astenia y síntomas generales. Deformidades: **desviación cubital**, **cuello de cisne** (hiperextensión de la IFP y flexión de la IFD) y **en ojal** (flexión de la IFP e hiperextensión de la IFD).
   - Cuidados: vigilar **infecciones** (inmunosupresores y biológicos), **vacunar antes** de los biológicos (neumococo, gripe, hepatitis B) y **evitar vacunas vivas** durante el tratamiento; **reposo funcional y férulas** en el brote; proteger las articulaciones pequeñas (usar las grandes); planificar descansos; **frío en el brote** y calor (parafina) para la rigidez; enseñar la **autoinyección** de metotrexato o biológicos.
 - **Osteoporosis**: menos masa ósea y peor microarquitectura → **fracturas por fragilidad** (caída desde la propia altura). Factores: edad, **mujer y menopausia** (falta de estrógenos), bajo peso, **tabaco, alcohol, sedentarismo**, poco calcio y vitamina D; la causa secundaria más importante, los **corticoides**.
@@ -85,13 +87,13 @@ sub: Resumen OPE Enfermería SMS · Recuerdo y embarazo, valoración (dolor mec�
 !! Barlow **luxa** (aducción); Ortolani **reduce** (abducción).
 !! Osteoporosis **T ≤ −2,5**; bisfosfonatos en **ayunas, agua, de pie 30-60 min**.
 !! Callo blando **no se ve** en la radiografía; tabaco = principal enemigo de la consolidación.
-!! Cadera: **acortamiento + rotación externa**; prótesis: **no cruzar piernas ni flexionar > 90°**.
+!! ==Cadera: **acortamiento + rotación externa**; prótesis: **no cruzar piernas ni flexionar > 90°**.==
 !! Embolia grasa **24-72 h**: respiratorio, neurológico, **petequias**.
-!! Compartimental: **dolor al estiramiento pasivo** (precoz); **pulso ausente = tardío**; aflojar y **no elevar**.
+!! ==Compartimental: **dolor al estiramiento pasivo** (precoz); **pulso ausente = tardío**; aflojar y **no elevar**.==
 !! Erb (C5-C6) = **propina de camarero** con prensión; Klumpke (C8-T1) = **mano en garra**.
 !! Vendaje **de distal a proximal** con los **dedos visibles**; en ocho para articulaciones; recurrente para muñones.
 !! Tracción: **pesas libres**; esquelética → **osteomielitis**.
-!! Bastón en la mano **sana**; escaleras: **sube la buena, baja la mala**.
+!! ==Bastón en la mano **sana**; escaleras: **sube la buena, baja la mala**.==
 
 ## Imágenes clave del tema
 

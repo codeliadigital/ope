@@ -48,7 +48,7 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 
 | | Hipoacusia **de transmisión** (conductiva) | Hipoacusia **neurosensorial** |
 |---|---|---|
-| **Weber** (vértex) | Lateraliza al **oído enfermo** | Lateraliza al **oído sano** |
+| **Weber** (vértex) | Lateraliza al ==**oído enfermo**== | Lateraliza al ==**oído sano**== |
 | **Rinne** (mastoides → CAE) | **Negativo** (vía ósea > vía aérea) | **Positivo** (VA > VO), igual que lo normal |
 | Ejemplos | **Tapón de cerumen**, otitis | Presbiacusia, Ménière, ototóxicos |
 
@@ -114,14 +114,14 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 !! Gusto: **VII** 2/3 anteriores, **IX** 1/3 posterior; olfato **I** (no amoníaco: estimula el **V**).
 !! Snellen a **6 m**; Jaeger **cerca (presbicia)**; Ishihara **colores**.
 !! Pabellón: adulto **arriba y atrás**; niño < 3 años **abajo y atrás**.
-!! Weber: conductiva → **oído enfermo**; neurosensorial → **oído sano**. Rinne **positivo = normal**.
+!! ==Weber: conductiva → **oído enfermo**; neurosensorial → **oído sano**. Rinne **positivo = normal**.==
 !! Monofilamento **5.07 / 10 g**, en **«C» 1 s**; diapasón **128 Hz** para vibración (512 Hz para el oído).
-!! Glaucoma agudo: **dolor, ojo rojo, halos, midriasis media, vómitos**; **no midriáticos**.
+!! ==Glaucoma agudo: **dolor, ojo rojo, halos, midriasis media, vómitos**; **no midriáticos**.==
 !! Ángulo abierto = **visión en túnel**; DMAE = **escotoma central** (Amsler).
 !! Retina: **fotopsias + moscas volantes + cortina**; gas → **posición estricta** y **no volar**.
 !! Cataratas: **sin Valsalva**, limpiar **de dentro afuera**, dormir sobre el **lado no operado**.
 !! Ménière: **vértigo + acúfenos + hipoacusia**; **dieta sin sal**.
-!! Colirio: **presionar el lagrimal 30-60 s**, **5-10 min** entre colirios, **pomada al final**, **28 días**.
+!! ==Colirio: **presionar el lagrimal 30-60 s**, **5-10 min** entre colirios, **pomada al final**, **28 días**.==
 !! **Timolol**: broncoespasmo en asma/EPOC. Anestésicos tópicos: **nunca en casa**.
 !! Lavado ocular: **canto interno → externo**, 1-3 L, **evertir el párpado**.
 !! Lavado ótico: **no si perforación**; agua a **37 °C**; pared **posterosuperior**; diabético → **suero estéril**.

@@ -1,0 +1,331 @@
+{
+ "id": "eir-30",
+ "grupo": "Preguntas del EIR 2018-2025 por temas",
+ "num": 30,
+ "titulo": "EIR · Salud pública",
+ "explicadas": false,
+ "descripcion": "29 preguntas de los exámenes EIR de 2018 a 2025 sobre salud pública, con la respuesta oficial. Las anuladas aparecen marcadas y no puntúan.",
+ "preguntas": [
+  {
+   "q": "Según la Orden PCM/1049/2022, de 1 de noviembre, por la que se crea la Comisión Interministerial de Biomonitorización Humana (BMH), es INCORRECTO que:",
+   "o": [
+    "Corresponde a las Comunidades Autónomas la creación, coordinación y mantenimiento de la estructura nacional de BMH junto con el Instituto de Salud Carlos III.",
+    "Es una herramienta de gran utilidad para la protección de la salud, proporcionando información concreta sobre la exposición a sustancias químicas a través de una valoración integrada de las mismas o de sus metabolitos en muestras humanas.",
+    "Permite conocer los niveles de exposición individual, de la población general o de grupos específicos, así como las rutas de exposición e identificación de los factores determinantes.",
+    "Permite diseñar políticas enfocadas a la reducción de la exposición, con objeto de reducir el daño en las personas y controlar la eficacia de las mismas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La afirmación: las personas con más medios, cuyas necesidades de atención sanitaria casi siempre son menores, son las que más atención consumen, mientras que las que tienen menos medios y más problemas de salud son las que menos consumen, se denomina:",
+   "o": [
+    "Atención inversa.",
+    "Atención empobrecedora.",
+    "Atención fragmentada y en proceso de fragmentación.",
+    "Orientación inadecuada de la atención."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes NO está dentro de los Objetivos de Desarrollo Sostenible propuestos por la OMS?:",
+   "o": [
+    "Fin de la pobreza.",
+    "Agua limpia y saneamiento.",
+    "Salud y bienestar.",
+    "Cero residuos espaciales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de los determinantes de la salud integra una serie de dimensiones clave que son:",
+   "o": [
+    "Biología humana, medio ambiente, hábitos de salud y estilos de vida y la organización de los servicios de salud.",
+    "Determinantes políticos, el entorno social, ambiental y laboral, la integración social, junto con los estilos de vida.",
+    "Determinantes estructurales de las desigualdades de la salud, donde se encuentra el contexto socioeconómico y político, y los determinantes intermedios de la salud.",
+    "Dimensiones individuales y sociales realizadas con el estilo de vida, las influencias comunitarias, las condiciones de vida y de trabajo, y las condiciones sociales que los rodean."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 6. Atendiendo a la imagen, seleccione la respuesta correcta:",
+   "o": [
+    "Se corresponde con el marco de determinantes de la salud de Lalonde (1991).",
+    "La capa indicada con el número 3, se corresponde con las redes sociales y comunitarias.",
+    "No contempla el sexo como factor determinante debido a la invisibilidad del momento.",
+    "No se contemplan los factores constitucionales."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t30-2022-2023-6.jpg"
+  },
+  {
+   "q": "La teoría de la salutogénesis fue enunciada por:",
+   "o": [
+    "Albert Bandura.",
+    "Aaron Antonovsky.",
+    "Viktor Emil Frankl.",
+    "Butler Flora."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la promoción de la salud basada en el modelo de activos para la salud, cuál de estas afirmaciones es INCORRECTA:",
+   "o": [
+    "En las intervenciones de salud comunitaria, la incorporación del modelo de activos para la salud puede reforzar aspectos relacionados con la equidad y el enfoque hacia los determinantes sociales.",
+    "El modelo de déficits, centrado en la resolución de los problemas de salud potenciando la medicalización y dependencia, y el modelo de activos de salud que aprovecha los talentos y habilidades de la comunidad, no pueden complementarse por resultar incompatibles en su enfoque.",
+    "La intersectorialidad y participación de intervenciones comunitarias podrían potenciarse utilizando el modelo de activos para la salud.",
+    "El modelo de activos aporta una perspectiva de la salud que fomenta que las comunidades se centren en aquello que mejora su salud y bienestar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La vivienda como determinante social de la salud es:",
+   "o": [
+    "Un recurso material.",
+    "Un eje de la desigualdad.",
+    "Un factor conductual.",
+    "Un determinante estructural."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El modelo de la historia natural de la enfermedad, propuesto por Leavell y Clark, se estructura en:",
+   "o": [
+    "Prevención primaria, secundaria y terciaria.",
+    "Periodo prepatogénico y periodo patogénico.",
+    "Periodo subclínico y periodo clínico.",
+    "Fase de exposición, fase de enfermedad y fase de rehabilitación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes se considera una actividad de prevención secundaria?:",
+   "o": [
+    "Vacunación antigripal en pacientes ancianos institucionalizados.",
+    "Detección precoz de hipotiroidismo congénito en el recién nacido.",
+    "Fisioterapia respiratoria en pacientes post-Infarto Agudo de miocardio.",
+    "Profilaxis hepatitis B en pacientes con VIH."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a las pruebas de screening poblacionales, señale la INCORRECTA:",
+   "o": [
+    "La detección precoz debe realizarse si la enfermedad es frecuente y grave.",
+    "Su efectividad diagnóstica es la misma tanto en individuos sintomáticos como asintomáticos.",
+    "El resultado diagnóstico obtenido se considera de presunción.",
+    "Se deben realizar a los grupos de mayor riesgo de enfermedad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El conjunto de medidas que se toman para evitar, disminuir y/o paliar el daño producido por las actividades sanitarias se denomina:",
+   "o": [
+    "Prevención cuaternaria.",
+    "Iatrogenia inversa.",
+    "Prevención terciaria.",
+    "Medidas correctoras."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes NO es una Línea Estratégica de la Estrategia de Salud Pública 2022:",
+   "o": [
+    "Fortalecer la salud pública para mejorar la salud de la población.",
+    "Modernizar la vigilancia de la salud pública y garantizar la capacidad de respuesta ante los riesgos y las emergencias en salud.",
+    "Promover la salud y la equidad en salud en la infancia.",
+    "Mejorar la salud y el bienestar a través de la promoción de estilos de vida y entornos saludables, seguros y sostenibles."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las Recomendaciones de Sanidad para la población y voluntarios de la DANA que afectó a algunos pueblos de la provincia de Valencia en octubre de 2024, se desaconseja la participación en las tareas de limpieza de:",
+   "o": [
+    "Personas menores de 18 años.",
+    "Mujeres embarazadas.",
+    "Personas no vacunadas contra el tétanos.",
+    "Personas mayores de 65 años con problemas de movilidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el sistema de vigilancia de la mortalidad diaria (Sistema MoMo), NO es cierto que:",
+   "o": [
+    "Es un sistema de vigilancia de la mortalidad por todas las causas, y asociada a excesos de temperatura.",
+    "Se ha implementado en la Unidad de Vigilancia de la Mortalidad diaria del Centro Nacional de Epidemiología (CNE) del Instituto de Salud Carlos III.",
+    "El sistema MoMo en su enfoque predictivo (Índice Kairos), ofrece predicciones del riesgo de mortalidad atribuible a exceso o defecto de temperatura para el día en curso y los siguientes siete días.",
+    "El sistema MoMo analiza la información procedente de tres fuentes distintas: el Instituto Nacional de Estadística (INE), el Ministerio de Justicia y la Agencia Española de Meteorología."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La Estrategia de Salud Pública 2022, establece las acciones prioritarias a llevar a cabo para crear un marco de referencia para la coordinación de los agentes implicados. ¿Qué busca esta estrategia?:",
+   "o": [
+    "Pretende definir todas las acciones concretas a implementar.",
+    "Pretende reforzar acciones y proyectos que ya están en marcha.",
+    "Persigue resultados en salud a través de cambios funcionales en la salud pública y planes y programas de acción general.",
+    "Constituye un instrumento de coordinación de las políticas autonómicas en materia de Salud Pública."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro del Plan Estratégico de Salud y Medioambiente para proteger la salud de las personas frente a los efectos del cambio climático, propuesto por el Ministerio de Sanidad y el Ministerio para la Transición Económica y el Reto Demográfico, es correcto que:",
+   "o": [
+    "Tienen mayor atención las temperaturas extremadamente bajas respecto a las olas de calor.",
+    "La mortalidad y los ingresos hospitalarios en relación con el frío ocurren entre 7 y 14 días después de la bajada de las temperaturas.",
+    "Los efectos de las olas de calor (3-4 días), se dan más a largo plazo que los efectos del frío.",
+    "El número de olas de calor en España es mayor que el número de olas de frío."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Los yesos de las escayolas, ¿a qué grupo dentro de la clasificación de gestión de residuos sanitarios pertenece?:",
+   "o": [
+    "I: residuos sanitarios asimilables a residuos municipales.",
+    "II: residuos sanitarios no específicos.",
+    "III: residuos sanitarios específicos.",
+    "IV: residuos tipificados en normativas singulares."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Son radiaciones ionizantes a las que puede resultar expuesto un o una profesional que trabaje en el ámbito sanitario:",
+   "o": [
+    "Radiofrecuencia y microondas.",
+    "Resonancia magnética nuclear y onda corta.",
+    "Magnetoterapia y fototerapia.",
+    "Tomografía axial computadorizada y radiografía."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La sensibilidad de un órgano de un cuerpo humano frente a las radiaciones ionizantes y la evaluación de su posible daño, se define como:",
+   "o": [
+    "La dosis absorbida.",
+    "La tasa de exposición.",
+    "La dosis equivalente.",
+    "La dosis efectiva."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta respecto a las características de los efectos estocásticos producidos por las radiaciones ionizantes.",
+   "o": [
+    "Son efectos que se producen de forma no aleatoria.",
+    "Es necesaria una dosis umbral para producirlos.",
+    "Pueden aparecer tras la exposición a pequeñas dosis de radiación ionizante.",
+    "Son efectos de aparición inmediata."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Es un residuo sanitario Grupo III o residuo sanitario específico o de biorriesgo:",
+   "o": [
+    "Una gasa manchada de secreciones.",
+    "Unas calzas desechables usadas para visitar a un familiar en una UCI.",
+    "Una bolsa de sangre para una transfusión de la que se ha utilizado el 10% del contenido.",
+    "Restos de un medicamento citotóxico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Las muestras de amoxicilina oral caducada se considera un residuo sanitario del grupo:",
+   "o": [
+    "Grupo I.",
+    "Grupo II.",
+    "Grupo III.",
+    "Grupo IV."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Es correcto decir sobre los principales diseños evaluativos de intervenciones en Salud Pública:",
+   "o": [
+    "Los diseños no experimentales tienen grupo de comparación, recogiendo información tanto de los individuos que reciben intervención como de los individuos que no reciben intervención.",
+    "Los diseños cuasiexperimentales tienen grupo de comparación, asignando a cada grupo de manera aleatoria.",
+    "El diseño de serie temporal múltiple, es un tipo de diseño cuasiexperimental con presencia de grupo de comparación.",
+    "Los ensayos comunitarios, se encuentran englobados dentro de los diseños experimentales, seleccionando los grupos de manera aleatoria."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los indicadores clave del Sistema Nacional de Salud, ¿cuáles son los que proporcionan información de referencia para el análisis de la oferta y distribución de recursos?:",
+   "o": [
+    "Indicadores de utilización del Sistema Sanitario.",
+    "Indicadores estructurales.",
+    "Indicadores de calidad de la atención en el Sistema Nacional de Salud.",
+    "Indicadores de accesibilidad al sistema."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La tasa de mortalidad infantil se calcula como:",
+   "o": [
+    "Número de muertes en menores de 5 años por cada 1.000 nacidos vivos en un año.",
+    "Número de muertes en menores de 1 año por cada 1.000 nacidos vivos en un año.",
+    "Número de muertes en menores de 1 año por cada 100.000 habitantes en un año.",
+    "Número de muertes neonatales precoces por cada 1.000 habitantes en un año."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La mortalidad prematura es un indicador clave del Sistema Nacional de Salud. Señale la respuesta INCORRECTA:",
+   "o": [
+    "Su fórmula es: Población menor de 75 años en ese año, dividido por el número de defunciones en menores de 75 años durante un año para cada una de las causas seleccionadas, multiplicado por 1000.",
+    "El cáncer y la cardiopatía isquémica son causas de muerte prematura incluidas en este indicador.",
+    "La diabetes mellitus y la enfermedad vascular cerebral son causas de muerte prematura incluidas en este indicador.",
+    "Se estudia y analiza por sexo y comunidad autónoma."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes es la causa externa de muerte más frecuente entre las mujeres en España, según los últimos datos disponibles del Instituto Nacional de Estadística:",
+   "o": [
+    "Enfermedad de Alzheimer.",
+    "Enfermedad hipertensiva.",
+    "Caídas accidentales.",
+    "Suicidios."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según los últimos datos disponibles, el cáncer más frecuente en la mujer en España después del Cáncer de mama es:",
+   "o": [
+    "Cáncer de páncreas.",
+    "Cáncer de ovario.",
+    "Cáncer de colon.",
+    "Cáncer de cérvix."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

@@ -1,0 +1,482 @@
+{
+ "tema": 12,
+ "preguntas": [
+  {
+   "q": "El número de hijos de una familia es una variable:",
+   "o": [
+    "Cualitativa dicotómica.",
+    "Cuantitativa continua.",
+    "Cuantitativa discreta.",
+    "Cuantitativa nominal."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En estadística descriptiva, ¿cuál de las siguientes medidas descriptivas NO es una medida de dispersión?:",
+   "o": [
+    "Varianza.",
+    "Desviación típica.",
+    "Rango.",
+    "Mediana."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. Identiﬁque con qué tipo de variables se utiliza este modelo de gráﬁco:",
+   "o": [
+    "Cuantitativa continua.",
+    "Cuantitativa ordinal.",
+    "Cualitativa nominal.",
+    "Cualitativa discreta."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t03-2020-2021-1.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. Identiﬁque la opción INCORRECTA:",
+   "o": [
+    "La línea roja se corresponde con el Q3.",
+    "La línea azul se corresponde con la media.",
+    "La línea rosa se corresponde con el Q1.",
+    "El símbolo señalado con la flecha se corresponde con el valor extremo de la variable a estudio."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t03-2021-2022-5.jpg"
+  },
+  {
+   "q": "Al aﬁrmar que un paciente pediátrico se encuentra en el percentil 35 de peso, entendemos que:",
+   "o": [
+    "El 65 % de los niños de su sexo y edad están igual o por encima de ese peso.",
+    "El 35 % de los niños de su sexo y edad están igual o por encima de su peso.",
+    "El 65 % de los niños de su sexo y edad están por debajo de ese peso.",
+    "El 35 % de los niños de su sexo y edad mantienen igual peso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción INCORRECTA en relación al rango intercuartílico en estadística descriptiva:",
+   "o": [
+    "Se define como la diferencia entre el tercer y el primer cuartil (percentiles 75 y 25, respectivamente).",
+    "Indica la amplitud del 50% central de la muestra.",
+    "Se usa como medida de dispersión cuando la variable presenta valores extremos.",
+    "Suele ir acompañado de la media como medida de tendencia central."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El intervalo de confianza (IC) del 95 % calculado para la media aritmética indica:",
+   "o": [
+    "Que la media de la población tiene un 95 % de probabilidad de encontrarse dentro de ese rango.",
+    "Que el 95 % de los sujetos se sitúa dentro del intervalo calculado. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 52",
+    "Que, si se repite el estudio muchas veces, en el 95 % de los casos el intervalo incluirá la media poblacional.",
+    "Que existe un 95 % de probabilidad de que la hipótesis nula sea verdadera."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En los estudios de investigación cuantitativa, ¿qué test se utilizaría para la comparación de medias entre tres grupos independientes, asumiendo normalidad?:",
+   "o": [
+    "Test de la t de Student.",
+    "Test de ANOVA.",
+    "Test de Kruskal-Wallis.",
+    "Test de Chi Cuadrado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué test se utilizaría para la comparación de medias entre tres o más grupos apareados, en los que la distribución de los datos cuantitativos no es normal?:",
+   "o": [
+    "Test de Friedman.",
+    "Test de ANOVA.",
+    "Test de Kruskal-Wallis.",
+    "Test de Wilcoxon."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se interpretaría un valor del coeficiente de regresión mayor a 0 en los estudios de investigación en los que se pretende explicar la relación que existe entre la variable dependiente (peso) y una única variable independiente (altura)?:",
+   "o": [
+    "A mayor altura, mayor peso.",
+    "A mayor peso, mayor altura.",
+    "A mayor altura, menor peso.",
+    "A mayor peso, menor altura."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Identiﬁque la prueba correcta para el análisis estadístico teniendo en cuenta que se enfrenta una variable cuantitativa con una cualitativa dicotómica, que no hay un buen ajuste con la distribución normal y que las variables están apareadas:",
+   "o": [
+    "U de Mann Whitney.",
+    "Wilcoxon.",
+    "T de Student.",
+    "Friedman."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de realizar el análisis estadístico hay que tener en cuenta varios conceptos. Identiﬁque la respuesta INCORRECTA:",
+   "o": [
+    "Dos variables son apareadas o emparejadas únicamente si se relacionan de manera directa (mismos individuos en distintos medios).",
+    "En una tabla de contingencia de 2xn, con frecuencias esperadas inferiores a 5 en más de una celda (25 %), se debe recurrir a la prueba exacta de Fisher. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 54",
+    "Con variables cuantitativas es necesario evaluar la bondad de ajuste con la distribución normal mediante la prueba Shapiro-Wilk para muestras grandes y la de Kolmogorov-Smirnov para muestras más pequeñas.",
+    "La t de Student para muestras independientes se debe acompañar de la prueba de Levene para evaluar si hay homocedasticidad (p >0,05, varianzas iguales) o heterocedasticidad (p < 0,05, varianzas diferentes)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué prueba paramétrica se utilizará para determinar la varianza?:",
+   "o": [
+    "Test de Wilcoxon.",
+    "U de Mann-Whitney.",
+    "F de Fisher-Snedecor.",
+    "Test de Kruskal-Wallis."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto al cálculo del número de sujetos necesarios para la realización de un estudio cuyo objetivo es la estimación de una media o una proporción, señale qué elemento NO interviene:",
+   "o": [
+    "Variabilidad del parámetro que se desea estimar.",
+    "Precisión con la que se desea estimar el parámetro.",
+    "Potencia estadística o capacidad del estudio para detectar una determinada diferencia.",
+    "Nivel de confianza deseado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál sería la prueba no paramétrica en el caso de muestras independientes > 2 grupos?:",
+   "o": [
+    "Kruskal-Wallis.",
+    "U de Mann-Whitney.",
+    "Wilcoxon.",
+    "Friedman."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la comparación de una variable cualitativa de dos categorías y otra de tipo cuantitativa en la que se conoce una distribución normal, la prueba a utilizar será:",
+   "o": [
+    "Chi cuadrado.",
+    "ANOVA.",
+    "t de Student.",
+    "Correlación de Pearson."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En una prueba estadística el valor de p indica:",
+   "o": [
+    "La probabilidad de aceptar la hipótesis nula cuando es verdadera.",
+    "La probabilidad de rechazar la hipótesis alternativa cuando es verdadera.",
+    "La potencia estadística.",
+    "La probabilidad de rechazar la hipótesis nula cuando es verdadera."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la respuesta correcta respecto al intervalo de conﬁanza (IC):",
+   "o": [
+    "Permite evaluar la precisión con que se ha estimado un parámetro poblacional.",
+    "Se calcula siempre con una confianza del 95%.",
+    "Nos indica la estimación puntual de una variable en una muestra.",
+    "Es aplicable únicamente en estimaciones de variables cuantitativas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Si quisiéramos medir la efectividad del seguimiento de pacientes en los programas de cuidados paliativos especializados domiciliarios (variable independiente “seguimiento en cuidados paliativos”: si/no) en términos de la media de permanencia en casa (variable dependiente “media de días sin ingreso hospitalario”). ¿Qué test estadístico utilizaríamos?:",
+   "o": [
+    "T de Student.",
+    "Ji cuadrado. MUESTRAS INDEPENDIENTES MUESTRAS APAREADAS O DEPENDIENTES Paramétrico No paramétrico Paramétrico No paramétrico Cuantitativa con cualitativa (dos categorías) T student U de Mann-Whitney T student para muestras apareadas Wilcoxon Cuantitativa con cualitativa (más dos categorías) ANOVA Kruskal-Wallis ANOVA para muestras apareadas Friedman Cualitativa con cualitativa ---- Chi cuadrado --- McNemar Cuantitativa con cuantitativa Correlación de Pearson Regresión lineal Correlación Rho de Spearman --- --- 57 BIOESTADÍSTICA",
+    "Wilcoxon.",
+    "McNemar."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La población deﬁnida por la pregunta de investigación a la que se generalizan los resultados obtenidos en un estudio, se denomina:",
+   "o": [
+    "Población accesible.",
+    "Muestra del estudio.",
+    "Población diana.",
+    "Sujetos que cumplen los criterios de selección."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Al revisar un \"forest plot\" o diagrama de bosque, usted puede observar una figura con forma de rombo o diamante que nos indica:",
+   "o": [
+    "La estimación puntual de las diferencias halladas en cada uno de los ensayos incluidos en el metaanálisis.",
+    "El valor de la estimación puntual del resultado del metaanálisis.",
+    "El sesgo de publicación.",
+    "La hipótesis nula."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un estudio realizado en atención primaria para validar un test rápido de detección de antígenos del estreptococo β-hemolítico del grupo A en pacientes con faringitis, el valor predictivo positivo del test fue del 90 %. ¿Qué interpretación es correcta?:",
+   "o": [
+    "Que el test identifica correctamente al 90 % de los pacientes con infección estreptocócica.",
+    "Que el 90 % de los pacientes con un resultado positivo en el test realmente presentan faringitis estreptocócica.",
+    "Que el test ofrece un resultado negativo en el 90 % de los pacientes sin infección. 73 INVESTIGACIÓN EN ENFERMERÍA",
+    "Que el test acierta el 90 % de las veces, tanto en positivos como en negativos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un programa de cribado de cáncer de próstata mediante Prostate-Specific Antigen (PSA), se observa que la supervivencia a 5 años desde el diagnóstico es del 95 % en pacientes detectados por cribado frente al 70 % en pacientes con diagnóstico clínico. Sin embargo, la mortalidad global por esta causa no se ha reducido. ¿Qué sesgo explica principalmente este fenómeno?:",
+   "o": [
+    "Sesgo de duración.",
+    "Sesgo de adelanto diagnóstico.",
+    "Sesgo de sobrediagnóstico.",
+    "Sesgo de voluntariado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para evaluar la capacidad discriminativa (sanos vs enfermos) de un test o prueba diagnóstica, ¿cuál de las siguientes métricas utilizaría?:",
+   "o": [
+    "El Área Bajo la Curva.",
+    "El índice Kappa.",
+    "El Valor Predictivo Positivo.",
+    "La Sensibilidad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando se habla de valor global en el proceso de toma de decisiones diagnósticas, hace referencia a:",
+   "o": [
+    "El número de enfermos que existe en una población determinada en un período de tiempo concreto.",
+    "Es el número total de positivos obtenidos en el proceso diagnóstico en relación al total de sujetos que componen la muestra estudiada.",
+    "La proporción de sujetos correctamente clasificados por el test en relación al total de sujetos que componen la muestra de estudio.",
+    "Grado en que los resultados de un estudio son generalizables a otros sujetos o poblaciones."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo al índice kappa (κ), sería INCORRECTO:",
+   "o": [
+    "El índice kappa (κ) se usa para evaluar la concordancia o reproducibilidad de instrumentos de medida cuyo resultado es categórico (2 o más categorías).",
+    "El índice kappa (κ) representa la proporción de acuerdos observados más allá del azar, respecto del máximo acuerdo posible más allá del azar.",
+    "Un resultado entre 0,21-0,40 supone un grado de acuerdo insuficiente.",
+    "Un resultado entre 0,61-0,80 supone un grado de acuerdo sustancial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Si sospechamos la presencia de una enfermedad severa, cuyo manejo conlleva medidas invasivas con potenciales efectos secundarios graves, ¿cuál sería la principal característica que buscaremos en la prueba diagnóstica a realizar?:",
+   "o": [
+    "Tener una elevada sensibilidad.",
+    "Tener una elevada especificidad.",
+    "Tener un elevado valor predictivo positivo.",
+    "Tener un elevado valor predictivo negativo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Se ha realizado un estudio de validación de una prueba diagnóstica, cuyos resultados se reﬂejan en una tabla de contingencia. ¿Cuál de las siguientes aﬁrmaciones es la correcta?:",
+   "o": [
+    "El valor global se calcula mediante la fórmula: a / (a+b+c+d).",
+    "La especificidad se calcula mediante la fórmula: c / (a+c).",
+    "La sensibilidad se calcula mediante la fórmula: a /(a+c).",
+    "El Valor Predictivo Negativo se calcula mediante la fórmula: (b+c) / (a+b+c+d)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a las pruebas diagnósticas, cuando se aplican en un contexto de alta prevalencia de la enfermedad, fundamentalmente debemos considerar que:",
+   "o": [
+    "Aumenta la sensibilidad de la prueba.",
+    "Aumenta la especificidad de la prueba.",
+    "Aumenta el valor predictivo positivo de la prueba.",
+    "Aumenta el valor predictivo negativo de la prueba."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la afirmación correcta con respecto a los modelos que estudian las causas y efectos en epidemiología:",
+   "o": [
+    "Rothman propone una serie de principios para analizar si una relación podría ser potencialmente causal, entre ellos se encuentra la temporalidad.",
+    "El modelo probabilístico establece que si la exposición aumenta el riesgo de padecer enfermedad, se habla de factor de riesgo, mientras que si previene su desarrollo, se denomina factor protector.",
+    "Según el modelo determinista, existen interrelaciones entre factores de riesgo, causas intermedias y finales.",
+    "Bradford Hill establece 4 criterios (causa necesaria, causa suficiente, especificidad de la causa y especificidad de efecto)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En un estudio de cohortes se ha observado que el riesgo relativo (RR) de sufrir un evento cardiovascular en mujeres que no toman anticonceptivos frente a las que sí lo toman es de 0,6. ¿Cuál de las siguientes interpretaciones es correcta?:",
+   "o": [
+    "Las mujeres que no toman anticonceptivos presentan un riesgo 60 % mayor de sufrir un evento cardiovascular.",
+    "El uso de anticonceptivos es un factor protector, ya que las mujeres que los toman tienen un riesgo 40 % menor de presentar un evento cardiovascular.",
+    "No tomar anticonceptivos se asocia a un factor protector, pues el riesgo de evento cardiovascular es un 40 % menor en comparación con las mujeres que los toman.",
+    "El RR de 0,6 indica ausencia de asociación entre el uso de anticonceptivos y los eventos cardiovasculares."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se interpreta una diferencia absoluta de riesgo (DAR) con un valor > 0 entre el riesgo en el grupo con el factor y el riesgo en el grupo control?:",
+   "o": [
+    "La presencia del factor / exposición se asocia a menor ocurrencia del evento.",
+    "La presencia del factor / exposición se asocia a mayor ocurrencia del evento.",
+    "No hay asociación entre la presencia del factor / exposición y el evento.",
+    "Hay asociación entre la ausencia del factor/ exposición y el evento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la Odds Ratio, señale la respuesta FALSA:",
+   "o": [
+    "Si su intervalo de confianza no incluye al 1 se concluye que la asociación es estadísticamente significativa.",
+    "Es la razón entre la odds de exposición en el grupo de casos y la odds de exposición en el grupo control.",
+    "Su principal ventaja es que permite, mediante la regresión logística, ajustar la relación en estudio por el efecto de otras variables.",
+    "Es una buena aproximación del Riesgo Relativo bajo determinadas condiciones."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "En un estudio de investigación en el que la unidad de observación son las personas, ¿cómo se llama al sesgo en el que los participantes que están siendo observados, alteran su comportamiento?:",
+   "o": [
+    "Sesgo del entrevistador.",
+    "Falacia de Neyman.",
+    "Falacia de Berkson.",
+    "Efecto Hawthorne."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En estudios no aleatorizados, la evaluación de errores sistemáticos en el momento temporal en el que se establece la presencia del desenlace de interés supone la detección de:",
+   "o": [
+    "Sesgo de selección.",
+    "Sesgo de detección.",
+    "Sesgo de confusión.",
+    "Sesgo de desgaste."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a la clasificación de preguntas clínicas y diseños de estudio de investigación más apropiados para responderlas, identifique cuál sería el tipo de estudio de investigación más adecuado para responder a una pregunta de tipo ETIOLOGÍA:",
+   "o": [
+    "Ensayo clínico aleatorizado.",
+    "Casos y controles y Cohortes.",
+    "Estudio fenomenológico.",
+    "Estudios de concordancia y Pruebas diagnósticas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Acude a su consulta una paciente que refiere la aparición de lesiones muy pruriginosas con pápulas eritematosas y surcos en los espacios interdigitales, muñecas, cintura y genitales. El prurito aumenta por la noche y su compañera de piso presenta un cuadro similar, lo que le hará sospechar de:",
+   "o": [
+    "Picaduras de chinches.",
+    "Escabiosis.",
+    "Parasitosis delirante.",
+    "Miásis cutánea."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de valorar la transmisibilidad de malaria en una región, ¿cuál de los siguientes factores constituye un factor de riesgo?:",
+   "o": [
+    "Temperatura mantenida mayor de 38 ºC en la zona.",
+    "Altura de la zona inferior a 3.000 metros.",
+    "Humedad relativa de la zona inferior al 52 %. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 656",
+    "Temperatura mantenida menor de 15 ºC en la zona."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la clasificación de Gell y Coombs, ¿qué tipo de reacción alérgica se caracteriza por estar mediada principalmente por inmunoglobulinas G, formar complejos antígenoanticuerpo y cuyos síntomas son artralgia, linfadenopatía, erupciones cutáneas, urticaria, fiebre y vasculitis?:",
+   "o": [
+    "Tipo I: Reacción anafiláctica.",
+    "Tipo II: Reacción citolítica.",
+    "Tipo III: Reacción de Arthus.",
+    "Tipo IV: Reacción de hipersensibilidad retardada."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta los principios generales en cuanto al intervalo mínimo entre la administración no simultánea de vacunas, identifique el intervalo mínimo entre 2 vacunas atenuadas:",
+   "o": [
+    "Ninguno.",
+    "Dos semanas.",
+    "Cuatro semanas.",
+    "Ocho semanas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las diferentes vacunas frente a la COVID-19, es cierto que:",
+   "o": [
+    "La vacuna de Pfizer/BioNTech permite su almacenamiento en óptimas condiciones hasta 7 días a temperatura de 2-8 ºC.",
+    "La vacuna de Moderna puede almacenarse en perfectas condiciones hasta 30 días a una temperatura de 2-8 ºC.",
+    "El preparado de la vacuna de Astrazeneca/ Oxford requiere reconstrucción previa con suero para su administración.",
+    "A diferencia de la vacuna de Pfizer/BioN-Tech, la vacuna de Moderna puede administrarse por vía subcutánea profunda."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo presente los principios generales en cuanto al intervalo mínimo entre la administración no simultánea de vacunas distintas, identifique el intervalo mínimo entre una vacuna inactivada y otra atenuada:",
+   "o": [
+    "Ninguno.",
+    "Dos semanas.",
+    "Cuatro semanas.",
+    "Ocho semanas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En el Centro de Salud, es imprescindible conocer determinados aspectos para preservar de forma adecuada la inmunogenicidad y la eficacia protectora de las vacunas. En relación a su conservación señale la respuesta INCORRECTA:",
+   "o": [
+    "La temperatura óptima de conservación se encuentra entre +2 ºC y +8 ºC.",
+    "La lectura de la temperatura del frigorífico debe realizarse una vez al día y anotarse posteriormente en la hoja de control correspondiente.",
+    "La temperatura interna del frigorífico no debe de exceder +10 ºC.",
+    "Las vacunas más termolábiles son la triple vírica, varicela, polio oral y gripe."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

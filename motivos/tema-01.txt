@@ -1,0 +1,90 @@
+1|a|Kaiserswerth (Fliedner, 1836) era un instituto protestante de diaconisas, no laico; allí se formó Nightingale.
+1|c|Scutari (Turquía) fue el hospital de la guerra de Crimea donde trabajó Nightingale, no una escuela.
+1|d|El Hôtel-Dieu de París (s. VII) es un hospital religioso medieval de la etapa vocacional.
+2|a|La Ley Moyano (1857) reguló los títulos de practicante y matrona, pero no el de enfermera.
+2|b|El RD 2128/1977 llevó los estudios a la universidad (diplomatura); el título ya existía.
+2|d|La Ley General de Educación de 1970 pasó la formación de ATS a la universidad; no creó el título.
+3|a|En 1944 se crea el Colegio único de «Auxiliares Sanitarios», no el título de ATS.
+3|c|1970 es la Ley General de Educación, que lleva la formación de ATS a la universidad.
+3|d|1977 es la diplomatura universitaria (DUE), que sustituye al ATS.
+4|a|Salud Mental sí es una de las 7 especialidades del RD 450/2005.
+4|b|Geriátrica sí es una de las 7 especialidades del RD 450/2005.
+4|d|Enfermería del Trabajo sí es una de las 7 especialidades del RD 450/2005.
+5|a|La persona es uno de los 4 conceptos del metaparadigma.
+5|b|El entorno es uno de los 4 conceptos del metaparadigma.
+5|c|La salud es uno de los 4 conceptos del metaparadigma.
+6|a|Categorización es el paradigma de Nightingale (visión fragmentada, salud pública).
+6|c|Transformación es el de Rogers, Watson, Leininger, Parse y Newman.
+6|d|«Ninguno, por ser pionera» se dice de Nightingale respecto a las escuelas, no de Henderson.
+7|b|Peplau es de la escuela de Interacción («¿cómo lo hacen?»).
+7|c|Henderson es de la escuela de Necesidades («¿qué hacen?»).
+7|d|Watson es de la escuela del Caring.
+8|a|Orientación es la 1.ª fase de Peplau.
+8|b|Identificación es la 2.ª fase de Peplau.
+8|c|Explotación o aprovechamiento es la 3.ª fase de Peplau.
+9|b|Extraña es el primer rol (al conocerse), pero no el más importante.
+9|c|Líder es uno de los 6 roles, no el principal.
+9|d|Sustituta es uno de los 6 roles, no el principal.
+10|a|De apoyo-educación es cuando el paciente puede hacerlo y solo necesita enseñanza y guía.
+10|b|Parcialmente compensador es cuando paciente y enfermera comparten el autocuidado.
+10|d|«Ayuda mutua» no es un sistema de enfermería de Orem.
+11|b|Contextuales son los demás estímulos presentes, que influyen pero no son el inmediato.
+11|c|Residuales son los de efecto incierto (creencias, experiencias pasadas).
+11|d|Regulador es un subsistema de afrontamiento (fisiológico), no un tipo de estímulo.
+12|a|Resonancia = cambio continuo en los patrones de onda de los campos de energía.
+12|b|Integralidad = interacción mutua y continua entre la persona y el entorno.
+12|d|Reciprocidad no es uno de los 3 principios de homeodinámica (resonancia, helicidad, integralidad).
+13|a|Conservación es mantener las prácticas culturales beneficiosas.
+13|b|Negociación (adaptación) es ajustar o negociar prácticas, no cambiar las nocivas.
+13|c|Mantenimiento es lo mismo que conservación: mantener lo beneficioso.
+14|b|Abdellah describió 21 problemas de enfermería.
+14|c|Roper, Logan y Tierney describieron 12 actividades de la vida diaria.
+14|d|Dorothy Johnson describió 7 subsistemas conductuales.
+15|a|Maslow es la jerarquía de necesidades (base de la escuela de Necesidades).
+15|c|Bandura (autoeficacia) es la base del modelo de Nola Pender.
+15|d|Erikson es una teoría del desarrollo psicosocial, no la base de Benner.
+16|a|El autocuidado es el concepto central de Orem.
+16|b|La adaptación es el concepto central de Roy.
+16|d|La interacción es propia de Peplau, Orlando o King.
+17|b|La agencia de autocuidado es un concepto de Orem.
+17|c|Los estímulos focales son de Callista Roy.
+17|d|Las líneas de defensa ante estresores son de Betty Neuman.
+18|a|7 son los subsistemas de Dorothy Johnson.
+18|c|12 son las actividades de Roper-Logan-Tierney.
+18|d|14 son las necesidades de Virginia Henderson.
+19|a|El 31 de octubre de 1978 la aprobaron las Cortes; aún no estaba en vigor.
+19|b|El 6 de diciembre de 1978 fue el referéndum (trampa típica).
+19|c|El 27 de diciembre de 1978 la sancionó el Rey; entra en vigor al publicarse en el BOE.
+20|a|La libertad sí es valor superior (art. 1.1).
+20|b|La justicia sí es valor superior (art. 1.1).
+20|c|El pluralismo político sí es valor superior (art. 1.1).
+21|a|La Sección 1.ª (arts. 15-29) son los derechos fundamentales; el art. 43 no está ahí.
+21|b|La Sección 2.ª (arts. 30-38) son derechos y deberes de los ciudadanos; el 43 va después.
+21|c|El Título VIII es la organización territorial del Estado.
+22|a|La vivienda (art. 47) es un principio rector: no tiene amparo.
+22|c|La salud (art. 43) es un principio rector: no tiene amparo.
+22|d|La propiedad (art. 33) está en la Sección 2.ª y no tiene amparo.
+23|a|24 horas es un plazo de otras normas, no el máximo constitucional.
+23|b|48 horas no es el plazo del art. 17.
+23|d|96 horas no existe como máximo; solo se amplía en casos de terrorismo (art. 55.2).
+24|a|El Senado no convalida decretos-ley: lo hace solo el Congreso.
+24|b|El Senado no interviene; y el plazo son 30 días en el Congreso.
+24|c|Son 30 días, no 2 meses (2 meses es el plazo ordinario del Senado para las leyes).
+25|b|Mayoría simple es la de la cuestión de confianza, no la de la moción de censura.
+25|c|3/5 son para la reforma constitucional ordinaria.
+25|d|2/3 de ambas Cámaras son para la reforma agravada.
+26|a|La sanidad exterior sí es competencia exclusiva del Estado.
+26|b|Las bases y coordinación general de la sanidad sí son exclusivas del Estado.
+26|c|La legislación sobre productos farmacéuticos sí es exclusiva del Estado.
+27|b|El 6 de diciembre de 1978 es el referéndum de la Constitución.
+27|c|El 26 de julio de 1994 es la Ley 4/1994 de Salud de la Región de Murcia.
+27|d|Es 1982, no 1983 (el día y el mes sí son el 9 de junio).
+28|a|Murcia es la capital y sede de la Presidencia y del Consejo de Gobierno, no de la Asamblea.
+28|b|Lorca no es sede de ninguna institución autonómica.
+28|d|Molina de Segura no es sede de ninguna institución autonómica.
+29|b|5 circunscripciones y barrera del 5% era el sistema anterior a 2015.
+29|c|Son 45 diputados, no 55.
+29|d|La barrera es del 3%; el 5% era la anterior.
+30|a|El Presidente del Gobierno de la Nación no tiene que ser diputado.
+30|c|Los Consejeros los nombra libremente el Presidente, sin votación de la Asamblea.
+30|d|La moción de censura regional exige mayoría absoluta (23), no simple.

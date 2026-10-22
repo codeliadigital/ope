@@ -87,7 +87,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Organización de los cuidados enfe
 - **Gestión y coordinación**: gestión de casos, informes de derivación/alta, agenda, comisiones.
 - **Docente e investigadora**.
 
-!! **200.000-250.000 hab. = Área de Salud** (9 en Murcia). **5.000-25.000 hab. = ZBS** (90 en Murcia).
+!! ==**200.000-250.000 hab. = Área de Salud** (9 en Murcia). **5.000-25.000 hab. = ZBS** (90 en Murcia).==
 !! La enfermera que organiza EpS afectivo-sexual en institutos para toda la población es **de equipo**; la que atiende a sus 1.500 tarjetas es **de cupo**.
 !! Vacuna = primaria; sangre oculta en heces o citología = secundaria; prevenir UPP en inmovilizado = terciaria.
 !! "Paciente activo + equipo proactivo" = **Chronic Care Model**.
@@ -167,7 +167,7 @@ Garantiza la **transición segura del hospital al domicilio** u otros recursos. 
 | Riesgo de UPP | Braden, Norton |
 | Nutrición | MNA |
 
-!! **NANDA** = diagnóstico; **NOC** = resultados (objetivos); **NIC** = intervenciones.
+!! ==**NANDA** = diagnóstico; **NOC** = resultados (objetivos); **NIC** = intervenciones.==
 !! Además de la continuidad asistencial, el registro sirve como **protección legal**: "lo que no está registrado no está hecho".
 
 ## A7. Coordinación entre niveles asistenciales

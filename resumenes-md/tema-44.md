@@ -144,15 +144,15 @@ sub: Resumen OPE Enfermería SMS · Semiología y exploración, boca y esófago 
 
 !! Exploración: **I → A → P → P** (auscultar antes de palpar).
 !! Bristol **1-2 estreñimiento**, **6-7 diarrea**; diarrea crónica **> 4 semanas**.
-!! Melena y posos de café = **HDA** (sobre el **ángulo de Treitz**); urea elevada.
-!! Murphy = **colecistitis**; Blumberg = **irritación peritoneal**; Rovsing = apendicitis; Courvoisier = **cáncer de páncreas**; Grey Turner/Cullen = **pancreatitis grave**.
+!! ==Melena y posos de café = **HDA** (sobre el **ángulo de Treitz**); urea elevada.==
+!! ==Murphy = **colecistitis**; Blumberg = **irritación peritoneal**; Rovsing = apendicitis; Courvoisier = **cáncer de páncreas**; Grey Turner/Cullen = **pancreatitis grave**.==
 !! Disfagia mecánica: **sólidos → líquidos**; motora (acalasia): **ambos desde el inicio**; acalasia = **manometría**, «pico de pájaro».
 !! Cáusticos: **ni vómito, ni lavado, ni neutralizar**. Pila de botón: **endoscopia inmediata**.
 !! Boerhaave: **vómitos + dolor torácico + enfisema subcutáneo** (Mackler).
 !! Úlcera **duodenal mejora** al comer; **gástrica empeora** y **siempre se biopsia**.
 !! Obstrucción por bridas: **SNG + dieta absoluta** (≈ 90% se resuelve).
 !! Diverticulitis: **TAC**; **no colonoscopia en fase aguda**.
-!! Crohn: **boca-ano, segmentaria, transmural, fístulas, tabaco empeora**. CU: **recto, continua, mucosa, megacolon, tabaco protege**.
+!! ==Crohn: **boca-ano, segmentaria, transmural, fístulas, tabaco empeora**. CU: **recto, continua, mucosa, megacolon, tabaco protege**.==
 !! Charcot: **fiebre + dolor HD + ictericia**; Reynolds añade **hipotensión y confusión**.
 !! Lactulosa: **2-3 deposiciones blandas/día**.
 !! Paracentesis > 5 L: **albúmina 6-8 g/L**; antes, **vaciar la vejiga**.

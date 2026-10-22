@@ -22,7 +22,7 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
   - **Sin SNG de rutina**; retirar pronto sondas y drenajes.
   - **Educación preoperatoria**: la ansiedad aumenta el cortisol y el catabolismo.
 - **Escala de Aldrete** (anestesia general): **actividad, respiración, circulación (PA), conciencia y coloración/SpO₂**, cada uno 0-2 (total 0-10); **alta de la URPA con ≥ 9**.
-- **Escala de Bromage** (anestesia **raquídea o epidural**): bloqueo motor de las piernas: **0** eleva la pierna extendida (sin bloqueo) · 1 flexiona rodillas · 2 solo mueve pies · **3 bloqueo completo**. Para movilizar o dar el alta: **grado 0**.
+- **Escala de Bromage** (anestesia **raquídea o epidural**): bloqueo motor de las piernas: **0** eleva la pierna extendida (sin bloqueo) · 1 flexiona rodillas · 2 solo mueve pies · **3 bloqueo completo**. Para movilizar o dar el alta: ==**grado 0**==.
 
 | Posición postoperatoria | Indicación |
 |---|---|
@@ -91,12 +91,12 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
 - **Escala de Zarit** (sobrecarga del cuidador, 22 ítems): **< 47 sin sobrecarga**, **47-55 leve**, **≥ 56 intensa**.
 
 !! ERAS: líquidos claros **2 h** antes; tolerancia **sin esperar ruidos**; levantarse el **día 0**; sin SNG de rutina.
-!! Aldrete **≥ 9** para salir de la URPA; Bromage (raquídea) **grado 0** para movilizar.
+!! ==Aldrete **≥ 9** para salir de la URPA; Bromage (raquídea) **grado 0** para movilizar.==
 !! Raquídea → **supino sin almohada**; tiroidectomía → **Fowler**; shock → **Trendelenburg**.
 !! Penrose = **imperdible**; Saratoga = luz abierta contra el **efecto ventosa**; Jackson-Pratt = **pera**.
 !! Kehr pinzado con **coluria y acolia** → **despinzar**.
-!! Torácico: sello **2 cm**; **oscila = permeable**; **burbujeo en el sello = fuga**; burbujeo en la aspiración = normal.
-!! **Nunca pinzar** para trasladar; **nunca con fuga** (neumotórax a tensión); **> 200 ml/h × 3 h** = alarma.
+!! ==Torácico: sello **2 cm**; **oscila = permeable**; **burbujeo en el sello = fuga**; burbujeo en la aspiración = normal.==
+!! ==**Nunca pinzar** para trasladar; **nunca con fuga** (neumotórax a tensión); **> 200 ml/h × 3 h** = alarma.==
 !! Colágeno **III → I**; cicatriz máx. **80%**; tercera intención = **se sutura días después**.
 !! TIME: **T** tejido, **I** infección, **M** humedad, **E** bordes; autolítico = **hidrogel**.
 !! REEDA: **R**ojez, **E**dema, **E**quimosis, **D**renaje, **A**proximación.

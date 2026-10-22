@@ -1,0 +1,667 @@
+{
+ "tema": 40,
+ "preguntas": [
+  {
+   "q": "Con respecto a la ECMO (oxigenación por membrana extracorpórea), indique la respuesta INCORRECTA:",
+   "o": [
+    "Puede ser utilizada en el contexto del tras plante proporcionando soporte respiratorio o circulatorio cuando el paciente no puede mantener suficientes niveles de oxígeno o flujo sanguíneo.",
+    "En donación en asistolia, mediante la técnica de PRN (Perfusión Regional Normotérmica), aumenta la viabilidad de los órganos donados mejorando su estado y facilitando un trasplante exitoso.",
+    "Proporciona un soporte vital que puede permitir al paciente recuperarse o mejorar sus condiciones previas al trasplante, aumentando la supervivencia.",
+    "Cuando se aplica a un potencial donante en la PRN, como sólo se perfunde la cavidad abdominal, no es necesario emplear anticoagulantes ni canalizar la arteria y la vena femorales."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las contraindicaciones del uso de la Oxigenación por membrana extracorpórea venoarterial (ECMO-VA) se encuentra:",
+   "o": [
+    "Pacientes con tormenta eléctrica que no responden a tratamiento antiarrítmico y/o ablación por radiofrecuencia.",
+    "Intoxicación aguda por fármacos cardiodepresores.",
+    "Insuficiencia aórtica grave.",
+    "Shock cardiogénico secundario a infarto de miocardio que no responde al tratamiento y se ha realizado revascularización mediante intervencionismo coronario."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta acerca del índice de fuerza inspiratoria negativa (NIF):",
+   "o": [
+    "Valores inferiores a -30cm de H2O, son predictores de un destete exitoso.",
+    "Se relaciona con la demanda ventilatoria y expresa la actividad del centro respiratorio.",
+    "Una presión mayor de 6 mbar indica fatiga inminente de los músculos respiratorios, con una alta probabilidad de fracaso en el destete.",
+    "Equivale a la presión negativa a los 100 milisegundos de la inspiración espontánea."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre volúmenes y capacidades pulmonares es correcta?:",
+   "o": [
+    "El volumen residual (VR) es el volumen de aire que se puede exhalar después de una espiración forzada.",
+    "La capacidad vital (CV) es el volumen de aire que queda en los pulmones después de una inspiración normal.",
+    "La capacidad pulmonar total (CPT) es la suma del volumen residual (VR) y la capacidad vital (CV).",
+    "El volumen corriente (VC) es el volumen máximo de aire que una persona puede exhalar después de una inspiración máxima."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta correcta con relación al protocolo Neumonía Zero:",
+   "o": [
+    "La aspiración subglótica no debe superar los 50 mmHg.",
+    "En caso de administrar pasta para la higiene de la cavidad oral, esta ha de ser absorbible. 115 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Ha de administrarse antibiótico sistémico a todos los pacientes en los que se prevea una duración de intubación superior a 72h.",
+    "El diámetro de la sonda de aspiración de secreciones traqueales no debe superar la mitad de la luz interna del tubo traqueal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes variables NO corresponde a una espirometría forzada:",
+   "o": [
+    "Capacidad Vital Forzada.",
+    "Índice de Tiffeneau.",
+    "Volumen Espiratorio Forzado en el Primer Segundo.",
+    "Cociente FEV1/FVC."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, ¿cuál NO se considera una ventaja en la administración de inhaladores mediante cámara espaciadora en pediatría?:",
+   "o": [
+    "Evita el problema de la coordinación ya que permite el retraso entre el inicio de la inspiración y el disparo.",
+    "Obtienen un mejor depósito pulmonar.",
+    "Disminuyen la aparición de candidiasis oral tras la inhalación de corticoides.",
+    "Aumenta el impacto orofaríngeo de las partículas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. Teniendo en cuenta la imagen, indique la opción INCORRECTA:",
+   "o": [
+    "La espirometría basal muestra una obstrucción leve al flujo aéreo.",
+    "Hay una obstrucción reversible al flujo aéreo.",
+    "La prueba broncodilatadora es positiva.",
+    "Los resultados de la prueba son compatibles con una Enfermedad Pulmonar Obstructiva Crónica."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2023-2024-9.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 14. Teniendo en cuenta la imagen, indique la opción correcta:",
+   "o": [
+    "El paciente activa el trigger de forma adecuada.",
+    "El paciente se encuentra ventilado en una modalidad controlada por presión.",
+    "El flujo ventilatorio es acelerado.",
+    "El paciente presenta secreciones."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2023-2024-14.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 15. ¿Qué es el dispositivo sanitario de la imagen?:",
+   "o": [
+    "Irrigador ginecológico.",
+    "Flutter respiratorio.",
+    "Medidor de flujo urinario portátil.",
+    "Agitador bucal."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2023-2024-15.jpg"
+  },
+  {
+   "q": "¿Cuánto tiempo podrá durar como máximo la aplicación de oxígeno por gafas nasales con un ﬂujo de 5 litros por minuto a un paciente, si está conectado a una bala de oxígeno de 25 litros presurizada a 200 bares, y con una presión residual segura de 50 bares?:",
+   "o": [
+    "400 minutos.",
+    "625 minutos.",
+    "750 minutos.",
+    "875 minutos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes NO es un signo de alarma en la inserción del drenaje pleural:",
+   "o": [
+    "Fiebre.",
+    "Quilotórax.",
+    "Disnea.",
+    "Enfisema subcutáneo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la opción correcta en relación con el trigger en ventilación mecánica:",
+   "o": [
+    "El trigger por flujo requiere menos trabajo respiratorio que el trigger por presión.",
+    "Un trigger excesivamente sensible producirá un aumento del trabajo respiratorio.",
+    "En la ventilación controlada por presión, el trigger dará lugar a una deflexión negativa en la curva de presión.",
+    "Es habitual fijar el trigger por volumen en 8-9 litros por minuto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el manejo avanzado de la vía aérea de un paciente en edad pediátrica, ¿cuál de las siguientes aﬁrmaciones es correcta en relación con el dióxido de carbono presente al ﬁnal de la espiración (ETCO2):",
+   "o": [
+    "En la parada cardiorrespiratoria, un ETCO2 ausente siempre implica que el tubo endotraqueal está mal colocado.",
+    "La detección de unos niveles adecuados de ETCO2 para confirmar la correcta posición del tubo en la tráquea puede sustituir a otras técnicas como la auscultación o la radiografía de tórax.",
+    "Durante la reanimación cardiopulmonar refleja el flujo sanguíneo pulmonar pero no el gasto cardiaco.",
+    "Una intubación selectiva del bronquio derecho no se puede valorar con la monitorización del CO2 espirado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A partir de qué porcentaje se considera un test de fuga negativo en la fase de destete de la ventilación mecánica?:",
+   "o": [
+    "Menor de un 10 %.",
+    "Mayor de un 10 %.",
+    "Menor de un 15 %.",
+    "Mayor de un 15 %."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la aﬁrmación INCORRECTA en relación con el uso de inhaladores:",
+   "o": [
+    "Los inhaladores de cartucho presurizado requieren de propelentes para la emisión del fármaco.",
+    "Los inhaladores de polvo seco requieren de un transportador para el fármaco, que frecuentemente es la lactosa.",
+    "Los inhaladores de niebla fina requieren propelentes para la emisión del fármaco, pero a diferencia de los de cartucho presurizado, el propelente empleado tiene menos efectos sobre la huella de carbono.",
+    "Se consigue una mejor administración del fármaco inhalado si se emplea una cámara espaciadora con los inhaladores de cartucho presurizado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al control de la vía aérea a través de la técnica de intubación retrógrada en el Soporte Vital Avanzado en trauma, señale la INCORRECTA:",
+   "o": [
+    "Es una técnica útil en casos de lesiones maxilofaciales graves donde las referencias anatómicas se han perdido.",
+    "Para realizarla se introduce un catéter intravenoso que atraviese la membrana cricotiroidea.",
+    "Mediante la técnica de Seldinger se dirige la guía metálica desde la membrana cricotiroidea hasta su aparición por la boca.",
+    "El breve tiempo requerido para su realización es una de las principales ventajas de esta técnica."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. ¿Cómo se llama la cánula que aparece en la imagen?:",
+   "o": [
+    "Cánula de Guedel.",
+    "Cánula de Berman.",
+    "Cánula de Fashtrach.",
+    "Tapón de ostomía curvo (o de Reims)."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2020-2021-4.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. El dispositivo de la imagen se utiliza para:",
+   "o": [
+    "Administración de gas sedante.",
+    "Extracción de tapones de cera en los oídos.",
+    "Succión de secreciones.",
+    "Administración de enema en paciente pediátrico encamado."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2020-2021-8.jpg"
+  },
+  {
+   "q": "¿Cuál de las siguientes escalas de valoración de la vía aérea precisa el uso de laringoscopio?:",
+   "o": [
+    "Escala de Mallampati.",
+    "Escala de Patil (distancia tiromentoniana).",
+    "Escala de Cormack y Lehane.",
+    "Escala de Hachinsky."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), ¿cuál es la indicación correcta para llevar a cabo una espirometría lenta?:",
+   "o": [
+    "Inspirar todo el aire que pueda hasta capacidad vital y soplar lentamente hasta volumen residual.",
+    "Inspirar hasta capacidad pulmonar total y soplar lentamente hasta volumen residual.",
+    "Inspirar todo el aire que pueda hasta capacidad vital y soplar lentamente hasta capacidad residual.",
+    "Inspirar todo el aire que pueda hasta capacidad pulmonar total y soplar lentamente hasta capacidad residual."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía Española de Manejo del Asma (GEMA), indique la respuesta correcta sobre los nebulizadores jet:",
+   "o": [
+    "Los nebulizadores jet con débito constante administran el aerosol sólo durante la inspiración o una fracción de esta.",
+    "Deben utilizarse flujos elevados, de entre 6 y 9 l/min.",
+    "Siempre queda un volumen residual que suele ser 0,1-0,3 ml.",
+    "En los nebulizadores jet con efecto Venturi, aproximadamente un 60-70 % del volumen nominal se pierde en el ambiente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con las diferencias entre los modos ventilatorios Volumen Control (VC) y Presión Control (PC):",
+   "o": [
+    "La presión máxima se mantiene constante en el modo VC, mientras que es variable en el PC.",
+    "El volumen circulante se mantiene constante en el modo PC, mientras que es variable en el VC.",
+    "El aumento del esfuerzo inspiratorio por parte del paciente reduce la presión de la vía aérea en el modo VC, mientras que aumenta el volumen circulante en el modo PC.",
+    "Una distensibilidad alta en el pulmón del paciente aumenta la presión de la vía aérea en el modo VC, mientras que reduce el volumen circulante en el modo PC."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta en relación con la ventilación mediante gafas de alto ﬂujo:",
+   "o": [
+    "Administran un flujo decelerado.",
+    "No se encuentran indicadas en procedimientos invasivos (por ejemplo, una fibroscopia) ante el riesgo de agravar síntomas previos.",
+    "De cara a un mayor éxito de la terapia, se debe evitar la humidificación.",
+    "La FiO2 suministrada se aproxima a la que recibe el paciente."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía Española para el Manejo del Asma (GEMA), ¿cuál de las siguientes es la técnica correcta de inhalación de un inhalador de cartucho presurizado?:",
+   "o": [
+    "Comenzar a inhalar lentamente a través de la boca y al mismo tiempo presionar el dispositivo para activar una dosis.",
+    "Inhalar desde el principio con el máximo esfuerzo inspiratorio tan profundo y fuerte como pueda hasta llenar los pulmones y al mismo tiempo presionar el dispositivo para activar una dosis.",
+    "Comenzar a inhalar lentamente a través de la boca y después presionar el dispositivo para activar una dosis.",
+    "Inhalar desde el principio con el máximo esfuerzo inspiratorio tan profundo y fuerte como pueda hasta llenar los pulmones y después presionar el dispositivo para activar una dosis."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "O.F.B. es portador de una cánula de traqueotomía con neumotaponamiento. Entre los cuidados de enfermería que usted debe llevar a cabo se encuentra:",
+   "o": [
+    "Llenar el balón del neumotaponamiento con agua estéril con el volumen indicado por el fabricante de la cánula.",
+    "Llenar el balón del neumotaponamiento con suero fisiológico con el volumen indicado por el fabricante de la cánula.",
+    "Comprobar al menos cada 8 horas, mediante manómetro, que la presión del balón de neumotaponamiento se encuentra entre 20-30 mmHg.",
+    "Aspiración de secreciones de forma rutinaria, mediante rigurosa técnica aséptica."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "La utilización del dispositivo de cánula nasal de alto ﬂujo con respecto a la presión positiva continua nasal en las vías respiratorias (CPAP) como terapia ventilatoria en el lactante, presenta ciertas diferencias. Indique la opción correcta:",
+   "o": [
+    "La cánula nasal de alto flujo utiliza gas caliente y humidificado mientras que la CPAP lo hace a condiciones ambientales.",
+    "Existe menor riesgo de lesiones nasales con la aplicación de CPAP en comparación con las cánulas nasales de alto flujo.",
+    "El sistema de cánula nasal de alto flujo mantiene flujos fijos generando presiones variables, mientras que la CPAP utiliza flujos variables obteniendo una presión fija. 129 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA",
+    "Tanto la cánula nasal de alto flujo como la CPAP mejoran el patrón ventilatorio, aumentando la frecuencia respiratoria y disminuyendo las necesidades de oxígeno."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la técnica de espirometría forzada señale la INCORRECTA:",
+   "o": [
+    "Es necesario utilizar la pinza nasal.",
+    "Los valores obtenidos se interpretan comparándolos con los valores teóricos correspondientes teniendo en cuenta el sexo, edad, talla, peso y etnia.",
+    "Mide el porcentaje de la capacidad vital forzada que se espira durante el primer segundo de la maniobra de espiración forzada.",
+    "Mide el volumen de aire exhalado durante el primer segundo de la maniobra de espiración forzada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de calcular la dosis de oxígeno domiciliario en un paciente con Enfermedad Pulmonar Obstructiva Crónica (EPOC), señale cuál de los siguientes enunciados es correcto:",
+   "o": [
+    "Colocaremos al paciente en bipedestación respirando aire ambiente, junto con gafas nasales y monitorizado con pulsioxiometría.",
+    "Dejaremos de aumentar el flujo de oxígeno en el momento que la pulsioximetría alcance valores de 88% o superiores de forma estable.",
+    "Para el cálculo de la dosis durante el sueño, realizaremos un test de 10 minutos caminando con la dosis de oxígeno de reposo.",
+    "Ante un eventual viaje en avión, incrementaremos de forma empírica la dosificación en 2 litros por minuto."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La espirometría es la principal prueba de función pulmonar y resulta imprescindible para la evaluación y el seguimiento de las enfermedades respiratorias. Señale cuál NO es una Contraindicación absoluta de la espirometría:",
+   "o": [
+    "Cirugía cerebral, ocular u otorrinolaringológica reciente.",
+    "Despredimiento agudo de retina.",
+    "Hipertensión intracraneal.",
+    "Angina inestable."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles serían los signos y síntomas de toxicidad por oxígeno en un paciente tratado con oxigenoterapia al 60% desde hace 72 horas?:",
+   "o": [
+    "Dolor agudo subesternal, parestesias, adormilamiento, respiración superficial.",
+    "Molestias subesternales, parestesias, disnea, intranquilidad, sensación de malestar, dificultad respiratoria, hipoxemia.",
+    "Dolor en las bases pulmonares, calambres en las extremidades, tos productiva con abundante secreción fluida y espumosa.",
+    "Malestar general, hiperventilación, cianosis, desorientación, tos irritativa y hemoptisis."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes NO es una complicación derivada de la aplicación de un taponamiento nasal:",
+   "o": [
+    "Sinequia septal.",
+    "Necrosis septal nasal.",
+    "Shock tóxico.",
+    "Hipoacusia."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Según establece la Norma ISO 6710:2018, el tubo de la Imagen 9 contiene:",
+   "o": [
+    "Ácido etilendiaminotetraacético EDTA K3E.",
+    "Citrato trisódico.",
+    "Heparina de litio.",
+    "Heparina de sodio. 141 TÉCNICAS Y PROCEDIMIENTOS DE ENFERMERÍA"
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2025-2026-9.jpg"
+  },
+  {
+   "q": "El bronquio, los vasos linfáticos, los vasos sanguíneos y los nervios entran y salen del pulmón, a través de:",
+   "o": [
+    "Vértice del pulmón.",
+    "Hilio.",
+    "Base del pulmón.",
+    "Escotadura cardíaca."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "El principal estímulo fisiológico para la ventilación en sujetos sanos es:",
+   "o": [
+    "La hipoxemia (PaO2 baja) detectada por quimiorreceptores periféricos.",
+    "La presión arterial sistémica.",
+    "La hipercapnia (PaCO2 alta) y el aumento de H+ detectados por quimiorreceptores centrales.",
+    "El consumo de adenosín trifosfato (ATP) durante el ejercicio físico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta respecto de la Prueba de Marcha de los 6 minutos o Test de los 6 minutos (PM6M):",
+   "o": [
+    "Mide la distancia máxima que un individuo puede recorrer caminando durante 6 minutos, con intervalos de caminata-descanso de 1 minuto para completar los 6 minutos totales (caminar 1 minuto y descansar otro, hasta completar 6 minutos).",
+    "Evalúa de forma integrada la respuesta de los sistemas respiratorio, cardiovascular, metabólico, músculo esquelético y neurosensorial al estrés impuesto por el ejercicio.",
+    "El pasillo por el que se camina nunca debe estar en interiores y ha de tener superficie plana y con una distancia siempre superior a 30 m.",
+    "El embarazo es una contraindicación para la prueba, aunque debe hacerse una prueba adaptada (Pregnancy Modified 6 Minutes Test o PM3M) en los casos necesarios. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 490"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "A la disnea que aparece al inclinarse hacia delante para ponerse los zapatos o atarse los cordones, y que se considera un nuevo síntoma de la insuficiencia cardíaca avanzada, se denomina:",
+   "o": [
+    "Trepopnea.",
+    "Platipnea.",
+    "Ciclopnea.",
+    "Bendopnea."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 8. Indique el patrón respiratorio que se muestra en la imagen:",
+   "o": [
+    "Atáxico.",
+    "Kussmaul.",
+    "Cheyne-Stokes.",
+    "Apnéustico."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t21-2021-2022-8.jpg"
+  },
+  {
+   "q": "Indique la respuesta correcta en relación a la respiración de Kussmaul:",
+   "o": [
+    "Es un tipo particular de hiperventilación mediante la cual el cuerpo intenta compensar el aumento de ácidos metabólicos expulsando CO2.",
+    "Es un patrón de respiraciones superficiales y rápidas interrumpidas por apneas.",
+    "Es un tipo de hipoventilación que puede observarse en pacientes con trastornos del sistema nervioso central.",
+    "Es un patrón respiratorio que se caracteriza por reducción de la frecuencia respiratoria y que se asocia frecuentemente a sobredosis de morfina o sedantes."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La imagen 6 es de una curva flujo-volumen que corresponde a:",
+   "o": [
+    "Una obstrucción bronquial unilateral del tronco principal. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 492",
+    "Una enfermedad pulmonar obstructiva crónica.",
+    "Una obstrucción extratorácica variable.",
+    "Una obstrucción intratorácica variable."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t21-2025-2026-6.jpg"
+  },
+  {
+   "q": "Realiza una espirometría con el resultado de: FVC: 2,42 L (88% del teórico); FEV1: 1,25 L (61% del teórico); FEV1/FVC: 51,51%, se trata de una:",
+   "o": [
+    "Espirometría normal.",
+    "Alteración ventilatoria obstructiva.",
+    "Alteración ventilatoria no obstructiva.",
+    "Alteración ventilatoria mixta."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En los trastornos de la función ventilatoria de carácter restrictivo:",
+   "o": [
+    "La característica principal es la disminución del flujo espiratorio, es decir, el FEV1.",
+    "El cociente FEV1 (flujo espiratorio)/FVC (Capacidad vital forzada) está disminuida.",
+    "La capacidad pulmonar total está disminuida.",
+    "El volumen residual (VR) está aumentado debido al atrapamiento durante la espiración."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la normativa de la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), señale a qué patrón espirométrico corresponden los siguientes resultados de una prueba de función respiratoria: FVC: 2.380 cc (71%); FEV1: 1.890 cc (76%), FEV1/FVC: 79,41%:",
+   "o": [
+    "Patrón obstructivo.",
+    "Patrón restrictivo.",
+    "Patrón no obstructivo.",
+    "Patrón mixto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la indicación de oxigenoterapia en pacientes con EPOC ¿cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "La oxigenoterapia a largo plazo está indicada en pacientes con PaO₂ ≤ 55 mm Hg, o saturación de oxígeno ≤ 88%, con o sin hipercapnia confirmada en dos ocasiones en tres semanas.",
+    "La oxigenoterapia a largo plazo (>15 horas al día) no mejora la supervivencia en pacientes con hipoxemia grave en reposo.",
+    "Se recomienda oxigenoterapia intermitente para pacientes cuya desaturación de oxígeno ocurre solamente durante el ejercicio, el sueño o las actividades cotidianas.",
+    "La oxigenoterapia a largo plazo también puede indicarse en pacientes con PaO₂ entre 55 y 60 mm Hg y evidencia de daño orgánico (por ejemplo, edema por insuficiencia cardíaca de recha)."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el contexto de la prueba broncodilatadora, ¿qué incremento en el FEV1 post broncodilatador se considera significativo para confirmar una hiperrespuesta bronquial?:",
+   "o": [
+    "Aumento del FVC ≥ 20% y ≥ 300 ml.",
+    "Aumento del FEV1 ≥ 12% y ≥ 200 ml.",
+    "Aumento del FVC ≥ 10% y ≥ 100 ml.",
+    "Aumento del FEV1 ≥ 5% y ≥ 50 ml."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la interpretación de una espirometría, ¿qué valor se utiliza para definir la presencia de una obstrucción bronquial en pacientes con sospecha de EPOC?:",
+   "o": [
+    "FEV1 mayor al 80% del valor predicho.",
+    "FEV1/FVC menor al 70% tras la administración de un broncodilatador.",
+    "FEV1/FVC mayor al 85% antes de la administración de un broncodilatador.",
+    "FVC menor al 60% del valor predicho tras un esfuerzo máximo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el criterio principal para la indicación de oxigenoterapia continua a largo plazo en pacientes con EPOC y sin otras patologías relevantes?:",
+   "o": [
+    "PaO2 ≤ 55 mmHg o saturación de oxígeno ≤ 88%.",
+    "PaO2 ≤ 60 mmHg o saturación de oxígeno ≤ 92%.",
+    "PaCO2 ≥ 45 mmHg.",
+    "FEV1/FVC ≤ 70%."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una de las medidas obtenidas mediante la espirometría es la relación entre la capacidad vital forzada (FVC) y el volumen espiratorio forzado en el primer segundo (FEV1). En ese sentido, ¿cuál es la definición de la etapa II (moderada) de la EPOC según la clasificación de gravedad de la escala GOLD (Global Initiative for Chronic Obstructive Lung Disease):",
+   "o": [
+    "FEV1/FVC < 70 % y FEV1 de 50 a 80 % del pronosticado, con aparición de falta de aliento típica durante el ejercicio.",
+    "FEV1/FVC < 70 % y FEV1 ≥ 80 % del pronosticado, con síntomas de tos y producción de esputo.",
+    "FEV1/FVC < 70 % y FEV1 < 30 a 50 % del pronosticado, con aumento de la disnea, reducción de la capacidad de ejercicio y exacerbaciones repetidas.",
+    "FEV1/FVC < 70 % y FEV1 < 30 a 50 % del pronosticado, con síntomas y signos de insuficiencia respiratoria crónica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Una puntuación final de 18 puntos en el test del control del asma (Asthma Control Test, ACT) significa:",
+   "o": [
+    "El asma está controlada.",
+    "Control parcial del asma.",
+    "Mal control del asma.",
+    "Muy mal control del asma."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Manual SEPAR de Procedimientos, indique la opción correcta sobre la interpretación de la gasometría arterial a nivel del mar, en reposo, con FiO2 de 0,21 y en ausencia de otras patologías:",
+   "o": [
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 80 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 60 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 60 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 80 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 40 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 60 mmHg.",
+    "Se considera hipoxemia si la PaO2 de un adulto es inferior a 60 mmHg e insuficiencia respiratoria cuando la PaO2 está por debajo de los 40 mmHg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la insuficiencia respiratoria, indique la opción INCORRECTA:",
+   "o": [
+    "En alturas superiores a 5.000 metros se produce por la disminución de la concentración de oxígeno (FiO2).",
+    "En los casos de tromboembolismo pulmonar se produce un aumento del espacio muerto fisiológico debido a la no perfusión de las zonas afectadas.",
+    "El efecto shunt se produce al no renovarse la carga de CO2 de la sangre en el alvéolo por encontrarse cerrado u obstruido.",
+    "En la intoxicación por cianuro la célula no es capaz de utilizar el oxígeno aun encontrándose valores normales de este en el organismo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las alteraciones oculares asociadas al síndrome de apnea del sueño, NO se encuentra:",
+   "o": [
+    "Síndrome de párpado flácido.",
+    "Glaucoma.",
+    "Neuropatía óptica isquémica.",
+    "Cataratas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la prevención de neumonías, la “tos dirigida” tiene como objetivo drenar las secreciones bronquiales y facilitar su expulsión. ¿Qué Pico de Flujo de Tos debe presentar una persona para asegurar la efectividad de esta técnica?:",
+   "o": [
+    "210 l/min.",
+    "230 l/min.",
+    "250 l/min.",
+    "270 l/min."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En pacientes adultos con distrés respiratorio (SDRA) moderado-grave inducido por sepsis, ¿cuánto tiempo recomienda la ventilación en decúbito prono la Guía de la Surviving Sepsis Campaign?:",
+   "o": [
+    "Menos de 6 horas diarias.",
+    "Entre 6 y 8 horas diarias.",
+    "Al menos 12 horas diarias.",
+    "Al menos 18 horas diarias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina el neumotórax que puede deberse a la ruptura de pequeñas bullas localizadas en el vértice pulmonar?:",
+   "o": [
+    "Neumotórax traumático.",
+    "Neumotórax colapsado.",
+    "Neumotórax espontáneo.",
+    "Neumotórax a tensión."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El señor D.C.M. fue intervenido hace seis días de una fractura de fémur. Súbitamente comienza con disnea, taquipnea y dolor en hemitórax derecho y tras ser valorado, una de las sospechas diagnósticas es de tromboembolismo pulmonar. ¿Cuál escala utilizada para valorar la posibilidad clínica de padecer un tromboembolismo pulmonar?:",
+   "o": [
+    "Escala de Cincinatti",
+    "Escala de Wells.",
+    "Escala de Ashowrth.",
+    "Escala de Gleason."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "img": "img/preguntas/botella-oxigeno.svg",
+   "q": "Botella de gas medicinal con la ojiva completamente blanca. Contiene:",
+   "o": [
+    "Aire medicinal",
+    "Oxígeno",
+    "Protóxido de nitrógeno",
+    "Dióxido de carbono"
+   ],
+   "a": 1,
+   "e": "Ojiva blanca = oxígeno (norma UNE-EN 1089-3). El verde para el oxígeno es el código antiguo y ya no se usa."
+  },
+  {
+   "img": "img/preguntas/botella-protoxido.svg",
+   "q": "Botella con la ojiva azul. Contiene:",
+   "o": [
+    "Oxígeno",
+    "Helio",
+    "Nitrógeno",
+    "Protóxido de nitrógeno (óxido nitroso)"
+   ],
+   "a": 3,
+   "e": "Azul = N₂O. Blanco y azul = mezcla O₂/N₂O al 50 % (analgesia inhalada). Gris = CO₂; negro = nitrógeno; marrón = helio."
+  },
+  {
+   "img": "img/preguntas/botella-aire.svg",
+   "q": "Botella con la ojiva en sectores blancos y negros. Contiene:",
+   "o": [
+    "Aire medicinal",
+    "Oxígeno",
+    "Nitrógeno",
+    "Mezcla oxígeno-helio"
+   ],
+   "a": 0,
+   "e": "Blanco (oxígeno) + negro (nitrógeno) = aire medicinal."
+  }
+ ]
+}

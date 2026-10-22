@@ -25,7 +25,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Metodología de investigación, di
 - **Validez interna** (relación causa-efecto real) y **externa** (generalización). **Triangulación**: combinar métodos, fuentes o investigadores (enfoque mixto).
 
 !! El orden es **Adquirir antes que Analizar**: no se puede leer críticamente lo que no se ha encontrado.
-!! **OR** suma resultados; **AND** los reduce.
+!! ==**OR** suma resultados; **AND** los reduce.==
 
 ## A2. Fases de la investigación (Polit y Beck) y pregunta clínica
 
@@ -141,7 +141,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Metodología de investigación, di
 - **CASPe**: cuestionarios de lectura crítica de artículos.
 
 !! La recomendación más alta en SIGN es el **grado A**, no el "nivel 1++".
-!! Para cribado se busca **máxima sensibilidad**.
+!! ==Para cribado se busca **máxima sensibilidad**.==
 
 ## == BLOQUE B · Ley 31/1995 de Prevención de Riesgos Laborales
 

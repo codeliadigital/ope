@@ -19,7 +19,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Ética y bioética, Código Deonto
 - **Beauchamp y Childress (1979)**: 4 principios *prima facie*. **Diego Gracia**: nivel I (**mínimos**: no maleficencia y justicia) por encima del nivel II (**máximos**: autonomía y beneficencia). Truco: "**NO JU**egues con mi **AU**to **BENE**ficio".
 - No maleficencia = no dañar (negativo: asepsia, dosis correctas). Beneficencia = hacer el bien (positivo: curar una úlcera, analgesia, EpS).
 
-!! Moral = **práctica**; ética = **teoría**. Núremberg = médicos nazis; Belmont = Tuskegee.
+!! ==Moral = **práctica**; ética = **teoría**. Núremberg = médicos nazis; Belmont = Tuskegee.==
 
 ## A2. Código Deontológico y objeción de conciencia
 

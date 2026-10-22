@@ -1,0 +1,104 @@
+{
+ "tema": 30,
+ "preguntas": [
+  {
+   "q": "En pediatría, en referencia al término de “saturación de oxígeno arterial preductal” medida por pulsioximetría, indique la respuesta correcta:",
+   "o": [
+    "Se trata de la saturación de oxígeno arterial medida en el miembro inferior derecho.",
+    "La medición de la saturación de oxígeno preductal en el recién nacido nos da información sobre la hipercapnia en el momento del parto.",
+    "En el paciente pediátrico, la medición mediante pulsioximetría de la saturación de oxígeno arterial preductal no tiene indicación. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 316",
+    "La interpretación de la medición de saturación arterial preductal con respecto a la saturación postductal, proporciona indicios importantes acerca de la causa de la hipoxemia en el recién nacido."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Al defecto congénito de la pared abdominal, habitualmente localizado a la derecha del cordón umbilical, con exposición del intestino y sin membrana de recubrimiento se le denomina:",
+   "o": [
+    "Gastrosquisis.",
+    "Onfalitis.",
+    "Onfalocele.",
+    "Hernia umbilical."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, cuál NO es un factor de riesgo en la aparición de la retinopatía del prematuro:",
+   "o": [
+    "Bajo peso al nacer.",
+    "Hipoxia.",
+    "Hemorragia intracraneal.",
+    "Edad gestacional."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al megacolon aganglionar congénito o enfermedad de Hirschprung, indique cuál de las siguientes opciones es FALSA: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 330",
+   "o": [
+    "Afecta con más frecuencia al sexo femenino.",
+    "Retraso en la eliminación del meconio.",
+    "Algunos pacientes pueden presentar vómitos biliosos o fecaloideos con ausencia de tránsito.",
+    "Déficit de inervación parasimpática del colon."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación a la enfermedad de Hirschsprung o megacolon agangliónico congénito, indique la respuesta correcta:",
+   "o": [
+    "Es la causa más frecuente de obstrucción intestinal inferior en la edad escolar.",
+    "Se debe a una disfunción de las células ganglionares de la pared intestinal, de extensión variable.",
+    "El segmento afectado se presenta hipotónico y dilatado.",
+    "Debe sospecharse el diagnóstico ante un retraso en la expulsión de meconio superior a 48 horas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes manifestaciones clínicas, ¿cuál NO es indicativa de deshidratación grave en el lactante?:",
+   "o": [
+    "Retraso del relleno capilar > 1,5 segundos.",
+    "Pérdida de peso corporal > 10 %.",
+    "Depresión del nivel de conciencia.",
+    "Piel fría y moteada."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La enterocolitis necrosante es la urgencia digestiva más frecuente en la unidad de cuidados intensivos neonatales. Entre sus factores de riesgo NO encontramos:",
+   "o": [
+    "Prematuridad y/o bajo peso al nacer.",
+    "Líquido amniótico meconial durante el parto.",
+    "Alimentación con leche y/o preparados para lactantes.",
+    "Cardiopatía congénita."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La hipotermia moderada como tratamiento para los recién nacidos con encefalopatía hipóxico-isquémica perinatal es una opción eficaz en la reducción de la mortalidad y la discapacidad mayor asociada. En cuanto a la aplicación de este tratamiento, ¿cuál de las siguientes es INCORRECTA?:",
+   "o": [
+    "Existen dos formas de aplicación de la hipotermia con efecto protector: la corporal total y la selectiva de la cabeza.",
+    "La hipotermia debe ser iniciada antes de las primeras 24 horas de vida.",
+    "Se mantiene durante 72 horas.",
+    "El recalentamiento debe ser lento y progresivo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son algunos de los factores de riesgo para presentar síndrome de abstinencia en niños con disminución de la sedoanalgesia?:",
+   "o": [
+    "Perfusión continua de midazolam o fentanilo durante 5 o más días, lactantes menores de 6 meses y retraso psicomotor.",
+    "Dosis acumuladas de fentanilo mayor de 0,8 mg/kg y de midazolam de 20 mg/kg.",
+    "Lactantes menores de 1 mes y perfusiones de fentanilo superiores a 2 μg/kg/hora y midazolam mayor a 0.5 mg/kg/hora.",
+    "Duración del tratamiento con dexmedetomidina mayor a 5 días y dosis acumulada superior a 50 μg/kg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

@@ -1,0 +1,547 @@
+{
+ "tema": 26,
+ "preguntas": [
+  {
+   "q": "Respecto al signo de Chadwick, ¿cuál de las siguientes afirmaciones es correcta?:",
+   "o": [
+    "Se refiere a la aparición de contracciones irregulares del útero en el tercer trimestre.",
+    "Debido al aumento de la vascularización, la vagina y cuello uterino adquieren un color rojo en el embarazo precoz.",
+    "Se refiere al reblandecimiento del cuello uterino durante el parto.",
+    "Es un cambio en la forma del útero que ocurre hacia la semana 20 de gestación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes alteraciones se considera un trastorno de curso benigno, presentándose sin clínica y sin precisar terapéutica, y que suele suceder más frecuentemente en el tercer trimestre de la gestación:",
+   "o": [
+    "Trombocitopenia gestacional.",
+    "Síndrome de HELLP.",
+    "Hígado graso agudo.",
+    "Aborto séptico."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según sociedades científicas como la Sociedad Española de Ginecología y Obstetricia (SEGO), indique cuáles son las cifras más correctas sobre las recomendaciones para la profilaxis de la anemia en el embarazo y durante la lactancia: 279 ENFERMERÍA MATERNAL",
+   "o": [
+    "15 mg/día de hierro en el embarazo y 30 mg/día de hierro durante la lactancia.",
+    "30 mg/día de hierro en el embarazo y 30 mg/día de hierro durante la lactancia.",
+    "30 mg/día de hierro en el embarazo y 15 mg/día de hierro durante la lactancia.",
+    "15 mg/día de hierro en el embarazo y 15 mg/ día de hierro durante la lactancia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Una gestante de 20 semanas acude al servicio de urgencias en el que usted trabaja. La paciente se encuentra inconsciente y se sospecha que ha ingerido altas dosis de paracetamol oral. Debido a las modificaciones fisiológicas que ocurren en el embarazo y los efectos farmacológicos derivados de los mismos, ¿cuál de las siguientes respuestas NO es correcta?:",
+   "o": [
+    "Se producirá un enlentecimiento del vaciado gástrico provocando un aumento de la absorción del medicamento.",
+    "Aumentará el agua corporal total aumentando el volumen de distribución del medicamento.",
+    "Disminuirá la motilidad gastrointestinal provocando un ligero retraso en la absorción del medicamento.",
+    "Disminuirá el flujo sanguíneo provocando una disminución de la absorción del medicamento."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes modificaciones cardiovasculares debidas al embarazo es INCORRECTA:",
+   "o": [
+    "Hipotensión postural.",
+    "Disminución del gasto cardíaco.",
+    "Aumento de la volemia.",
+    "Anemia fisiológica de la gestante."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes hormonas placentarias, indique cuál de ellas asegura un suministro constante de glucosa al feto:",
+   "o": [
+    "Estriol.",
+    "Progesterona.",
+    "Hormona gonadotrópica coriónica.",
+    "Lactógeno placentario."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de los cambios anatómicos y fisiológicos normales que ocurren en la gestación podemos encontrar los siguientes EXCEPTO:",
+   "o": [
+    "Disminución de los factores de coagulación y del fibrinógeno.",
+    "Aumento del filtrado glomerular.",
+    "Disminución del peristaltismo intestinal.",
+    "Aumento del gasto cardiaco y de la frecuencia cardiaca."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad española de Ginecología y Obstetricia en su programa de 2018, ¿cuándo se realizará el cribado de diabetes gestacional o Test de O´Sullivan en el primer trimestre?:",
+   "o": [
+    "Edad menor de 35 años.",
+    "Índice de masa corporal igual a 28.",
+    "Intolerancia glucídica o diabetes gestacional previas.",
+    "Antecedente de diabetes en familiares de segundo grado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante la gestación, ¿qué evaluamos mediante las maniobras de Leopold?:",
+   "o": [
+    "El grado de madurez pulmonar fetal.",
+    "La contractilidad uterina.",
+    "La situación, presentación y posición fetal.",
+    "El estado del cuello uterino y la dilatación."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto de los cribados que deben llevarse a cabo durante la gestación, señale el enunciado correcto:",
+   "o": [
+    "El cribado de Diabetes Gestacional se realiza mediante el test de O 'Sullivan entre las semanas 18-22 de gestación.",
+    "El despistaje de cromosomopatías fetales, a través de test combinado, debe realizarse entre las semanas 8-10 de gestación.",
+    "El cribado de la presencia de Estreptococo del grupo B se realiza entre las semanas 30-34 de gestación.",
+    "El cribado de incompatibilidad Rh debe realizarse a todas las mujeres en su primera visita prenatal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las vacunas recomendadas en la gestación se incluye:",
+   "o": [
+    "Vacuna de la gripe atenuada.",
+    "Vacuna para el tétanos.",
+    "Vacuna para la toxoplasmosis.",
+    "Vacuna triple vírica."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En referencia a la estática fetal, la relación del eje longitudinal fetal con el eje longitudinal materno se denomina:",
+   "o": [
+    "Actitud.",
+    "Situación.",
+    "Presentación.",
+    "Posición."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación a la vacunación de la tos ferina en el embarazo:",
+   "o": [
+    "La vacuna de la tos ferina se administrará en cada embarazo independientemente de su estado de salud previo de vacunación.",
+    "La indicación de vacunación de la tos ferina se establece hasta la semana 28 de gestación.",
+    "La efectividad de la vacunación en el embarazo para prevenir la tos ferina en lactantes menores de 3 meses es baja.",
+    "Las muertes por tos ferina ocurren en lactantes mayores de 3 meses de edad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué analgésico tomado por una gestante puede producir cierre prematuro del ductus arterioso intraútero, especialmente en el tercer trimestre de gestación?:",
+   "o": [
+    "Tramadol.",
+    "Morfina.",
+    "Codeína.",
+    "Ibuprofeno."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale el enunciado correcto en relación con la 1.25-dihidroxivitamina D y el embarazo:",
+   "o": [
+    "Las concentraciones de 1.25-dihidroxivitamina D se mantienen iguales en el embarazo.",
+    "La suplementación con 1.25-dihidroxivitamina D no parece disminuir los riesgos de padecer preeclampsia o diabetes gestacional.",
+    "Las concentraciones de 1.25-dihidroxivitamina D previas a la gestación se duplican en el primer trimestre y alcanzan su punto máximo en el tercer trimestre.",
+    "La recomendación de todas las sociedades científicas es hacer una detección sistemática universal durante el embarazo de 1.25-dihidroxivitamina D."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El consumo o la exposición a los productos del tabaco por las mujeres embarazadas NO se asocia más específicamente con:",
+   "o": [
+    "Placenta previa.",
+    "Rotura prematura de membranas.",
+    "Desprendimiento prematuro de placenta.",
+    "Rotura uterina."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 3. Indique cuál es la Maniobra de Leopold que se muestra en la imagen:",
+   "o": [
+    "Primera maniobra.",
+    "Segunda maniobra.",
+    "Tercera maniobra.",
+    "Cuarta maniobra."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal causa no genética de hipoacusia congénita?:",
+   "o": [
+    "Encefalopatía hipóxico-isquémica neonatal.",
+    "Infección congénita por citomegalovirus.",
+    "Toxoplasmosis congénita.",
+    "Infección por estreptococo del grupo B."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta la importancia del abordaje de la seguridad y lesiones no intencionales en Atención Primaria, una de PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 286 las recomendaciones para el correcto uso del cinturón de seguridad durante el embarazo en un vehículo sería:",
+   "o": [
+    "La banda diagonal sobre el hombro, sin rozar el cuello, entre las mamas, sin apoyarse en ninguna de ellas y rodeando el abdomen.",
+    "La banda diagonal sobre el hombro, sin rozar el cuello, entre las mamas, sin apoyarse en ninguna de ellas y sobre el abdomen en diagonal.",
+    "La banda inferior por debajo del abdomen, ajustándose lo máximo posible a la parte ósea de las caderas, por encima del vientre.",
+    "La banda inferior a nivel medio del abdomen, ajustándose lo máximo posible a la parte ósea de las caderas, nunca por encima del vientre."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación con la vacunación frente a la tosferina en las gestantes?:",
+   "o": [
+    "Al administrar la vacuna frente a la tosferina durante la última etapa del embarazo, aumentan temporalmente los niveles de anticuerpos maternos.",
+    "No podrá realizarse la vacunación de la gripe y tosferina en el mismo día.",
+    "La vacunación de la tos ferina se realizará idealmente entre las 28 y 32 semanas de gestación.",
+    "La vacunación de las madres durante el embarazo puede prevenir más casos de tosferina, hospitalizaciones, y muertes del recién nacido, comparada con la vacunación posparto y la estrategia de vacunación en el niño."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La infección por Listeria en la gestante suele producir con más frecuencia:",
+   "o": [
+    "Cervicitis mucopurulenta en el primer trimestre.",
+    "Lesión dérmica que consiste en una pápula eritematosa.",
+    "Cuadros hipertensivos en el embarazo antes de la 20 semana de gestación.",
+    "Parto prematuro."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Las mujeres embarazadas no inmunes a la toxoplasmosis deben tener en cuenta una serie de medidas preventivas para evitar contraer la infección durante el embarazo. 287 ENFERMERÍA MATERNAL Señale cuál de las siguientes actividades NO reduce significativamente el riesgo de contraer la enfermedad:",
+   "o": [
+    "Cocinar la carne a temperatura suficiente, entre 63 y 74 ºC.",
+    "Congelar la carne durante varias horas a -5 ºC antes de consumirla.",
+    "Evitar beber agua potable no tratada.",
+    "Lavar las encimeras, las tablas de cortar y los utensilios con agua jabonosa después de manipular alimentos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes vacunas está contraindicada en el embarazo?:",
+   "o": [
+    "Vacuna de la tosferina.",
+    "Vacuna de la gripe.",
+    "Vacuna antitetánica.",
+    "Vacuna de la varicela."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué patología del embarazo está indicado el sulfato de magnesio?:",
+   "o": [
+    "Diabetes.",
+    "Eclampsia.",
+    "Hiperémesis.",
+    "Anemia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según los criterios de la International Society for the Study of Hypertension in Pregnancy (ISSHP), asumidos por la Sociedad Española de Ginecología y Obstetricia (SEGO), una gestante que a las 26 semanas presenta cifras tensionales superiores a 140 de sistólica y 90 de diastólica, sin otros signos ni síntomas, estará presentado una:",
+   "o": [
+    "Hipertensión crónica.",
+    "Preeclampsia.",
+    "Hipertensión gestacional.",
+    "Eclampsia."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la complicación materna más frecuente de la preeclampsia grave?:",
+   "o": [
+    "Abruptio placentae.",
+    "Eclampsia.",
+    "Coagulación intravascular diseminada o síndrome de HELLP.",
+    "Insuficiencia renal aguda."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la respuesta correcta en relación con el test O’Sullivan como método de cribado de la diabetes gestacional en un embarazo de bajo riesgo: 289 ENFERMERÍA MATERNAL",
+   "o": [
+    "Se realiza entre la semana 22-28 de gestación.",
+    "Para su realización se precisa estar en ayunas.",
+    "Se ingieren 50 gr de glucosa oral.",
+    "Se considera un resultado positivo del test de O’Sullivan una glucemia plasmática superior a 120 mg/dl una hora después de la ingesta."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale el factor de riesgo individual más importante en una gestante frente a la Enfermedad Tromboembólica Venosa durante la gestación:",
+   "o": [
+    "Hábito tabáquico ocasional.",
+    "Índice de Masa Corporal de 25-27.",
+    "Historia previa de trombosis venosa.",
+    "Lupus eritematoso sistémico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "NO es un factor de riesgo del desprendimiento prematuro de placenta normalmente inserta:",
+   "o": [
+    "Trastornos hipertensivos del embarazo.",
+    "Nuliparidad.",
+    "Traumatismo abdominal/ accidente.",
+    "Tabaquismo, cocaína y otras drogas de abuso."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Señale, con la nomenclatura más correcta, qué tipo de presentación se muestra en la siguiente imagen, en relación con la fase de expulsivo de un parto:",
+   "o": [
+    "Presentación de frente occipito posterior.",
+    "Presentación de frente occipito anterior. 291 ENFERMERÍA MATERNAL",
+    "Presentación de cara mento-anterior o púbica.",
+    "Presentación de cara mento-posterior o sacra."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t13-2023-2024-7.jpg"
+  },
+  {
+   "q": "Indique cuál de los siguientes parámetros se usa en el Sistema de puntuación de Malinas:",
+   "o": [
+    "Consistencia del cuello del útero.",
+    "Intervalo de las contracciones uterinas.",
+    "Esfuerzo respiratorio del recién nacido.",
+    "Presencia de meconio en el líquido amniótico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 2. Indique qué tipo de alteración placentaria se observa en la imagen:",
+   "o": [
+    "Placenta accreta.",
+    "Placenta previa.",
+    "Inserción velamentosa de cordón umbilical.",
+    "Placenta bilobulada."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t13-2021-2022-2.jpg"
+  },
+  {
+   "q": "Indique cuál de las siguientes afirmaciones en relación con la anestesia en una gestante con enfermedad de COVID-19 activa es INCORRECTA:",
+   "o": [
+    "Se recomienda el uso de óxido nitroso.",
+    "Se debe usar la analgesia neuroaxial de forma precoz.",
+    "El empleo de remifentanilo en mujeres con COVID y SpO2 < 95 % se desaconseja.",
+    "La anestesia general no se debe emplear para la cesárea como primera opción."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la referencia anatómica que nos ayuda a localizar el punto de punción de la analgesia epidural?:",
+   "o": [
+    "Puntos más altos de ambas crestas ilíacas cuya línea imaginaria para habitualmente por la apófisis espinosa de L1 (línea de Tuffier).",
+    "Puntos más altos de ambas crestas ilíacas cuya línea imaginaria pasa habitualmente por la apófisis espinosa de la S1 (línea de Tuffier).",
+    "Puntos más altos de ambas crestas ilíacas cuya línea imaginaria pasa habitualmente por la apófisis espinosa de la L2 (línea de Tuffier).",
+    "Puntos más altos de ambas crestas ilíacas cuya línea imaginaria pasa habitualmente por la apófisis espinosa de la de la L4 (línea de Tuffier)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La actitud frente al trabajo de parto activo e ingesta de alimentos ha variado notablemente con el transcurso del tiempo y aunque actualmente ya no se recomienda el ayuno, señale qué autor fue el primero que escribió sobre el riesgo de aspiración gástrica durante la anestesia obstétrica en el trabajo de parto implantándose la política de “nil per os” (NPO):",
+   "o": [
+    "En 2007, Toohill J.",
+    "En 1988, Bronach J y Newton N.",
+    "En 1974, Roberts RB.",
+    "En 1946, Mendelson C. 295 ENFERMERÍA MATERNAL"
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta en relación con las complicaciones de la analgesia epidural durante el proceso del parto:",
+   "o": [
+    "Hipertensión materna.",
+    "Retención urinaria.",
+    "Dolor de espalda.",
+    "Fiebre materna."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de enfermería obstétrica y ginecológica de Cotobal (2025), ¿qué recomendaciones se establecen para que una mujer en periodo de lactancia con mastitis aguda pueda continuar con la lactancia materna?:",
+   "o": [
+    "No suspender la lactancia materna.",
+    "Suspender la lactancia inmediatamente para evitar la transmisión de la infección al bebé.",
+    "Alternar la lactancia con leche de fórmula para reducir la demanda sobre el pecho afectado.",
+    "Suspender la lactancia del pecho afectado y continuar solo con el sano."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes situaciones se considera un posible factor de riesgo para la Hemorragia Posparto?:",
+   "o": [
+    "Anemia.",
+    "Oligoamnios.",
+    "Crecimiento Intrauterino Restringido (CIR).",
+    "Parto prolongado."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En el seguimiento que se debe efectuar sobre una mujer puérpera tras su alta hospitalaria, según la Guía de Práctica Clínica (GPC) de Atención en el Embarazo y Puerperio, es cierto que:",
+   "o": [
+    "Se sugiere que se concierte cita entre el séptimo y décimo día posparto en el centro de salud.",
+    "Se sugiere realizar una segunda consulta hacia el final de la cuarentena, sobre los dos meses posparto.",
+    "Se sugiere que en cada visita posparto se explore el estado emocional de las mujeres, su apoyo familiar y social, y las estrategias de afrontamiento.",
+    "Se sugiere que sea el médico de atención primaria quien coordine la actuación de los distintos profesionales que atienden a las madres y recién nacidos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En base a las recomendaciones de la Guía de Práctica Clínica sobre Lactancia Materna del Ministerio de Sanidad, Servicios Sociales e Igualdad, ante una mujer que está amamantando y presenta ingurgitación mamaria, debemos recomendarle que:",
+   "o": [
+    "Antes de comenzar la toma debe realizar una extracción manual de leche o calostro, para facilitar el agarre. 297 ENFERMERÍA MATERNAL",
+    "Antes de amamantar debe aplicarse hielo en el pecho, para evitar dolor al inicio de la toma.",
+    "Debe espaciar las tomas, para que el bebé realice un vaciado completo de la mama.",
+    "Debe evitar el contacto piel con piel continuado para disminuir la concentración de oxitocina segregada y disminuir así la producción de leche."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En referencia a la lactancia materna y la técnica de presión inversa suavizante (PIS), señale la respuesta correcta: Causas Factores de riesgo Atonía uterina (Tono) Sobredistensión uterina Gestación múltiple Hidramnios Feto macrosómico (grande) Corioaminionitis Rotura Prematura de Membranas prolongada Fiebre Agotamiento muscular Parto prolongado y/o rápido Elevada multiparidad Retención de tejidos (Tejido) Placenta Acretismo placentario Cirugía uterina previa Coágulos Lesión del canal del parto (Trauma) Desgarros del canal del parto Parto instrumental Fase de expulsivo precipitada Rotura/Deshicencia uterina Cirugía uterina previa (cesárea) Parto instrumental Distocia Hiperdinamia Versión cefálica externa Inversión uterina Alumbramiento manual Acretismo placentario Maniobra de Credé Alteraciones de la coagulación (Trombina) Adquiridas Preeclampsia Síndrome de Hellp CID Embolia de líquido amniótico Sepsis Abruptio placentae Congénitas Enf. De Von Willebrand Hemofilia tipo A PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 298",
+   "o": [
+    "La presión inversa suavizante puede ayudar a favorecer el agarre cuando se producen grietas en el pezón.",
+    "El mejor momento para aplicar la PIS es inmediatamente después de terminar la toma.",
+    "La presión no debería causar dolor. Para evitar dolor o incomodidad, se debe aplicar menos presión durante intervalos más largos.",
+    "Esta técnica debe ser aplicada solamente por un profesional de la salud."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre los problemas que aparecen en la lactancia, el fenómeno que consiste en una isquemia del pezón provocada por una disminución del flujo sanguíneo y que suele desencadenarse por el frío, que causa dolor intenso durante la toma y entre ellas, se conoce como:",
+   "o": [
+    "Ingurgitación.",
+    "Síndrome de Raynaud.",
+    "Reflejo disfórico de eyección de leche.",
+    "Agitación por amamantamiento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cómo se denomina a la separación anormal de los músculos abdominales anteriores por distensión de las fascias que los mantienen unidos, producida en ocasiones tras un embarazo y parto:",
+   "o": [
+    "Hernia inguinal.",
+    "Cistocele.",
+    "Diástasis de rectos abdominales.",
+    "Endometriona."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes recomendaciones sobre la lactancia materna en caso de ingurgitación mamaria, indique cuál tiene mayor grado de recomendación según la Guía de Práctica Clínica sobre lactancia del Ministerio de Sanidad, Servicios Sociales e Igualdad:",
+   "o": [
+    "La acupuntura podría disminuir la necesidad de antibióticos y el desarrollo de absceso mamario frente a los cuidados habituales.",
+    "En caso de una ingurgitación muy importante necesitaremos también disminuir el componente inflamatorio para permitir la salida de la leche, administrando preferentemente derivados mórficos para tal fin.",
+    "Se recomienda aumentar la frecuencia de las tomas además de descansar y realizar contacto piel con piel para favorecer la liberación de oxitocina.",
+    "La aplicación de hojas de repollo o col puede ser beneficiosa en esos casos, encontrándose mejoría en los síntomas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una ingurgitación mamaria de una madre lactante, señale la respuesta correcta en cuanto a las intervenciones de enfermería a realizar:",
+   "o": [
+    "Se recomienda que antes de la toma, la madre con ingurgitación mamaria se aplique frío local, se masajee el pecho y realice una extracción manual que facilite la salida de la leche y el agarre del niño al pecho.",
+    "Se recomienda disminuir la frecuencia de las tomas.",
+    "Se aconseja descansar y realizar contacto piel con piel para favorecer la liberación de oxitocina.",
+    "Para aliviar las molestias se puede aplicar calor local entre las tomas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué patología benigna se presenta con un cordón palpable en la mama debido a tromboflebitis de las venas subcutáneas torácicas?:",
+   "o": [
+    "Enfermedad de Mondor.",
+    "Esteatonecrósis.",
+    "Ectasia ductal.",
+    "Mastopatía fibroquística."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina la presencia de pezones supernumerarios situados por debajo de la mama?:",
+   "o": [
+    "Mastodinia.",
+    "Telorrea.",
+    "Polimastia.",
+    "Politelia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Protocolo común para la actuación sanitaria ante la mutilación genital femenina (MGF), en relación con la desinfibulación, indique la respuesta correcta:",
+   "o": [
+    "No se recomienda realizar la desinfibulación intraparto ya que puede dificultar el parto vaginal.",
+    "Se recomienda su realización en la MGF Tipo III.",
+    "Una vez realizada la desinfibulación, se aconseja realizar una reinfibulación tras el parto.",
+    "Está contraindicada realizarla con anestesia local."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la clasificación de la mutilación genital femenina, la resección parcial o total del clítoris y los labios menores, con o sin escisión de los labios mayores, se clasifica como:",
+   "o": [
+    "Tipo I o Clitoridectomía.",
+    "Tipo II o Escisión.",
+    "Tipo III o Infibulación.",
+    "Tipo IV."
+   ],
+   "a": 1,
+   "src": "EIR"
+  }
+ ]
+}

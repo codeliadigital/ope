@@ -1,0 +1,425 @@
+{
+ "tema": 36,
+ "preguntas": [
+  {
+   "q": "De cara a mejorar la capacidad de transmitir malas noticias en caso de muerte perinatal, los profesionales sanitarios disponen del protocolo SPIKES de los 6 pasos, descrito por Bayle y Buckman. En la primera etapa se incluye:",
+   "o": [
+    "Preparar el contexto físico más adecuado.",
+    "Averiguar cuánto sabe la paciente.",
+    "Responder a los sentimientos de la paciente.",
+    "Planificación y seguimiento del proceso."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes actuaciones, cuál considera que es la menos recomendada para tratar a la mujer/familia cuando nos encontramos ante una situación de muerte fetal:",
+   "o": [
+    "Informar a los padres de los grupos locales de apoyo disponibles.",
+    "Que el profesional sanitario se presente a la mujer/familia por su nombre y cargo.",
+    "Recomendarles la posibilidad de ver a su bebé fallecido.",
+    "Permanecer todo el tiempo con la mujer/ familia, evitando que se queden solos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de la violencia de género, cuando hablamos de un término que “alude a las responsabilidades y cargas afectivas y emocionales que, en el ámbito doméstico, acaban recayendo sobre las mujeres, atrapándolas con los lazos de los afectos que dificultan o impiden su salida y realización personal lejos del ámbito familiar”, nos referimos a:",
+   "o": [
+    "Techo de cristal.",
+    "Patriarcado.",
+    "Suelo pegajoso.",
+    "Brecha de género a nivel vertical."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las manifestaciones que se pueden dar en el contexto de la violencia de género, cuando se alude al maltrato contra terceros, como pueden ser las hijas e hijos, con el propósito de dañar y herir a la mujer, hablamos de:",
+   "o": [
+    "Violencia física.",
+    "Violencia patrimonial.",
+    "Violencia vicaria.",
+    "Violencia ambiental."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Un obstáculo recurrente en la presentación de los resultados de la investigación en salud, ha sido la asunción, como norma, de que las mujeres presentan la misma situación que los hombres. A esto se le conoce como:",
+   "o": [
+    "Efecto Matilda.",
+    "Paradigma de invisibilidad.",
+    "Dobles estándares.",
+    "Techo de cristal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "“La prohibición de trabajar fuera del hogar” se encuadra dentro de la violencia de género como un tipo de violencia:",
+   "o": [
+    "Económica.",
+    "Sexual.",
+    "Ambiental.",
+    "Física."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué cambio fisiológico en el anciano repercute sobre la farmacocinética de los medicamentos?:",
+   "o": [
+    "El aumento del pH gástrico y retraso del vaciamiento gástrico incrementan la velocidad de absorción.",
+    "La disminución de albúmina incrementa la fracción libre de ciertos fármacos y por tanto su sobrevenida toxicidad. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 350",
+    "Los procesos metabólicos de fase II (conjugación) se ven más afectados que los de fase I (oxidación y reducción mediada por el CYP450).",
+    "La reducción de la función glomerular acorta la vida media de los fármacos excretados por vía renal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué criterio NO se considera válido para la captación activa, a personas de 70 o más años, según el documento de consenso sobre prevención de la fragilidad en la persona mayor?:",
+   "o": [
+    "Test de Barthel < 90 puntos.",
+    "Test de FRAIL ≥ 1 punto.",
+    "Prueba Corta de Desempeño Físico o Short Physical Performance Battery (SPPB) < 10 puntos.",
+    "Velocidad de la Marcha sobre 4 metros < 0,8 m/s."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Son una posible consecuencia del uso de restricciones físicas:",
+   "o": [
+    "Disminución del esfuerzo cardíaco.",
+    "Lesiones por caídas.",
+    "Dificultades para la retención fecal.",
+    "Mayor tranquilidad por parte de la familia y cuidadores."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "La definición operacional de Sarcopenia tras la revisión del EWGSOP2 de 2018 establece que:",
+   "o": [
+    "Se define como sarcopenia probable a la pérdida de masa muscular o a la mala calidad muscular sin que provoque necesariamente pérdida de fuerza (dinapedia).",
+    "Se define como sarcopenia a la pérdida de fuerza muscular (dinapedia) relacionada con la pérdida de masa muscular sin que provoque pérdida del rendimiento físico.",
+    "Se define como sarcopenia a la pérdida de masa muscular sin pérdida de fuerza ni pérdida del rendimiento físico.",
+    "Se define como sarcopenia a la pérdida de la masa y de la fuerza muscular que provoca la pérdida del rendimiento físico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo a los programas de cribado de cáncer incluidos en la actual cartera de servicios comunes del Sistema Nacional de Salud, identifique la correcta:",
+   "o": [
+    "La mamografía se realiza de forma general en mujeres de edades comprendidas entre 45 y 69 años cada 2 años.",
+    "La sangre oculta en heces se realiza de forma general en hombres y mujeres de edades comprendidas entre 45 y 69 años cada 2 años.",
+    "La determinación VPH de alto riesgo (VPH-AR) se realiza de forma general en mujeres de edades comprendidas entre 25-34 años cada 3 años.",
+    "Si VPH-AR positivo, se realiza triaje con citología. Si VPH-AR positivo y citología negativa: repetir VPH-AR al año."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Al revisar la historia clínica de una paciente ingresada para continuación de tratamiento quimioterápico, lee que presenta “líneas de Beau”. Para valorarlas y poder realizar el seguimiento debe de revisar:",
+   "o": [
+    "La cara.",
+    "El abdomen.",
+    "Los antebrazos.",
+    "Las uñas."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "L.M.P. (mujer) es una paciente de 72 años con cáncer de endometrio avanzado que ha decidido permanecer en su casa bajo cuidado del servicio paliativo domiciliario y dejar que la enfermedad siga su curso. Afirma pasar la mayor parte del día en la cama o en una silla en el salón, no tener fuerzas para vestirse y precisar más ayuda para su aseo personal. Con estos datos, la enfermera valorará su estado funcional según las escalas ECOG (Eastern Cooperative Oncology Group) y de Karnosfky (KPS) como:",
+   "o": [
+    "Puntuación escala ECOG = 2 y/o escala Karnosfky = 10-20.",
+    "Puntuación escala ECOG = 2 y/o escala Karnosfky = 30-40.",
+    "Puntuación escala ECOG = 3 y/o escala Karnosfky = 10-20.",
+    "Puntuación escala ECOG = 3 y/o escala Karnosfky = 30-40."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Ante un problema de disnea en un paciente con necesidades paliativas en su domicilio, qué tipos de cuidados enfermeros realizarías?:",
+   "o": [
+    "Utilizar ambientadores para facilitar que respire mejor, cerrando la ventana para controlar el aire en el interior.",
+    "Evitar las corrientes de aire.",
+    "Prescripción de un fármaco broncodilatador.",
+    "Posición de sedestación si es posible, y mantener corriente de aire a la cara del enfermo, por ejemplo, con un ventilador."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué recomendaciones específicas no farmacológicas haremos a una persona cuidadora de un enfermo con necesidades paliativas, con riesgo de hemoptisis y/o vómitos de sangre, en el domicilio?:",
+   "o": [
+    "Tener cerca toallas blancas para recoger el sangrado.",
+    "Utilizar toallas y ropa de cama de color oscuro.",
+    "En caso de sangrado pequeño, activar la visita de la asistencia extrahospitalaria.",
+    "Colocar al enfermo en decúbito supino."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De acuerdo con la Organización Mundial de la Salud, ¿cuáles son los principales objetivos de los cuidados paliativos? Indique la opción correcta:",
+   "o": [
+    "Alivio del dolor y otros síntomas; alargar la vida de las personas; dar apoyo psicológico, social y espiritual a la persona enferma; normalizar el tema de la muerte en la sociedad; proporcionar sistemas de apoyo para que la vida sea lo más activa posible; dar apoyo a los cuidadores principales.",
+    "Alivio de las náuseas y vómitos y otras sintomatologías; alargar la vida de las personas; dar apoyo psicológico, social y espiritual a la persona enferma; considerar la muerte como algo natural, como parte de la vida; proporcionar sistemas de apoyo para que la vida sea lo más activa posible; dar apoyo a la familia durante la enfermedad y el duelo.",
+    "Alivio del dolor y otros síntomas; no alargar ni acortar la vida de las personas; dar apoyo psicológico, social y espiritual a la persona enferma; reafirmar la importancia de la vida; considerar la muerte como algo natural, como parte de la vida; proporcionar sistemas de apoyo para que la vida sea lo más activa posible; dar apoyo a la familia durante la enfermedad y el duelo.",
+    "Alivio de las náusea y vómitos y otra sintomatología de las personas con cáncer; alargar la vida de las personas; enferma; reafirmar la importancia de la vida; considerar la muerte como algo natural, como parte de la vida; proporcionar sistemas de apoyo para que la vida sea lo más activa posible; dar apoyo a la familia durante la enfermedad y duelo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Es correcto sobre las características principales de la caquexia refractaria del paciente oncológico:",
+   "o": [
+    "Sarcopenia y pérdida ponderal mayor al 10 %.",
+    "Enfermedad avanzada que no responde al tratamiento antitumoral y esperanza de vida inferior a 3 meses.",
+    "Sarcopenia, enfermedad avanzada y esperanza de vida inferior a 6 meses.",
+    "IMC inferior a 18 kg/m2 y sarcopenia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La persona en situación de enfermedad avanzada (oncológica y no oncológica) suele presentar numerosos síntomas diferentes, ¿cuáles diría que son lo más prevalentes?:",
+   "o": [
+    "Pérdida de sentido de la vida y dolor.",
+    "Dolor y síntomas neuropsiquiátricos.",
+    "Dolor y náuseas.",
+    "Síntomas ansioso-depresivos y malestar espiritual."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuidados paliativos se utiliza el Edmonton Symptom Assessment System (ESAS) para la evaluación de síntomas. ¿Cuál de los siguientes síntomas se encuentran incluidos en esta valoración?:",
+   "o": [
+    "Bienestar.",
+    "Función.",
+    "Estreñimiento.",
+    "Sed."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El dolor es uno de los síntomas principales que aborda un equipo de cuidados paliativos. Es fundamental realizar una correcta valoración del dolor. Cuando el mecanismo de producción del dolor es nociceptivo, lo describimos como:",
+   "o": [
+    "Dolor central.",
+    "Dolor somático y/o dolor visceral.",
+    "Dolor periférico o neuropático.",
+    "Dolor psicosomático."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Desde qué perspectiva se valora el dolor en Cuidados Paliativos?:",
+   "o": [
+    "Desde una perspectiva física, psicoemocional, social y espiritual.",
+    "Desde una perspectiva física y psicoemocional, teniendo en cuenta la intensidad del mismo.",
+    "Desde una perspectiva espiritual, donde las creencias y valores son relevantes en la sensación dolorosa.",
+    "Desde la perspectiva somato-psíquica."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El tratamiento analgésico indicado para el dolor irruptivo por cáncer es:",
+   "o": [
+    "Morfina intravenosa.",
+    "Oxicodona vía oral.",
+    "Tramadol intramuscular.",
+    "Fentanilo bucal."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál sería el orden adecuado de la valoración de cuadro doloroso y de la situación clínica del individuo, antes de iniciar el tratamiento analgésico de un paciente en cuidados paliativos? Indique la opción correcta:",
+   "o": [
+    "Aplicar un parche de fentanilo y spray nasal según indicación; evaluar el nivel de dolor; realizar con el paciente una historia clínica del dolor; evaluar la respuesta al tratamiento.",
+    "Preguntar al paciente por el dolor; cuantificar el dolor mediante alguna escala (McGill o EVA); realizar una historia del dolor; realizar una exploración física completa; clasificar el dolor; administrar el tratamiento analgésico adecuado; evaluar la respuesta al tratamiento analgésico.",
+    "Preguntar al paciente por el dolor; cuantificar el dolor mediante alguna escala (McGill o EVA); administrar el tratamiento analgésico adecuado.",
+    "Cuantificar el dolor mediante alguna escala (McGill o EVA); administrar el tratamiento analgésico adecuado; clasificar el dolor; realizar una historia del dolor; realizar una historia completa; evaluar la respuesta al tratamiento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La forma en la que el niño expresa su dolor va a depender de su estadio de desarrollo, ¿cuál de los siguientes indicadores de dolor, NO CORRESPONDEN al estadio de desarrollo lactante?:",
+   "o": [
+    "Verbaliza el dolor y señala la zona dolorosa.",
+    "Sufrimiento físico generalizado.",
+    "Lloro e inquietud.",
+    "Agitación de piernas y brazos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "De las siguientes escalas, ¿cuál estaría indicada para valorar el dolor en una persona afectada por demencia en el estadio más avanzado?:",
+   "o": [
+    "Escala PAINAD.",
+    "Escala MPQ (McGill Pain Questionnarie).",
+    "Escala Young.",
+    "Escala EVA (Escala visual analógica)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la evaluación de dolor de un paciente crítico postquirúrgico, con sedación levemoderada y conectado a ventilación mecánica, se objetivan las siguientes conductas durante la aspiración de secreciones por el tubo orotraqueal: ceño fruncido de forma habitual, movimientos ocasionales de inquietud, flexión de dedos de la mano, tose, pero tolera la ventilación mecánica y se tranquiliza al tacto y/o a la voz. ¿Qué puntuación en la Escala de Conductas Indicadoras de Dolor (ESCID) tiene?:",
+   "o": [
+    "Puntuación ESCID de 4.",
+    "Puntuación ESCID de 5.",
+    "Puntuación ESCID de 6.",
+    "Puntuación ESCID de 8."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes variables NO forma parte de la Escala de Conductas Indicadoras de Dolor?:",
+   "o": [
+    "Tono muscular.",
+    "Confortabilidad.",
+    "Vocalización.",
+    "Musculatura facial."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué valoración sobre dolor anotaría en la historia clínica a tener de la información recabada?:",
+   "o": [
+    "0.",
+    "4.",
+    "6.",
+    "8."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 3. Atendiendo a la imagen siguiente, seleccione la respuesta correcta:",
+   "o": [
+    "Se trata de un drenaje tipo redón.",
+    "Se trata de un dispositivo de infusión llamado bomba elastomérica.",
+    "Se trata de un drenaje Jackson-pratt.",
+    "Se trata de un dispositivo de infusión llamado bomba volumétrica."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t16-2023-2024-3.jpg"
+  },
+  {
+   "q": "¿Cuál es la vía alternativa de primera elección en el domicilio, en un paciente con necesidades paliativas cuando falla la Vía Oral?:",
+   "o": [
+    "Vía subcutánea (SC).",
+    "Vía intravenosa (IV).",
+    "Vía intratecal (IT).",
+    "Vía intramuscular (IM)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El delirium es un estado confusional agudo y fluctuante que resulta de una disfunción cerebral difusa. Clínicamente se caracteriza por la alteración simultánea de la atención y del nivel de consciencia, con cambios en la cognición y la percepción, ¿En qué tanto por ciento se estima que se presenta en los pacientes en los últimos días de vida?:",
+   "o": [
+    "10 %.",
+    "40 % - 50 %.",
+    "20 % - 25 %.",
+    "60 % - 90 %."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Definimos la sedación paliativa como el uso de medicación sedante para aliviar el sufrimiento intolerable causado por un síntoma refractario. ¿A qué nos referimos cuando hablamos de síntoma refractario?:",
+   "o": [
+    "Síntoma que se relaciona directamente con el tratamiento utilizado para el manejo de los síntomas paliativos.",
+    "Síntoma que no puede ser adecuadamente controlado con medidas terapéuticas que no comprometan el nivel de consciencia.",
+    "Síntoma que puede aparecer en cualquier momento durante la sedación paliativa.",
+    "Síntoma que compromete la vida de la persona."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿A qué nos referimos cuando hablamos de síntoma refractario?:",
+   "o": [
+    "Aquel que no puede ser adecuadamente controlado con los tratamientos disponibles, aplicados por profesionales expertos, en un plazo de tiempo razonable.",
+    "Aquel síntoma fácil de tratar atendiendo la causa que lo produjo, en un plazo de tiempo razonable.",
+    "Aquel síntoma que aparece cuando la enfermedad se cronifica.",
+    "Aquel síntoma paliativo que precisa del manejo de opioides para su control en situaciones de final de vida."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se entiende como la sedación en la agonía?:",
+   "o": [
+    "Suicidio asistido al paciente con necesidades paliativas destinado a provocar la muerte de una persona que tiene una enfermedad grave e irreversible por razones compasivas.",
+    "Es la aplicación de fármacos que buscan la disminución profunda y previsiblemente irreversible de la conciencia en un enfermo cuya muerte se prevé muy próxima.",
+    "Inducir a la muerte de un paciente en el entorno de cuidados paliativos evitando el sufrimiento físico, dirigida por un médico.",
+    "Es la administración de fármacos, en las dosis y combinaciones mínimas necesarias para reducir la consciencia del paciente con enfermedad avanzada o en fase terminal, con el fin de aliviar los síntomas refractarios."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Para una atención paliativa adecuada, el plan de cuidados debe dirigirse a la asistencia del paciente y su entorno socio-familiar. Los cuidadores son foco esencial de la atención paliativa. A continuación, se exponen diferentes argumentos que justifican por qué la familia es también población diana de nuestros cuidados. Indique la opción INCORRECTA:",
+   "o": [
+    "Porque los cuidadores suelen acompañar a la persona con enfermedad avanzada durante todo el proceso, con el consecuente impacto que esto conlleva.",
+    "Porque son la principal fuente de recursos y apoyo social para la persona enferma.",
+    "Porque son los principales colaboradores para la puesta en marcha y éxito del plan asistencial.",
+    "Porque son la ayuda principal y suponen ahorro en el coste sanitario."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía para Atención Primaria de Cuidados Paliativos del Ministerio de Sanidad del 2021, son palabras que ayudan en el duelo:",
+   "o": [
+    "No tengo palabras para expresar lo que siento.",
+    "Intenta distraerte.",
+    "El tiempo lo cura todo.",
+    "Ahora tienes que ser fuerte."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale los factores predictores del duelo complicado:",
+   "o": [
+    "Muerte esperada.",
+    "La edad del fallecido y el nivel de apego.",
+    "Experiencia de la primera muerte.",
+    "La tenencia de muchos hijos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre los siguientes factores, ¿cuáles son los predictores más destacados de un duelo complicado? Marque la opción correcta:",
+   "o": [
+    "Cercanía de parentesco; pérdidas múltiples; la muerte de una persona anciana.",
+    "Edad del fallecido (más riesgo en muertes tempranas); no haber vivido nunca la muerte de nadie; muerte esperada de una persona en proceso de enfermedad.",
+    "Muerte repentina; enfermedades que cursan con poco sufrimiento; ser diabético.",
+    "Duelos anteriores no resueltos; pérdidas múltiples; cercanía del parentesco."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}

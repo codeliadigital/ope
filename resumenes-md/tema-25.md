@@ -86,6 +86,6 @@ sub: Resumen OPE Enfermería SMS · Desnutrición relacionada con la enfermedad,
 - **"Start low, go slow"**: empezar con el **25-50% del objetivo** (**10-15 kcal/kg/día**) y subir en **4-7 días**; **tiamina 200-300 mg IV antes** de la primera toma o del primer suero glucosado; **fósforo, magnesio, potasio y calcio** antes y **a diario durante 72 h**; si bajan, frenar la nutrición y reponer.
 
 !! Paciente en shock (fase *ebb*): **no** se alimenta.
-!! Residuo gástrico de **250 ml** sin otros signos: reinfundir y **continuar**.
+!! ==Residuo gástrico de **250 ml** sin otros signos: reinfundir y **continuar**.==
 !! Fórmula para EPOC retenedor: **rica en grasas**; hepática: **rica en ramificados**.
 !! Parenteral periférica: **< 800 mOsm/l y ≤ 7-10 días**.

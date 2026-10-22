@@ -95,6 +95,6 @@ sub: Resumen OPE Enfermería SMS · Niveles de prevención, Carta de Ottawa, mar
 - Malnutrición (**MNA**), deterioro cognitivo (MEC, Pfeiffer), depresión infradiagnosticada (Yesavage), soledad. Atención al **cuidador** (Zarit, respiro).
 
 !! Un diagnóstico de riesgo con "manifestado por" es **falso**.
-!! Primera causa de muerte en niños mayores de 1 año: **accidentes**.
+!! ==Primera causa de muerte en niños mayores de 1 año: **accidentes**.==
 !! Anciano hospitalizado que se agita de noche: primero medidas **ambientales y de orientación**, no sedantes ni contención.
 !! El PAPPS es de la **semFYC**, no una norma legal.

@@ -1,0 +1,181 @@
+{
+ "tema": 55,
+ "preguntas": [
+  {
+   "q": "El sistema básico de protección y cobertura de la Seguridad Social tiene el carácter de:",
+   "o": [
+    "Máximo y obligatorio.",
+    "Mínimo y voluntario.",
+    "Mínimo y obligatorio.",
+    "Mínimo y máximo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la Cartera de Servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, identifique cuál NO es un procedimiento terapéutico en la Cartera de Servicios comunes de Atención Primaria:",
+   "o": [
+    "Infiltraciones.",
+    "Inmovilizaciones.",
+    "Terapias de apoyo y técnicas de consejo sanitario estructurado.",
+    "Vacunaciones."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la ley 39/2006, de Promoción de las Autonomía Personal y Atención a las personas en situación de dependencia, la definición “organizaciones de carácter privado surgidas de la iniciativa ciudadana o social, bajo diferentes modalidades que responden a criterios de solidaridad, con fines de interés general y ausencia de ánimo de lucro, que impulsan el reconocimiento y el ejercicio de los derechos sociales”. Se refiere a:",
+   "o": [
+    "Organizaciones No Gubernamentales.",
+    "Tercer sector.",
+    "Plataformas sociales.",
+    "Asociaciones vecinales."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Una enfermera atiende a un paciente anciano con deterioro cognitivo leve. Durante la planificación del tratamiento, el hijo del paciente propone modificar la medicación sin consultar al médico. Ante esta situación y desde la perspectiva ética ¿cómo debe actuar la enfermera?:",
+   "o": [
+    "Aplicando el principio de justicia distributiva.",
+    "Como representante del paciente, defendiendo su autonomía y bienestar.",
+    "Apoyando la decisión de la familia, al considerar que el paciente, debido a su deterioro cognitivo, no tiene capacidad para comprender su situación clínica ni el tratamiento indicado.",
+    "Imponiendo un tratamiento al paciente por considerar que lo necesita sin tener en cuenta su capacidad de decisión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la definición recogida en el Estudio EDI Personas Mayores (2024), ¿qué elemento caracteriza a las instituciones basadas en el concepto de “instituciones totales” de Erving Goffman aplicado al sistema de cuidados?:",
+   "o": [
+    "Favorecen la autonomía de los residentes mediante el control individualizado de sus decisiones.",
+    "Sitúan las necesidades individualizadas de las personas por encima de los requisitos de la organización.",
+    "Tienden a aislar a las personas de la comunidad y a priorizar los requisitos organizativos sobre las necesidades de los residentes.",
+    "Promueven la convivencia comunitaria flexible y abierta a la toma de decisiones compartida."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se entiende por edadismo?:",
+   "o": [
+    "El edadismo es sinónimo de gerofobia profesional y afecta a la falta de cuidados o negligencia profesional con las personas mayores.",
+    "El edadismo es un tipo de discriminación basado en la edad, y las mujeres mayores requieren especial protección por factores como menor acceso a la educación, más discapacidad y mayor soledad.",
+    "El edadismo es un prejuicio vinculado a la etapa de la vejez avanzada, y afecta sobre todo a personas en situación de dependencia.",
+    "El edadismo es un prejuicio vinculado a la etapa de la vejez y es especialmente evidente en el ámbito laboral. Perjudica de forma homogénea a hombres y mujeres mayores."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cumple criterios de inclusión en el programa de detección precoz de fragilidad en el ámbito sanitario, según el consenso sobre prevención de la fragilidad en la persona mayor 2022 del Ministerio de Sanidad:",
+   "o": [
+    "Persona ≥65 años y un Barthel 61-90 puntos.",
+    "Persona ≥70 años y un Barthel ≥ 90 puntos.",
+    "Persona ≥75 años y un Barthel 21-60 puntos.",
+    "Persona ≥80 años y un Barthel < 20 puntos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre la Fragilidad en personas mayores es cierto que:",
+   "o": [
+    "La Fragilidad no es una entidad inherente al propio proceso de envejecimiento, sino que es potencialmente reversible, incluso de forma espontánea.",
+    "La intervención sobre la Fragilidad no se ha demostrado costo-efectiva para alargar la vida, pero sí para hacerla más saludable.",
+    "Las intervenciones de carácter individual sobre la Fragilidad son más efectivas que las de carácter multifactorial.",
+    "Dadas sus características, el abordaje adecuado de la Fragilidad requiere superar la perspectiva de género y plantear una atención igualitaria tanto para mujeres como para hombres."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La cantidad de masa muscular esquelética es relevante en el diagnóstico de la patología sarcopénica. Este parámetro puede estimarse utilizando una gran variedad de técnicas. ¿Cuál de las siguientes opciones es la prueba no invasiva más precisa para su determinación?:",
+   "o": [
+    "Resonancia magnética (RM).",
+    "Índice de Masa Corporal (IMC).",
+    "Densitometría ósea (DXA).",
+    "Bioimpedancia eléctrica (BIA)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto al uso de las sujeciones mecánicas y/o farmacológicas en los ancianos en centros geriátricos y gerontológicos, es FALSO:",
+   "o": [
+    "El uso de las sujeciones no disminuye las caídas ni sus consecuencias, sino que pueden aumentarlas, producir lesiones y accidentes potencialmente mortales. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 362",
+    "La utilización, deliberada e intencional, de medicamentos para controlar un problema de base no psiquiátrica ni médica, que restringe las actividades de la vida diaria del paciente, es una sujeción.",
+    "El mobiliario ergonómico adaptado como sillas, sillones geriátricos, mesas, no constituirán una restricción mecánica en aquellos casos en los que se utilizan para mantener la postura corporal, o cuando es solicitado por el propio usuario.",
+    "Las sujeciones, con arreglo a la aceptación o no de la persona se clasifican en voluntarias e involuntarias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En una persona anciana con problemas digestivos (vómitos o diarreas), y sin otra patología que lo contraindique, se debe cumplimentar la ingesta básica de líquidos o líquidos con electrólitos e incrementar los aportes como mínimo en:",
+   "o": [
+    "300 ml/día.",
+    "400 ml/día.",
+    "500 ml/día.",
+    "600 ml/día."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la valoración geriátrica integral previa a la intervención para la implantación de una válvula aórtica transcatéter (TAVI), se incluyen los siguientes aspectos:",
+   "o": [
+    "Fragilidad, movilidad, nutrición, estado cognitivo, estado afectivo, ausencia de discapacidad, comorbilidades y supervivencia estimada.",
+    "Fragilidad, ausencia de discapacidad, comorbilidades y supervivencia estimada.",
+    "Fragilidad, estado cognitivo, estado afectivo y comorbilidades.",
+    "La evaluación de la fragilidad y las comorbilidades son suficientes para la evaluación previa."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre la evaluación funcional del paciente mayor es cierto que:",
+   "o": [
+    "Las actividades básicas de la vida diaria reflejan los niveles más elementales de función y son las primeras en alterarse.",
+    "El índice de Katz es una escala válida, predictiva, con reproductibilidad intra e interobservador y muy precisa para detectar pequeños cambios clínicos.",
+    "El índice de Barthel evalúa mejor la movilidad y los pequeños cambios clínicos del paciente mayor.",
+    "Las actividades instrumentales de la vida diaria (AIVD) no son útiles para la detección de los primeros grados del deterioro funcional del paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los 5 dominios del cuestionario FRAIL?:",
+   "o": [
+    "Fatigabilidad, Resistencia, Deambulación, Comorbilidad y Pérdida de Peso.",
+    "Fatigabilidad, Transferencias, Deambulación, Comorbilidad y Pérdida de Peso.",
+    "Fatigabilidad, Transferencias, Deambulación, Comorbilidad y Autocuidado.",
+    "Fatigabilidad, Transferencias, Deambulación, Adherencia al tratamiento farmacológico y Autocuidado."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El documento de consenso sobre prevención de fragilidad y caídas en la persona mayor dentro de la Estrategia de Promoción de la Salud y Prevención en el SNS, específica y aborda propuestas de desarrollo. Identifique la INCORRECTA:",
+   "o": [
+    "Se trata de realizar una detección oportunista organizada a personas mayores de 70 años.",
+    "El ámbito de actuación es Atención Primaria y entorno comunitario, en coordinación con los recursos especializados geriátricos y hospitalarios oportunos.",
+    "Se realiza una valoración inicial de las actividades básicas de la vida diaria (ABVD) mediante la escala autorreferida de Barthel.",
+    "En caso de que la persona obtenga una puntuación menor de 90 puntos en la escala autorreferida de Barthel, se procederá a realizar el cribado de fragilidad."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El test de Zarit mide:",
+   "o": [
+    "El grado de carga subjetiva de las personas cuidadoras.",
+    "El esfuerzo que supone el abordaje de los cuidados por los cuidadores familiares.",
+    "El apoyo social percibido en relación a dos aspectos: personas a las que se puede comunicar sentimientos íntimos y personas que expresan sentimientos positivos de empatía.",
+    "El estrés del cuidador."
+   ],
+   "a": 0,
+   "src": "EIR"
+  }
+ ]
+}

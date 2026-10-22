@@ -1,0 +1,500 @@
+{
+ "tema": 15,
+ "preguntas": [
+  {
+   "q": "¿Quién fue la enfermera estadounidense que promulgó el concepto de control de la natalidad y luchó por la legalización de los anticonceptivos?:",
+   "o": [
+    "Linda Richards.",
+    "Margaret Sanger.",
+    "Mary Seacole.",
+    "Mabel Keaton Staupers."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones sobre el pensamiento enfermero es FALSA?:",
+   "o": [
+    "Los prejuicios y creencias de los y las enfermeras pueden sesgar el juicio clínico.",
+    "La presión del tiempo y las interrupciones reducen la calidad del pensamiento crítico.",
+    "Es irrelevante conocer el patrón típico de respuesta del paciente para la toma de decisiones clínicas.",
+    "La autorregulación es una habilidad necesaria para desarrollar el pensamiento crítico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Paciente con un diagnóstico enfermero de “Deterioro de la movilidad física relacionado con masa muscular inadecuada manifestado por inestabilidad postural y enlentecimiento del movimiento”. Se establecieron las siguientes puntuaciones para el resultado NOC de movilidad: Puntuación basal: 1; puntuación diana a los 10 días: 4; puntuación final: 1 ¿Cuál es la puntuación de cambio en la evaluación de este paciente?:",
+   "o": [
+    "La puntuación de cambio del resultado es 1.",
+    "La puntuación de cambio del resultado es 0.",
+    "La puntuación de cambio del resultado es negativa.",
+    "La puntuación de cambio del resultado es 3."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según Ajzen, ¿cuál de las siguientes es una teoría psicológica diseñada específicamente para explicar o modificar los comportamientos relacionados con la salud de una persona?:",
+   "o": [
+    "Comunitaria o colectiva.",
+    "Individual.",
+    "Organizacional.",
+    "Familiar."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe correctamente una característica de la memoria a corto plazo según el modelo multialmacén de Atkinson y Shiffrin (1968)?:",
+   "o": [
+    "Almacena información con una capacidad prácticamente ilimitada durante intervalos superiores a varios minutos mediante consolidación espontánea.",
+    "El almacén a corto plazo funciona como la memoria de trabajo del sujeto; recibe información seleccionada del registro sensorial y también del almacén a largo plazo.",
+    "Emplea exclusivamente codificación icónica para la retención temporal de la información, sin intervención de mecanismos fonológicos.",
+    "Presenta una amplitud funcional superior a 15 unidades informativas simultáneas gracias a estrategias automáticas de agrupamiento."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La capacidad de reconocer las propias emociones y las de los demás, y la habilidad para manejarlas se denomina:",
+   "o": [
+    "Autorregulación emocional.",
+    "Conducta asertiva.",
+    "Autoestima positiva.",
+    "Inteligencia emocional."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO es una de las cuatro ramas de la inteligencia emocional según Salovey y Mayer?:",
+   "o": [
+    "Percepción emocional.",
+    "Comprensión emocional.",
+    "Facilitación emocional.",
+    "Desarrollo emocional."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son los elementos del aprendizaje experiencial de Kölb?:",
+   "o": [
+    "Observación del Experto, Experimentación Activa, Aprendizaje.",
+    "Experiencia Concreta, Observación Reflexiva, Conceptualización Abstracta y Experimentación Activa.",
+    "Experiencia Concreta, Aprendizaje, Reflexión Abstracta.",
+    "Experimentación Activa, Pensamiento, Aprendizaje."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué etapa se corresponde averiguar cuánto sabe el paciente según el protocolo Buckman?:",
+   "o": [
+    "Primera etapa.",
+    "Segunda etapa.",
+    "Tercera etapa.",
+    "Cuarta etapa."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes afirmaciones describe con mayor precisión la violencia vicaria según su definición conceptual?:",
+   "o": [
+    "Estrategia coercitiva que consiste en impedir el contacto entre la madre y los/as hijos/ as mediante aislamiento social y control del entorno.",
+    "Forma de violencia intrafamiliar que consiste en sustituir a un individuo por otro en la ejecución de agresiones, de modo que la persona agredida no coincide con el objetivo real.",
+    "Modalidad de violencia psicológica exclusiva de relaciones afectivas adolescentes, caracterizada por manipulación emocional y control digital.",
+    "Conducta que consiste en la exposición del menor a contenidos violentos en medios audiovisuales con el fin de alterar su desarrollo emocional."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Informe de la Comisión de la Organización Mundial de la Salud sobre Conexión Social (2025), ¿qué proporción aproximada de adultos de 60 años o más vive con aislamiento social (estado objetivo)?:",
+   "o": [
+    "Más del 40 % de los adultos mayores.",
+    "Aproximadamente el 14,23 % de los adultos mayores.",
+    "Aproximadamente entre el 25 % y el 34 % de los adultos mayores.",
+    "Más del 50 % de los adultos mayores."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Protocolo Común del Sistema Nacional de Salud (SNS) para la Actuación Sanitaria ante la Violencia Sexual 2023, señale la respuesta correcta con relación a las consecuencias para la salud de las violencias sexuales:",
+   "o": [
+    "Menor mortalidad materna y perinatal.",
+    "Trastornos gastrointestinales como dolor abdominal y colon irritable.",
+    "Disminución de la utilización de los servicios sanitarios.",
+    "Atención temprana del control del embarazo."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Los aspectos tradicionales de la investigación centradas en pacientes masculinos, que suponía una invisibilidad médica hacia las mujeres, prestando menor atención a los resultados adversos en mujeres, al igual que el subdiagnóstico y el subtratamiento en diferentes patologías se denomina:",
+   "o": [
+    "Síndrome de Streisand.",
+    "Síndrome de Yentl.",
+    "Síndrome de Gilbert.",
+    "Síndrome de Wendy."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la normativa legal vigente en nuestro país, y en línea con lo dispuesto en el Convenio del Consejo de Europa hecho en Estambul el 11 de mayo de 2011, señale lo que se considera como una vulneración grave de los derechos reproductivos y que constituye una manifestación de la violencia contra las mujeres:",
+   "o": [
+    "El acceso a métodos anticonceptivos seguros y modernos.",
+    "El servicio de aborto seguro y tratamiento de sus posibles complicaciones.",
+    "La gestación por subrogación o sustitución.",
+    "La prevención y tratamiento para las infecciones de transmisión sexual."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Qué término define a la “actitud que predica la heterosexualidad como la única orientación sexual válida”:",
+   "o": [
+    "Heterosexual.",
+    "Heterosexismo.",
+    "Homosexual.",
+    "Homofobia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale el concepto que se refiere a este hecho: “Al igual que en otros sectores y ámbitos de trabajo, en el sector digital hay muy pocas mujeres liderando equipos y oc",
+   "o": [
+    "Brecha simbólica.",
+    "Brecha de género a nivel vertical.",
+    "Las competencias del futuro, las “soft-skills''.",
+    "Pobreza informacional."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes frases se puede considerar como una particularidad que aparece en violencia de género hacia mujeres mayores?:",
+   "o": [
+    "Las mujeres mayores de 65 años experimentan la discriminación de género en igual medida que las mujeres jóvenes, y la discriminación por edad en menor medida que los hombres mayores.",
+    "Las mujeres mayores de 65 años son las que más tiempo emplean en tomar la decisión de denunciar.",
+    "Las mujeres mayores de 65 años víctimas de violencia cuentan su experiencia a personas cercanas (amiga, pariente, etc.) en mayor medida que las que tienen menos de 65 años.",
+    "Las mujeres mayores que sufren violencia de género recurren en mayor medida a servicios de ayuda (médica, psicológica, social, legal...) en comparación con las víctimas menores de 65 años. 267 ENFERMERÍA PSICOSOCIAL"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la forma de violencia sexual contra la mujer que menos personas identifican como tal, según el documento sobre Percepción Social de la Violencia Sexual del Ministerio de Sanidad, Consumo y Bienestar social:",
+   "o": [
+    "Chantajear a una mujer con difundir fotografías o videos suyos de carácter sexual.",
+    "Dar de forma deliberada a una mujer alcohol o drogas para poder mantener relaciones sexuales con ella.",
+    "Besar a una mujer contra su voluntad.",
+    "Pagar a una mujer por mantener relaciones sexuales (prostitución)."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señala la recomendación adecuada a la hora de realizar una entrevista clínica a una mujer con una sospecha de maltrato:",
+   "o": [
+    "Abordar directamente el tema de la violencia.",
+    "Solicitar que la mujer acuda acompañada de personas de su entorno, como sus hijos.",
+    "Escuchar a la mujer y no permitir los silencios.",
+    "Recomendarle hacer terapia de pareja."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Qué es el consejo asistido o Counselling?:",
+   "o": [
+    "Proceso que permite a las personas incrementar el control sobre los determinantes de su salud para mejorarla, incluyendo acciones sobre factores personales, sociales, ambientales y económicos.",
+    "Proceso interactivo basado en estrategias de enseñanza apoyadas en recursos audiovisuales que ayuda a la persona a tomar decisiones adecuadas para sí misma, conforme a sus valores, intereses y estado emocional.",
+    "Proceso de enseñanza teórica expositiva, generalmente oral y apoyada en recursos audiovisuales, cuyo objetivo principal es la transmisión de información en la esfera de la actividad intelectual.",
+    "Proceso interactivo basado en estrategias de comunicación que ayuda a la persona a reflexionar y tomar decisiones adecuadas para sí misma, conforme a sus valores, intereses y estado emocional."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según Leiber, cuando utilice el humor intencional como intervención para la comunicación en el contexto de la atención sanitaria, NO es un criterio a tener en cuenta:",
+   "o": [
+    "Momento.",
+    "Receptividad.",
+    "Creatividad.",
+    "Contenido."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes actitudes puede entorpecer la comunicación terapéutica con la persona que tiene un diagnóstico de trastorno mental?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 270",
+   "o": [
+    "Utilizar el silencio de manera intencionada.",
+    "Solicitar a la persona que justifique o explique el porqué de una conducta.",
+    "Aclarar las expectativas de la persona en relación con su proceso.",
+    "Reflejar a la otra persona sus ideas, sentimientos o pensamientos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Según Thomas Gordon, ¿cuál sería uno de los obstáculos para la escucha reflexiva en la entrevista motivacional?:",
+   "o": [
+    "Interpretar.",
+    "Repetir.",
+    "Refrasear.",
+    "Reflejar sentimientos."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Un verbo asociado al estilo de comunicación “de guía” por parte del profesional sería:",
+   "o": [
+    "Administrar.",
+    "Decidir.",
+    "Reforzar.",
+    "Asistir."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la entrevista motivacional (EM) adecuada es FALSO que:",
+   "o": [
+    "La EM es un estilo de conversación colaborativo cuyo propósito es reforzar la motivación y el compromiso de la persona con el cambio.",
+    "El estilo general de la EM es de guía, a medio camino entre los estilos directivo y de acompañamiento, de los que también incorpora algún elemento.",
+    "La ambivalencia es un elemento anormal del proceso de preparación para el cambio y se trata de un estado en el que la persona puede quedar atrapada durante cierto tiempo.",
+    "Cuando el terapeuta usa un estilo directivo y defiende el cambio ante una persona ambivalente, esta reaccionará defendiendo los argumentos opuestos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En comunicación, dentro del estilo de comunicación asertivo, la entonación agradable es una característica de:",
+   "o": [
+    "La conducta no verbal.",
+    "El lenguaje Kinésico.",
+    "La conducta paraverbal.",
+    "El lenguaje proxémico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando hablamos de reaccionar a las críticas y manipulaciones de los demás, absteniéndose de ofrecer resistencias a las declaraciones críticas que otros hacen, no negándolas, ni contrastándolas con otras críticas, nos referimos a:",
+   "o": [
+    "Se trata de una técnica conocida como banco de niebla.",
+    "Se denomina disco rayado.",
+    "El objetivo de esta técnica es aprender a ser más persistente en la afirmación asertiva de uno mismo.",
+    "Es propio del estilo inhibido."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifica cuál de los siguientes NO es un elemento paraverbal a tener en cuenta en la comunicación:",
+   "o": [
+    "La latencia de respuesta.",
+    "Las pausas y silencios.",
+    "La sonrisa.",
+    "El tono."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La asertividad es una forma de comportamiento en las relaciones. Diga cuál de las siguientes afirmaciones es correcta:",
+   "o": [
+    "Tiene como resultado la ausencia de conflicto.",
+    "Las técnicas asertivas se pueden utilizar para hacer frente a la manipulación emocional.",
+    "En la respuesta asertiva positiva, la iniciativa la toma el otro.",
+    "El acuerdo parcial o aserción negativa admite el error, sin distinguir el hacer del ser."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Las técnicas de apoyo narrativo favorecen el relato del paciente y la elaboración de sus emociones. ¿Cuáles de las siguientes NO son una de estas técnicas?:",
+   "o": [
+    "Facilitaciones.",
+    "Silencios funcionales. 273 ENFERMERÍA PSICOSOCIAL",
+    "Clarificaciones.",
+    "Alta reactividad."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un elemento clave para una comunicación eficaz es saber escuchar. Sobre la escucha activa, NO es cierto que:",
+   "o": [
+    "Está contemplada en la taxonomía enfermera NIC a través de la intervención (4920) Escucha Activa.",
+    "La clarificación ayuda a elaborar la información que nos facilita el paciente, para contrastar lo que ha querido decir o para aclarar ideas vagas o confusas.",
+    "El silencio disfuncional se produce cuando el entrevistador presenta una reactividad alta.",
+    "El sumario o resumen se emplea para unir, identificar y ordenar ideas o revisar progresos, además de para recibir retroalimentación al devolver el mensaje para que se nos confirme."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Saber comunicar las malas noticias puede disminuir el impacto emocional sobre el paciente en el momento de ser informado, permitiéndole asimilar la nueva realidad poco a poco y, al mismo tiempo, afianzar la relación sanitario-paciente. Seleccione la respuesta CORRECTA:",
+   "o": [
+    "Las malas noticias se asocian exclusivamente a procesos cancerosos en fase terminal. No se refieren a enfermedades crónicas.",
+    "No es necesario conocer lo que sabe el paciente, ya que la información debe ser facilitada por el profesional sanitario de forma exhaustiva desde el primer momento.",
+    "El protocolo SPIKES es una estrategia de seis puntos para la tarea específica de dar malas noticias.",
+    "Es conveniente informar con lenguaje técnico."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuando se habla de actitud empática del profesional sanitario en la relación con el paciente NO es cierto que:",
+   "o": [
+    "El profesional responde con frases cortas, ajustadas y relativamente frecuentes.",
+    "La actitud empática supone transmitir al paciente cómo se está sintiendo el profesional con la información que le está aportando.",
+    "La comunicación con el paciente desde una actitud empática supone no darle retroalimentación.",
+    "Se llama “empatía avanzada” cuando el profesional refleja lo que le ha expresado el paciente y lo que le ha dejado entrever o ha expresado a medias."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Respecto a la incidencia como indicador poblacional, indique la respuesta INCORRECTA:",
+   "o": [
+    "La incidencia acumulada es una proporción adimensional.",
+    "Para el cálculo de incidencia en una población dinámica, se utiliza como denominador la población a mitad del periodo.",
+    "La incidencia, si se aplica a individuos, se puede usar como probabilidad o riesgo.",
+    "Cuando el tiempo en el que las personas han estado sometidas a un riesgo es el mismo para todas ellas, es preferible utilizar la densidad de incidencia."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con las picaduras por chinches de cama, indique la opción correcta:",
+   "o": [
+    "Sus picaduras constituyen una vía de contagio de enfermedades infecciosas en humanos.",
+    "La reacción a la picadura puede tardar varios días en aparecer y la latencia tiende a disminuir cuando se producen más picaduras.",
+    "La mayoría de las picaduras se producen en zonas no expuestas mientras las personas duermen.",
+    "La presencia de tres lesiones denominadas “desayuno, comida y cena” es específica de las picaduras por chinches."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con la infestación por oxiuros, indique la opción correcta sobre los consejos que se darán tanto al paciente como a la familia:",
+   "o": [
+    "Se debe cambiar la ropa de cama el día antes de iniciar el tratamiento.",
+    "Se debe aislar al paciente en una habitación exclusiva.",
+    "Se debe tratar al resto de la familia al mismo tiempo.",
+    "Se debe dormir sin pijama con el fin de observar los oxiuros sobre la cama."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta, en relación con la retirada de una garrapata anclada a la piel:",
+   "o": [
+    "Aplicaremos una solución sobre la garrapata que no permita que respire, alcohol o vaselina, y esperaremos a que se desprenda, aplicando posteriormente desinfectante.",
+    "Desinfectaremos previamente la zona de trabajo y con pinzas de borde romo giraremos y traccionaremos de la garrapata, aplicando posteriormente desinfectante.",
+    "Sujetaremos el cuerpo de la garrapata con pinzas de borde romo, apretándola ligeramente con el fin de desprenderla, mientras giramos y traccionamos de ella, aplicando posteriormente desinfectante.",
+    "Mediante pinzas de borde romo, sujetaremos la garrapata lo más cerca de la piel, traccionaremos lentamente de forma constante, aplicando posteriormente desinfectante."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "La cobertura vacunal óptima en salud pública se refiere a:",
+   "o": [
+    "La proporción de personas vacunadas por cada 100.000 habitantes.",
+    "La proporción de dosis administradas por cada 100.000 habitantes.",
+    "La proporción de personas vacunadas respecto a la población objetivo.",
+    "La proporción de personas vacunadas respecto a la población total."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes afirmaciones es la correcta con respecto al término “sustancias pirogénicas”:",
+   "o": [
+    "Las endotoxinas no forman parte de las sustancias pirogénicas.",
+    "Los términos de sustancias pirogénicas y endotoxinas pueden ser utilizados como sinónimos.",
+    "Las sustancias pirogénicas se definen como aquellas capaces de estimular a las células inmunocompetentes y desarrollar una respuesta inflamatoria.",
+    "Las sustancias pirogénicas se definen como aquellas capaces de estimular a las células inmunocompetentes sin desarrollar una respuesta inflamatoria. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 662"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "De acuerdo con la vacunación para controlar las enfermedades infecciosas, se entiende por cobertura crítica:",
+   "o": [
+    "Porcentaje de la población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea igual a cero.",
+    "Porcentaje de la población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea menor a uno.",
+    "Porcentaje de la población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea menor a dos.",
+    "Porcentaje de la población que debe estar inmunizada para que el potencial de transmisión del microorganismo sea menor a tres."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Identifique una de las condiciones para considerar inmunes al sarampión a los trabajadores sanitarios, no siendo necesario, por tanto, realizar serología:",
+   "o": [
+    "Documentación escrita de haber recibido dos dosis de vacuna triple vírica o de haber padecido la enfermedad.",
+    "Documentación escrita de haber recibido tres dosis de vacuna triple vírica o de haber padecido la enfermedad.",
+    "Nacidos con anterioridad a 1973.",
+    "Nacidos con anterioridad a 1975."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Atendiendo al calendario recomendado común de vacunación a lo largo de toda la vida de 2020, identifique cuál de las siguientes vacunas y edad de administración NO es correcta:",
+   "o": [
+    "Vacuna Enfermedad neumocócica a partir de los 65 años, además de la administrada en la infancia. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 666",
+    "Vacuna de la Varicela (VVZ) en adolescentes que no refieran antecedentes de haber pasado la enfermedad y no se hayan vacunado, se administrarán 2 dosis de VVZ separadas por un intervalo mínimo de 4 semanas entre dosis (preferiblemente 8 semanas) o se completará la pauta si se ha recibido una sola dosis con anterioridad.",
+    "Vacuna del Virus del Papiloma Humano (VPH) se administrará a niñas a los 12 años. 2 dosis con una separación de al menos 5-6 meses (según vacuna utilizada).",
+    "Vacuna Poliomielitis (VPI) se administrará vacuna combinada DTPa/VPI a los menores vacunados a los 2, 4 y 11 meses cuando alcancen la edad de 4 años. Los que recibieron la vacunación a los 2, 4, 6 y 18 meses (4 dosis en total) recibirán DTPa sin VPI a los 4 años."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale cuál de las siguientes opciones se considera “Grupos de población diana de vacunación antigripal”:",
+   "o": [
+    "Niños/as de 6 meses a 14 años, que reciben tratamiento prolongado con ácido acetilsalicílico, por la posibilidad de desarrollar un síndrome de Reye tras la gripe.",
+    "Niños/as (mayores de 6 meses) y adultos, ambos con implante coclear o en espera del mismo.",
+    "Niños/as (mayores de 6 meses) con hipertensión arterial aislada.",
+    "Mujeres embarazadas, sólo si se encuentran en el tercer trimestre de gestación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes afirmaciones sobre las vacunas en edad pediátrica, señale la opción INCORRECTA:",
+   "o": [
+    "Existe una relación causal entre la vacuna triple vírica y ciertos casos de autismo.",
+    "Las vacunas inactivadas son seguras en pacientes pediátricos inmunodeprimidos.",
+    "Las vacunas frente al rotavirus ofrecen una protección indirecta sobre niños y adultos no vacunados.",
+    "Los preparados comerciales disponibles de vacuna frente a virus del papiloma humano (VPH) en la actualidad están indicados tanto en mujeres como en varones desde los 9 años de edad."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación a la vacuna Tétanos, Difteria (Td) en adultos señale la respuesta INCORRECTA:",
+   "o": [
+    "En adultos vacunados en la infancia correctamente según calendario vigente se recomienda la administración de una única dosis de recuerdo en torno a los 65 años.",
+    "Si tiene criterios para iniciar la primovacunación, se le administrarán 5 dosis siguiendo la pauta de vacunación.",
+    "Si tiene primovacunación incompleta, se reiniciará la pauta de primovacunación (3 dosis) y posteriormente, se administrarán la dosis de recuerdo necesarias hasta alcanzar un total de 5 dosis, con un intervalo de 1 -10 años entre las dosis. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 670",
+    "En el caso de herida potencialmente tetanígena de un usuario con antecedentes de vacunación con 5 dosis y la última dosis administrada hace 8 años, no se administrará una vacuna."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

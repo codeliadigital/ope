@@ -1,0 +1,90 @@
+1|a|5.000-25.000 habitantes es la horquilla de la Zona Básica de Salud, no del Área.
+1|b|100.000-150.000 no es ninguna cifra de la LGS.
+1|d|Se pasa del máximo: la horquilla del Área es 200.000-250.000.
+2|a|El Presidente del Gobierno no forma parte del CISNS.
+2|c|Un consejero autonómico ocupa la vicepresidencia, no la presidencia.
+2|d|El Instituto de Salud Carlos III no preside el CISNS.
+3|a|El 25 de abril de 1986 es la fecha de aprobación.
+3|b|El 29 de abril de 1986 es la publicación en el BOE.
+3|d|No hay vacatio de ocho meses: entró en vigor a los 20 días.
+4|b|La continuidad asistencial es que el proceso no se interrumpa entre niveles, no la relación con el profesional.
+4|c|La integralidad es la atención biopsicosocial.
+4|d|La accesibilidad es la facilidad para llegar al sistema.
+5|a|La coordinación es la relación entre niveles y profesionales.
+5|b|La accesibilidad es la facilidad de acceso.
+5|c|La longitudinalidad es la relación continuada en el tiempo con el mismo profesional.
+6|a|La LOPS (Ley 44/2003) regula títulos y funciones profesionales, no permisos ni vacaciones.
+6|b|La Ley 16/2003 regula la cohesión, la calidad y la cartera de servicios del SNS.
+6|d|La Ley 41/2002 regula la autonomía del paciente y la documentación clínica.
+7|a|Integrarlo en el SMS lo haría juez y parte; precisamente por eso no está en el SMS.
+7|c|No depende de la Asamblea Regional (ese sería el modelo de defensor parlamentario).
+7|d|No es un órgano del Consejo de Administración del SMS.
+8|a|Está invertido: hay 90 zonas y 85 centros.
+8|c|No coinciden: algunas zonas comparten centro, por eso hay menos centros (85).
+8|d|Las zonas son 90, no 85.
+9|a|El Área I (Murcia Oeste) no es la de mayor población ni la de más consultorios.
+9|b|El Área VI (Vega Media) no es la de mayor población asignada.
+9|c|Lorca es la más extensa, pero no la más poblada.
+10|a|Atención Primaria sí es una de las cuatro Direcciones Generales actuales.
+10|b|Salud Mental sí es una Dirección General actual.
+10|d|Recursos Humanos sí es una Dirección General actual.
+11|a|El Director Gerente es la máxima autoridad ejecutiva, pero no preside el Consejo de Administración.
+11|c|El Presidente de la Comunidad no preside órganos del SMS.
+11|d|El Secretario General Técnico no preside el Consejo de Administración.
+12|a|El alcalde no lo preside; los ayuntamientos son vocales.
+12|b|No existe esa figura como presidente del Consejo de Área.
+12|c|La Dirección de Enfermería no preside el Consejo de Salud de Área.
+13|a|El SMS tiene 3 vocales, menos que los ayuntamientos (4).
+13|b|Los sindicatos tienen 2 vocales.
+13|c|Las organizaciones empresariales tienen 2 vocales.
+14|a|Obligatorios son los Consejos de Área; los de Zona son facultativos.
+14|b|El Gerente del Área preside el Consejo de Área, no los de Zona.
+14|d|No forman parte del Consejo de Administración del SMS.
+15|a|6 meses no es suficiente: se exige 1 año.
+15|c|2 años no es el requisito: basta 1 año.
+15|d|3 años no es el requisito: basta 1 año.
+16|a|El Ministerio no acredita; la acreditación es autonómica.
+16|b|El Consejo General de Enfermería no acredita.
+16|c|Los colegios provinciales no acreditan.
+17|a|No hace falta una orden médica para cada dispensación; se actúa dentro de protocolos o guías.
+17|c|No es necesario ser especialista EIR.
+17|d|Con medicamentos sujetos a prescripción médica no es autónoma: requiere protocolo o guía validados.
+18|b|No es colaborativa: los productos sanitarios se indican de forma autónoma.
+18|c|No se exige ser especialista.
+18|d|No es exclusiva de Atención Especializada.
+19|a|Henderson describió las 14 necesidades básicas, no la enfermería primaria.
+19|b|Orem formuló la teoría del autocuidado.
+19|d|Starfield describió los atributos de la Atención Primaria.
+20|b|En la enfermería primaria una enfermera se hace cargo de todos los cuidados de sus pacientes.
+20|c|En la enfermería en equipo un grupo atiende a un grupo de pacientes bajo un líder, no por tareas.
+20|d|La gestión de casos coordina a pacientes complejos a lo largo del proceso.
+21|a|El nivel 1 (autogestión, promoción y prevención) es la base de la pirámide.
+21|b|El nivel 2 es la gestión de la enfermedad con seguimiento protocolizado, no la gestión de casos.
+21|c|La base de la pirámide (70-80%) es población sana o con crónicos leves.
+22|b|El Barthel mide la dependencia para las actividades básicas, no la pluripatología.
+22|c|El Lawton y Brody mide las actividades instrumentales.
+22|d|El Pfeiffer valora el deterioro cognitivo.
+23|a|Selene es el programa del hospital (Atención Especializada).
+23|c|Diraya es el sistema del Servicio Andaluz de Salud.
+23|d|Ágora Plus es un visor de la historia clínica, no el programa de consulta de AP.
+24|a|Las vías clínicas no buscan más autonomía individual, sino estandarizar.
+24|b|No sustituyen los informes de alta.
+24|c|No eliminan la derivación: la ordenan.
+25|a|La continuidad de relación es la relación personal con el profesional.
+25|b|La continuidad de gestión es que la atención esté coordinada (mismo protocolo, sin duplicar pruebas).
+25|d|Longitudinal es la relación mantenida en el tiempo, no el acceso a la información.
+26|b|El Jefe de Servicio es el responsable médico del servicio.
+26|c|El Director Médico dirige la actividad médica del hospital.
+26|d|El Gerente del Área dirige el área en su conjunto.
+27|b|10-15 minutos es la consulta a demanda.
+27|c|30-40 minutos es la primera valoración integral.
+27|d|5-10 minutos no es una duración orientativa de la consulta de enfermería.
+28|b|No hay ninguna norma que obligue a tener enfermera escolar; la Ley 33/2011 no lo dice.
+28|c|No es una especialidad del RD 450/2005.
+28|d|No depende de la Dirección General de Atención Hospitalaria.
+29|a|Madrid y Cataluña no están exceptuadas.
+29|b|Las comunidades uniprovinciales no están exceptuadas por serlo.
+29|c|Murcia y La Rioja no están exceptuadas.
+30|a|No es una Orden del Consejero.
+30|b|No es una Resolución del Director Gerente.
+30|d|No hace falta una ley de la Asamblea.

@@ -1,0 +1,262 @@
+{
+ "tema": 28,
+ "preguntas": [
+  {
+   "q": "De entre las siguientes respuestas, ¿cuál NO es una estructura cardiovascular exclusiva de la circulación fetal?:",
+   "o": [
+    "Conducto venoso.",
+    "Coartación de aorta.",
+    "Agujero oval.",
+    "Conducto arterioso."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA en cuanto a los mecanismos de adaptación del recién nacido a la vida extrauterina:",
+   "o": [
+    "La adaptación se caracteriza por el inicio de una respiración vigorosa gracias a varios estímulos como son el pinzamiento de cordón y la estimulación térmica y táctil.",
+    "En su adaptación respiratoria, se produce una reabsorción del líquido pulmonar con disminución del surfactante pulmonar.",
+    "Al nacer, las resistencias vasculares pulmonares disminuyen rápidamente.",
+    "Los intercambios térmicos entre el recién nacido y el ambiente se realizan de cuatro formas: conducción, convección, radiación y evaporación."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes enfermedades no está incluida en el Programa de cribado neonatal de enfermedades endocrino-metabólicas de la cartera común de servicios del Sistema Nacional de Salud?:",
+   "o": [
+    "Hipotiroidismo congénito.",
+    "Autismo.",
+    "Fenilcetonuria.",
+    "Anemia falciforme."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto al Eritema Tóxico del Recién Nacido, ¿cuál de las siguientes opciones es correcta?:",
+   "o": [
+    "Se trata con antisépticos tópicos.",
+    "Se trata con antibióticos tópicos.",
+    "Presenta manifestaciones sistémicas.",
+    "Se trata de una erupción autolimitada benigna."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las recomendaciones para realizar el contacto piel con piel precoz tras el parto, se encuentran todas EXCEPTO:",
+   "o": [
+    "Se recomienda secar cabeza y espalda, pero no las manos.",
+    "Se recomienda ponerle un gorro y cubrirle con una manta precalentada.",
+    "Se recomienda que el bebé esté en decúbito prono sobre el abdomen materno, con la cabeza ladeada.",
+    "Se recomienda que tenga una duración máxima de 60 minutos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En relación con el pinzamiento tardío del cordón umbilical en los recién nacidos, la nueva actualización de las Recomendaciones de Estabilización y Reanimación Neonatal de la Sociedad Española de Neonatología establece que:",
+   "o": [
+    "El pinzamiento tardío del cordón (al menos un minuto) debe ser la estrategia de elección en recién nacidos a término (RNT) y prematuros (RNPT) de cualquier edad gestacional, nacidos por vía vaginal o cesárea, que no requieran reanimación inmediata.",
+    "En neonatos que requieren reanimación se debe priorizar el pinzamiento tardío antes que el inicio de la ventilación con presión positiva (VPP).",
+    "El pinzamiento tardío del cordón (al menos un minuto) debe ser la estrategia de elección en recién nacidos a término (RNT) y prematuros (RNPT) de cualquier edad gestacional, solamente en los nacidos por vía vaginal.",
+    "El ordeño del cordón umbilical desde la placenta hacia neonato con el cordón íntegro (milking) es muy superior al pinzamiento tardío, en términos de beneficios para el neonato."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. Indique la opción correcta con respecto a la técnica mostrada:",
+   "o": [
+    "Generalmente visualizaremos dos vasos venosos y uno arterial. 319 ENFERMERÍA PEDIÁTRICA",
+    "La canalización arterial permite la administración de medicamentos y hemoderivados.",
+    "No se recomienda esta canalización tras las primeras 24 horas de vida.",
+    "La canalización de la vena umbilical es la vía de elección en la reanimación neonatal en sala de partos."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2022-2023-1.jpg"
+  },
+  {
+   "q": "Ante una puntuación 7 en el test de Apgar al minuto de vida de un recién nacido, cabe esperar:",
+   "o": [
+    "Frecuencia cardiaca > 100, respiración regular, coloración sonrosada, llanto vigoroso y movimiento activo.",
+    "Frecuencia cardiaca < 100, respiración débil, cianosis distal, muecas como respuesta a estímulos y flacidez.",
+    "Frecuencia cardiaca > 100, respiración regular, cianosis distal, sin respuesta a estímulos y extremidades con flexión moderada.",
+    "Frecuencia cardíaca > 100, respiración regular, sonrosado, sin respuesta a estímulos y flexión moderada de las extremidades."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 7. Indique la respuesta INCORRECTA con relación al reflejo primitivo de la imagen:",
+   "o": [
+    "Se trata del reflejo cervical tónico asimétrico.",
+    "Se explora con el paciente en supino y girando la cabeza hacia un lado.",
+    "Se denomina reflejo o respuesta del esgrimista.",
+    "Está presente desde el nacimiento."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2020-2021-7.jpg"
+  },
+  {
+   "q": "¿A qué se refiere el término “minuto de oro” en la reanimación neonatal en sala de partos?:",
+   "o": [
+    "Comprende el primer minuto de aplicación de maniobras de masaje cardiaco y ventilación asistida.",
+    "Se trata del tiempo recomendado de espera en el pinzamiento tardío de cordón umbilical.",
+    "Es el tiempo mínimo de empleo en la organización y la distribución de roles previo a la reanimación.",
+    "Periodo que comprende las medidas de estabilización y evaluación inicial con inicio de ventilación y monitorización."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Dónde se recomienda colocar el pulsioxímetro en un recién nacido durante las maniobras de estabilización /reanimación?:",
+   "o": [
+    "Extremidad superior derecha.",
+    "Extremidad superior izquierda.",
+    "Extremidad inferior izquierda.",
+    "Lóbulo oreja izquierda."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale de las siguientes, cuál es el método clínico estandarizado para evaluar el grado de anquiloglosia y su impacto en la lactancia materna:",
+   "o": [
+    "Herramienta de Hazelbaker.",
+    "Escala de evaluación de la lactancia materna LATCH.",
+    "Test de Clements.",
+    "Escala de Bayley."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. ¿Cuál es la posición de lactancia que se muestra?:",
+   "o": [
+    "Balón de Rugby.",
+    "Acunado clásico.",
+    "Sentada o caballito.",
+    "Reclinada."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2021-2022-1.jpg"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con la Escala de Evaluación de Lactancia Materna (LATCH): PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 324",
+   "o": [
+    "La puntuación LATCH del primer día está inversamente relacionada con la tasa de lactancia materna no exclusiva al alta en maternidad.",
+    "Cada ítem se puntúa de 0 a 2 de menos a más favorable.",
+    "Se distinguen 6 áreas de evaluación.",
+    "El pezón plano se puntúa con el valor de 1."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes criterios según la Guía de Práctica Clínica sobre lactancia materna del Ministerio de Sanidad, Servicios Sociales e Igualdad, le haría pensar que NO existe un buen inicio o instauración de la Lactancia Materna?:",
+   "o": [
+    "La boca del lactante está bien abierta con el labio inferior evertido y ambos labios forman un ángulo de unos 120º.",
+    "Hay menos areola visible por debajo de la barbilla que por encima del pezón.",
+    "Hay sonidos de chupeteo por parte del recién nacido.",
+    "Una curva ponderal ascendente con una ganancia media de 20-35 gr/día a partir del cuarto día de nacimiento, asegura una ingesta adecuada."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Ingresa en la Unidad de Neonatología un recién nacido con 5 horas de vida que presenta dificultad respiratoria. En la valoración se observa una respiración taquipneica con aleteo nasal mínimo, con marcado tiraje intercostal, quejido respiratorio audible con fonendo, bamboleo y mínima xifoidea. ¿Qué puntuación del Test de Silverman-Andersen tendría según la exploración?:",
+   "o": [
+    "Cuatro.",
+    "Cinco.",
+    "Seis.",
+    "Siete."
+   ],
+   "a": null,
+   "anulada": true,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué caracteriza a la enfermedad de Hirschsprung (HSCR) conocida también por el nombre de megacolon agangliónico?:",
+   "o": [
+    "Es una enfermedad más predominante en el sexo femenino.",
+    "En estos pacientes se descarta la realización de una ostomía digestiva.",
+    "La variante más común de HSCR es la aganglionosis total del intestino grueso.",
+    "Se produce una ausencia de células ganglionares en los plexos submucoso y mientérico del colon."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "En la ictericia fisiológica observaremos una hiperbilirrubinemia del recién nacido con un aumento de:",
+   "o": [
+    "Bilirrubina no conjugada indirecta.",
+    "Bilirrubina conjugada directa.",
+    "Bilirrubina conjugada indirecta.",
+    "Metabilirrubina."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la exploración física de un paciente pediátrico la presencia de un exantema petequial en el paladar blando NO es indicativo de:",
+   "o": [
+    "Enfermedad de Lyme.",
+    "Faringitis estreptocócica.",
+    "Abuso sexual.",
+    "Rubeola."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes NO es un criterio de inclusión para definir un Episodio Breve Resuelto Inexplicado (BRUE)?:",
+   "o": [
+    "Episodio resuelto de cianosis o palidez de menos de 1 minuto de duración.",
+    "Cambio marcado del tono muscular en forma de hipertonía o hipotonía.",
+    "Respiración ausente, disminuida o irregular.",
+    "Lactante > 1 año de vida."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las actividades preventivas para la detección precoz de anomalías visuales en pediatría, se utiliza el test o método de Hirschberg. Indique la respuesta correcta en relación con dicho test:",
+   "o": [
+    "Se trata de un test de agudeza visual utilizado en edad escolar.",
+    "El paciente se fija en una fuente de luz a no más de 20 cm de distancia.",
+    "La sala de exploración debe estar a oscuras.",
+    "Se valora la simetría del reflejo corneal de la luz."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El test de Adams, es un test de cribado de la escoliosis comúnmente utilizado en la consulta de atención primaria. ¿Cuál de las siguientes opciones es correcta en relación con el test?:",
+   "o": [
+    "Valora la asimetría del tronco desde atrás, con el niño flexionado hacia un lado.",
+    "Se considera positivo cuando el torso del niño estando completamente paralelo al suelo, presenta una giba a nivel dorsal o una deformidad lumbar.",
+    "El test de Adams positivo significa que el paciente presenta una rotación en el tronco y una posible escoliosis.",
+    "Es un test simple y seguro con una apreciación objetiva."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En el triaje de una lactante de 1 mes de vida observamos que está activa, tranquila, responde a estímulos, piel normocoloreada, con un cutis marmorata y con una puntuación de 0 en el test de Silverman-Anderson. ¿Cómo valoraría el Triángulo de Evaluación Pediátrica?:",
+   "o": [
+    "Agudo.",
+    "Subagudo.",
+    "Estable.",
+    "Inestable."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

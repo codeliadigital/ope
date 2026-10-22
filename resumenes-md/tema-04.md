@@ -30,7 +30,7 @@ Proceso **continuo, sistemático y formalizado** de toma de decisiones para alca
 | **Operativa** (microgestión) | Corto: ≤ 1 año | Supervisoras, coordinadores | Organiza tareas diarias | **Plan operativo** |
 
 !! Asignar presupuesto, infraestructuras y plantillas = **planificación táctica**, no estratégica.
-!! Plan = estratégica; Programa = táctica; Plan operativo / tareas = operativa.
+!! ==Plan = estratégica; Programa = táctica; Plan operativo / tareas = operativa.==
 
 ## A3. Planificación operativa
 
@@ -141,7 +141,7 @@ Proceso **continuo, sistemático y formalizado** de toma de decisiones para alca
 
 - **Comunicación**: asertividad y escucha activa; es una intervención de seguridad (el PRN le dedica el Módulo II).
 
-!! Según Herzberg, el **salario es un factor higiénico**, nunca motivador.
+!! ==Según Herzberg, el **salario es un factor higiénico**, nunca motivador.==
 !! M1 y M4 (los extremos) piden **baja relación**; solo M2 y M3 piden alta relación.
 !! En una parada cardiorrespiratoria, el estilo adecuado es el **autocrático/directivo**.
 

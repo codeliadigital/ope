@@ -29,7 +29,7 @@ sub: Resumen OPE Enfermería SMS · Politraumatizado (X-ABCDE, RTS, funciones de
 - **Regla de los 9 de Wallace** (adultos): **cabeza 9%**, **cada brazo 9%**, **tronco anterior 18%**, **tronco posterior 18%**, **cada pierna 18%**, **periné 1%**. **Regla de la palma**: la palma del paciente con los dedos ≈ **1%** (quemaduras dispersas). **Niños: Lund-Browder** (cabeza proporcionalmente mayor).
 - **Las quemaduras de primer grado (eritema, solar) no se suman** para el cálculo de líquidos.
 - **Fórmula de Parkland**: **4 ml × kg × % SCQ** de **Ringer lactato** en 24 h: **50% en las primeras 8 h contadas desde el accidente** (no desde la llegada) y 50% en las 16 h siguientes. Ejemplo: accidente a las 14:00 y llegada a las 17:00 → quedan **5 h** para la primera mitad.
-- El mejor indicador de la reposición es la **diuresis horaria** (sonda vesical): **0,5-1 ml/kg/h** en adultos y **1-1,5 ml/kg/h** en niños.
+- El mejor indicador de la reposición es la **diuresis horaria** (sonda vesical): ==**0,5-1 ml/kg/h**== en adultos y **1-1,5 ml/kg/h** en niños.
 - Cuidados: limpieza con SF o agua y jabón; desbridar **flictenas rotas, turbias o en flexuras**; **sulfadiazina argéntica** o apósitos de plata; vigilar la **perfusión distal** en quemaduras **circunferenciales** (la escara hace de torniquete → **escarotomía**); **analgesia IV** (opioides) **antes** de las curas (**nunca IM ni SC**: absorción errática por el edema); presoterapia y férulas en extensión; apoyo ante el **trastorno de la imagen corporal (00118)**. La **sepsis** es la principal causa de muerte tardía.
 
 ## 3. Shock y sepsis
@@ -42,6 +42,17 @@ sub: Resumen OPE Enfermería SMS · Politraumatizado (X-ABCDE, RTS, funciones de
 | **Distributivo** | Vasodilatación («continente» ampliado); piel **caliente y rosada** al inicio | **Séptico**, **anafiláctico** (IgE, histamina), **neurogénico** (lesión medular > T4: **hipotensión con bradicardia**) |
 | **Cardiogénico** | Fallo de **bomba** | IAM extenso (> 40% del VI), miocardiopatía, arritmias |
 | **Obstructivo** | Obstáculo mecánico | **Taponamiento**, **neumotórax a tensión**, **TEP masivo** |
+
+- **Clasificación del shock hemorrágico (ATLS)**:
+
+| Clase | Pérdida | FC | PA | Diuresis | Estado mental |
+|---|---|---|---|---|---|
+| **I** | **< 15%** (< 750 ml) | < 100 | Normal | > 30 ml/h | Algo ansioso |
+| **II** | **15-30%** (750-1.500) | > 100 | **Normal** (pulso débil) | 20-30 | Ansioso |
+| **III** | **30-40%** (1.500-2.000) | > 120 | **Baja** | 5-15 | Confuso |
+| **IV** | **> 40%** (> 2.000) | > 140 | Muy baja | Anuria | Letárgico |
+
+- **Vasoactivos**: **noradrenalina** (vasopresor de elección en el **séptico**), **dobutamina** (inotrópico: **cardiogénico**), **adrenalina** (**anafiláctico**; 0,5 mg IM), atropina en el neurogénico con bradicardia.
 
 - **Hipotensión con bradicardia** = **shock neurogénico** o **intoxicación colinérgica**.
 - **Sepsis (Surviving Sepsis Campaign 2021)**: no usar **qSOFA** como única herramienta de cribado (mejor NEWS-2, MEWS, SIRS). Paquete: **lactato** (repetir si > 2 mmol/L); **hemocultivos ANTES del antibiótico**; **antibiótico IV en la primera hora** si shock o sepsis probable (hasta **3 h** si sepsis posible sin shock); **30 ml/kg de cristaloides** (mejor **balanceados**) si hipotensión o **lactato ≥ 4**; **noradrenalina** de primera elección (después vasopresina o adrenalina) para **PAM ≥ 65 mmHg**; dobutamina si disfunción miocárdica.
@@ -96,8 +107,8 @@ sub: Resumen OPE Enfermería SMS · Politraumatizado (X-ABCDE, RTS, funciones de
 
 ## 6. Parada cardiorrespiratoria y RCP
 
-- **SVB adulto**: si no responde, **pedir ayuda y llamar al 112** y pedir un **DEA**; **el *gasping* no es respirar**. **Compresiones en el centro del pecho**, **5-6 cm**, **100-120/min**, dejando **reexpandir** el tórax por completo; **30:2**, sin interrumpir más de 10 s para las ventilaciones. En el hospital se puede empezar **sobre la cama** (el manual lo recoge como novedad ERC 2025).
-- **SVA**: con vía aérea avanzada (tubo o supraglótico), **compresiones continuas** y **10 ventilaciones/min** (1 cada 6 s). **Capnografía**: confirma la intubación; **ETCO₂ < 10 mmHg** = RCP ineficaz; **subida brusca (p. ej., a 40)** = **recuperación de la circulación**. Vía **IV** de elección; **intraósea** si falla.
+- **SVB adulto**: si no responde, **pedir ayuda y llamar al 112** y pedir un **DEA**; **el *gasping* no es respirar**. **Compresiones en el centro del pecho**, ==**5-6 cm**==, ==**100-120/min**==, dejando **reexpandir** el tórax por completo; **30:2**, sin interrumpir más de 10 s para las ventilaciones. En el hospital se puede empezar **sobre la cama** (el manual lo recoge como novedad ERC 2025).
+- **SVA**: con vía aérea avanzada (tubo o supraglótico), **compresiones continuas** y ==**10 ventilaciones/min**== (1 cada 6 s). **Capnografía**: confirma la intubación; **ETCO₂ < 10 mmHg** = RCP ineficaz; **subida brusca (p. ej., a 40)** = **recuperación de la circulación**. Vía **IV** de elección; **intraósea** si falla.
 
 | | **Desfibrilables (FV / TVSP)** | **No desfibrilables (asistolia / AESP)** |
 |---|---|---|
@@ -115,8 +126,8 @@ sub: Resumen OPE Enfermería SMS · Politraumatizado (X-ABCDE, RTS, funciones de
 !! Trauma: **hipotensión permisiva (PAS 80-90)** salvo **TCE grave**. Tríada letal: **hipotermia + coagulopatía + acidosis**.
 !! RTS: máximo **12**; **11 = urgente**; **3-10 = inmediato**.
 !! Battle / rinolicuorrea → **no SNG**; sangre en el meato → **no sonda vesical**.
-!! Wallace: cabeza **9**, brazo **9**, tronco **18 + 18**, pierna **18**, periné **1**; **el primer grado no cuenta**.
-!! Parkland: **4 ml × kg × %SCQ**, **mitad en 8 h desde el accidente**; Ringer lactato; diuresis **0,5-1 ml/kg/h**.
+!! ==Wallace: cabeza **9**, brazo **9**, tronco **18 + 18**, pierna **18**, periné **1**; **el primer grado no cuenta**.==
+!! ==Parkland: **4 ml × kg × %SCQ**, **mitad en 8 h desde el accidente**; Ringer lactato; diuresis **0,5-1 ml/kg/h**.==
 !! Quemado: analgesia **IV**, nunca IM; circunferencial → vigilar pulsos (**escarotomía**).
 !! Shock neurogénico: **hipotensión + bradicardia**. Sepsis: **hemocultivos → antibiótico (< 1 h)**, **30 ml/kg**, **noradrenalina**, **PAM ≥ 65**.
 !! Lavado gástrico: **< 1 h**, **lateral izquierdo + Trendelenburg**; nunca con **cáusticos ni hidrocarburos**.
@@ -127,9 +138,9 @@ sub: Resumen OPE Enfermería SMS · Politraumatizado (X-ABCDE, RTS, funciones de
 !! EAP: **sentado con piernas colgando**, CPAP, furosemida, nitroglicerina. SDRA: **6 ml/kg** y **prono 16 h**.
 !! Ictus isquémico: **no bajar la TA** salvo **> 220/120**. Disección: **PAS < 120**. Nitroprusiato: **proteger de la luz**.
 !! Estatus: **> 5 min**; sin vía → **midazolam IM/intranasal**; fenitoína **solo en SF**; no abrir la boca a la fuerza.
-!! Anafilaxia: **adrenalina IM muslo 1:1.000, 0,5 mg**; tumbado con piernas elevadas; betabloqueado → **glucagón**; observar **6-8 h**.
+!! ==Anafilaxia: **adrenalina IM muslo 1:1.000, 0,5 mg**; tumbado con piernas elevadas; betabloqueado → **glucagón**; observar **6-8 h**.==
 !! Maastricht **III** = asistolia controlada; **5 min no-touch**.
-!! RCP: **30:2**, **100-120/min**, **5-6 cm**; vía avanzada → **10 ventilaciones/min**; ETCO₂ que sube de golpe = **ROSC**.
+!! ==RCP: **30:2**, **100-120/min**, **5-6 cm**; vía avanzada → **10 ventilaciones/min**; ETCO₂ que sube de golpe = **ROSC**.==
 !! Adrenalina: **no desfibrilable → ya**; **desfibrilable → tras la 3.ª descarga**. Amiodarona **300 → 150**.
 !! VAD: si falla la intubación → **mascarilla laríngea**; Mallampati **IV** y Cormack **3-4** = difícil.
 !! Pediatría: **5 ventilaciones**, **15:2**, **4 J/kg**; lactante atragantado: **espalda + tórax**, **sin Heimlich**.

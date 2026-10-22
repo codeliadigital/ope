@@ -31,7 +31,7 @@ sub: Resumen OPE Enfermería SMS · Valoración cardiovascular, insuficiencia ca
 - Rotura o erosión de una **placa** con trombo. Dolor **opresivo retroesternal** irradiado (brazo izquierdo, cuello, mandíbula, epigastrio) con **cortejo vegetativo**. Incluye **IAM con elevación del ST** (oclusión completa), **IAM sin elevación del ST** y **angina inestable** (sin necrosis). «**El tiempo es músculo**».
 - **ECG de 12 derivaciones en ≤ 10 minutos** desde el primer contacto. **Elevación del ST en ≥ 2 derivaciones contiguas** = IAMCEST → reperfusión urgente.
 - Sin elevación del ST: **troponina de alta sensibilidad** (no CK-MB) con algoritmo **0 h/1 h** (o 0 h/2 h): enfermería extrae a la llegada (**hora 0**) y **exactamente a la hora**.
-- **Reperfusión**: **angioplastia primaria** (de elección) si puede hacerse en **< 120 min** desde el diagnóstico (en un centro con hemodinámica, **≤ 60 min**); acceso **radial** (menos sangrado). Si no, **fibrinólisis** (mejor prehospitalaria) y traslado a hemodinámica.
+- **Reperfusión**: **angioplastia primaria** (de elección) si puede hacerse en ==**< 120 min**== desde el diagnóstico (en un centro con hemodinámica, **≤ 60 min**); acceso ==**radial**== (menos sangrado). Si no, **fibrinólisis** (mejor prehospitalaria) y traslado a hemodinámica.
 - **Código Infarto (SMS)**: lo activan el **061 o el SUAP** tras el ECG; ECG transmitido; **traslado directo a la sala de hemodinámica sin pasar por urgencias**.
 - **Tratamiento inicial**: **oxígeno solo si SatO₂ < 90%** (de rutina es perjudicial); **nitratos** (no si **hipotensión, bradicardia o infarto de ventrículo derecho**); **doble antiagregación (AAS + ticagrelor o prasugrel)** y **anticoagulación** (heparina).
 - **Cuidados**: **monitorización continua** (la **fibrilación ventricular** es la complicación más frecuente y letal en las primeras horas), **vigilar la punción radial** (hematoma, sangrado, isquemia; retirar la pulsera de forma gradual), apoyo emocional, rehabilitación cardiaca y factores de riesgo.
@@ -47,7 +47,7 @@ sub: Resumen OPE Enfermería SMS · Valoración cardiovascular, insuficiencia ca
 - Confirmar fuera de la consulta con **MAPA (24 h)** o **AMPA** (descartar bata blanca o HTA enmascarada).
 - **Tensión elevada**: **estilo de vida durante 3 meses** (liderado por enfermería); si sigue **≥ 130/80** con riesgo alto (≥ 10% a 10 años), diabetes o enfermedad renal: fármacos.
 - **Estilo de vida**: **sal < 5 g/día** (2 g de sodio), dieta **DASH** (potasio), **150 min/semana** de ejercicio aeróbico + fuerza 2-3 días, **IMC 20-25** y cintura < 102 cm (hombre) / < 88 cm (mujer), **alcohol < 100 g/semana** (mejor nada), no fumar.
-- **Fármacos**: empezar con **dos fármacos en un solo comprimido** (IECA o ARA II + amlodipino o tiazida). **Evitar la inercia terapéutica**. Antes de hablar de HTA resistente, descartar la **seudorresistencia** (la causa más frecuente: **falta de adherencia**; también mala técnica, manguito inadecuado, falta de reposo, rigidez arterial). **Entrevista motivacional**.
+- **Fármacos**: empezar con **dos fármacos en un solo comprimido** (IECA o ARA II + amlodipino o tiazida). Efectos adversos típicos: **IECA → tos seca** (pasar a ARA II) e **hiperpotasemia**, contraindicados en el **embarazo**; **betabloqueantes → broncoespasmo** (cuidado en asma) y bradicardia; **verapamilo/diltiazem** no en insuficiencia cardiaca; **tiazidas → hipopotasemia**; **espironolactona → hiperpotasemia**; **doxazosina → hipotensión ortostática** con la primera dosis. En el embarazo: **metildopa, labetalol, nifedipino**. **Evitar la inercia terapéutica**. Antes de hablar de HTA resistente, descartar la **seudorresistencia** (la causa más frecuente: **falta de adherencia**; también mala técnica, manguito inadecuado, falta de reposo, rigidez arterial). **Entrevista motivacional**.
 
 ## 5. Otros problemas
 
@@ -74,18 +74,18 @@ sub: Resumen OPE Enfermería SMS · Valoración cardiovascular, insuficiencia ca
 !! IC: FEVI **≤ 40% reducida**, **≥ 50% conservada**; **R3 = IC**.
 !! Cuatro pilares: **ARNI, betabloqueante, antialdosterónico, iSGLT2**; antialdosterónico → **hiperpotasemia**.
 !! **+2 kg en 3 días** = descompensación; MAICA-RM: aviso a AP en **24 h**.
-!! SCA: ECG **≤ 10 min**; **troponina 0 h/1 h**; angioplastia **< 120 min**; acceso **radial**.
+!! ==SCA: ECG **≤ 10 min**; **troponina 0 h/1 h**; angioplastia **< 120 min**; acceso **radial**.==
 !! Código Infarto: **directo a hemodinámica**, sin pasar por urgencias.
 !! Oxígeno solo si **SatO₂ < 90%**; nitratos no en **IAM de ventrículo derecho** ni hipotensión.
 !! ESC 2024: **elevada 120-139/70-89**; HTA **≥ 140/90**; confirmar con **MAPA/AMPA**.
 !! Sal **< 5 g**; alcohol **< 100 g/semana**; empezar con **dos fármacos en un comprimido**.
 !! ITB **≤ 0,90** = arteriopatía; **> 1,40** = incompresible.
 !! FA: **CHA₂DS₂-VASc**; la **aspirina no** sustituye al anticoagulante.
-!! ECG: **V1 4.º EIC paraesternal derecho**, **V4 5.º EIC medioclavicular**; **V4R** = ventrículo derecho; **V7-V9** = posterior.
+!! ==ECG: **V1 4.º EIC paraesternal derecho**, **V4 5.º EIC medioclavicular**; **V4R** = ventrículo derecho; **V7-V9** = posterior.==
 !! Manguito **pequeño → cifras falsamente altas**; Korotkoff **I sistólica, V diastólica**.
 !! Transductor **por encima del eje flebostático → cifras bajas**.
 !! Línea arterial: **300 mmHg**; **nunca medicación**.
-!! FV/TV sin pulso: **desfibrilar**; adrenalina **tras la 3.ª descarga**; asistolia/AESP: **adrenalina ya**, sin descargas.
+!! ==FV/TV sin pulso: **desfibrilar**; adrenalina **tras la 3.ª descarga**; asistolia/AESP: **adrenalina ya**, sin descargas.==
 
 ## Imágenes clave del tema
 

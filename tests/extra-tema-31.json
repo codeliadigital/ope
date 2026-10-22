@@ -1,0 +1,248 @@
+{
+ "tema": 31,
+ "preguntas": [
+  {
+   "q": "Pregunta asociada a la imagen 7. ¿Cómo se denomina la anomalía pediátrica de partes blandas identificada en la imagen?:",
+   "o": [
+    "Diastema.",
+    "Anquiloglosia.",
+    "Fibromatosis gingival.",
+    "Ránula."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t14-2024-2025-7.jpg"
+  },
+  {
+   "q": "Durante el examen físico en una revisión de un lactante en consulta de Atención Primaria, encontramos uno de los testículos en localización suprapúbica sin posibilidad de descenso a su posición escrotal. ¿Cómo definiría este trastorno?:",
+   "o": [
+    "Testículo ectópico.",
+    "Testículo no descendido.",
+    "Testículo retráctil.",
+    "Testículo evanescente."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo se denomina la inflamación o infección del glande en el paciente pediátrico manifestada por clínica de eritema, edema y dolor del pene?:",
+   "o": [
+    "Balanitis.",
+    "Parafimosis.",
+    "Glanditis.",
+    "Priapismo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La bronquiolitis aguda es la infección del tracto respiratorio inferior más frecuente en el lactante que supone una importante demanda asistencial tanto en el ámbito de la Atención Primaria como a nivel hospitalario. NO se considera un factor de riesgo de gravedad de la bronquiolitis:",
+   "o": [
+    "Antecedentes de prematuridad.",
+    "Ausencia de lactancia materna.",
+    "Atopía.",
+    "Tener hermanos."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles de las siguientes son las 4 anomalíasmás características de la anomalía congénita Tetralogía de Fallot?:",
+   "o": [
+    "Estenosis de canal auriculoventricular. Hipertrofia auricular derecha. Comunicación interventricular. Acabalgamiento aórtico. 329 ENFERMERÍA PEDIÁTRICA",
+    "Estenosis pulmonar. Hipertrofia ventricular izquierda. Comunicación interauricular. Acabalgamiento aórtico.",
+    "Estenosis pulmonar. Hipertrofia ventricular derecha. Comunicación interventricular. Acabalgamiento aórtico.",
+    "Estenosis aórtica. Hipertrofia ventricular izquierda. Comunicación interventricular. Acabalgamiento pulmonar."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Los defectos cardíacos son las malformaciones congénitas más frecuentes. Dentro de las cardiopatías congénitas se encuentra la Transposición de Grandes Vasos. Indique la respuesta correcta en relación con esta cardiopatía:",
+   "o": [
+    "Se trata de una cardiopatía acianótica que debuta en periodo neonatal.",
+    "En su presentación simple, la aorta está conectada al ventrículo anatómicamente derecho y la pulmonar al ventrículo izquierdo.",
+    "Para asegurar la oxigenación debe facilitarse la mezcla de sangre a través del cierre del ductus arteriovenoso.",
+    "Las características anatómicas que presenta son estenosis pulmonar y cabalgamiento aórtico."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Ante una crisis convulsiva en un paciente pediátrico, ¿cuál de las siguientes vías de administración de benzodiazepinas NO se considera de elección?:",
+   "o": [
+    "Vía rectal.",
+    "Vía endotraqueal.",
+    "Vía bucal.",
+    "Vía intranasal."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En la clasificación de pacientes susceptibles de recibir atención paliativa en la edad pediátrica, ¿qué pacientes forman parte del GRUPO 1?:",
+   "o": [
+    "Quienes sufren enfermedades graves, para las cuales el tratamiento curativo existe, pero puede fracasar.",
+    "Quienes sufren procesos irreversibles, pero no progresivos, asociados con discapacidad grave, que conlleva una extrema vulnerabilidad de padecer complicaciones que den lugar a una muerte prematura.",
+    "Quienes sufren enfermedades en las que la muerte prematura es inevitable, pero, con el tratamiento adecuado, se prolonga la vida durante largos periodos de tiempo.",
+    "Quienes sufren enfermedades progresivas sin opciones de tratamiento curativo, sólo paliativo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es el tumor renal maligno primario más común en la infancia?:",
+   "o": [
+    "Nefroma mesoblástico.",
+    "Rabdomiosarcoma.",
+    "Teratoma.",
+    "Tumor de Wilms."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un niño de 2 años tiene fiebre alta durante 3 días, está irritable y, cuando la fiebre remite aparece un exantema morbiliforme de color rosa y no pruriginoso que comienza en el tronco y se extiende al cuello y extremidades. ¿Cuál es el diagnóstico más probable?:",
+   "o": [
+    "Sarampión.",
+    "Roséola infantil.",
+    "Rubeola.",
+    "Eritema infeccioso."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "De entre las siguientes opciones, ¿cuál es la complicación más frecuente de la tétrada de Gregg?:",
+   "o": [
+    "Hipoacusia.",
+    "Cataratas.",
+    "Ductus arterioso persistente.",
+    "Microcefalia."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El eritema infeccioso, también denominado como quinta enfermedad, es la manifestación clínica más común del virus:",
+   "o": [
+    "Parvovirus.",
+    "Citomegalovirus.",
+    "Adenovirus.",
+    "Herpes virus tipo 2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con relación al impétigo, señale la respuesta correcta:",
+   "o": [
+    "Se trata de una infección superficial causada por el Virus de Epstein Barr.",
+    "Es más frecuente en niños lactantes en épocas de frío.",
+    "El impétigo es poco contagioso, lo más habitual es que aparezca en tórax y abdomen, y se suele acompañar de fiebre.",
+    "El tratamiento se basa en la limpieza de las lesiones con agua y jabón, y en la aplicación de una pomada antibiótica de mupirocina o ácido fusídico."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "P.G.R. es un niño de 4 años que acude al servicio de urgencias de un hospital por fiebre mantenida de una semana. A la exploración presenta edema y eritema en manos y pies, lesiones orales con lengua “aframbuesada”, exantema polimorfo y adenopatía cervical unilateral. Tras el examen físico y realizadas las pruebas diagnósticas pertinentes, es diagnosticado de Enfermedad de Kawasaki. Dentro del abordaje terapéutico, tratamiento y cuidados de esta patología podemos afirmar que:",
+   "o": [
+    "El tratamiento con AAS (ácido acetil salicílico) está contraindicado.",
+    "La administración de corticoides intravenosos es el tratamiento de elección.",
+    "Se indicará reposo absoluto en su fase aguda.",
+    "El paciente requiere aplicación de medidas de aislamiento de contacto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la respuesta INCORRECTA entre las siguientes afirmaciones respecto a la infección por virus del sarampión:",
+   "o": [
+    "El portal de entrada del virus es a través de las vías respiratorias o conjuntivas después del contacto con gotas o aerosoles en los que se suspende.",
+    "La infección se inicia con una fase exantemática seguida de fiebre y cuadro catarral con tos y coriza.",
+    "La manchas de Koplick son el signo patognomónico del sarampión.",
+    "La erupción maculopapular se inicia en la frente y región retroauricular extendiéndose al torso y las extremidades."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la principal complicación asociada al uso de salicilatos en niños con infección de varicela o gripe?:",
+   "o": [
+    "Enfermedad de Kawasaki.",
+    "Síndrome de Turner.",
+    "Síndrome de Reye.",
+    "Síndrome de Albright."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el Triángulo de Evaluación Pediátrica, una niña de 10 años que presenta dificultad respiratoria severa, somnolienta y con escasa respuesta a estímulos verbales y cianosis periférica en labios, presenta un estado fisiopatológico de:",
+   "o": [
+    "Disfunción del sistema nervioso central.",
+    "Fallo respiratorio.",
+    "Fallo cardiopulmonar.",
+    "Shock descompensado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "El Triángulo de Evaluación Pediátrica (TEP), utilizado para la evaluación inicial del paciente pediátrico en las salas de triaje de urgencias, está compuesto por tres lados o aspectos a evaluar, que son:",
+   "o": [
+    "Trabajo respiratorio, estado general y pulso.",
+    "Apariencia, respiración y circulación.",
+    "Tiempo de asistencia, capacidad de respuesta y postura.",
+    "Respiración, pulso y respuesta a estímulos."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Dentro de las reglas o fórmulas utilizadas para el cálculo de dosis en paciente pediátrico NO se encuentra:",
+   "o": [
+    "Regla de Young.",
+    "Regla de Cowling.",
+    "Fórmula de Clark.",
+    "Fórmula de Bloise."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "A la hora de aplicar un tratamiento para una otitis externa de un paciente pediátrico de 2 años consistente en la administración de gotas óticas, hay que tener en cuenta:",
+   "o": [
+    "La técnica de administración se realizará de igual forma que en un paciente adulto.",
+    "Se debe tirar del pabellón auricular del oído afectado hacia abajo y hacia atrás.",
+    "Hay que tirar del pabellón auricular del oído afectado hacia arriba y hacia atrás.",
+    "No se recomienda la administración de gotas óticas en pacientes menores de 3 años."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En una reanimación cardiopulmonar de un niño de 5 años ahogado, al que se le han realizado varios intentos de canalización de una vía venosa periférica, es de elección la canalización de una vía intraósea. De entre las siguientes opciones, ¿cuál sería el lugar de punción indicado para esta edad?:",
+   "o": [
+    "Tibia distal, dos centímetros por encima del maléolo tibial interno.",
+    "Superficie anteromedial de la tibia, 2-3 centímetros por debajo de la tuberosidad tibial.",
+    "Tercio superior del esternón.",
+    "Cara posterior de la metáfisis proximal del radio."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación a los métodos de recogida de orina empleados en el diagnóstico de una Infección del Tracto Urinario en edad pediátrica:",
+   "o": [
+    "El cateterismo vesical es una prueba invasiva que no permite descartar completamente el riesgo de contaminación.",
+    "La punción suprapúbica está considerada la técnica de recogida de orina de referencia.",
+    "La recogida de orina mediante bolsas perineales tiene bajo riesgo de contaminación en comparación con la obtenida mediante el chorro miccional.",
+    "En población pediátrica que controla la micción, se recomienda la recogida de orina limpia en mitad de chorro miccional."
+   ],
+   "a": 2,
+   "src": "EIR"
+  }
+ ]
+}

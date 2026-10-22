@@ -174,3 +174,8 @@ figcaption {
   font-style: italic;
   color: #4b5563;
 }
+
+strong.top {
+  color: #c4161c;
+  font-weight: 700;
+}

@@ -38,7 +38,7 @@ sub: Resumen OPE Enfermería SMS · EEES y créditos ECTS, Orden CIN/2134/2008, 
 
 - **Siete especialidades** (RD 450/2005): **obstétrico-ginecológica (matrona)**, **salud mental**, **del trabajo**, **familiar y comunitaria**, **pediátrica**, **geriátrica** y **cuidados médico-quirúrgicos** (esta última **sin programa ni plazas**). Todas duran **2 años**.
 - **Unidades docentes** acreditadas por el **Ministerio de Sanidad**; las **multiprofesionales** forman a varias profesiones del mismo ámbito (p. ej., **atención familiar y comunitaria**: EIR y MIR).
-- **Comisión de docencia**: órgano **colegiado** que organiza y supervisa la formación; la **preside el jefe de estudios** de formación especializada.
+- **Comisión de docencia**: órgano **colegiado** que organiza y supervisa la formación; la ==**preside el jefe de estudios**== de formación especializada.
 - **Tutor**: especialista en activo **acreditado** por la comunidad autónoma; responsable directo del aprendizaje; **máximo 5 residentes** (en un área de capacitación específica, **1**). Funciones: elaborar el **Plan Individual de Formación**, entrevistas periódicas estructuradas, fomentar la investigación y las sesiones clínicas, validar las evaluaciones de las rotaciones y redactar el **informe anual**. La tutoría se considera **función de gestión clínica**.
 - **Evaluación del residente**:
   - **Formativa** continuada: **libro del residente** y entrevistas.
@@ -65,13 +65,13 @@ sub: Resumen OPE Enfermería SMS · EEES y créditos ECTS, Orden CIN/2134/2008, 
 - **Carrera profesional** (reconocimiento del desarrollo profesional; LOPS y Estatuto Marco): en el SMS, **Ley 5/2001** de personal estatutario y acuerdos de la Mesa Sectorial; **grado inicial** al ser fijo y **niveles I a IV**, con **5 años** mínimos en el nivel anterior para ascender. Áreas valoradas: **actividad asistencial**, **formación** recibida, **docencia e investigación** (tutor EIR, colaborador docente, publicaciones) y **compromiso con la organización** (comisiones, grupos de mejora). En los niveles altos pesa más el papel de **docente e investigador**.
 
 !! Bolonia (1999) → **Grado**; **1 ECTS = 25-30 h** de trabajo del alumno.
-!! Orden **CIN/2134/2008**: **240 ECTS / 4 años**; básica **60**; prácticas + TFG **90** (TFG **6**).
+!! ==Orden **CIN/2134/2008**: **240 ECTS / 4 años**; básica **60**; prácticas + TFG **90** (TFG **6**).==
 !! RD **1125/2003**: notas **0-10 con un decimal**; MH **≥ 9** y máx. **5%** (1 si < 20).
 !! Conciertos (RD **1558/1986**): **1 hospital + 3 centros de salud** universitarios.
 !! Colaborador docente: **sin contrato** con la universidad; supervisa y responde de la seguridad.
 !! RD **450/2005** = especialidades (**7**, de **2 años**; médico-quirúrgica sin desarrollar).
 !! RD **1146/2006** = relación laboral del residente (**12 h** de descanso).
-!! RD **183/2008** = organización de la FSE: comisión de docencia (la **preside el jefe de estudios**), tutor (**máx. 5** residentes), evaluación.
+!! ==RD **183/2008** = organización de la FSE: comisión de docencia (la **preside el jefe de estudios**), tutor (**máx. 5** residentes), evaluación.==
 !! **El tutor informa; el Comité de Evaluación califica**, en los **15 días previos** al fin del año.
 !! Negativa **no recuperable** → **extinción del contrato**.
 !! Formación continuada = **derecho y deber** (LOPS); créditos válidos en **toda España**.

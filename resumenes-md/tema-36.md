@@ -28,7 +28,7 @@ sub: Resumen OPE Enfermería SMS · Cuidados paliativos (dolor total, NECPAL, Ka
   - **Sedación paliativa**: reducir la conciencia de forma **proporcionada** para aliviar un **síntoma refractario** (el que **no se controla** con los tratamientos disponibles en un tiempo razonable; un síntoma **difícil** sí acaba respondiendo). **Sedación en la agonía**: en los últimos días, continua y tan profunda como haga falta.
   - **Eutanasia**: el profesional **provoca la muerte** a petición expresa, voluntaria y reiterada del paciente.
 - **Requisitos de la sedación**: enfermedad avanzada, **síntoma refractario**, **consentimiento** (del paciente o, si no puede, de su representante o familia) y registro en la historia. No es correcta a petición solo de la familia ni por agotamiento del equipo.
-- **Fármacos**: **midazolam** de **primera elección** (SC o IV; IV a mitad de dosis); **levomepromazina** si predomina el **delirium**; **fenobarbital** en tercera línea (**vía e infusor propios**, sin mezclar; antes se retiran benzodiacepinas y neurolépticos y se reduce el opioide a la mitad); **propofol** solo en el hospital. **Los opioides no se usan para sedar** (producen neurotoxicidad: mioclonías, delirium); se **mantienen a su dosis** para el dolor o la disnea.
+- **Fármacos**: ==**midazolam**== de **primera elección** (SC o IV; IV a mitad de dosis); **levomepromazina** si predomina el **delirium**; **fenobarbital** en tercera línea (**vía e infusor propios**, sin mezclar; antes se retiran benzodiacepinas y neurolépticos y se reduce el opioide a la mitad); **propofol** solo en el hospital. **Los opioides no se usan para sedar** (producen neurotoxicidad: mioclonías, delirium); se **mantienen a su dosis** para el dolor o la disnea.
 - **Marco legal**:
   - **Instrucciones previas** (Ley 41/2002): documento de una persona **mayor de edad, capaz y libre** con los cuidados que desea o rechaza para cuando no pueda expresarse; puede nombrar un **representante**.
   - **Ley Orgánica 3/2021 de regulación de la eutanasia (LORE)**: nacionalidad o residencia legal, **mayor de edad**, **capaz y consciente** al pedirla, con **enfermedad grave e incurable** o **padecimiento grave, crónico e imposibilitante**. Dos modalidades: **administración directa** por el profesional o **prescripción para que el paciente se la autoadministre**.
@@ -61,8 +61,8 @@ sub: Resumen OPE Enfermería SMS · Cuidados paliativos (dolor total, NECPAL, Ka
 ## 4. Duelo
 
 - Proceso **normal y adaptativo** ante una pérdida. Manifestaciones físicas (vacío, opresión, nudo en la garganta, cansancio), cognitivas (incredulidad, falta de concentración; **sentir la presencia del fallecido** o creer oírle es **normal** al principio), emocionales (tristeza, **culpa**, **ira** —a menudo contra el equipo— y **alivio**, que también da culpa) y conductuales (insomnio, cambios de apetito, aislamiento).
-- **Kübler-Ross** (**fases** emocionales, no siempre en orden): **negación**, **ira** («¿por qué a mí?»), **pacto**, **depresión** y **aceptación**.
-- **Worden** (**tareas** activas): **I. aceptar la realidad** de la pérdida (ver el cuerpo, los ritos ayudan); **II. elaborar el dolor** (sentirlo: **medicar en exceso con ansiolíticos lo bloquea**); **III. adaptarse** a un mundo sin el fallecido (externa, interna, espiritual); **IV. recolocarlo emocionalmente** y seguir viviendo.
+- **Kübler-Ross** (==**fases**== emocionales, no siempre en orden): **negación**, **ira** («¿por qué a mí?»), **pacto**, **depresión** y **aceptación**.
+- **Worden** (==**tareas**== activas): **I. aceptar la realidad** de la pérdida (ver el cuerpo, los ritos ayudan); **II. elaborar el dolor** (sentirlo: **medicar en exceso con ansiolíticos lo bloquea**); **III. adaptarse** a un mundo sin el fallecido (externa, interna, espiritual); **IV. recolocarlo emocionalmente** y seguir viviendo.
 
 | Tipo de duelo | Rasgo |
 |---|---|
@@ -98,13 +98,13 @@ sub: Resumen OPE Enfermería SMS · Cuidados paliativos (dolor total, NECPAL, Ka
 !! Dolor total (Saunders): **físico, emocional, social y espiritual**.
 !! NECPAL: **pregunta sorpresa a 12 meses**; vale para **enfermedades no oncológicas**.
 !! Estertores: **postura lateral + butilbromuro de escopolamina**; **no aspirar**.
-!! Sedación: solo con síntoma **refractario**; **midazolam** primero; **opioides nunca para sedar**.
+!! ==Sedación: solo con síntoma **refractario**; **midazolam** primero; **opioides nunca para sedar**.==
 !! LET ≠ sedación ≠ eutanasia.
 !! Somático = localizado; visceral = difuso con náuseas y sudor; neuropático = quemazón y descargas.
 !! **Fallo de final de dosis** → subir la basal, no rescates.
 !! Abbey es la única con **cambios fisiológicos y físicos** (grave ≥ 14).
 !! No mezclar **tramadol con morfina**; la **dexametasona** va sola en la vía SC.
-!! Kübler-Ross = **fases** (negación, ira, pacto, depresión, aceptación); Worden = **tareas** (aceptar, elaborar, adaptarse, recolocar).
+!! ==Kübler-Ross = **fases** (negación, ira, pacto, depresión, aceptación); Worden = **tareas** (aceptar, elaborar, adaptarse, recolocar).==
 !! Zarit **≥ 56** (22 ítems) o **≥ 17** (7 ítems).
 !! Pluripatológico: **≥ 2 categorías distintas** de Ollero.
 !! Barthel en silla de ruedas: **máximo 90**; Pfeiffer cuenta **errores**; Gijón **≥ 15** = problema social; MNA **< 17** = malnutrición.

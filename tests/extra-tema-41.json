@@ -1,0 +1,884 @@
+{
+ "tema": 41,
+ "preguntas": [
+  {
+   "q": "Respecto a la medición de la presión arterial (PA) en consulta, ¿cuál de las siguientes afirmaciones es INCORRECTA?:",
+   "o": [
+    "Se deben tomar tres mediciones, separadas 1 2 minutos; si hay diferencias mayores de 10 mmHg se toman medidas adicionales. La PA se debe registrar como la media de las tres últimas medidas.",
+    "El paciente debe sentarse cómodamente y reposar al menos 5 minutos antes de la medición, evitando ejercicio o estimulantes (como la cafeína o el tabaco) durante los 30 minutos previos.",
+    "El manguito utilizado debe ajustarse al tamaño del brazo, cubriendo entre el 75 - 100% de la longitud y el 35 - 50% del ancho de la circunferencia del brazo.",
+    "Se recomienda evaluar la hipotensión ortostática en la primera visita. Tras permanecer el paciente 5 minutos en reposo sentado o en decúbito, se debe medir la PA entre 1 minuto y/o 3 minutos tras la bipedestación, con un umbral para la hipotensión ortostática de una disminución de ≥ 20 / 10 mmHg (PA sistólica / PA diastólica)."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué efecto se producirá si a la hora de medir una tensión arterial utilizamos un manguito demasiado estrecho para el brazo del paciente?:",
+   "o": [
+    "Obtendremos una tensión erróneamente baja.",
+    "Obtendremos una tensión erróneamente alta.",
+    "La tensión diastólica será erróneamente baja.",
+    "La tensión sistólica será erróneamente alta y la diastólica erróneamente baja."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Quién realizó la primera medición de la presión arterial en 1733?:",
+   "o": [
+    "Stephen Hales.",
+    "Ambroise Paré.",
+    "Charles Gabriel Pravaz.",
+    "Claude Bernard."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes aﬁrmaciones considera INCORRECTA respecto a la toma de las cifras de Presión Arterial (PA)?:",
+   "o": [
+    "La gran ventaja del método automático de medida de las cifras de PA frente al método tradicional es que en el primero al paciente se le permite hablar durante la determinación.",
+    "El uso más generalizado de toma de PA mediante tensiómetros automáticos se asocia con un menor número de casos de \"bata blanca\".",
+    "La utilidad de las lecturas clínicas automatizadas mediante esfigmomanómetros electrónicos una evidencia creciente.",
+    "Se reconoce que la automedida de la PA (AMPA) tiene mayor aplicabilidad que la monitorización ambulatoria de la PA de 24 h (MAPA)."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. Las imágenes muestran la exploración de un brazo mediante ecografía y doppler con la sonda en posición caudocraneal. ¿Qué vaso, por qué, y qué calibre máximo de catéter sugerido podría utilizar para la canalización de una vía venosa central de inserción periférica?:",
+   "o": [
+    "El vaso correspondiente al color rojo, ya que el azul es una arteria. El tamaño máximo de catéter será un 4Fr.",
+    "El vaso correspondiente al color rojo, ya que el azul es un nervio. El tamaño máximo de catéter será un 5Fr.",
+    "El vaso correspondiente al color azul, ya que el rojo es un nervio. El tamaño máximo de catéter será un 5Fr.",
+    "El vaso correspondiente al color azul, ya que el rojo es una arteria. El tamaño máximo de catéter será un 6Fr."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2024-2025-1.jpg"
+  },
+  {
+   "q": "Está midiendo un Índice tobillo brazo y obtiene los siguientes datos: Tensión Arterial (TA) miembro superior derecho 140/80 mmHg, TA miembro superior izquierdo 135/80 mmHg, TA sistólica tibial posterior izquierdo 125 y derecha 95, TA sistólica pedia izquierda 130 y derecha 70. ¿Cuál sería el cálculo correcto?:",
+   "o": [
+    "Izquierda 130 dividido entre 140.",
+    "Derecho 70 dividido entre 140.",
+    "Izquierda 125 dividido entre 135.",
+    "Derecho 95 dividido entre 135."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿En qué posición se coloca al paciente para la canalización de una vía venosa central en la vena yugular interna?:",
+   "o": [
+    "Trendelemburg.",
+    "Morestín.",
+    "Fowler.",
+    "Semifowler."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La colocación de los electrodos posteriores para la realización de un ECG será:",
+   "o": [
+    "V7 en línea posterior axilar, V8 en ángulo escapular y V9 en línea paravertebral.",
+    "V7 5º espacio intercostal derecho, línea clavicular media. V8 en 5º espacio intercostal derecho, línea axilar anterior. V9 5º espacio intercostal derecho, línea axilar media.",
+    "V7 5º espacio intercostal izquierdo, línea clavicular media. V8 5º espacio intercostal izquierdo, línea axilar anterior. V9 5º espacio intercostal izquierdo, línea axilar media.",
+    "V7 en línea paravertebral. V8 en ángulo escapular y V9 en línea posterior axilar."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la posición de colocación de los parches para realizar una desfibrilación a un paciente en decúbito prono en una unidad de cuidados intensivos?:",
+   "o": [
+    "Antero-posterior.",
+    "Escapular derecha y axilar izquierda a la altura de la derivación V6.",
+    "Bi-axilar.",
+    "Escapular izquierda y axilar izquierda a la altura de la derivación V6."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo ha de realizarse una desfibrilación de doble secuencia?:",
+   "o": [
+    "Se utilizará un desfibrilador con un duplicador de parches que se colocarán de forma anteroposterior, proporcionando un choque tridimensional.",
+    "Se utilizará un desfibrilador con colocación biaxial de parches, administrando dos choques manteniendo una corriente y duración constante a lo largo de la descarga, con independencia de la impedancia del tórax del paciente.",
+    "Se utilizarán dos desfibriladores conectados a un único juego de parches colocados de forma anterolateral, lanzando cada uno de ellos una descarga.",
+    "Se utilizarán dos desfibriladores, colocando unos parches de forma anterolateral y otros anteroposterior. Se lanzará un choque simultáneo entre ellos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué indica un resultado de 1 en un Índice de Tobillo-Brazo?:",
+   "o": [
+    "Normalidad.",
+    "Enfermedad arterial periférica leve.",
+    "Enfermedad arterial periférica moderada.",
+    "Enfermedad arterial periférica grave."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Entre las complicaciones absolutas para la ﬁnalización precoz de una prueba de esfuerzo se encuentra?:",
+   "o": [
+    "Disnea.",
+    "Fatiga.",
+    "Palidez.",
+    "Desarrollo de bloqueo de rama que no pueda diferenciarse de una taquicardia ventricular."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la actitud a seguir en un paciente con un marcapasos que presenta un exceso de detección:",
+   "o": [
+    "Aumente la sensibilidad del dispositivo.",
+    "Reduzca la frecuencia de rescate del dispositivo.",
+    "Reduzca el miliamperaje del dispositivo.",
+    "Coloque un imán sobre el dispositivo."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique el sistema de monitorización que presenta el paciente de la imagen:",
+   "o": [
+    "MCL-1.",
+    "EASI.",
+    "Derivación de Lewis.",
+    "Mason-Likar."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t07-2021-2022-10.jpg"
+  },
+  {
+   "q": "De las siguientes aﬁrmaciones señale la respuesta correcta según las últimas recomendaciones ILCOR-ERC 2021 sobre la cardioversión eléctrica:",
+   "o": [
+    "En taquicardia ventricular se recomienda utilizar niveles de energía entre 70 y 120 J considerando aumentar gradualmente la energía si con la primera descarga no se consigue el ritmo sinusal.",
+    "En la fibrilación auricular se recomienda administrar una descarga sincronizada a la máxima energía del desfibrilador en lugar de una estrategia con energías crecientes.",
+    "Para el flutter auricular se recomienda utilizar niveles de energía entre 120 y 150 J en la primera descarga.",
+    "Para la taquicardia supraventricular paroxística se recomienda utilizar niveles de energía entre 120 y 150 J en la primera descarga."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta a la hora de realizar un electrocardiograma a un paciente con dextrocardia:",
+   "o": [
+    "Aparecen cambios compatibles con un hemibloqueo de rama izquierda.",
+    "Nos hará sospechar de ésta, una onda P y un complejo QRS positivo en D-I, junto con una onda T invertida.",
+    "Observaremos una elevación del segmento ST principalmente en v4 y v5.",
+    "No es necesario invertir la derivación AVF."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué se pretende diagnosticar mediante el test de ergonovina, de realización frecuente en el laboratorio de hemodinámica?:",
+   "o": [
+    "Se busca detectar la presencia de una Angina de Prinzmetal o vasoespástica.",
+    "Se busca detectar el origen del impulso eléctrico que provoca una Taquicardia Paroxística para eliminarlo mediante una ablación cardíaca.",
+    "Es un test diseñado para el diagnóstico del Síndrome de Wolff-Parkinson-White.",
+    "Se busca diferenciar si un paciente sufre un bloqueo aurículo-ventricular de segundo grado Mobitz 1 o un bloqueo aurículoventricular de segundo grado Mobitz 2."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1 (arriba). Teniendo en cuenta la imagen, indique la frecuencia cardiaca del paciente:",
+   "o": [
+    "50 latidos por minuto.",
+    "65 latidos por minuto.",
+    "80 latidos por minuto.",
+    "100 latidos por minuto."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Sociedad Española de Neumología y Cirugía Torácica (SEPAR), ¿Cuánto tiempo debemos realizar compresión ﬁrme sobre el punto de punción tras una gasometría arterial en un paciente sin alteraciones hematológicas ni tratamiento con anticoagulantes?:",
+   "o": [
+    "Tres minutos en arteria radial.",
+    "Siete minutos en arteria radial.",
+    "Diez minutos en arteria femoral y humeral.",
+    "Quince minutos en arteria femoral y humeral."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la aplicación y medición el índice tobillo-brazo (ITB), identiﬁque la respuesta INCORRECTA:",
+   "o": [
+    "El ITB es el resultado de dividir el valor de la presión arterial sistólica (PAS) más alto de cualquiera de las arterias braquiales entre la PAS de cada tobillo.",
+    "La determinación del ITB es una herramienta muy útil en la estratificación del riesgo cardiovascular ya que identifica sujetos con aterosclerosis subclínica y alto riesgo cardiovascular.",
+    "Obtener como resultado 1,1 se considera dentro de los valores de normalidad.",
+    "Es una prueba sencilla, barata y reproducible, con una gran utilidad para el diagnóstico de la enfermedad arterial periférica y para la detección de sujetos con alto riesgo cardiovascular."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la referencia anatómica para la medición del cero de la presión intracraneal en un drenaje ventricular externo?:",
+   "o": [
+    "En el conducto auditivo externo, coincidiendo con el agujero de Monro.",
+    "Dos dedos por encima del conducto auditivo externo, coincidiendo con el foramen oval.",
+    "Unión fronto-parietal a la altura de la sutura coronal.",
+    "Borde superior del pabellón auricular."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "El endotelio vascular es una estructura funcional que tapiza todos los vasos sanguíneos del cuerpo y está compuesta por las siguientes estructuras referenciadas en la Imagen 3, A EXCEPCIÓN DE:",
+   "o": [
+    "Glucosaminoglicanos.",
+    "Proteoglicanos.",
+    "Oleoglicanos.",
+    "Oligoproteínas."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2025-2026-3.jpg"
+  },
+  {
+   "q": "¿Cuál de las siguientes válvulas cardíacas se localiza entre la aurícula y el ventrículo izquierdos?:",
+   "o": [
+    "Tricúspide.",
+    "Pulmonar.",
+    "Bicúspide.",
+    "Aórtica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "La estimulación del nervio vago genera una respuesta parasimpática caracterizada por:",
+   "o": [
+    "Incremento del tono simpático y de la presión arterial.",
+    "Reducción del automatismo del nodo sinoauricular y enlentecimiento de la conducción auriculoventricular.",
+    "Aumento del gasto cardiaco y del flujo coronario.",
+    "Estimulación de la contractilidad ventricular."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto a la válvula mitral, señale la afirmación más acertada:",
+   "o": [
+    "La rotura de una de las cuerdas tendinosas de su aparato subvalvular provocará una insuficiencia tricúspidea.",
+    "El aparato subvalvular conecta con tres valvas que han de coaptar a la perfección para permitir una adecuada dinámica de flujo.",
+    "La rotura de una cuerda tendinosa provocará una estenosis crítica de la válvula, comprometiendo el flujo anterógrado.",
+    "La válvula se compone de dos velos uno más pequeño, y con menor movilidad, y otro de mayor tamaño, que suele dividirse en 3 secciones conocidas como P1, P2 y P3."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes venas del miembro superior pertenece a la red venosa profunda?:",
+   "o": [
+    "Vena basílica.",
+    "Vena cefálica.",
+    "Vena mediana antebraquial.",
+    "Vena humeral."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente con arritmia cardíaca se somete a la implantación de un marcapasos. Los cables conductores eléctricos del marcapasos deben pasar al corazón desde el marcapasos. ¿Cuál es el orden correcto de los vasos y estructuras cardiacas para pasar los cables hasta alcanzar el ventrículo derecho?:",
+   "o": [
+    "Vena braquiocefálica, vena cava superior, válvula mitral, ventrículo derecho.",
+    "Vena cava superior, aurícula derecha, válvula tricúspide, ventrículo derecho.",
+    "Vena braquiocefálica, vena cava superior, aurícula derecha, válvula tricúspide, ventrículo derecho.",
+    "Vena braquiocefálica, vena cava superior, aurícula derecha, válvula mitral, ventrículo derecho."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Ley de Frank-Starling, el volumen de eyección ventricular aumenta cuando:",
+   "o": [
+    "Se incrementa la poscarga y disminuye la distensibilidad ventricular, facilitando la fracción de eyección.",
+    "Aumenta la precarga, lo que produce mayor estiramiento de las fibras miocárdicas y una contracción más intensa.",
+    "Disminuye el volumen telediastólico, reduciendo la precarga.",
+    "Se activa el sistema simpático sin cambios en el llenado ventricular."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante el llenado de la aurícula, ¿cómo es la presión de ésta, en relación con la de la vena cava?:",
+   "o": [
+    "La aurícula tiene menor presión que la vena cava.",
+    "La aurícula tiene la misma presión que la vena cava (Ley isobárica de Frank-Starling).",
+    "La aurícula tiene mayor presión que la vena cava.",
+    "La aurícula tiene mayor presión que la vena cava cuando el paciente está en decúbito y menor con el paciente en bipedestación o sedestación."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Con respecto a la fisiología cardiaca, señale la respuesta INCORRECTA:",
+   "o": [
+    "El ciclo cardíaco está formado por un periodo de relajación que se denomina diástole, seguido de un periodo de contracción denominado sístole.",
+    "Cuando aumenta la frecuencia cardíaca, la duración de cada ciclo cardíaco disminuye, incluidas las fases de contracción y relajación.",
+    "En la sístole, las aurículas y los ventrículos se contraen, expulsando la sangre hacia la circulación (pulmonar y sistémica), y hacia los ventrículos respectivamente.",
+    "En la diástole, las cavidades cardíacas se relajan y se llenan de sangre."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según la Guía de la Sociedad Española de Cardiología ESC 2024 sobre el manejo de la presión arterial elevada y la hipertensión, todas las siguientes medidas forman parte del tratamiento no farmacológico, EXCEPTO:",
+   "o": [
+    "Aumentar la actividad física mediante ejercicios aeróbicos y de resistencia.",
+    "Reducir al menos un 15%-20% del peso corporal en personas con sobrepeso u obesidad.",
+    "Reducir la ingesta de sodio a menos de 2300 mg/día.",
+    "4. Reducir al menos entre el 5%-10% del peso corporal en personas con sobrepeso u obesidad."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Según la European Society of Cardiology, qué escala se utiliza para calcular el riesgo de morbimortalidad vascular a 10 años en población de entre 40 y 69 años?:",
+   "o": [
+    "Framingham Risk Score.",
+    "SCORE2.",
+    "SCORE2-OP.",
+    "ADVANCE Risk Score."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 5. La imagen mostrada del ventrículo izquierdo (VI), revela un cuadro fisiopatológico de:",
+   "o": [
+    "Estenosis mitral.",
+    "Pericarditis aguda.",
+    "Insuficiencia aórtica.",
+    "Isquemia miocárdica aguda."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2023-2024-5.jpg"
+  },
+  {
+   "q": "La Rehabilitación Cardíaca está indicada en pacientes con cardiopatía isquémica, insuficiencia cardíaca, operados de enfermedad valvular y con corazón trasplantado. Señale la respuesta INCORRECTA sobre este tipo de programas:",
+   "o": [
+    "Los programas de Rehabilitación Cardíaca se suelen estructurar en 3 fases: fase aguda, fase de entrenamiento y fase de mantenimiento.",
+    "La intensidad de los ejercicios físicos en la fase de entrenamiento se prescribe teniendo en cuenta no sólo la frecuencia cardíaca, sino también la intensidad del ejercicio (MET) y el esfuerzo percibido mediante la escala de Borg.",
+    "Para iniciar un programa de rehabilitación cardíaca el paciente debe presentar una capacidad funcional superior a los 8 MET.",
+    "Aunque el ejercicio físico es la parte más importante del programa, este también incluye educación sanitaria en cuanto al control de los factores de riesgo."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las guías de manejo de la hipertensión arterial, se indica la realización de MAPA para identificar a los pacientes dippers y los nondippers. ¿Cuál es el cociente nochedía de referencia para diferenciar entre un grupo y otro de pacientes?: 471 CARDIOLOGÍA",
+   "o": [
+    "Dippers ≥ 20 % y nondippers ≤ 20 %.",
+    "Dippers ≥ 10 % y nondippers ≤ 10 %.",
+    "Dippers ≥ 2 % y nondippers ≤ 2 %.",
+    "Dippers ≥ 1 % y nondippers ≤ 1 %."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Cuál de las siguientes afirmaciones es correcta en relación a la educación de un paciente con insuficiencia cardiaca:",
+   "o": [
+    "Es recomendable que realice ejercicio en condiciones de frío severo con el fin de que el corazón trabaje más relajado.",
+    "Si el paciente es considerado hábil, puede autoajustar sus dosis de diuréticos en función de su balance de líquidos diarios.",
+    "Aunque el estado nutricional es importante, el control de peso no resulta de interés en este tipo de pacientes si presenta un adecuado IMC.",
+    "La necesidad de usar mayor número de almohadas al dormir, constituye un signo de alarma en estos pacientes."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué paciente con enfermedad cardiovascular se considera inicialmente de bajo riesgo, con relación a la posibilidad de mantener relaciones sexuales?:",
+   "o": [
+    "Pacientes con DAI implantado como prevención secundaria para determinar si el ejercicio moderado (3-5 METS) precipita la aparición de taquicardia o fibrilación ventricular.",
+    "Pacientes con insuficiencia cardiaca en estadio NYHA III-IV.",
+    "Pacientes asintomáticos con valvulopatías severas. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 472",
+    "Pacientes que han sufrido un IAM, a partir de la primera semana siempre que no tengan síntomas durante la actividad física moderada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las guías sobre el ejercicio y la práctica deportiva en los pacientes cardiovasculares de la Sociedad Europea de Cardiología, ¿qué recomendación deportiva con evidencia I-A se dará a un paciente hipertenso bien controlado?:",
+   "o": [
+    "Al menos 150 minutos semanales de ejercicio de intensidad moderada, o 75 minutos semanales de intensidad vigorosa, o una combinación equivalente.",
+    "Los deportes de alta intensidad se encuentran desaconsejados en pacientes hipertensos.",
+    "Realizará ejercicios de fuerza, coordinación y equilibrio, al menos 2 días a la semana.",
+    "Realizará ejercicios de resistencia al menos 3 veces por semana, además de ejercicio aeróbico moderado o vigoroso (al menos 30 minutos), de 5 a 7 veces por semana."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Un paciente con insuficiencia cardíaca de 2 años de evolución refiere que le supone un gran esfuerzo ir del garaje a su casa (200 metros de distancia) con las bolsas de la compra, llegando muy disneico y con sudoración profusa. Hace dos semanas podía hacerlo con poco esfuerzo y una ligera sensación de fatiga. Cuando descansa un poco se recupera y no presenta síntomas. Según la Clasificación Funcional de la New York Heart Association (NYHA), ¿cuál ha sido la evolución del paciente?:",
+   "o": [
+    "Ha pasado de un NYHA clase I a un NYHA clase II.",
+    "Ha pasado de un NYHA clase V a un NYHA clase IV.",
+    "Ha pasado de un NYHA clase I a un NYHA clase IV.",
+    "Ha pasado de un NYHA clase II a un NYHA clase III."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes NO es una contraindicación absoluta a la hora de administrar tratamiento fibrinolítico ante un síndrome coronario agudo?:",
+   "o": [
+    "Accidente cerebrovascular isquémico en los últimos 6 meses.",
+    "Reanimación cardiopulmonar traumática.",
+    "Disección aórtica.",
+    "Punciones no compresibles en las últimas 24 horas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones NO daría como enfermera a un paciente con estenosis aórtica?:",
+   "o": [
+    "Tomar nitroglicerina sublingual ante un dolor de tipo anginoso, para que no progrese el dolor.",
+    "Pesarse diariamente e informar de cualquier incremento repentino de peso.",
+    "Planificar su nivel de actividad física y reposo para adoptar un estilo de vida saludable.",
+    "Dormir incorporado en la cama para evitar la aparición de disnea de decúbito."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Durante una cardioversión sincronizada, ¿cuál es la energía recomendada para la primera cardioversión de una taquicardia de complejo ancho en un paciente adulto?:",
+   "o": [
+    "Entre 70 y 90 julios de energía bifásica.",
+    "100 julios de energía bifásica.",
+    "Entre 120 y 150 julios de energía bifásica.",
+    "200 julios de energía bifásica."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de los siguientes es un método para determinar la frecuencia cardiaca de entrenamiento para un paciente con cardiopatía isquémica?:",
+   "o": [
+    "Cálculo ajustado por la frecuencia cardiaca de reserva (Fórmula de Karvonen).",
+    "Cálculo de frecuencia cardiaca máxima según la fórmula clásica.",
+    "La utilización de la escala de esfuerzo intermitente.",
+    "Cálculo del riesgo cardiovascular mediante el test de FINDRISK."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Qué síntomas de alarma deben tener en cuenta los pacientes con Insuficiencia Cardiaca para acudir a la Consulta de Atención Primaria?:",
+   "o": [
+    "Dolor de cabeza y náuseas.",
+    "Vértigo.",
+    "Presión arterial y pulso elevados.",
+    "Disnea, edemas de pies y piernas y aumento de peso 2/3 kg en una semana."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El American College of Cardiology (ACC) y la American Heart Association (AHA) han publicado recientemente la guía para la prevención, detección, evaluación y tratamiento de la hipertensión arterial (HTA) en adultos. El punto más controvertido es el nuevo umbral diagnóstico asignado a la situación de HTA, que en la Guía queda definida como aquella presión arterial igual o superior a:",
+   "o": [
+    "130/80 mmHg.",
+    "140/90 mmHg. 475 CARDIOLOGÍA",
+    "145/85 mmHg.",
+    "140/85 mmHg."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Sobre la insuficiencia cardiaca, es cierto que:",
+   "o": [
+    "La padece un 10-15 % de la población adulta, pero hasta un 50-60 % de las personas mayores de 65 años tienen insuficiencia cardiaca.",
+    "A los pacientes con insuficiencia cardiaca crónica, se les recomienda su inclusión en programas de rehabilitación basada en ejercicio físico.",
+    "Para su valoración, se utilizan tanto la escala de la New York Heart Association (NYHA), que describe los cambios estructurales y síntomas del paciente y la Escala de la American College of Cardiology /American Heart Association (ACC/AHA), que describe la afectación de la actividad física del paciente.",
+    "Sólo 12-18 % de los pacientes tienen 5 o más problemas de salud asociados."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "En el postoperatorio de un recambio valvular aórtico, el paciente presenta como complicación perioperatoria un taponamiento cardiaco. Indique cuál de las siguientes manifestaciones NO se corresponde con dicha situación:",
+   "o": [
+    "Disminución del gasto cardíaco y de la presión arterial.",
+    "Hipertensión arterial y taquicardia.",
+    "Triada de Beck.",
+    "Elevación de las presiones intracardiacas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "La señora S.C.M. con un diagnóstico de aneurisma de aorta abdominal, ingresa en la planta de cirugía vascular donde usted trabaja de enfermera. ¿Qué tipo de dolor nos indica gravedad en esta patología?:",
+   "o": [
+    "Dolor sordo en epigastrio que no se modifica con la postura.",
+    "Dolor a punta de dedo en epigastrio irradiado a hipogastrio.",
+    "Dolor pulsátil desde hipogastrio.",
+    "Dolor lumbar irradiado a flanco e ingle."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El señor F.C.F. ingresa en la planta de cardiología con un diagnóstico de miocardiopatía hipertrófica. Entre las recomendaciones que le haremos a este paciente en relación con su patología, señale la respuesta INCORRECTA:",
+   "o": [
+    "Evitar realizar ejercicio intenso ante el riesgo de muerte súbita.",
+    "Evitar movimientos bruscos y cambios repentinos de posición.",
+    "Realizar la maniobra de Valsava cuando note sensación de mareo.",
+    "Recomendar advertir de su patología antes de cualquier cirugía dental ya que precisará profilaxis antibiótica para prevenir la endocarditis bacteriana."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En cuanto a la estratificación del riesgo cardiovascular según las últimas recomendaciones del Programa de Actividades Preventivas y de Promoción de la Salud (PAPPS), señale la afirmación INCORRECTA:",
+   "o": [
+    "La enfermedad renal crónica (filtrado glomerular menos de 30 ml/ min/ 1,73 m2) supone una estratificación del riesgo cardiovascular muy alto.",
+    "En el cálculo del riesgo cardiovascular con las tablas SCORE, un resultado de 3% indica un riesgo cardiovascular moderado.",
+    "Pertenecer a una clase socioeconómica baja supone un riesgo cardiovascular.",
+    "Cualquier persona con diabetes mellitus ha de ser estratificado con un riesgo cardiovascular muy alto."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Tomando en consideración la imagen 2, señale la opción verdadera:",
+   "o": [
+    "Un cierre inadecuado del tabique interauricular supondría una comunicación de la estructura 1 con la aurícula izquierda.",
+    "Un desgarro o rotura de la estructura 2, supondría una estenosis de la válvula mitral.",
+    "Una obstrucción de la estructura 3, conllevaría una enfermedad del tronco coronario.",
+    "Un trastorno del ritmo resultante en una contracción ineficaz de la estructura 4 supone un elevado riesgo de trombosis."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2025-2026-2.jpg"
+  },
+  {
+   "q": "Mujer de 48 años, triatleta, tras competir el domingo, el martes de la semana siguiente, acude al servicio de urgencias porque dice sentir “el pulso acelerado”. Tras hacerle un ECG, recogido en la imagen 4, detectamos:",
+   "o": [
+    "Fibrilación auricular.",
+    "Extrasístoles auriculares de la unión con las ondas P.",
+    "Flutter auricular con conducción variable.",
+    "Bigeminismo auricular."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En un reconocimiento médico de empresa, F.L.G de 52 años, asintomático y normotenso, tiene un ECG, recogido en la imagen 5, que refleja un:",
+   "o": [
+    "Bloqueo de rama izquierda de Primer Grado.",
+    "Bloqueo de rama derecha de Primer grado.",
+    "Bloqueo de rama izquierda de Segundo Grado.",
+    "Bloqueo de rama derecha de Segundo Grado."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 3. Teniendo en cuenta la imagen, indique el tipo de arritmia que presenta el paciente:",
+   "o": [
+    "Contracción auricular prematura.",
+    "Extrasístole ventricular.",
+    "Bloqueo auriculoventricular de primer grado.",
+    "Fibrilación auricular."
+   ],
+   "a": 0,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2024-2025-3.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 1. En el ECG de la imagen, teniendo en cuenta una velocidad de 25 mm/s y un voltaje de 0,1 mV/ mm, indique la opción correcta:",
+   "o": [
+    "Bradicardia sinusal.",
+    "Ingesta elevada de digoxina.",
+    "Ritmo de la unión auriculoventricular.",
+    "Hiperpotasemia."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2023-2024-1.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 4. ¿Qué denominación recibe la onda señalada con la flecha en el ECG que se muestra y qué revela un patrón de preexcitación ventricular?:",
+   "o": [
+    "Onda P’ (P prima).",
+    "Onda Alfa.",
+    "Onda Delta.",
+    "Onda F."
+   ],
+   "a": 2,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2023-2024-4.jpg"
+  },
+  {
+   "q": "En relación con los fármacos utilizados en el tratamiento de la bradicardia sintomática, señale la respuesta INCORRECTA:",
+   "o": [
+    "La dosis de atropina en el paciente adulto es de 500 microgramos Intravenosa/Intraósea, que se puede repetir cada 3-5 minutos hasta un máximo de 3 miligramos.",
+    "Utilizar glucagón si la causa potencial son los betabloqueantes o los antagonistas del calcio.",
+    "La aminofilina es un fármaco contraindicado en pacientes trasplantados cardiacos, lesionados medulares o con Infarto Agudo de Miocardio inferior.",
+    "La adrenalina e isoprenalina son la segunda línea de tratamiento si la atropina es ineficaz."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 3. Indique el ritmo cardíaco, teniendo en cuenta en el ECG una velocidad de 25mm/s y un voltaje de 0,1mmV/mm:",
+   "o": [
+    "Ritmo sinusal.",
+    "Bloqueo auriculoventricular de segundo grado tipo I.",
+    "Bloqueo auriculoventricular de segundo grado tipo II.",
+    "Bloqueo auriculoventricular completo."
+   ],
+   "a": 1,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2022-2023-3.jpg"
+  },
+  {
+   "q": "Pregunta asociada a la imagen 9. Teniendo en cuenta el ECG de la imagen, con una velocidad de papel de 25 mm/s y un voltaje de 0,1 mV/mm, indique el ritmo cardíaco:",
+   "o": [
+    "Fibrilación auricular.",
+    "Síndrome Wolf Parkinson White.",
+    "Taquicardia supraventricular.",
+    "Flutter auricular."
+   ],
+   "a": 3,
+   "src": "EIR",
+   "img": "img/eir/eir-t20-2021-2022-9.jpg"
+  },
+  {
+   "q": "Una de las complicaciones en el periodo postoperatorio de la cirugía cardiaca son las arritmias. Indique de las siguientes arritmias cuál es la que se produce con más frecuencia:",
+   "o": [
+    "Taquicardia ventricular con pulso.",
+    "Torsade de Pointes.",
+    "Fibrilación auricular.",
+    "Ritmo idioventricular acelerado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Usted trabaja en una planta de cuidados intermedios de cardiología. La señora R.R.G., que está conectada a telemetría, presenta una clínica de mareos y disminución del nivel de conciencia y al mirar el monitor usted observa que le ha bajado la frecuencia cardiaca, que presenta un intervalo PR constante, pero que unas ondas P conducen complejos QRS y otras no. ¿Qué tipo de bloqueo aurículoventricular presenta la paciente?:",
+   "o": [
+    "Bloqueo AV de primer grado.",
+    "Bloqueo AV de segundo grado Tipo I.",
+    "Bloqueo AV de segundo grado Tipo II.",
+    "Bloqueo AV de tercer grado."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "En la planta de cardiología donde usted trabaja ingresa el señor M.G.H. al que esta mañana le han implantado un cardioversordesfibrilador implantable (CDI), en la planificación de cuidados de enfermería que está realizando para este paciente señale la respuesta INCORRECTA:",
+   "o": [
+    "Revisión de la herida en busca de signos de infección.",
+    "Indicación de reposo hasta la retirada de puntos de sutura.",
+    "Valoración de presencia de arritmias y correcto funcionamiento del dispositivo.",
+    "Recomendación a los familiares cercanos de formarse en reanimación cardiopulmonar. 485 CARDIOLOGÍA"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción correcta con relación al diagnóstico de cardiopatías familiares (CF):",
+   "o": [
+    "La mayoría de las CF son de transmisión autosómica recesiva.",
+    "Se debe realizar un genograma de al menos 4 generaciones para su estudio.",
+    "Es recomendable comenzar el estudio clínico de los familiares de pacientes con CF a partir de los 15 años.",
+    "Se debe recoger y almacenar muestras de sangre y/o tejido de los fallecidos de muerte súbita con CF sospechada o confirmada que permitan el estudio genético."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "El Signo de Homans positivo en una paciente con sospecha de Trombosis Venosa Profunda se caracteriza por:",
+   "o": [
+    "Dolor causado a la opresión de los músculos de la pantorrilla contra el plano óseo.",
+    "Espasmo leve que aparece en los músculos de la pantorrilla al flexionar el pie del miembro afectado con la pierna levantada.",
+    "Dolor que se origina en la pantorrilla o en el tendón de Aquiles con la dorsiflexión del pie con la pierna en extensión.",
+    "Aparición de venas centinela en los dos tercios superiores de la pierna afectada. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 486"
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA en relación con la clasificación de La Fontaine:",
+   "o": [
+    "El grado I es asintomático, aunque hay arterioesclerosis, la obliteración arterial no es significativa.",
+    "El grado II es claudicación leve. Siendo IIa claudicación a distancia mayor de 150 metros y IIb la claudicación a distancia inferior a 150 metros.",
+    "En el grado III, el paciente refiere dolor en reposo.",
+    "En el grado IV, aparecen lesiones tisulares localizadas, necrosis y áreas de gangrena."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál es la clínica que se corresponde con el estadio III de la clasificación de La Fontaine?:",
+   "o": [
+    "Dolor en reposo.",
+    "Claudicación leve.",
+    "Claudicación grave.",
+    "Claudicación intermitente invalidante."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique la opción INCORRECTA acerca de la hiperemia reactiva (HR):",
+   "o": [
+    "La HR se produce después de que la perfusión sanguínea tisular se bloquee desde unos segundos hasta 1 hora o más.",
+    "La HR puede aumentar el flujo sanguíneo inmediatamente hasta 7-10 veces con respecto al flujo normal.",
+    "Si el flujo ha estado interrumpido durante 1 hora o más, el aumento de flujo sanguíneo continuará durante horas.",
+    "El incremento de flujo y duración de la HR son proporcionales a la duración de la oclusión."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "img": "img/preguntas/ecg-sinusal.svg",
+   "q": "Tira de ritmo de un paciente asintomático. ¿Qué ritmo muestra?",
+   "o": [
+    "Fibrilación auricular",
+    "Ritmo sinusal a ≈ 75 lpm",
+    "Flutter auricular",
+    "Bloqueo AV de 1.er grado"
+   ],
+   "a": 1,
+   "e": "Cada QRS (estrecho) va precedido de una onda P con PR constante y normal (≈ 0,16 s), RR regular. 4 cuadrados grandes entre R y R → 300/4 = 75 lpm."
+  },
+  {
+   "img": "img/preguntas/ecg-fa.svg",
+   "q": "¿Qué ritmo muestra el trazado?",
+   "o": [
+    "Flutter auricular",
+    "Taquicardia sinusal",
+    "Fibrilación auricular",
+    "Extrasístoles auriculares"
+   ],
+   "a": 2,
+   "e": "Ritmo irregularmente irregular, sin ondas P (línea de base fibrilatoria, ondas f) y QRS estrechos: fibrilación auricular. Riesgo principal: embolia (ictus) → valorar anticoagulación (CHA₂DS₂-VASc)."
+  },
+  {
+   "img": "img/preguntas/ecg-flutter.svg",
+   "q": "La línea de base de este trazado muestra un patrón en «dientes de sierra». Se trata de:",
+   "o": [
+    "Flutter auricular con conducción 4:1",
+    "Fibrilación ventricular",
+    "Fibrilación auricular",
+    "Ritmo idioventricular"
+   ],
+   "a": 0,
+   "e": "Ondas F regulares en dientes de sierra a ≈ 300/min (bien visibles en II, III y aVF). Aquí conduce 1 de cada 4 → ≈ 75 lpm. Con conducción 2:1 la FC típica es ≈ 150 lpm."
+  },
+  {
+   "img": "img/preguntas/ecg-bav3.svg",
+   "q": "Las ondas P van a su ritmo (≈ 90/min) y los QRS, anchos, a otro mucho más lento (≈ 35/min), sin relación entre ellos. Es un:",
+   "o": [
+    "Bloqueo AV de 1.er grado",
+    "Bloqueo AV de 2.º grado Mobitz I",
+    "Bloqueo AV completo (3.er grado)",
+    "Bradicardia sinusal"
+   ],
+   "a": 2,
+   "e": "Disociación auriculoventricular completa: ninguna P conduce y el ventrículo late con un ritmo de escape lento y ancho. Riesgo de síncope (Stokes-Adams) y asistolia: marcapasos (transcutáneo de urgencia)."
+  },
+  {
+   "img": "img/preguntas/ecg-wenckebach.svg",
+   "q": "El PR se alarga progresivamente latido a latido hasta que una onda P no va seguida de QRS, y el ciclo se repite. Corresponde a:",
+   "o": [
+    "BAV de 2.º grado Mobitz I (Wenckebach)",
+    "BAV de 2.º grado Mobitz II",
+    "BAV de 1.er grado",
+    "Extrasístole auricular bloqueada"
+   ],
+   "a": 0,
+   "e": "Wenckebach: alargamiento progresivo del PR hasta una P bloqueada; suele ser benigno (nodal). En el Mobitz II el PR es constante y de repente una P no conduce: más grave (infrahisiano), puede progresar a BAV completo."
+  },
+  {
+   "img": "img/preguntas/ecg-bav1.svg",
+   "q": "Todas las P conducen, pero el intervalo PR mide ≈ 0,34 s de forma constante. Es:",
+   "o": [
+    "Ritmo sinusal normal",
+    "BAV de 1.er grado",
+    "BAV completo",
+    "Síndrome de preexcitación (WPW)"
+   ],
+   "a": 1,
+   "e": "PR > 0,20 s (más de 5 cuadrados pequeños) constante con todas las P conducidas = BAV de 1.er grado. El WPW tiene, al contrario, el PR corto y onda delta."
+  },
+  {
+   "img": "img/preguntas/ecg-bradicardia.svg",
+   "q": "Ritmo regular con P delante de cada QRS a ≈ 42 lpm. Se trata de:",
+   "o": [
+    "Bradicardia sinusal",
+    "BAV completo",
+    "Ritmo idioventricular",
+    "Asistolia"
+   ],
+   "a": 0,
+   "e": "Ritmo sinusal (P-QRS-T normales, PR constante) a menos de 60 lpm. Si hay signos adversos (shock, síncope, isquemia, insuficiencia cardiaca): atropina 0,5 mg IV, repetible hasta 3 mg."
+  },
+  {
+   "img": "img/preguntas/ecg-taquicardia-sinusal.svg",
+   "q": "Paciente febril con este trazado (P delante de cada QRS, ≈ 130 lpm). La actitud adecuada es:",
+   "o": [
+    "Cardioversión eléctrica",
+    "Adenosina en bolo rápido",
+    "Tratar la causa (fiebre, dolor, hipovolemia...)",
+    "Amiodarona IV"
+   ],
+   "a": 2,
+   "e": "La taquicardia sinusal es una respuesta fisiológica: se trata la causa, no el ritmo."
+  },
+  {
+   "img": "img/preguntas/ecg-elevacion-st.svg",
+   "q": "Paciente con dolor torácico opresivo de 40 minutos. En el ECG de 12 derivaciones se observa esta imagen en varias derivaciones contiguas. Sugiere:",
+   "o": [
+    "Pericarditis aguda",
+    "Hiperpotasemia",
+    "Síndrome coronario agudo con elevación del ST (IAMCEST)",
+    "Hipotermia"
+   ],
+   "a": 2,
+   "e": "Elevación del segmento ST (≥ 1 mm en dos derivaciones contiguas de miembros o ≥ 2 mm en precordiales): activar el Código Infarto (reperfusión: ICP primaria en < 120 min del diagnóstico). ECG en < 10 min desde el primer contacto."
+  },
+  {
+   "img": "img/preguntas/ecg-extrasistole.svg",
+   "q": "En un ritmo sinusal aparece un latido adelantado, ancho, sin P previa y seguido de una pausa compensadora. Es una:",
+   "o": [
+    "Extrasístole auricular",
+    "Extrasístole ventricular",
+    "Taquicardia ventricular",
+    "Onda P bloqueada"
+   ],
+   "a": 1,
+   "e": "Extrasístole ventricular: QRS prematuro y ancho (> 0,12 s), sin P, con T de polaridad opuesta y pausa compensadora completa. Valorar iones (K⁺, Mg²⁺) e isquemia."
+  },
+  {
+   "img": "img/preguntas/ecg-torsade.svg",
+   "q": "QRS anchos cuya amplitud aumenta y disminuye como si giraran alrededor de la línea de base. Es una torsade de pointes, cuyo tratamiento farmacológico de elección es:",
+   "o": [
+    "Amiodarona",
+    "Sulfato de magnesio IV",
+    "Digoxina",
+    "Verapamilo"
+   ],
+   "a": 1,
+   "e": "Torsade de pointes: TV polimorfa asociada a QT largo (fármacos, hipopotasemia, hipomagnesemia). Sulfato de magnesio 2 g IV; retirar los fármacos que alargan el QT. Si no hay pulso, desfibrilar."
+  }
+ ]
+}

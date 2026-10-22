@@ -1,0 +1,192 @@
+{
+ "tema": 19,
+ "preguntas": [
+  {
+   "q": "Según el “Protocolo de inserción y mantenimiento de catéteres vasculares. Bacteriemia Zero, 2.ª edición (2021)”, una de las medidas obligatorias para prevenir bacteriemias relacionadas con catéteres venosos centrales (CVC) es:",
+   "o": [
+    "Colocación guiada por ecografía obligatoria en todos los casos.",
+    "Uso de máxima barrera estéril durante la inserción del catéter.",
+    "Cambio programado del catéter cada 5 días, aunque no haya signos de infección.",
+    "Uso sistemático de antibióticos profilácticos en todos los catéteres"
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes es una medida recogida en el protocolo Bacteriemia Zero?:",
+   "o": [
+    "Retirar catéteres venosos innecesarios.",
+    "Administrar profilaxis antibiótica en pacientes portadores de catéter venoso central.",
+    "Pulverizar con alcohol isopropílico las conexiones de los catéteres antes de acceder a ellos.",
+    "Cambio del apósito transparente de la vía cada 96h."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según el protocolo de Bacteriemia Zero, se debe considerar el uso de apósitos impregnados en clorhexidina en todos los casos siguientes EXCEPTO:",
+   "o": [
+    "En el caso de accesos venosos cercanos a traqueotomía.",
+    "Personas con accesos con mayor riesgo de bacteriemia relacionada con catéter.",
+    "Pacientes que han tenido bacteriemia relacionada con catéter en ocasiones anteriores.",
+    "Personas con implantación reciente de prótesis aórticas."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuáles son las medidas a seguir para evitar el síndrome de pinch off en los reservorios venosos?:",
+   "o": [
+    "Implantación del catéter por vía subclavia en posición forzada del miembro superior y control mediante RX.",
+    "Utilizar el acceso yugular para la inserción del catéter y extraer el puerto venoso inmediatamente cuando ya no sea necesario.",
+    "Implantación del catéter entre la primera costilla y la subclavia y observar de cerca al paciente.",
+    "Implantación del catéter venoso central en el tercio medial del espacio costoclavicular."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas opcionales para la prevención de bacteriemia asociada a catéter venoso central recogidas en el protocolo “bacteriemia zero” se encuentra:",
+   "o": [
+    "Higiene corporal diaria del paciente con clorhexidina.",
+    "Preferencia de canalización de vena yugular externa.",
+    "Sustitución de equipos que contengan emulsiones lipídicas cada 96h.",
+    "Retirar todos los catéteres venosos centrales innecesarios."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Según las recomendaciones recogidas en el Protocolo de Prevención de las Neumonías Asocia das con la Ventilación Mecánica, en las UCIs españolas (Neumonía Zero) recogidos por el Ministerio de Sanidad y avaladas por la Socie dad Española de Enfermería Intensiva y Unidades Coronarias (SEEIUC) y la Sociedad Española de Medicina Intensiva, Crítica y Unida des Coronarias, SEMICYUC (actualizado en diciembre de 2021), ¿qué medida tiene mayor nivel de evidencia en la prevención de Neumonía Asociada a Ventilación Mecánica (NAVM):",
+   "o": [
+    "Realización de la higiene bucal del paciente sometido a ventilación mecánica, de forma periódica cada 6 - 8 horas utilizando soluciones de clorhexidina al 0,12 - 0,2%.",
+    "Uso profiláctico de antibióticos intravenosos de forma sistemática a todo paciente sometido a ventilación mecánica.",
+    "Cambios de circuito de los sistemas respiratorios de los equipos de ventilación mecánica periódicamente cada 48 horas como máximo.",
+    "Mantener al paciente en posición supina con una inclinación del cabecero no superior a 15 grados sobre el plano horizontal."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "En la actualización de las recomendaciones del proyecto Neumonía Zero publicada en 2022, ¿cuándo se recomienda controlar la presión del neumotaponamiento, decisión respaldada con una evidencia elevada y grado de recomendación fuerte?:",
+   "o": [
+    "Cada 4 horas.",
+    "Cada 6 horas.",
+    "Cada 8 horas y siempre que se realice un cambio postural.",
+    "De forma continua."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes recomendaciones se ha incluido como obligatoria en la actualización del proyecto Neumonía Zero publicado en 2022?:",
+   "o": [
+    "Utilización de clorhexidina acuosa al 0.5% en la higiene bucal.",
+    "Administración de probióticos por sonda nasogástrica.",
+    "Emplear tubos con sistema de aspiración continuo de secreciones endotraqueales.",
+    "Administrar antibióticos durante las 24 horas siguientes a la intubación de pacientes con disminución de consciencia previo a la intubación."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cómo debemos preparar a un paciente traqueotomizado mediante una cánula fenestrada con balón, en el que nos indican que puede iniciar la fonación?:",
+   "o": [
+    "Balón traqueal hinchado, camisa interna sin fenestrar, abertura exterior cerrada.",
+    "Balón traqueal deshinchado, camisa interna fenestrada, abertura exterior abierta.",
+    "Balón traqueal hinchado, camisa interna fenestrada, abertura exterior abierta.",
+    "Balón traqueal deshinchado, camisa interna fenestrada, abertura exterior cerrada."
+   ],
+   "a": 3,
+   "src": "EIR"
+  },
+  {
+   "q": "Teniendo en cuenta el protocolo ITU Zero, ¿cuál de los siguientes factores tiene mayor relevancia para evitar la colonización bacteriana y reducir la tasa de infecciones del tracto urinario asociadas a catéteres?:",
+   "o": [
+    "Aplicación de povidona yodada en el meato uretral antes de la inserción del catéter.",
+    "Utilización de un sistema de drenaje urinario cerrado y estéril.",
+    "Cambios periódicos del catéter cada 7 días para prevenir biofilms.",
+    "Administración profiláctica de antibióticos durante la inserción del catéter."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Indique cuál de las siguientes medidas se encuentra recogida entre las “no hacer” dentro del protocolo ITU-Zero:",
+   "o": [
+    "Toma de cultivos si se sospecha infección.",
+    "Cambio de sonda urinaria si se sospecha infección.",
+    "Realizar lavados vesicales.",
+    "Fijar la sonda vesical al muslo del paciente."
+   ],
+   "a": 2,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Con qué frecuencia recomienda el proyecto ITU Zero que deben revisarse y actualizarse los protocolos de inserción y mantenimiento de la sonda uretral, con el fin de garantizar la calidad de los cuidados?:",
+   "o": [
+    "Cada 2 años y/o cuando se publique nueva evidencia.",
+    "Cada 3 años y/o cuando se publique nueva evidencia.",
+    "Cada 4 años y/o cuando se publique nueva evidencia.",
+    "Cada 5 años y/o cuando se publique nueva evidencia."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "Señale la respuesta correcta acerca de la colocación de un catéter de derivación urinaria doble J:",
+   "o": [
+    "Es una intervención en la que se realiza una incisión suprapúbica.",
+    "Precisa de Rayos x para su colocación.",
+    "El catéter quedará ubicado un extremo en el uréter contrario al afectado y el otro en la vejiga.",
+    "La colocación supone un deterioro para la calidad de vida del paciente."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "¿Cuál de las siguientes medidas se encuentra recogida en las recomendaciones de “no hacer” del protocolo ITU-ZERO?:",
+   "o": [
+    "Realizar lavados vesicales.",
+    "Mantener siempre el sistema colector cerrado.",
+    "Utilizar técnica estéril de inserción.",
+    "Mantener el flujo de orina libre sin obstáculos en el circuito."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "La deﬁnición de caso a valorar para el diagnóstico de la infección del tracto urinario en el paciente con sonda vesical sería:",
+   "o": [
+    "Pacientes que hayan portado sonda vesical durante más de 2 días y en el momento de presentación de los síntomas la sonda esté todavía presente o se haya retirado el día anterior y no en las 48 horas previas.",
+    "Pacientes que hayan portado sonda vesical durante más de 2 días y en el momento de presentación de los síntomas la sonda se haya retirado las 48 horas previas.",
+    "Pacientes que hayan portado sonda vesical durante más de 3 días y en el momento de presentación de los síntomas la sonda esté todavía presente o se haya retirado el día anterior y no en las 72 horas previas.",
+    "Pacientes que hayan portado sonda vesical durante más de 3 días y en el momento de presentación de los síntomas la sonda esté todavía presente o se haya retirado el día anterior y no en las 48 horas previas."
+   ],
+   "a": 0,
+   "src": "EIR"
+  },
+  {
+   "q": "Entre las medidas recomendadas para prevenir las infecciones del tracto urinario relacionadas con el sondaje vesical permanente, NO se encuentra: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 136",
+   "o": [
+    "Lavado con agua y jabón del meato urinario durante el aseo.",
+    "Lavado diario del meato urinario con antisépticos.",
+    "Lavado de manos del paciente, cuidadores y profesionales sanitarios.",
+    "Cambio de la sonda en caso de infección sintomática que requiera tratamiento antibiótico, con el fin de evitar recidivas."
+   ],
+   "a": 1,
+   "src": "EIR"
+  },
+  {
+   "q": "J.C.L., de 46 años, con lesión medular tras accidente de tráﬁco hace 5 años, precisa realizarse sondajes intermitentes. Acude a consulta de enfermería en el centro de Salud a recoger el material necesario. ¿Qué tipo de catéter podría ser más beneﬁcioso en su caso?:",
+   "o": [
+    "Los catéteres de látex elastomérico recubiertos de hidrogel.",
+    "Los catéteres hidrofóbicos prelubricados.",
+    "Los catéteres de silicona impregnados de antibióticos para reducir el riesgo de infección.",
+    "Los catéteres con materiales hidrofílicos."
+   ],
+   "a": 3,
+   "src": "EIR"
+  }
+ ]
+}
