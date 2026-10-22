@@ -1,0 +1,90 @@
+1|a|La moral es el conjunto práctico de normas, no su reflexión teórica.
+1|b|El derecho son normas jurídicas coercitivas.
+1|d|La deontología son los deberes concretos de una profesión.
+2|b|La prisión es una pena del derecho penal, no deontológica.
+2|c|Las multas judiciales las impone un juez, no el Colegio.
+2|d|No es solo un reproche moral: el Colegio puede sancionar.
+3|a|Tuskegee dio lugar al Informe Belmont.
+3|b|La Declaración de Helsinki es posterior (1964).
+3|c|Helsinki es de la Asociación Médica Mundial; Núremberg salió de un tribunal.
+4|a|Sackett es el padre de la medicina basada en la evidencia.
+4|c|Beauchamp formuló, con Childress, los 4 principios.
+4|d|Diego Gracia es el bioeticista español de los niveles de mínimos y máximos.
+5|a|No maleficencia y justicia son el nivel I (mínimos).
+5|b|La justicia es del nivel I.
+5|d|La no maleficencia es del nivel I.
+6|b|La no maleficencia es evitar daños, no hacer el bien.
+6|c|La justicia trata del reparto de recursos.
+6|d|La autonomía es respetar las decisiones del paciente.
+7|a|No es colectiva: es individual.
+7|b|No se hace de palabra en el momento: es anticipada y por escrito.
+7|c|Decae en la urgencia vital si no hay otro profesional.
+8|a|Una extracción rutinaria solo requiere consentimiento verbal.
+8|c|Un ECG solo requiere consentimiento verbal.
+8|d|Una vacuna IM requiere consentimiento verbal.
+9|a|48 horas es demasiado: son 24.
+9|b|72 horas es el plazo de la detención preventiva, no de esto.
+9|d|7 días es demasiado.
+10|b|En grave riesgo no basta el menor; consiente el representante.
+10|c|El juez solo interviene en conflictos.
+10|d|El médico no presta el consentimiento por el paciente.
+11|a|Desde la LO 1/2023 no hace falta el consentimiento de los padres.
+11|b|Tampoco hace falta informar a los padres.
+11|c|No se requiere autorización judicial.
+12|a|Una sola solicitud verbal no basta: son dos y por escrito.
+12|c|Son dos solicitudes y 15 días, no tres y 7 días.
+12|d|Son 15 días de separación, no 30.
+13|a|6 meses no basta: más de 12.
+13|b|24 meses no es el requisito: basta con más de 12.
+13|d|3 meses no basta.
+14|b|No es solo una sanción administrativa: es delito.
+14|c|De 1 a 4 años con inhabilitación es el 199.2 (revelar), no el mero acceso.
+14|d|No es una multa de un mes.
+15|a|Esa es la pena agravada del 199.2 para el profesional.
+15|b|No es la pena del 199.1.
+15|c|Hay pena de prisión, no solo inhabilitación.
+16|a|La confidencialidad protege la información, no el espacio físico.
+16|c|El secreto compartido es la circulación de información dentro del equipo.
+16|d|La autonomía es la capacidad de decidir.
+17|a|El art. 18 CE protege la intimidad; no obliga a denunciar.
+17|b|El art. 199 CP castiga la revelación de secretos.
+17|d|El art. 9 de la Ley 41/2002 trata los límites del consentimiento.
+18|b|El SMS gestiona y presta los servicios, pero no es la autoridad sanitaria.
+18|c|Las gerencias de área no son la autoridad sanitaria.
+18|d|En el ámbito regional, la autoridad es la Consejería, no el Ministerio.
+19|a|La Ley 14/1986 creó el SNS, no la Agencia de Calidad.
+19|b|La Ley 41/2002 regula la autonomía del paciente.
+19|c|La LOPS regula las profesiones sanitarias.
+20|a|La eficacia se mide en condiciones ideales (ensayo clínico).
+20|c|La eficiencia relaciona el resultado con el coste.
+20|d|La adecuación es usar la intervención en el paciente indicado.
+21|a|Dar lo mismo a todos es igualdad, no equidad.
+21|b|Repartir por coste no es equidad.
+21|d|Atender por orden de llegada no tiene en cuenta la necesidad.
+22|b|Implantar de golpe en todo el hospital es arriesgado; antes se prueba.
+22|c|Hay que recoger datos para poder verificar después.
+22|d|Planificar va antes que hacer.
+23|a|El criterio es la norma cualitativa (todas deben llevar pulsera).
+23|b|El estándar es la meta numérica (por ejemplo, 100%).
+23|c|Un objetivo general es un enunciado de intenciones, no una fórmula.
+24|a|Los 9 criterios son del modelo EFQM anterior (2013).
+24|c|No son 5 criterios.
+24|d|No son 12 estrategias.
+25|a|El criterio 6 recoge percepciones, no indicadores clínicos.
+25|b|El criterio 3 es implicar a los grupos de interés.
+25|d|El criterio 1 es propósito, visión y estrategia.
+26|b|Reactivo tras un evento centinela es el análisis causa raíz.
+26|c|No es una herramienta de evaluación económica.
+26|d|No mide la satisfacción.
+27|a|Las cifras son 9% y más del 42% evitables, no 4% y 10%.
+27|b|20% y 80% exageran las cifras del ENEAS.
+27|c|La evitabilidad fue mucho mayor que el 10%.
+28|a|A 0° aumenta la microaspiración y 50 cmH₂O provoca isquemia traqueal.
+28|c|15° es insuficiente y 40 cmH₂O es excesivo.
+28|d|90° no es lo indicado y 10 cmH₂O produce fugas.
+29|a|La povidona no es el antiséptico de elección y la femoral es la vía de más riesgo.
+29|b|El alcohol solo no es lo recomendado.
+29|d|La povidona no es el antiséptico de elección.
+30|b|Los PREMs miden la experiencia con la atención (trato, esperas), no el dolor.
+30|c|Un indicador de estructura mide recursos.
+30|d|El Net Promoter Score mide si recomendaría el centro.

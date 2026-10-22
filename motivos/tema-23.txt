@@ -1,0 +1,90 @@
+1|a|4 kcal/g aportan los hidratos de carbono y las proteínas.
+1|c|7 kcal/g aporta el alcohol.
+1|d|Los lípidos sí aportan energía (0 kcal son las vitaminas y minerales).
+2|a|10-15% es lo que aportan las proteínas.
+2|b|30-35% es lo que aportan los lípidos.
+2|c|70-80% es excesivo.
+3|a|Positivo es el de quien gana masa (crecimiento, recuperación).
+3|b|Neutro es el del adulto sano en equilibrio.
+3|d|Sí se puede calcular (nitrógeno ingerido menos eliminado).
+4|b|Las vitaminas B son hidrosolubles.
+4|c|La vitamina C y el ácido fólico son hidrosolubles.
+4|d|Todo el complejo B es hidrosoluble.
+5|a|La isoniazida no produce déficit de vitamina C.
+5|b|No produce déficit de vitamina K.
+5|d|No produce déficit de vitamina A.
+6|a|El déficit de tiamina causa beriberi y Wernicke.
+6|b|El déficit de vitamina C causa escorbuto.
+6|c|El déficit de vitamina D causa raquitismo u osteomalacia.
+7|b|No necesita un medio alcalino.
+7|c|No depende de la grasa de la dieta (es hidrosoluble).
+7|d|No depende de la vitamina C.
+8|a|El calcio de la leche reduce la absorción del hierro.
+8|c|Los taninos del té y el café la reducen.
+8|d|El calcio la reduce.
+9|a|La leche y derivados son el grupo 1.
+9|b|Carnes, pescados y huevos son el grupo 2.
+9|c|Cereales y azúcares son el grupo 4.
+10|a|Los hidratos tienen menor efecto termogénico que las proteínas.
+10|b|Las grasas tienen el menor efecto termogénico.
+10|d|El alcohol no es el de mayor efecto termogénico.
+11|b|En lactantes no se usa: hay ecuaciones pediátricas.
+11|c|La altura se introduce en centímetros.
+11|d|Sí tiene fórmulas distintas para hombres y mujeres.
+12|a|6 horas es demasiado poco.
+12|c|Una semana sin suplementar es excesivo.
+12|d|Dos semanas es excesivo.
+13|b|La blanda mecánica solo cambia la textura.
+13|c|La hiperproteica no es la dieta de la úlcera.
+13|d|La rica en fibra no es la indicada.
+14|a|Inclinar la cabeza hacia atrás abre la vía aérea y favorece la aspiración.
+14|b|Tumbado aumenta el riesgo de aspiración.
+14|c|Hablar al tragar abre la vía aérea.
+15|a|Caer en hilo es la textura néctar.
+15|c|Mantener la forma es la textura pudin.
+15|d|La consistencia del agua es líquido sin espesar.
+16|a|La hiperproteica empeora el amoniaco o la urea.
+16|b|La fibra no es el criterio principal.
+16|d|Hacen falta calorías suficientes, pero con restricción proteica.
+17|a|Las verduras crudas aumentan el residuo.
+17|b|Los integrales aumentan el residuo.
+17|c|La lactosa empeora la diarrea.
+18|b|5 g no es una ración.
+18|c|20 g serían dos raciones.
+18|d|50 g serían cinco raciones.
+19|a|Arroz, maíz y quinoa no tienen gluten.
+19|b|No es solo el trigo: también cebada, centeno y avena.
+19|d|Las legumbres no tienen gluten.
+20|a|Sobrepeso es de 25 a 29,9.
+20|c|Obesidad grado II es de 35 a 39,9.
+20|d|Obesidad mórbida es 40 o más.
+21|a|La albúmina tarda unos 20 días en reflejar cambios.
+21|b|El colesterol no es un buen marcador de respuesta nutricional.
+21|d|La hemoglobina no refleja el soporte nutricional a corto plazo.
+22|a|En la comunidad se usa el MUST.
+22|b|No se limita a mayores de 80 años.
+22|c|Sí tiene en cuenta la gravedad de la enfermedad.
+23|b|Peso, talla e IMC no forman el CONUT.
+23|c|Prealbúmina, transferrina y triglicéridos no son sus parámetros.
+23|d|Hemoglobina, ferritina y glucosa no son sus parámetros.
+24|a|Delgadez extrema con albúmina conservada es el marasmo.
+24|c|No cursa con obesidad abdominal.
+24|d|No cursa con hipercalcemia.
+25|a|Lo típico es la hipopotasemia, no la hiperpotasemia.
+25|b|No cursa con hipercalcemia.
+25|c|No es la hipernatremia lo característico.
+26|b|Se da antes, no mezclada en la bolsa.
+26|c|Se da de forma preventiva, sin esperar a los síntomas.
+26|d|A los 7 días ya es tarde.
+27|a|La hipoglucemia no es la complicación de corregir el sodio deprisa.
+27|b|No provoca una insuficiencia renal inmediata.
+27|d|No es una hipertensión benigna: el edema cerebral es grave.
+28|a|Eso describe la anorexia restrictiva.
+28|c|El peso muy bajo es más propio de la anorexia.
+28|d|La bulimia sí tiene conductas purgativas.
+29|b|El precoz aparece a los 10-30 minutos.
+29|c|La fuga anastomótica no cursa así a las 2 horas de comer dulce.
+29|d|No es una deshidratación.
+30|a|Por vía periférica solo van las soluciones de baja osmolaridad.
+30|b|No se administran bolos por su luz: es exclusiva.
+30|c|La más frecuente es la hiperglucemia, no la hipoglucemia.

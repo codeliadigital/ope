@@ -1,0 +1,90 @@
+1|a|Los equipos de AP hacen atención domiciliaria crónica, no hospitalización a domicilio.
+1|c|No depende de los servicios sociales.
+1|d|No depende de las mutuas.
+2|a|La subsidiariedad es otro principio, no el de la HAD.
+2|b|La continuidad asistencial es la coordinación entre niveles, no el nivel de cuidados.
+2|c|La proximidad no define el nivel hospitalario de los cuidados.
+3|b|24-72 horas es demasiado corto para un episodio de HAD.
+3|c|1-3 meses es demasiado largo: eso sería atención crónica.
+3|d|No es indefinida: es limitada en el tiempo.
+4|a|No es solo de evitación del ingreso.
+4|b|No es solo de alta precoz.
+4|d|No es exclusivamente paliativa.
+5|a|3-5 pacientes es una carga muy baja.
+5|b|20-25 pacientes y 12-14 visitas es excesivo.
+5|d|30 pacientes es excesivo.
+6|b|La nutrición parenteral es menos frecuente.
+6|c|La transfusión es una actividad poco frecuente.
+6|d|La VAC es una técnica menos frecuente.
+7|a|La EPOC reagudizada estable sí es candidata.
+7|b|Vivir en zona rural dentro de la cobertura no excluye.
+7|c|La antibioterapia IV es precisamente su actividad más frecuente.
+8|a|Tener cuidador no basta sin un diagnóstico definido.
+8|c|El modelo de alta precoz no cambia la falta de diagnóstico.
+8|d|La telemonitorización no sustituye las pruebas que necesita.
+9|b|La información escrita no comprueba la comprensión.
+9|c|Que la enfermera repita no comprueba lo que ha entendido el paciente.
+9|d|Grabar un vídeo no es teach-back.
+10|a|Las preguntas van después de identificarse.
+10|b|Las recomendaciones van al final.
+10|d|El registro es el último paso.
+11|a|La videoconsulta en tiempo real es sincrónica.
+11|c|La llamada telefónica es sincrónica.
+11|d|La visita presencial no es telemedicina.
+12|a|Una SatO₂ del 96% estable no indica retención.
+12|b|Perder peso no indica retención de líquidos.
+12|c|70 lpm es una frecuencia normal.
+13|a|La estancia media es un indicador de proceso.
+13|b|La ratio de pacientes es de estructura.
+13|c|El número de visitas es de actividad (proceso).
+14|a|0 °C no es ausencia de temperatura: no hay cero absoluto.
+14|c|Es numérica, no ordinal.
+14|d|Es numérica, no nominal.
+15|a|Las categorías no son números contables.
+15|b|Hay un orden, así que no es nominal.
+15|d|No es cuantitativa continua.
+16|b|Coger los 200 primeros no es aleatorio.
+16|c|Eso es muestreo estratificado.
+16|d|Eso es muestreo por conglomerados.
+17|a|La simple asigna el mismo número a cada estrato.
+17|c|La proporcional solo tiene en cuenta el tamaño.
+17|d|Por conglomerados es otro tipo de muestreo, no una afijación.
+18|b|No es probabilístico ni el más representativo.
+18|c|No necesita listado: precisamente se usa cuando no lo hay.
+18|d|No es por conglomerados.
+19|a|Más muestra no elimina los sesgos.
+19|b|El efecto Hawthorne es un sesgo: no se corrige con más muestra.
+19|c|El error aleatorio disminuye al aumentar la muestra, no aumenta.
+20|a|Las expectativas del investigador son el efecto Rosenthal o Pigmalión.
+20|b|Eso es el sesgo de Neyman (prevalencia-incidencia).
+20|d|Eso es el sesgo de memoria.
+21|a|Estar asociado a la exposición sí es requisito del confusor.
+21|b|Ser factor de riesgo del desenlace sí es requisito.
+21|d|Poder controlarse con la aleatorización no impide que sea confusor.
+22|a|Si el IC incluye el 1 no es significativo.
+22|b|1,12 no es protector, y además no es significativo.
+22|c|Sin significación no se puede afirmar relevancia.
+23|b|La mediana y el rango intercuartílico se usan en distribuciones no normales.
+23|c|La moda y el rango no definen la normal.
+23|d|El valor p y el IC son de la inferencia, no parámetros de la distribución.
+24|a|La sensibilidad y la especificidad no cambian con la prevalencia.
+24|c|Es al revés: el VPP sube y el VPN baja.
+24|d|Sí varían los valores predictivos.
+25|b|El modelo de efectos fijos es para heterogeneidad baja.
+25|c|Sí se puede combinar, con efectos aleatorios.
+25|d|Jadad valora la calidad de los ensayos, no la heterogeneidad.
+26|a|No son 12 ítems.
+26|b|No son 22 ítems.
+26|c|No son 25 ítems.
+27|a|Jadad no es para estudios cualitativos.
+27|c|La puntuación máxima es 5, no 10.
+27|d|No valora el tamaño muestral.
+28|a|La asimetría no indica ausencia de heterogeneidad.
+28|b|El funnel plot no indica si el efecto es significativo.
+28|d|No valida el modelo de efectos fijos.
+29|b|No basta el consentimiento verbal: debe ser escrito.
+29|c|No vale el consentimiento tácito.
+29|d|El CEI aprueba el proyecto, pero el consentimiento lo da el participante.
+30|a|Es al contrario: deben separarse los roles de investigador y asistencial.
+30|b|Los datos deben estar seudonimizados, no identificados.
+30|c|No basta la autorización verbal de un jefe.

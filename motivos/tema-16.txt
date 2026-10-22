@@ -1,0 +1,90 @@
+1|a|Alma-Ata (1978) definió la Atención Primaria, no la promoción de la salud.
+1|c|Lalonde describió los determinantes de la salud.
+1|d|La Ley 33/2011 es posterior y no es el origen de esta definición.
+2|a|Elaborar políticas públicas saludables sí es un área de Ottawa.
+2|b|Reorientar los servicios sanitarios sí es un área.
+2|d|Reforzar la acción comunitaria sí es un área.
+3|a|Vacunar es prevención primaria.
+3|b|La mamografía de cribado es prevención secundaria.
+3|c|La rehabilitación cardiaca es prevención terciaria.
+4|b|La primaria evita que aparezca la enfermedad.
+4|c|La secundaria sería detectar la diabetes en personas sanas.
+4|d|La cuaternaria evita la iatrogenia.
+5|b|No evita que aparezca la enfermedad: la detecta.
+5|c|La terciaria actúa sobre la enfermedad ya diagnosticada.
+5|d|La cuaternaria evita la sobremedicalización.
+6|a|No es una ley.
+6|b|No es un decreto del SMS.
+6|d|No es del Ministerio: es de la semFYC.
+7|a|La prevención de drogas es otra estrategia.
+7|c|La cronicidad tiene su propia estrategia.
+7|d|La salud mental tiene su propia estrategia.
+8|a|Que sea un problema de salud importante sí es un criterio.
+8|b|La fase latente reconocible sí es un criterio.
+8|c|Que el tratamiento precoz sea más eficaz sí es un criterio.
+9|a|Identificar a los sanos es la especificidad.
+9|b|Esa es la definición del valor predictivo negativo.
+9|d|Ese es el valor predictivo positivo.
+10|a|Norton no incluye la fricción ni el cizallamiento.
+10|b|Downton valora el riesgo de caídas.
+10|c|Tinetti valora la marcha y el equilibrio.
+11|b|El riesgo de caídas se valora con Downton.
+11|c|El consumo de alcohol se valora con el AUDIT.
+11|d|La depresión geriátrica se valora con Yesavage.
+12|a|Un diagnóstico de riesgo no lleva «manifestado por».
+12|c|Le falta el «relacionado con» y lleva un «m/p» que no procede.
+12|d|No es un diagnóstico bien formulado: se repite el problema.
+13|a|Aún no hay úlcera: el diagnóstico es de riesgo.
+13|c|Norton no valora las caídas.
+13|d|Norton valora el riesgo de UPP, no la movilidad como diagnóstico principal.
+14|b|Las infecciones ya no son la primera causa en los países desarrollados.
+14|c|El cáncer infantil es importante, pero va por detrás de los accidentes.
+14|d|Las malformaciones pesan sobre todo en el primer año.
+15|a|Introducir pronto los cereales no protege frente a la obesidad.
+15|b|La lactancia artificial no protege.
+15|d|La vitamina D no es el factor protector principal.
+16|a|Dormir menos no protege: favorece la obesidad.
+16|b|Sí hay relación entre sueño y peso.
+16|c|No influye solo en los adolescentes.
+17|a|3 meses es demasiado poco.
+17|b|4 meses es demasiado poco.
+17|c|El año completo es para la lactancia complementada, no exclusiva.
+18|a|La cocaína es menos consumida que el cannabis.
+18|c|El éxtasis es menos consumido.
+18|d|Los hipnosedantes no son la droga ilegal más consumida.
+19|b|El consumo diario de pequeñas cantidades no es un atracón.
+19|c|No tiene nada que ver con la abstinencia.
+19|d|No se refiere a las bebidas energéticas.
+20|a|Prohibir de forma directiva genera rechazo.
+20|b|Romper la confidencialidad de entrada daña la relación.
+20|d|Juzgar no ayuda al cambio.
+21|a|30 minutos semanales es muy poco.
+21|b|60 minutos de vigorosa no alcanza los 75.
+21|d|300 minutos diarios no es la recomendación.
+22|b|El IMC no distingue la grasa visceral.
+22|c|El peso aislado no indica obesidad central.
+22|d|La talla no indica obesidad.
+23|a|SCORE es europeo y estima la mortalidad, no adapta Framingham a España.
+23|b|El AUDIT es un cuestionario sobre el alcohol.
+23|c|Downton es para el riesgo de caídas.
+24|a|La depresión se criba con otras escalas (Yesavage, HAD).
+24|c|El deterioro cognitivo se criba con Pfeiffer o MEC.
+24|d|El riesgo de caídas se valora con Downton.
+25|b|No se hace colonoscopia anual desde los 40.
+25|c|El tacto rectal no es el método de cribado.
+25|d|Los marcadores tumorales no sirven para el cribado.
+26|a|No es poco frecuente: es muy frecuente en varones.
+26|b|Sí hay tratamientos eficaces.
+26|d|Sí existe una prueba (el PSA).
+27|a|Vivir en zona rural no es el mejor predictor.
+27|b|Las mujeres caen más, no los varones.
+27|c|La dieta pobre en calcio no predice la caída (aunque influye en la fractura).
+28|a|2 fármacos es demasiado bajo.
+28|c|8 no es el punto de corte habitual.
+28|d|10 no es el punto de corte habitual.
+29|b|Los fármacos no son la primera medida.
+29|c|La contención mecánica es el último recurso.
+29|d|Las benzodiacepinas pueden empeorar el delirium.
+30|a|Yesavage mide la depresión.
+30|b|Pfeiffer mide el deterioro cognitivo.
+30|c|Tinetti mide la marcha y el equilibrio.

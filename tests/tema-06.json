@@ -7,181 +7,211 @@
       "q": "La Ley de ordenación de las profesiones sanitarias es la Ley 44/2003, de:",
       "o": ["16 de diciembre", "28 de mayo", "21 de noviembre", "14 de noviembre"],
       "a": 2,
-      "e": "LOPS: Ley 44/2003, de 21 de noviembre. La Ley 16/2003 es de 28 de mayo, la 55/2003 de 16 de diciembre y la 41/2002 de 14 de noviembre."
+      "e": "LOPS: Ley 44/2003, de 21 de noviembre. La Ley 16/2003 es de 28 de mayo, la 55/2003 de 16 de diciembre y la 41/2002 de 14 de noviembre.",
+      "por": ["16 de diciembre es la fecha de la Ley 55/2003 (Estatuto Marco).", "28 de mayo es la fecha de la Ley 16/2003 (cohesión y calidad).", null, "14 de noviembre es la fecha de la Ley 41/2002 (autonomía del paciente)."]
     },
     {
       "q": "El ámbito de aplicación de la LOPS comprende:",
       "o": ["A todos los profesionales sanitarios, ejerzan en el sector público o en el privado", "Solo a los profesionales del Sistema Nacional de Salud", "Solo al personal estatutario de los servicios de salud", "Solo a los profesionales colegiados"],
       "a": 0,
-      "e": "La LOPS tiene vocación de universalidad: obliga a todos los profesionales sanitarios, con independencia de que trabajen en la sanidad pública o privada."
+      "e": "La LOPS tiene vocación de universalidad: obliga a todos los profesionales sanitarios, con independencia de que trabajen en la sanidad pública o privada.",
+      "por": [null, "No se limita al SNS: también rige en la sanidad privada.", "No es solo para el personal estatutario.", "Se aplica a todos los profesionales sanitarios, no solo a los colegiados."]
     },
     {
       "q": "¿Cuál de las siguientes es una profesión sanitaria de nivel licenciado según el art. 2 de la LOPS?",
       "o": ["Enfermería", "Fisioterapia", "Podología", "Veterinaria"],
       "a": 3,
-      "e": "Nivel licenciado: Medicina, Farmacia, Odontología y Veterinaria. Enfermería, Fisioterapia y Podología son de nivel diplomado/grado."
+      "e": "Nivel licenciado: Medicina, Farmacia, Odontología y Veterinaria. Enfermería, Fisioterapia y Podología son de nivel diplomado/grado.",
+      "por": ["Enfermería es una profesión de nivel diplomado/grado.", "Fisioterapia es de nivel diplomado/grado.", "Podología es de nivel diplomado/grado.", null]
     },
     {
       "q": "El Técnico Superior en Higiene Bucodental se regula en la LOPS como:",
       "o": ["Profesión sanitaria titulada de nivel licenciado (art. 2)", "Profesional del área sanitaria de formación profesional (art. 3)", "Profesión sanitaria de nivel diplomado (art. 2)", "Personal no sanitario"],
       "a": 1,
-      "e": "Los técnicos superiores y de grado medio (TCAE) se incluyen en el art. 3; no son titulados universitarios."
+      "e": "Los técnicos superiores y de grado medio (TCAE) se incluyen en el art. 3; no son titulados universitarios.",
+      "por": ["No es una profesión de nivel licenciado: es formación profesional.", null, "No es de nivel diplomado: no es titulación universitaria.", "Sí es personal sanitario, regulado en el art. 3."]
     },
     {
       "q": "Según el art. 7.2.a de la LOPS, corresponde a los enfermeros:",
       "o": ["La ejecución de los cuidados bajo la indicación del médico", "La prescripción de los tratamientos farmacológicos", "La dirección, evaluación y prestación de los cuidados de enfermería", "La prestación de cuidados mediante agentes físicos"],
       "a": 2,
-      "e": "La LOPS atribuye a Enfermería la dirección, evaluación y prestación de los cuidados, con autonomía técnica y funcional. Los agentes físicos son de Fisioterapia."
+      "e": "La LOPS atribuye a Enfermería la dirección, evaluación y prestación de los cuidados, con autonomía técnica y funcional. Los agentes físicos son de Fisioterapia.",
+      "por": ["La LOPS reconoce la autonomía técnica de la enfermera; no ejecuta solo bajo indicación médica.", "Prescribir tratamientos farmacológicos es función médica (la enfermera indica, usa y autoriza dentro de su regulación).", null, "Los agentes físicos son propios de la Fisioterapia."]
     },
     {
       "q": "¿Cuál de los siguientes NO es un requisito para el ejercicio de una profesión sanitaria según el art. 4 de la LOPS?",
       "o": ["Estar en posesión del título oficial habilitante", "No estar inhabilitado ni suspendido", "Estar colegiado cuando una ley estatal lo establezca", "Acreditar dos años de experiencia previa"],
       "a": 3,
-      "e": "Los requisitos son el título oficial, no estar inhabilitado y la colegiación cuando lo exija una ley estatal. No se exige experiencia previa."
+      "e": "Los requisitos son el título oficial, no estar inhabilitado y la colegiación cuando lo exija una ley estatal. No se exige experiencia previa.",
+      "por": ["El título oficial sí es requisito.", "No estar inhabilitado sí es requisito.", "La colegiación, cuando la exija una ley estatal, sí es requisito.", null]
     },
     {
       "q": "Los Colegios Profesionales tienen la naturaleza jurídica de:",
       "o": ["Asociaciones privadas de libre adscripción", "Organismos autónomos del Ministerio de Sanidad", "Organizaciones sindicales", "Corporaciones de Derecho Público"],
       "a": 3,
-      "e": "Son corporaciones de Derecho Público con funciones delegadas: control deontológico y de la buena praxis. Sus sanciones firmes impiden ejercer en cualquier ámbito."
+      "e": "Son corporaciones de Derecho Público con funciones delegadas: control deontológico y de la buena praxis. Sus sanciones firmes impiden ejercer en cualquier ámbito.",
+      "por": ["No son asociaciones privadas de libre adscripción.", "No son organismos del Ministerio.", "No son sindicatos.", null]
     },
     {
       "q": "Según el art. 13 de la LOPS, el número de plazas de acceso a los estudios sanitarios (numerus clausus):",
       "o": ["Se fija atendiendo a las necesidades del SNS y a la capacidad docente de los centros", "Lo decide libremente cada universidad según su demanda", "Lo fija cada hospital universitario", "Lo aprueba el Consejo General de Enfermería"],
       "a": 0,
-      "e": "Lo planifican los Ministerios de Sanidad y Educación, oído el Foro Profesional, según las necesidades del país y la capacidad de los centros para las prácticas."
+      "e": "Lo planifican los Ministerios de Sanidad y Educación, oído el Foro Profesional, según las necesidades del país y la capacidad de los centros para las prácticas.",
+      "por": [null, "No lo decide libremente cada universidad.", "No lo fijan los hospitales.", "No lo aprueba el Consejo General de Enfermería."]
     },
     {
       "q": "La figura en la que un mismo profesional ocupa, con un nombramiento único, una plaza asistencial en el servicio de salud y otra docente como profesor titular de universidad es:",
       "o": ["El profesor asociado de Ciencias de la Salud", "La plaza vinculada", "El tutor de residentes", "El colaborador docente"],
       "a": 1,
-      "e": "Las plazas vinculadas (art. 14) unen de forma indisoluble la función asistencial y la docente universitaria. El profesor asociado mantiene su plaza y tiene un contrato temporal con la universidad."
+      "e": "Las plazas vinculadas (art. 14) unen de forma indisoluble la función asistencial y la docente universitaria. El profesor asociado mantiene su plaza y tiene un contrato temporal con la universidad.",
+      "por": ["El profesor asociado mantiene su plaza asistencial y tiene un contrato temporal aparte con la universidad.", null, "El tutor de residentes forma especialistas, no ocupa una plaza universitaria.", "El colaborador docente supervisa prácticas sin contrato con la universidad."]
     },
     {
       "q": "La relación laboral especial de residencia para la formación de especialistas en Ciencias de la Salud se regula en el:",
       "o": ["RD 183/2008", "RD 450/2005", "RD 1146/2006", "RD 69/2015"],
       "a": 2,
-      "e": "RD 1146/2006: contrato de residencia. El RD 183/2008 regula las unidades docentes y comisiones, y el RD 450/2005 las especialidades de enfermería."
+      "e": "RD 1146/2006: contrato de residencia. El RD 183/2008 regula las unidades docentes y comisiones, y el RD 450/2005 las especialidades de enfermería.",
+      "por": ["El RD 183/2008 regula las unidades docentes, las comisiones y la evaluación.", "El RD 450/2005 regula las especialidades de enfermería.", null, "El RD 69/2015 regula el registro RAE-CMBD."]
     },
     {
       "q": "Durante el primer año de residencia, la supervisión del residente es:",
       "o": ["Directa y presencial", "De respaldo, a demanda del residente", "Inexistente en las guardias", "Solo documental, a través del Libro del Residente"],
       "a": 0,
-      "e": "La supervisión es decreciente: directa y presencial al inicio, después de proximidad y finalmente de respaldo."
+      "e": "La supervisión es decreciente: directa y presencial al inicio, después de proximidad y finalmente de respaldo.",
+      "por": [null, "La supervisión de respaldo es la de los últimos años, no la del primero.", "En las guardias del primer año también hay supervisión presencial.", "La supervisión no es solo documental."]
     },
     {
       "q": "El título oficial de especialista en Ciencias de la Salud lo expide:",
       "o": ["La Comunidad Autónoma donde se ha realizado la residencia", "El Ministerio de Sanidad", "La universidad de adscripción de la unidad docente", "La Comisión de Docencia del centro"],
       "a": 1,
-      "e": "La competencia para expedir el título de especialista corresponde al Ministerio de Sanidad, en nombre del Rey."
+      "e": "La competencia para expedir el título de especialista corresponde al Ministerio de Sanidad, en nombre del Rey.",
+      "por": ["La Comunidad Autónoma no expide el título de especialista.", null, "La universidad expide el grado, no el título de especialista.", "La Comisión de Docencia evalúa, pero no expide títulos."]
     },
     {
       "q": "¿Qué especialidad de enfermería del RD 450/2005 está pendiente de desarrollo y nunca se ha ofertado en el EIR?",
       "o": ["Enfermería Geriátrica", "Enfermería del Trabajo", "Enfermería de Salud Mental", "Enfermería de Cuidados Médico-Quirúrgicos"],
       "a": 3,
-      "e": "Cuidados Médico-Quirúrgicos figura en la norma, pero no se ha desarrollado. Las otras seis están plenamente desarrolladas."
+      "e": "Cuidados Médico-Quirúrgicos figura en la norma, pero no se ha desarrollado. Las otras seis están plenamente desarrolladas.",
+      "por": ["Geriátrica está desarrollada y se oferta en el EIR.", "Enfermería del Trabajo está desarrollada y se oferta.", "Salud Mental está desarrollada y se oferta.", null]
     },
     {
       "q": "La formación de las especialidades de enfermería por el sistema de residencia tiene una duración de:",
       "o": ["1 año", "3 años", "2 años", "4 años"],
       "a": 2,
-      "e": "Todas las especialidades EIR tienen una residencia de 2 años a tiempo completo en una unidad docente acreditada."
+      "e": "Todas las especialidades EIR tienen una residencia de 2 años a tiempo completo en una unidad docente acreditada.",
+      "por": ["1 año es demasiado poco: son 2.", "3 años no es la duración de las especialidades de enfermería.", null, "4 años no es la duración de las especialidades de enfermería."]
     },
     {
       "q": "Para acceder a una segunda especialidad, el art. 23 de la LOPS exige acreditar en la primera un ejercicio profesional mínimo de:",
       "o": ["3 años", "5 años", "8 años", "10 años"],
       "a": 1,
-      "e": "5 años de ejercicio en la especialidad que se posee. Para optar a una tercera deben transcurrir 8 años desde la segunda."
+      "e": "5 años de ejercicio en la especialidad que se posee. Para optar a una tercera deben transcurrir 8 años desde la segunda.",
+      "por": ["3 años no bastan: se exigen 5.", null, "8 años es el plazo para optar a una tercera especialidad.", "10 años no es el plazo exigido."]
     },
     {
       "q": "Superar la formación en un Área de Capacitación Específica (ACE) da derecho a:",
       "o": ["Un diploma de área de capacitación específica, no un nuevo título de especialista", "Un nuevo título de especialista", "Un máster universitario oficial", "El acceso directo a la carrera profesional"],
       "a": 0,
-      "e": "Las ACE suponen una ultraespecialización sobre una especialidad base y otorgan un diploma, no un título nuevo."
+      "e": "Las ACE suponen una ultraespecialización sobre una especialidad base y otorgan un diploma, no un título nuevo.",
+      "por": [null, "No es un nuevo título de especialista.", "No es un máster universitario.", "No da acceso directo a la carrera profesional."]
     },
     {
       "q": "La Comisión de Docencia de un centro está presidida por:",
       "o": ["El Director Gerente", "La Dirección de Enfermería", "El tutor de mayor antigüedad", "El Jefe de Estudios"],
       "a": 3,
-      "e": "La preside el Jefe de Estudios, con voto de calidad. La integran vocales tutores, vocales residentes y un secretario sin voto."
+      "e": "La preside el Jefe de Estudios, con voto de calidad. La integran vocales tutores, vocales residentes y un secretario sin voto.",
+      "por": ["El Gerente no preside la Comisión de Docencia.", "La Dirección de Enfermería no la preside.", "La antigüedad como tutor no da la presidencia.", null]
     },
     {
       "q": "Los vocales que representan a los residentes en la Comisión de Docencia se eligen:",
       "o": ["Por designación del Jefe de Estudios", "Por sorteo entre los residentes de último año", "Por voto directo y secreto de los propios residentes", "Por la Dirección del centro"],
       "a": 2,
-      "e": "Su elección es democrática, por voto directo y secreto entre los residentes."
+      "e": "Su elección es democrática, por voto directo y secreto entre los residentes.",
+      "por": ["No los designa el Jefe de Estudios.", "No es por sorteo.", null, "No los nombra la Dirección del centro."]
     },
     {
       "q": "El programa formativo oficial de cada especialidad lo elabora:",
       "o": ["La Comisión de Docencia de cada hospital", "La Comisión Nacional de la Especialidad", "El Consejo Interterritorial", "El Foro Profesional"],
       "a": 1,
-      "e": "Las Comisiones Nacionales de Especialidad (art. 28) elaboran los programas y criterios de evaluación; cada centro los aplica."
+      "e": "Las Comisiones Nacionales de Especialidad (art. 28) elaboran los programas y criterios de evaluación; cada centro los aplica.",
+      "por": ["La Comisión de Docencia aplica el programa, no lo elabora.", null, "El Consejo Interterritorial no elabora los programas formativos.", "El Foro Profesional no elabora los programas."]
     },
     {
       "q": "El Consejo Nacional de Especialidades en Ciencias de la Salud está integrado por:",
       "o": ["Los presidentes de las Comisiones Nacionales de cada especialidad", "Los jefes de estudios de todos los hospitales", "Los consejeros de sanidad de las CC. AA.", "Los presidentes de los colegios profesionales"],
       "a": 0,
-      "e": "El Consejo Nacional (art. 30) reúne a los presidentes de las Comisiones Nacionales y asesora a los Ministerios en política de formación especializada."
+      "e": "El Consejo Nacional (art. 30) reúne a los presidentes de las Comisiones Nacionales y asesora a los Ministerios en política de formación especializada.",
+      "por": [null, "Los jefes de estudios forman las comisiones de docencia de cada centro.", "Los consejeros autonómicos forman el CISNS.", "Los presidentes de los colegios no lo integran."]
     },
     {
       "q": "Los créditos de formación continuada acreditados por la Comisión de Formación Continuada del SNS:",
       "o": ["Solo son válidos en la Comunidad Autónoma que los acredita", "Solo puntúan en la carrera profesional", "Solo tienen validez si se posee un Diploma de Acreditación", "Tienen validez en todo el Sistema Nacional de Salud"],
       "a": 3,
-      "e": "Los criterios son comunes y los créditos CFC son válidos y baremables en todo el SNS, lo que facilita la movilidad."
+      "e": "Los criterios son comunes y los créditos CFC son válidos y baremables en todo el SNS, lo que facilita la movilidad.",
+      "por": ["No se limitan a la Comunidad que acredita: valen en todo el SNS.", "No solo puntúan en carrera profesional; valen para todo el SNS.", "No dependen de tener un Diploma de Acreditación.", null]
     },
     {
       "q": "Según el manual, los Diplomas de Acreditación (DA) y de Acreditación Avanzada (DAA) tienen una vigencia de:",
       "o": ["Carácter indefinido", "2 años", "5 años", "10 años"],
       "a": 2,
-      "e": "Certifican competencias en áreas funcionales transversales (dolor, paliativos, trasplantes) y deben renovarse; no son vitalicios."
+      "e": "Certifican competencias en áreas funcionales transversales (dolor, paliativos, trasplantes) y deben renovarse; no son vitalicios.",
+      "por": ["No son indefinidos: hay que renovarlos.", "2 años es demasiado corto.", null, "10 años no es su vigencia."]
     },
     {
       "q": "La carrera profesional regulada en el Título III de la LOPS se caracteriza por ser:",
       "o": ["Un reconocimiento horizontal del progreso del profesional sin necesidad de cambiar de puesto", "Un ascenso vertical a puestos de gestión", "Exclusiva del personal facultativo", "Un sistema de méritos solo para concursos de traslado"],
       "a": 0,
-      "e": "Reconoce de forma pública e individual los conocimientos, la experiencia y el cumplimiento de objetivos, permitiendo progresar sin abandonar la asistencia."
+      "e": "Reconoce de forma pública e individual los conocimientos, la experiencia y el cumplimiento de objetivos, permitiendo progresar sin abandonar la asistencia.",
+      "por": [null, "No es un ascenso a puestos de gestión.", "No es exclusiva de los facultativos: incluye a enfermería.", "No es solo un baremo para traslados."]
     },
     {
       "q": "Según el art. 38 de la LOPS, respecto a los grados de carrera profesional, las Comunidades Autónomas:",
       "o": ["Pueden no reconocer los de otras comunidades", "Deben establecer procedimientos de homologación entre ellas", "Solo los reconocen si hay convenio bilateral", "Los fijan de forma totalmente independiente sin efectos fuera de su territorio"],
       "a": 1,
-      "e": "Las CC. AA. están obligadas a homologar los grados de carrera, de modo que el profesional conserva su nivel si se traslada a otro servicio de salud."
+      "e": "Las CC. AA. están obligadas a homologar los grados de carrera, de modo que el profesional conserva su nivel si se traslada a otro servicio de salud.",
+      "por": ["No pueden dejar de reconocerlos: deben homologarlos.", null, "No depende de convenios bilaterales.", "Sí tienen efectos fuera de la Comunidad, mediante la homologación."]
     },
     {
       "q": "Según el art. 46 de la LOPS, para ejercer en el sector privado con asistencia directa a pacientes es obligatorio:",
       "o": ["Tener al menos 5 años de experiencia en el sector público", "Estar inscrito como empresario autónomo", "Disponer de autorización de la Comunidad Autónoma por cada paciente", "Contar con un seguro de responsabilidad civil, aval u otra garantía financiera"],
       "a": 3,
-      "e": "El ejercicio privado exige una garantía financiera para cubrir la responsabilidad civil y los mismos controles de calidad que el SNS."
+      "e": "El ejercicio privado exige una garantía financiera para cubrir la responsabilidad civil y los mismos controles de calidad que el SNS.",
+      "por": ["No se exige experiencia previa en el sector público.", "No hace falta ser autónomo (se puede ejercer por cuenta ajena).", "No hace falta autorización autonómica por cada paciente.", null]
     },
     {
       "q": "Entre las funciones del Foro Profesional (Título V de la LOPS) se encuentra:",
       "o": ["Expedir los títulos de especialista", "Acreditar los créditos de formación continuada", "Analizar los conflictos competenciales entre las distintas profesiones sanitarias", "Presidir las comisiones de docencia"],
       "a": 2,
-      "e": "El Foro Profesional reúne a Ministerios, CC. AA., colegios y sindicatos; evalúa conflictos de competencias, participa en las normas y vela por la acreditación de la FSE."
+      "e": "El Foro Profesional reúne a Ministerios, CC. AA., colegios y sindicatos; evalúa conflictos de competencias, participa en las normas y vela por la acreditación de la FSE.",
+      "por": ["Los títulos de especialista los expide el Ministerio.", "Los créditos los acredita la Comisión de Formación Continuada.", null, "Las comisiones de docencia las preside el Jefe de Estudios."]
     },
     {
       "q": "Sobre el tutor de residentes, es correcto que:",
       "o": ["Puede ejercerlo cualquier especialista que esté de guardia", "Debe ser un especialista acreditado con nombramiento formal", "No necesita tiempo específico dentro de su jornada", "Lo eligen los propios residentes"],
       "a": 1,
-      "e": "El tutor debe estar acreditado por méritos (no existe el tutor accidental) y tener tiempo protegido, formación y sustitución en caso de ausencia."
+      "e": "El tutor debe estar acreditado por méritos (no existe el tutor accidental) y tener tiempo protegido, formación y sustitución en caso de ausencia.",
+      "por": ["No existe el tutor accidental de guardia.", null, "Sí necesita tiempo protegido dentro de su jornada.", "No lo eligen los residentes."]
     },
     {
       "q": "Para la válida constitución de la Comisión de Docencia en primera convocatoria se exige la presencia de:",
       "o": ["La mitad más uno de sus miembros", "Dos tercios de sus miembros", "Todos sus miembros", "Solo el presidente y el secretario"],
       "a": 0,
-      "e": "Quórum de la mitad más uno; los acuerdos se adoptan por mayoría simple."
+      "e": "Quórum de la mitad más uno; los acuerdos se adoptan por mayoría simple.",
+      "por": [null, "Dos tercios no es el quórum exigido.", "No hace falta que estén todos.", "Presidente y secretario solos no forman quórum."]
     },
     {
       "q": "Cuando un hospital del SMS obtiene, mediante concierto con la universidad, la condición de Hospital Universitario:",
       "o": ["Pasa a depender orgánicamente de la universidad", "Pasa a depender del Ministerio de Educación", "Sigue perteneciendo al Servicio Murciano de Salud", "Se gestiona al 50% entre ambas administraciones"],
       "a": 2,
-      "e": "El concierto le permite impartir docencia de grado, pero el centro sigue perteneciendo al servicio de salud."
+      "e": "El concierto le permite impartir docencia de grado, pero el centro sigue perteneciendo al servicio de salud.",
+      "por": ["No pasa a depender de la universidad.", "No pasa a depender del Ministerio de Educación.", null, "No hay gestión compartida al 50%."]
     },
     {
       "q": "El Registro Estatal de Profesionales Sanitarios (REPS):",
       "o": ["Es secreto y solo accesible a la inspección", "Solo incluye a los profesionales del sector público", "Lo gestionan exclusivamente los colegios profesionales", "Es público y permite al ciudadano verificar la titulación y especialidad de quien le atiende"],
       "a": 3,
-      "e": "Es un registro público, alimentado por ministerios, CC. AA., colegios y centros públicos y privados, que ayuda a combatir el intrusismo."
+      "e": "Es un registro público, alimentado por ministerios, CC. AA., colegios y centros públicos y privados, que ayuda a combatir el intrusismo.",
+      "por": ["No es secreto: es público.", "Incluye también a los profesionales del sector privado.", "No lo gestionan solo los colegios.", null]
     }
   ]
 }

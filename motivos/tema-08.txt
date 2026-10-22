@@ -1,0 +1,90 @@
+1|b|Stetler es un modelo individual, sin desencadenantes organizativos.
+1|c|ACE Star (Stevens) es un modelo de transformación del conocimiento en forma de estrella.
+1|d|El JBI se basa en FAME, no en desencadenantes.
+2|a|Los desencadenantes del conocimiento son una nueva guía, norma o publicación.
+2|b|«Normativo externo» no es un tipo de desencadenante de Iowa.
+2|d|No es una evaluación final: es lo que inicia el proceso.
+3|a|El ensayo piloto institucional es propio de Iowa.
+3|c|Los desencadenantes organizativos son de Iowa.
+3|d|La estrella de cinco puntas es el modelo ACE Star.
+4|a|Las fuentes primarias son los estudios originales.
+4|b|Las terciarias son los tratados y libros de texto.
+4|c|La literatura gris no está publicada por los cauces comerciales (tesis, informes).
+5|b|PubMed con PICO es para preguntas clínicas concretas (foreground).
+5|c|La Cochrane recoge revisiones sistemáticas, no explica mecanismos básicos.
+5|d|CINAHL es una base de datos para preguntas foreground.
+6|a|La Complutense elabora ENFISPO.
+6|b|La Universidad de La Rioja elabora Dialnet.
+6|d|BIREME elabora LILACS.
+7|a|PubMed/MEDLINE usa el tesauro MeSH.
+7|c|CINAHL usa sus propios encabezamientos (CINAHL Headings).
+7|d|La Cochrane usa MeSH.
+8|a|Unir sinónimos es lo que hace OR.
+8|b|Excluir es NOT.
+8|c|Sustituir un solo carácter interior es el comodín (?), no el truncamiento.
+9|b|Sin paréntesis, el OR suelto recupera todo lo de neonatos aunque no trate del dolor.
+9|c|La combinación OR/AND sin paréntesis da resultados sin sentido.
+9|d|NOT excluiría precisamente a los niños y neonatos.
+10|a|NEAR no excluye: indica proximidad.
+10|b|El truncamiento es con asterisco.
+10|d|Las etiquetas de campo indican dónde buscar (título, autor).
+11|a|Las últimas preguntas son de aplicabilidad, no de eliminación.
+11|c|Las de resultados no son de eliminación.
+11|d|Existen en todas las plantillas CASPe.
+12|a|23 ítems tiene AGREE II.
+12|b|10 preguntas tienen algunas plantillas CASPe.
+12|c|11 preguntas tienen otras plantillas CASPe.
+13|b|1 es el valor nulo de las medidas relativas (RR, OR), no de la diferencia de medias.
+13|c|0,5 no es un valor nulo.
+13|d|100 no es un valor nulo.
+14|a|La evidencia insuficiente es el grado C.
+14|b|La evidencia aceptable es el grado B.
+14|d|Jovell no tiene un grado de «opinión de expertos».
+15|a|5 son los grados de recomendación, no los niveles.
+15|c|4 niveles tienen otras escalas, no Jovell.
+15|d|3 niveles no es Jovell.
+16|a|Alta es el punto de partida de los ECA.
+16|b|Moderada no es un punto de partida.
+16|c|Muy baja se alcanza solo tras bajar por limitaciones.
+17|b|SIGN usa niveles (1++, 1+...) y grados A-D.
+17|c|GRADE valora calidad y fuerza de la recomendación, no FAME.
+17|d|El CEBM de Oxford clasifica según el tipo de pregunta.
+18|a|No es solo del Ministerio: participan todas las CC. AA. a través del CISNS.
+18|b|No es de los Colegios de Enfermería.
+18|d|No es una agencia de la OMS.
+19|a|¿Qué hacer? lo responde la Guía de Práctica Clínica.
+19|c|¿Cómo se hace una técnica? lo responde el protocolo.
+19|d|La etiología no es el objetivo de una vía clínica.
+20|a|No hay un diagnóstico NANDA único para todos.
+20|b|La valoración por Gordon es del proceso enfermero, no un componente de la vía.
+20|c|Hanlon es un método de priorización de problemas de salud.
+21|b|De 1 a 5 no: AGREE II puntúa de 1 a 7.
+21|c|De 0 a 10 no es la escala de AGREE II.
+21|d|No es dicotómica.
+22|a|Directa sería si se tratara peor a alguien de forma explícita por ser mujer.
+22|b|El acoso por razón de sexo es un comportamiento, no un requisito de acceso.
+22|d|Una acción positiva favorece al grupo discriminado; esto lo perjudica.
+23|a|Las semanas son intransferibles.
+23|c|Son 16 semanas, no 10.
+23|d|Las 6 primeras semanas son obligatorias.
+24|a|250 es una cifra antigua.
+24|b|100 es una cifra transitoria antigua.
+24|c|500 no es el umbral.
+25|b|No se exige exactamente el 50%.
+25|c|El límite es el 60%, no el 70%.
+25|d|No exige mayoría de mujeres.
+26|a|Si el agresor es un desconocido, no entra en la LO 1/2004.
+26|b|No solo el cónyuge: también la pareja o expareja.
+26|d|No exige convivencia.
+27|a|El art. 15 regula la formación del personal sanitario.
+27|c|El art. 19 regula la asistencia social integral.
+27|d|El art. 1 define el objeto de la ley.
+28|a|Con riesgo vital no se da el alta sin más.
+28|b|El parte se emite, pero no basta: hay que protegerla.
+28|c|No se espera a la denuncia ante un riesgo vital.
+29|b|Están prohibidas también en mayores de edad.
+29|c|No las permite ningún informe.
+29|d|No solo en menores: la prohibición es general.
+30|a|El consentimiento de los padres no basta.
+30|b|No es una prohibición absoluta: se permite la indicación médica para la salud física.
+30|d|Las de carácter estético están prohibidas.

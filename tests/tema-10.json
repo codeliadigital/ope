@@ -7,181 +7,211 @@
       "q": "La disciplina filosófica que analiza de forma crítica y racional el fundamento de las normas morales es:",
       "o": ["La moral", "El derecho", "La ética", "La deontología"],
       "a": 2,
-      "e": "La moral es el conjunto práctico de normas y costumbres; la ética es su reflexión teórica; la deontología, los deberes de una profesión."
+      "e": "La moral es el conjunto práctico de normas y costumbres; la ética es su reflexión teórica; la deontología, los deberes de una profesión.",
+      "por": ["La moral es el conjunto práctico de normas, no su reflexión teórica.", "El derecho son normas jurídicas coercitivas.", null, "La deontología son los deberes concretos de una profesión."]
     },
     {
       "q": "El incumplimiento del Código Deontológico de Enfermería da lugar a una sanción de tipo:",
       "o": ["Corporativo o disciplinario, impuesta por el Colegio Profesional", "Penal, con prisión", "Multa judicial", "Ninguna, es solo un reproche moral"],
       "a": 0,
-      "e": "La deontología se sanciona en el ámbito colegial; las multas judiciales y la prisión corresponden al derecho."
+      "e": "La deontología se sanciona en el ámbito colegial; las multas judiciales y la prisión corresponden al derecho.",
+      "por": [null, "La prisión es una pena del derecho penal, no deontológica.", "Las multas judiciales las impone un juez, no el Colegio.", "No es solo un reproche moral: el Colegio puede sancionar."]
     },
     {
       "q": "El Código de Núremberg (1947) surgió como respuesta a:",
       "o": ["El experimento de Tuskegee", "La Declaración de Helsinki", "Una iniciativa de la Asociación Médica Mundial", "Los juicios contra los médicos nazis"],
       "a": 3,
-      "e": "Núremberg consagró el consentimiento voluntario en investigación. El Informe Belmont fue la respuesta a Tuskegee."
+      "e": "Núremberg consagró el consentimiento voluntario en investigación. El Informe Belmont fue la respuesta a Tuskegee.",
+      "por": ["Tuskegee dio lugar al Informe Belmont.", "La Declaración de Helsinki es posterior (1964).", "Helsinki es de la Asociación Médica Mundial; Núremberg salió de un tribunal.", null]
     },
     {
       "q": "El término \"bioética\" fue acuñado en 1970 por:",
       "o": ["David Sackett", "Van Rensselaer Potter", "Tom Beauchamp", "Diego Gracia"],
       "a": 1,
-      "e": "Potter la concibió como un puente entre las ciencias biológicas y las humanidades."
+      "e": "Potter la concibió como un puente entre las ciencias biológicas y las humanidades.",
+      "por": ["Sackett es el padre de la medicina basada en la evidencia.", null, "Beauchamp formuló, con Childress, los 4 principios.", "Diego Gracia es el bioeticista español de los niveles de mínimos y máximos."]
     },
     {
       "q": "Según Diego Gracia, los principios que pertenecen al nivel II (ética de máximos) son:",
       "o": ["No maleficencia y justicia", "Justicia y autonomía", "Autonomía y beneficencia", "Beneficencia y no maleficencia"],
       "a": 2,
-      "e": "Nivel I (mínimos, exigibles): no maleficencia y justicia. Nivel II (máximos, privados): autonomía y beneficencia."
+      "e": "Nivel I (mínimos, exigibles): no maleficencia y justicia. Nivel II (máximos, privados): autonomía y beneficencia.",
+      "por": ["No maleficencia y justicia son el nivel I (mínimos).", "La justicia es del nivel I.", null, "La no maleficencia es del nivel I."]
     },
     {
       "q": "Aplicar un apósito en ambiente húmedo para cicatrizar una úlcera es una aplicación del principio de:",
       "o": ["Beneficencia", "No maleficencia", "Justicia", "Autonomía"],
       "a": 0,
-      "e": "La beneficencia exige acciones positivas para hacer el bien; la no maleficencia, evitar daños."
+      "e": "La beneficencia exige acciones positivas para hacer el bien; la no maleficencia, evitar daños.",
+      "por": [null, "La no maleficencia es evitar daños, no hacer el bien.", "La justicia trata del reparto de recursos.", "La autonomía es respetar las decisiones del paciente."]
     },
     {
       "q": "Sobre la objeción de conciencia de la enfermera, es correcto que:",
       "o": ["Puede ejercerse de forma colectiva por todo un servicio", "Se manifiesta de forma verbal en el momento de la técnica", "Puede ejercerse en una urgencia vital aunque no haya otro profesional", "Es individual y se manifiesta de forma anticipada y por escrito"],
       "a": 3,
-      "e": "Es un derecho individual, anticipado y escrito; decae ante una urgencia vital si no hay otro profesional disponible."
+      "e": "Es un derecho individual, anticipado y escrito; decae ante una urgencia vital si no hay otro profesional disponible.",
+      "por": ["No es colectiva: es individual.", "No se hace de palabra en el momento: es anticipada y por escrito.", "Decae en la urgencia vital si no hay otro profesional.", null]
     },
     {
       "q": "Según el art. 8 de la Ley 41/2002, ¿cuál de estas actuaciones requiere consentimiento informado por escrito?",
       "o": ["Una extracción de sangre rutinaria", "Una endoscopia digestiva", "Un electrocardiograma", "Una vacuna intramuscular"],
       "a": 1,
-      "e": "Se exige por escrito en cirugía, procedimientos diagnósticos o terapéuticos invasores y riesgos de notoria repercusión negativa (regla C.I.R.)."
+      "e": "Se exige por escrito en cirugía, procedimientos diagnósticos o terapéuticos invasores y riesgos de notoria repercusión negativa (regla C.I.R.).",
+      "por": ["Una extracción rutinaria solo requiere consentimiento verbal.", null, "Un ECG solo requiere consentimiento verbal.", "Una vacuna IM requiere consentimiento verbal."]
     },
     {
       "q": "Cuando por razones de salud pública se adopta una medida que implica el internamiento obligatorio de un paciente, debe comunicarse a la autoridad judicial en un plazo máximo de:",
       "o": ["48 horas", "72 horas", "24 horas", "7 días"],
       "a": 2,
-      "e": "Art. 9.2 de la Ley 41/2002: si hay internamiento obligatorio, se comunica al juez en 24 horas."
+      "e": "Art. 9.2 de la Ley 41/2002: si hay internamiento obligatorio, se comunica al juez en 24 horas.",
+      "por": ["48 horas es demasiado: son 24.", "72 horas es el plazo de la detención preventiva, no de esto.", null, "7 días es demasiado."]
     },
     {
       "q": "Según la Ley 41/2002 vigente, ante una actuación de grave riesgo para la vida o la salud de un paciente de 17 años, el consentimiento lo presta:",
       "o": ["Su representante legal, una vez oída y tenida en cuenta la opinión del menor", "El propio menor, sin necesidad de informar a sus padres", "El juez de guardia", "El médico responsable"],
       "a": 0,
-      "e": "Desde los 16 años hay mayoría de edad sanitaria, salvo en grave riesgo, ensayos clínicos o reproducción asistida, donde consiente el representante tras oír al menor."
+      "e": "Desde los 16 años hay mayoría de edad sanitaria, salvo en grave riesgo, ensayos clínicos o reproducción asistida, donde consiente el representante tras oír al menor.",
+      "por": [null, "En grave riesgo no basta el menor; consiente el representante.", "El juez solo interviene en conflictos.", "El médico no presta el consentimiento por el paciente."]
     },
     {
       "q": "Tras la LO 1/2023, para la interrupción voluntaria del embarazo de una menor de 16 o 17 años:",
       "o": ["Es necesario el consentimiento de sus padres", "Basta con informar a uno de los padres", "Se requiere autorización judicial", "La menor puede consentir por sí sola, sin necesidad del consentimiento ni del conocimiento de los padres"],
       "a": 3,
-      "e": "La LO 1/2023 modificó el art. 9 de la Ley 41/2002 y eliminó además los 3 días de reflexión."
+      "e": "La LO 1/2023 modificó el art. 9 de la Ley 41/2002 y eliminó además los 3 días de reflexión.",
+      "por": ["Desde la LO 1/2023 no hace falta el consentimiento de los padres.", "Tampoco hace falta informar a los padres.", "No se requiere autorización judicial.", null]
     },
     {
       "q": "Según la LO 3/2021 de regulación de la eutanasia, el paciente debe formular:",
       "o": ["Una única solicitud verbal", "Dos solicitudes por escrito, separadas al menos 15 días naturales", "Tres solicitudes con 7 días de separación", "Dos solicitudes separadas al menos 30 días"],
       "a": 1,
-      "e": "Son dos solicitudes voluntarias y escritas con al menos 15 días naturales entre ellas."
+      "e": "Son dos solicitudes voluntarias y escritas con al menos 15 días naturales entre ellas.",
+      "por": ["Una sola solicitud verbal no basta: son dos y por escrito.", null, "Son dos solicitudes y 15 días, no tres y 7 días.", "Son 15 días de separación, no 30."]
     },
     {
       "q": "Entre los requisitos de la LORE para solicitar la prestación de ayuda para morir figura, si no se tiene nacionalidad ni residencia legal, acreditar un empadronamiento superior a:",
       "o": ["6 meses", "24 meses", "12 meses", "3 meses"],
       "a": 2,
-      "e": "Nacionalidad española, residencia legal o empadronamiento de más de doce meses, además de ser mayor de edad y capaz."
+      "e": "Nacionalidad española, residencia legal o empadronamiento de más de doce meses, además de ser mayor de edad y capaz.",
+      "por": ["6 meses no basta: más de 12.", "24 meses no es el requisito: basta con más de 12.", null, "3 meses no basta."]
     },
     {
       "q": "Según el art. 197 bis del Código Penal, acceder sin autorización a la historia clínica electrónica de un vecino, aunque no se divulgue nada, puede castigarse con:",
       "o": ["Prisión de 6 meses a 2 años", "Solo una sanción administrativa leve", "Prisión de 1 a 4 años e inhabilitación", "Una multa de 1 mes"],
       "a": 0,
-      "e": "El mero acceso no autorizado a un sistema de información es delito consumado (197 bis). La revelación por el profesional se castiga en el art. 199.2."
+      "e": "El mero acceso no autorizado a un sistema de información es delito consumado (197 bis). La revelación por el profesional se castiga en el art. 199.2.",
+      "por": [null, "No es solo una sanción administrativa: es delito.", "De 1 a 4 años con inhabilitación es el 199.2 (revelar), no el mero acceso.", "No es una multa de un mes."]
     },
     {
       "q": "El celador que revela un dato clínico conocido por razón de su trabajo puede ser castigado, según el art. 199.1 del Código Penal, con:",
       "o": ["Prisión de 1 a 4 años e inhabilitación especial de 2 a 6 años", "Prisión de 6 meses a 2 años", "Inhabilitación de 2 a 6 años sin prisión", "Prisión de 1 a 3 años y multa de 6 a 12 meses"],
       "a": 3,
-      "e": "El 199.1 es el tipo básico (oficio o relaciones laborales); el 199.2 agrava la pena para el profesional con deber de sigilo."
+      "e": "El 199.1 es el tipo básico (oficio o relaciones laborales); el 199.2 agrava la pena para el profesional con deber de sigilo.",
+      "por": ["Esa es la pena agravada del 199.2 para el profesional.", "No es la pena del 199.1.", "Hay pena de prisión, no solo inhabilitación.", null]
     },
     {
       "q": "Correr las cortinas durante el aseo de un paciente encamado protege principalmente su:",
       "o": ["Confidencialidad", "Privacidad", "Secreto compartido", "Autonomía"],
       "a": 1,
-      "e": "La privacidad es el entorno físico o virtual; la intimidad, la esfera reservada (art. 18.1 CE); la confidencialidad, la garantía de no revelar."
+      "e": "La privacidad es el entorno físico o virtual; la intimidad, la esfera reservada (art. 18.1 CE); la confidencialidad, la garantía de no revelar.",
+      "por": ["La confidencialidad protege la información, no el espacio físico.", null, "El secreto compartido es la circulación de información dentro del equipo.", "La autonomía es la capacidad de decidir."]
     },
     {
       "q": "La obligación de emitir el parte de lesiones ante la sospecha de un delito público se fundamenta en:",
       "o": ["El art. 18 de la Constitución", "El art. 199 del Código Penal", "El art. 262 de la Ley de Enjuiciamiento Criminal", "El art. 9 de la Ley 41/2002"],
       "a": 2,
-      "e": "El art. 262 LECrim obliga a comunicarlo al juzgado; el secreto cede amparado por el art. 20.7 CP (cumplimiento de un deber)."
+      "e": "El art. 262 LECrim obliga a comunicarlo al juzgado; el secreto cede amparado por el art. 20.7 CP (cumplimiento de un deber).",
+      "por": ["El art. 18 CE protege la intimidad; no obliga a denunciar.", "El art. 199 CP castiga la revelación de secretos.", null, "El art. 9 de la Ley 41/2002 trata los límites del consentimiento."]
     },
     {
       "q": "Según el manual, tras la Ley 2/1990 la autoridad sanitaria en la Región de Murcia corresponde a:",
       "o": ["La Consejería de Sanidad", "El Servicio Murciano de Salud", "Las gerencias de área", "El Ministerio de Sanidad"],
       "a": 0,
-      "e": "La Consejería es la autoridad sanitaria; el SMS es el ente encargado de la gestión y provisión de los servicios."
+      "e": "La Consejería es la autoridad sanitaria; el SMS es el ente encargado de la gestión y provisión de los servicios.",
+      "por": [null, "El SMS gestiona y presta los servicios, pero no es la autoridad sanitaria.", "Las gerencias de área no son la autoridad sanitaria.", "En el ámbito regional, la autoridad es la Consejería, no el Ministerio."]
     },
     {
       "q": "La norma que introduce la calidad sistémica y crea la Agencia de Calidad del SNS es la:",
       "o": ["Ley 14/1986, General de Sanidad", "Ley 41/2002, de autonomía del paciente", "Ley 44/2003, de ordenación de las profesiones sanitarias", "Ley 16/2003, de cohesión y calidad del SNS"],
       "a": 3,
-      "e": "La Ley 14/1986 crea el SNS; la Ley 16/2003 introduce la calidad sistémica y la Agencia de Calidad."
+      "e": "La Ley 14/1986 crea el SNS; la Ley 16/2003 introduce la calidad sistémica y la Agencia de Calidad.",
+      "por": ["La Ley 14/1986 creó el SNS, no la Agencia de Calidad.", "La Ley 41/2002 regula la autonomía del paciente.", "La LOPS regula las profesiones sanitarias.", null]
     },
     {
       "q": "Un nuevo apósito reduce el tiempo de cicatrización en una planta ordinaria de hospitalización. Se está midiendo su:",
       "o": ["Eficacia", "Efectividad", "Eficiencia", "Adecuación"],
       "a": 1,
-      "e": "Eficacia = condiciones ideales (ensayo clínico); efectividad = práctica real; eficiencia = relación con el coste."
+      "e": "Eficacia = condiciones ideales (ensayo clínico); efectividad = práctica real; eficiencia = relación con el coste.",
+      "por": ["La eficacia se mide en condiciones ideales (ensayo clínico).", null, "La eficiencia relaciona el resultado con el coste.", "La adecuación es usar la intervención en el paciente indicado."]
     },
     {
       "q": "El principio de equidad en la atención sanitaria consiste en:",
       "o": ["Dar exactamente los mismos recursos a todos los pacientes", "Distribuir los recursos según su coste", "Distribuir la atención según la necesidad clínica", "Atender por orden de llegada"],
       "a": 2,
-      "e": "Dar lo mismo a todos es igualdad; equidad es dar más a quien más lo necesita."
+      "e": "Dar lo mismo a todos es igualdad; equidad es dar más a quien más lo necesita.",
+      "por": ["Dar lo mismo a todos es igualdad, no equidad.", "Repartir por coste no es equidad.", null, "Atender por orden de llegada no tiene en cuenta la necesidad."]
     },
     {
       "q": "En el ciclo de Deming (PDCA), la fase Do (hacer) debe realizarse preferentemente:",
       "o": ["Mediante una prueba piloto controlada en una unidad", "Implantando el cambio a la vez en todo el hospital", "Sin recoger datos", "Antes de planificar los objetivos"],
       "a": 0,
-      "e": "Primero se planifica, luego se aplica de forma controlada (piloto), se verifica y finalmente se estandariza o corrige."
+      "e": "Primero se planifica, luego se aplica de forma controlada (piloto), se verifica y finalmente se estandariza o corrige.",
+      "por": [null, "Implantar de golpe en todo el hospital es arriesgado; antes se prueba.", "Hay que recoger datos para poder verificar después.", "Planificar va antes que hacer."]
     },
     {
       "q": "La expresión \"(número de gestantes con pulsera de identificación / total de gestantes ingresadas) × 100\" es un:",
       "o": ["Criterio", "Estándar", "Objetivo general", "Indicador"],
       "a": 3,
-      "e": "Criterio = norma cualitativa; indicador = fórmula de medida; estándar = meta numérica (por ejemplo, 100%)."
+      "e": "Criterio = norma cualitativa; indicador = fórmula de medida; estándar = meta numérica (por ejemplo, 100%).",
+      "por": ["El criterio es la norma cualitativa (todas deben llevar pulsera).", "El estándar es la meta numérica (por ejemplo, 100%).", "Un objetivo general es un enunciado de intenciones, no una fórmula.", null]
     },
     {
       "q": "El modelo EFQM 2020 se estructura en:",
       "o": ["9 criterios agentes y resultados", "3 bloques (dirección, ejecución y resultados) y 7 criterios", "5 criterios", "12 estrategias"],
       "a": 1,
-      "e": "EFQM 2020 sustituyó los 9 criterios de 2013 por 3 bloques y 7 criterios, inspirados en el círculo dorado de Sinek."
+      "e": "EFQM 2020 sustituyó los 9 criterios de 2013 por 3 bloques y 7 criterios, inspirados en el círculo dorado de Sinek.",
+      "por": ["Los 9 criterios son del modelo EFQM anterior (2013).", null, "No son 5 criterios.", "No son 12 estrategias."]
     },
     {
       "q": "En el modelo EFQM 2020, la tasa de bacteriemias en UCI o la estancia media se evalúan en el criterio:",
       "o": ["6. Percepción de los grupos de interés", "3. Implicar a los grupos de interés", "7. Rendimiento estratégico y operativo", "1. Propósito, visión y estrategia"],
       "a": 2,
-      "e": "El criterio 6 recoge percepciones (PREMs, clima laboral); el 7, los datos duros de rendimiento."
+      "e": "El criterio 6 recoge percepciones (PREMs, clima laboral); el 7, los datos duros de rendimiento.",
+      "por": ["El criterio 6 recoge percepciones, no indicadores clínicos.", "El criterio 3 es implicar a los grupos de interés.", null, "El criterio 1 es propósito, visión y estrategia."]
     },
     {
       "q": "El Análisis Modal de Fallos y Efectos (AMFE) es una herramienta de gestión de riesgos:",
       "o": ["Proactiva, que se aplica antes de que ocurra el fallo", "Reactiva, tras un evento centinela", "De evaluación económica", "De medida de la satisfacción"],
       "a": 0,
-      "e": "El AMFE anticipa fallos en procesos nuevos; tras un evento adverso grave se aplica el análisis causa raíz (reactivo)."
+      "e": "El AMFE anticipa fallos en procesos nuevos; tras un evento adverso grave se aplica el análisis causa raíz (reactivo).",
+      "por": [null, "Reactivo tras un evento centinela es el análisis causa raíz.", "No es una herramienta de evaluación económica.", "No mide la satisfacción."]
     },
     {
       "q": "Según el estudio ENEAS, la incidencia de eventos adversos en pacientes hospitalizados y su evitabilidad fueron aproximadamente:",
       "o": ["4%, de los que el 10% eran evitables", "20%, de los que el 80% eran evitables", "9%, de los que el 10% eran evitables", "9%, de los que más del 42% eran evitables"],
       "a": 3,
-      "e": "ENEAS: alrededor del 9% de los ingresados, con más del 42% de eventos evitables. En AP se realizó el estudio APEAS."
+      "e": "ENEAS: alrededor del 9% de los ingresados, con más del 42% de eventos evitables. En AP se realizó el estudio APEAS.",
+      "por": ["Las cifras son 9% y más del 42% evitables, no 4% y 10%.", "20% y 80% exageran las cifras del ENEAS.", "La evitabilidad fue mucho mayor que el 10%.", null]
     },
     {
       "q": "Según el proyecto Neumonía Zero, en el paciente con ventilación mecánica hay que mantener:",
       "o": ["El cabecero a 0° y el neumotaponamiento a 50 cmH₂O", "El cabecero a 30-45° y el neumotaponamiento entre 20 y 30 cmH₂O", "El cabecero a 15° y el neumotaponamiento a 40 cmH₂O", "El cabecero a 90° y el neumotaponamiento a 10 cmH₂O"],
       "a": 1,
-      "e": "Semiincorporación de 30-45° para evitar microaspiraciones y cuff a 20-30 cmH₂O (menos produce fugas; más, isquemia traqueal)."
+      "e": "Semiincorporación de 30-45° para evitar microaspiraciones y cuff a 20-30 cmH₂O (menos produce fugas; más, isquemia traqueal).",
+      "por": ["A 0° aumenta la microaspiración y 50 cmH₂O provoca isquemia traqueal.", null, "15° es insuficiente y 40 cmH₂O es excesivo.", "90° no es lo indicado y 10 cmH₂O produce fugas."]
     },
     {
       "q": "Según el proyecto Bacteriemia Zero, en la inserción de un catéter venoso central se recomienda:",
       "o": ["Povidona yodada y acceso femoral", "Alcohol de 70° y acceso yugular", "Clorhexidina alcohólica > 0,5% y evitar el acceso femoral", "Povidona yodada y acceso subclavio"],
       "a": 2,
-      "e": "Clorhexidina alcohólica > 0,5% (habitualmente al 2%), máximas barreras estériles, preferir la subclavia y evitar la femoral."
+      "e": "Clorhexidina alcohólica > 0,5% (habitualmente al 2%), máximas barreras estériles, preferir la subclavia y evitar la femoral.",
+      "por": ["La povidona no es el antiséptico de elección y la femoral es la vía de más riesgo.", "El alcohol solo no es lo recomendado.", null, "La povidona no es el antiséptico de elección."]
     },
     {
       "q": "Un paciente intervenido de prótesis de rodilla rellena un cuestionario sobre su dolor y su capacidad para subir escaleras. Se trata de un:",
       "o": ["PROM (resultado reportado por el paciente)", "PREM (experiencia reportada por el paciente)", "Indicador de estructura", "Net Promoter Score"],
       "a": 0,
-      "e": "Los PROMs miden resultados de salud (dolor, función); los PREMs, la experiencia con la atención (trato, esperas, información)."
+      "e": "Los PROMs miden resultados de salud (dolor, función); los PREMs, la experiencia con la atención (trato, esperas, información).",
+      "por": [null, "Los PREMs miden la experiencia con la atención (trato, esperas), no el dolor.", "Un indicador de estructura mide recursos.", "El Net Promoter Score mide si recomendaría el centro."]
     }
   ]
 }

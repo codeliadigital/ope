@@ -1,0 +1,90 @@
+1|a|Excluye a la familia y al cuidador, que también son sujetos de atención.
+1|c|El cuidador solo no basta: también se atiende al paciente.
+1|d|La comunidad es el sujeto de la atención comunitaria, no de la domiciliaria.
+2|a|Antes de valorar hay que captar al paciente.
+2|b|La valoración va antes que la planificación.
+2|c|No se planifica sin haber captado ni valorado antes.
+3|b|Cada mes es demasiado frecuente para un paciente estable.
+3|c|Cada año es demasiado espaciado.
+3|d|Cada 2 años es demasiado espaciado.
+4|a|El Barthel mide la dependencia para las actividades básicas.
+4|b|Yesavage mide la depresión geriátrica.
+4|d|Lawton y Brody mide las actividades instrumentales.
+5|a|El riesgo de UPP se valora con Braden o Norton.
+5|c|Las actividades instrumentales se valoran con Lawton y Brody.
+5|d|El riesgo de caídas se valora con Downton o Tinetti.
+6|a|El informe de alta médica es otro documento.
+6|b|El informe de continuidad de cuidados es otro documento.
+6|c|El consentimiento informado no es el Modelo 313.
+7|b|No asume la responsabilidad total: la mantiene AP.
+7|c|No sustituye al equipo de cupo.
+7|d|El ESAD actúa en el domicilio, no en el hospital.
+8|a|La primera consulta no es una transición entre niveles.
+8|b|La visita programada no es el momento de más riesgo.
+8|d|La revisión anual no implica cambio de nivel asistencial.
+9|a|El anciano frágil estable es para atención domiciliaria de AP, no para hospitalización a domicilio.
+9|c|Rechazar la AP no es un criterio de indicación.
+9|d|No vale para cualquier inmovilizado: es para procesos agudos de nivel hospitalario.
+10|a|Cada 8 horas es demasiado espaciado.
+10|b|Una vez por turno (cada 7-8 h) es insuficiente.
+10|c|Cada 4-6 horas sigue siendo insuficiente salvo superficies especiales.
+11|b|Inferior a 1 mes es la situación de últimos días o semanas.
+11|c|2 años es demasiado.
+11|d|Superior a 1 año no es pronóstico de situación terminal.
+12|a|La IM es dolorosa y se evita en paliativos.
+12|b|La IV es más invasiva y difícil de mantener en casa.
+12|d|La rectal no es la alternativa de elección.
+13|a|No se suspende la hidratación por empezar con morfina.
+13|c|La subcutánea es precisamente la vía alternativa de elección.
+13|d|Los laxantes no se retiran: se pautan.
+14|a|Provocar la muerte es la eutanasia, no la sedación.
+14|b|No es para síntomas leves, sino refractarios.
+14|c|No se indica por petición de la familia, sino por síntomas refractarios.
+15|b|No es solo al alta hospitalaria.
+15|c|No depende de que lo pida la familia.
+15|d|No es exclusivo de pacientes oncológicos.
+16|a|Debe ser conciso, no extenso.
+16|b|No se copia toda la historia: se resume lo relevante.
+16|d|No tiene por qué ser manuscrito; mejor estandarizado y electrónico.
+17|a|Los primeros síntomas aparecen en la fase clínica del periodo patogénico.
+17|c|Los cambios silentes son la fase subclínica.
+17|d|Las secuelas son el final del periodo patogénico.
+18|a|Rehabilitar es prevención terciaria.
+18|b|La detección precoz es secundaria.
+18|c|Vacunar es primaria.
+19|b|La primaria evita que aparezca la enfermedad (vacunas, hábitos).
+19|c|La terciaria actúa sobre la enfermedad ya establecida para reducir secuelas.
+19|d|La cuaternaria evita la iatrogenia.
+20|a|El agua es la fuente de infección, no el reservorio.
+20|b|Está al revés: el reservorio es el ser humano.
+20|d|Sí existe reservorio: el ser humano.
+21|a|El RR es propio de las cohortes.
+21|c|La incidencia acumulada no se puede calcular en casos y controles.
+21|d|El NNT se calcula en ensayos clínicos.
+22|a|RR − 1 da el exceso de riesgo relativo, no el NNT.
+22|b|Ese cociente es el riesgo relativo.
+22|c|La OR × 100 no es el NNT.
+23|b|Salmonella es la segunda, no la primera.
+23|c|Listeria es menos frecuente, aunque grave.
+23|d|E. coli no es la primera causa.
+24|a|El RD 1030/2006 es la cartera de servicios.
+24|b|El RD 664/1997 trata los agentes biológicos en el trabajo.
+24|d|El RD 1093/2010 trata los informes clínicos.
+25|a|No se espera a la confirmación ni se declara de forma semanal.
+25|c|Se declara siempre, no solo si fallece.
+25|d|La mensual no existe para esta enfermedad.
+26|a|Confirmado requiere prueba de laboratorio.
+26|b|Sospechoso es solo la clínica, sin nexo epidemiológico.
+26|c|No hay motivo para descartarlo.
+27|b|No hacen falta 20 casos.
+27|c|No hacen falta 50 casos.
+27|d|Un caso aislado no es un brote (salvo enfermedades especiales).
+28|a|No es semanal ordinaria: es urgente.
+28|b|No es mensual.
+28|d|Sí es de declaración obligatoria.
+29|a|5 días es demasiado poco.
+29|c|14 días es demasiado.
+29|d|21 días es demasiado.
+30|a|No se aísla: el ser humano no transmite el virus.
+30|b|No se transmite de persona a persona por el contacto habitual.
+30|c|Su vector es Culex, no Aedes.

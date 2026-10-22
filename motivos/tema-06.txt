@@ -1,0 +1,90 @@
+1|a|16 de diciembre es la fecha de la Ley 55/2003 (Estatuto Marco).
+1|b|28 de mayo es la fecha de la Ley 16/2003 (cohesión y calidad).
+1|d|14 de noviembre es la fecha de la Ley 41/2002 (autonomía del paciente).
+2|b|No se limita al SNS: también rige en la sanidad privada.
+2|c|No es solo para el personal estatutario.
+2|d|Se aplica a todos los profesionales sanitarios, no solo a los colegiados.
+3|a|Enfermería es una profesión de nivel diplomado/grado.
+3|b|Fisioterapia es de nivel diplomado/grado.
+3|c|Podología es de nivel diplomado/grado.
+4|a|No es una profesión de nivel licenciado: es formación profesional.
+4|c|No es de nivel diplomado: no es titulación universitaria.
+4|d|Sí es personal sanitario, regulado en el art. 3.
+5|a|La LOPS reconoce la autonomía técnica de la enfermera; no ejecuta solo bajo indicación médica.
+5|b|Prescribir tratamientos farmacológicos es función médica (la enfermera indica, usa y autoriza dentro de su regulación).
+5|d|Los agentes físicos son propios de la Fisioterapia.
+6|a|El título oficial sí es requisito.
+6|b|No estar inhabilitado sí es requisito.
+6|c|La colegiación, cuando la exija una ley estatal, sí es requisito.
+7|a|No son asociaciones privadas de libre adscripción.
+7|b|No son organismos del Ministerio.
+7|c|No son sindicatos.
+8|b|No lo decide libremente cada universidad.
+8|c|No lo fijan los hospitales.
+8|d|No lo aprueba el Consejo General de Enfermería.
+9|a|El profesor asociado mantiene su plaza asistencial y tiene un contrato temporal aparte con la universidad.
+9|c|El tutor de residentes forma especialistas, no ocupa una plaza universitaria.
+9|d|El colaborador docente supervisa prácticas sin contrato con la universidad.
+10|a|El RD 183/2008 regula las unidades docentes, las comisiones y la evaluación.
+10|b|El RD 450/2005 regula las especialidades de enfermería.
+10|d|El RD 69/2015 regula el registro RAE-CMBD.
+11|b|La supervisión de respaldo es la de los últimos años, no la del primero.
+11|c|En las guardias del primer año también hay supervisión presencial.
+11|d|La supervisión no es solo documental.
+12|a|La Comunidad Autónoma no expide el título de especialista.
+12|c|La universidad expide el grado, no el título de especialista.
+12|d|La Comisión de Docencia evalúa, pero no expide títulos.
+13|a|Geriátrica está desarrollada y se oferta en el EIR.
+13|b|Enfermería del Trabajo está desarrollada y se oferta.
+13|c|Salud Mental está desarrollada y se oferta.
+14|a|1 año es demasiado poco: son 2.
+14|b|3 años no es la duración de las especialidades de enfermería.
+14|d|4 años no es la duración de las especialidades de enfermería.
+15|a|3 años no bastan: se exigen 5.
+15|c|8 años es el plazo para optar a una tercera especialidad.
+15|d|10 años no es el plazo exigido.
+16|b|No es un nuevo título de especialista.
+16|c|No es un máster universitario.
+16|d|No da acceso directo a la carrera profesional.
+17|a|El Gerente no preside la Comisión de Docencia.
+17|b|La Dirección de Enfermería no la preside.
+17|c|La antigüedad como tutor no da la presidencia.
+18|a|No los designa el Jefe de Estudios.
+18|b|No es por sorteo.
+18|d|No los nombra la Dirección del centro.
+19|a|La Comisión de Docencia aplica el programa, no lo elabora.
+19|c|El Consejo Interterritorial no elabora los programas formativos.
+19|d|El Foro Profesional no elabora los programas.
+20|b|Los jefes de estudios forman las comisiones de docencia de cada centro.
+20|c|Los consejeros autonómicos forman el CISNS.
+20|d|Los presidentes de los colegios no lo integran.
+21|a|No se limitan a la Comunidad que acredita: valen en todo el SNS.
+21|b|No solo puntúan en carrera profesional; valen para todo el SNS.
+21|c|No dependen de tener un Diploma de Acreditación.
+22|a|No son indefinidos: hay que renovarlos.
+22|b|2 años es demasiado corto.
+22|d|10 años no es su vigencia.
+23|b|No es un ascenso a puestos de gestión.
+23|c|No es exclusiva de los facultativos: incluye a enfermería.
+23|d|No es solo un baremo para traslados.
+24|a|No pueden dejar de reconocerlos: deben homologarlos.
+24|c|No depende de convenios bilaterales.
+24|d|Sí tienen efectos fuera de la Comunidad, mediante la homologación.
+25|a|No se exige experiencia previa en el sector público.
+25|b|No hace falta ser autónomo (se puede ejercer por cuenta ajena).
+25|c|No hace falta autorización autonómica por cada paciente.
+26|a|Los títulos de especialista los expide el Ministerio.
+26|b|Los créditos los acredita la Comisión de Formación Continuada.
+26|d|Las comisiones de docencia las preside el Jefe de Estudios.
+27|a|No existe el tutor accidental de guardia.
+27|c|Sí necesita tiempo protegido dentro de su jornada.
+27|d|No lo eligen los residentes.
+28|b|Dos tercios no es el quórum exigido.
+28|c|No hace falta que estén todos.
+28|d|Presidente y secretario solos no forman quórum.
+29|a|No pasa a depender de la universidad.
+29|b|No pasa a depender del Ministerio de Educación.
+29|d|No hay gestión compartida al 50%.
+30|a|No es secreto: es público.
+30|b|Incluye también a los profesionales del sector privado.
+30|c|No lo gestionan solo los colegios.

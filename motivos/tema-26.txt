@@ -1,0 +1,93 @@
+1|a|No es por falta de hierro dietético: es dilucional.
+1|c|La placenta no destruye hematíes.
+1|d|El déficit de fólico no es la causa de la anemia fisiológica.
+2|a|El filtrado aumenta, no disminuye.
+2|b|La creatinina baja, no sube.
+2|d|La glucosuria puede ser fisiológica en el embarazo.
+3|b|La hCG mantiene el cuerpo lúteo.
+3|c|La relaxina actúa sobre ligamentos y articulaciones.
+3|d|La prolactina prepara la mama.
+4|a|5-9 kg es lo recomendado en la obesidad.
+4|b|7-11,5 kg es lo recomendado en el sobrepeso.
+4|c|12,5-18 kg es lo recomendado en el bajo peso.
+5|b|500 kcal no se añaden en el primer trimestre.
+5|c|No se duplican las calorías.
+5|d|1.000 kcal es excesivo.
+6|a|La gestante sana toma 0,4 mg/día.
+6|b|El tabaco no es indicación de dosis alta.
+6|d|La edad no es indicación de dosis alta.
+7|a|La fruta lavada no transmite Listeria.
+7|b|Los lácteos pasteurizados son seguros.
+7|c|El pescado bien cocinado es seguro.
+8|a|Sardinas y boquerones tienen poco mercurio.
+8|c|No todo el pescado azul: solo los grandes depredadores.
+8|d|El pescado blanco no se evita.
+9|b|8-10 semanas es demasiado pronto salvo factores de riesgo.
+9|c|35-37 semanas es el cribado del estreptococo del grupo B.
+9|d|38-40 semanas es demasiado tarde.
+10|a|La Tdpa se recomienda en cada embarazo.
+10|b|La gripe inactivada se recomienda.
+10|c|La vacuna del VRS se ofrece en el embarazo.
+11|a|Las Rh positivas no reciben anti-D.
+11|c|No solo tras el parto: también en la semana 28.
+11|d|No se administra al recién nacido.
+12|a|Semana 8 es demasiado pronto.
+12|b|Semana 12 es demasiado pronto.
+12|d|Semana 38 es demasiado tarde.
+13|a|No aumenta el pujo: lo evita.
+13|b|Entre contracciones se usa la respiración de relajación.
+13|d|No acelera la dilatación.
+14|b|Sin pérdida de peso son náuseas normales.
+14|c|Hay alcalosis por pérdida de ácido, no acidosis.
+14|d|Suele aparecer en el primer trimestre.
+15|a|Los edemas maleolares son frecuentes y no definen la preeclampsia.
+15|b|Antes de la semana 20 sería hipertensión crónica.
+15|c|Glucosuria y poliuria no la definen.
+16|a|La glucemia no es lo que se vigila con el magnesio.
+16|c|La temperatura no es el signo de toxicidad.
+16|d|El peso no detecta la toxicidad.
+17|b|Un solo valor alterado es intolerancia.
+17|c|80 mg/dl no es el criterio.
+17|d|El O'Sullivan positivo es ≥ 140, y no es diagnóstico.
+18|a|La oxitocina no produce resistencia a la insulina.
+18|b|La relaxina no es la responsable.
+18|d|La ADH no es la responsable.
+19|a|Lo típico es la macrosomía, no el bajo peso.
+19|b|Lo típico en el neonato es la hipocalcemia, no la hipercalcemia.
+19|c|La anemia fetal no es la complicación característica.
+20|a|El día 2 aún se palpa.
+20|c|El día 30 hace tiempo que no se palpa.
+20|d|El día 45 hace tiempo que no se palpa.
+21|a|Los desgarros (trauma) son la segunda causa.
+21|b|La retención de restos (tejido) es menos frecuente.
+21|d|Las coagulopatías son poco frecuentes.
+22|b|En la atonía el útero está blando, no duro.
+22|c|El globo vesical desplaza el útero.
+22|d|Un sangrado continuo no son loquios normales.
+23|a|Primero hay que vaciar la vejiga.
+23|c|El legrado no procede sin más.
+23|d|No hay signos de infección.
+24|a|Los días 1-3 son loquios rojos (rubra).
+24|b|A los 15-30 días son loquios blancos (alba).
+24|c|A los 40-60 días ya no hay loquios.
+25|b|Más de 2 semanas con anhedonia sugiere depresión posparto.
+25|c|Las alucinaciones indican psicosis puerperal.
+25|d|No requiere ingreso.
+26|a|No se espera un mes: es urgente.
+26|b|Aunque la puntuación total sea baja, el ítem 10 es una alarma.
+26|d|No se suspende la lactancia por esto.
+27|a|La neurohipófisis libera la oxitocina.
+27|b|La placenta no secreta prolactina.
+27|c|El hipotálamo libera dopamina, que la inhibe.
+28|a|La boca debe estar muy abierta y los labios evertidos.
+28|c|Se ve más areola por encima, no por debajo.
+28|d|Las mejillas hundidas y los chasquidos indican mal agarre.
+29|b|El calor intenso aumenta el edema.
+29|c|Suspender las tomas empeora la ingurgitación.
+29|d|El vendaje no está indicado.
+30|a|No se suspende la lactancia.
+30|b|También hay que vaciar el pecho afectado.
+30|c|El biberón empeora el vaciado.
+31|a|El mentón sí debe tocar el pecho.
+31|b|La nariz debe quedar libre.
+31|d|Succionar solo la punta del pezón es un mal agarre.

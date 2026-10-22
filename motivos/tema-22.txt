@@ -1,0 +1,90 @@
+1|a|El art. 43 reconoce el derecho a la protección de la salud.
+1|b|El art. 41 trata de la Seguridad Social.
+1|c|La Ley 44/2003 (LOPS) regula las profesiones sanitarias, no las competencias del Estado.
+2|b|La Ley 29/2006 fue derogada por el texto refundido de 2015.
+2|c|La Ley 14/1986 (General de Sanidad) no regula la indicación enfermera.
+2|d|La Ley 41/2002 regula la autonomía del paciente.
+3|a|3 días hábiles es demasiado corto.
+3|b|Un mes es demasiado largo.
+3|d|15 días hábiles no es el plazo.
+4|a|No puede prescribir cualquier medicamento sujeto a receta.
+4|c|No emite recetas médicas.
+4|d|No puede modificar el principio activo prescrito por el médico.
+5|a|La experiencia sola no basta: hace falta guía y protocolo.
+5|b|No basta la autorización verbal del supervisor.
+5|d|No depende de una solicitud escrita del paciente.
+6|b|No las elabora solo el Consejo General de Enfermería.
+6|c|No las elabora cada hospital por su cuenta.
+6|d|La OMC participa, pero no en solitario.
+7|a|La STC 37/2011 no es la de la acreditación enfermera.
+7|c|La STC 154/2015 no es la que anuló esos aspectos.
+7|d|La STC 1/2020 no es la de este caso.
+8|a|No exige prescripción médica individualizada salvo casos especiales.
+8|b|No está prohibida para enfermeras no especialistas.
+8|c|No se limita al hospital.
+9|b|No se exigen 5 años.
+9|c|No se exige un máster.
+9|d|No hace falta ser especialista.
+10|a|No cuentan solo las plazas en propiedad.
+10|b|No solo cuenta la Atención Primaria.
+10|d|Cuenta toda la experiencia, no solo la posterior a 2015.
+11|a|El Ministerio no la concede; el REPS solo la registra.
+11|b|No la concede el colegio.
+11|c|No caduca cada 5 años: es indefinida.
+12|a|La titulación de especialista no amplía su ámbito fuera de su especialidad.
+12|c|No se limita a productos sanitarios.
+12|d|Sí puede indicar medicamentos con receta dentro de sus guías.
+13|a|No la dicta directamente el Consejero.
+13|c|El Colegio no acredita.
+13|d|El Ministerio no acredita.
+14|b|No es una renovación anual: la acreditación es indefinida.
+14|c|Las reacciones adversas se notifican por la Tarjeta Amarilla.
+14|d|No sirve para solicitar recetas médicas.
+15|a|No son 3 meses ni silencio negativo.
+15|b|No es un mes ni silencio negativo.
+15|c|No son 2 meses.
+16|a|Cambiar de grupo farmacológico es competencia médica.
+16|b|No puede iniciar un tratamiento sin diagnóstico médico.
+16|d|No puede retirar definitivamente la insulina.
+17|b|No se usan como tratamiento inicial de las quemaduras de primer grado.
+17|c|No se asocian siempre a antibióticos desde el primer día.
+17|d|Sí se permiten, en esas complicaciones.
+18|a|0,5-1 sería un paciente sin anticoagular.
+18|b|1-1,5 es infraterapéutico.
+18|c|4-5 es supraterapéutico, con riesgo de sangrado.
+19|a|La vitamina K se usa en INR altos, no bajos.
+19|c|No se suspende: está infradosificado.
+19|d|Mantener la dosis deja al paciente sin protección.
+20|a|Bupropión y nortriptilina no son los fármacos de la guía.
+20|b|Las benzodiacepinas no se usan para dejar de fumar.
+20|d|No se limita a los parches.
+21|a|La lidocaína es una amida (lleva «i» antes de «-caína»).
+21|b|La bupivacaína es una amida.
+21|d|La mepivacaína es una amida.
+22|b|Continuar ante una toxicidad sistémica es peligroso.
+22|c|Aumentar la dosis empeora la toxicidad.
+22|d|Esperar retrasa la atención de una urgencia vital.
+23|a|No a cualquier paciente con disuria.
+23|b|Las embarazadas quedan fuera de la guía.
+23|c|Los varones con prostatitis quedan fuera.
+24|a|Derivación es la NIC 8100.
+24|c|Apoyo al cuidador principal es la NIC 7040.
+24|d|Cuidados de las heridas es la NIC 3660.
+25|b|NERDS orienta a infección superficial o colonización crítica.
+25|c|Braden valora el riesgo de úlceras por presión.
+25|d|Altemeier clasifica las heridas quirúrgicas según su contaminación.
+26|a|Gijón valora el riesgo social.
+26|b|Barthel valora la dependencia.
+26|c|La EVA valora el dolor.
+27|a|La clase I es limpia.
+27|b|La clase III es contaminada.
+27|d|La clase IV es sucia o infectada.
+28|a|No es por el dolor.
+28|c|No produce quemaduras químicas.
+28|d|No es por la absorción de la plata.
+29|b|El 50% y 24 horas superan los límites.
+29|c|Las quemaduras faciales y perineales no son su indicación preferente.
+29|d|No se repite en aplicaciones consecutivas.
+30|a|No puede cambiar el principio activo prescrito.
+30|b|No se duplica el tratamiento.
+30|c|No se espera: se suspende y se deriva.

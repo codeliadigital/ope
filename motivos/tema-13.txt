@@ -1,0 +1,90 @@
+1|a|Alma-Ata es de 1978, la declaración original de la Atención Primaria.
+1|b|Ottawa (1986) es la carta de la Promoción de la Salud.
+1|d|Yakarta (1997) trata de la promoción de la salud en el siglo XXI, no de la AP.
+2|b|Planificar «para» la población es el enfoque de la salud pública tradicional.
+2|c|La salud comunitaria no se limita a la consulta individual.
+2|d|Es intersectorial: incluye a otros sectores.
+3|a|Eficacia, eficiencia y efectividad son conceptos de calidad.
+3|b|Son principios de la bioética.
+3|c|Información, consulta y asociación son peldaños de participación (Arnstein).
+4|a|Edad, sexo y genética forman parte de la biología humana, pero no son los 4 campos.
+4|c|Proximales, intermedios y distales es otra clasificación de determinantes.
+4|d|Vivienda, empleo, educación y renta son determinantes intermedios, no los campos de Lalonde.
+5|b|Las condiciones socioeconómicas generales son la capa externa.
+5|c|Las redes sociales son una capa intermedia.
+5|d|Las condiciones de vida y trabajo son una capa intermedia.
+6|a|Proximales son los individuales (conductas, biología).
+6|b|No es un factor biológico.
+6|c|Distales o estructurales son las políticas, la economía y la cultura.
+7|a|Precisamente no actúan de forma independiente: se potencian.
+7|b|No depende solo de la renta.
+7|d|No afecta solo a la población inmigrante.
+8|a|La Ley 33/2011 es estatal y regula la salud pública.
+8|c|La Ley 16/2003 es estatal (cohesión y calidad del SNS).
+8|d|La Ley 39/2006 regula la dependencia.
+9|a|El modelo de activos se centra en lo que genera salud, no en las carencias.
+9|c|No es solo un recurso sanitario público.
+9|d|No es un indicador de morbilidad.
+10|b|Informar es participación simbólica.
+10|c|Consultar es participación simbólica.
+10|d|El apaciguamiento es participación simbólica.
+11|a|Las mujeres tienen mayor esperanza de vida, no menor.
+11|b|Presentan más ansiedad y depresión, no menos.
+11|c|Utilizan más los servicios, no menos.
+12|a|Los intérpretes profesionales son lo recomendado.
+12|b|Los materiales en varios idiomas son recomendables.
+12|d|Los agentes comunitarios son una buena estrategia.
+13|b|El razonamiento deductivo es el de la investigación cuantitativa.
+13|c|No es estadístico.
+13|d|El hipotético-deductivo es cuantitativo.
+14|a|Heidegger considera imposible la epojé.
+14|b|La teoría fundamentada no se basa en la epojé.
+14|d|La investigación-acción busca transformar, no poner entre paréntesis.
+15|a|La interpretación desde fuera es la perspectiva etic.
+15|b|La revisión bibliográfica no es una perspectiva etnográfica.
+15|c|El análisis estadístico no es propio de la etnografía.
+16|a|La fenomenología estudia la vivencia, no genera teoría con muestreo teórico.
+16|c|La etnografía estudia culturas y grupos.
+16|d|El estudio de caso analiza en profundidad un caso concreto.
+17|a|El investigador no es neutral: participa.
+17|b|Busca transformar la realidad, no solo generar teoría.
+17|c|Es cíclica (en espiral), no lineal.
+18|b|PICO es para preguntas de eficacia de intervenciones.
+18|c|SPIDER es para preguntas cualitativas.
+18|d|SPICE es para preguntas cualitativas o de evaluación.
+19|a|En cualitativa no se usan fórmulas de tamaño muestral.
+19|c|No hay un mínimo de 100 participantes.
+19|d|No lo fija el comité de ética.
+20|a|El muestreo probabilístico no se usa en cualitativa.
+20|b|La bola de nieve se reserva para poblaciones ocultas.
+20|d|El sistemático es probabilístico.
+21|a|No son transcriptores.
+21|b|No son auditores.
+21|d|No se definen por su nivel de estudios.
+22|a|Observar sin interactuar es el observador completo.
+22|c|El externo con participación mínima es el observador como participante.
+22|d|Revelar su rol es el participante como observador.
+23|b|Mezclar niveles de poder inhibe a los participantes.
+23|c|No sustituye a la entrevista ni es una suma de opiniones: aporta la interacción.
+23|d|Es presencial y no anónimo.
+24|a|El grupo nominal es presencial.
+24|b|La pecera es una técnica de debate presencial.
+24|c|El grupo focal es presencial e interactivo.
+25|a|En esta ronda no se debate.
+25|c|La votación es la última fase.
+25|d|No hay cuestionarios por correo (eso es Delphi).
+26|b|La transferibilidad se asegura con la descripción densa.
+26|c|La dependencia se asegura con la pista de auditoría.
+26|d|La confirmabilidad se asegura con la reflexividad.
+27|a|La credibilidad equivale a la validez interna.
+27|b|La transferibilidad equivale a la validez externa.
+27|d|La saturación no es un criterio de rigor de Lincoln y Guba.
+28|a|La metodológica combina distintas técnicas, no distintas personas.
+28|b|La teórica usa distintos marcos teóricos.
+28|c|La de investigadores usa varios analistas.
+29|b|No analiza de forma autónoma ni extrae conclusiones.
+29|c|No sustituye la triangulación.
+29|d|Sí permite calcular la concordancia (kappa).
+30|a|La viabilidad es la F (Feasibility).
+30|b|La efectividad es la E (Effectiveness).
+30|c|La adecuación es la A (Appropriateness).

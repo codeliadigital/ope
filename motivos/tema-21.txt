@@ -1,0 +1,90 @@
+1|a|La EMA autoriza medicamentos en Europa, pero no gestiona el código ATC.
+1|b|La AEMPS es la agencia española; usa el ATC, pero no lo gestiona.
+1|d|El Ministerio de Sanidad no elabora la clasificación ATC.
+2|a|Son 5 niveles y 7 caracteres, no al revés.
+2|c|No son 3 niveles ni 10 caracteres.
+2|d|No son 14 niveles.
+3|b|El grupo V es «varios» (contrastes, antídotos...).
+3|c|El grupo L son los antineoplásicos e inmunomoduladores.
+3|d|El grupo H son las hormonas sistémicas.
+4|a|El grupo C es cardiovascular; los anticoagulantes van en el B.
+4|b|El grupo N es sistema nervioso.
+4|c|El grupo M es musculoesquelético.
+5|b|Lo que el fármaco hace al organismo es la farmacodinamia.
+5|c|El mecanismo de acción es farmacodinamia.
+5|d|La fabricación es tecnología farmacéutica.
+6|a|La fracción unida a la albúmina es un reservorio inactivo.
+6|b|La unida a la alfa-1-glucoproteína también es inactiva.
+6|d|La conjugada es un metabolito, generalmente inactivo.
+7|a|Doblar la dosis aumentaría aún más la toxicidad.
+7|b|Sí tiene efecto, incluso mayor.
+7|c|Sí cambia: aumenta la fracción libre.
+8|a|Eso es la fase I.
+8|c|La filtración glomerular es la excreción renal.
+8|d|La unión a proteínas es la distribución.
+9|a|El fracaso por destrucción acelerada es lo que provoca un inductor.
+9|c|Sí tiene efecto: acumulación.
+9|d|No aumenta la excreción renal.
+10|a|Acidificar la orina favorecería su reabsorción.
+10|b|Restringir líquidos empeora la eliminación.
+10|c|Los diuréticos sin alcalinizar no consiguen el atrapamiento iónico.
+11|b|Eliminar un porcentaje constante es la cinética de primer orden.
+11|c|La mayoría de los fármacos siguen cinética de primer orden.
+11|d|En orden cero la velocidad es constante, no aumenta con la concentración.
+12|a|1 semivida no basta.
+12|b|2 semividas no bastan.
+12|d|10 semividas es mucho más de lo necesario.
+13|a|El efecto colateral forma parte del propio mecanismo del fármaco en otro órgano.
+13|b|El efecto tóxico se debe a dosis excesivas.
+13|d|La reacción de tipo B es impredecible (alergia, idiosincrasia).
+14|a|El secundario es una consecuencia indirecta de la acción principal.
+14|b|No se debe a una dosis tóxica.
+14|c|El tipo F es el fallo terapéutico.
+15|b|Las sobredosis quedan excluidas de la definición.
+15|c|Los errores de administración también quedan excluidos.
+15|d|Un efecto terapéutico no es una reacción adversa.
+16|a|La de tipo A es dependiente de la dosis y predecible.
+16|c|La de tipo C se debe al uso crónico.
+16|d|La de tipo E aparece al suspender el fármaco.
+17|a|No es una exageración del efecto dependiente de la dosis.
+17|b|No es una reacción inmediata impredecible.
+17|c|No se debe al uso crónico.
+18|a|No es una exageración del efecto dependiente de la dosis.
+18|b|No es un efecto rebote al suspender.
+18|d|No se debe al uso crónico.
+19|b|Miles de pacientes es la fase III.
+19|c|El seguimiento tras la comercialización es la fase IV.
+19|d|La eficacia en enfermos es la fase II.
+20|a|La fase I se hace en voluntarios sanos.
+20|c|La fase II evalúa la eficacia inicial.
+20|d|La fase III es previa a la autorización.
+21|b|No indica que el fármaco sea peligroso.
+21|c|No indica que se vaya a retirar.
+21|d|No indica que sea sin receta.
+22|a|No todos los genéricos lo llevan.
+22|b|El uso hospitalario no obliga a llevarlo.
+22|d|Precisamente son los nuevos, no los antiguos.
+23|a|La Ley 41/2002 regula la autonomía del paciente.
+23|b|El RD 954/2015 regula la indicación enfermera de medicamentos.
+23|c|El RD 1093/2010 regula los informes clínicos.
+24|a|No se identifica con nombre completo ni DNI.
+24|c|No basta el número de historia.
+24|d|No se pone el nombre completo ni la dirección.
+25|a|Lo prioritario son precisamente las no descritas.
+25|b|Las leves y conocidas no son prioritarias.
+25|d|Niños, ancianos y embarazadas son grupos prioritarios.
+26|b|Lo más nuevo no es siempre lo adecuado.
+26|c|Más fármacos no es uso racional.
+26|d|No se limita a los fármacos sin receta.
+27|a|Una vez al año no cubre las transiciones asistenciales.
+27|b|No solo al alta: también al ingreso y en los traslados.
+27|c|No depende de que lo pida el paciente.
+28|a|La receta médica es exclusiva de médicos, odontólogos y podólogos.
+28|c|El informe de continuidad de cuidados es otro documento.
+28|d|El vale de farmacia no es la denominación legal.
+29|b|No se exigen 10 años.
+29|c|No hace falta ser especialista.
+29|d|No depende de la autorización del médico del centro.
+30|a|El apósito de plata no trata la isquemia del estoma.
+30|b|Esperar una semana ante una necrosis es peligroso.
+30|c|Cambiar el dispositivo no resuelve la isquemia.

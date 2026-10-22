@@ -1,0 +1,90 @@
+1|a|En la fase de choque, la enteral inmediata puede provocar isquemia intestinal.
+1|b|La parenteral inmediata tampoco está indicada en la fase ebb.
+1|d|Un paciente en shock no puede tomar una dieta oral.
+2|b|El marasmo es caquéctico y sin edemas.
+2|c|Los edemas y la albúmina muy baja no son normales.
+2|d|No es una obesidad sarcopénica.
+3|a|No depende de que lo pida el médico: es sistemático.
+3|c|Al alta es demasiado tarde.
+3|d|No se limita a los mayores de 80 años.
+4|a|Un IMC mayor de 25 no indica riesgo nutricional.
+4|b|El punto de edad que suma es 70 años, no 65.
+4|c|La pérdida de peso puntúa según su cuantía y plazo, no por sí sola.
+5|a|Riesgo bajo es 0 puntos.
+5|b|Riesgo medio es 1 punto.
+5|c|Con riesgo alto se interviene, no se espera un año.
+6|a|Normal es de 12 a 14.
+6|c|Malnutrición es de 0 a 7.
+6|d|Sí es valorable.
+7|a|No se basa en datos analíticos.
+7|b|No es automático: es clínico.
+7|d|No se aplica solo en niños.
+8|b|La albúmina tarda unas 3 semanas en cambiar.
+8|c|La transferrina se altera por la ferropenia y el embarazo.
+8|d|La hemoglobina no valora la respuesta nutricional a corto plazo.
+9|b|La disfagia tras un ictus es precisamente una indicación de enteral.
+9|c|El Crohn estable no la contraindica.
+9|d|La anorexia oncológica no la contraindica.
+10|a|La sonda nasogástrica no se recomienda tanto tiempo.
+10|b|La nasoyeyunal también es una sonda nasal de corta duración.
+10|d|Si el intestino funciona, no se usa la parenteral.
+11|a|Los bolos por yeyuno producen diarrea y dumping.
+11|c|Los bolos rápidos por gravedad no se toleran.
+11|d|No se dan bolos nocturnos por yeyuno.
+12|a|No es 1 mm.
+12|b|3 mm serían unas 9 unidades French.
+12|c|0,1 mm no es la equivalencia.
+13|a|No es una sonda fina de silicona para nutrición.
+13|b|Tiene doble luz, no una sola.
+13|d|La de lavado gástrico grueso es la de Ewald.
+14|b|La auscultación no es fiable.
+14|c|Que hable no confirma la posición.
+14|d|Las burbujas no son un método fiable.
+15|a|No es el método de elección.
+15|b|No es obligatoria en ningún caso.
+15|c|No sustituye a la radiografía.
+16|a|No hace falta suspender con 250 ml sin otros signos.
+16|c|No está indicado cambiar a parenteral.
+16|d|No hay motivo para retirar la sonda.
+17|b|Una vez al día no basta para evitar la obstrucción.
+17|c|Se lava de forma preventiva, no solo al obstruirse.
+17|d|Cada 15 minutos es excesivo.
+18|a|Añadirlos a la bolsa coagula las proteínas y obstruye la sonda.
+18|b|Las formas retard no se trituran.
+18|d|Las cápsulas blandas enteras obstruyen la sonda.
+19|a|Diluir la fórmula no es siempre lo primero.
+19|b|No se cambia de fórmula sin investigar la causa.
+19|c|No se suspende sin revisar antes las causas.
+20|a|Los hidratos aumentan el CO₂.
+20|c|No hace falta restringir las proteínas.
+20|d|La monomérica no es la indicada en la EPOC.
+21|a|Los aromáticos empeoran la encefalopatía.
+21|b|La hiperproteica estándar no está indicada.
+21|d|La fórmula rica en potasio no es la específica hepática.
+22|b|La polimérica necesita digestión pancreática.
+22|c|Las grasas estimulan el páncreas.
+22|d|La fórmula renal no es la indicada.
+23|a|Más de 1.500 mOsm/l solo puede ir por vía central.
+23|c|Por vía periférica no se mantiene durante años.
+23|d|Esos aportes no caben en una periférica.
+24|a|No es obligatoria en todos los adultos.
+24|b|No se limita a los pacientes oncológicos.
+24|c|No depende de que lleve insulina.
+25|a|Cada 24 horas es demasiado frecuente para un apósito transparente.
+25|b|Cada 48 horas es el plazo del apósito de gasa.
+25|d|No se deja hasta retirar el catéter.
+26|b|72 horas es demasiado para los sistemas con lípidos.
+26|c|7 días es excesivo.
+26|d|No se espera a la obstrucción.
+27|a|Forzar con jeringa pequeña puede romper el catéter.
+27|b|No siempre hay que retirarlo.
+27|c|La heparina a presión puede romper el catéter o embolizar el trombo.
+28|a|Al iniciarla el riesgo es la hiperglucemia.
+28|c|Cambiar el apósito no afecta a la glucemia.
+28|d|Los lípidos no producen hipoglucemia de rebote.
+29|b|Un IMC menor de 25 no es criterio.
+29|c|La edad no es un criterio mayor.
+29|d|2 días de ayuno no bastan.
+30|a|Empezar con el 100% provoca el síndrome.
+30|b|La tiamina se da antes, de forma preventiva.
+30|c|Hay que controlar el fósforo a diario.

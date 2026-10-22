@@ -1,0 +1,90 @@
+1|a|No se puede analizar lo que aún no se ha encontrado: se adquiere antes de analizar.
+1|c|Primero hay que formular la pregunta (averiguar); luego se busca.
+1|d|Se aplica después de analizar críticamente, no antes.
+2|a|Reducir resultados es lo que hace AND.
+2|b|Excluir es lo que hace NOT.
+2|d|Obligar a que aparezcan ambos es AND.
+3|b|El razonamiento deductivo es propio de la investigación cuantitativa.
+3|c|El hipotético-deductivo es el método cuantitativo.
+3|d|«Experimental» es un tipo de diseño, no de razonamiento.
+4|a|SPIDER es para preguntas cualitativas.
+4|b|ECLIPSE es para preguntas de gestión y servicios.
+4|c|SPICE es para preguntas cualitativas o de evaluación.
+5|a|Si solo lo desconoce el paciente es simple ciego.
+5|c|Si el paciente conoce la asignación, no es doble ciego.
+5|d|Que lo desconozca además el analista es triple ciego.
+6|a|Una cohorte prospectiva exigiría seguir a muchísima gente durante años.
+6|b|El ensayo clínico es experimental, no observacional, y no estudia factores de riesgo.
+6|d|El transversal mide prevalencia y no sirve para enfermedades raras ni latencias largas.
+7|b|La OR es la medida de los casos y controles.
+7|c|La prevalencia es una medida de frecuencia, no de asociación.
+7|d|La sensibilidad es una propiedad de las pruebas diagnósticas.
+8|a|Ausencia de asociación sería un RR de 1.
+8|b|Duplicar el riesgo sería un RR de 2.
+8|c|Factor de riesgo sería un RR mayor que 1.
+9|a|La credibilidad equivale a la validez interna.
+9|c|La dependencia equivale a la fiabilidad.
+9|d|La confirmabilidad equivale a la objetividad.
+10|a|En el aleatorio simple se eligen individuos, no grupos.
+10|b|En el estratificado los grupos (estratos) son homogéneos y se muestrea dentro de cada uno.
+10|d|El muestreo por cuotas no es aleatorio.
+11|b|Continua sería si admitiera decimales (peso, temperatura).
+11|c|Es numérica, no cualitativa.
+11|d|Es numérica, no cualitativa.
+12|a|El efecto Hawthorne es el cambio de conducta del sujeto al saberse observado.
+12|b|El sesgo de Berkson aparece al seleccionar casos en el hospital.
+12|c|El sesgo de Neyman (prevalencia-incidencia) se debe a las muertes o curaciones antes del estudio.
+13|a|Los factores de confusión se controlan con el diseño o el análisis, no con el funnel plot.
+13|c|El sesgo de memoria aparece en los casos y controles.
+13|d|Las pérdidas de seguimiento no se detectan con el funnel plot.
+14|a|La alta especificidad se prioriza en las pruebas de confirmación.
+14|b|El VPP depende de la prevalencia; no es el criterio de elección del cribado.
+14|d|La prevalencia no es una característica de la prueba.
+15|b|La sensibilidad es intrínseca a la prueba: no cambia con la prevalencia.
+15|c|La especificidad tampoco cambia con la prevalencia.
+15|d|Ninguna de las dos cambia: son propiedades de la prueba.
+16|a|Wilcoxon compara dos medidas relacionadas.
+16|b|Mann-Whitney compara solo dos grupos independientes.
+16|c|Friedman es para medidas repetidas (relacionadas).
+17|a|STROBE es para estudios observacionales.
+17|c|PRISMA es para revisiones sistemáticas y metaanálisis.
+17|d|STARD es para estudios de pruebas diagnósticas.
+18|b|Para publicar ensayos clínicos se usa CONSORT.
+18|c|Los estudios cualitativos se evalúan con otras herramientas (COREQ, CASPe cualitativa).
+18|d|AGREE no sirve para calcular tamaños muestrales.
+19|a|La 2010/32/UE trata las lesiones por instrumentos cortopunzantes.
+19|b|La 2013/59/Euratom trata la protección radiológica.
+19|d|La 2004/37/CE trata los agentes carcinógenos.
+20|a|El personal estatutario sí está incluido.
+20|c|Los socios trabajadores de cooperativas sí están incluidos.
+20|d|Los trabajadores temporales sí están incluidos.
+21|a|La mascarilla FFP3 sí es un EPI frente a riesgo biológico.
+21|b|El delantal plomado sí es un EPI frente a radiaciones.
+21|c|Las gafas frente a salpicaduras sí son un EPI.
+22|b|Ser temporal no la hace obligatoria.
+22|c|El tamaño del centro no la hace obligatoria.
+22|d|No la decide el supervisor.
+23|a|6 trabajadores es la cifra a partir de la cual hay Delegado de Prevención, no Comité.
+23|b|25 no es el umbral del Comité.
+23|d|250 no es el umbral: es 50.
+24|a|La suspensión del contrato es el último paso.
+24|c|El cambio de puesto es el 2.º paso, y además se mantiene el 100% de las retribuciones de origen.
+24|d|La baja por IT no es la medida preventiva del art. 26.
+25|a|50 trabajadores es el umbral del Comité de Seguridad y Salud.
+25|b|100 no es el umbral del servicio propio.
+25|c|Entre 250 y 500 solo es obligatorio si se hacen actividades del Anexo I, no en cualquier actividad.
+26|b|La higiene industrial se ocupa de agentes químicos, físicos y biológicos.
+26|c|La seguridad se ocupa de los accidentes de trabajo.
+26|d|La ergonomía se ocupa de la adaptación física del puesto (cargas, posturas).
+27|a|El grupo 1 no causa enfermedad en el ser humano.
+27|b|El grupo 2 causa enfermedad poco probable de propagarse.
+27|d|El grupo 4 es grave, se propaga y no tiene tratamiento (por ejemplo, Ébola).
+28|a|La mascarilla quirúrgica no protege frente a la transmisión aérea.
+28|b|El contacto no es su vía de transmisión principal.
+28|c|Las precauciones estándar no bastan para la tuberculosis pulmonar.
+29|a|La solución hidroalcohólica no elimina las esporas.
+29|c|Los guantes nunca sustituyen la higiene de manos.
+29|d|El alcohol de 70º no es esporicida.
+30|a|Crítico es el material que entra en tejido estéril (bisturí, catéteres).
+30|b|No crítico es el que solo toca piel intacta (fonendo, manguito).
+30|d|El material crítico requiere esterilización, no desinfección de bajo nivel.

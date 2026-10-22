@@ -7,181 +7,211 @@
       "q": "Un politraumatizado ingresa hipotenso, frío y mal perfundido (fase ebb de Cuthbertson). Respecto a la nutrición:",
       "o": ["Debe iniciarse nutrición enteral inmediata para mejorar la inmunidad", "Debe iniciarse nutrición parenteral total de inmediato", "Está contraindicada hasta su estabilización, por riesgo de isquemia mesentérica", "Debe darse una dieta oral hiperproteica"],
       "a": 2,
-      "e": "En la fase de choque el flujo esplácnico está comprometido. La nutrición precoz se inicia en la fase flow, ya estabilizado."
+      "e": "En la fase de choque el flujo esplácnico está comprometido. La nutrición precoz se inicia en la fase flow, ya estabilizado.",
+      "por": ["En la fase de choque, la enteral inmediata puede provocar isquemia intestinal.", "La parenteral inmediata tampoco está indicada en la fase ebb.", null, "Un paciente en shock no puede tomar una dieta oral."]
     },
     {
       "q": "Un paciente crítico con sepsis conserva su tejido graso pero presenta edemas generalizados, ascitis y una albúmina muy baja. Corresponde a:",
       "o": ["Kwashiorkor (desnutrición proteica aguda)", "Marasmo", "Estado nutricional normal", "Obesidad sarcopénica"],
       "a": 0,
-      "e": "El marasmo es crónico y caquéctico, sin edemas; el kwashiorkor es agudo, por estrés, y su aspecto edematoso engaña."
+      "e": "El marasmo es crónico y caquéctico, sin edemas; el kwashiorkor es agudo, por estrés, y su aspecto edematoso engaña.",
+      "por": [null, "El marasmo es caquéctico y sin edemas.", "Los edemas y la albúmina muy baja no son normales.", "No es una obesidad sarcopénica."]
     },
     {
       "q": "El cribado nutricional de todo paciente que ingresa en un hospital debe realizarse:",
       "o": ["Solo si lo solicita el médico", "En las primeras 24-48 horas del ingreso", "Al alta", "Únicamente en mayores de 80 años"],
       "a": 1,
-      "e": "Si el cribado es positivo, se realiza una valoración nutricional completa y se planifica el soporte."
+      "e": "Si el cribado es positivo, se realiza una valoración nutricional completa y se planifica el soporte.",
+      "por": ["No depende de que lo pida el médico: es sistemático.", null, "Al alta es demasiado tarde.", "No se limita a los mayores de 80 años."]
     },
     {
       "q": "En el NRS-2002, el paciente se considera en riesgo nutricional cuando:",
       "o": ["Su IMC es superior a 25", "Tiene más de 65 años", "Ha perdido peso en el último año", "La puntuación total es ≥ 3, sumando 1 punto si tiene 70 años o más"],
       "a": 3,
-      "e": "Combina estado nutricional y gravedad de la enfermedad; es la herramienta de elección en el adulto hospitalizado."
+      "e": "Combina estado nutricional y gravedad de la enfermedad; es la herramienta de elección en el adulto hospitalizado.",
+      "por": ["Un IMC mayor de 25 no indica riesgo nutricional.", "El punto de edad que suma es 70 años, no 65.", "La pérdida de peso puntúa según su cuantía y plazo, no por sí sola.", null]
     },
     {
       "q": "En la herramienta MUST, una puntuación total de 2 o más indica:",
       "o": ["Riesgo bajo", "Riesgo medio", "Necesidad de repetir el cribado al año", "Riesgo alto de malnutrición"],
       "a": 3,
-      "e": "0 riesgo bajo, 1 riesgo medio y ≥ 2 riesgo alto, que requiere intervención."
+      "e": "0 riesgo bajo, 1 riesgo medio y ≥ 2 riesgo alto, que requiere intervención.",
+      "por": ["Riesgo bajo es 0 puntos.", "Riesgo medio es 1 punto.", "Con riesgo alto se interviene, no se espera un año.", null]
     },
     {
       "q": "Un paciente de 78 años obtiene 9 puntos en el MNA-SF. Se interpreta como:",
       "o": ["Estado nutricional normal", "Riesgo de malnutrición", "Malnutrición establecida", "Puntuación no valorable"],
       "a": 1,
-      "e": "12-14 normal; 8-11 riesgo de malnutrición; 0-7 malnutrición."
+      "e": "12-14 normal; 8-11 riesgo de malnutrición; 0-7 malnutrición.",
+      "por": ["Normal es de 12 a 14.", null, "Malnutrición es de 0 a 7.", "Sí es valorable."]
     },
     {
       "q": "La valoración global subjetiva (VGS) se caracteriza por:",
       "o": ["Basarse en la albúmina y los linfocitos", "Ser un cribado automático informático", "Basarse en la anamnesis y la exploración física, clasificando en A, B o C", "Aplicarse solo en niños"],
       "a": 2,
-      "e": "A: bien nutrido; B: desnutrición leve-moderada o sospecha; C: desnutrición grave."
+      "e": "A: bien nutrido; B: desnutrición leve-moderada o sospecha; C: desnutrición grave.",
+      "por": ["No se basa en datos analíticos.", "No es automático: es clínico.", null, "No se aplica solo en niños."]
     },
     {
       "q": "Para comprobar si la nutrición artificial iniciada hace 5 días está siendo eficaz, el parámetro más útil es la:",
       "o": ["Prealbúmina, por su vida media de unos 2 días", "Albúmina", "Transferrina", "Hemoglobina"],
       "a": 0,
-      "e": "La albúmina (≈ 21 días) refleja la desnutrición crónica y se altera con la inflamación; la transferrina sube en ferropenia y embarazo."
+      "e": "La albúmina (≈ 21 días) refleja la desnutrición crónica y se altera con la inflamación; la transferrina sube en ferropenia y embarazo.",
+      "por": [null, "La albúmina tarda unas 3 semanas en cambiar.", "La transferrina se altera por la ferropenia y el embarazo.", "La hemoglobina no valora la respuesta nutricional a corto plazo."]
     },
     {
       "q": "Es una contraindicación absoluta de la nutrición enteral:",
       "o": ["La obstrucción intestinal mecánica completa", "La disfagia tras un ictus", "La enfermedad de Crohn estable", "El paciente oncológico con anorexia"],
       "a": 0,
-      "e": "También lo son el íleo paralítico grave, la hemorragia digestiva activa, la perforación, la peritonitis difusa y la isquemia mesentérica."
+      "e": "También lo son el íleo paralítico grave, la hemorragia digestiva activa, la perforación, la peritonitis difusa y la isquemia mesentérica.",
+      "por": [null, "La disfagia tras un ictus es precisamente una indicación de enteral.", "El Crohn estable no la contraindica.", "La anorexia oncológica no la contraindica."]
     },
     {
       "q": "Cuando la nutrición enteral se prevé durante más de 4-6 semanas, el acceso de elección es:",
       "o": ["La sonda nasogástrica de PVC", "La sonda nasoyeyunal", "La gastrostomía endoscópica percutánea (PEG)", "La nutrición parenteral"],
       "a": 2,
-      "e": "El uso prolongado de sondas nasales produce lesiones nasales, sinusitis y erosión esofágica."
+      "e": "El uso prolongado de sondas nasales produce lesiones nasales, sinusitis y erosión esofágica.",
+      "por": ["La sonda nasogástrica no se recomienda tanto tiempo.", "La nasoyeyunal también es una sonda nasal de corta duración.", null, "Si el intestino funciona, no se usa la parenteral."]
     },
     {
       "q": "Por una sonda nasoyeyunal la nutrición debe administrarse:",
       "o": ["En bolos de 300 ml cada 4 horas", "En infusión continua con bomba", "Por gravedad en bolos rápidos", "Solo de noche en bolo"],
       "a": 1,
-      "e": "El intestino delgado no tiene función de reservorio; los bolos producen diarrea y dumping."
+      "e": "El intestino delgado no tiene función de reservorio; los bolos producen diarrea y dumping.",
+      "por": ["Los bolos por yeyuno producen diarrea y dumping.", null, "Los bolos rápidos por gravedad no se toleran.", "No se dan bolos nocturnos por yeyuno."]
     },
     {
       "q": "En la escala French de las sondas, una unidad equivale a:",
       "o": ["1 mm de diámetro interno", "3 mm de diámetro externo", "0,1 mm de diámetro", "0,33 mm de diámetro externo"],
       "a": 3,
-      "e": "A mayor número French, mayor grosor. Las sondas de nutrición suelen ser de 8-12 Fr."
+      "e": "A mayor número French, mayor grosor. Las sondas de nutrición suelen ser de 8-12 Fr.",
+      "por": ["No es 1 mm.", "3 mm serían unas 9 unidades French.", "0,1 mm no es la equivalencia.", null]
     },
     {
       "q": "La sonda de Salem se caracteriza por:",
       "o": ["Ser de silicona fina para nutrición", "Tener una sola luz", "Tener doble luz, una de ellas como respiradero que evita succionar la mucosa gástrica", "Usarse para lavado gástrico con 30 Fr"],
       "a": 2,
-      "e": "La de Levin tiene una sola luz; la de Ewald (25-30 Fr) se usa en lavados gástricos urgentes."
+      "e": "La de Levin tiene una sola luz; la de Ewald (25-30 Fr) se usa en lavados gástricos urgentes.",
+      "por": ["No es una sonda fina de silicona para nutrición.", "Tiene doble luz, no una sola.", null, "La de lavado gástrico grueso es la de Ewald."]
     },
     {
       "q": "El método de referencia para confirmar la posición de una sonda nasogástrica antes de iniciar la nutrición es:",
       "o": ["La radiografía", "La auscultación epigástrica tras insuflar aire", "Pedir al paciente que hable", "Observar si salen burbujas al sumergir el extremo"],
       "a": 0,
-      "e": "A pie de cama puede medirse el pH del aspirado (ácido < 4-5), teniendo en cuenta que los IBP lo alteran."
+      "e": "A pie de cama puede medirse el pH del aspirado (ácido < 4-5), teniendo en cuenta que los IBP lo alteran.",
+      "por": [null, "La auscultación no es fiable.", "Que hable no confirma la posición.", "Las burbujas no son un método fiable."]
     },
     {
       "q": "Respecto a la auscultación del aire insuflado para comprobar la sonda nasogástrica, es correcto que:",
       "o": ["Es el método de elección", "Es obligatoria en intubados", "Sustituye a la radiografía", "Está desaconsejada porque puede dar falsos positivos"],
       "a": 3,
-      "e": "El sonido de una sonda mal colocada en el árbol bronquial puede transmitirse al epigastrio."
+      "e": "El sonido de una sonda mal colocada en el árbol bronquial puede transmitirse al epigastrio.",
+      "por": ["No es el método de elección.", "No es obligatoria en ningún caso.", "No sustituye a la radiografía.", null]
     },
     {
       "q": "Un paciente con nutrición enteral continua a 60 ml/h tiene un residuo gástrico de 250 ml, sin distensión ni vómitos. Lo correcto es:",
       "o": ["Suspender la nutrición 24 horas", "Reinfundir el residuo y continuar al mismo ritmo", "Cambiar a nutrición parenteral", "Retirar la sonda"],
       "a": 1,
-      "e": "El umbral actual de alarma es > 500 ml. Si el residuo preocupa, se valoran procinéticos antes de suspender."
+      "e": "El umbral actual de alarma es > 500 ml. Si el residuo preocupa, se valoran procinéticos antes de suspender.",
+      "por": ["No hace falta suspender con 250 ml sin otros signos.", null, "No está indicado cambiar a parenteral.", "No hay motivo para retirar la sonda."]
     },
     {
       "q": "En la nutrición enteral continua por bomba, la sonda debe lavarse con 20-30 ml de agua:",
       "o": ["Cada 4-6 horas", "Una vez al día", "Solo si se obstruye", "Cada 15 minutos"],
       "a": 0,
-      "e": "También antes y después de cada toma intermitente y antes, entre y después de cada fármaco."
+      "e": "También antes y después de cada toma intermitente y antes, entre y después de cada fármaco.",
+      "por": [null, "Una vez al día no basta para evitar la obstrucción.", "Se lava de forma preventiva, no solo al obstruirse.", "Cada 15 minutos es excesivo."]
     },
     {
       "q": "Respecto a la administración de fármacos en pacientes con nutrición enteral, es correcto:",
       "o": ["Mezclarlos todos en la bolsa de nutrición", "Triturar los comprimidos de liberación prolongada", "Administrarlos por separado, lavando la sonda entre ellos y sin añadirlos a la bolsa", "Introducir las cápsulas blandas enteras"],
       "a": 2,
-      "e": "Añadirlos a la bolsa coagula las proteínas y obstruye la sonda; las formas retard y entéricas no se trituran."
+      "e": "Añadirlos a la bolsa coagula las proteínas y obstruye la sonda; las formas retard y entéricas no se trituran.",
+      "por": ["Añadirlos a la bolsa coagula las proteínas y obstruye la sonda.", "Las formas retard no se trituran.", null, "Las cápsulas blandas enteras obstruyen la sonda."]
     },
     {
       "q": "Ante una diarrea en un paciente con nutrición enteral, antes de suspender la nutrición se debe:",
       "o": ["Diluir la fórmula al 50% siempre", "Pasar a una fórmula monomérica", "Suspenderla de inmediato", "Revisar los fármacos (sorbitol, antibióticos, laxantes) y descartar Clostridioides difficile"],
       "a": 3,
-      "e": "Se puede reducir la velocidad o la concentración y valorar fibra soluble o fórmulas peptídicas."
+      "e": "Se puede reducir la velocidad o la concentración y valorar fibra soluble o fórmulas peptídicas.",
+      "por": ["Diluir la fórmula no es siempre lo primero.", "No se cambia de fórmula sin investigar la causa.", "No se suspende sin revisar antes las causas.", null]
     },
     {
       "q": "En un paciente con EPOC grave retenedor de CO₂ que precisa nutrición enteral, la fórmula indicada es:",
       "o": ["Rica en hidratos de carbono", "Con mayor proporción de grasas y menos hidratos", "Hipoproteica", "Monomérica"],
       "a": 1,
-      "e": "Los hidratos generan más CO₂ (mayor cociente respiratorio) y dificultan el destete."
+      "e": "Los hidratos generan más CO₂ (mayor cociente respiratorio) y dificultan el destete.",
+      "por": ["Los hidratos aumentan el CO₂.", null, "No hace falta restringir las proteínas.", "La monomérica no es la indicada en la EPOC."]
     },
     {
       "q": "La fórmula enteral específica para la insuficiencia hepática con encefalopatía es:",
       "o": ["Rica en aminoácidos aromáticos", "Hiperproteica estándar", "Rica en aminoácidos ramificados y pobre en aromáticos", "Rica en potasio"],
       "a": 2,
-      "e": "Los aminoácidos aromáticos actúan como falsos neurotransmisores y favorecen la encefalopatía."
+      "e": "Los aminoácidos aromáticos actúan como falsos neurotransmisores y favorecen la encefalopatía.",
+      "por": ["Los aromáticos empeoran la encefalopatía.", "La hiperproteica estándar no está indicada.", null, "La fórmula rica en potasio no es la específica hepática."]
     },
     {
       "q": "En una pancreatitis aguda grave con sonda yeyunal, la fórmula más adecuada es la:",
       "o": ["Oligomérica o peptídica", "Polimérica estándar", "Rica en grasas", "Hipoproteica renal"],
       "a": 0,
-      "e": "El páncreas inflamado no aporta enzimas suficientes; los péptidos se absorben sin necesidad de digestión pancreática."
+      "e": "El páncreas inflamado no aporta enzimas suficientes; los péptidos se absorben sin necesidad de digestión pancreática.",
+      "por": [null, "La polimérica necesita digestión pancreática.", "Las grasas estimulan el páncreas.", "La fórmula renal no es la indicada."]
     },
     {
       "q": "La nutrición parenteral periférica se caracteriza por:",
       "o": ["Admitir osmolaridades superiores a 1.500 mOsm/l", "Tener una osmolaridad inferior a 800 mOsm/l y una duración máxima de 7-10 días", "Poder mantenerse durante años", "Aportar más de 25 g de nitrógeno al día"],
       "a": 1,
-      "e": "Las mezclas hiperosmolares requieren un catéter central con la punta en la vena cava superior."
+      "e": "Las mezclas hiperosmolares requieren un catéter central con la punta en la vena cava superior.",
+      "por": ["Más de 1.500 mOsm/l solo puede ir por vía central.", null, "Por vía periférica no se mantiene durante años.", "Esos aportes no caben en una periférica."]
     },
     {
       "q": "La protección frente a la luz de las bolsas y sistemas de nutrición parenteral es obligatoria en:",
       "o": ["Todos los adultos del hospital", "Solo en pacientes oncológicos", "Solo si la bolsa contiene insulina", "Menores de 2 años"],
       "a": 3,
-      "e": "La luz genera peróxidos a partir de lípidos y aminoácidos, especialmente dañinos en neonatos y lactantes."
+      "e": "La luz genera peróxidos a partir de lípidos y aminoácidos, especialmente dañinos en neonatos y lactantes.",
+      "por": ["No es obligatoria en todos los adultos.", "No se limita a los pacientes oncológicos.", "No depende de que lleve insulina.", null]
     },
     {
       "q": "Según Bacteriemia Zero, el apósito transparente del catéter venoso central se cambia:",
       "o": ["Cada 24 horas", "Cada 48 horas", "Cada 7 días, o antes si está sucio, húmedo o despegado", "Solo al retirar el catéter"],
       "a": 2,
-      "e": "El apósito de gasa (sudoración o sangrado) se cambia cada 48 horas."
+      "e": "El apósito de gasa (sudoración o sangrado) se cambia cada 48 horas.",
+      "por": ["Cada 24 horas es demasiado frecuente para un apósito transparente.", "Cada 48 horas es el plazo del apósito de gasa.", null, "No se deja hasta retirar el catéter."]
     },
     {
       "q": "Los sistemas de infusión por los que pasa una nutrición parenteral con lípidos deben cambiarse:",
       "o": ["Cada 24 horas", "Cada 72 horas", "Cada 7 días", "Solo si se obstruyen"],
       "a": 0,
-      "e": "Los lípidos son un medio de cultivo idóneo. Además, la luz de la nutrición es exclusiva y se desinfecta el conector antes de usarlo."
+      "e": "Los lípidos son un medio de cultivo idóneo. Además, la luz de la nutrición es exclusiva y se desinfecta el conector antes de usarlo.",
+      "por": [null, "72 horas es demasiado para los sistemas con lípidos.", "7 días es excesivo.", "No se espera a la obstrucción."]
     },
     {
       "q": "Ante un catéter venoso central que no refluye por sospecha de trombo, la actuación correcta es:",
       "o": ["Forzar el lavado con una jeringa de 2 ml", "Retirar siempre el catéter", "Administrar un bolo de heparina a presión", "No forzar con jeringas pequeñas e instilar uroquinasa según protocolo y aspirar"],
       "a": 3,
-      "e": "Las jeringas pequeñas generan presiones que pueden romper el catéter; se usan jeringas de ≥ 10 ml."
+      "e": "Las jeringas pequeñas generan presiones que pueden romper el catéter; se usan jeringas de ≥ 10 ml.",
+      "por": ["Forzar con jeringa pequeña puede romper el catéter.", "No siempre hay que retirarlo.", "La heparina a presión puede romper el catéter o embolizar el trombo.", null]
     },
     {
       "q": "La hipoglucemia de rebote en un paciente con nutrición parenteral central se produce sobre todo:",
       "o": ["Al iniciar la nutrición", "Al suspender bruscamente la infusión", "Al cambiar el apósito", "Al añadir lípidos"],
       "a": 1,
-      "e": "Se previene reduciendo el ritmo a la mitad en las últimas 1-2 horas o con un suero glucosado al 10% al mismo ritmo."
+      "e": "Se previene reduciendo el ritmo a la mitad en las últimas 1-2 horas o con un suero glucosado al 10% al mismo ritmo.",
+      "por": ["Al iniciarla el riesgo es la hiperglucemia.", null, "Cambiar el apósito no afecta a la glucemia.", "Los lípidos no producen hipoglucemia de rebote."]
     },
     {
       "q": "Según los criterios NICE, es un criterio mayor de alto riesgo de síndrome de realimentación:",
       "o": ["IMC inferior a 16 kg/m²", "IMC inferior a 25 kg/m²", "Edad superior a 65 años", "Ayuno de 2 días"],
       "a": 0,
-      "e": "Otros criterios mayores: pérdida de peso > 15% en 3-6 meses, ingesta mínima > 10 días o K, P o Mg bajos antes de alimentar."
+      "e": "Otros criterios mayores: pérdida de peso > 15% en 3-6 meses, ingesta mínima > 10 días o K, P o Mg bajos antes de alimentar.",
+      "por": [null, "Un IMC menor de 25 no es criterio.", "La edad no es un criterio mayor.", "2 días de ayuno no bastan."]
     },
     {
       "q": "Para prevenir el síndrome de realimentación en un paciente de alto riesgo, se recomienda:",
       "o": ["Aportar el 100% de los requerimientos desde el primer día", "Administrar la tiamina solo si aparecen síntomas", "Evitar los controles de fósforo", "Empezar con 10-15 kcal/kg/día, subir en 4-7 días y dar tiamina antes de la primera toma"],
       "a": 3,
-      "e": "\"Start low, go slow\", con control diario de fósforo, magnesio y potasio durante las primeras 72 horas."
+      "e": "\"Start low, go slow\", con control diario de fósforo, magnesio y potasio durante las primeras 72 horas.",
+      "por": ["Empezar con el 100% provoca el síndrome.", "La tiamina se da antes, de forma preventiva.", "Hay que controlar el fósforo a diario.", null]
     }
   ]
 }

@@ -7,181 +7,211 @@
       "q": "El Informe Belmont (1978) estableció como principios éticos básicos para la investigación:",
       "o": ["Cuatro principios: autonomía, beneficencia, no maleficencia y justicia", "Tres principios: respeto a las personas, beneficencia y justicia", "Cinco principios, incluida la confidencialidad", "Dos principios: autonomía y justicia"],
       "a": 1,
-      "e": "Belmont formuló 3 principios. En 1979 Beauchamp y Childress separaron la no maleficencia y consolidaron los 4 principios."
+      "e": "Belmont formuló 3 principios. En 1979 Beauchamp y Childress separaron la no maleficencia y consolidaron los 4 principios.",
+      "por": ["Los 4 principios son de Beauchamp y Childress (1979), no del Informe Belmont.", null, "Belmont no incluye la confidencialidad como principio.", "Belmont no se queda en dos principios."]
     },
     {
       "q": "Una enfermera aplica el listado de verificación quirúrgica y comprueba los \"correctos\" antes de administrar un fármaco. Actúa guiada principalmente por el principio de:",
       "o": ["Beneficencia", "Justicia", "Autonomía", "No maleficencia"],
       "a": 3,
-      "e": "Las acciones dirigidas a evitar daños y eventos adversos responden al principio de no maleficencia (primum non nocere)."
+      "e": "Las acciones dirigidas a evitar daños y eventos adversos responden al principio de no maleficencia (primum non nocere).",
+      "por": ["La beneficencia busca hacer el bien activamente; evitar daños es la no maleficencia.", "La justicia trata del reparto equitativo de recursos.", "La autonomía es respetar las decisiones del paciente.", null]
     },
     {
       "q": "Según Diego Gracia, los principios que forman la ética de mínimos son:",
       "o": ["No maleficencia y justicia", "Autonomía y beneficencia", "Beneficencia y justicia", "Autonomía y no maleficencia"],
       "a": 0,
-      "e": "Mínimos (nivel público, exigibles): no maleficencia y justicia. Máximos (nivel privado): autonomía y beneficencia. Los mínimos prevalecen."
+      "e": "Mínimos (nivel público, exigibles): no maleficencia y justicia. Máximos (nivel privado): autonomía y beneficencia. Los mínimos prevalecen.",
+      "por": [null, "Autonomía y beneficencia son la ética de máximos (privada).", "La beneficencia es de máximos.", "La autonomía es de máximos."]
     },
     {
       "q": "En el método deliberativo, las pruebas de consistencia a las que se somete el curso de acción elegido son:",
       "o": ["Eficacia, eficiencia y efectividad", "Autonomía, beneficencia y justicia", "Legalidad, publicidad y tiempo", "Validez, fiabilidad y aplicabilidad"],
       "a": 2,
-      "e": "¿Es legal? ¿Lo defenderíamos en público? ¿Tomaríamos la misma decisión tras un tiempo de reflexión?"
+      "e": "¿Es legal? ¿Lo defenderíamos en público? ¿Tomaríamos la misma decisión tras un tiempo de reflexión?",
+      "por": ["Eficacia, eficiencia y efectividad son conceptos de calidad, no de deliberación.", "Son principios de la bioética, no las pruebas de consistencia.", null, "Validez, fiabilidad y aplicabilidad son criterios de lectura crítica."]
     },
     {
       "q": "Los Comités de Ética Asistencial de la Región de Murcia están regulados por el:",
       "o": ["Decreto 80/2005", "Decreto 66/2005", "Decreto 25/2006", "Decreto 106/2007"],
       "a": 1,
-      "e": "Decreto 66/2005, de 10 de junio. El 80/2005 regula las instrucciones previas; el 25/2006, la demora máxima; el 106/2007, la segunda opinión."
+      "e": "Decreto 66/2005, de 10 de junio. El 80/2005 regula las instrucciones previas; el 25/2006, la demora máxima; el 106/2007, la segunda opinión.",
+      "por": ["El Decreto 80/2005 regula las instrucciones previas.", null, "El Decreto 25/2006 regula la demora máxima.", "El Decreto 106/2007 regula la segunda opinión."]
     },
     {
       "q": "Según el Decreto 66/2005, ¿cuál de las siguientes NO es una función de los Comités de Ética Asistencial?",
       "o": ["Emitir informes consultivos sobre dilemas éticos", "Colaborar en la elaboración de protocolos con implicaciones éticas", "Promover la formación en bioética", "Evaluar proyectos de ensayos clínicos"],
       "a": 3,
-      "e": "Los ensayos clínicos los evalúa el CEIm. Los CEA tampoco median en conflictos laborales ni tramitan quejas."
+      "e": "Los ensayos clínicos los evalúa el CEIm. Los CEA tampoco median en conflictos laborales ni tramitan quejas.",
+      "por": ["Emitir informes consultivos sí es función de los CEA.", "Colaborar en protocolos con implicaciones éticas sí es función.", "Promover la formación en bioética sí es función.", null]
     },
     {
       "q": "Los informes y recomendaciones de un Comité de Ética Asistencial son:",
       "o": ["No vinculantes", "Vinculantes para el profesional", "Vinculantes solo si son unánimes", "De obligado cumplimiento para la gerencia"],
       "a": 0,
-      "e": "El CEA asesora; no sustituye la responsabilidad del profesional ni actúa como tribunal."
+      "e": "El CEA asesora; no sustituye la responsabilidad del profesional ni actúa como tribunal.",
+      "por": [null, "No son vinculantes para el profesional.", "Ni siquiera unánimes son vinculantes.", "No obligan a la gerencia."]
     },
     {
       "q": "Un paciente inconsciente tiene registradas instrucciones previas que rechazan la ventilación mecánica, pero su familia exige que se le conecte. Debe prevalecer:",
       "o": ["La opinión unánime de la familia", "El criterio del Comité de Ética Asistencial", "Lo establecido en las instrucciones previas", "La decisión del juez de guardia en todo caso"],
       "a": 2,
-      "e": "Las instrucciones previas expresan la autonomía del paciente; la familia no puede revocarlas."
+      "e": "Las instrucciones previas expresan la autonomía del paciente; la familia no puede revocarlas.",
+      "por": ["La familia no puede revocar la voluntad expresada por el paciente.", "El CEA asesora; no decide por encima del paciente.", null, "No hace falta un juez: las instrucciones previas son válidas."]
     },
     {
       "q": "Según el Reglamento europeo de Inteligencia Artificial, un sistema de IA de triaje automatizado en urgencias se clasifica como de:",
       "o": ["Riesgo mínimo", "Alto riesgo", "Uso prohibido", "Riesgo limitado"],
       "a": 1,
-      "e": "La IA que guía decisiones clínicas o forma parte de productos sanitarios es de alto riesgo: exige evaluación de conformidad y supervisión humana."
+      "e": "La IA que guía decisiones clínicas o forma parte de productos sanitarios es de alto riesgo: exige evaluación de conformidad y supervisión humana.",
+      "por": ["Riesgo mínimo es, por ejemplo, un filtro de spam; no apoya decisiones clínicas.", null, "Los prohibidos son, por ejemplo, la manipulación o la puntuación social.", "Riesgo limitado son los chatbots con obligación de transparencia."]
     },
     {
       "q": "En el Espacio Europeo de Datos de Salud, el uso secundario de los datos se refiere a:",
       "o": ["La asistencia sanitaria directa del paciente", "La receta electrónica transfronteriza", "La consulta del historial por un médico de otro país", "La investigación, la estadística y el entrenamiento de algoritmos con datos anonimizados"],
       "a": 3,
-      "e": "Uso primario = asistencia directa; uso secundario = investigación, innovación, salud pública e IA, con anonimización o seudonimización."
+      "e": "Uso primario = asistencia directa; uso secundario = investigación, innovación, salud pública e IA, con anonimización o seudonimización.",
+      "por": ["La asistencia directa es el uso primario.", "La receta electrónica transfronteriza es uso primario.", "Que un médico consulte el historial es uso primario.", null]
     },
     {
       "q": "El secreto que permite que la información del paciente circule entre los miembros del equipo asistencial implicados en su atención se denomina:",
       "o": ["Secreto compartido", "Secreto derivado", "Secreto absoluto", "Secreto relativo"],
       "a": 0,
-      "e": "El derivado afecta al personal no sanitario; el relativo es el modelo vigente con excepciones; el absoluto es insostenible jurídicamente."
+      "e": "El derivado afecta al personal no sanitario; el relativo es el modelo vigente con excepciones; el absoluto es insostenible jurídicamente.",
+      "por": [null, "El derivado es el del personal no sanitario que conoce la información.", "El secreto absoluto no existe jurídicamente: hay excepciones.", "El relativo es el modelo general con excepciones, no el del equipo."]
     },
     {
       "q": "Según el art. 199.2 del Código Penal, el profesional que divulga los secretos de otra persona incumpliendo su deber de sigilo puede ser castigado con:",
       "o": ["Prisión de 6 meses a 1 año", "Prisión de 2 a 5 años", "Prisión de 1 a 4 años, multa e inhabilitación especial de 2 a 6 años", "Solo con multa"],
       "a": 2,
-      "e": "Pena de prisión de 1 a 4 años, multa de 12 a 24 meses e inhabilitación especial para la profesión de 2 a 6 años."
+      "e": "Pena de prisión de 1 a 4 años, multa de 12 a 24 meses e inhabilitación especial para la profesión de 2 a 6 años.",
+      "por": ["De 6 meses a 1 año no es la pena del art. 199.2.", "De 2 a 5 años no es la pena.", null, "No es solo multa: hay prisión e inhabilitación."]
     },
     {
       "q": "El Código Deontológico de la Enfermería Española vigente fue aprobado mediante:",
       "o": ["Una Ley Orgánica de 1989", "La Resolución 32/89 del Consejo General de Enfermería", "Un Real Decreto del Ministerio de Sanidad", "Una Orden Ministerial de 1954"],
       "a": 1,
-      "e": "Es una norma corporativa: Resolución 32/89 del Consejo General de Enfermería, que sustituyó al código de 1954."
+      "e": "Es una norma corporativa: Resolución 32/89 del Consejo General de Enfermería, que sustituyó al código de 1954.",
+      "por": ["No es una Ley Orgánica: es una norma corporativa.", null, "No lo aprobó un Real Decreto.", "El de 1954 era el código anterior, ya sustituido."]
     },
     {
       "q": "El artículo 22 del Código Deontológico de la Enfermería Española regula:",
       "o": ["El secreto profesional", "La actuación en emergencias", "Las relaciones en los puestos de gestión", "La objeción de conciencia"],
       "a": 3,
-      "e": "Art. 19: secreto; art. 22: objeción de conciencia; art. 38: emergencias; art. 39: gestión."
+      "e": "Art. 19: secreto; art. 22: objeción de conciencia; art. 38: emergencias; art. 39: gestión.",
+      "por": ["El secreto profesional es el art. 19.", "Las emergencias son el art. 38.", "La gestión es el art. 39.", null]
     },
     {
       "q": "Según el art. 39 del Código Deontológico, la enfermera que ejerce un puesto de supervisión:",
       "o": ["Nunca reprenderá públicamente a un colega", "Puede amonestar en público para dar ejemplo", "Debe comunicar al Colegio cualquier error", "Puede delegar su responsabilidad deontológica"],
       "a": 0,
-      "e": "Las correcciones deben hacerse de forma individual y privada, manteniendo una relación dialogante."
+      "e": "Las correcciones deben hacerse de forma individual y privada, manteniendo una relación dialogante.",
+      "por": [null, "No se amonesta en público.", "No obliga a comunicar al Colegio cualquier error.", "La responsabilidad deontológica no se delega."]
     },
     {
       "q": "El Reglamento (UE) 2016/679 de protección de datos:",
       "o": ["Requiere una ley española de transposición para aplicarse", "Solo obliga a las empresas privadas", "Es de aplicación directa en todos los Estados miembros", "Es una recomendación sin efectos vinculantes"],
       "a": 2,
-      "e": "Los reglamentos europeos se aplican directamente; las directivas son las que requieren transposición."
+      "e": "Los reglamentos europeos se aplican directamente; las directivas son las que requieren transposición.",
+      "por": ["No requiere transposición: eso es propio de las directivas.", "Obliga también a las administraciones públicas.", null, "Es vinculante, no una recomendación."]
     },
     {
       "q": "Una enfermera consulta por curiosidad la historia clínica de un vecino que no es su paciente. Vulnera especialmente el principio del RGPD de:",
       "o": ["Exactitud", "Minimización de datos", "Limitación del plazo de conservación", "Transparencia"],
       "a": 1,
-      "e": "Solo se debe acceder a los datos estrictamente necesarios para la finalidad asistencial; además es una infracción muy grave."
+      "e": "Solo se debe acceder a los datos estrictamente necesarios para la finalidad asistencial; además es una infracción muy grave.",
+      "por": ["Exactitud es que los datos sean correctos y estén actualizados.", null, "La limitación del plazo trata de cuánto tiempo se conservan.", "La transparencia trata de informar al interesado."]
     },
     {
       "q": "Según el RGPD, para que el consentimiento sea válido:",
       "o": ["Basta con que el paciente no se oponga", "Puede presumirse si el paciente es atendido", "Se admiten casillas premarcadas", "Debe ser una manifestación inequívoca mediante una clara acción afirmativa"],
       "a": 3,
-      "e": "Debe ser libre, específico, informado e inequívoco. Quedan prohibidos el consentimiento tácito, el silencio y las casillas premarcadas."
+      "e": "Debe ser libre, específico, informado e inequívoco. Quedan prohibidos el consentimiento tácito, el silencio y las casillas premarcadas.",
+      "por": ["No basta con no oponerse: el silencio no vale.", "No se presume.", "Las casillas premarcadas están prohibidas.", null]
     },
     {
       "q": "Los datos relativos a la salud tienen, según el art. 9 del RGPD, la consideración de:",
       "o": ["Categoría especial de datos, cuyo tratamiento está prohibido salvo excepciones", "Datos personales ordinarios", "Datos públicos", "Datos anónimos"],
       "a": 0,
-      "e": "Son categoría especial; se permite su tratamiento, entre otras excepciones, para la asistencia sanitaria por profesionales sujetos a secreto."
+      "e": "Son categoría especial; se permite su tratamiento, entre otras excepciones, para la asistencia sanitaria por profesionales sujetos a secreto.",
+      "por": [null, "No son ordinarios: son categoría especial.", "No son públicos.", "No son anónimos: identifican a la persona."]
     },
     {
       "q": "Según la LOPDGDD, un menor puede consentir por sí mismo el tratamiento de sus datos personales a partir de:",
       "o": ["Los 12 años", "Los 16 años", "Los 14 años", "Los 18 años"],
       "a": 2,
-      "e": "Art. 7 LOPDGDD: mayores de 14 años. No confundir con los 16 años del consentimiento clínico de la Ley 41/2002."
+      "e": "Art. 7 LOPDGDD: mayores de 14 años. No confundir con los 16 años del consentimiento clínico de la Ley 41/2002.",
+      "por": ["12 años no es la edad del art. 7 LOPDGDD.", "16 años es la del consentimiento clínico (Ley 41/2002), no la de datos.", null, "No hace falta esperar a la mayoría de edad."]
     },
     {
       "q": "La obligación de designar un Delegado de Protección de Datos no se aplica a:",
       "o": ["Los hospitales públicos", "Los profesionales sanitarios que ejercen a título individual", "Los centros de salud", "Las clínicas privadas"],
       "a": 1,
-      "e": "El art. 34 LOPDGDD obliga a los centros sanitarios que mantienen historias clínicas, salvo a los profesionales individuales."
+      "e": "El art. 34 LOPDGDD obliga a los centros sanitarios que mantienen historias clínicas, salvo a los profesionales individuales.",
+      "por": ["Los hospitales públicos sí deben designarlo.", null, "Los centros de salud sí deben designarlo.", "Las clínicas privadas sí deben designarlo."]
     },
     {
       "q": "Según el art. 5 de la LOPDGDD, el deber de confidencialidad de quienes tratan datos personales:",
       "o": ["Termina al jubilarse el profesional", "Termina al fallecer el paciente", "Solo afecta al personal sanitario", "Se mantiene aunque haya finalizado la relación con el responsable del tratamiento"],
       "a": 3,
-      "e": "Afecta a todos los que intervienen en el tratamiento, sanitarios o no, y persiste tras finalizar la relación."
+      "e": "Afecta a todos los que intervienen en el tratamiento, sanitarios o no, y persiste tras finalizar la relación.",
+      "por": ["No termina al jubilarse.", "No termina al fallecer el paciente.", "Afecta también al personal no sanitario.", null]
     },
     {
       "q": "La supervisora de una planta quirúrgica gestiona el mapa de camas y los traslados internos con el aplicativo:",
       "o": ["SELENE", "OMI-AP", "Ágora Plus", "CIAP-2"],
       "a": 0,
-      "e": "SELENE es el sistema de Atención Especializada; OMI-AP es de Primaria y Ágora Plus es un visor."
+      "e": "SELENE es el sistema de Atención Especializada; OMI-AP es de Primaria y Ágora Plus es un visor.",
+      "por": [null, "OMI-AP es el programa de Atención Primaria.", "Ágora Plus es un visor, no gestiona camas.", "CIAP-2 es una clasificación de problemas de salud de Primaria."]
     },
     {
       "q": "La herramienta del SMS que permite a una enfermera de Atención Primaria visualizar la analítica realizada a su paciente en el hospital es:",
       "o": ["SELENE", "OMI-AP", "Ágora Plus", "SIVA-CMBD"],
       "a": 2,
-      "e": "Ágora Plus es el visor regional que integra informes, analíticas e imágenes de todos los niveles asistenciales."
+      "e": "Ágora Plus es el visor regional que integra informes, analíticas e imágenes de todos los niveles asistenciales.",
+      "por": ["SELENE es el sistema del hospital; desde AP se ve con el visor.", "OMI-AP no muestra por sí mismo la analítica hospitalaria.", null, "SIVA-CMBD es un sistema de información para gestión, no un visor clínico."]
     },
     {
       "q": "Un paciente comete 9 errores en el cuestionario de Pfeiffer. Esto indica:",
       "o": ["Función cognitiva normal", "Deterioro cognitivo severo", "Deterioro cognitivo leve", "Deterioro cognitivo moderado"],
       "a": 1,
-      "e": "Pfeiffer cuenta errores: 0-2 normal; 3-4 leve; 5-7 moderado; 8-10 severo."
+      "e": "Pfeiffer cuenta errores: 0-2 normal; 3-4 leve; 5-7 moderado; 8-10 severo.",
+      "por": ["Normal es de 0 a 2 errores.", null, "Leve es de 3 a 4 errores.", "Moderado es de 5 a 7 errores."]
     },
     {
       "q": "En la escala de Braden, se considera riesgo alto de úlceras por presión una puntuación:",
       "o": ["Superior a 18", "Entre 15 y 18", "Entre 13 y 14", "Igual o inferior a 12"],
       "a": 3,
-      "e": "En Braden (6-23), a menor puntuación mayor riesgo: ≤ 12 alto, 13-14 moderado, 15-18 bajo."
+      "e": "En Braden (6-23), a menor puntuación mayor riesgo: ≤ 12 alto, 13-14 moderado, 15-18 bajo.",
+      "por": ["Más de 18 es sin riesgo.", "15-18 es riesgo bajo.", "13-14 es riesgo moderado.", null]
     },
     {
       "q": "Las pérdidas insensibles en 24 horas de un paciente afebril de 70 kg son aproximadamente:",
       "o": ["840 ml", "1.680 ml", "420 ml", "1.400 ml"],
       "a": 0,
-      "e": "Peso × horas / 2 = 70 × 24 / 2 = 840 ml (0,5 ml/kg/h). La fiebre y la taquipnea las aumentan."
+      "e": "Peso × horas / 2 = 70 × 24 / 2 = 840 ml (0,5 ml/kg/h). La fiebre y la taquipnea las aumentan.",
+      "por": [null, "1.680 ml sería con 1 ml/kg/h; la fórmula es 0,5 ml/kg/h.", "420 ml sería la mitad del cálculo correcto.", "1.400 ml no sale de la fórmula."]
     },
     {
       "q": "Según el Anexo VII del RD 1093/2010, en el informe de cuidados de enfermería al alta es una variable del conjunto mínimo (obligatoria):",
       "o": ["Las intervenciones NIC", "Los resultados NOC", "Los diagnósticos de enfermería", "El cuidador principal"],
       "a": 2,
-      "e": "Los diagnósticos (con texto y código) son CM; las intervenciones NIC, los resultados NOC y el cuidador principal son recomendados."
+      "e": "Los diagnósticos (con texto y código) son CM; las intervenciones NIC, los resultados NOC y el cuidador principal son recomendados.",
+      "por": ["Las intervenciones NIC son variables recomendadas, no obligatorias.", "Los resultados NOC son recomendados.", null, "El cuidador principal es una variable recomendada."]
     },
     {
       "q": "En la CIE-10-ES, los códigos de procedimientos (PCS) tienen:",
       "o": ["Entre 3 y 7 caracteres con punto decimal", "Siempre 7 caracteres alfanuméricos", "5 caracteres", "4 caracteres numéricos"],
       "a": 1,
-      "e": "Los diagnósticos tienen de 3 a 7 caracteres con punto; los procedimientos, siempre 7 caracteres sin punto."
+      "e": "Los diagnósticos tienen de 3 a 7 caracteres con punto; los procedimientos, siempre 7 caracteres sin punto.",
+      "por": ["De 3 a 7 caracteres con punto son los códigos de diagnóstico.", null, "No tienen 5 caracteres.", "No tienen 4 caracteres numéricos."]
     },
     {
       "q": "El número de dominios de NANDA-I, NOC y NIC es, respectivamente:",
       "o": ["7, 7 y 13", "13, 13 y 7", "11, 7 y 7", "13, 7 y 7"],
       "a": 3,
-      "e": "Regla 13-7-7. Además, la escala Likert de 1 a 5 es exclusiva de los resultados NOC."
+      "e": "Regla 13-7-7. Además, la escala Likert de 1 a 5 es exclusiva de los resultados NOC.",
+      "por": ["Está desordenado: NANDA tiene 13 dominios.", "NOC tiene 7 dominios, no 13.", "NANDA tiene 13 dominios, no 11 (11 son los patrones de Gordon).", null]
     }
   ]
 }

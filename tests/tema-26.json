@@ -7,188 +7,219 @@
       "q": "La anemia fisiológica del embarazo se debe principalmente a:",
       "o": ["La falta de hierro en la dieta", "La hemodilución, porque el volumen plasmático aumenta más que la masa eritrocitaria", "La destrucción de hematíes por la placenta", "El déficit de ácido fólico"],
       "a": 1,
-      "e": "El volumen plasmático aumenta en torno al 50% y la masa eritrocitaria un 20-30%, lo que reduce la hemoglobina y el hematocrito."
+      "e": "El volumen plasmático aumenta en torno al 50% y la masa eritrocitaria un 20-30%, lo que reduce la hemoglobina y el hematocrito.",
+      "por": ["No es por falta de hierro dietético: es dilucional.", null, "La placenta no destruye hematíes.", "El déficit de fólico no es la causa de la anemia fisiológica."]
     },
     {
       "q": "Respecto a la función renal en el embarazo, es correcto que:",
       "o": ["El filtrado glomerular disminuye", "La creatinina aumenta de forma fisiológica", "La creatinina disminuye, y un valor de 0,9-1 mg/dl puede indicar alteración renal", "La glucosuria es siempre diabetes"],
       "a": 2,
-      "e": "El filtrado aumenta un 50%, por lo que creatinina, urea y ácido úrico bajan; la glucosuria puede ser fisiológica."
+      "e": "El filtrado aumenta un 50%, por lo que creatinina, urea y ácido úrico bajan; la glucosuria puede ser fisiológica.",
+      "por": ["El filtrado aumenta, no disminuye.", "La creatinina baja, no sube.", null, "La glucosuria puede ser fisiológica en el embarazo."]
     },
     {
       "q": "La hormona responsable de la relajación del músculo liso que causa pirosis, estreñimiento y estasis urinaria en el embarazo es:",
       "o": ["La progesterona", "La hCG", "La relaxina", "La prolactina"],
       "a": 0,
-      "e": "La relaxina actúa sobre ligamentos y articulaciones (laxitud pélvica); la hCG mantiene el cuerpo lúteo."
+      "e": "La relaxina actúa sobre ligamentos y articulaciones (laxitud pélvica); la hCG mantiene el cuerpo lúteo.",
+      "por": [null, "La hCG mantiene el cuerpo lúteo.", "La relaxina actúa sobre ligamentos y articulaciones.", "La prolactina prepara la mama."]
     },
     {
       "q": "La ganancia de peso recomendada durante el embarazo en una mujer con IMC previo normal es de:",
       "o": ["5-9 kg", "7-11,5 kg", "12,5-18 kg", "11,5-16 kg"],
       "a": 3,
-      "e": "En el 2.º y 3.er trimestre, unos 0,4 kg por semana. Bajo peso: 12,5-18 kg; sobrepeso: 7-11,5 kg; obesidad: 5-9 kg."
+      "e": "En el 2.º y 3.er trimestre, unos 0,4 kg por semana. Bajo peso: 12,5-18 kg; sobrepeso: 7-11,5 kg; obesidad: 5-9 kg.",
+      "por": ["5-9 kg es lo recomendado en la obesidad.", "7-11,5 kg es lo recomendado en el sobrepeso.", "12,5-18 kg es lo recomendado en el bajo peso.", null]
     },
     {
       "q": "Durante el primer trimestre del embarazo, el aporte energético recomendado:",
       "o": ["No aumenta respecto al previo", "Aumenta en 500 kcal/día", "Debe duplicarse", "Aumenta en 1.000 kcal/día"],
       "a": 0,
-      "e": "Se recomiendan unas 340 kcal/día más en el 2.º trimestre y 452 kcal/día más en el 3.º, priorizando la calidad de los alimentos."
+      "e": "Se recomiendan unas 340 kcal/día más en el 2.º trimestre y 452 kcal/día más en el 3.º, priorizando la calidad de los alimentos.",
+      "por": [null, "500 kcal no se añaden en el primer trimestre.", "No se duplican las calorías.", "1.000 kcal es excesivo."]
     },
     {
       "q": "Está indicada la dosis alta de ácido fólico (5 mg/día) en una gestante:",
       "o": ["Sana, sin antecedentes", "Que fuma", "Con diabetes pregestacional o en tratamiento con antiepilépticos", "Mayor de 25 años"],
       "a": 2,
-      "e": "También en antecedentes de defecto del tubo neural, obesidad o malabsorción. La dosis general es de 0,4 mg/día desde 1-3 meses antes hasta la semana 12."
+      "e": "También en antecedentes de defecto del tubo neural, obesidad o malabsorción. La dosis general es de 0,4 mg/día desde 1-3 meses antes hasta la semana 12.",
+      "por": ["La gestante sana toma 0,4 mg/día.", "El tabaco no es indicación de dosis alta.", null, "La edad no es indicación de dosis alta."]
     },
     {
       "q": "Para prevenir la listeriosis, se debe aconsejar a la gestante evitar:",
       "o": ["La fruta lavada", "Los lácteos pasteurizados", "El pescado bien cocinado", "Los quesos de pasta blanda y lácteos no pasteurizados"],
       "a": 3,
-      "e": "También los patés refrigerados y los pescados ahumados en frío. La toxoplasmosis se previene evitando carnes crudas y lavando bien frutas y verduras."
+      "e": "También los patés refrigerados y los pescados ahumados en frío. La toxoplasmosis se previene evitando carnes crudas y lavando bien frutas y verduras.",
+      "por": ["La fruta lavada no transmite Listeria.", "Los lácteos pasteurizados son seguros.", "El pescado bien cocinado es seguro.", null]
     },
     {
       "q": "Por su contenido en mercurio, se recomienda a la gestante evitar:",
       "o": ["Las sardinas y los boquerones", "El pez espada, el atún rojo y el tiburón", "Todo el pescado azul", "El pescado blanco"],
       "a": 1,
-      "e": "Los grandes depredadores acumulan metilmercurio; el pescado azul pequeño aporta DHA con poco riesgo."
+      "e": "Los grandes depredadores acumulan metilmercurio; el pescado azul pequeño aporta DHA con poco riesgo.",
+      "por": ["Sardinas y boquerones tienen poco mercurio.", null, "No todo el pescado azul: solo los grandes depredadores.", "El pescado blanco no se evita."]
     },
     {
       "q": "El cribado de diabetes gestacional mediante el test de O'Sullivan se realiza, en gestantes sin factores de riesgo, en las semanas:",
       "o": ["24-28", "8-10", "35-37", "38-40"],
       "a": 0,
-      "e": "En las semanas 35-37 se recoge el exudado vaginorrectal para el estreptococo del grupo B."
+      "e": "En las semanas 35-37 se recoge el exudado vaginorrectal para el estreptococo del grupo B.",
+      "por": [null, "8-10 semanas es demasiado pronto salvo factores de riesgo.", "35-37 semanas es el cribado del estreptococo del grupo B.", "38-40 semanas es demasiado tarde."]
     },
     {
       "q": "¿Cuál de las siguientes vacunas está contraindicada durante el embarazo?",
       "o": ["Tdpa", "Gripe inactivada", "Vacuna frente al VRS", "Triple vírica"],
       "a": 3,
-      "e": "Las vacunas de virus vivos (triple vírica, varicela, fiebre amarilla) están contraindicadas. La Tdpa se pone en cada embarazo entre las semanas 27 y 36."
+      "e": "Las vacunas de virus vivos (triple vírica, varicela, fiebre amarilla) están contraindicadas. La Tdpa se pone en cada embarazo entre las semanas 27 y 36.",
+      "por": ["La Tdpa se recomienda en cada embarazo.", "La gripe inactivada se recomienda.", "La vacuna del VRS se ofrece en el embarazo.", null]
     },
     {
       "q": "La profilaxis antenatal sistemática con gammaglobulina anti-D se administra:",
       "o": ["A todas las gestantes Rh positivas en la semana 12", "A las gestantes Rh negativas no sensibilizadas (Coombs indirecto negativo) en la semana 28", "Solo después del parto", "Al recién nacido Rh negativo"],
       "a": 1,
-      "e": "Tras el parto se administra antes de 72 horas si el recién nacido es Rh positivo, y también ante eventos sensibilizantes."
+      "e": "Tras el parto se administra antes de 72 horas si el recién nacido es Rh positivo, y también ante eventos sensibilizantes.",
+      "por": ["Las Rh positivas no reciben anti-D.", null, "No solo tras el parto: también en la semana 28.", "No se administra al recién nacido."]
     },
     {
       "q": "El programa de educación maternal suele comenzar alrededor de la semana:",
       "o": ["8", "12", "28", "38"],
       "a": 2,
-      "e": "Es el momento de mayor receptividad ante el parto. Suele constar de unas 8 sesiones."
+      "e": "Es el momento de mayor receptividad ante el parto. Suele constar de unas 8 sesiones.",
+      "por": ["Semana 8 es demasiado pronto.", "Semana 12 es demasiado pronto.", null, "Semana 38 es demasiado tarde."]
     },
     {
       "q": "En la educación maternal, la respiración jadeante se enseña para:",
       "o": ["Aumentar la fuerza del pujo", "Relajarse entre contracciones", "Evitar empujar antes de alcanzar la dilatación completa", "Acelerar la dilatación"],
       "a": 2,
-      "e": "Pujar antes de la dilatación completa puede producir edema cervical."
+      "e": "Pujar antes de la dilatación completa puede producir edema cervical.",
+      "por": ["No aumenta el pujo: lo evita.", "Entre contracciones se usa la respiración de relajación.", null, "No acelera la dilatación."]
     },
     {
       "q": "Es característico de la hiperémesis gravídica:",
       "o": ["Pérdida de peso superior al 5%, cetonuria y alteraciones electrolíticas", "Náuseas matutinas sin pérdida de peso", "Acidosis metabólica por pérdida de bicarbonato", "Aparición exclusiva en el tercer trimestre"],
       "a": 0,
-      "e": "Cursa con hipopotasemia, hiponatremia y alcalosis metabólica; hay riesgo de encefalopatía de Wernicke (tiamina)."
+      "e": "Cursa con hipopotasemia, hiponatremia y alcalosis metabólica; hay riesgo de encefalopatía de Wernicke (tiamina).",
+      "por": [null, "Sin pérdida de peso son náuseas normales.", "Hay alcalosis por pérdida de ácido, no acidosis.", "Suele aparecer en el primer trimestre."]
     },
     {
       "q": "La preeclampsia se define por la aparición de:",
       "o": ["Edemas maleolares en el tercer trimestre", "TA ≥ 140/90 antes de la semana 12", "Glucosuria y poliuria", "TA ≥ 140/90 después de la semana 20 con proteinuria ≥ 300 mg/24 h o daño de órgano"],
       "a": 3,
-      "e": "Se considera grave con TA ≥ 160/110 o signos como cefalea, escotomas, dolor epigástrico, plaquetopenia o alteración renal o hepática."
+      "e": "Se considera grave con TA ≥ 160/110 o signos como cefalea, escotomas, dolor epigástrico, plaquetopenia o alteración renal o hepática.",
+      "por": ["Los edemas maleolares son frecuentes y no definen la preeclampsia.", "Antes de la semana 20 sería hipertensión crónica.", "Glucosuria y poliuria no la definen.", null]
     },
     {
       "q": "Durante la administración de sulfato de magnesio en una preeclampsia grave, la enfermera debe vigilar:",
       "o": ["Solo la glucemia", "La frecuencia respiratoria, el reflejo rotuliano y la diuresis, con gluconato cálcico disponible", "La temperatura cada 8 horas", "El peso diario exclusivamente"],
       "a": 1,
-      "e": "Signos de toxicidad: FR < 12, abolición del reflejo rotuliano y diuresis < 30 ml/h. El antídoto es el gluconato cálcico."
+      "e": "Signos de toxicidad: FR < 12, abolición del reflejo rotuliano y diuresis < 30 ml/h. El antídoto es el gluconato cálcico.",
+      "por": ["La glucemia no es lo que se vigila con el magnesio.", null, "La temperatura no es el signo de toxicidad.", "El peso no detecta la toxicidad."]
     },
     {
       "q": "En la sobrecarga oral de glucosa de 100 g, se diagnostica diabetes gestacional cuando:",
       "o": ["Dos o más valores están alterados", "Un solo valor está alterado", "La glucemia basal es mayor de 80 mg/dl", "El O'Sullivan es mayor de 120 mg/dl"],
       "a": 0,
-      "e": "Valores límite: 105, 190, 165 y 145 mg/dl. Con un solo valor alterado se habla de intolerancia y se repite en 3-4 semanas."
+      "e": "Valores límite: 105, 190, 165 y 145 mg/dl. Con un solo valor alterado se habla de intolerancia y se repite en 3-4 semanas.",
+      "por": [null, "Un solo valor alterado es intolerancia.", "80 mg/dl no es el criterio.", "El O'Sullivan positivo es ≥ 140, y no es diagnóstico."]
     },
     {
       "q": "La principal hormona responsable de la resistencia a la insulina en el embarazo es:",
       "o": ["La oxitocina", "La relaxina", "El lactógeno placentario humano", "La hormona antidiurética"],
       "a": 2,
-      "e": "El embarazo es diabetogénico para asegurar el paso de glucosa al feto."
+      "e": "El embarazo es diabetogénico para asegurar el paso de glucosa al feto.",
+      "por": ["La oxitocina no produce resistencia a la insulina.", "La relaxina no es la responsable.", null, "La ADH no es la responsable."]
     },
     {
       "q": "La complicación fetal más característica de la diabetes gestacional mal controlada es:",
       "o": ["El bajo peso al nacer", "La hipercalcemia fetal", "La anemia fetal", "La macrosomía"],
       "a": 3,
-      "e": "El feto produce más insulina (hiperinsulinismo), que actúa como factor de crecimiento y retrasa la maduración pulmonar."
+      "e": "El feto produce más insulina (hiperinsulinismo), que actúa como factor de crecimiento y retrasa la maduración pulmonar.",
+      "por": ["Lo típico es la macrosomía, no el bajo peso.", "Lo típico en el neonato es la hipocalcemia, no la hipercalcemia.", "La anemia fetal no es la complicación característica.", null]
     },
     {
       "q": "En el puerperio normal, el fondo uterino deja de palparse por vía abdominal hacia el:",
       "o": ["Día 2", "Día 10", "Día 30", "Día 45"],
       "a": 1,
-      "e": "Tras el parto se palpa a la altura del ombligo (globo de Pinard) y desciende 1-2 cm al día."
+      "e": "Tras el parto se palpa a la altura del ombligo (globo de Pinard) y desciende 1-2 cm al día.",
+      "por": ["El día 2 aún se palpa.", null, "El día 30 hace tiempo que no se palpa.", "El día 45 hace tiempo que no se palpa."]
     },
     {
       "q": "La causa más frecuente de hemorragia posparto es:",
       "o": ["Los desgarros del canal del parto", "La retención de restos placentarios", "La atonía uterina", "Las coagulopatías"],
       "a": 2,
-      "e": "Regla de las 4T: tono (≈ 70%), trauma (≈ 20%), tejido y trombina. Ante la atonía: masaje uterino y uterotónicos."
+      "e": "Regla de las 4T: tono (≈ 70%), trauma (≈ 20%), tejido y trombina. Ante la atonía: masaje uterino y uterotónicos.",
+      "por": ["Los desgarros (trauma) son la segunda causa.", "La retención de restos (tejido) es menos frecuente.", null, "Las coagulopatías son poco frecuentes."]
     },
     {
       "q": "Una puérpera presenta un sangrado rojo y continuo con el útero duro y bien contraído. La causa más probable es:",
       "o": ["Una lesión del canal del parto (trauma)", "Una atonía uterina", "Una retención de orina", "Unos loquios normales"],
       "a": 0,
-      "e": "Si el útero está contraído y sigue sangrando, hay que buscar desgarros o hematomas."
+      "e": "Si el útero está contraído y sigue sangrando, hay que buscar desgarros o hematomas.",
+      "por": [null, "En la atonía el útero está blando, no duro.", "El globo vesical desplaza el útero.", "Un sangrado continuo no son loquios normales."]
     },
     {
       "q": "En una puérpera, el fondo uterino se palpa por encima del ombligo y desviado a la derecha. Lo primero es:",
       "o": ["Administrar oxitocina", "Comprobar y vaciar la vejiga, porque es probable un globo vesical", "Realizar un legrado", "Iniciar antibióticos"],
       "a": 1,
-      "e": "La vejiga distendida desplaza el útero, impide su contracción y favorece la hemorragia."
+      "e": "La vejiga distendida desplaza el útero, impide su contracción y favorece la hemorragia.",
+      "por": ["Primero hay que vaciar la vejiga.", null, "El legrado no procede sin más.", "No hay signos de infección."]
     },
     {
       "q": "Los loquios serosos, de color rosado o marrón, aparecen habitualmente entre los días:",
       "o": ["1 y 3", "15 y 30", "40 y 60", "4 y 10"],
       "a": 3,
-      "e": "Rubra (días 1-3/4), serosa (días 4-10) y alba (desde la 2.ª semana). Si huelen mal, sospechar endometritis."
+      "e": "Rubra (días 1-3/4), serosa (días 4-10) y alba (desde la 2.ª semana). Si huelen mal, sospechar endometritis.",
+      "por": ["Los días 1-3 son loquios rojos (rubra).", "A los 15-30 días son loquios blancos (alba).", "A los 40-60 días ya no hay loquios.", null]
     },
     {
       "q": "La tristeza puerperal (maternity blues) se caracteriza por:",
       "o": ["Aparecer hacia los días 3-5 y resolverse espontáneamente en menos de 2 semanas", "Durar más de 2 semanas con anhedonia", "Cursar con alucinaciones y delirios", "Requerir ingreso psiquiátrico"],
       "a": 0,
-      "e": "Si dura más de 15 días hay que sospechar depresión posparto; la psicosis puerperal es una emergencia."
+      "e": "Si dura más de 15 días hay que sospechar depresión posparto; la psicosis puerperal es una emergencia.",
+      "por": [null, "Más de 2 semanas con anhedonia sugiere depresión posparto.", "Las alucinaciones indican psicosis puerperal.", "No requiere ingreso."]
     },
     {
       "q": "En la escala de depresión posparto de Edimburgo (EPDS), una puntuación de 1 en el ítem 10 (pensamientos de autolesión) obliga a:",
       "o": ["Repetir la escala al mes", "Nada, si la puntuación total es baja", "Una derivación urgente en menos de 24 horas", "Suspender la lactancia"],
       "a": 2,
-      "e": "Cualquier respuesta distinta de 0 en el ítem 10 es una bandera roja. Una puntuación total ≥ 10 indica riesgo de depresión."
+      "e": "Cualquier respuesta distinta de 0 en el ítem 10 es una bandera roja. Una puntuación total ≥ 10 indica riesgo de depresión.",
+      "por": ["No se espera un mes: es urgente.", "Aunque la puntuación total sea baja, el ítem 10 es una alarma.", null, "No se suspende la lactancia por esto."]
     },
     {
       "q": "La prolactina, responsable de la producción de leche, se secreta en:",
       "o": ["La neurohipófisis", "La placenta", "El hipotálamo", "La adenohipófisis"],
       "a": 3,
-      "e": "La oxitocina (eyección) procede de la neurohipófisis; la dopamina hipotalámica inhibe la prolactina."
+      "e": "La oxitocina (eyección) procede de la neurohipófisis; la dopamina hipotalámica inhibe la prolactina.",
+      "por": ["La neurohipófisis libera la oxitocina.", "La placenta no secreta prolactina.", "El hipotálamo libera dopamina, que la inhibe.", null]
     },
     {
       "q": "En un agarre correcto al pecho se observa:",
       "o": ["La boca poco abierta y los labios hacia dentro", "El mentón pegado al pecho, la nariz libre y más areola visible por encima del labio superior", "Más areola visible por debajo del labio inferior", "Mejillas hundidas y chasquidos"],
       "a": 1,
-      "e": "El agarre asimétrico, con la boca muy abierta y los labios evertidos, evita las grietas. Si duele, se rompe el vacío con un dedo y se recoloca."
+      "e": "El agarre asimétrico, con la boca muy abierta y los labios evertidos, evita las grietas. Si duele, se rompe el vacío con un dedo y se recoloca.",
+      "por": ["La boca debe estar muy abierta y los labios evertidos.", null, "Se ve más areola por encima, no por debajo.", "Las mejillas hundidas y los chasquidos indican mal agarre."]
     },
     {
       "q": "Ante una ingurgitación mamaria bilateral con mamas pétreas y edematosas, la medida adecuada es:",
       "o": ["Aplicar frío y la técnica de presión inversa suavizante", "Aplicar calor intenso y masaje enérgico", "Suspender las tomas 24 horas", "Vendar las mamas"],
       "a": 0,
-      "e": "El frío reduce el edema y la presión inversa ablanda la areola para facilitar el enganche; puede añadirse ibuprofeno."
+      "e": "El frío reduce el edema y la presión inversa ablanda la areola para facilitar el enganche; puede añadirse ibuprofeno.",
+      "por": [null, "El calor intenso aumenta el edema.", "Suspender las tomas empeora la ingurgitación.", "El vendaje no está indicado."]
     },
     {
       "q": "Ante una mastitis puerperal unilateral con fiebre de 39 °C, la recomendación correcta es:",
       "o": ["Suspender la lactancia hasta que ceda la fiebre", "Dar solo el pecho sano", "Sustituir la lactancia por biberón", "Mantener la lactancia y vaciar bien el pecho afectado, junto con el tratamiento antibiótico"],
       "a": 3,
-      "e": "El vaciado es la parte más importante del tratamiento. Si persiste una masa fluctuante, hay que descartar un absceso."
+      "e": "El vaciado es la parte más importante del tratamiento. Si persiste una masa fluctuante, hay que descartar un absceso.",
+      "por": ["No se suspende la lactancia.", "También hay que vaciar el pecho afectado.", "El biberón empeora el vaciado.", null]
     },
     {
       "q": "La imagen muestra a un lactante mamando. ¿Cómo se valora este agarre?",
       "o": ["Incorrecto: el mentón no debería tocar el pecho", "Incorrecto: la nariz debería quedar hundida en la mama", "Correcto: boca muy abierta, labios evertidos, mentón pegado al pecho y más areola visible por encima que por debajo", "Correcto solo si el bebé succiona de la punta del pezón"],
       "a": 2,
       "e": "Agarre asimétrico profundo: labios evertidos, mentón tocando el pecho, nariz libre, más areola visible arriba y el pezón llega al paladar blando. Succionar solo la punta del pezón produce grietas y mala transferencia de leche.",
-      "img": "img/preguntas/t26-agarre.jpg"
+      "img": "img/preguntas/t26-agarre.jpg",
+      "por": ["El mentón sí debe tocar el pecho.", "La nariz debe quedar libre.", null, "Succionar solo la punta del pezón es un mal agarre."]
     }
   ]
 }

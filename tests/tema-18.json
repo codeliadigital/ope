@@ -7,181 +7,211 @@
       "q": "La esterilización se define como el proceso que:",
       "o": ["Elimina la suciedad visible por arrastre", "Destruye los microorganismos en fase vegetativa sobre objetos inertes", "Reduce la flora de los tejidos vivos", "Destruye todas las formas de vida microbiana, incluidas las esporas"],
       "a": 3,
-      "e": "La limpieza arrastra la suciedad, la desinfección destruye las formas vegetativas (sin garantizar las esporas) y la antisepsia actúa sobre tejidos vivos."
+      "e": "La limpieza arrastra la suciedad, la desinfección destruye las formas vegetativas (sin garantizar las esporas) y la antisepsia actúa sobre tejidos vivos.",
+      "por": ["Eliminar la suciedad por arrastre es la limpieza.", "Destruir las formas vegetativas en objetos inertes es la desinfección.", "Reducir la flora de tejidos vivos es la antisepsia.", null]
     },
     {
       "q": "El nivel de aseguramiento de la esterilidad (SAL) exigido para considerar estéril un material es una probabilidad de microorganismo viable igual o inferior a:",
       "o": ["1 entre un millón (10⁻⁶)", "1 entre mil (10⁻³)", "1 entre cien (10⁻²)", "1 entre diez mil (10⁻⁴)"],
       "a": 0,
-      "e": "La esterilidad se define de forma probabilística: SAL ≤ 10⁻⁶."
+      "e": "La esterilidad se define de forma probabilística: SAL ≤ 10⁻⁶.",
+      "por": [null, "1 entre mil (10⁻³) no es suficiente.", "1 entre cien es muy insuficiente.", "1 entre diez mil no alcanza el 10⁻⁶ exigido."]
     },
     {
       "q": "La aplicación de clorhexidina sobre la piel del paciente antes de canalizar una vía es un ejemplo de:",
       "o": ["Desinfección", "Antisepsia", "Esterilización", "Asepsia quirúrgica"],
       "a": 1,
-      "e": "Antisepsia es la reducción microbiana sobre tejidos vivos con antisépticos. La desinfección se aplica a objetos inertes."
+      "e": "Antisepsia es la reducción microbiana sobre tejidos vivos con antisépticos. La desinfección se aplica a objetos inertes.",
+      "por": ["La desinfección se aplica a objetos inertes, no a la piel.", null, "La piel viva no se puede esterilizar.", "La asepsia es el conjunto de medidas para evitar la contaminación, no la aplicación del antiséptico."]
     },
     {
       "q": "Según la clasificación de Spaulding, un endoscopio flexible (gastroscopio) es material:",
       "o": ["Crítico, que requiere esterilización en autoclave", "No crítico, que requiere limpieza", "Semicrítico, que requiere como mínimo desinfección de alto nivel", "Crítico, que requiere desinfección de bajo nivel"],
       "a": 2,
-      "e": "Contacta con mucosas intactas y es termosensible, por lo que se procesa con desinfección de alto nivel."
+      "e": "Contacta con mucosas intactas y es termosensible, por lo que se procesa con desinfección de alto nivel.",
+      "por": ["Crítico es lo que entra en tejido estéril; y un endoscopio flexible no tolera el autoclave.", "No crítico es lo que solo toca piel intacta.", null, "El material crítico requiere esterilización, no desinfección de bajo nivel."]
     },
     {
       "q": "Según Spaulding, una sonda vesical es material:",
       "o": ["No crítico", "Semicrítico", "Crítico", "De uso doméstico"],
       "a": 2,
-      "e": "Penetra en una cavidad estéril (vejiga), por lo que debe ser estéril."
+      "e": "Penetra en una cavidad estéril (vejiga), por lo que debe ser estéril.",
+      "por": ["No crítico es lo que toca piel intacta.", "Semicrítico es lo que toca mucosas; la vejiga es una cavidad estéril.", null, "No es material doméstico."]
     },
     {
       "q": "Respecto a la flora residente de la piel, es correcto que:",
       "o": ["Se elimina completamente con agua y jabón común", "Está formada por microorganismos como Staphylococcus epidermidis y solo se reduce con antisépticos", "Es la principal causa de infección cruzada", "Se adquiere al tocar superficies contaminadas"],
       "a": 1,
-      "e": "La flora transitoria (adquirida por contacto) es la principal vía de infección cruzada y se elimina con agua y jabón; la residente vive en capas profundas."
+      "e": "La flora transitoria (adquirida por contacto) es la principal vía de infección cruzada y se elimina con agua y jabón; la residente vive en capas profundas.",
+      "por": ["La residente no se elimina con agua y jabón común.", null, "La infección cruzada se debe sobre todo a la flora transitoria.", "La flora que se adquiere al tocar superficies es la transitoria."]
     },
     {
       "q": "Tras atender a un paciente con diarrea por Clostridioides difficile, la higiene de manos debe hacerse con:",
       "o": ["Agua y jabón", "Solución hidroalcohólica", "Alcohol de 96°", "Clorhexidina alcohólica sin agua"],
       "a": 0,
-      "e": "El alcohol no inactiva las esporas; hay que eliminarlas mediante arrastre mecánico con agua y jabón."
+      "e": "El alcohol no inactiva las esporas; hay que eliminarlas mediante arrastre mecánico con agua y jabón.",
+      "por": [null, "La solución hidroalcohólica no elimina las esporas.", "El alcohol de 96° tampoco es esporicida.", "La clorhexidina alcohólica sin agua no arrastra las esporas."]
     },
     {
       "q": "La duración recomendada de la higiene de manos por fricción con solución hidroalcohólica es de:",
       "o": ["5 segundos", "40-60 segundos", "3-5 minutos", "20-30 segundos"],
       "a": 3,
-      "e": "Fricción: 20-30 s hasta que seque al aire; lavado higiénico con agua y jabón: 40-60 s; lavado quirúrgico: 3-5 min."
+      "e": "Fricción: 20-30 s hasta que seque al aire; lavado higiénico con agua y jabón: 40-60 s; lavado quirúrgico: 3-5 min.",
+      "por": ["5 segundos es insuficiente.", "40-60 segundos es el lavado con agua y jabón.", "3-5 minutos es el lavado quirúrgico.", null]
     },
     {
       "q": "Una enfermera ajusta la barandilla de la cama sin tocar al paciente. Según la OMS, debe realizar la higiene de manos porque corresponde al momento:",
       "o": ["Después del contacto con el entorno del paciente", "Antes de una tarea aséptica", "Antes del contacto con el paciente", "Después del riesgo de exposición a fluidos"],
       "a": 0,
-      "e": "El quinto momento incluye tocar objetos del entorno inmediato del paciente aunque no se le toque a él."
+      "e": "El quinto momento incluye tocar objetos del entorno inmediato del paciente aunque no se le toque a él.",
+      "por": [null, "No es una tarea aséptica.", "No va a tocar al paciente.", "No hay riesgo de exposición a fluidos."]
     },
     {
       "q": "Respecto al lavado quirúrgico de manos con agua y antiséptico, es correcto que:",
       "o": ["Dura 20-30 segundos", "Dura 3-5 minutos, con clorhexidina jabonosa al 4% o povidona al 7,5%, manteniendo las manos por encima de los codos", "Debe hacerse con cepillo duro en toda la piel", "Se secan las manos con aire caliente"],
       "a": 1,
-      "e": "El cepillo solo se usa para uñas y espacios interdigitales; el secado se hace con compresa estéril de la mano al codo."
+      "e": "El cepillo solo se usa para uñas y espacios interdigitales; el secado se hace con compresa estéril de la mano al codo.",
+      "por": ["20-30 segundos es la fricción con solución hidroalcohólica.", null, "El cepillo se limita a uñas y espacios interdigitales.", "Se secan con compresa estéril, no con aire caliente."]
     },
     {
       "q": "El antiséptico de elección para preparar la piel antes de insertar un catéter venoso central es:",
       "o": ["Povidona yodada acuosa al 10%", "Alcohol de 96°", "Clorhexidina alcohólica al 2%", "Agua oxigenada al 3%"],
       "a": 2,
-      "e": "La clorhexidina alcohólica (> 0,5%, habitualmente 2%) actúa rápido y tiene efecto residual prolongado, por lo que supera a la povidona (proyecto Bacteriemia Zero)."
+      "e": "La clorhexidina alcohólica (> 0,5%, habitualmente 2%) actúa rápido y tiene efecto residual prolongado, por lo que supera a la povidona (proyecto Bacteriemia Zero).",
+      "por": ["La povidona acuosa es inferior a la clorhexidina alcohólica.", "El alcohol solo no tiene efecto residual.", null, "El agua oxigenada no es un antiséptico para piel antes de un CVC."]
     },
     {
       "q": "La clorhexidina está contraindicada en:",
       "o": ["La preparación de la piel antes de una vía periférica", "El lavado quirúrgico de manos", "El cuidado del cordón umbilical", "El oído con tímpano perforado y el contacto con meninges o tejido nervioso"],
       "a": 3,
-      "e": "Es ototóxica si llega al oído medio y neurotóxica en contacto con el sistema nervioso central."
+      "e": "Es ototóxica si llega al oído medio y neurotóxica en contacto con el sistema nervioso central.",
+      "por": ["Sí se usa antes de canalizar vías.", "Sí se usa en el lavado quirúrgico.", "Se ha usado en el cordón en países de baja renta.", null]
     },
     {
       "q": "Respecto a la povidona yodada, es correcto que:",
       "o": ["Tiene un efecto residual superior a 24 horas", "Mantiene su actividad en presencia de sangre", "Es el antiséptico de elección en prematuros", "Necesita 2-3 minutos de secado para actuar y se inactiva con materia orgánica"],
       "a": 3,
-      "e": "Si se pincha con la piel aún húmeda no ha actuado. Se evita en neonatos, embarazo, lactancia y tiroidopatías por la absorción de yodo."
+      "e": "Si se pincha con la piel aún húmeda no ha actuado. Se evita en neonatos, embarazo, lactancia y tiroidopatías por la absorción de yodo.",
+      "por": ["Su efecto residual es corto, no de 24 horas.", "Se inactiva con materia orgánica (sangre).", "Se evita en prematuros por la absorción de yodo.", null]
     },
     {
       "q": "La concentración de alcohol etílico más eficaz como antiséptico es:",
       "o": ["70%", "96%", "100%", "30%"],
       "a": 0,
-      "e": "La desnaturalización proteica necesita agua; el alcohol puro deshidrata la pared sin matar eficazmente. Su efecto residual es nulo."
+      "e": "La desnaturalización proteica necesita agua; el alcohol puro deshidrata la pared sin matar eficazmente. Su efecto residual es nulo.",
+      "por": [null, "El de 96° deshidrata la pared y es menos eficaz.", "El alcohol puro no desnaturaliza bien las proteínas.", "El 30% es demasiado diluido."]
     },
     {
       "q": "Para limpiar una úlcera profunda tunelizada, la irrigación a presión con agua oxigenada al 3%:",
       "o": ["Es la técnica de elección por su efecto mecánico", "Es adecuada si se diluye al 50%", "Está contraindicada por el riesgo de enfisema y embolia gaseosa", "Solo se permite en heridas infectadas por anaerobios"],
       "a": 2,
-      "e": "La catalasa libera oxígeno de forma rápida; en cavidades cerradas el gas no encuentra salida."
+      "e": "La catalasa libera oxígeno de forma rápida; en cavidades cerradas el gas no encuentra salida.",
+      "por": ["Su efecto mecánico no compensa el riesgo de embolia en cavidades.", "Diluirlo no evita el riesgo en cavidades cerradas.", null, "Tampoco se permite a presión en cavidades por anaerobios."]
     },
     {
       "q": "¿Cuál de los siguientes microorganismos es el más fácil de destruir mediante desinfección química?",
       "o": ["Las esporas de Clostridioides difficile", "Los virus con envoltura lipídica, como el VIH", "Mycobacterium tuberculosis", "Los norovirus (virus sin envoltura)"],
       "a": 1,
-      "e": "Escala de resistencia: priones > esporas > micobacterias > virus sin envoltura > hongos > bacterias vegetativas > virus con envoltura."
+      "e": "Escala de resistencia: priones > esporas > micobacterias > virus sin envoltura > hongos > bacterias vegetativas > virus con envoltura.",
+      "por": ["Las esporas son de las formas más resistentes.", null, "Las micobacterias son muy resistentes.", "Los virus sin envoltura son más resistentes que los que la tienen."]
     },
     {
       "q": "Para que un desinfectante se considere de nivel intermedio debe ser eficaz frente a:",
       "o": ["Mycobacterium tuberculosis", "Las esporas bacterianas", "Los priones", "Solo las bacterias vegetativas"],
       "a": 0,
-      "e": "El nivel intermedio es tuberculocida pero no esporicida; el bajo no actúa frente a micobacterias ni esporas."
+      "e": "El nivel intermedio es tuberculocida pero no esporicida; el bajo no actúa frente a micobacterias ni esporas.",
+      "por": [null, "Las esporas solo las destruyen los de alto nivel o esterilizantes.", "Los priones no los destruye la desinfección química habitual.", "Las bacterias vegetativas las destruye incluso el nivel bajo."]
     },
     {
       "q": "La inmersión de una hoja de laringoscopio en glutaraldehído al 2% durante 20 minutos consigue:",
       "o": ["Su esterilización química", "Una desinfección de alto nivel, pero no su esterilización", "Una desinfección de bajo nivel", "Solo su limpieza"],
       "a": 1,
-      "e": "El glutaraldehído al 2% necesita 10-12 horas de inmersión para ser esporicida (esterilizante)."
+      "e": "El glutaraldehído al 2% necesita 10-12 horas de inmersión para ser esporicida (esterilizante).",
+      "por": ["Para esterilizar se necesitan 10-12 horas de inmersión.", null, "No es de bajo nivel: es de alto nivel.", "No es solo limpieza."]
     },
     {
       "q": "Tras sumergir un endoscopio en ortoftalaldehído (OPA), sus canales se tiñen de color gris. Esto indica:",
       "o": ["Un defecto de fabricación", "Que el OPA está caducado", "Que la limpieza previa fue deficiente y quedaban restos de proteínas", "Que la temperatura era excesiva"],
       "a": 2,
-      "e": "El OPA tiñe las proteínas residuales, por lo que pone en evidencia una limpieza mecánica insuficiente."
+      "e": "El OPA tiñe las proteínas residuales, por lo que pone en evidencia una limpieza mecánica insuficiente.",
+      "por": ["No es un defecto de fabricación.", "La caducidad no tiñe los canales.", null, "La temperatura no produce esa tinción."]
     },
     {
       "q": "Para desinfectar un derrame de sangre en una superficie se recomienda hipoclorito sódico a:",
       "o": ["100 ppm", "500 ppm", "1.000 ppm", "10.000 ppm"],
       "a": 3,
-      "e": "1.000 ppm es la dilución para superficies limpias de rutina; los derrames de fluidos biológicos requieren 10.000 ppm, en agua fría."
+      "e": "1.000 ppm es la dilución para superficies limpias de rutina; los derrames de fluidos biológicos requieren 10.000 ppm, en agua fría.",
+      "por": ["100 ppm es demasiado diluido.", "500 ppm es insuficiente para un derrame.", "1.000 ppm es la dilución de las superficies limpias, no de los derrames.", null]
     },
     {
       "q": "En la Unidad Central de Esterilización, la zona sucia de lavado debe mantenerse con:",
       "o": ["Presión positiva respecto a las zonas adyacentes", "La misma presión que la zona estéril", "Presión negativa respecto a las zonas adyacentes", "Las ventanas abiertas para ventilar"],
       "a": 2,
-      "e": "El aire va de lo limpio a lo sucio: la zona sucia en negativa evita que salgan aerosoles; las zonas limpia y estéril están en positiva."
+      "e": "El aire va de lo limpio a lo sucio: la zona sucia en negativa evita que salgan aerosoles; las zonas limpia y estéril están en positiva.",
+      "por": ["La positiva es para las zonas limpia y estéril.", "No puede tener la misma presión que la zona estéril.", null, "No se ventila abriendo ventanas."]
     },
     {
       "q": "La limpieza por ultrasonidos del instrumental se basa en:",
       "o": ["El fenómeno de cavitación", "La alquilación de proteínas", "La oxidación por radicales libres", "La radiación gamma"],
       "a": 0,
-      "e": "Las burbujas microscópicas implosionan sobre el instrumental y arrancan la suciedad. No se usa en ópticas, endoscopios flexibles ni motores."
+      "e": "Las burbujas microscópicas implosionan sobre el instrumental y arrancan la suciedad. No se usa en ópticas, endoscopios flexibles ni motores.",
+      "por": [null, "La alquilación es el mecanismo del óxido de etileno.", "La oxidación por radicales es el mecanismo del peróxido de hidrógeno.", "La radiación gamma es un método industrial de esterilización."]
     },
     {
       "q": "Los parámetros habituales de esterilización por vapor en autoclave son:",
       "o": ["170 °C durante 1 hora", "134 °C durante 3-5 minutos o 121 °C durante 15-20 minutos", "55 °C durante 12 horas", "90 °C durante 1 minuto"],
       "a": 1,
-      "e": "El vapor es el método de elección para el material que tolera el calor. 170 °C durante 1 hora corresponde al calor seco."
+      "e": "El vapor es el método de elección para el material que tolera el calor. 170 °C durante 1 hora corresponde al calor seco.",
+      "por": ["170 °C durante 1 hora es el calor seco (Poupinel).", null, "55 °C durante 12 horas no esteriliza con vapor.", "90 °C durante 1 minuto no esteriliza."]
     },
     {
       "q": "Para el instrumental empleado en un paciente con sospecha de enfermedad de Creutzfeldt-Jakob, el ciclo de autoclave recomendado es:",
       "o": ["121 °C durante 15 minutos", "134 °C durante 3 minutos", "Óxido de etileno a 37 °C", "134 °C durante al menos 18 minutos en autoclave de prevacío"],
       "a": 3,
-      "e": "Los priones son las estructuras más resistentes y requieren un ciclo prolongado específico."
+      "e": "Los priones son las estructuras más resistentes y requieren un ciclo prolongado específico.",
+      "por": ["El ciclo estándar de 121 °C no es suficiente para los priones.", "134 °C durante 3 minutos es insuficiente para los priones.", "El óxido de etileno no destruye los priones.", null]
     },
     {
       "q": "En la esterilización por plasma de peróxido de hidrógeno está prohibido introducir:",
       "o": ["Material de celulosa (papel, algodón, gasas, lino)", "Material plástico termosensible", "Envoltorios de Tyvek", "Instrumental metálico"],
       "a": 0,
-      "e": "La celulosa absorbe el peróxido y aborta el ciclo; se usan envoltorios sintéticos (Tyvek o polipropileno)."
+      "e": "La celulosa absorbe el peróxido y aborta el ciclo; se usan envoltorios sintéticos (Tyvek o polipropileno).",
+      "por": [null, "El plástico termosensible sí es apto (es su principal uso).", "El Tyvek es precisamente el envoltorio recomendado.", "El instrumental metálico sí es compatible."]
     },
     {
       "q": "Respecto a la esterilización con óxido de etileno, es correcto que:",
       "o": ["El material puede usarse inmediatamente al terminar el ciclo", "Funciona a 134 °C", "Requiere un periodo de aireación de al menos 10-12 horas por su toxicidad", "No necesita humedad"],
       "a": 2,
-      "e": "Es tóxico, cancerígeno y explosivo; los plásticos absorben el gas, por lo que hay que desgasificarlos antes de usarlos."
+      "e": "Es tóxico, cancerígeno y explosivo; los plásticos absorben el gas, por lo que hay que desgasificarlos antes de usarlos.",
+      "por": ["No se puede usar al momento: hay que airearlo.", "Funciona a baja temperatura (37-55 °C), no a 134 °C.", null, "Sí necesita humedad para actuar."]
     },
     {
       "q": "El test de Bowie-Dick:",
       "o": ["Certifica la esterilidad de cada paquete", "Evalúa la extracción del aire y la penetración del vapor en el autoclave de prevacío; se hace a diario con la cámara vacía", "Es un indicador biológico con esporas", "Se coloca en el centro del paquete más grande de la carga"],
       "a": 1,
-      "e": "Es un indicador químico de clase 2. Se hace antes del primer ciclo del día, en la cámara vacía, en el fondo sobre el desagüe."
+      "e": "Es un indicador químico de clase 2. Se hace antes del primer ciclo del día, en la cámara vacía, en el fondo sobre el desagüe.",
+      "por": ["No certifica la esterilidad de cada paquete.", null, "Es químico, no biológico.", "Se hace con la cámara vacía, no en un paquete."]
     },
     {
       "q": "El indicador biológico utilizado para validar la esterilización por vapor en autoclave contiene esporas de:",
       "o": ["Bacillus atrophaeus", "Clostridioides difficile", "Staphylococcus aureus", "Geobacillus stearothermophilus"],
       "a": 3,
-      "e": "Geobacillus stearothermophilus: vapor, plasma y formaldehído. Bacillus atrophaeus: óxido de etileno y calor seco."
+      "e": "Geobacillus stearothermophilus: vapor, plasma y formaldehído. Bacillus atrophaeus: óxido de etileno y calor seco.",
+      "por": ["Bacillus atrophaeus valida el óxido de etileno y el calor seco.", "C. difficile no se usa como indicador biológico.", "S. aureus no es esporulado ni se usa como indicador.", null]
     },
     {
       "q": "Tras incubar un indicador biológico de un ciclo de autoclave, el medio vira de morado a amarillo. Esto significa que:",
       "o": ["El ciclo ha fallado porque han sobrevivido esporas y el lote no es estéril", "El ciclo ha sido correcto", "El indicador químico está caducado", "Debe repetirse la lectura a las 48 horas sin más medidas"],
       "a": 0,
-      "e": "En los indicadores químicos se busca el viraje; en los biológicos, que no haya cambio de color. Un positivo obliga a retirar el lote."
+      "e": "En los indicadores químicos se busca el viraje; en los biológicos, que no haya cambio de color. Un positivo obliga a retirar el lote.",
+      "por": [null, "El viraje indica crecimiento: el ciclo ha fallado.", "No es un indicador químico.", "Ante un positivo se retira el lote; no basta con repetir la lectura."]
     },
     {
       "q": "Según el concepto de \"esterilidad orientada a eventos\":",
       "o": ["Todo material estéril caduca a los 30 días", "El material debe reesterilizarse cada semana", "La esterilidad se mantiene indefinidamente aunque el envoltorio esté mojado", "El material deja de ser estéril cuando sufre un evento que daña el envoltorio (rotura, humedad, aplastamiento)"],
       "a": 3,
-      "e": "La esterilidad no se pierde por el mero paso del tiempo, sino por eventos. Se aplica además el sistema FIFO en el almacén."
+      "e": "La esterilidad no se pierde por el mero paso del tiempo, sino por eventos. Se aplica además el sistema FIFO en el almacén.",
+      "por": ["No caduca por días: depende de los eventos.", "No hace falta reesterilizar cada semana.", "Un envoltorio mojado hace perder la esterilidad.", null]
     }
   ]
 }

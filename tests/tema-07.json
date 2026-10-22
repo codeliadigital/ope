@@ -7,181 +7,211 @@
       "q": "El orden correcto de las fases de la Enfermería Basada en la Evidencia (las \"5 Aes\") es:",
       "o": ["Averiguar, Analizar, Adquirir, Aplicar y Autoevaluar", "Averiguar, Adquirir, Analizar, Aplicar y Autoevaluar", "Adquirir, Averiguar, Analizar, Aplicar y Autoevaluar", "Averiguar, Adquirir, Aplicar, Analizar y Autoevaluar"],
       "a": 1,
-      "e": "Primero se formula la pregunta, luego se busca la evidencia, se lee críticamente, se aplica y se evalúa el resultado."
+      "e": "Primero se formula la pregunta, luego se busca la evidencia, se lee críticamente, se aplica y se evalúa el resultado.",
+      "por": ["No se puede analizar lo que aún no se ha encontrado: se adquiere antes de analizar.", null, "Primero hay que formular la pregunta (averiguar); luego se busca.", "Se aplica después de analizar críticamente, no antes."]
     },
     {
       "q": "En una búsqueda bibliográfica, el operador booleano OR:",
       "o": ["Reduce el número de resultados", "Excluye los documentos con ese término", "Amplía la búsqueda, recuperando documentos con cualquiera de los términos", "Obliga a que aparezcan ambos términos"],
       "a": 2,
-      "e": "OR une (útil para sinónimos) y aumenta los resultados; AND interseca y los reduce; NOT excluye."
+      "e": "OR une (útil para sinónimos) y aumenta los resultados; AND interseca y los reduce; NOT excluye.",
+      "por": ["Reducir resultados es lo que hace AND.", "Excluir es lo que hace NOT.", null, "Obligar a que aparezcan ambos es AND."]
     },
     {
       "q": "La investigación cualitativa utiliza fundamentalmente un razonamiento:",
       "o": ["Inductivo", "Deductivo", "Hipotético-deductivo", "Experimental"],
       "a": 0,
-      "e": "La cualitativa parte de los datos para construir teoría (inductivo); la cuantitativa parte de la teoría para comprobar hipótesis (deductivo)."
+      "e": "La cualitativa parte de los datos para construir teoría (inductivo); la cuantitativa parte de la teoría para comprobar hipótesis (deductivo).",
+      "por": [null, "El razonamiento deductivo es propio de la investigación cuantitativa.", "El hipotético-deductivo es el método cuantitativo.", "«Experimental» es un tipo de diseño, no de razonamiento."]
     },
     {
       "q": "El formato de pregunta de elección para un estudio de cohortes que analiza la exposición a un factor de riesgo laboral es:",
       "o": ["SPIDER", "ECLIPSE", "SPICE", "PECO"],
       "a": 3,
-      "e": "PECO sustituye la Intervención por la Exposición en estudios observacionales analíticos. SPIDER y SPICE son cualitativos; ECLIPSE, de gestión."
+      "e": "PECO sustituye la Intervención por la Exposición en estudios observacionales analíticos. SPIDER y SPICE son cualitativos; ECLIPSE, de gestión.",
+      "por": ["SPIDER es para preguntas cualitativas.", "ECLIPSE es para preguntas de gestión y servicios.", "SPICE es para preguntas cualitativas o de evaluación.", null]
     },
     {
       "q": "En un ensayo clínico con diseño de doble ciego desconocen la asignación:",
       "o": ["Solo el paciente", "El paciente y el investigador que administra el tratamiento", "El investigador y el analista estadístico", "El paciente, el investigador y el analista"],
       "a": 1,
-      "e": "Simple ciego: el paciente. Doble ciego: paciente e investigador/clínico. Triple ciego: además el analista."
+      "e": "Simple ciego: el paciente. Doble ciego: paciente e investigador/clínico. Triple ciego: además el analista.",
+      "por": ["Si solo lo desconoce el paciente es simple ciego.", null, "Si el paciente conoce la asignación, no es doble ciego.", "Que lo desconozca además el analista es triple ciego."]
     },
     {
       "q": "Para estudiar una enfermedad rara o con un periodo de latencia muy largo, el diseño observacional de elección es:",
       "o": ["El estudio de cohortes prospectivo", "El ensayo clínico aleatorizado", "El estudio de casos y controles", "El estudio transversal"],
       "a": 2,
-      "e": "Los casos y controles parten de los enfermos ya existentes y buscan la exposición previa; una cohorte exigiría seguir a muchísimas personas."
+      "e": "Los casos y controles parten de los enfermos ya existentes y buscan la exposición previa; una cohorte exigiría seguir a muchísimas personas.",
+      "por": ["Una cohorte prospectiva exigiría seguir a muchísima gente durante años.", "El ensayo clínico es experimental, no observacional, y no estudia factores de riesgo.", null, "El transversal mide prevalencia y no sirve para enfermedades raras ni latencias largas."]
     },
     {
       "q": "La medida de asociación propia de los estudios de cohortes es:",
       "o": ["El riesgo relativo (RR)", "La odds ratio (OR)", "La prevalencia", "La sensibilidad"],
       "a": 0,
-      "e": "Las cohortes miden incidencia y calculan el RR; los casos y controles, al no poder calcular incidencias, usan la OR."
+      "e": "Las cohortes miden incidencia y calculan el RR; los casos y controles, al no poder calcular incidencias, usan la OR.",
+      "por": [null, "La OR es la medida de los casos y controles.", "La prevalencia es una medida de frecuencia, no de asociación.", "La sensibilidad es una propiedad de las pruebas diagnósticas."]
     },
     {
       "q": "En un estudio de cohortes se obtiene un riesgo relativo de 0,5. Esto indica que la exposición:",
       "o": ["No tiene ninguna asociación con la enfermedad", "Duplica el riesgo de enfermar", "Es un factor de riesgo", "Es un factor protector"],
       "a": 3,
-      "e": "El valor nulo es 1. RR > 1 = factor de riesgo; RR < 1 = factor protector."
+      "e": "El valor nulo es 1. RR > 1 = factor de riesgo; RR < 1 = factor protector.",
+      "por": ["Ausencia de asociación sería un RR de 1.", "Duplicar el riesgo sería un RR de 2.", "Factor de riesgo sería un RR mayor que 1.", null]
     },
     {
       "q": "Según Lincoln y Guba, el criterio de rigor cualitativo equivalente a la validez externa es la:",
       "o": ["Credibilidad", "Transferibilidad", "Dependencia", "Confirmabilidad"],
       "a": 1,
-      "e": "Credibilidad = validez interna; transferibilidad = validez externa; dependencia = fiabilidad; confirmabilidad = objetividad."
+      "e": "Credibilidad = validez interna; transferibilidad = validez externa; dependencia = fiabilidad; confirmabilidad = objetividad.",
+      "por": ["La credibilidad equivale a la validez interna.", null, "La dependencia equivale a la fiabilidad.", "La confirmabilidad equivale a la objetividad."]
     },
     {
       "q": "El muestreo en el que se seleccionan al azar agrupaciones naturales internamente heterogéneas (hospitales, aulas) y se estudian todos sus individuos es el:",
       "o": ["Aleatorio simple", "Estratificado", "Por conglomerados", "Por cuotas"],
       "a": 2,
-      "e": "En el estratificado los estratos son homogéneos; en los conglomerados, los grupos son naturales y heterogéneos."
+      "e": "En el estratificado los estratos son homogéneos; en los conglomerados, los grupos son naturales y heterogéneos.",
+      "por": ["En el aleatorio simple se eligen individuos, no grupos.", "En el estratificado los grupos (estratos) son homogéneos y se muestrea dentro de cada uno.", null, "El muestreo por cuotas no es aleatorio."]
     },
     {
       "q": "La frecuencia cardiaca medida en latidos por minuto es una variable:",
       "o": ["Cuantitativa discreta", "Cuantitativa continua", "Cualitativa ordinal", "Cualitativa nominal"],
       "a": 0,
-      "e": "Solo toma valores enteros, por lo que es discreta. El peso o la temperatura, que admiten decimales, son continuas."
+      "e": "Solo toma valores enteros, por lo que es discreta. El peso o la temperatura, que admiten decimales, son continuas.",
+      "por": [null, "Continua sería si admitiera decimales (peso, temperatura).", "Es numérica, no cualitativa.", "Es numérica, no cualitativa."]
     },
     {
       "q": "El sesgo por el que las expectativas del investigador influyen inconscientemente en los resultados se denomina:",
       "o": ["Efecto Hawthorne", "Sesgo de Berkson", "Sesgo de Neyman", "Efecto Rosenthal o Pigmalión"],
       "a": 3,
-      "e": "Rosenthal = expectativas del investigador (se evita con doble ciego). Hawthorne = el sujeto cambia su conducta al saberse observado."
+      "e": "Rosenthal = expectativas del investigador (se evita con doble ciego). Hawthorne = el sujeto cambia su conducta al saberse observado.",
+      "por": ["El efecto Hawthorne es el cambio de conducta del sujeto al saberse observado.", "El sesgo de Berkson aparece al seleccionar casos en el hospital.", "El sesgo de Neyman (prevalencia-incidencia) se debe a las muertes o curaciones antes del estudio.", null]
     },
     {
       "q": "El gráfico en embudo (funnel plot) se utiliza en los metaanálisis para detectar:",
       "o": ["Factores de confusión", "El sesgo de publicación", "El sesgo de memoria", "Las pérdidas de seguimiento"],
       "a": 1,
-      "e": "La asimetría del embudo indica que faltan estudios (sobre todo pequeños con resultados negativos) que no se publicaron."
+      "e": "La asimetría del embudo indica que faltan estudios (sobre todo pequeños con resultados negativos) que no se publicaron.",
+      "por": ["Los factores de confusión se controlan con el diseño o el análisis, no con el funnel plot.", null, "El sesgo de memoria aparece en los casos y controles.", "Las pérdidas de seguimiento no se detectan con el funnel plot."]
     },
     {
       "q": "Una prueba destinada a un programa de cribado poblacional debe priorizar:",
       "o": ["Una alta especificidad", "Un alto valor predictivo positivo", "Una alta sensibilidad", "Una baja prevalencia de la enfermedad"],
       "a": 2,
-      "e": "En el cribado interesa no dejar escapar enfermos (pocos falsos negativos): alta sensibilidad. La especificidad se prioriza en la confirmación."
+      "e": "En el cribado interesa no dejar escapar enfermos (pocos falsos negativos): alta sensibilidad. La especificidad se prioriza en la confirmación.",
+      "por": ["La alta especificidad se prioriza en las pruebas de confirmación.", "El VPP depende de la prevalencia; no es el criterio de elección del cribado.", null, "La prevalencia no es una característica de la prueba."]
     },
     {
       "q": "Si la prevalencia de una enfermedad disminuye mucho en la población, se modifican:",
       "o": ["Los valores predictivos positivo y negativo", "La sensibilidad de la prueba", "La especificidad de la prueba", "La sensibilidad y la especificidad"],
       "a": 0,
-      "e": "Sensibilidad y especificidad son propiedades intrínsecas de la prueba; VPP y VPN dependen de la prevalencia."
+      "e": "Sensibilidad y especificidad son propiedades intrínsecas de la prueba; VPP y VPN dependen de la prevalencia.",
+      "por": [null, "La sensibilidad es intrínseca a la prueba: no cambia con la prevalencia.", "La especificidad tampoco cambia con la prevalencia.", "Ninguna de las dos cambia: son propiedades de la prueba."]
     },
     {
       "q": "Para comparar una variable que no sigue la distribución normal entre tres o más grupos independientes se utiliza:",
       "o": ["El test de Wilcoxon", "La U de Mann-Whitney", "La prueba de Friedman", "La H de Kruskal-Wallis"],
       "a": 3,
-      "e": "Kruskal-Wallis es la alternativa no paramétrica al ANOVA. Wilcoxon: 2 medidas relacionadas; Mann-Whitney: 2 grupos independientes; Friedman: medidas repetidas."
+      "e": "Kruskal-Wallis es la alternativa no paramétrica al ANOVA. Wilcoxon: 2 medidas relacionadas; Mann-Whitney: 2 grupos independientes; Friedman: medidas repetidas.",
+      "por": ["Wilcoxon compara dos medidas relacionadas.", "Mann-Whitney compara solo dos grupos independientes.", "Friedman es para medidas repetidas (relacionadas).", null]
     },
     {
       "q": "La guía de la Red EQUATOR para la publicación de ensayos clínicos aleatorizados es:",
       "o": ["STROBE", "CONSORT", "PRISMA", "STARD"],
       "a": 1,
-      "e": "CONSORT = ECA; STROBE = observacionales; PRISMA = revisiones sistemáticas y metaanálisis; STARD = pruebas diagnósticas."
+      "e": "CONSORT = ECA; STROBE = observacionales; PRISMA = revisiones sistemáticas y metaanálisis; STARD = pruebas diagnósticas.",
+      "por": ["STROBE es para estudios observacionales.", null, "PRISMA es para revisiones sistemáticas y metaanálisis.", "STARD es para estudios de pruebas diagnósticas."]
     },
     {
       "q": "El instrumento AGREE II se utiliza para:",
       "o": ["Evaluar la calidad de las guías de práctica clínica", "Publicar ensayos clínicos", "Evaluar estudios cualitativos", "Calcular el tamaño muestral"],
       "a": 0,
-      "e": "AGREE II evalúa guías de práctica clínica con 23 ítems agrupados en 6 dominios."
+      "e": "AGREE II evalúa guías de práctica clínica con 23 ítems agrupados en 6 dominios.",
+      "por": [null, "Para publicar ensayos clínicos se usa CONSORT.", "Los estudios cualitativos se evalúan con otras herramientas (COREQ, CASPe cualitativa).", "AGREE no sirve para calcular tamaños muestrales."]
     },
     {
       "q": "La Ley 31/1995 de Prevención de Riesgos Laborales es la transposición de la Directiva:",
       "o": ["2010/32/UE", "2013/59/Euratom", "89/391/CEE", "2004/37/CE"],
       "a": 2,
-      "e": "La LPRL transpone la Directiva marco 89/391/CEE. La 2010/32/UE se refiere a lesiones por cortopunzantes."
+      "e": "La LPRL transpone la Directiva marco 89/391/CEE. La 2010/32/UE se refiere a lesiones por cortopunzantes.",
+      "por": ["La 2010/32/UE trata las lesiones por instrumentos cortopunzantes.", "La 2013/59/Euratom trata la protección radiológica.", null, "La 2004/37/CE trata los agentes carcinógenos."]
     },
     {
       "q": "¿Cuál de los siguientes colectivos queda excluido del ámbito de aplicación de la Ley 31/1995?",
       "o": ["El personal estatutario de los servicios de salud", "Las Fuerzas Armadas en sus actividades militares", "Los socios trabajadores de cooperativas", "Los trabajadores temporales"],
       "a": 1,
-      "e": "Se excluyen actividades de soberanía y orden público (Fuerzas Armadas, policía, protección civil en emergencias). El personal del SMS sí está incluido."
+      "e": "Se excluyen actividades de soberanía y orden público (Fuerzas Armadas, policía, protección civil en emergencias). El personal del SMS sí está incluido.",
+      "por": ["El personal estatutario sí está incluido.", null, "Los socios trabajadores de cooperativas sí están incluidos.", "Los trabajadores temporales sí están incluidos."]
     },
     {
       "q": "¿Cuál de los siguientes NO se considera un Equipo de Protección Individual según la LPRL?",
       "o": ["Una mascarilla FFP3", "Un delantal plomado", "Unas gafas de protección frente a salpicaduras", "El uniforme ordinario de trabajo de la planta"],
       "a": 3,
-      "e": "La ropa de trabajo ordinaria que no protege específicamente frente a un riesgo queda excluida del concepto de EPI."
+      "e": "La ropa de trabajo ordinaria que no protege específicamente frente a un riesgo queda excluida del concepto de EPI.",
+      "por": ["La mascarilla FFP3 sí es un EPI frente a riesgo biológico.", "El delantal plomado sí es un EPI frente a radiaciones.", "Las gafas frente a salpicaduras sí son un EPI.", null]
     },
     {
       "q": "La vigilancia de la salud de los trabajadores es voluntaria, pero pasa a ser obligatoria cuando:",
       "o": ["El estado de salud del trabajador puede constituir un peligro para terceros, como los pacientes", "El trabajador es temporal", "El centro tiene más de 50 trabajadores", "Lo decide el supervisor de la unidad"],
       "a": 0,
-      "e": "Es obligatoria para evaluar los efectos del trabajo, si la salud del trabajador es un peligro para él o terceros, o si lo establece una ley."
+      "e": "Es obligatoria para evaluar los efectos del trabajo, si la salud del trabajador es un peligro para él o terceros, o si lo establece una ley.",
+      "por": [null, "Ser temporal no la hace obligatoria.", "El tamaño del centro no la hace obligatoria.", "No la decide el supervisor."]
     },
     {
       "q": "El Comité de Seguridad y Salud debe constituirse obligatoriamente en centros de trabajo con:",
       "o": ["6 o más trabajadores", "25 o más trabajadores", "50 o más trabajadores", "250 o más trabajadores"],
       "a": 2,
-      "e": "Es un órgano paritario obligatorio a partir de 50 trabajadores. En centros más pequeños actúan los Delegados de Prevención."
+      "e": "Es un órgano paritario obligatorio a partir de 50 trabajadores. En centros más pequeños actúan los Delegados de Prevención.",
+      "por": ["6 trabajadores es la cifra a partir de la cual hay Delegado de Prevención, no Comité.", "25 no es el umbral del Comité.", null, "250 no es el umbral: es 50."]
     },
     {
       "q": "Ante un riesgo para una enfermera embarazada, la primera medida que debe adoptarse según el art. 26 de la LPRL es:",
       "o": ["La suspensión del contrato por riesgo durante el embarazo", "La adaptación de las condiciones o del tiempo de trabajo", "El cambio de puesto con las retribuciones del nuevo puesto", "La baja por incapacidad temporal"],
       "a": 1,
-      "e": "Orden: 1.º adaptar el puesto o el horario; 2.º cambio de puesto manteniendo el 100% de las retribuciones; 3.º suspensión del contrato por riesgo."
+      "e": "Orden: 1.º adaptar el puesto o el horario; 2.º cambio de puesto manteniendo el 100% de las retribuciones; 3.º suspensión del contrato por riesgo.",
+      "por": ["La suspensión del contrato es el último paso.", null, "El cambio de puesto es el 2.º paso, y además se mantiene el 100% de las retribuciones de origen.", "La baja por IT no es la medida preventiva del art. 26."]
     },
     {
       "q": "Según el RD 39/1997, es obligatorio constituir un Servicio de Prevención Propio en empresas con:",
       "o": ["Más de 50 trabajadores", "Más de 100 trabajadores", "Más de 250 trabajadores en cualquier actividad", "Más de 500 trabajadores"],
       "a": 3,
-      "e": "Más de 500 trabajadores; entre 250 y 500 solo si realizan actividades del Anexo I; o por decisión de la autoridad laboral."
+      "e": "Más de 500 trabajadores; entre 250 y 500 solo si realizan actividades del Anexo I; o por decisión de la autoridad laboral.",
+      "por": ["50 trabajadores es el umbral del Comité de Seguridad y Salud.", "100 no es el umbral del servicio propio.", "Entre 250 y 500 solo es obligatorio si se hacen actividades del Anexo I, no en cualquier actividad.", null]
     },
     {
       "q": "El síndrome de burnout y el mobbing son objeto de la disciplina preventiva de:",
       "o": ["Psicosociología aplicada", "Higiene industrial", "Seguridad en el trabajo", "Ergonomía"],
       "a": 0,
-      "e": "La psicosociología se ocupa de los factores organizativos: turnicidad, carga mental, estrés, burnout y acoso."
+      "e": "La psicosociología se ocupa de los factores organizativos: turnicidad, carga mental, estrés, burnout y acoso.",
+      "por": [null, "La higiene industrial se ocupa de agentes químicos, físicos y biológicos.", "La seguridad se ocupa de los accidentes de trabajo.", "La ergonomía se ocupa de la adaptación física del puesto (cargas, posturas)."]
     },
     {
       "q": "Según el RD 664/1997, el VIH, el virus de la hepatitis B y el bacilo de la tuberculosis son agentes biológicos del grupo:",
       "o": ["1", "2", "3", "4"],
       "a": 2,
-      "e": "Grupo 3: enfermedad grave con riesgo de propagación, pero con profilaxis o tratamiento. El grupo 4 incluye el Ébola."
+      "e": "Grupo 3: enfermedad grave con riesgo de propagación, pero con profilaxis o tratamiento. El grupo 4 incluye el Ébola.",
+      "por": ["El grupo 1 no causa enfermedad en el ser humano.", "El grupo 2 causa enfermedad poco probable de propagarse.", null, "El grupo 4 es grave, se propaga y no tiene tratamiento (por ejemplo, Ébola)."]
     },
     {
       "q": "Ante un paciente con tuberculosis pulmonar activa, la enfermera aplicará:",
       "o": ["Precauciones de gotas con mascarilla quirúrgica", "Precauciones de contacto con guantes y bata", "Solo precauciones estándar", "Precauciones de transmisión aérea con mascarilla FFP2/FFP3 y habitación de presión negativa"],
       "a": 3,
-      "e": "Tuberculosis, sarampión y varicela requieren aislamiento aéreo: presión negativa, filtros HEPA y protección respiratoria FFP2/FFP3."
+      "e": "Tuberculosis, sarampión y varicela requieren aislamiento aéreo: presión negativa, filtros HEPA y protección respiratoria FFP2/FFP3.",
+      "por": ["La mascarilla quirúrgica no protege frente a la transmisión aérea.", "El contacto no es su vía de transmisión principal.", "Las precauciones estándar no bastan para la tuberculosis pulmonar.", null]
     },
     {
       "q": "Tras atender a un paciente con diarrea por Clostridioides difficile, la higiene de manos debe hacerse:",
       "o": ["Con solución hidroalcohólica durante 20-30 segundos", "Con agua y jabón, por arrastre mecánico", "No es necesaria si se han usado guantes", "Con alcohol de 70º"],
       "a": 1,
-      "e": "El alcohol no es esporicida: ante esporas se lava con agua y jabón (40-60 s) para arrastrarlas. Los guantes nunca sustituyen la higiene de manos."
+      "e": "El alcohol no es esporicida: ante esporas se lava con agua y jabón (40-60 s) para arrastrarlas. Los guantes nunca sustituyen la higiene de manos.",
+      "por": ["La solución hidroalcohólica no elimina las esporas.", null, "Los guantes nunca sustituyen la higiene de manos.", "El alcohol de 70º no es esporicida."]
     },
     {
       "q": "Según la clasificación de Spaulding, un laringoscopio es material:",
       "o": ["Crítico, que requiere esterilización", "No crítico, que requiere limpieza", "Semicrítico, que requiere desinfección de alto nivel", "Crítico, que requiere desinfección de bajo nivel"],
       "a": 2,
-      "e": "Contacta con mucosas intactas: es semicrítico y requiere desinfección de alto nivel (glutaraldehído, ácido peracético)."
+      "e": "Contacta con mucosas intactas: es semicrítico y requiere desinfección de alto nivel (glutaraldehído, ácido peracético).",
+      "por": ["Crítico es el material que entra en tejido estéril (bisturí, catéteres).", "No crítico es el que solo toca piel intacta (fonendo, manguito).", null, "El material crítico requiere esterilización, no desinfección de bajo nivel."]
     }
   ]
 }

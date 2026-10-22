@@ -1,0 +1,90 @@
+1|a|Eliminar la suciedad por arrastre es la limpieza.
+1|b|Destruir las formas vegetativas en objetos inertes es la desinfección.
+1|c|Reducir la flora de tejidos vivos es la antisepsia.
+2|b|1 entre mil (10⁻³) no es suficiente.
+2|c|1 entre cien es muy insuficiente.
+2|d|1 entre diez mil no alcanza el 10⁻⁶ exigido.
+3|a|La desinfección se aplica a objetos inertes, no a la piel.
+3|c|La piel viva no se puede esterilizar.
+3|d|La asepsia es el conjunto de medidas para evitar la contaminación, no la aplicación del antiséptico.
+4|a|Crítico es lo que entra en tejido estéril; y un endoscopio flexible no tolera el autoclave.
+4|b|No crítico es lo que solo toca piel intacta.
+4|d|El material crítico requiere esterilización, no desinfección de bajo nivel.
+5|a|No crítico es lo que toca piel intacta.
+5|b|Semicrítico es lo que toca mucosas; la vejiga es una cavidad estéril.
+5|d|No es material doméstico.
+6|a|La residente no se elimina con agua y jabón común.
+6|c|La infección cruzada se debe sobre todo a la flora transitoria.
+6|d|La flora que se adquiere al tocar superficies es la transitoria.
+7|b|La solución hidroalcohólica no elimina las esporas.
+7|c|El alcohol de 96° tampoco es esporicida.
+7|d|La clorhexidina alcohólica sin agua no arrastra las esporas.
+8|a|5 segundos es insuficiente.
+8|b|40-60 segundos es el lavado con agua y jabón.
+8|c|3-5 minutos es el lavado quirúrgico.
+9|b|No es una tarea aséptica.
+9|c|No va a tocar al paciente.
+9|d|No hay riesgo de exposición a fluidos.
+10|a|20-30 segundos es la fricción con solución hidroalcohólica.
+10|c|El cepillo se limita a uñas y espacios interdigitales.
+10|d|Se secan con compresa estéril, no con aire caliente.
+11|a|La povidona acuosa es inferior a la clorhexidina alcohólica.
+11|b|El alcohol solo no tiene efecto residual.
+11|d|El agua oxigenada no es un antiséptico para piel antes de un CVC.
+12|a|Sí se usa antes de canalizar vías.
+12|b|Sí se usa en el lavado quirúrgico.
+12|c|Se ha usado en el cordón en países de baja renta.
+13|a|Su efecto residual es corto, no de 24 horas.
+13|b|Se inactiva con materia orgánica (sangre).
+13|c|Se evita en prematuros por la absorción de yodo.
+14|b|El de 96° deshidrata la pared y es menos eficaz.
+14|c|El alcohol puro no desnaturaliza bien las proteínas.
+14|d|El 30% es demasiado diluido.
+15|a|Su efecto mecánico no compensa el riesgo de embolia en cavidades.
+15|b|Diluirlo no evita el riesgo en cavidades cerradas.
+15|d|Tampoco se permite a presión en cavidades por anaerobios.
+16|a|Las esporas son de las formas más resistentes.
+16|c|Las micobacterias son muy resistentes.
+16|d|Los virus sin envoltura son más resistentes que los que la tienen.
+17|b|Las esporas solo las destruyen los de alto nivel o esterilizantes.
+17|c|Los priones no los destruye la desinfección química habitual.
+17|d|Las bacterias vegetativas las destruye incluso el nivel bajo.
+18|a|Para esterilizar se necesitan 10-12 horas de inmersión.
+18|c|No es de bajo nivel: es de alto nivel.
+18|d|No es solo limpieza.
+19|a|No es un defecto de fabricación.
+19|b|La caducidad no tiñe los canales.
+19|d|La temperatura no produce esa tinción.
+20|a|100 ppm es demasiado diluido.
+20|b|500 ppm es insuficiente para un derrame.
+20|c|1.000 ppm es la dilución de las superficies limpias, no de los derrames.
+21|a|La positiva es para las zonas limpia y estéril.
+21|b|No puede tener la misma presión que la zona estéril.
+21|d|No se ventila abriendo ventanas.
+22|b|La alquilación es el mecanismo del óxido de etileno.
+22|c|La oxidación por radicales es el mecanismo del peróxido de hidrógeno.
+22|d|La radiación gamma es un método industrial de esterilización.
+23|a|170 °C durante 1 hora es el calor seco (Poupinel).
+23|c|55 °C durante 12 horas no esteriliza con vapor.
+23|d|90 °C durante 1 minuto no esteriliza.
+24|a|El ciclo estándar de 121 °C no es suficiente para los priones.
+24|b|134 °C durante 3 minutos es insuficiente para los priones.
+24|c|El óxido de etileno no destruye los priones.
+25|b|El plástico termosensible sí es apto (es su principal uso).
+25|c|El Tyvek es precisamente el envoltorio recomendado.
+25|d|El instrumental metálico sí es compatible.
+26|a|No se puede usar al momento: hay que airearlo.
+26|b|Funciona a baja temperatura (37-55 °C), no a 134 °C.
+26|d|Sí necesita humedad para actuar.
+27|a|No certifica la esterilidad de cada paquete.
+27|c|Es químico, no biológico.
+27|d|Se hace con la cámara vacía, no en un paquete.
+28|a|Bacillus atrophaeus valida el óxido de etileno y el calor seco.
+28|b|C. difficile no se usa como indicador biológico.
+28|c|S. aureus no es esporulado ni se usa como indicador.
+29|b|El viraje indica crecimiento: el ciclo ha fallado.
+29|c|No es un indicador químico.
+29|d|Ante un positivo se retira el lote; no basta con repetir la lectura.
+30|a|No caduca por días: depende de los eventos.
+30|b|No hace falta reesterilizar cada semana.
+30|c|Un envoltorio mojado hace perder la esterilidad.

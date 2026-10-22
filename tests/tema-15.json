@@ -7,181 +7,211 @@
       "q": "Según la regla de Mehrabian, el componente que más peso tiene en el impacto emocional de un mensaje es:",
       "o": ["El no verbal (55%)", "El verbal (55%)", "El paraverbal (55%)", "Los tres componentes pesan lo mismo"],
       "a": 0,
-      "e": "Verbal 7%, paraverbal 38% (tono, volumen, ritmo) y no verbal 55%. Ante una incongruencia, el receptor cree al mensaje no verbal."
+      "e": "Verbal 7%, paraverbal 38% (tono, volumen, ritmo) y no verbal 55%. Ante una incongruencia, el receptor cree al mensaje no verbal.",
+      "por": [null, "El verbal (las palabras) solo pesa un 7%.", "El paraverbal (tono, volumen) pesa un 38%.", "No pesan lo mismo: predomina el no verbal."]
     },
     {
       "q": "Según la proxémica de Edward T. Hall, la distancia adecuada para realizar una entrevista clínica o una valoración de enfermería es la distancia personal, que abarca:",
       "o": ["De 0 a 45 cm", "De 1,20 a 3,60 m", "De 45 cm a 1,20 m", "Más de 3,60 m"],
       "a": 2,
-      "e": "Íntima: 0-45 cm (procedimientos); personal: 45 cm-1,20 m (entrevista); social: 1,20-3,60 m; pública: más de 3,60 m."
+      "e": "Íntima: 0-45 cm (procedimientos); personal: 45 cm-1,20 m (entrevista); social: 1,20-3,60 m; pública: más de 3,60 m.",
+      "por": ["0-45 cm es la distancia íntima (procedimientos).", "1,20-3,60 m es la distancia social.", null, "Más de 3,60 m es la distancia pública."]
     },
     {
       "q": "En la ventana de Johari, el área ciega corresponde a:",
       "o": ["Lo que uno conoce de sí mismo y oculta a los demás", "Lo que los demás perciben de nosotros y nosotros desconocemos", "Lo que conocen tanto uno mismo como los demás", "Lo que nadie conoce"],
       "a": 1,
-      "e": "El área ciega se reduce pidiendo feedback; el área oculta (lo que uno sabe y esconde), con la autoexposición. El objetivo es ampliar el área abierta."
+      "e": "El área ciega se reduce pidiendo feedback; el área oculta (lo que uno sabe y esconde), con la autoexposición. El objetivo es ampliar el área abierta.",
+      "por": ["Lo que uno sabe de sí y esconde es el área oculta.", null, "Lo que conocen todos es el área abierta.", "Lo que nadie conoce es el área desconocida."]
     },
     {
       "q": "Un familiar insiste en ver la historia clínica sin autorización y la enfermera responde: \"Es muy posible que tenga razón y que en otros centros se la enseñen, pero aquí no puedo hacerlo\". La técnica asertiva utilizada es:",
       "o": ["El disco rayado", "La aserción negativa", "La interrogación negativa", "El banco de niebla"],
       "a": 3,
-      "e": "El banco de niebla da parte de razón al interlocutor sin cambiar la postura. El disco rayado consiste en repetir el mismo mensaje sin conceder nada."
+      "e": "El banco de niebla da parte de razón al interlocutor sin cambiar la postura. El disco rayado consiste en repetir el mismo mensaje sin conceder nada.",
+      "por": ["El disco rayado repite el mensaje sin dar la razón.", "La aserción negativa es reconocer un error propio.", "La interrogación negativa es pedir más información sobre una crítica.", null]
     },
     {
       "q": "En la pirámide de estratificación de Kaiser Permanente, el paciente crónico complejo o pluripatológico (3-5% de la población) debe recibir:",
       "o": ["Solo actividades de promoción de la salud", "Educación grupal como única intervención", "Gestión de la enfermedad (disease management) exclusivamente", "Gestión de casos por una enfermera gestora de casos"],
       "a": 3,
-      "e": "Nivel 1 (70-80%): promoción y autocuidado; nivel 2 (15-20%): gestión de la enfermedad; nivel 3 (3-5%, consume más del 50% de los recursos): gestión de casos."
+      "e": "Nivel 1 (70-80%): promoción y autocuidado; nivel 2 (15-20%): gestión de la enfermedad; nivel 3 (3-5%, consume más del 50% de los recursos): gestión de casos.",
+      "por": ["La promoción de la salud es para el nivel 1 (población sana).", "La educación grupal sola no basta para el paciente complejo.", "La gestión de la enfermedad es para el nivel 2.", null]
     },
     {
       "q": "La técnica de los \"mensajes yo\" para expresar quejas o sentimientos negativos sin provocar una actitud defensiva fue formulada por:",
       "o": ["Thomas Gordon", "Carl Rogers", "Hildegard Peplau", "Robert Carkhuff"],
       "a": 0,
-      "e": "Thomas Gordon. El mensaje yo describe la conducta de forma objetiva, expresa el propio sentimiento, explica la consecuencia y propone un cambio."
+      "e": "Thomas Gordon. El mensaje yo describe la conducta de forma objetiva, expresa el propio sentimiento, explica la consecuencia y propone un cambio.",
+      "por": [null, "Carl Rogers describió las actitudes de la relación de ayuda.", "Peplau describió las relaciones interpersonales en enfermería.", "Carkhuff describió las fases y respuestas de la relación de ayuda."]
     },
     {
       "q": "En el modelo de Peplau, la fase en la que el paciente obtiene el máximo beneficio de los servicios ofrecidos y que equivale a la ejecución del proceso enfermero es la:",
       "o": ["Orientación", "Identificación", "Explotación", "Resolución"],
       "a": 2,
-      "e": "Orientación (valoración y diagnóstico), identificación (planificación), explotación o aprovechamiento (ejecución) y resolución (evaluación y alta)."
+      "e": "Orientación (valoración y diagnóstico), identificación (planificación), explotación o aprovechamiento (ejecución) y resolución (evaluación y alta).",
+      "por": ["La orientación equivale a la valoración y el diagnóstico.", "La identificación equivale a la planificación.", null, "La resolución equivale a la evaluación y el alta."]
     },
     {
       "q": "Según Hildegard Peplau, el rol de la enfermera de mayor importancia en la relación terapéutica es el de:",
       "o": ["Docente", "Consejero", "Persona recurso", "Sustituto"],
       "a": 1,
-      "e": "Peplau describió seis roles (extraño, persona recurso, docente, líder, sustituto y consejero) y consideró el de consejero el más importante."
+      "e": "Peplau describió seis roles (extraño, persona recurso, docente, líder, sustituto y consejero) y consideró el de consejero el más importante.",
+      "por": ["Docente es uno de los seis roles, no el más importante.", null, "Persona recurso es uno de los seis roles, no el principal.", "Sustituto es uno de los seis roles, no el principal."]
     },
     {
       "q": "Las tres actitudes básicas de Carl Rogers para la relación de ayuda son:",
       "o": ["Simpatía, compasión y consejo", "Directividad, autoridad y control", "Aceptación positiva incondicional, empatía y congruencia", "Exploración, comprensión y acción"],
       "a": 2,
-      "e": "Rogers considera necesarias y suficientes la aceptación incondicional, la empatía y la autenticidad o congruencia. Exploración, comprensión y acción son las fases de Carkhuff."
+      "e": "Rogers considera necesarias y suficientes la aceptación incondicional, la empatía y la autenticidad o congruencia. Exploración, comprensión y acción son las fases de Carkhuff.",
+      "por": ["La simpatía y el consejo no son las actitudes de Rogers.", "La directividad y el control son contrarios a su enfoque.", null, "Exploración, comprensión y acción son las fases de Carkhuff."]
     },
     {
       "q": "Ante un paciente oncológico que llora, la enfermera le dice: \"No se preocupe, verá como todo sale bien\". Según Carkhuff, es una respuesta no facilitadora del tipo:",
       "o": ["Florista", "Detective", "Juez", "Sargento"],
       "a": 0,
-      "e": "El florista ofrece un falso consuelo que impide al paciente expresar su sufrimiento. Lo correcto es estar presente, escuchar y acompañar."
+      "e": "El florista ofrece un falso consuelo que impide al paciente expresar su sufrimiento. Lo correcto es estar presente, escuchar y acompañar.",
+      "por": [null, "El detective hace preguntas para investigar, sin escuchar.", "El juez juzga o culpabiliza.", "El sargento da órdenes."]
     },
     {
       "q": "Respecto a la diferencia entre empatía y simpatía en la relación de ayuda, es correcto que:",
       "o": ["La simpatía es la actitud ideal porque la enfermera sufre junto al paciente", "La empatía permite comprender los sentimientos del paciente sin perder el \"como si\", mientras que la simpatía supone contagio emocional", "Son sinónimos", "La empatía supone identificarse totalmente con las emociones del paciente"],
       "a": 1,
-      "e": "La simpatía implica contagio emocional, pérdida de objetividad y riesgo de burnout. La empatía comprende al otro manteniendo la distancia terapéutica."
+      "e": "La simpatía implica contagio emocional, pérdida de objetividad y riesgo de burnout. La empatía comprende al otro manteniendo la distancia terapéutica.",
+      "por": ["La simpatía no es ideal: implica contagio emocional.", null, "No son sinónimos.", "Identificarse totalmente es simpatía, no empatía."]
     },
     {
       "q": "Según el modelo de Tuckman, la etapa de desarrollo de un equipo caracterizada por luchas de poder y choques de personalidad es la de:",
       "o": ["Formación (forming)", "Normalización (norming)", "Desempeño (performing)", "Conflicto (storming)"],
       "a": 3,
-      "e": "Forming (cortesía e incertidumbre) → storming (conflicto) → norming (cohesión y normas) → performing (máximo rendimiento) → adjourning (disolución, añadida en 1977)."
+      "e": "Forming (cortesía e incertidumbre) → storming (conflicto) → norming (cohesión y normas) → performing (máximo rendimiento) → adjourning (disolución, añadida en 1977).",
+      "por": ["En la formación predominan la cortesía y la incertidumbre.", "En la normalización llegan la cohesión y las normas.", "En el desempeño el equipo rinde al máximo.", null]
     },
     {
       "q": "En la comunicación estructurada SBAR (SAER), la etapa de Evaluación (Assessment) incluye:",
       "o": ["El juicio clínico de la enfermera sobre lo que le ocurre al paciente, además de los datos", "Solo la lectura de las constantes vitales del monitor", "La fecha de ingreso y los antecedentes personales", "La petición concreta de una actuación al médico"],
       "a": 0,
-      "e": "S: situación; A: antecedentes (ingreso, diagnóstico, alergias); E: evaluación con juicio clínico; R: recomendación o propuesta concreta de acción."
+      "e": "S: situación; A: antecedentes (ingreso, diagnóstico, alergias); E: evaluación con juicio clínico; R: recomendación o propuesta concreta de acción.",
+      "por": [null, "No son solo constantes: incluye el juicio clínico.", "La fecha de ingreso y los antecedentes son la A (antecedentes).", "La petición concreta es la R (recomendación)."]
     },
     {
       "q": "Según el modelo de gestión de conflictos de Thomas-Kilmann, durante una parada cardiorrespiratoria el estilo más adecuado del líder es el:",
       "o": ["Evitativo", "Acomodaticio", "De compromiso", "Competitivo"],
       "a": 3,
-      "e": "En una emergencia vital el estilo competitivo (decisiones unilaterales e inmediatas) es el adecuado. En el día a día, el ideal es el colaborativo (ganar/ganar)."
+      "e": "En una emergencia vital el estilo competitivo (decisiones unilaterales e inmediatas) es el adecuado. En el día a día, el ideal es el colaborativo (ganar/ganar).",
+      "por": ["Evitar el conflicto no sirve en una emergencia.", "Ceder (acomodarse) no sirve en una parada.", "El compromiso (negociar a medias) es demasiado lento en una parada.", null]
     },
     {
       "q": "El modelo de equipo en el que se difuminan las fronteras entre disciplinas, el paciente forma parte del equipo y existe liberación de roles (role release) es el:",
       "o": ["Multidisciplinar", "Transdisciplinar", "Interdisciplinar", "Jerárquico"],
       "a": 1,
-      "e": "El multidisciplinar trabaja en paralelo; el interdisciplinar comparte un plan con objetivos comunes; el transdisciplinar es el máximo nivel de integración."
+      "e": "El multidisciplinar trabaja en paralelo; el interdisciplinar comparte un plan con objetivos comunes; el transdisciplinar es el máximo nivel de integración.",
+      "por": ["En el multidisciplinar cada uno trabaja en paralelo.", null, "En el interdisciplinar se comparte un plan, pero se mantienen los roles.", "El jerárquico no difumina fronteras."]
     },
     {
       "q": "Según Borrell, para prevenir el \"síndrome del picaporte\" en la consulta se recomienda:",
       "o": ["Interrumpir al paciente desde el primer minuto con preguntas cerradas", "Citar siempre al paciente para otro día", "Preguntar al inicio si hay alguna otra cosa que le preocupe ese día", "Limitar la consulta a un solo motivo sin preguntar más"],
       "a": 2,
-      "e": "Tras el vaciado de la información preelaborada, Borrell recomienda explorar las demandas añadidas (\"¿hay algo más que le preocupe hoy?\") y negociar prioridades."
+      "e": "Tras el vaciado de la información preelaborada, Borrell recomienda explorar las demandas añadidas (\"¿hay algo más que le preocupe hoy?\") y negociar prioridades.",
+      "por": ["Interrumpir pronto con preguntas cerradas favorece que salgan temas al final.", "Citar siempre para otro día no previene el problema.", null, "Limitarse a un motivo sin preguntar es lo que provoca el «picaporte»."]
     },
     {
       "q": "NO es un principio de la entrevista motivacional:",
       "o": ["Expresar empatía", "Desarrollar la discrepancia", "Confrontar directamente la resistencia del paciente con argumentos", "Apoyar la autoeficacia"],
       "a": 2,
-      "e": "Los cuatro principios son expresar empatía, desarrollar la discrepancia, rodar con la resistencia (no confrontarla) y apoyar la autoeficacia."
+      "e": "Los cuatro principios son expresar empatía, desarrollar la discrepancia, rodar con la resistencia (no confrontarla) y apoyar la autoeficacia.",
+      "por": ["Expresar empatía sí es un principio.", "Desarrollar la discrepancia sí es un principio.", null, "Apoyar la autoeficacia sí es un principio."]
     },
     {
       "q": "Una cuidadora obtiene 52 puntos en la escala de Zarit de 22 ítems (versión española, puntuación de 1 a 5 por ítem). El resultado indica:",
       "o": ["Sobrecarga leve", "Ausencia de sobrecarga", "Sobrecarga intensa", "Claudicación familiar confirmada"],
       "a": 0,
-      "e": "Menos de 47: sin sobrecarga; 47-55: sobrecarga leve; más de 55: sobrecarga intensa. En la versión abreviada de 7 ítems, ≥ 17 indica sobrecarga."
+      "e": "Menos de 47: sin sobrecarga; 47-55: sobrecarga leve; más de 55: sobrecarga intensa. En la versión abreviada de 7 ítems, ≥ 17 indica sobrecarga.",
+      "por": [null, "Sin sobrecarga es menos de 47.", "Sobrecarga intensa es más de 55.", "Zarit no confirma la claudicación familiar."]
     },
     {
       "q": "La principal característica de la escala HAD (Hospital Anxiety and Depression Scale) es que:",
       "o": ["Es exclusiva de pacientes psiquiátricos institucionalizados", "Mide la sobrecarga del cuidador", "Valora la situación sociofamiliar del anciano", "Excluye los síntomas somáticos para evitar falsos positivos en pacientes con enfermedad física"],
       "a": 3,
-      "e": "La HAD tiene 14 ítems (7 de ansiedad y 7 de depresión) y no incluye síntomas somáticos. En cada subescala: 0-7 normal, 8-10 dudoso, ≥ 11 caso probable."
+      "e": "La HAD tiene 14 ítems (7 de ansiedad y 7 de depresión) y no incluye síntomas somáticos. En cada subescala: 0-7 normal, 8-10 dudoso, ≥ 11 caso probable.",
+      "por": ["No es exclusiva de pacientes psiquiátricos: se diseñó para hospitalizados.", "La sobrecarga del cuidador se mide con Zarit.", "La situación sociofamiliar se valora con Gijón.", null]
     },
     {
       "q": "Un anciano obtiene 12 puntos en la escala de valoración sociofamiliar de Gijón. Esto indica:",
       "o": ["Situación social normal", "Riesgo social", "Problema social grave", "Depresión geriátrica"],
       "a": 1,
-      "e": "Gijón (5-25 puntos): 5-9 situación aceptable, 10-14 riesgo social y 15 o más problema social."
+      "e": "Gijón (5-25 puntos): 5-9 situación aceptable, 10-14 riesgo social y 15 o más problema social.",
+      "por": ["Situación aceptable es de 5 a 9.", null, "Problema social es 15 o más.", "Gijón no mide la depresión."]
     },
     {
       "q": "Una familia obtiene 5 puntos en el Apgar familiar de Smilkstein. Se interpreta como:",
       "o": ["Familia normofuncional", "Disfunción familiar leve", "Disfunción familiar grave", "Resultado no valorable"],
       "a": 1,
-      "e": "Apgar familiar (0-10): 7-10 normofuncional, 4-6 disfunción leve y 0-3 disfunción grave."
+      "e": "Apgar familiar (0-10): 7-10 normofuncional, 4-6 disfunción leve y 0-3 disfunción grave.",
+      "por": ["Normofuncional es de 7 a 10.", null, "Disfunción grave es de 0 a 3.", "Sí es valorable."]
     },
     {
       "q": "La teoría que describe el paso del predominio de las enfermedades infecciosas al de las enfermedades crónicas y degenerativas es:",
       "o": ["La transición demográfica de Notestein", "La compresión de la morbilidad de Fries", "El modelo de Dahlgren y Whitehead", "La transición epidemiológica de Omran"],
       "a": 3,
-      "e": "Omran (1971) describe el cambio de los patrones de enfermedad; Notestein (1945), el cambio de las tasas de natalidad y mortalidad."
+      "e": "Omran (1971) describe el cambio de los patrones de enfermedad; Notestein (1945), el cambio de las tasas de natalidad y mortalidad.",
+      "por": ["Notestein describió la transición demográfica (natalidad y mortalidad).", "Fries describió la compresión de la morbilidad.", "Dahlgren y Whitehead describieron los determinantes de la salud.", null]
     },
     {
       "q": "Respecto al Padrón municipal, es correcto que:",
       "o": ["Lo gestionan los Ayuntamientos, se actualiza de forma continua y acredita la residencia para obtener la tarjeta sanitaria", "Lo elabora el INE cada 10 años en los años terminados en 1", "Está protegido por el secreto estadístico y no es público", "Solo recoge a la población de hecho"],
       "a": 0,
-      "e": "El Censo lo elabora el INE cada 10 años con secreto estadístico; el Padrón es un registro administrativo público y continuo de los Ayuntamientos."
+      "e": "El Censo lo elabora el INE cada 10 años con secreto estadístico; el Padrón es un registro administrativo público y continuo de los Ayuntamientos.",
+      "por": [null, "Eso es el Censo, no el Padrón.", "El secreto estadístico es del Censo; el Padrón es un registro público.", "Recoge a los residentes (población de derecho)."]
     },
     {
       "q": "En un municipio hay 10.000 residentes presentes, 500 residentes ausentes y 200 transeúntes. Su población de derecho es:",
       "o": ["10.200", "10.700", "10.500", "10.000"],
       "a": 2,
-      "e": "Población de derecho = residentes presentes + residentes ausentes (10.500). Población de hecho = residentes presentes + transeúntes (10.200)."
+      "e": "Población de derecho = residentes presentes + residentes ausentes (10.500). Población de hecho = residentes presentes + transeúntes (10.200).",
+      "por": ["10.200 es la población de hecho.", "10.700 suma todo: no es ninguna de las dos.", null, "10.000 son solo los presentes."]
     },
     {
       "q": "Una población con crecimiento vegetativo negativo puede tener un crecimiento real positivo si:",
       "o": ["El saldo migratorio positivo supera el déficit vegetativo", "La tasa de mortalidad aumenta", "La emigración es superior a la inmigración", "Nunca es posible"],
       "a": 0,
-      "e": "Crecimiento real = crecimiento vegetativo (N − D) + saldo migratorio (I − E). Es la situación actual de España y de Murcia."
+      "e": "Crecimiento real = crecimiento vegetativo (N − D) + saldo migratorio (I − E). Es la situación actual de España y de Murcia.",
+      "por": [null, "Que aumente la mortalidad empeora el crecimiento.", "Si emigran más de los que llegan, el saldo es negativo.", "Sí es posible gracias a la inmigración."]
     },
     {
       "q": "El denominador de la tasa de fecundidad general es:",
       "o": ["La población total", "El total de mujeres de la población", "Los nacidos vivos", "Las mujeres en edad fértil (15-49 años)"],
       "a": 3,
-      "e": "La tasa bruta de natalidad usa la población total; la de fecundidad general se limita a las mujeres de 15 a 49 años."
+      "e": "La tasa bruta de natalidad usa la población total; la de fecundidad general se limita a las mujeres de 15 a 49 años.",
+      "por": ["La población total es el denominador de la natalidad bruta.", "No son todas las mujeres, solo las de 15 a 49 años.", "Los nacidos vivos son el numerador.", null]
     },
     {
       "q": "La tasa de mortalidad materna se calcula dividiendo las defunciones maternas entre:",
       "o": ["Las mujeres en edad fértil, por 1.000", "Los partos totales, por 1.000", "Los nacidos vivos, por 100.000", "Las mujeres embarazadas, por 10.000"],
       "a": 2,
-      "e": "Su denominador son los nacidos vivos y, por ser un hecho poco frecuente, se expresa por 100.000."
+      "e": "Su denominador son los nacidos vivos y, por ser un hecho poco frecuente, se expresa por 100.000.",
+      "por": ["El denominador no son las mujeres en edad fértil.", "No se divide entre partos ni por 1.000.", null, "No se divide entre embarazadas ni por 10.000."]
     },
     {
       "q": "La mortalidad postneonatal comprende las defunciones ocurridas:",
       "o": ["En los primeros 7 días de vida, por causas obstétricas", "Desde los 28 días hasta antes de cumplir 1 año, predominantemente por causas exógenas", "Desde las 28 semanas de gestación hasta el 7.º día", "Entre el 1.º y el 5.º año de vida"],
       "a": 1,
-      "e": "Neonatal: menos de 28 días (precoz, menos de 7 días; causas endógenas). Postneonatal: de 28 días a menos de 1 año (infecciones, accidentes, alimentación)."
+      "e": "Neonatal: menos de 28 días (precoz, menos de 7 días; causas endógenas). Postneonatal: de 28 días a menos de 1 año (infecciones, accidentes, alimentación).",
+      "por": ["Los primeros 7 días son la mortalidad neonatal precoz.", null, "Eso es la mortalidad perinatal.", "Entre 1 y 5 años es la mortalidad en la infancia, no la postneonatal."]
     },
     {
       "q": "El denominador de las tasas de dependencia es siempre:",
       "o": ["La población de 15 a 64 años", "La población mayor de 65 años", "La población menor de 15 años", "La población total"],
       "a": 0,
-      "e": "Dependencia global = (menores de 15 + mayores de 64) / población de 15-64 años × 100; la senil solo incluye a los mayores en el numerador."
+      "e": "Dependencia global = (menores de 15 + mayores de 64) / población de 15-64 años × 100; la senil solo incluye a los mayores en el numerador.",
+      "por": [null, "Los mayores de 65 van en el numerador de la dependencia senil.", "Los menores de 15 van en el numerador de la dependencia juvenil.", "No es la población total."]
     },
     {
       "q": "Respecto al coeficiente de Gini, es correcto que:",
       "o": ["Un valor de 1 indica igualdad perfecta", "Un valor de 0,85 indica un reparto muy equitativo", "Solo puede tomar valores negativos", "Un valor de 0 indica igualdad perfecta en el reparto"],
       "a": 3,
-      "e": "Gini oscila entre 0 (igualdad perfecta) y 1 (desigualdad máxima). Se deriva de la curva de Lorenz."
+      "e": "Gini oscila entre 0 (igualdad perfecta) y 1 (desigualdad máxima). Se deriva de la curva de Lorenz.",
+      "por": ["1 indica la desigualdad máxima.", "0,85 indica un reparto muy desigual.", "No toma valores negativos.", null]
     }
   ]
 }

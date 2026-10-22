@@ -1,0 +1,90 @@
+1|b|La OMS promueve estrategias globales, pero NAOS es española.
+1|c|No la coordinan las consejerías autonómicas.
+1|d|No la coordina una sociedad científica.
+2|a|Las proteínas no ocupan la mitad del plato.
+2|b|No se reparte a partes iguales.
+2|c|Las grasas no son un cuarto del plato y los hidratos no son la mitad.
+3|a|5-10 g es muy poco.
+3|c|60-70 g es excesivo.
+3|d|100 g es excesivo.
+4|a|Framingham es un estudio de cohortes de factores de riesgo cardiovascular.
+4|b|REGICOR es una tabla de riesgo cardiovascular española.
+4|d|SCORE es una tabla de riesgo europea.
+5|a|No necesita una agenda programada.
+5|b|No se hace solo en grupo: es individual y breve.
+5|c|No está reservado a la obesidad mórbida.
+6|a|Un solo taller no es la estructura del consejo intensivo.
+6|c|10-12 talleres es excesivo.
+6|d|No son talleres semanales durante un año.
+7|b|Meter en un grupo a quien no quiere cambiar es contraproducente.
+7|c|Una dieta estricta no funciona sin motivación.
+7|d|La cirugía no es la primera opción ni procede así.
+8|a|Un mes es muy poco para un problema crónico.
+8|b|3 meses es insuficiente.
+8|d|5 años no es el seguimiento pautado.
+9|a|Con 11 puntos no se considera bien nutrido.
+9|b|La parenteral no procede por un cribado.
+9|d|No se espera un año: se completa la evaluación.
+10|b|21 cm no es el punto de corte.
+10|c|41 cm no es el punto de corte.
+10|d|88 cm es un perímetro abdominal, no de pantorrilla.
+11|a|Comer algo menos no es el criterio.
+11|b|La edad no es un parámetro del MUST.
+11|c|El IMC alto no puntúa como riesgo.
+12|a|94 y 80 cm son el umbral de riesgo aumentado, no muy elevado.
+12|c|120 cm no es el criterio.
+12|d|Está invertido entre hombres y mujeres.
+13|b|No es fuerza, técnica ni tolerancia.
+13|c|No es flexibilidad, impacto ni temperatura.
+13|d|No son parámetros clínicos.
+14|a|96 lpm sale de no sumar bien el componente de reserva.
+14|b|160 es la FC máxima, no la objetivo.
+14|c|106 lpm no corresponde al 60% de la reserva.
+15|a|No usa la tensión ni la saturación.
+15|b|No usa el peso ni la talla.
+15|d|No usa el volumen sistólico.
+16|a|1 ml es demasiado poco.
+16|c|10 ml son unos 3 MET.
+16|d|35 ml son 10 MET.
+17|b|Menos de 3 MET es actividad ligera.
+17|c|Más de 6 MET es vigorosa.
+17|d|Más del 90% de la FC máxima es muy intensa.
+18|a|Para la disnea se usa la escala modificada (0-10).
+18|b|No son valores aleatorios.
+18|d|No se usa solo en niños.
+19|a|La FC máxima teórica no es fiable con betabloqueantes.
+19|b|La tensión no sirve para dosificar el ejercicio.
+19|c|Karvonen depende de la FC, alterada por el betabloqueante.
+20|a|Con 1 criterio es prefrágil.
+20|c|La SPPB es otra herramienta.
+20|d|La edad sola no define la fragilidad.
+21|a|Fuerza de prensión, peso y fatiga son criterios de Fried.
+21|c|No evalúa la cognición ni el ánimo.
+21|d|No valora el riesgo de úlceras.
+22|b|A es para 0-3 puntos.
+22|c|C es para 7-9 puntos.
+22|d|D es para 10-12 puntos.
+23|a|0,5 g/kg/día es muy poco.
+23|b|0,8 g/kg/día es la recomendación del adulto sano, insuficiente aquí.
+23|c|3 g/kg/día es excesivo.
+24|a|Hacer ejercicio con cetonas empeora la cetoacidosis.
+24|b|Tomar hidratos es para glucemias bajas, no altas.
+24|d|Tampoco se recomienda ejercicio ligero con cetonas.
+25|b|No necesita insulina durante la contracción.
+25|c|No se bloquea: aumenta.
+25|d|No ocurre solo en ayunas.
+26|a|La fase I es hospitalaria.
+26|b|La fase II es ambulatoria supervisada en el hospital.
+26|d|La prueba de esfuerzo la hace cardiología.
+27|a|No se sopla: se inspira.
+27|c|Las inspiraciones rápidas no reexpanden los alvéolos.
+27|d|No se tose con la boquilla.
+28|a|El reposo no está indicado en un embarazo sin complicaciones.
+28|b|Los deportes de contacto se evitan.
+28|c|El decúbito supino prolongado se evita (compresión de la cava).
+29|b|150 semanales es la recomendación de adultos.
+29|c|30 minutos dos veces por semana es muy poco.
+29|d|No solo fuerza: sobre todo aeróbica.
+30|a|El reposo absoluto agrava la fatiga.
+30|b|Evitar el movimiento empeora la fatiga y la pérdida muscular.
+30|c|El ejercicio intenso no es lo indicado.

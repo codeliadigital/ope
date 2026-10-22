@@ -7,181 +7,211 @@
       "q": "Un paciente ingresado por una fractura presenta fiebre y síntomas urinarios a las 36 horas del ingreso. La infección se clasifica como:",
       "o": ["Nosocomial, porque el paciente ya está ingresado", "Comunitaria, porque aparece antes de las 48 horas del ingreso", "Ocupacional", "Nosocomial asociada a dispositivo en todos los casos"],
       "a": 1,
-      "e": "Se considera nosocomial la que se manifiesta a partir de las 48-72 horas del ingreso; antes se asume que estaba en incubación al ingresar."
+      "e": "Se considera nosocomial la que se manifiesta a partir de las 48-72 horas del ingreso; antes se asume que estaba en incubación al ingresar.",
+      "por": ["Estar ingresado no basta: antes de 48 horas se considera que ya venía incubándose.", null, "No es una infección del trabajador, sino del paciente.", "No toda infección en un ingresado es nosocomial ni asociada a dispositivo."]
     },
     {
       "q": "Una infección de localización quirúrgica, en una intervención sin implante, se considera relacionada con la cirugía si aparece dentro de:",
       "o": ["Las 48 horas siguientes", "Los 7 días siguientes", "Los 6 meses siguientes", "Los 30 días siguientes"],
       "a": 3,
-      "e": "El periodo es de 30 días; si se ha colocado una prótesis o implante, el periodo de vigilancia se amplía."
+      "e": "El periodo es de 30 días; si se ha colocado una prótesis o implante, el periodo de vigilancia se amplía.",
+      "por": ["48 horas es demasiado corto para la vigilancia quirúrgica.", "7 días es demasiado corto.", "6 meses no es el periodo sin implante (con implante se amplía).", null]
     },
     {
       "q": "El eslabón de la cadena epidemiológica más vulnerable y sobre el que se actúa con mayor eficacia para prevenir las IRAS es:",
       "o": ["El mecanismo de transmisión", "La susceptibilidad del huésped", "El reservorio", "El agente etiológico"],
       "a": 0,
-      "e": "La transmisión se interrumpe de forma sencilla y coste-efectiva, sobre todo con la higiene de manos."
+      "e": "La transmisión se interrumpe de forma sencilla y coste-efectiva, sobre todo con la higiene de manos.",
+      "por": [null, "La susceptibilidad del huésped es más difícil de modificar.", "El reservorio es difícil de eliminar en el hospital.", "El agente no se puede eliminar fácilmente."]
     },
     {
       "q": "El estudio EPINE es:",
       "o": ["Un ensayo clínico aleatorizado sobre antisépticos", "Un estudio de cohortes de pacientes quirúrgicos", "Un estudio transversal de prevalencia de las infecciones nosocomiales en España", "Un registro de enfermedades de declaración obligatoria"],
       "a": 2,
-      "e": "Lo coordina anualmente la Sociedad Española de Medicina Preventiva, Salud Pública e Higiene."
+      "e": "Lo coordina anualmente la Sociedad Española de Medicina Preventiva, Salud Pública e Higiene.",
+      "por": ["No es un ensayo clínico.", "No es un estudio de cohortes.", null, "No es un registro de EDO."]
     },
     {
       "q": "El microorganismo aislado con mayor frecuencia en las infecciones nosocomiales según el EPINE es:",
       "o": ["Escherichia coli", "Pseudomonas aeruginosa", "Staphylococcus aureus resistente a meticilina", "Candida albicans"],
       "a": 0,
-      "e": "E. coli es el más frecuente, sobre todo en infecciones urinarias y bacteriemias de origen abdominal o urológico."
+      "e": "E. coli es el más frecuente, sobre todo en infecciones urinarias y bacteriemias de origen abdominal o urológico.",
+      "por": [null, "Pseudomonas es frecuente, pero no la más frecuente.", "SARM es importante, pero no es el más frecuente.", "Candida no es el más frecuente."]
     },
     {
       "q": "Las infecciones nosocomiales que asocian mayor letalidad son:",
       "o": ["Las infecciones urinarias", "Las bacteriemias y las infecciones asociadas a catéter", "Las infecciones de la herida quirúrgica superficial", "Las conjuntivitis"],
       "a": 1,
-      "e": "Aunque no son las más frecuentes, las bacteriemias tienen la mayor morbimortalidad (sepsis y shock séptico)."
+      "e": "Aunque no son las más frecuentes, las bacteriemias tienen la mayor morbimortalidad (sepsis y shock séptico).",
+      "por": ["Las urinarias son frecuentes, pero menos letales.", null, "La herida quirúrgica superficial es poco letal.", "Las conjuntivitis no son letales."]
     },
     {
       "q": "Las precauciones estándar deben aplicarse:",
       "o": ["Solo a pacientes con infección confirmada", "Solo en las unidades de cuidados intensivos", "Solo a pacientes con VIH o hepatitis", "A todos los pacientes, independientemente de su diagnóstico"],
       "a": 3,
-      "e": "Se asume que toda sangre, fluido (salvo el sudor), piel no intacta y mucosa pueden transmitir infecciones."
+      "e": "Se asume que toda sangre, fluido (salvo el sudor), piel no intacta y mucosa pueden transmitir infecciones.",
+      "por": ["No solo a pacientes con infección confirmada: a todos.", "No solo en la UCI.", "No solo en VIH o hepatitis.", null]
     },
     {
       "q": "En la retirada del equipo de protección individual, el primer elemento que debe quitarse es:",
       "o": ["La mascarilla", "La bata", "Los guantes", "Las gafas"],
       "a": 2,
-      "e": "Se retira primero lo más contaminado (guantes), después gafas y bata, y por último la mascarilla, fuera de la habitación."
+      "e": "Se retira primero lo más contaminado (guantes), después gafas y bata, y por último la mascarilla, fuera de la habitación.",
+      "por": ["La mascarilla se quita la última.", "La bata va después de los guantes y las gafas.", null, "Las gafas van después de los guantes."]
     },
     {
       "q": "En un aislamiento aéreo, el respirador FFP2 del profesional debe retirarse:",
       "o": ["Lo primero, nada más terminar la atención", "Dentro de la habitación, junto a la cama", "Fuera de la habitación y en último lugar, tras cerrar la puerta", "Antes de quitarse los guantes"],
       "a": 2,
-      "e": "Así se protege la vía aérea de las partículas suspendidas hasta salir; después, higiene de manos."
+      "e": "Así se protege la vía aérea de las partículas suspendidas hasta salir; después, higiene de manos.",
+      "por": ["Si se quita lo primero, se expone la vía aérea dentro de la habitación.", "Dentro de la habitación aún hay partículas suspendidas.", null, "Los guantes se retiran antes."]
     },
     {
       "q": "Según el proyecto Bacteriemia Zero, en el adulto se debe evitar la inserción de catéteres venosos centrales en la vena:",
       "o": ["Femoral, siendo de elección la subclavia", "Subclavia, siendo de elección la femoral", "Yugular interna, siendo de elección la femoral", "Basílica en todos los casos"],
       "a": 0,
-      "e": "La zona inguinal está muy colonizada; la subclavia es la de menor riesgo de infección, seguida de la yugular interna."
+      "e": "La zona inguinal está muy colonizada; la subclavia es la de menor riesgo de infección, seguida de la yugular interna.",
+      "por": [null, "Está al revés: la femoral es la que se evita.", "La femoral no es de elección.", "La basílica es para PICC, no la que se evita en un CVC."]
     },
     {
       "q": "Según el proyecto Neumonía Zero, la presión del neumotaponamiento del tubo endotraqueal debe mantenerse entre:",
       "o": ["5 y 10 cmH₂O", "20 y 30 cmH₂O", "40 y 50 cmH₂O", "60 y 80 cmH₂O"],
       "a": 1,
-      "e": "Por debajo de 20 cmH₂O se producen microaspiraciones; por encima de 30 cmH₂O, isquemia de la mucosa traqueal."
+      "e": "Por debajo de 20 cmH₂O se producen microaspiraciones; por encima de 30 cmH₂O, isquemia de la mucosa traqueal.",
+      "por": ["5-10 cmH₂O produce microaspiraciones.", null, "40-50 cmH₂O produce isquemia traqueal.", "60-80 cmH₂O es peligroso."]
     },
     {
       "q": "¿Cuál de las siguientes medidas es INCORRECTA según el proyecto Neumonía Zero?",
       "o": ["Mantener el cabecero elevado a 30-45°", "Realizar higiene bucal con clorhexidina al 0,12-0,2%", "Reducir la sedación y valorar la extubación precoz", "Cambiar de forma rutinaria las tubuladuras del respirador cada 24 horas"],
       "a": 3,
-      "e": "Las tubuladuras solo se cambian si están visiblemente sucias o averiadas; los cambios innecesarios abren el circuito."
+      "e": "Las tubuladuras solo se cambian si están visiblemente sucias o averiadas; los cambios innecesarios abren el circuito.",
+      "por": ["El cabecero a 30-45° sí es correcto.", "La higiene bucal con clorhexidina sí es correcta.", "Reducir la sedación y extubar pronto sí es correcto.", null]
     },
     {
       "q": "Según el proyecto ITU Zero, la higiene del meato urinario en un paciente sondado debe realizarse con:",
       "o": ["Agua y jabón neutro, dentro del aseo diario", "Clorhexidina jabonosa al 4% cada 8 horas", "Povidona yodada al 10% tras cada vaciado", "Alcohol de 70°"],
       "a": 0,
-      "e": "Los antisépticos de rutina en el meato alteran la flora periuretral y no reducen las infecciones."
+      "e": "Los antisépticos de rutina en el meato alteran la flora periuretral y no reducen las infecciones.",
+      "por": [null, "No se usan antisépticos de rutina en el meato.", "La povidona tras cada vaciado no está indicada.", "El alcohol no se usa en el meato."]
     },
     {
       "q": "La bolsa colectora de una sonda vesical debe colocarse:",
       "o": ["Por encima del nivel de la vejiga para facilitar el drenaje", "Por debajo del nivel de la vejiga y sin tocar el suelo", "Apoyada en el suelo junto a la cama", "Encima del colchón, junto al paciente"],
       "a": 1,
-      "e": "Así se evita el reflujo de orina; además, el sistema debe permanecer cerrado y la sonda bien fijada."
+      "e": "Así se evita el reflujo de orina; además, el sistema debe permanecer cerrado y la sonda bien fijada.",
+      "por": ["Por encima de la vejiga provoca reflujo de orina.", null, "No debe tocar el suelo.", "Encima del colchón queda a la altura de la vejiga y favorece el reflujo."]
     },
     {
       "q": "Un paciente con sospecha de tuberculosis pulmonar bacilífera requiere aislamiento:",
       "o": ["De contacto", "Por gotas", "Protector", "Aéreo"],
       "a": 3,
-      "e": "Sarampión, varicela y tuberculosis (\"SaVaTu\") se transmiten por partículas menores de 5 micras que permanecen suspendidas."
+      "e": "Sarampión, varicela y tuberculosis (\"SaVaTu\") se transmiten por partículas menores de 5 micras que permanecen suspendidas.",
+      "por": ["El contacto no es su vía de transmisión.", "La tuberculosis no se transmite por gotas grandes.", "El protector es para inmunodeprimidos.", null]
     },
     {
       "q": "Un paciente con meningitis meningocócica requiere aislamiento:",
       "o": ["Aéreo", "De contacto", "Por gotas", "Protector"],
       "a": 2,
-      "e": "Meningococo, Hib, tos ferina, gripe, difteria faríngea o Mycoplasma se transmiten por gotas mayores de 5 micras."
+      "e": "Meningococo, Hib, tos ferina, gripe, difteria faríngea o Mycoplasma se transmiten por gotas mayores de 5 micras.",
+      "por": ["El meningococo no se transmite por vía aérea.", "No es de contacto.", null, "El protector es para inmunodeprimidos."]
     },
     {
       "q": "Ante un paciente con diarrea por Clostridioides difficile, son correctos:",
       "o": ["El aislamiento de contacto y la higiene de manos con agua y jabón", "El aislamiento aéreo con FFP2", "El aislamiento por gotas con mascarilla quirúrgica", "Solo la higiene con solución hidroalcohólica"],
       "a": 0,
-      "e": "Se transmite por contacto y sus esporas resisten al alcohol, por lo que se requiere arrastre con agua y jabón."
+      "e": "Se transmite por contacto y sus esporas resisten al alcohol, por lo que se requiere arrastre con agua y jabón.",
+      "por": [null, "No se transmite por vía aérea.", "No se transmite por gotas.", "La solución hidroalcohólica no elimina las esporas."]
     },
     {
       "q": "La habitación de aislamiento aéreo debe disponer de:",
       "o": ["Presión positiva y puerta abierta", "Ventilación estándar y puerta abierta", "Presión positiva con aire HEPA", "Presión negativa, renovaciones de aire suficientes y puerta siempre cerrada"],
       "a": 3,
-      "e": "La presión negativa impide que el aire contaminado salga al pasillo; el aire se expulsa al exterior o pasa por filtros HEPA."
+      "e": "La presión negativa impide que el aire contaminado salga al pasillo; el aire se expulsa al exterior o pasa por filtros HEPA.",
+      "por": ["La presión positiva empuja el aire contaminado al pasillo.", "La puerta abierta deja salir las partículas.", "La presión positiva es para el aislamiento protector.", null]
     },
     {
       "q": "En el aislamiento por gotas es correcto que:",
       "o": ["El personal debe usar siempre FFP3", "El personal usa mascarilla quirúrgica y la puerta puede permanecer abierta", "La habitación debe tener presión negativa", "No es necesaria ninguna mascarilla"],
       "a": 1,
-      "e": "Las gotas caen a 1-1,5 m. Solo en procedimientos generadores de aerosoles se requiere FFP2."
+      "e": "Las gotas caen a 1-1,5 m. Solo en procedimientos generadores de aerosoles se requiere FFP2.",
+      "por": ["No hace falta FFP3 de rutina (salvo procedimientos que generen aerosoles).", null, "No necesita presión negativa.", "Sí se necesita mascarilla."]
     },
     {
       "q": "Un paciente en aislamiento aéreo por tuberculosis debe trasladarse a radiología. El paciente debe llevar:",
       "o": ["Un respirador FFP2 con válvula de exhalación", "Ninguna mascarilla", "Una mascarilla quirúrgica", "Una pantalla facial sin mascarilla"],
       "a": 2,
-      "e": "La mascarilla quirúrgica contiene las partículas en la fuente; una FFP2 con válvula dejaría salir el aire exhalado sin filtrar."
+      "e": "La mascarilla quirúrgica contiene las partículas en la fuente; una FFP2 con válvula dejaría salir el aire exhalado sin filtrar.",
+      "por": ["La válvula deja salir el aire exhalado sin filtrar.", "Debe llevar mascarilla para contener las partículas.", null, "La pantalla sola no contiene los aerosoles."]
     },
     {
       "q": "Respecto al aislamiento protector o inverso, es correcto que:",
       "o": ["La habitación debe estar en presión negativa", "Se indica en pacientes con tuberculosis", "Se permiten flores naturales para mejorar el ánimo", "La habitación está en presión positiva, se prohíben las plantas y en los traslados el paciente lleva FFP2"],
       "a": 3,
-      "e": "Protege al paciente inmunodeprimido (neutropenia < 500/mm³, trasplantes, grandes quemados) de los patógenos del entorno, como Aspergillus."
+      "e": "Protege al paciente inmunodeprimido (neutropenia < 500/mm³, trasplantes, grandes quemados) de los patógenos del entorno, como Aspergillus.",
+      "por": ["Es presión positiva, no negativa.", "La tuberculosis requiere aislamiento aéreo.", "Las plantas y flores están prohibidas (hongos).", null]
     },
     {
       "q": "En el aislamiento de contacto, la ubicación en cohortes consiste en:",
       "o": ["Compartir habitación con otro paciente colonizado o infectado por el mismo microorganismo", "Compartir habitación con cualquier paciente aislado", "Ubicar al paciente en una sala con presión negativa", "Agrupar a pacientes sin infección"],
       "a": 0,
-      "e": "Nunca se deben mezclar pacientes con microorganismos o perfiles de resistencia distintos."
+      "e": "Nunca se deben mezclar pacientes con microorganismos o perfiles de resistencia distintos.",
+      "por": [null, "No se mezclan microorganismos distintos.", "La presión negativa es para el aislamiento aéreo.", "No se agrupa a pacientes sin infección en cohortes."]
     },
     {
       "q": "Los contenedores y bolsas de residuos peligrosos no deben llenarse por encima de:",
       "o": ["La mitad de su capacidad", "El 90% de su capacidad", "Las tres cuartas partes de su capacidad", "El borde superior"],
       "a": 2,
-      "e": "El límite de 3/4 permite un cierre seguro y evita pinchazos y derrames."
+      "e": "El límite de 3/4 permite un cierre seguro y evita pinchazos y derrames.",
+      "por": ["La mitad es demasiado poco.", "El 90% es demasiado lleno.", null, "Hasta el borde impide cerrarlo con seguridad."]
     },
     {
       "q": "Una aguja utilizada para inyectar una vacuna a una persona sana se clasifica como residuo del:",
       "o": ["Grupo I", "Grupo III", "Grupo II", "Grupo V"],
       "a": 1,
-      "e": "Todo objeto punzante o cortante es grupo III por su riesgo físico, con independencia del paciente, y va en contenedor rígido."
+      "e": "Todo objeto punzante o cortante es grupo III por su riesgo físico, con independencia del paciente, y va en contenedor rígido.",
+      "por": ["El grupo I son residuos asimilables a urbanos.", null, "El grupo II no incluye punzantes.", "El grupo V son residuos químicos."]
     },
     {
       "q": "En el Servicio Murciano de Salud, los restos de citostáticos y el material que ha estado en contacto con ellos se depositan en:",
       "o": ["Contenedor rígido azul (grupo VI), destinado a incineración", "Contenedor amarillo de punzantes (grupo III)", "Bolsa negra (grupo I)", "Bolsa de galga gruesa (grupo II)"],
       "a": 0,
-      "e": "Los citostáticos son cancerígenos, mutágenos y teratógenos; se eliminan por incineración a alta temperatura."
+      "e": "Los citostáticos son cancerígenos, mutágenos y teratógenos; se eliminan por incineración a alta temperatura.",
+      "por": [null, "El amarillo es para punzantes.", "La bolsa negra es para residuos urbanos.", "El grupo II no incluye citostáticos."]
     },
     {
       "q": "Los pañales, el material de curas y los sistemas de suero sin sangre abundante ni citostáticos pertenecen al grupo:",
       "o": ["I", "II", "III", "IV"],
       "a": 1,
-      "e": "Son residuos sanitarios no específicos: derivan de la asistencia pero no suponen riesgo infeccioso especial fuera del centro."
+      "e": "Son residuos sanitarios no específicos: derivan de la asistencia pero no suponen riesgo infeccioso especial fuera del centro.",
+      "por": ["El grupo I son residuos domésticos sin relación con la asistencia.", null, "El grupo III son residuos de riesgo (punzantes, sangre abundante).", "El grupo IV son restos humanos y cadáveres."]
     },
     {
       "q": "Un miembro inferior amputado se gestiona como:",
       "o": ["Residuo del grupo III en bolsa roja", "Residuo del grupo II", "Residuo citostático", "Grupo IV, según la normativa de policía sanitaria mortuoria (inhumación o cremación)"],
       "a": 3,
-      "e": "Los cadáveres y restos humanos de entidad no se tratan como residuos sanitarios convencionales."
+      "e": "Los cadáveres y restos humanos de entidad no se tratan como residuos sanitarios convencionales.",
+      "por": ["Los restos humanos de entidad no son grupo III.", "No son residuos del grupo II.", "No son citostáticos.", null]
     },
     {
       "q": "El tiempo máximo de permanencia de los residuos sanitarios peligrosos en el almacén final del hospital es de:",
       "o": ["12 horas", "30 días", "72 horas", "6 meses"],
       "a": 2,
-      "e": "Además, deben evacuarse de las unidades asistenciales como máximo cada 12 horas."
+      "e": "Además, deben evacuarse de las unidades asistenciales como máximo cada 12 horas.",
+      "por": ["12 horas es el plazo de evacuación desde las unidades.", "30 días es excesivo.", null, "6 meses es excesivo."]
     },
     {
       "q": "Respecto al gas radón, es correcto que:",
       "o": ["Es un gas radiactivo de origen natural procedente del subsuelo granítico y la segunda causa de cáncer de pulmón tras el tabaco", "Es un residuo industrial de las centrales nucleares", "Es un contaminante biológico", "Solo se encuentra en zonas costeras"],
       "a": 0,
-      "e": "Se acumula en sótanos y plantas bajas mal ventiladas."
+      "e": "Se acumula en sótanos y plantas bajas mal ventiladas.",
+      "por": [null, "Es natural, no un residuo nuclear.", "No es biológico: es radiactivo.", "Abunda en terrenos graníticos, no en la costa."]
     },
     {
       "q": "La Unidad de Salud Medioambiental Pediátrica (PEHSU) del Hospital Virgen de la Arrixaca centra su actividad en:",
       "o": ["Los trabajadores expuestos a metales pesados", "Los residuos hospitalarios", "La población anciana institucionalizada", "Las embarazadas y la infancia"],
       "a": 3,
-      "e": "Se centra en las ventanas de vulnerabilidad del desarrollo y utiliza la \"hoja verde\" para detectar riesgos ambientales."
+      "e": "Se centra en las ventanas de vulnerabilidad del desarrollo y utiliza la \"hoja verde\" para detectar riesgos ambientales.",
+      "por": ["No se centra en trabajadores expuestos.", "No trata residuos hospitalarios.", "No se centra en ancianos.", null]
     }
   ]
 }

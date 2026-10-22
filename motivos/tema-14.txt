@@ -1,0 +1,90 @@
+1|a|El art. 1 define el objeto de la ley.
+1|b|El art. 10 recoge los derechos de los usuarios.
+1|c|El art. 56 trata de las Áreas de Salud.
+2|a|Bandura es el autor de la autoeficacia (teoría social cognitiva).
+2|c|Prochaska y DiClemente describieron las etapas del cambio.
+2|d|Ausubel describió el aprendizaje significativo.
+3|b|La persuasión verbal ayuda, pero es menos potente que los logros propios.
+3|c|Las experiencias vicarias (ver a otros lograrlo) son menos potentes.
+3|d|Los estados fisiológicos son la fuente menos potente.
+4|a|En la contemplación ya hay ambivalencia y piensa cambiar en 6 meses.
+4|b|En la preparación tiene intención de cambiar en el próximo mes.
+4|d|En el mantenimiento ya ha cambiado hace más de 6 meses.
+5|a|Knowles es el autor de la andragogía.
+5|c|Rosenstock formuló el modelo de creencias en salud.
+5|d|Pender formuló el modelo de promoción de la salud.
+6|a|El totalmente compensatorio es para quien no puede hacer nada (p. ej., inconsciente).
+6|b|En el parcialmente compensatorio se comparte el autocuidado.
+6|c|«Suplencia total» no es uno de los sistemas de Orem.
+7|b|No es medible ni tiene plazo.
+7|c|No es específico ni medible.
+7|d|No tiene cifra ni plazo concreto.
+8|a|No evalúa la inteligencia del paciente.
+8|b|No evalúa la memoria a largo plazo.
+8|d|No evalúa el nivel de estudios.
+9|b|La charla magistral no trabaja la ambivalencia.
+9|c|El consejo autoritario genera resistencia.
+9|d|El folleto solo no trabaja la ambivalencia.
+10|a|Averiguar sí es una de las 5 aes.
+10|b|Aconsejar sí es una de las 5 aes.
+10|c|Acordar sí es una de las 5 aes.
+11|a|2-3 personas es demasiado poco para un grupo.
+11|b|20-25 dificulta la participación.
+11|d|Más de 30 impide trabajar en grupo.
+12|a|La exposición teórica no entrena habilidades.
+12|c|La lluvia de ideas genera ideas, no entrena conductas.
+12|d|El folleto no permite ensayar.
+13|a|No es una técnica de evaluación económica.
+13|c|Es grupal y comunitaria, no individual.
+13|d|No es una técnica de cierre de sesión.
+14|b|La herencia genética se ve en el genograma.
+14|c|La funcionalidad familiar se mide con el Apgar familiar.
+14|d|La sobrecarga del cuidador se mide con Zarit.
+15|a|La catarsis es la liberación emocional al expresar sentimientos.
+15|b|La infusión de esperanza es ver que otros mejoran.
+15|c|El altruismo es el beneficio de ayudar a otros.
+16|a|No dirige: el grupo es horizontal.
+16|b|No decide quién habla.
+16|d|No sustituye las decisiones del grupo.
+17|b|De 0 a 10 se puntúan A y B.
+17|c|De 0 a 20 no es la escala de ningún componente.
+17|d|0 o 1 es el componente D (PEARL).
+18|a|D multiplica: si vale 0, la prioridad es 0.
+18|c|No se reduce a la mitad: se anula.
+18|d|No se suma ninguna penalización.
+19|a|La parrilla de Simplex no representa cronogramas.
+19|b|El ecomapa es una herramienta de valoración familiar.
+19|c|Delphi es una técnica de consenso de expertos.
+20|a|Los de proceso se refieren a las actividades.
+20|b|Los de estructura se refieren a los recursos.
+20|d|Los de resultado se refieren a cambios en conductas o conocimientos.
+21|b|Winslow es la definición clásica (1920), centrada en las infecciosas.
+21|c|Piédrola Gil es un autor español de manuales de medicina preventiva.
+21|d|Lalonde describió los campos de la salud.
+22|a|La primaria evita que aparezca la enfermedad.
+22|b|La secundaria es el diagnóstico precoz.
+22|c|La terciaria trata o rehabilita la enfermedad ya establecida.
+23|a|El cribado no reduce la incidencia: detecta lo que ya existe.
+23|c|La terciaria es la rehabilitación.
+23|d|La cuaternaria evita la iatrogenia.
+24|a|Al contrario: se critica que es estática.
+24|b|Sí incluye la dimensión social.
+24|d|Precisamente no se limita a la ausencia de enfermedad.
+25|a|Si los enfermos viven más, la prevalencia no baja: sube.
+25|b|La incidencia se mantiene, según el enunciado.
+25|d|Sí cambia la prevalencia.
+26|b|La tasa bruta depende de la estructura de edad.
+26|c|El número absoluto depende del tamaño de la población.
+26|d|La letalidad mide la gravedad de una enfermedad, no la mortalidad general.
+27|a|Esa es la tasa bruta de mortalidad general.
+27|b|Esa es la incidencia.
+27|c|Esa es la mortalidad específica por esa causa.
+28|a|No mide muertes infantiles.
+28|c|Un valor bajo indica peor nivel sanitario (mueren jóvenes).
+28|d|No mide años de vida ajustados por calidad (AVAC).
+29|b|Aedes transmite el dengue, el zika y el chikungunya.
+29|c|Anopheles transmite el paludismo.
+29|d|Phlebotomus transmite la leishmaniasis.
+30|a|El sistema sanitario explica solo un 11% de la mortalidad.
+30|b|La biología humana no es el mayor contribuyente.
+30|c|El medio ambiente contribuye menos que el estilo de vida.

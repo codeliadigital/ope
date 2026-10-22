@@ -1,0 +1,90 @@
+1|a|La transición con irregularidad es la perimenopausia.
+1|b|Los sofocos son un síntoma, no la definición.
+1|c|La FSH ayuda, pero la menopausia se define clínicamente.
+2|a|35 años no es el límite.
+2|c|45 años no es el límite de la menopausia precoz.
+2|d|50 años es la edad media normal.
+3|a|En la premenopausia temprana hay pocos síntomas.
+3|b|En la posmenopausia tardía predominan los síntomas genitourinarios, no los vasomotores.
+3|d|La etapa reproductiva tardía tiene pocos síntomas.
+4|b|La FSH sube después de que bajen la AMH y la inhibina.
+4|c|El estradiol es el último en caer.
+4|d|La LH no es el marcador más precoz.
+5|a|La FSH está alta, no baja.
+5|c|La progesterona no está alta.
+5|d|La prolactina no define la menopausia.
+6|b|El ovario ya apenas produce estradiol.
+6|c|El estriol es placentario: no hay embarazo.
+6|d|La progesterona no es un estrógeno.
+7|a|El exceso de estrona protege algo el hueso.
+7|b|El cáncer de cérvix se relaciona con el VPH.
+7|c|No aumenta el riesgo de hipotiroidismo.
+8|a|El pH no se vuelve más ácido: se vuelve menos ácido.
+8|b|Sí se modifica.
+8|d|Los lactobacilos disminuyen, no aumentan.
+9|b|La amilasa no tiene relación con los sofocos.
+9|c|La troponina es para el daño miocárdico.
+9|d|El PSA es un marcador prostático.
+10|a|Mayor de −1 es normal.
+10|b|Entre −1 y −2,5 es osteopenia.
+10|d|Un T-score positivo es normal.
+11|a|Es al revés: baja el HDL y sube el LDL.
+11|b|No bajan todas las fracciones.
+11|c|Sí hay cambios.
+12|a|El riesgo de fractura se calcula con el FRAX.
+12|c|No es un cribado de depresión.
+12|d|Es al revés: más puntos, peor calidad de vida.
+13|a|No diagnostica la osteoporosis: estima el riesgo.
+13|c|No mide la densidad ósea.
+13|d|No evalúa la calidad de vida.
+14|b|Están invertidos los umbrales.
+14|c|Una sola respuesta no basta.
+14|d|9 respuestas no es el umbral.
+15|a|500 mg es insuficiente.
+15|b|800 mg es insuficiente a esa edad.
+15|d|2.000 mg es excesivo.
+16|a|No impiden la síntesis de vitamina D.
+16|b|No bloquean los osteoblastos.
+16|c|No aumentan la absorción de fósforo.
+17|b|No estimulan intensamente el endometrio.
+17|c|Su eficacia varía según se produzca equol o no.
+17|d|No están contraindicadas en todas.
+18|a|Las isoflavonas no previenen las caídas.
+18|b|El reposo empeora la masa ósea y muscular.
+18|d|Los hipopresivos trabajan el suelo pélvico, no las fracturas.
+19|a|El café no adelanta la menopausia.
+19|b|El sedentarismo no es el factor que más la adelanta.
+19|c|La dieta vegetariana no la adelanta.
+20|a|El hidratante es de uso continuo, no solo durante el coito.
+20|c|El lubricante no contiene estrógenos.
+20|d|El hidratante es de uso regular, no solo antes del coito.
+21|b|La progesterona no es necesaria con dosis bajas vaginales.
+21|c|No se hacen biopsias mensuales.
+21|d|No hay que suspenderlos a los 3 meses.
+22|a|No es segura a cualquier edad.
+22|b|Por encima de 65 años no se recomienda iniciarla.
+22|d|Tras 20 años de menopausia ya no es segura.
+23|a|Los sofocos son precisamente su indicación.
+23|c|La osteopenia no la contraindica.
+23|d|La edad de 52 años está dentro de la ventana segura.
+24|a|La terapia hormonal está contraindicada tras un cáncer de mama.
+24|b|La paroxetina reduce la eficacia del tamoxifeno.
+24|c|Los estrógenos están contraindicados.
+25|b|No es un estrógeno.
+25|c|No es un inhibidor de la recaptación de serotonina.
+25|d|No es un antiepiléptico.
+26|a|Empezar dando información es paternalista.
+26|b|No basta con informar.
+26|c|Primero va la expresión, no el análisis.
+27|a|2-4 personas no generan dinámica de grupo.
+27|b|4-6 es poco para un taller.
+27|d|30-40 impide la participación.
+28|a|Las de desarrollo de habilidades son el role-playing o los talleres prácticos.
+28|c|No es una exposición magistral.
+28|d|No es una técnica de evaluación.
+29|b|La citología anual no es el cribado actual.
+29|c|La citología cada 3 años es para 25-34 años.
+29|d|La colposcopia no es una prueba de cribado.
+30|a|No es anual ni desde los 40 años.
+30|b|La ecografía no es la prueba de cribado.
+30|c|La autoexploración sola no es el cribado poblacional.

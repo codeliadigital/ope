@@ -1,0 +1,90 @@
+1|a|La polio no está erradicada: persiste en algunos países.
+1|b|El sarampión no está erradicado: sigue habiendo brotes.
+1|d|La difteria no está erradicada.
+2|b|No es una vacuna: aporta anticuerpos ya formados.
+2|c|La activa natural es la que se produce al pasar la enfermedad.
+2|d|La pasiva natural es la que pasa de la madre al feto (placenta, leche).
+3|a|La hepatitis B es recombinante (inactivada).
+3|b|La del VPH es recombinante (partículas similares a virus).
+3|c|La Tdpa contiene toxoides y fracciones antigénicas, no virus vivos.
+4|a|Tener más serotipos no sirve si el lactante no responde a la vacuna.
+4|c|Los polisacáridos no generan memoria inmunológica.
+4|d|En lactantes se usa la conjugada, no la polisacarídica.
+5|b|La triple vírica es viva: contraindicada en el embarazo.
+5|c|La varicela es viva: contraindicada en el embarazo.
+5|d|La gripe intranasal es viva: contraindicada; se usa la inyectable.
+6|a|La fiebre previa es una precaución, no una contraindicación permanente.
+6|b|Una reacción local extensa no es una contraindicación permanente.
+6|c|Si aparece después de los 7 días no se atribuye a la vacuna.
+7|a|Los antibióticos no obligan a posponer las vacunas.
+7|b|También se pueden poner las vivas: no hay contraindicación.
+7|d|Retrasarlo sería una oportunidad perdida.
+8|a|No contraindica la triple vírica.
+8|c|No contraindica las inactivadas.
+8|d|No hace falta vacunar en el hospital por ser alérgico al huevo.
+9|b|No hace falta suspender el inhalador.
+9|c|No hay contraindicación permanente.
+9|d|No se necesita inmunoglobulina.
+10|a|Las vacunas inactivadas no se ven afectadas.
+10|b|La triple vírica se debe retrasar, no poner de inmediato.
+10|d|El rotavirus oral no se ve afectado.
+11|a|En las primeras horas es típica de las inactivadas.
+11|b|En las primeras 48 horas es típica de las inactivadas.
+11|c|Al mes ya no se atribuye a la vacuna.
+12|a|La tipo I es la anafilaxia inmediata.
+12|c|La tipo IV es tardía (días) y celular.
+12|d|El síncope vasovagal no es una reacción inmunológica.
+13|a|El antihistamínico no es el tratamiento de elección.
+13|b|El corticoide IV es complementario y de acción lenta.
+13|d|La adrenalina IV en bolo está proscrita en AP por riesgo de arritmias.
+14|b|0,1 mg/kg es una sobredosis diez veces mayor.
+14|c|1 mg fijo es una dosis de adulto en parada, no de anafilaxia pediátrica.
+14|d|0,5 mg/kg es una sobredosis peligrosa.
+15|a|La anafilaxia cursa con taquicardia y signos cutáneos o respiratorios.
+15|c|La reacción de Arthus es local (edema y eritema), no un mareo.
+15|d|No hay convulsiones: se recupera al tumbarla.
+16|a|Esas temperaturas congelarían y destruirían las vacunas.
+16|b|Por debajo de +2 °C hay riesgo de congelación.
+16|c|Por encima de +8 °C se rompe la cadena de frío.
+17|b|La enfermera no las desecha por su cuenta.
+17|c|No se pueden usar sin la valoración de Salud Pública.
+17|d|No se decide desechar solo las vivas por iniciativa propia.
+18|a|La puerta tiene las mayores oscilaciones de temperatura.
+18|b|No se guardan muestras analíticas con las vacunas.
+18|d|Las vacunas deben permanecer en su envase (protección de la luz).
+19|a|Las vivas (triple vírica, varicela) son más sensibles al calor y la luz.
+19|b|La BCG es más sensible al calor y la luz.
+19|c|El rotavirus oral no es la más sensible a la congelación.
+20|a|El glúteo está desaconsejado en lactantes.
+20|c|El deltoides es poco voluminoso en el lactante.
+20|d|El ventroglúteo no es el sitio de elección en lactantes.
+21|a|No es obligatorio aspirar.
+21|c|Tampoco se aspira en lactantes.
+21|d|No depende de que la vacuna sea viva.
+22|b|Una semana no basta.
+22|c|Dos semanas no bastan.
+22|d|6 meses es excesivo.
+23|a|Las pautas no se reinician.
+23|b|No hace falta serología para completar la pauta.
+23|c|No está protegido: le falta una dosis.
+24|a|Es oral, no intramuscular, y se pone en los primeros meses.
+24|b|Es viva atenuada, no inactivada.
+24|d|No se puede iniciar a cualquier edad: hay un límite de semanas.
+25|b|Esos componentes corresponden a vacunas vivas distintas.
+25|c|El neumococo y el meningococo son vacunas aparte.
+25|d|El rotavirus y la hepatitis A no están en la hexavalente.
+26|a|200 mg es la dosis de la segunda temporada en niños de riesgo.
+26|b|100 mg es para 5 kg o más.
+26|c|25 mg no es una dosis de nirsevimab.
+27|a|No es solo en chicas ni con 3 dosis.
+27|b|No es solo en chicas ni con 2 dosis.
+27|d|No se vacuna a los adultos de 25 años de forma sistemática.
+28|a|La viva atenuada era Zostavax.
+28|c|No es dosis única ni subcutánea.
+28|d|Se indica a partir de los 50 años, no en menores.
+29|b|El HBsAg positivo indica infección, no inmunidad.
+29|c|El anti-HBc positivo indica infección pasada, no vacunación.
+29|d|El umbral es 10 mUI/ml y se mide al mes o dos meses.
+30|a|Con estado desconocido y herida tetanígena hay que hacer profilaxis.
+30|b|Falta la vacuna: la IGT sola no da protección duradera.
+30|c|Falta la inmunoglobulina en una herida tetanígena.

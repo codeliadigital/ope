@@ -1,0 +1,93 @@
+1|a|La radiación predomina cuando ya está seco en la cuna.
+1|b|La conducción es la pérdida por contacto con superficies frías.
+1|d|La convección es por las corrientes de aire.
+2|a|El neonato no tirita de forma eficaz.
+2|c|La vasodilatación pierde calor, no lo produce.
+2|d|No tiene actividad muscular voluntaria suficiente para eso.
+3|a|Los neumocitos tipo I hacen el intercambio gaseoso.
+3|b|Los macrófagos defienden el alvéolo, no producen surfactante.
+3|c|Las células caliciformes producen moco.
+4|b|Es al revés: sube la PaO₂ y bajan las prostaglandinas.
+4|c|La subida de presión en la aurícula izquierda cierra el agujero oval.
+4|d|El cese del flujo umbilical cierra el conducto venoso.
+5|a|La fisiológica aparece después de las 24 horas.
+5|b|Aunque coma bien, antes de 24 horas es patológica.
+5|c|La de la lactancia es más tardía.
+6|b|No le falta insulina: le sobra.
+6|c|No es por resistencia a la insulina.
+6|d|La leche no aporta un exceso de glucosa.
+7|a|La coloración es la que más tarda en normalizarse, no la más importante.
+7|b|El tono es importante, pero menos que el pulso.
+7|c|La respuesta a estímulos es menos importante que el pulso.
+8|a|5 puntos no suma bien los ítems.
+8|b|6 puntos no suma bien los ítems.
+8|d|8 puntos suma uno de más.
+9|b|El glúteo está prohibido en el neonato (nervio ciático).
+9|c|El deltoides no tiene masa suficiente en el neonato.
+9|d|La vitamina D no previene la enfermedad hemorrágica.
+10|a|El nitrato de plata produce conjuntivitis química y está desaconsejado.
+10|c|No se lava después.
+10|d|Se hace de forma universal, no solo en infección materna confirmada.
+11|a|Con madre portadora no se espera a los 2 meses.
+11|b|No basta con la inmunoglobulina: también la vacuna, y en 12 horas.
+11|c|Se ponen en lugares distintos, no en la misma jeringa.
+12|a|El neonato vigoroso es el candidato ideal al pinzamiento tardío.
+12|c|Ser primípara no impide el pinzamiento tardío.
+12|d|El piel con piel es compatible con el pinzamiento tardío.
+13|a|La dificultad grave es de 7 a 10.
+13|c|La moderada es de 4 a 6.
+13|d|0 puntos indica que respira sin dificultad.
+14|b|El caput cruza las suturas y está desde el nacimiento.
+14|c|El moldeamiento es una deformidad ósea, no una tumefacción.
+14|d|La fontanela no se limita al parietal.
+15|a|No es una variante sin repercusión: obliga a estudio.
+15|b|No indica infección.
+15|d|No predice la caída del cordón.
+16|a|Eso es la maniobra de Ortolani (reductora).
+16|b|La extensión con rodillas juntas no es Barlow.
+16|c|La rotación en prono no es Barlow.
+17|a|El Capurro pierde validez por debajo de 29-30 semanas.
+17|c|El Apgar no estima la edad gestacional.
+17|d|El Silverman valora la dificultad respiratoria.
+18|a|El alcohol retrasa la caída del cordón.
+18|b|La clorhexidina no es de rutina en España.
+18|d|La povidona no se usa de rutina.
+19|a|A temperatura ambiente no elimina Cronobacter.
+19|b|A 37 °C no se eliminan las bacterias.
+19|c|A 40 °C tampoco.
+20|b|El lateral es inestable: el niño rueda a prono.
+20|c|El prono aumenta el riesgo de muerte súbita.
+20|d|Las almohadas aumentan el riesgo.
+21|a|No es solo para prematuros ni son 200 UI.
+21|b|1.000 UI es excesivo.
+21|d|Con lactancia materna exclusiva sí es necesaria.
+22|a|El centro del talón tiene riesgo de osteomielitis del calcáneo.
+22|c|Exprimir provoca hemólisis.
+22|d|Se pone una sola gota por círculo.
+23|a|La TSH es para el hipotiroidismo congénito.
+23|b|La fenilalanina es para la fenilcetonuria.
+23|c|La 17-hidroxiprogesterona es para la hiperplasia suprarrenal.
+24|b|La fórmula no obliga a repetir la prueba.
+24|c|La cesárea no obliga a repetirla.
+24|d|La ictericia fisiológica no obliga a repetirla.
+25|a|Las otoemisiones no detectan la neuropatía auditiva retrococlear.
+25|c|No se retrasa hasta los 6 meses.
+25|d|La audiometría tonal no es posible en un neonato.
+26|a|No se mide en la mano izquierda y 90% es positivo.
+26|b|No basta medir el pie.
+26|d|90-94% es dudoso.
+27|b|Al año no duplica: lo triplica.
+27|c|Pierde un 7-10%, no un 20%.
+27|d|La talla aumenta unos 25 cm, no 10.
+28|b|Su ausencia al nacer es normal.
+28|c|No desaparece al mes: aparece a los 4 meses.
+28|d|La caída brusca de la cabeza es el reflejo de Moro.
+29|a|El Moro asimétrico no es normal.
+29|b|La hipoglucemia no produce un Moro asimétrico.
+29|d|A esa edad el Moro debe estar presente.
+30|a|La sedestación estable es hacia los 7-8 meses.
+30|b|El sostén cefálico es hacia los 3-4 meses.
+30|c|La pinza fina es hacia los 10-12 meses.
+31|a|Ortolani es la maniobra reductora (abducción).
+31|c|Galeazzi valora la dismetría de las rodillas.
+31|d|Moro es un reflejo, no una maniobra de cadera.

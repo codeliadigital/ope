@@ -7,181 +7,211 @@
       "q": "El modelo de implementación de la EBE de enfoque organizacional que se inicia a partir de \"desencadenantes\" (triggers) es el modelo:",
       "o": ["De Iowa", "De Stetler", "ACE Star", "Del Instituto Joanna Briggs"],
       "a": 0,
-      "e": "Iowa (Titler) es institucional y parte de desencadenantes; Stetler se centra en la enfermera individual."
+      "e": "Iowa (Titler) es institucional y parte de desencadenantes; Stetler se centra en la enfermera individual.",
+      "por": [null, "Stetler es un modelo individual, sin desencadenantes organizativos.", "ACE Star (Stevens) es un modelo de transformación del conocimiento en forma de estrella.", "El JBI se basa en FAME, no en desencadenantes."]
     },
     {
       "q": "En el modelo de Iowa, el aumento de la tasa de caídas en el turno de noche detectado en la propia unidad es un desencadenante:",
       "o": ["Enfocado en el conocimiento", "Normativo externo", "Enfocado en el problema", "De evaluación final"],
       "a": 2,
-      "e": "Los datos internos (caídas, bacteriemias, quejas) son desencadenantes del problema; la publicación de una nueva guía o norma es del conocimiento."
+      "e": "Los datos internos (caídas, bacteriemias, quejas) son desencadenantes del problema; la publicación de una nueva guía o norma es del conocimiento.",
+      "por": ["Los desencadenantes del conocimiento son una nueva guía, norma o publicación.", "«Normativo externo» no es un tipo de desencadenante de Iowa.", null, "No es una evaluación final: es lo que inicia el proceso."]
     },
     {
       "q": "El modelo de Stetler para la práctica basada en la evidencia se caracteriza por:",
       "o": ["Requerir un ensayo piloto institucional", "Estar dirigido al profesional individual y su pensamiento crítico", "Basarse en desencadenantes organizativos", "Estructurarse en las cinco puntas de una estrella"],
       "a": 1,
-      "e": "Stetler guía a la enfermera de forma individual en 5 fases. La estrella es el modelo ACE Star de Stevens."
+      "e": "Stetler guía a la enfermera de forma individual en 5 fases. La estrella es el modelo ACE Star de Stevens.",
+      "por": ["El ensayo piloto institucional es propio de Iowa.", null, "Los desencadenantes organizativos son de Iowa.", "La estrella de cinco puntas es el modelo ACE Star."]
     },
     {
       "q": "Una Guía de Práctica Clínica es una fuente documental:",
       "o": ["Primaria", "Terciaria", "De literatura gris", "Secundaria"],
       "a": 3,
-      "e": "Las GPC, revisiones sistemáticas y metaanálisis sintetizan fuentes primarias: son fuentes secundarias."
+      "e": "Las GPC, revisiones sistemáticas y metaanálisis sintetizan fuentes primarias: son fuentes secundarias.",
+      "por": ["Las fuentes primarias son los estudios originales.", "Las terciarias son los tratados y libros de texto.", "La literatura gris no está publicada por los cauces comerciales (tesis, informes).", null]
     },
     {
       "q": "Para resolver una pregunta básica (background), como el mecanismo de acción de la heparina, la enfermera debe consultar:",
       "o": ["Fuentes terciarias, como tratados y libros de texto", "PubMed mediante una pregunta PICO", "La Cochrane Library", "CINAHL con descriptores específicos"],
       "a": 0,
-      "e": "Las preguntas básicas se responden con fuentes terciarias; el formato PICO y las bases de datos son para preguntas foreground."
+      "e": "Las preguntas básicas se responden con fuentes terciarias; el formato PICO y las bases de datos son para preguntas foreground.",
+      "por": [null, "PubMed con PICO es para preguntas clínicas concretas (foreground).", "La Cochrane recoge revisiones sistemáticas, no explica mecanismos básicos.", "CINAHL es una base de datos para preguntas foreground."]
     },
     {
       "q": "La base de datos CUIDEN, de referencia en la enfermería iberoamericana, la elabora:",
       "o": ["La Universidad Complutense de Madrid", "La Universidad de La Rioja", "La Fundación Index de Granada", "BIREME (OPS)"],
       "a": 2,
-      "e": "CUIDEN es de la Fundación Index (Granada). ENFISPO es de la Complutense, Dialnet de La Rioja y LILACS de BIREME."
+      "e": "CUIDEN es de la Fundación Index (Granada). ENFISPO es de la Complutense, Dialnet de La Rioja y LILACS de BIREME.",
+      "por": ["La Complutense elabora ENFISPO.", "La Universidad de La Rioja elabora Dialnet.", null, "BIREME elabora LILACS."]
     },
     {
       "q": "El tesauro DeCS (Descriptores en Ciencias de la Salud) se utiliza en:",
       "o": ["PubMed/MEDLINE", "LILACS y BDENF", "CINAHL", "La Cochrane Library"],
       "a": 1,
-      "e": "DeCS es trilingüe y se usa en la Biblioteca Virtual en Salud (LILACS, BDENF). PubMed usa MeSH."
+      "e": "DeCS es trilingüe y se usa en la Biblioteca Virtual en Salud (LILACS, BDENF). PubMed usa MeSH.",
+      "por": ["PubMed/MEDLINE usa el tesauro MeSH.", null, "CINAHL usa sus propios encabezamientos (CINAHL Headings).", "La Cochrane usa MeSH."]
     },
     {
       "q": "En una búsqueda bibliográfica, el truncamiento con asterisco (por ejemplo, enferm*):",
       "o": ["Une sinónimos como el operador OR", "Excluye documentos", "Sustituye un único carácter en el interior de la palabra", "Sustituye una cadena de caracteres al final de la raíz"],
       "a": 3,
-      "e": "Enferm* recupera enfermería, enfermera, enfermedad... El comodín (?) sustituye un solo carácter interior."
+      "e": "Enferm* recupera enfermería, enfermera, enfermedad... El comodín (?) sustituye un solo carácter interior.",
+      "por": ["Unir sinónimos es lo que hace OR.", "Excluir es NOT.", "Sustituir un solo carácter interior es el comodín (?), no el truncamiento.", null]
     },
     {
       "q": "Para buscar artículos sobre el dolor en niños o en neonatos, la ecuación correcta es:",
       "o": ["dolor AND (niños OR neonatos)", "dolor AND niños OR neonatos", "dolor OR niños AND neonatos", "dolor NOT (niños OR neonatos)"],
       "a": 0,
-      "e": "Los sinónimos de la población deben agruparse entre paréntesis con OR y cruzarse con AND."
+      "e": "Los sinónimos de la población deben agruparse entre paréntesis con OR y cruzarse con AND.",
+      "por": [null, "Sin paréntesis, el OR suelto recupera todo lo de neonatos aunque no trate del dolor.", "La combinación OR/AND sin paréntesis da resultados sin sentido.", "NOT excluiría precisamente a los niños y neonatos."]
     },
     {
       "q": "El operador NEAR es un operador:",
       "o": ["Booleano de exclusión", "De truncamiento", "Posicional o de proximidad", "De etiqueta de campo"],
       "a": 2,
-      "e": "NEAR, ADJ y NEXT son de proximidad: indican la distancia entre términos. Los booleanos son solo AND, OR y NOT."
+      "e": "NEAR, ADJ y NEXT son de proximidad: indican la distancia entre términos. Los booleanos son solo AND, OR y NOT.",
+      "por": ["NEAR no excluye: indica proximidad.", "El truncamiento es con asterisco.", null, "Las etiquetas de campo indican dónde buscar (título, autor)."]
     },
     {
       "q": "En las plantillas de lectura crítica CASPe, las preguntas de eliminación son:",
       "o": ["Las dos últimas, sobre aplicabilidad", "Las dos primeras, sobre la validez del estudio", "Todas las del bloque de resultados", "Solo existen en los estudios cualitativos"],
       "a": 1,
-      "e": "Las dos primeras preguntas (bloque A, validez) actúan de filtro: si no se superan, se descarta el artículo."
+      "e": "Las dos primeras preguntas (bloque A, validez) actúan de filtro: si no se superan, se descarta el artículo.",
+      "por": ["Las últimas preguntas son de aplicabilidad, no de eliminación.", null, "Las de resultados no son de eliminación.", "Existen en todas las plantillas CASPe."]
     },
     {
       "q": "La lista de comprobación de la declaración PRISMA 2020 consta de:",
       "o": ["23 ítems", "10 ítems", "11 ítems", "27 ítems"],
       "a": 3,
-      "e": "PRISMA 2020: 27 ítems y diagrama de flujo de 4 fases. AGREE II tiene 23 ítems; CASPe, 10-11 preguntas."
+      "e": "PRISMA 2020: 27 ítems y diagrama de flujo de 4 fases. AGREE II tiene 23 ítems; CASPe, 10-11 preguntas.",
+      "por": ["23 ítems tiene AGREE II.", "10 preguntas tienen algunas plantillas CASPe.", "11 preguntas tienen otras plantillas CASPe.", null]
     },
     {
       "q": "En un forest plot que compara la diferencia de medias en una escala de dolor, la línea de no efecto corresponde al valor:",
       "o": ["0", "1", "0,5", "100"],
       "a": 0,
-      "e": "Para variables continuas (diferencia de medias) el efecto nulo es 0; para medidas relativas (RR, OR) es 1."
+      "e": "Para variables continuas (diferencia de medias) el efecto nulo es 0; para medidas relativas (RR, OR) es 1.",
+      "por": [null, "1 es el valor nulo de las medidas relativas (RR, OR), no de la diferencia de medias.", "0,5 no es un valor nulo.", "100 no es un valor nulo."]
     },
     {
       "q": "En la clasificación de Jovell y Navarro-Rubio, el grado de recomendación E significa:",
       "o": ["Evidencia insuficiente", "Evidencia aceptable para considerar el uso", "Buena evidencia para excluir o desaconsejar la intervención", "Recomendación basada en la opinión de expertos"],
       "a": 2,
-      "e": "En Jovell la evidencia insuficiente es la C; la E indica que hay buena evidencia de daño o inutilidad y debe excluirse."
+      "e": "En Jovell la evidencia insuficiente es la C; la E indica que hay buena evidencia de daño o inutilidad y debe excluirse.",
+      "por": ["La evidencia insuficiente es el grado C.", "La evidencia aceptable es el grado B.", null, "Jovell no tiene un grado de «opinión de expertos»."]
     },
     {
       "q": "La clasificación de Jovell y Navarro-Rubio establece:",
       "o": ["5 niveles de evidencia", "9 niveles de evidencia", "4 niveles de evidencia", "3 niveles de evidencia"],
       "a": 1,
-      "e": "Tiene 9 niveles (I a IX) y 5 grados de recomendación (A a E)."
+      "e": "Tiene 9 niveles (I a IX) y 5 grados de recomendación (A a E).",
+      "por": ["5 son los grados de recomendación, no los niveles.", null, "4 niveles tienen otras escalas, no Jovell.", "3 niveles no es Jovell."]
     },
     {
       "q": "En el sistema GRADE, un conjunto de estudios observacionales parte inicialmente de una calidad de la evidencia:",
       "o": ["Alta", "Moderada", "Muy baja", "Baja"],
       "a": 3,
-      "e": "Los ECA parten de calidad alta y los observacionales de baja; después se ajustan hacia arriba o abajo."
+      "e": "Los ECA parten de calidad alta y los observacionales de baja; después se ajustan hacia arriba o abajo.",
+      "por": ["Alta es el punto de partida de los ECA.", "Moderada no es un punto de partida.", "Muy baja se alcanza solo tras bajar por limitaciones.", null]
     },
     {
       "q": "El sistema de recomendación que valora la viabilidad, la adecuación, el significado para el paciente y la efectividad (FAME) es el del:",
       "o": ["Instituto Joanna Briggs", "SIGN", "GRADE", "CEBM de Oxford"],
       "a": 0,
-      "e": "FAME (Feasibility, Appropriateness, Meaningfulness, Effectiveness) es propio del JBI."
+      "e": "FAME (Feasibility, Appropriateness, Meaningfulness, Effectiveness) es propio del JBI.",
+      "por": [null, "SIGN usa niveles (1++, 1+...) y grados A-D.", "GRADE valora calidad y fuerza de la recomendación, no FAME.", "El CEBM de Oxford clasifica según el tipo de pregunta."]
     },
     {
       "q": "GuíaSalud, el catálogo español de Guías de Práctica Clínica, es:",
       "o": ["Un servicio exclusivo del Ministerio de Sanidad", "Un proyecto de los Colegios de Enfermería", "Un organismo del Consejo Interterritorial con centro coordinador en el Instituto Aragonés de Ciencias de la Salud", "Una agencia de la OMS"],
       "a": 2,
-      "e": "GuíaSalud pertenece al CISNS (participan todas las CC. AA.) y su centro coordinador está en el IACS."
+      "e": "GuíaSalud pertenece al CISNS (participan todas las CC. AA.) y su centro coordinador está en el IACS.",
+      "por": ["No es solo del Ministerio: participan todas las CC. AA. a través del CISNS.", "No es de los Colegios de Enfermería.", null, "No es una agencia de la OMS."]
     },
     {
       "q": "La vía clínica es la herramienta que responde principalmente a:",
       "o": ["¿Qué hacer?", "¿Cuándo y quién lo hace?", "¿Cómo se realiza una técnica?", "¿Por qué enferma el paciente?"],
       "a": 1,
-      "e": "GPC: qué hacer; vía clínica: cuándo y quién (matriz temporal multidisciplinar); protocolo: cómo hacerlo."
+      "e": "GPC: qué hacer; vía clínica: cuándo y quién (matriz temporal multidisciplinar); protocolo: cómo hacerlo.",
+      "por": ["¿Qué hacer? lo responde la Guía de Práctica Clínica.", null, "¿Cómo se hace una técnica? lo responde el protocolo.", "La etiología no es el objetivo de una vía clínica."]
     },
     {
       "q": "¿Cuál de los siguientes es un componente propio de una vía clínica?",
       "o": ["Un diagnóstico NANDA único para todos los pacientes", "La valoración por patrones de Gordon", "El método de priorización de Hanlon", "La hoja de variaciones"],
       "a": 3,
-      "e": "La vía clínica incluye matriz temporal, hoja de variaciones, información al paciente y encuesta de satisfacción."
+      "e": "La vía clínica incluye matriz temporal, hoja de variaciones, información al paciente y encuesta de satisfacción.",
+      "por": ["No hay un diagnóstico NANDA único para todos.", "La valoración por Gordon es del proceso enfermero, no un componente de la vía.", "Hanlon es un método de priorización de problemas de salud.", null]
     },
     {
       "q": "En el instrumento AGREE II, los ítems se puntúan mediante una escala:",
       "o": ["Likert de 1 a 7", "Likert de 1 a 5", "De 0 a 10", "Dicotómica sí/no"],
       "a": 0,
-      "e": "AGREE II: 23 ítems en 6 dominios, escala de 1 (muy en desacuerdo) a 7 (muy de acuerdo), con 2 a 4 evaluadores."
+      "e": "AGREE II: 23 ítems en 6 dominios, escala de 1 (muy en desacuerdo) a 7 (muy de acuerdo), con 2 a 4 evaluadores.",
+      "por": [null, "De 1 a 5 no: AGREE II puntúa de 1 a 7.", "De 0 a 10 no es la escala de AGREE II.", "No es dicotómica."]
     },
     {
       "q": "Una convocatoria que exige una altura mínima de 1,75 m para trabajar en la UCI, sin justificación clínica, constituye según la LO 3/2007:",
       "o": ["Discriminación directa", "Acoso por razón de sexo", "Discriminación indirecta", "Una acción positiva"],
       "a": 2,
-      "e": "Es una norma aparentemente neutra que perjudica de forma particular a las mujeres: discriminación indirecta (art. 6.2)."
+      "e": "Es una norma aparentemente neutra que perjudica de forma particular a las mujeres: discriminación indirecta (art. 6.2).",
+      "por": ["Directa sería si se tratara peor a alguien de forma explícita por ser mujer.", "El acoso por razón de sexo es un comportamiento, no un requisito de acceso.", null, "Una acción positiva favorece al grupo discriminado; esto lo perjudica."]
     },
     {
       "q": "Sobre el permiso por nacimiento y cuidado del menor (RDL 6/2019), es correcto que:",
       "o": ["La madre puede ceder semanas al otro progenitor", "Son 16 semanas para cada progenitor, individuales e intransferibles, con 6 semanas obligatorias tras el parto", "Son 10 semanas para cada progenitor", "Las 6 primeras semanas son voluntarias"],
       "a": 1,
-      "e": "16 semanas por progenitor, intransferibles; las 6 primeras posteriores al parto son de descanso obligatorio."
+      "e": "16 semanas por progenitor, intransferibles; las 6 primeras posteriores al parto son de descanso obligatorio.",
+      "por": ["Las semanas son intransferibles.", null, "Son 16 semanas, no 10.", "Las 6 primeras semanas son obligatorias."]
     },
     {
       "q": "Tras el RD 901/2020, los planes de igualdad son obligatorios en las empresas con:",
       "o": ["250 o más trabajadores", "100 o más trabajadores", "500 o más trabajadores", "50 o más trabajadores"],
       "a": 3,
-      "e": "El umbral actual es de 50 personas trabajadoras; 250 y 100 son cifras antiguas usadas como distractores."
+      "e": "El umbral actual es de 50 personas trabajadoras; 250 y 100 son cifras antiguas usadas como distractores.",
+      "por": ["250 es una cifra antigua.", "100 es una cifra transitoria antigua.", "500 no es el umbral.", null]
     },
     {
       "q": "Según la LO 3/2007, existe presencia equilibrada de mujeres y hombres en un órgano cuando:",
       "o": ["Ningún sexo supera el 60% ni es inferior al 40%", "Hay exactamente el 50% de cada sexo", "Ningún sexo supera el 70%", "Las mujeres son mayoría"],
       "a": 0,
-      "e": "Horquilla del 40-60%. Por ejemplo, en un tribunal de 5 miembros no puede haber más de 3 del mismo sexo."
+      "e": "Horquilla del 40-60%. Por ejemplo, en un tribunal de 5 miembros no puede haber más de 3 del mismo sexo.",
+      "por": [null, "No se exige exactamente el 50%.", "El límite es el 60%, no el 70%.", "No exige mayoría de mujeres."]
     },
     {
       "q": "La LO 1/2004 de protección integral contra la violencia de género se aplica a la violencia ejercida sobre la mujer por:",
       "o": ["Cualquier hombre, conocido o desconocido", "Solo su cónyuge", "Quien sea o haya sido su cónyuge o pareja, aun sin convivencia", "Su pareja, solo si conviven"],
       "a": 2,
-      "e": "Exige vínculo de pareja actual o pasado, aunque no haya convivencia. Las agresiones de desconocidos se rigen por otras normas."
+      "e": "Exige vínculo de pareja actual o pasado, aunque no haya convivencia. Las agresiones de desconocidos se rigen por otras normas.",
+      "por": ["Si el agresor es un desconocido, no entra en la LO 1/2004.", "No solo el cónyuge: también la pareja o expareja.", null, "No exige convivencia."]
     },
     {
       "q": "La Comisión contra la Violencia de Género del Consejo Interterritorial del SNS se crea en el artículo de la LO 1/2004:",
       "o": ["15", "16", "19", "1"],
       "a": 1,
-      "e": "El art. 15 regula la formación del personal sanitario y el art. 16 crea la Comisión en el CISNS."
+      "e": "El art. 15 regula la formación del personal sanitario y el art. 16 crea la Comisión en el CISNS.",
+      "por": ["El art. 15 regula la formación del personal sanitario.", null, "El art. 19 regula la asistencia social integral.", "El art. 1 define el objeto de la ley."]
     },
     {
       "q": "Ante una mujer víctima de violencia de género con riesgo vital inminente que acude a urgencias, el protocolo común indica:",
       "o": ["Darle el alta y derivarla al CAVI", "Emitir solo el parte de lesiones", "Esperar a que decida denunciar", "No permitir que abandone el centro y contactar de inmediato con las Fuerzas y Cuerpos de Seguridad"],
       "a": 3,
-      "e": "En riesgo vital se protege a la mujer en el centro, se avisa a las fuerzas de seguridad (112, 091, 062) y se emite el parte."
+      "e": "En riesgo vital se protege a la mujer en el centro, se avisa a las fuerzas de seguridad (112, 091, 062) y se emite el parte.",
+      "por": ["Con riesgo vital no se da el alta sin más.", "El parte se emite, pero no basta: hay que protegerla.", "No se espera a la denuncia ante un riesgo vital.", null]
     },
     {
       "q": "Según la Ley 4/2023, las terapias de conversión de la orientación sexual o la identidad de género:",
       "o": ["Están prohibidas incluso con el consentimiento del interesado", "Están permitidas si la persona es mayor de edad", "Están permitidas con informe psicológico previo", "Solo están prohibidas en menores"],
       "a": 0,
-      "e": "La prohibición (art. 17) es absoluta, aunque exista consentimiento; su práctica es infracción muy grave."
+      "e": "La prohibición (art. 17) es absoluta, aunque exista consentimiento; su práctica es infracción muy grave.",
+      "por": [null, "Están prohibidas también en mayores de edad.", "No las permite ningún informe.", "No solo en menores: la prohibición es general."]
     },
     {
       "q": "Según la Ley 4/2023, en una persona intersexual menor de 12 años, las prácticas de modificación genital:",
       "o": ["Están permitidas con el consentimiento de los padres", "Están prohibidas hasta los 16 años en cualquier caso", "Están prohibidas, salvo indicación médica para proteger su salud física", "Están permitidas si son de carácter estético"],
       "a": 2,
-      "e": "Menores de 12: prohibidas salvo necesidad médica para la salud física. Entre 12 y 16: solo a petición del menor con madurez certificada."
+      "e": "Menores de 12: prohibidas salvo necesidad médica para la salud física. Entre 12 y 16: solo a petición del menor con madurez certificada.",
+      "por": ["El consentimiento de los padres no basta.", "No es una prohibición absoluta: se permite la indicación médica para la salud física.", null, "Las de carácter estético están prohibidas."]
     }
   ]
 }

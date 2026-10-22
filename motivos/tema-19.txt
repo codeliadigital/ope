@@ -1,0 +1,90 @@
+1|a|Estar ingresado no basta: antes de 48 horas se considera que ya venía incubándose.
+1|c|No es una infección del trabajador, sino del paciente.
+1|d|No toda infección en un ingresado es nosocomial ni asociada a dispositivo.
+2|a|48 horas es demasiado corto para la vigilancia quirúrgica.
+2|b|7 días es demasiado corto.
+2|c|6 meses no es el periodo sin implante (con implante se amplía).
+3|b|La susceptibilidad del huésped es más difícil de modificar.
+3|c|El reservorio es difícil de eliminar en el hospital.
+3|d|El agente no se puede eliminar fácilmente.
+4|a|No es un ensayo clínico.
+4|b|No es un estudio de cohortes.
+4|d|No es un registro de EDO.
+5|b|Pseudomonas es frecuente, pero no la más frecuente.
+5|c|SARM es importante, pero no es el más frecuente.
+5|d|Candida no es el más frecuente.
+6|a|Las urinarias son frecuentes, pero menos letales.
+6|c|La herida quirúrgica superficial es poco letal.
+6|d|Las conjuntivitis no son letales.
+7|a|No solo a pacientes con infección confirmada: a todos.
+7|b|No solo en la UCI.
+7|c|No solo en VIH o hepatitis.
+8|a|La mascarilla se quita la última.
+8|b|La bata va después de los guantes y las gafas.
+8|d|Las gafas van después de los guantes.
+9|a|Si se quita lo primero, se expone la vía aérea dentro de la habitación.
+9|b|Dentro de la habitación aún hay partículas suspendidas.
+9|d|Los guantes se retiran antes.
+10|b|Está al revés: la femoral es la que se evita.
+10|c|La femoral no es de elección.
+10|d|La basílica es para PICC, no la que se evita en un CVC.
+11|a|5-10 cmH₂O produce microaspiraciones.
+11|c|40-50 cmH₂O produce isquemia traqueal.
+11|d|60-80 cmH₂O es peligroso.
+12|a|El cabecero a 30-45° sí es correcto.
+12|b|La higiene bucal con clorhexidina sí es correcta.
+12|c|Reducir la sedación y extubar pronto sí es correcto.
+13|b|No se usan antisépticos de rutina en el meato.
+13|c|La povidona tras cada vaciado no está indicada.
+13|d|El alcohol no se usa en el meato.
+14|a|Por encima de la vejiga provoca reflujo de orina.
+14|c|No debe tocar el suelo.
+14|d|Encima del colchón queda a la altura de la vejiga y favorece el reflujo.
+15|a|El contacto no es su vía de transmisión.
+15|b|La tuberculosis no se transmite por gotas grandes.
+15|c|El protector es para inmunodeprimidos.
+16|a|El meningococo no se transmite por vía aérea.
+16|b|No es de contacto.
+16|d|El protector es para inmunodeprimidos.
+17|b|No se transmite por vía aérea.
+17|c|No se transmite por gotas.
+17|d|La solución hidroalcohólica no elimina las esporas.
+18|a|La presión positiva empuja el aire contaminado al pasillo.
+18|b|La puerta abierta deja salir las partículas.
+18|c|La presión positiva es para el aislamiento protector.
+19|a|No hace falta FFP3 de rutina (salvo procedimientos que generen aerosoles).
+19|c|No necesita presión negativa.
+19|d|Sí se necesita mascarilla.
+20|a|La válvula deja salir el aire exhalado sin filtrar.
+20|b|Debe llevar mascarilla para contener las partículas.
+20|d|La pantalla sola no contiene los aerosoles.
+21|a|Es presión positiva, no negativa.
+21|b|La tuberculosis requiere aislamiento aéreo.
+21|c|Las plantas y flores están prohibidas (hongos).
+22|b|No se mezclan microorganismos distintos.
+22|c|La presión negativa es para el aislamiento aéreo.
+22|d|No se agrupa a pacientes sin infección en cohortes.
+23|a|La mitad es demasiado poco.
+23|b|El 90% es demasiado lleno.
+23|d|Hasta el borde impide cerrarlo con seguridad.
+24|a|El grupo I son residuos asimilables a urbanos.
+24|c|El grupo II no incluye punzantes.
+24|d|El grupo V son residuos químicos.
+25|b|El amarillo es para punzantes.
+25|c|La bolsa negra es para residuos urbanos.
+25|d|El grupo II no incluye citostáticos.
+26|a|El grupo I son residuos domésticos sin relación con la asistencia.
+26|c|El grupo III son residuos de riesgo (punzantes, sangre abundante).
+26|d|El grupo IV son restos humanos y cadáveres.
+27|a|Los restos humanos de entidad no son grupo III.
+27|b|No son residuos del grupo II.
+27|c|No son citostáticos.
+28|a|12 horas es el plazo de evacuación desde las unidades.
+28|b|30 días es excesivo.
+28|d|6 meses es excesivo.
+29|b|Es natural, no un residuo nuclear.
+29|c|No es biológico: es radiactivo.
+29|d|Abunda en terrenos graníticos, no en la costa.
+30|a|No se centra en trabajadores expuestos.
+30|b|No trata residuos hospitalarios.
+30|c|No se centra en ancianos.

@@ -1,0 +1,96 @@
+1|b|La oral pierde fármaco por la absorción incompleta y el primer paso hepático.
+1|c|La sublingual evita el primer paso, pero la absorción no es completa.
+1|d|La IM tiene una absorción alta, pero no del 100% por definición.
+2|a|Paracetamol, ibuprofeno y omeprazol tienen un margen terapéutico amplio.
+2|b|Estos antibióticos tienen un índice terapéutico amplio.
+2|d|Los antihistamínicos tienen un margen amplio.
+3|a|Registrar antes de administrar puede dejar constancia de algo que no se ha dado.
+3|b|Registrar al final del turno favorece errores y olvidos.
+3|c|No depende de que lo indique el médico: se registra al administrar.
+4|a|Nunca en bolo: puede causar una parada cardiaca.
+4|c|No se administra por vía IM.
+4|d|Sí es un medicamento de alto riesgo.
+5|a|Las de tipo B son impredecibles e independientes de la dosis (alergias, idiosincrasia).
+5|c|Las de tipo C se deben al uso prolongado.
+5|d|Las de tipo D son diferidas (teratogenia, carcinogénesis).
+6|a|Tipo A es la exageración del efecto con la dosis.
+6|b|Tipo B es la reacción impredecible.
+6|c|Tipo C es por uso crónico, no por la retirada.
+7|b|La oral pasa por la porta y sufre primer paso.
+7|c|La rectal solo lo evita parcialmente.
+7|d|La sonda llega al estómago: sufre primer paso como la oral.
+8|a|No lo evita totalmente: solo en parte.
+8|b|Su absorción es errática, no rápida y constante.
+8|d|No es de elección en urgencias cardiológicas (lo es la sublingual o la IV).
+9|a|Lavar la sonda antes y después es correcto.
+9|b|Administrar cada fármaco por separado es correcto.
+9|d|Preferir formas líquidas es correcto.
+10|b|2 ml es muy poco y no se usa suero glucosado.
+10|c|100 ml es excesivo.
+10|d|Se lava con agua, no con aire.
+11|a|90° con aguja larga es la técnica IM.
+11|c|No se masajea: alteraría la prueba.
+11|d|El volumen es de 0,1-0,3 ml.
+12|a|La burbuja no se purga: sella el trayecto.
+12|b|No se masajea: favorece los hematomas.
+12|c|En la vía SC no se aspira.
+13|b|El muslo tiene una absorción más lenta.
+13|c|La región escapular no es una zona habitual de autoinyección.
+13|d|El brazo absorbe más lento que el abdomen.
+14|a|La dorsoglútea tiene riesgo de lesionar el nervio ciático.
+14|b|El deltoides admite poco volumen.
+14|d|La cara posterior del muslo no es una zona IM recomendada.
+15|a|Las vacunas no se administran en Z.
+15|b|La insulina es subcutánea.
+15|c|La heparina de bajo peso es subcutánea.
+16|a|El 24 G es el más fino (neonatos).
+16|c|El 22 G es fino para un shock.
+16|d|El 20 G es el estándar, insuficiente en un shock.
+17|a|El 24 G es demasiado fino y puede hemolizar.
+17|c|El 26 G es el más fino de todos.
+17|d|El 22 G es fino para transfundir con buen ritmo.
+18|b|No se retira el catéter de inmediato: antes se aspira el fármaco.
+18|c|Aumentar el ritmo empeora la extravasación.
+18|d|El calor no vale para todos: depende del citostático.
+19|a|Admite fármacos además de sueros.
+19|b|Las dosis son las mismas que por vía IV.
+19|d|No debe mantenerse más de 24 horas.
+20|a|Frotar el ojo no reduce la absorción y puede dañarlo.
+20|b|La pomada no evita el paso a la mucosa nasal.
+20|c|Inclinar la cabeza no reduce la absorción sistémica.
+21|b|Hacia abajo y atrás es en menores de 3 años.
+21|c|Hacia delante no endereza el conducto auditivo.
+21|d|Sí hay que traccionar para enderezar el conducto.
+22|a|Puede ducharse con el parche.
+22|b|Debe rotar la zona de aplicación.
+22|c|La piel sin vello es la adecuada.
+23|a|14 gotas/min serían unos 500 ml en 12 horas.
+23|b|42 gotas/min infundirían el suero en unas 8 horas.
+23|d|83 son los ml/h, no las gotas/min.
+24|a|30 serían microgotas/min, no macrogotas.
+24|c|90 gotas/min multiplicaría el ritmo.
+24|d|60 gotas/min no corresponde a 30 ml/h.
+25|a|24 ml/h multiplica la dosis por 10.
+25|b|0,24 ml/h divide la dosis por 10.
+25|c|8 ml/h no sale del cálculo.
+26|b|Esa es la regla de Fried (lactantes).
+26|c|Esa es la regla de Clark (por peso).
+26|d|Esa fórmula no es la de Young.
+27|a|El baño tiene humedad y cambios de temperatura.
+27|c|La insulina no se congela.
+27|d|Los envases van al Punto SIGRE, no al contenedor amarillo.
+28|a|No son 100 criterios.
+28|b|Esas eran las cifras de una versión anterior.
+28|d|Está invertido: hay más STOPP (133) que START (57).
+29|b|La segunda pregunta debe responderse SÍ.
+29|c|Las otras tres deben responderse NO.
+29|d|Esa combinación indica incumplimiento.
+30|a|El de Batalla valora el conocimiento de la enfermedad.
+30|b|Morisky-Green no pregunta por el fin de semana.
+30|c|Haynes-Sackett (autocomunicado) usa el umbral del 80%.
+31|a|90° es la vía intramuscular.
+31|b|45° es la vía subcutánea.
+31|c|25-30° es la vía intravenosa.
+32|a|El 18 G es verde.
+32|c|El 22 G es azul.
+32|d|El 24 G es amarillo.

@@ -1,0 +1,90 @@
+1|b|El verbal (las palabras) solo pesa un 7%.
+1|c|El paraverbal (tono, volumen) pesa un 38%.
+1|d|No pesan lo mismo: predomina el no verbal.
+2|a|0-45 cm es la distancia íntima (procedimientos).
+2|b|1,20-3,60 m es la distancia social.
+2|d|Más de 3,60 m es la distancia pública.
+3|a|Lo que uno sabe de sí y esconde es el área oculta.
+3|c|Lo que conocen todos es el área abierta.
+3|d|Lo que nadie conoce es el área desconocida.
+4|a|El disco rayado repite el mensaje sin dar la razón.
+4|b|La aserción negativa es reconocer un error propio.
+4|c|La interrogación negativa es pedir más información sobre una crítica.
+5|a|La promoción de la salud es para el nivel 1 (población sana).
+5|b|La educación grupal sola no basta para el paciente complejo.
+5|c|La gestión de la enfermedad es para el nivel 2.
+6|b|Carl Rogers describió las actitudes de la relación de ayuda.
+6|c|Peplau describió las relaciones interpersonales en enfermería.
+6|d|Carkhuff describió las fases y respuestas de la relación de ayuda.
+7|a|La orientación equivale a la valoración y el diagnóstico.
+7|b|La identificación equivale a la planificación.
+7|d|La resolución equivale a la evaluación y el alta.
+8|a|Docente es uno de los seis roles, no el más importante.
+8|c|Persona recurso es uno de los seis roles, no el principal.
+8|d|Sustituto es uno de los seis roles, no el principal.
+9|a|La simpatía y el consejo no son las actitudes de Rogers.
+9|b|La directividad y el control son contrarios a su enfoque.
+9|d|Exploración, comprensión y acción son las fases de Carkhuff.
+10|b|El detective hace preguntas para investigar, sin escuchar.
+10|c|El juez juzga o culpabiliza.
+10|d|El sargento da órdenes.
+11|a|La simpatía no es ideal: implica contagio emocional.
+11|c|No son sinónimos.
+11|d|Identificarse totalmente es simpatía, no empatía.
+12|a|En la formación predominan la cortesía y la incertidumbre.
+12|b|En la normalización llegan la cohesión y las normas.
+12|c|En el desempeño el equipo rinde al máximo.
+13|b|No son solo constantes: incluye el juicio clínico.
+13|c|La fecha de ingreso y los antecedentes son la A (antecedentes).
+13|d|La petición concreta es la R (recomendación).
+14|a|Evitar el conflicto no sirve en una emergencia.
+14|b|Ceder (acomodarse) no sirve en una parada.
+14|c|El compromiso (negociar a medias) es demasiado lento en una parada.
+15|a|En el multidisciplinar cada uno trabaja en paralelo.
+15|c|En el interdisciplinar se comparte un plan, pero se mantienen los roles.
+15|d|El jerárquico no difumina fronteras.
+16|a|Interrumpir pronto con preguntas cerradas favorece que salgan temas al final.
+16|b|Citar siempre para otro día no previene el problema.
+16|d|Limitarse a un motivo sin preguntar es lo que provoca el «picaporte».
+17|a|Expresar empatía sí es un principio.
+17|b|Desarrollar la discrepancia sí es un principio.
+17|d|Apoyar la autoeficacia sí es un principio.
+18|b|Sin sobrecarga es menos de 47.
+18|c|Sobrecarga intensa es más de 55.
+18|d|Zarit no confirma la claudicación familiar.
+19|a|No es exclusiva de pacientes psiquiátricos: se diseñó para hospitalizados.
+19|b|La sobrecarga del cuidador se mide con Zarit.
+19|c|La situación sociofamiliar se valora con Gijón.
+20|a|Situación aceptable es de 5 a 9.
+20|c|Problema social es 15 o más.
+20|d|Gijón no mide la depresión.
+21|a|Normofuncional es de 7 a 10.
+21|c|Disfunción grave es de 0 a 3.
+21|d|Sí es valorable.
+22|a|Notestein describió la transición demográfica (natalidad y mortalidad).
+22|b|Fries describió la compresión de la morbilidad.
+22|c|Dahlgren y Whitehead describieron los determinantes de la salud.
+23|b|Eso es el Censo, no el Padrón.
+23|c|El secreto estadístico es del Censo; el Padrón es un registro público.
+23|d|Recoge a los residentes (población de derecho).
+24|a|10.200 es la población de hecho.
+24|b|10.700 suma todo: no es ninguna de las dos.
+24|d|10.000 son solo los presentes.
+25|b|Que aumente la mortalidad empeora el crecimiento.
+25|c|Si emigran más de los que llegan, el saldo es negativo.
+25|d|Sí es posible gracias a la inmigración.
+26|a|La población total es el denominador de la natalidad bruta.
+26|b|No son todas las mujeres, solo las de 15 a 49 años.
+26|c|Los nacidos vivos son el numerador.
+27|a|El denominador no son las mujeres en edad fértil.
+27|b|No se divide entre partos ni por 1.000.
+27|d|No se divide entre embarazadas ni por 10.000.
+28|a|Los primeros 7 días son la mortalidad neonatal precoz.
+28|c|Eso es la mortalidad perinatal.
+28|d|Entre 1 y 5 años es la mortalidad en la infancia, no la postneonatal.
+29|b|Los mayores de 65 van en el numerador de la dependencia senil.
+29|c|Los menores de 15 van en el numerador de la dependencia juvenil.
+29|d|No es la población total.
+30|a|1 indica la desigualdad máxima.
+30|b|0,85 indica un reparto muy desigual.
+30|c|No toma valores negativos.
