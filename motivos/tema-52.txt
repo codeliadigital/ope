@@ -1,0 +1,90 @@
+1|b|ERAS no espera a la expulsión de gases.
+1|c|La sonda nasogástrica de rutina se evita.
+1|d|La movilización es precoz.
+2|a|5 puntos es insuficiente.
+2|b|7 puntos es insuficiente.
+2|d|El máximo es 10.
+3|a|La sedación se valora con otras escalas.
+3|c|El dolor se valora con la EVA.
+3|d|Las úlceras se valoran con Braden.
+4|a|El Fowler favorece la cefalea.
+4|b|El Trendelenburg no está indicado.
+4|c|El prono no es necesario.
+5|a|El Trendelenburg aumenta la congestión cervical.
+5|b|El prono no se usa en la tiroidectomía.
+5|d|La de Kraske es para cirugía rectal.
+6|b|El Redón funciona con vacío.
+6|c|El Jackson-Pratt tiene un bulbo de pera.
+6|d|El Kehr es un tubo en T para la vía biliar.
+7|a|Hay que despinzar ya.
+7|b|Aumentar el pinzamiento empeora la obstrucción.
+7|c|No se retira sin colangiografía.
+8|a|No sirve para instilar antibióticos.
+8|c|No mide la presión.
+8|d|No sirve para recoger cultivos.
+9|a|El que funciona por capilaridad es el Penrose.
+9|b|El tubo en T es el Kehr.
+9|d|Es de baja presión.
+10|a|La fuga aérea se ve como burbujeo.
+10|b|La oscilación es normal: no hay que cambiar el sistema.
+10|c|No indica neumotórax a tensión.
+11|b|La aspiración se ve en la cámara de control, no en el sello.
+11|c|La cámara llena no produce burbujeo.
+11|d|No es normal en el sello de agua.
+12|a|Pinzarlo puede provocar un neumotórax a tensión.
+12|c|No se desconecta.
+12|d|Por encima del tórax refluye el líquido.
+13|a|No produce hemotórax.
+13|b|Puede ser grave.
+13|c|No produce derrame.
+14|a|50 ml en 24 h es poco.
+14|b|100 ml en 12 h no es la alarma.
+14|d|500 ml en una semana no es la alarma.
+15|b|Es al revés.
+15|c|Los tipos II y IV no son los de la cicatrización cutánea.
+15|d|No son esos tipos.
+16|a|Suturar de inmediato es la primera intención.
+16|c|Cicatrizar por granulación sin suturar es la segunda intención.
+16|d|El injerto no es la tercera intención.
+17|a|El más rápido es el quirúrgico.
+17|b|El que requiere bisturí es el cortante.
+17|c|La colagenasa es el desbridamiento enzimático.
+18|b|No incluye respiración ni apetito.
+18|c|No incluye riesgo ni antigüedad.
+18|d|No incluye escara ni absceso.
+19|a|La dehiscencia limpia es una indicación.
+19|b|Una úlcera con granulación es una indicación.
+19|d|El exudado abundante es una indicación.
+20|a|25 mmHg es demasiado baja.
+20|c|300 mmHg es excesiva.
+20|d|500 mmHg es excesiva.
+21|a|La cutánea se limita a epidermis y dermis.
+21|b|Ya hay lesión: no es un riesgo.
+21|c|La infección es otro diagnóstico.
+22|a|Suturar encierra la infección.
+22|b|No se cierra con grapas.
+22|d|No se cierra con adhesivo.
+23|b|30 minutos está dentro del límite de 1 hora.
+23|c|ASA II es candidato ideal.
+23|d|Tener teléfono es un requisito, no una exclusión.
+24|a|La Aldrete es para salir de la URPA.
+24|c|La Bromage valora el bloqueo motor.
+24|d|Glasgow valora la conciencia.
+25|a|La edad no es el motivo.
+25|b|La mascarilla laríngea no obliga.
+25|c|La duración no es el motivo.
+26|b|1 mg/kg es muy poco.
+26|c|7 mg/kg es la dosis con adrenalina.
+26|d|15 mg/kg es tóxico.
+27|a|Perpendicular aumenta la tensión de la cicatriz.
+27|b|1:1 deja orejas de perro.
+27|d|No se hace en cruz.
+28|a|2 días es demasiado pronto.
+28|c|10-12 días es para espalda y brazos.
+28|d|14-21 días es demasiado.
+29|a|El resumen médico es el informe de alta médico.
+29|b|No es opcional.
+29|c|Se hace en la planta del hospital.
+30|b|58 no es ausencia de sobrecarga.
+30|c|Leve es de 47 a 55.
+30|d|Sí es aplicable.

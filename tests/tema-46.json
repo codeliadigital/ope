@@ -7,181 +7,211 @@
       "q": "Según la escala ECOG, un paciente oncológico que pasa en la cama más de la mitad del día y tiene el autocuidado muy limitado tiene un grado:",
       "o": ["0", "1", "2", "3"],
       "a": 3,
-      "e": "En el ECOG 2 el paciente está en cama menos del 50% del día y es capaz de cuidarse; en el ECOG 3, más del 50% y con autocuidado limitado. En el ECOG más puntos significa peor estado; en Karnofsky, más porcentaje significa mejor estado."
+      "e": "En el ECOG 2 el paciente está en cama menos del 50% del día y es capaz de cuidarse; en el ECOG 3, más del 50% y con autocuidado limitado. En el ECOG más puntos significa peor estado; en Karnofsky, más porcentaje significa mejor estado.",
+      "por": ["ECOG 0 es actividad normal.", "ECOG 1 son síntomas con actividad ligera.", "En el ECOG 2 está en cama menos del 50% del día.", null]
     },
     {
       "q": "La escala HADS (Hospital Anxiety and Depression Scale) es adecuada en el paciente oncológico porque:",
       "o": ["Valora el estado nutricional del anciano", "Excluye los síntomas físicos para que la toxicidad del tratamiento no falsee el resultado", "Mide la intensidad del dolor en pacientes no colaboradores", "Valora el riesgo de úlceras por presión"],
       "a": 1,
-      "e": "La HADS tiene 14 ítems (7 de ansiedad y 7 de depresión) y no incluye fatiga ni insomnio, que la quimioterapia ya produce. El MNA valora la nutrición en el anciano y PAINAD el dolor en no colaboradores."
+      "e": "La HADS tiene 14 ítems (7 de ansiedad y 7 de depresión) y no incluye fatiga ni insomnio, que la quimioterapia ya produce. El MNA valora la nutrición en el anciano y PAINAD el dolor en no colaboradores.",
+      "por": ["La nutrición del anciano se valora con el MNA.", null, "El dolor en no colaboradores se valora con PAINAD.", "Las úlceras por presión se valoran con Braden o Norton."]
     },
     {
       "q": "Un tumor clasificado como G4 o anaplásico es aquel que:",
       "o": ["Es indiferenciado: sus células no se parecen al tejido de origen y tiene peor pronóstico", "Está bien diferenciado y crece lentamente", "No ha atravesado la membrana basal", "Tiene metástasis a distancia"],
       "a": 0,
-      "e": "El grado mira la diferenciación celular al microscopio: G1 es bien diferenciado (mejor pronóstico) y G4, indiferenciado. La extensión (membrana basal, ganglios, metástasis) se expresa con el estadio TNM."
+      "e": "El grado mira la diferenciación celular al microscopio: G1 es bien diferenciado (mejor pronóstico) y G4, indiferenciado. La extensión (membrana basal, ganglios, metástasis) se expresa con el estadio TNM.",
+      "por": [null, "El bien diferenciado es G1.", "No atravesar la membrana basal es el carcinoma in situ.", "Las metástasis se expresan con la M del TNM."]
     },
     {
       "q": "En la clasificación TNM, un carcinoma «in situ» (Tis) se caracteriza por:",
       "o": ["Tener afectación ganglionar regional", "Corresponder siempre a un estadio IV", "No haber atravesado la membrana basal, por lo que todavía no puede metastatizar", "Ser un tumor que no se puede evaluar"],
       "a": 2,
-      "e": "El carcinoma in situ no ha invadido el tejido profundo ni tiene acceso a vasos sanguíneos o linfáticos, y es el estadio más curable. M1 indica metástasis (estadio IV) y Tx, que el tumor no se puede evaluar."
+      "e": "El carcinoma in situ no ha invadido el tejido profundo ni tiene acceso a vasos sanguíneos o linfáticos, y es el estadio más curable. M1 indica metástasis (estadio IV) y Tx, que el tumor no se puede evaluar.",
+      "por": ["La afectación ganglionar es la N.", "El estadio IV es por metástasis.", null, "Un tumor no evaluable es Tx."]
     },
     {
       "q": "Se considera neutropenia febril la presencia de:",
       "o": ["Leucocitos < 4.000/mm³ y febrícula de 37,5 °C", "Neutrófilos < 500/mm³ (o < 1.000 con descenso previsto) y fiebre > 38,3 °C, o > 38 °C mantenida 1 hora", "Plaquetas < 50.000/mm³ y fiebre", "Neutrófilos < 1.500/mm³ sin fiebre"],
       "a": 1,
-      "e": "Es una urgencia oncológica por el riesgo de shock séptico. Se pone al paciente en aislamiento protector y se activa el protocolo de inmediato."
+      "e": "Es una urgencia oncológica por el riesgo de shock séptico. Se pone al paciente en aislamiento protector y se activa el protocolo de inmediato.",
+      "por": ["Los leucocitos y la febrícula no definen la neutropenia febril.", null, "Las plaquetas no la definen.", "Sin fiebre no es neutropenia febril."]
     },
     {
       "q": "Ante un paciente neutropénico que presenta un pico febril, el orden de actuación correcto es:",
       "o": ["Extraer hemocultivos (periféricos y de cada luz del catéter) y después iniciar antibioterapia empírica en la primera hora", "Iniciar el antibiótico y, si persiste la fiebre a las 24 h, extraer hemocultivos", "Administrar un antitérmico y esperar la evolución", "Retirar el catéter central y cultivar la punta antes de cualquier otra medida"],
       "a": 0,
-      "e": "Los cultivos se sacan antes del antibiótico para no negativizarlos, pero el antibiótico de amplio espectro no debe retrasarse más allá de la primera hora."
+      "e": "Los cultivos se sacan antes del antibiótico para no negativizarlos, pero el antibiótico de amplio espectro no debe retrasarse más allá de la primera hora.",
+      "por": [null, "No se espera 24 h a sacar los cultivos.", "No se espera: el antibiótico va en la primera hora.", "Retirar el catéter no es lo primero."]
     },
     {
       "q": "En un paciente con neutropenia y trombopenia por quimioterapia está contraindicado:",
       "o": ["La higiene bucal con cepillo extrasuave", "El uso de maquinilla eléctrica para afeitarse", "El lavado de manos de las visitas", "Tomar la temperatura por vía rectal o administrar supositorios y enemas"],
       "a": 3,
-      "e": "La vía rectal puede lesionar la mucosa, favorecer la translocación bacteriana y producir sangrado. Tampoco se permiten plantas o flores en la habitación ni alimentos crudos de riesgo."
+      "e": "La vía rectal puede lesionar la mucosa, favorecer la translocación bacteriana y producir sangrado. Tampoco se permiten plantas o flores en la habitación ni alimentos crudos de riesgo.",
+      "por": ["El cepillo extrasuave está indicado.", "La maquinilla eléctrica está indicada.", "El lavado de manos está indicado.", null]
     },
     {
       "q": "En un paciente con mucositis oral que recibe radioterapia de cabeza y cuello, está indicado:",
       "o": ["Usar colutorios comerciales con alcohol", "Hacer enjuagues con clorhexidina varias veces al día", "Hacer enjuagues frecuentes con suero fisiológico o bicarbonato y usar un cepillo extrasuave", "Suspender la higiene bucal hasta que cure"],
       "a": 2,
-      "e": "El alcohol y la clorhexidina irritan aún más la mucosa radiada. Se puede usar lidocaína viscosa antes de comer y hay que vigilar las placas blanquecinas de candidiasis."
+      "e": "El alcohol y la clorhexidina irritan aún más la mucosa radiada. Se puede usar lidocaína viscosa antes de comer y hay que vigilar las placas blanquecinas de candidiasis.",
+      "por": ["El alcohol irrita la mucosa.", "La clorhexidina irrita la mucosa radiada.", null, "La higiene no se suspende."]
     },
     {
       "q": "Para reducir las náuseas inducidas por la quimioterapia, se recomienda:",
       "o": ["Ofrecer comidas frías o templadas, en pequeñas cantidades y repartidas en varias tomas", "Hacer tres comidas abundantes al día", "Servir la comida muy caliente para estimular el apetito", "Beber abundantes líquidos durante las comidas"],
       "a": 0,
-      "e": "El olor de la comida caliente favorece la náusea. Los líquidos se toman entre horas y conviene quedarse incorporado tras comer. Los vómitos diferidos (más de 24 h) son típicos del cisplatino."
+      "e": "El olor de la comida caliente favorece la náusea. Los líquidos se toman entre horas y conviene quedarse incorporado tras comer. Los vómitos diferidos (más de 24 h) son típicos del cisplatino.",
+      "por": [null, "Las comidas abundantes empeoran las náuseas.", "El olor de la comida caliente favorece la náusea.", "Los líquidos se toman entre horas."]
     },
     {
       "q": "Un paciente oncológico describe un dolor urente, con sensación de descarga eléctrica y hormigueo. El tratamiento coadyuvante más indicado es:",
       "o": ["Ibuprofeno a dosis altas", "Pregabalina, gabapentina o amitriptilina", "Butilescopolamina", "Paracetamol en monoterapia"],
       "a": 1,
-      "e": "Es un dolor neuropático, que responde mal a los opioides y a los AINE. Los antidepresivos tardan 2-4 semanas en hacer efecto analgésico."
+      "e": "Es un dolor neuropático, que responde mal a los opioides y a los AINE. Los antidepresivos tardan 2-4 semanas en hacer efecto analgésico.",
+      "por": ["Los AINE responden mal en el dolor neuropático.", null, "La butilescopolamina es para el dolor cólico.", "El paracetamol solo es insuficiente."]
     },
     {
       "q": "Un paciente con el dolor basal controlado presenta dolor intenso cada vez que se le cura la herida. La actuación de enfermería más adecuada es:",
       "o": ["Aumentar la dosis de los parches de fentanilo", "Retrasar las curas hasta que desaparezca el dolor", "Administrar la medicación de rescate solo si el dolor supera 8 en la EVA", "Administrar la analgesia de rescate pautada unos 15-30 minutos antes de la cura"],
       "a": 3,
-      "e": "Es un dolor irruptivo incidental, previsible por un desencadenante conocido, así que hay que anticiparse. El dolor que aparece justo antes de la siguiente toma (fallo de final de dosis) obliga en cambio a reajustar la pauta basal."
+      "e": "Es un dolor irruptivo incidental, previsible por un desencadenante conocido, así que hay que anticiparse. El dolor que aparece justo antes de la siguiente toma (fallo de final de dosis) obliga en cambio a reajustar la pauta basal.",
+      "por": ["No hay que subir el basal: es un dolor incidental.", "Las curas no se pueden retrasar indefinidamente.", "El rescate se da antes de la cura, no solo con EVA de 8.", null]
     },
     {
       "q": "Respecto a la astenia o fatiga tumoral, es correcto que:",
       "o": ["Mejora claramente con el reposo absoluto en cama", "Es un síntoma poco frecuente en oncología", "No cede con el descanso y se beneficia del ejercicio aeróbico moderado y de técnicas de conservación de la energía", "Su etiqueta NANDA es «Deterioro de la movilidad física»"],
       "a": 2,
-      "e": "Es el síntoma más frecuente y la etiqueta NANDA adecuada es «Fatiga». Hay que descartar causas tratables como la anemia. El reposo absoluto desacondiciona al paciente."
+      "e": "Es el síntoma más frecuente y la etiqueta NANDA adecuada es «Fatiga». Hay que descartar causas tratables como la anemia. El reposo absoluto desacondiciona al paciente.",
+      "por": ["El reposo absoluto la empeora.", "Es el síntoma más frecuente.", null, "La etiqueta correcta es «Fatiga»."]
     },
     {
       "q": "La etiqueta diagnóstica NANDA correcta para un paciente con neutropenia profunda tras la quimioterapia es:",
       "o": ["Riesgo de infección", "Infección", "Neutropenia febril", "Deterioro de la inmunidad"],
       "a": 0,
-      "e": "«Infección» y «neutropenia febril» son diagnósticos médicos. En el paciente inmunodeprimido, enfermería formula «Riesgo de infección (00004)», con intervenciones de protección contra las infecciones."
+      "e": "«Infección» y «neutropenia febril» son diagnósticos médicos. En el paciente inmunodeprimido, enfermería formula «Riesgo de infección (00004)», con intervenciones de protección contra las infecciones.",
+      "por": [null, "«Infección» supone que ya la tiene.", "La neutropenia febril es un diagnóstico médico.", "No es la etiqueta indicada."]
     },
     {
       "q": "Para puncionar un reservorio venoso subcutáneo (Port-a-Cath) se utiliza:",
       "o": ["Una aguja intramuscular convencional en ángulo de 45°", "Un catéter venoso periférico del 18 G", "Una palomilla metálica estándar", "Una aguja de bisel no cortante tipo Huber o Gripper, introducida a 90° hasta tocar el fondo de la cámara"],
       "a": 3,
-      "e": "El bisel tangencial separa las fibras de silicona sin cortarlas, de modo que la membrana sigue sellando. Antes se desinfecta con clorhexidina al 2% y se deja secar."
+      "e": "El bisel tangencial separa las fibras de silicona sin cortarlas, de modo que la membrana sigue sellando. Antes se desinfecta con clorhexidina al 2% y se deja secar.",
+      "por": ["Una aguja intramuscular cortaría la membrana.", "Un catéter periférico no sirve.", "La palomilla estándar corta la silicona.", null]
     },
     {
       "q": "En el manejo de catéteres centrales se recomienda usar jeringas de 10 ml o más porque:",
       "o": ["Permiten administrar más heparina", "Las jeringas pequeñas generan más presión dentro del catéter y pueden romperlo", "Las jeringas pequeñas no son estériles", "Así se reduce el número de punciones"],
       "a": 1,
-      "e": "A menor diámetro del émbolo, mayor presión para la misma fuerza. Ante una resistencia nunca se fuerza: si hay un trombo, se usan fibrinolíticos según la prescripción."
+      "e": "A menor diámetro del émbolo, mayor presión para la misma fuerza. Ante una resistencia nunca se fuerza: si hay un trombo, se usan fibrinolíticos según la prescripción.",
+      "por": ["No es por la cantidad de heparina.", null, "Las pequeñas sí son estériles.", "No tiene que ver con las punciones."]
     },
     {
       "q": "El objetivo de pinzar el catéter mientras se inyecta el último medio mililitro de la solución de sellado (cierre con presión positiva) es:",
       "o": ["Aumentar la concentración de heparina en la punta", "Comprobar que el catéter no está roto", "Evitar el reflujo de sangre hacia la punta del catéter y su oclusión", "Disminuir el riesgo de embolia gaseosa al retirar la aguja"],
       "a": 2,
-      "e": "Al retirar la jeringa se genera un vacío que aspira sangre hacia la punta, donde se forma un coágulo. Se combina con el lavado pulsátil (push-pause), que arrastra los restos adheridos a la pared."
+      "e": "Al retirar la jeringa se genera un vacío que aspira sangre hacia la punta, donde se forma un coágulo. Se combina con el lavado pulsátil (push-pause), que arrastra los restos adheridos a la pared.",
+      "por": ["No busca concentrar la heparina.", "No comprueba si está roto.", null, "No es por la embolia gaseosa."]
     },
     {
       "q": "En un paciente que ya no recibe tratamiento pero conserva el reservorio subcutáneo, el lavado y sellado de mantenimiento se hace, según el protocolo del manual:",
       "o": ["Cada 4-6 semanas", "Cada 24 horas", "Cada 7 días", "Solo cuando vaya a usarse de nuevo"],
       "a": 0,
-      "e": "El reservorio inactivo se mantiene permeable con lavado de suero y sellado con heparina diluida cada 4-6 semanas. En el PICC, en cambio, el apósito y los conectores se cambian cada 7 días."
+      "e": "El reservorio inactivo se mantiene permeable con lavado de suero y sellado con heparina diluida cada 4-6 semanas. En el PICC, en cambio, el apósito y los conectores se cambian cada 7 días.",
+      "por": [null, "Cada 24 h es excesivo.", "Cada 7 días es el cambio del PICC.", "Debe mantenerse aunque no se use."]
     },
     {
       "q": "En un PICC con apósito transparente de poliuretano, el apósito y los bioconectores se cambian:",
       "o": ["Cada 24 horas", "Cada 48 horas", "Cada 30 días", "Cada 7 días, o antes si el apósito está húmedo, sucio o despegado"],
       "a": 3,
-      "e": "Con apósito de gasa el cambio es cada 48 horas. Antes de usar el conector se frota al menos 15 segundos con clorhexidina-alcohol (scrub the hub). El PICC se fija con dispositivos adhesivos, sin suturas."
+      "e": "Con apósito de gasa el cambio es cada 48 horas. Antes de usar el conector se frota al menos 15 segundos con clorhexidina-alcohol (scrub the hub). El PICC se fija con dispositivos adhesivos, sin suturas.",
+      "por": ["Cada 24 horas no es la pauta.", "Cada 48 h es con apósito de gasa.", "Cada 30 días es demasiado.", null]
     },
     {
       "q": "Un catéter central está ocluido por un coágulo. Según la prescripción, para desobstruirlo se utiliza:",
       "o": ["Heparina sódica a alta concentración", "Uroquinasa (fibrinolítico)", "Lavado a presión con una jeringa de 2 ml", "Suero glucosado al 5%"],
       "a": 1,
-      "e": "La heparina previene la formación del trombo pero no lo disuelve. Nunca se debe forzar con presión, porque el catéter puede romperse o el trombo puede embolizar."
+      "e": "La heparina previene la formación del trombo pero no lo disuelve. Nunca se debe forzar con presión, porque el catéter puede romperse o el trombo puede embolizar.",
+      "por": ["La heparina no disuelve el trombo.", null, "Forzar con presión puede romper el catéter.", "El glucosado no disuelve el trombo."]
     },
     {
       "q": "Para prevenir la cistitis hemorrágica que produce la ciclofosfamida se administra:",
       "o": ["Ácido folínico", "Dexrazoxano", "Mesna, junto con abundante hidratación", "Hialuronidasa"],
       "a": 2,
-      "e": "La acroleína, un metabolito de la ciclofosfamida y la ifosfamida, irrita la vejiga, y el mesna la neutraliza. El ácido folínico es el rescate del metotrexato y el dexrazoxano protege frente a las antraciclinas."
+      "e": "La acroleína, un metabolito de la ciclofosfamida y la ifosfamida, irrita la vejiga, y el mesna la neutraliza. El ácido folínico es el rescate del metotrexato y el dexrazoxano protege frente a las antraciclinas.",
+      "por": ["El ácido folínico es el rescate del metotrexato.", "El dexrazoxano protege frente a las antraciclinas.", null, "La hialuronidasa es para extravasaciones."]
     },
     {
       "q": "Un paciente nota sensación de ahogo y hormigueos al beber agua fría de la nevera tras recibir quimioterapia. El fármaco más probable es:",
       "o": ["Oxaliplatino", "Doxorrubicina", "Bleomicina", "Ciclofosfamida"],
       "a": 0,
-      "e": "El oxaliplatino causa una neurotoxicidad que desencadena el frío (disestesias en las manos y en la garganta). Se recomiendan bebidas templadas y usar guantes para coger cosas frías."
+      "e": "El oxaliplatino causa una neurotoxicidad que desencadena el frío (disestesias en las manos y en la garganta). Se recomiendan bebidas templadas y usar guantes para coger cosas frías.",
+      "por": [null, "La doxorrubicina es cardiotóxica.", "La bleomicina es neumotóxica.", "La ciclofosfamida causa cistitis hemorrágica."]
     },
     {
       "q": "La cardiotoxicidad irreversible, relacionada con la dosis total acumulada y que obliga a controlar la FEVI, es característica de:",
       "o": ["El trastuzumab", "La vincristina", "El cisplatino", "La doxorrubicina (antraciclinas)"],
       "a": 3,
-      "e": "La cardiotoxicidad de las antraciclinas es acumulativa e irreversible. La del trastuzumab es reversible y no depende de la dosis acumulada. Las antraciclinas tiñen la orina de rojo."
+      "e": "La cardiotoxicidad de las antraciclinas es acumulativa e irreversible. La del trastuzumab es reversible y no depende de la dosis acumulada. Las antraciclinas tiñen la orina de rojo.",
+      "por": ["La del trastuzumab es reversible.", "La vincristina es neurotóxica.", "El cisplatino es nefrotóxico.", null]
     },
     {
       "q": "El paclitaxel requiere:",
       "o": ["Administración por vía intratecal", "Protección de la luz y administración en bolo rápido", "Premedicación con corticoide y antihistamínico, y equipos de infusión sin PVC con filtro", "Rescate con ácido folínico a las 24 horas"],
       "a": 2,
-      "e": "Su diluyente (Cremophor EL) provoca reacciones de hipersensibilidad y libera tóxicos de los plásticos de PVC. Los alcaloides de la vinca, en cambio, son mortales por vía intratecal."
+      "e": "Su diluyente (Cremophor EL) provoca reacciones de hipersensibilidad y libera tóxicos de los plásticos de PVC. Los alcaloides de la vinca, en cambio, son mortales por vía intratecal.",
+      "por": ["No va por vía intratecal.", "No se da en bolo rápido.", null, "El rescate con ácido folínico es del metotrexato."]
     },
     {
       "q": "Ante la sospecha de extravasación de un citostático vesicante, la primera actuación es:",
       "o": ["Retirar el catéter de inmediato y comprimir con fuerza", "Detener la infusión sin retirar el catéter y aspirar por él el fármaco que quede", "Aplicar un vendaje compresivo y continuar la infusión más despacio", "Lavar la vía con 20 ml de suero para arrastrar el fármaco"],
       "a": 1,
-      "e": "Se para la infusión, se aspira el tóxico por la propia vía y después se retira. Está prohibido comprimir o vendar, porque se extiende el fármaco. Se marca el borde de la zona afectada y se eleva el miembro."
+      "e": "Se para la infusión, se aspira el tóxico por la propia vía y después se retira. Está prohibido comprimir o vendar, porque se extiende el fármaco. Se marca el borde de la zona afectada y se eleva el miembro.",
+      "por": ["No se retira de inmediato ni se comprime.", null, "Nunca se continúa la infusión.", "Lavar empuja más fármaco al tejido."]
     },
     {
       "q": "En la extravasación de vincristina, la medida local indicada es:",
       "o": ["Aplicar calor seco local y hialuronidasa perilesional", "Aplicar frío local y DMSO tópico", "Administrar dexrazoxano intravenoso", "Aplicar compresión y frío intenso continuo"],
       "a": 0,
-      "e": "En los alcaloides de la vinca y los taxanos interesa dispersar el fármaco: el calor vasodilata y la hialuronidasa abre la matriz tisular. En las antraciclinas se aplica frío (confinar), DMSO y dexrazoxano."
+      "e": "En los alcaloides de la vinca y los taxanos interesa dispersar el fármaco: el calor vasodilata y la hialuronidasa abre la matriz tisular. En las antraciclinas se aplica frío (confinar), DMSO y dexrazoxano.",
+      "por": [null, "Frío y DMSO son para las antraciclinas.", "El dexrazoxano es para las antraciclinas.", "El frío confina la vincristina y empeora la lesión."]
     },
     {
       "q": "En la limpieza de un derrame de citostáticos se debe:",
       "o": ["Aplicar lejía pura directamente sobre el derrame", "Recoger los cristales con las manos usando doble guante", "Absorber el líquido presionando con fuerza desde el centro hacia fuera", "Absorber sin presionar desde la periferia al centro, recoger los cristales con pinzas y limpiar con detergente alcalino y agua"],
       "a": 3,
-      "e": "La lejía puede generar vapores y reacciones. Se usa el kit de derrames con EPI completo (FFP3, gafas, bata, doble guante y calzas) y todo el material va al contenedor de citostáticos."
+      "e": "La lejía puede generar vapores y reacciones. Se usa el kit de derrames con EPI completo (FFP3, gafas, bata, doble guante y calzas) y todo el material va al contenedor de citostáticos.",
+      "por": ["La lejía puede generar vapores.", "Los cristales se recogen con pinzas.", "Se absorbe sin presionar y de la periferia al centro.", null]
     },
     {
       "q": "El método de eliminación final de los residuos citostáticos (clase VI del Decreto 48/2003 de Murcia) es:",
       "o": ["La esterilización en autoclave", "La desinfección química", "La incineración a alta temperatura", "El depósito en vertedero controlado"],
       "a": 2,
-      "e": "Solo la incineración por encima de unos 1.000 °C destruye la actividad del fármaco. Los contenedores son herméticos, de un solo uso y nunca se compactan. Los residuos biosanitarios de clase III sí pueden esterilizarse."
+      "e": "Solo la incineración por encima de unos 1.000 °C destruye la actividad del fármaco. Los contenedores son herméticos, de un solo uso y nunca se compactan. Los residuos biosanitarios de clase III sí pueden esterilizarse.",
+      "por": ["El autoclave no destruye el citostático.", "La desinfección química no lo destruye.", null, "No se deposita en vertedero."]
     },
     {
       "q": "En el tratamiento de la hipercalcemia maligna, la actuación correcta es:",
       "o": ["Administrar tiazidas para forzar la diuresis desde el principio", "Hidratar primero con abundante suero fisiológico y, una vez hidratado el paciente, administrar furosemida", "Restringir los líquidos para evitar sobrecarga", "Administrar suplementos de calcio y vitamina D"],
       "a": 1,
-      "e": "La hipercalcemia deshidrata por poliuria, así que primero se repone volumen (3-6 L/24 h) y después se da un diurético de asa. Las tiazidas aumentan el calcio. También se administran bisfosfonatos."
+      "e": "La hipercalcemia deshidrata por poliuria, así que primero se repone volumen (3-6 L/24 h) y después se da un diurético de asa. Las tiazidas aumentan el calcio. También se administran bisfosfonatos.",
+      "por": ["Las tiazidas aumentan el calcio.", null, "Restringir líquidos empeora la deshidratación.", "Los suplementos de calcio lo empeoran."]
     },
     {
       "q": "En un paciente con síndrome de vena cava superior, una medida de enfermería correcta es:",
       "o": ["Mantenerlo en Fowler o semi-Fowler y evitar canalizar vías, extraer sangre o tomar la TA en los brazos", "Colocarlo en decúbito supino estricto", "Canalizar dos vías gruesas en las extremidades superiores", "Colocarlo en Trendelenburg para mejorar el retorno venoso"],
       "a": 0,
-      "e": "La compresión de la cava impide el retorno venoso de la mitad superior del cuerpo (disnea, ingurgitación yugular, edema en esclavina). Las punciones se hacen en los miembros inferiores. La compresión medular, en cambio, exige decúbito supino."
+      "e": "La compresión de la cava impide el retorno venoso de la mitad superior del cuerpo (disnea, ingurgitación yugular, edema en esclavina). Las punciones se hacen en los miembros inferiores. La compresión medular, en cambio, exige decúbito supino.",
+      "por": [null, "El supino empeora la disnea.", "No se canalizan vías en los brazos.", "El Trendelenburg empeora el edema."]
     },
     {
       "q": "En un paciente que recibe radioterapia externa, respecto a las cremas hidratantes en la zona irradiada, se debe recomendar:",
       "o": ["Aplicar crema abundante justo antes de cada sesión para proteger la piel", "No usar ninguna crema durante todo el tratamiento", "Aplicar alcohol o colonia para refrescar la piel", "Aplicarlas después de la sesión y nunca en las 2-3 horas previas"],
       "a": 3,
-      "e": "La piel debe entrar en la sesión limpia y seca: la crema previa aumenta la dosis en la piel (efecto bolus) y la quemadura. Se lava con agua tibia y jabón neutro y se seca a toques. En la teleterapia el paciente no es radiactivo."
+      "e": "La piel debe entrar en la sesión limpia y seca: la crema previa aumenta la dosis en la piel (efecto bolus) y la quemadura. Se lava con agua tibia y jabón neutro y se seca a toques. En la teleterapia el paciente no es radiactivo.",
+      "por": ["La crema antes de la sesión aumenta la dosis en la piel.", "Sí se usan cremas, después de la sesión.", "El alcohol y la colonia irritan.", null]
     }
   ]
 }

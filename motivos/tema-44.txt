@@ -1,0 +1,99 @@
+1|a|Palpar antes de auscultar altera los ruidos hidroaéreos.
+1|b|La inspección va primero y se ausculta antes de palpar.
+1|d|La inspección va antes que la auscultación.
+2|b|Los trozos duros son los tipos 1-2.
+2|c|La salchicha lisa es el tipo 4.
+2|d|La esteatorrea no es un tipo de Bristol.
+3|a|La hematoquecia es sangre roja mezclada con las heces.
+3|b|La rectorragia es sangre roja brillante.
+3|c|La esteatorrea son heces grasas y claras.
+4|a|El Blumberg es el dolor a la descompresión.
+4|c|El Rovsing es dolor en la FID al presionar la FII.
+4|d|El Cullen es una equimosis periumbilical.
+5|b|La pH-metría es para el reflujo.
+5|c|La ecografía no valora la motilidad esofágica.
+5|d|El test del aliento es para Helicobacter.
+6|a|El vómito vuelve a quemar el esófago.
+6|b|Neutralizar produce calor y más lesión.
+6|d|El lavado gástrico está contraindicado.
+7|a|El Mallory-Weiss es un desgarro que sangra, no perfora.
+7|b|La acalasia no produce enfisema subcutáneo.
+7|c|La hernia de hiato no da esa tríada.
+8|a|No es causa de disfagia orofaríngea.
+8|c|El epidermoide se asocia al alcohol y el tabaco.
+8|d|No es una complicación de los cáusticos.
+9|b|Eso describe la úlcera gástrica.
+9|c|La duodenal casi nunca maligniza.
+9|d|La causa principal es Helicobacter o los AINE.
+10|a|La perforación es menos frecuente.
+10|b|La estenosis es menos frecuente.
+10|c|La malignización es rara.
+11|a|La válvula ileocecal no es el límite.
+11|b|El intestino delgado distal está por debajo de Treitz.
+11|d|El esfínter anal no es el límite.
+12|a|Se deja en dieta absoluta.
+12|c|El prono no es la posición indicada.
+12|d|El enema no está indicado.
+13|b|Una sola muestra no basta.
+13|c|La recogida de 72 horas es para la grasa.
+13|d|Hay que tomar porciones de varias zonas.
+14|a|El cáncer es la causa principal en el intestino grueso.
+14|b|El vólvulo de sigma afecta al grueso.
+14|c|El íleo biliar es raro.
+15|a|El lateral derecho favorece el paso al duodeno.
+15|b|El prono no se usa.
+15|d|En supino aumenta el riesgo de aspiración.
+16|a|El TAC es la prueba de elección.
+16|c|Los sueros sí se usan.
+16|d|Los antibióticos sí se usan.
+17|b|La afectación exclusiva de colon y recto es de la colitis ulcerosa.
+17|c|La afectación continua desde el recto es de la colitis ulcerosa.
+17|d|El tabaco empeora el Crohn.
+18|a|Las fístulas son propias del Crohn.
+18|b|Afecta solo a la mucosa.
+18|c|La cirugía sí es curativa.
+19|a|El dolor en cinturón es de la pancreatitis.
+19|b|Ictericia, coluria y acolia es el síndrome colestásico.
+19|d|Eso describe una sepsis, no la tríada de Charcot.
+20|a|En la colecistitis la vesícula duele.
+20|c|El cólico biliar es doloroso.
+20|d|La hepatitis no distiende la vesícula.
+21|b|La amilasa es menos específica.
+21|c|La fosfatasa alcalina es de colestasis.
+21|d|La GGT es de colestasis o alcohol.
+22|a|Cada 48 horas es estreñimiento.
+22|b|La diarrea abundante deshidrata.
+22|c|El estreñimiento precipita la encefalopatía.
+23|a|El glucosado no expande el volumen.
+23|b|La furosemida no previene la disfunción circulatoria.
+23|d|El plasma no se usa para esto.
+24|a|Es sobre el lado derecho y más tiempo.
+24|c|La sedestación no comprime el hígado.
+24|d|El Trendelenburg no se usa.
+25|b|La auscultación tras insuflar aire no es fiable.
+25|c|El burbujeo indica vía aérea, no confirma posición.
+25|d|Poder hablar no confirma la posición.
+26|a|El aspirador no resuelve la obstrucción.
+26|b|La nutrición no es urgente.
+26|c|Pinzar no desinfla los balones.
+27|a|Una sola luz es la Levin.
+27|b|La gruesa para lavados es la Faucher.
+27|d|Tres luces y dos balones es la Sengstaken.
+28|a|La sigmoidea da heces formadas.
+28|c|La descendente da heces pastosas o formadas.
+28|d|La urostomía elimina orina.
+29|b|Pálido indica isquemia.
+29|c|Violáceo o negro indica necrosis.
+29|d|Hundido es retracción.
+30|a|El aceite es para un enema oleoso de retención.
+30|b|El bario es el enema opaco.
+30|c|El medicamentoso es de retención.
+31|b|En la tipo I sube la unión gastroesofágica.
+31|c|La de Morgagni es diafragmática anterior.
+31|d|La inguinal no es de hiato.
+32|a|Grado I: no prolapsan.
+32|b|Grado II: se reducen solas.
+32|d|Grado IV: son irreductibles.
+33|a|Las formadas son de la sigmoidea.
+33|b|Sí hay heces.
+33|c|Las duras son de estreñimiento.

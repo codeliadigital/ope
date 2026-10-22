@@ -7,181 +7,211 @@
       "q": "En el Triángulo de Evaluación Pediátrica, el lado que mejor refleja la oxigenación y perfusión cerebral y se considera el más importante es:",
       "o": ["La apariencia", "El trabajo respiratorio", "La circulación cutánea", "La frecuencia cardíaca"],
       "a": 0,
-      "e": "La apariencia (regla TICLS: tono, interacción, consolabilidad, mirada y llanto/lenguaje) refleja la función del sistema nervioso central. El TEP se realiza solo mirando y escuchando, sin tocar al niño ni usar aparatos; la frecuencia cardíaca no forma parte de él."
+      "e": "La apariencia (regla TICLS: tono, interacción, consolabilidad, mirada y llanto/lenguaje) refleja la función del sistema nervioso central. El TEP se realiza solo mirando y escuchando, sin tocar al niño ni usar aparatos; la frecuencia cardíaca no forma parte de él.",
+      "por": [null, "El trabajo respiratorio es importante, pero no el lado principal.", "La circulación cutánea es el tercer lado, no el más importante.", "La frecuencia cardíaca no forma parte del TEP."]
     },
     {
       "q": "Para valorar el dolor de un niño ingresado en la UCI pediátrica bajo bloqueo neuromuscular, la escala más adecuada es:",
       "o": ["FLACC", "NIPS", "Caras de Wong-Baker", "COMFORT, que incluye variables fisiológicas"],
       "a": 3,
-      "e": "Las escalas conductuales (FLACC, NIPS) pierden su fiabilidad en el niño paralizado o sedado, porque no puede mostrar respuestas motoras. Se usan escalas que incorporan variables fisiológicas, como la COMFORT."
+      "e": "Las escalas conductuales (FLACC, NIPS) pierden su fiabilidad en el niño paralizado o sedado, porque no puede mostrar respuestas motoras. Se usan escalas que incorporan variables fisiológicas, como la COMFORT.",
+      "por": ["FLACC es conductual: no sirve si el niño está paralizado.", "NIPS es conductual y para neonatos.", "El niño paralizado no puede señalar caras.", null]
     },
     {
       "q": "Para que un niño de 4 años autoevalúe la intensidad de su dolor, la escala más adecuada es:",
       "o": ["La escala visual analógica numérica de 0 a 10", "La escala de caras de Wong-Baker", "La escala NIPS", "La escala de Glasgow"],
       "a": 1,
-      "e": "Desde los 3-4 años el niño puede señalar en la escala de caras (Wong-Baker) la que representa su dolor. La EVA numérica se usa a partir de los 7-8 años, cuando comprende la seriación; la NIPS es para neonatos."
+      "e": "Desde los 3-4 años el niño puede señalar en la escala de caras (Wong-Baker) la que representa su dolor. La EVA numérica se usa a partir de los 7-8 años, cuando comprende la seriación; la NIPS es para neonatos.",
+      "por": ["La EVA numérica se usa a partir de los 7-8 años.", null, "La NIPS es para neonatos.", "Glasgow mide el nivel de conciencia, no el dolor."]
     },
     {
       "q": "En la escala de Glasgow, la respuesta motora de descerebración ante el dolor consiste en:",
       "o": ["Flexión anormal de las extremidades e indica lesión cortical", "Retirada normal del miembro estimulado", "Localización del estímulo doloroso", "Extensión anormal de las extremidades e indica lesión del tronco del encéfalo"],
       "a": 3,
-      "e": "La descerebración es una extensión anormal (2 puntos) que indica daño en el tronco encefálico, con peor pronóstico que la decorticación (flexión anormal, 3 puntos), propia de lesiones por encima del tronco. Un Glasgow ≤ 8 indica intubación."
+      "e": "La descerebración es una extensión anormal (2 puntos) que indica daño en el tronco encefálico, con peor pronóstico que la decorticación (flexión anormal, 3 puntos), propia de lesiones por encima del tronco. Un Glasgow ≤ 8 indica intubación.",
+      "por": ["La flexión anormal es la decorticación.", "La retirada normal puntúa 4.", "Localizar el dolor puntúa 5.", null]
     },
     {
       "q": "En el lactante ingresado por bronquiolitis aguda, es un cuidado de enfermería correcto:",
       "o": ["Realizar lavados nasales con suero fisiológico y aspiración suave antes de las tomas y del sueño", "Administrar salbutamol nebulizado de forma sistemática a todos los niños", "Mantener al lactante en decúbito supino plano", "Ofrecer tomas abundantes y espaciadas"],
       "a": 0,
-      "e": "El tratamiento es de soporte: lavados nasales y aspiración suave antes de comer y dormir, cabecera elevada unos 30°, tomas fraccionadas (menos cantidad, más a menudo) y oxígeno si lo precisa. Si la taquipnea es muy intensa, se alimenta por sonda o vía IV."
+      "e": "El tratamiento es de soporte: lavados nasales y aspiración suave antes de comer y dormir, cabecera elevada unos 30°, tomas fraccionadas (menos cantidad, más a menudo) y oxígeno si lo precisa. Si la taquipnea es muy intensa, se alimenta por sonda o vía IV.",
+      "por": [null, "El salbutamol no se usa de forma sistemática en la bronquiolitis.", "La cabecera debe estar elevada unos 30°.", "Las tomas deben ser pequeñas y frecuentes."]
     },
     {
       "q": "El tipo de aislamiento indicado en un lactante ingresado por bronquiolitis es:",
       "o": ["Aislamiento aéreo con mascarilla FFP2 y habitación con presión negativa", "Aislamiento protector (inverso)", "Aislamiento de contacto y de gotas", "No requiere ningún tipo de aislamiento"],
       "a": 2,
-      "e": "La bronquiolitis se transmite por contacto con secreciones y fómites y por gotas: se usan bata, guantes y mascarilla. Las pruebas complementarias de rutina no están indicadas en la bronquiolitis no complicada."
+      "e": "La bronquiolitis se transmite por contacto con secreciones y fómites y por gotas: se usan bata, guantes y mascarilla. Las pruebas complementarias de rutina no están indicadas en la bronquiolitis no complicada.",
+      "por": ["No es aéreo: se transmite por contacto y gotas.", "El aislamiento protector es para inmunodeprimidos.", null, "Sí requiere aislamiento."]
     },
     {
       "q": "Un niño con una crisis asmática grave y sibilancias audibles a distancia deja de tener sibilancias, pero continúa con gran trabajo respiratorio. Esto indica:",
       "o": ["Mejoría de la crisis; puede valorarse el alta", "Obstrucción extrema con riesgo de parada cardiorrespiratoria inminente", "Que el salbutamol ha hecho efecto completo", "Que la crisis era de origen cardíaco"],
       "a": 1,
-      "e": "El tórax silente indica que la obstrucción es tan intensa que no pasa aire suficiente para generar sibilancias. Es un signo de máxima gravedad que exige soporte inmediato, nunca un signo de mejoría."
+      "e": "El tórax silente indica que la obstrucción es tan intensa que no pasa aire suficiente para generar sibilancias. Es un signo de máxima gravedad que exige soporte inmediato, nunca un signo de mejoría.",
+      "por": ["No es una mejoría: es un signo de gravedad extrema.", null, "El tórax silente no indica que el salbutamol haya funcionado.", "No indica un origen cardíaco."]
     },
     {
       "q": "La tríada clínica característica de la laringitis aguda (crup) es:",
       "o": ["Fiebre alta, babeo y disfagia", "Sibilancias espiratorias, tos y taquipnea", "Estridor espiratorio, tos productiva y fiebre", "Tos perruna, afonía y estridor inspiratorio"],
       "a": 3,
-      "e": "El crup vírico (6 meses-3 años) cursa con tos perruna o metálica, afonía y estridor inspiratorio, con buen estado general y empeoramiento nocturno. El babeo, la fiebre alta y el aspecto tóxico orientan a epiglotitis."
+      "e": "El crup vírico (6 meses-3 años) cursa con tos perruna o metálica, afonía y estridor inspiratorio, con buen estado general y empeoramiento nocturno. El babeo, la fiebre alta y el aspecto tóxico orientan a epiglotitis.",
+      "por": ["Fiebre alta, babeo y disfagia orientan a epiglotitis.", "Las sibilancias espiratorias son de bronquiolitis o asma.", "El estridor del crup es inspiratorio y la tos no es productiva.", null]
     },
     {
       "q": "El tratamiento de primera elección en la laringitis aguda es:",
       "o": ["Dexametasona en dosis única (oral, IM o IV)", "Salbutamol inhalado cada 20 minutos", "Antibióticos de amplio espectro", "Adrenalina nebulizada en todos los casos, incluso leves"],
       "a": 0,
-      "e": "La dexametasona en dosis única (0,15-0,6 mg/kg, máximo 10 mg) reduce los ingresos. La budesonida nebulizada es una alternativa si vomita. La adrenalina nebulizada se reserva para las laringitis moderadas y graves."
+      "e": "La dexametasona en dosis única (0,15-0,6 mg/kg, máximo 10 mg) reduce los ingresos. La budesonida nebulizada es una alternativa si vomita. La adrenalina nebulizada se reserva para las laringitis moderadas y graves.",
+      "por": [null, "El salbutamol no trata la laringitis.", "Los antibióticos no sirven: es vírica.", "La adrenalina se reserva para los casos moderados y graves."]
     },
     {
       "q": "Tras administrar adrenalina nebulizada a un niño con laringitis moderada que mejora rápidamente, la enfermera debe:",
       "o": ["Darle el alta de inmediato porque ha mejorado", "Repetir la adrenalina cada 15 minutos hasta el alta", "Mantenerlo en observación al menos 3-4 horas por el riesgo de reaparición del estridor", "Pautar adrenalina nebulizada en domicilio"],
       "a": 2,
-      "e": "La adrenalina actúa por vasoconstricción de la mucosa subglótica: su efecto es rápido pero breve (≈ 2 horas). Al desaparecer puede reaparecer el estridor, por lo que el niño debe vigilarse al menos 3-4 horas."
+      "e": "La adrenalina actúa por vasoconstricción de la mucosa subglótica: su efecto es rápido pero breve (≈ 2 horas). Al desaparecer puede reaparecer el estridor, por lo que el niño debe vigilarse al menos 3-4 horas.",
+      "por": ["El efecto pasa en unas 2 horas y el estridor puede volver.", "No se repite cada 15 minutos sin más.", null, "No se pauta adrenalina en el domicilio."]
     },
     {
       "q": "Un lactante de 8 meses consciente presenta una obstrucción grave de la vía aérea por cuerpo extraño (tos ineficaz y silenciosa). La actuación correcta es:",
       "o": ["Realizar compresiones abdominales (maniobra de Heimlich)", "Aplicar 5 golpes interescapulares seguidos de 5 compresiones torácicas, repitiendo el ciclo", "Hacer un barrido digital a ciegas en la boca", "Esperar a que tosa espontáneamente"],
       "a": 1,
-      "e": "En el lactante se alternan 5 golpes en la espalda (boca abajo sobre el antebrazo, cabeza más baja) y 5 compresiones torácicas. La maniobra de Heimlich está contraindicada en menores de 1 año por el riesgo de lesión hepática. El barrido a ciegas está prohibido."
+      "e": "En el lactante se alternan 5 golpes en la espalda (boca abajo sobre el antebrazo, cabeza más baja) y 5 compresiones torácicas. La maniobra de Heimlich está contraindicada en menores de 1 año por el riesgo de lesión hepática. El barrido a ciegas está prohibido.",
+      "por": ["Heimlich está contraindicada en menores de 1 año.", null, "El barrido a ciegas puede empujar el objeto.", "Con tos ineficaz no se espera."]
     },
     {
       "q": "Un niño de 3 años se atraganta, llora y tose con fuerza. La actuación correcta es:",
       "o": ["Realizar de inmediato la maniobra de Heimlich", "Darle 5 golpes en la espalda", "Hacerle beber agua para que pase el objeto", "Animarle a toser y vigilarle, sin realizar maniobras de desobstrucción"],
       "a": 3,
-      "e": "Con tos eficaz (llora, tose con fuerza, respira) la obstrucción es leve: se anima a toser y se vigila, sin maniobras que puedan desplazar el objeto. Las maniobras se reservan para la tos ineficaz."
+      "e": "Con tos eficaz (llora, tose con fuerza, respira) la obstrucción es leve: se anima a toser y se vigila, sin maniobras que puedan desplazar el objeto. Las maniobras se reservan para la tos ineficaz.",
+      "por": ["Con tos eficaz no se hacen maniobras.", "Con tos eficaz no se dan golpes.", "Darle agua puede empeorar la obstrucción.", null]
     },
     {
       "q": "En la administración de un inhalador presurizado con cámara espaciadora, es correcto:",
       "o": ["Realizar una sola pulsación cada vez y esperar 30-60 segundos antes de la siguiente, agitando de nuevo el cartucho", "Pulsar dos o tres veces seguidas para ahorrar tiempo", "No es necesario agitar el cartucho", "Retirar la mascarilla inmediatamente después de la pulsación"],
       "a": 0,
-      "e": "Se agita el cartucho, se sella bien la mascarilla, se realiza una única pulsación y el niño respira dentro de la cámara unos 10 segundos (5-6 respiraciones). Varias pulsaciones seguidas hacen que las partículas choquen y precipiten en la cámara."
+      "e": "Se agita el cartucho, se sella bien la mascarilla, se realiza una única pulsación y el niño respira dentro de la cámara unos 10 segundos (5-6 respiraciones). Varias pulsaciones seguidas hacen que las partículas choquen y precipiten en la cámara.",
+      "por": [null, "Varias pulsaciones seguidas hacen precipitar el fármaco.", "Sí hay que agitar el cartucho.", "Hay que mantener la mascarilla mientras respira dentro."]
     },
     {
       "q": "Sobre la limpieza de la cámara espaciadora, es correcto:",
       "o": ["Lavarla diariamente con lejía", "Secar su interior frotando con un paño limpio", "Lavarla con agua tibia y jabón y dejarla secar al aire, sin frotar", "Limpiarla con alcohol después de cada uso"],
       "a": 2,
-      "e": "Se lava una vez por semana con agua tibia y jabón neutro y se deja secar al aire. Frotar el plástico genera electricidad estática que atrae y retiene el fármaco, reduciendo la dosis que llega a los pulmones."
+      "e": "Se lava una vez por semana con agua tibia y jabón neutro y se deja secar al aire. Frotar el plástico genera electricidad estática que atrae y retiene el fármaco, reduciendo la dosis que llega a los pulmones.",
+      "por": ["La lejía no se usa.", "Frotar genera electricidad estática.", null, "No se limpia con alcohol tras cada uso."]
     },
     {
       "q": "En la fase de mantenimiento de la rehidratación oral de un lactante con gastroenteritis, es correcto:",
       "o": ["Mantener una dieta absoluta de 24 horas", "Reintroducir precozmente su alimentación habitual, sin suspender la lactancia materna ni diluir los biberones", "Sustituir la solución de rehidratación por bebidas isotónicas deportivas", "Diluir la fórmula a la mitad durante una semana"],
       "a": 1,
-      "e": "Tras la rehidratación (2-4 horas), se reintroduce pronto la alimentación normal, sin suspender la lactancia ni diluir la fórmula, y se reponen las pérdidas (≈ 10 ml/kg por deposición). Las bebidas deportivas y los refrescos son hiperosmolares y empeoran la diarrea."
+      "e": "Tras la rehidratación (2-4 horas), se reintroduce pronto la alimentación normal, sin suspender la lactancia ni diluir la fórmula, y se reponen las pérdidas (≈ 10 ml/kg por deposición). Las bebidas deportivas y los refrescos son hiperosmolares y empeoran la diarrea.",
+      "por": ["La dieta absoluta no está indicada.", null, "Las bebidas deportivas son hiperosmolares.", "No se diluye la fórmula."]
     },
     {
       "q": "Según la regla de Holliday-Segar, las necesidades basales de líquidos de un niño de 23 kg en 24 horas son:",
       "o": ["2.300 ml", "1.500 ml", "1.230 ml", "1.560 ml"],
       "a": 3,
-      "e": "100 ml/kg por los primeros 10 kg (1.000 ml) + 50 ml/kg de 11 a 20 kg (500 ml) + 20 ml/kg por cada kg por encima de 20 (3 × 20 = 60 ml). Total: 1.560 ml/día."
+      "e": "100 ml/kg por los primeros 10 kg (1.000 ml) + 50 ml/kg de 11 a 20 kg (500 ml) + 20 ml/kg por cada kg por encima de 20 (3 × 20 = 60 ml). Total: 1.560 ml/día.",
+      "por": ["2.300 ml sería 100 ml/kg para todo el peso.", "1.500 ml solo cuenta los primeros 20 kg.", "1.230 ml no sale de la regla.", null]
     },
     {
       "q": "Aplicando la regla 4-2-1, el ritmo de mantenimiento para un niño de 15 kg es de:",
       "o": ["50 ml/h", "60 ml/h", "45 ml/h", "75 ml/h"],
       "a": 0,
-      "e": "4 ml/kg/h por los primeros 10 kg (40 ml/h) + 2 ml/kg/h por los 5 kg siguientes (10 ml/h) = 50 ml/h."
+      "e": "4 ml/kg/h por los primeros 10 kg (40 ml/h) + 2 ml/kg/h por los 5 kg siguientes (10 ml/h) = 50 ml/h.",
+      "por": [null, "60 ml/h no corresponde a 15 kg.", "45 ml/h no corresponde a 15 kg.", "75 ml/h no corresponde a 15 kg."]
     },
     {
       "q": "Un lactante con deshidratación grave ingresa sin haber orinado en las últimas 8 horas. Respecto al potasio en la fluidoterapia:",
       "o": ["Debe añadirse de entrada 20 mEq de cloruro potásico al suero", "Debe administrarse en bolo IV para corregir rápidamente las pérdidas", "No debe añadirse hasta comprobar que el niño orina", "Se administra siempre por vía oral"],
       "a": 2,
-      "e": "En anuria el potasio no se elimina y puede producir hiperpotasemia con arritmias y parada cardíaca. Solo se añade a la fluidoterapia tras comprobar y registrar la diuresis."
+      "e": "En anuria el potasio no se elimina y puede producir hiperpotasemia con arritmias y parada cardíaca. Solo se añade a la fluidoterapia tras comprobar y registrar la diuresis.",
+      "por": ["Sin diuresis no se añade potasio.", "El potasio nunca va en bolo IV.", null, "No se da siempre por vía oral."]
     },
     {
       "q": "En el preoperatorio de un lactante con estenosis hipertrófica de píloro, la prioridad es:",
       "o": ["Operar de inmediato, ya que es una emergencia quirúrgica", "Dieta absoluta, sonda gástrica y corrección de la deshidratación y la alcalosis antes de la cirugía", "Mantener tomas espesadas pequeñas y frecuentes", "Administrar bicarbonato intravenoso"],
       "a": 1,
-      "e": "La cirugía (piloromiotomía de Ramstedt) no es una emergencia inmediata, pero sí lo es la corrección metabólica: dieta absoluta, sonda nasogástrica a bolsa y fluidoterapia con cloruro sódico para corregir la alcalosis hipoclorémica e hipopotasémica y la deshidratación."
+      "e": "La cirugía (piloromiotomía de Ramstedt) no es una emergencia inmediata, pero sí lo es la corrección metabólica: dieta absoluta, sonda nasogástrica a bolsa y fluidoterapia con cloruro sódico para corregir la alcalosis hipoclorémica e hipopotasémica y la deshidratación.",
+      "por": ["La cirugía no es una emergencia inmediata.", null, "Hay que mantener dieta absoluta.", "El bicarbonato empeoraría la alcalosis."]
     },
     {
       "q": "Un lactante de 9 meses presenta crisis de llanto intenso con encogimiento de piernas alternando con periodos de decaimiento, vómitos y heces con sangre y moco «en jalea de grosella». Lo más probable es:",
       "o": ["Gastroenteritis aguda", "Estenosis hipertrófica de píloro", "Apendicitis aguda", "Invaginación intestinal"],
       "a": 3,
-      "e": "Es el cuadro clásico de invaginación intestinal (ileocólica), la causa más frecuente de obstrucción entre los 3 meses y 6 años. Puede palparse una masa «en morcilla»; la ecografía muestra el signo de la diana y se trata con reducción hidrostática o neumática por enema."
+      "e": "Es el cuadro clásico de invaginación intestinal (ileocólica), la causa más frecuente de obstrucción entre los 3 meses y 6 años. Puede palparse una masa «en morcilla»; la ecografía muestra el signo de la diana y se trata con reducción hidrostática o neumática por enema.",
+      "por": ["La gastroenteritis no da heces en jalea de grosella ni crisis de llanto así.", "La estenosis de píloro da vómitos en proyectil, no sangre.", "La apendicitis no produce heces en jalea de grosella.", null]
     },
     {
       "q": "En el posoperatorio de una apendicectomía, la medida más eficaz para prevenir el íleo paralítico y las atelectasias es:",
       "o": ["Mantener reposo absoluto en cama 72 horas", "Dieta absoluta prolongada", "La deambulación precoz y progresiva", "La sonda nasogástrica sistemática"],
       "a": 2,
-      "e": "La movilización temprana estimula el peristaltismo, previene el íleo y favorece la expansión pulmonar. Los diagnósticos habituales son dolor agudo, riesgo de infección (cuidado de la herida y el drenaje) y deterioro de la movilidad."
+      "e": "La movilización temprana estimula el peristaltismo, previene el íleo y favorece la expansión pulmonar. Los diagnósticos habituales son dolor agudo, riesgo de infección (cuidado de la herida y el drenaje) y deterioro de la movilidad.",
+      "por": ["El reposo absoluto favorece el íleo y las atelectasias.", "La dieta absoluta prolongada no previene el íleo.", null, "La sonda nasogástrica no es sistemática."]
     },
     {
       "q": "En la meningitis bacteriana neonatal (menores de 1 mes), los gérmenes más frecuentes son:",
       "o": ["Neumococo y meningococo", "Estreptococo del grupo B, Escherichia coli y Listeria monocytogenes", "Haemophilus influenzae tipo b y Staphylococcus aureus", "Virus herpes y enterovirus"],
       "a": 1,
-      "e": "En el neonato predominan los gérmenes de transmisión vertical (estreptococo del grupo B, E. coli y Listeria). Por encima de los 3 meses, los más frecuentes son el neumococo y el meningococo."
+      "e": "En el neonato predominan los gérmenes de transmisión vertical (estreptococo del grupo B, E. coli y Listeria). Por encima de los 3 meses, los más frecuentes son el neumococo y el meningococo.",
+      "por": ["Neumococo y meningococo predominan por encima de los 3 meses.", null, "Haemophilus y S. aureus no son los típicos del neonato.", "Esos virus causan meningitis víricas."]
     },
     {
       "q": "El líquido cefalorraquídeo característico de una meningitis bacteriana es:",
       "o": ["Turbio, con predominio de neutrófilos, glucosa muy baja y proteínas elevadas", "Claro, con predominio de linfocitos y glucosa normal", "Claro, con menos de 5 células y glucosa normal", "Hemático, con glucosa elevada"],
       "a": 0,
-      "e": "Bacteriana: LCR turbio, muchas células con predominio de polimorfonucleares, hipoglucorraquia marcada (consumo bacteriano) y proteínas muy altas. Vírica: LCR claro, pocas células con linfocitos y glucosa normal."
+      "e": "Bacteriana: LCR turbio, muchas células con predominio de polimorfonucleares, hipoglucorraquia marcada (consumo bacteriano) y proteínas muy altas. Vírica: LCR claro, pocas células con linfocitos y glucosa normal.",
+      "por": [null, "Ese es el LCR de la meningitis vírica.", "Ese es un LCR normal.", "El LCR hemático no es el de la meningitis bacteriana."]
     },
     {
       "q": "La flexión involuntaria de caderas y rodillas al flexionar pasivamente el cuello del paciente se denomina signo de:",
       "o": ["Kernig", "Babinski", "Brudzinski", "Lasègue"],
       "a": 2,
-      "e": "El signo de Brudzinski es la flexión refleja de caderas y rodillas al flexionar el cuello. El de Kernig es el dolor o resistencia al extender la rodilla con la cadera flexionada. Ambos son signos de irritación meníngea."
+      "e": "El signo de Brudzinski es la flexión refleja de caderas y rodillas al flexionar el cuello. El de Kernig es el dolor o resistencia al extender la rodilla con la cadera flexionada. Ambos son signos de irritación meníngea.",
+      "por": ["Kernig es el dolor al extender la rodilla con la cadera flexionada.", "Babinski es un reflejo plantar.", null, "Lasègue es para la ciática."]
     },
     {
       "q": "Un niño con varicela presenta fiebre de 39 °C. El antitérmico indicado es:",
       "o": ["Ibuprofeno, por su efecto antiinflamatorio", "Paracetamol", "Ácido acetilsalicílico", "Alternar ibuprofeno y paracetamol"],
       "a": 1,
-      "e": "En la varicela se evita el ibuprofeno (y los AINE) por su asociación con infecciones invasivas graves por estreptococo del grupo A (fascitis necrotizante). El ácido acetilsalicílico está contraindicado en niños (síndrome de Reye). El indicado es el paracetamol."
+      "e": "En la varicela se evita el ibuprofeno (y los AINE) por su asociación con infecciones invasivas graves por estreptococo del grupo A (fascitis necrotizante). El ácido acetilsalicílico está contraindicado en niños (síndrome de Reye). El indicado es el paracetamol.",
+      "por": ["El ibuprofeno se evita en la varicela.", null, "El ácido acetilsalicílico está contraindicado (síndrome de Reye).", "No se alterna con ibuprofeno en la varicela."]
     },
     {
       "q": "Durante la RCP pediátrica, tras las insuflaciones de rescate, un lactante tiene una frecuencia cardíaca de 50 lpm con palidez, mala perfusión y sin respuesta. Debe:",
       "o": ["Iniciar compresiones torácicas", "Esperar a que la frecuencia baje de 40 lpm", "Administrar atropina antes de cualquier otra medida", "Seguir solo con ventilaciones aunque persista la mala perfusión"],
       "a": 0,
-      "e": "Se inician compresiones si no hay signos de vida o si la FC es < 60 lpm con signos de mala perfusión. Si el niño está bien perfundido, la bradicardia se trata optimizando la ventilación y la oxigenación."
+      "e": "Se inician compresiones si no hay signos de vida o si la FC es < 60 lpm con signos de mala perfusión. Si el niño está bien perfundido, la bradicardia se trata optimizando la ventilación y la oxigenación.",
+      "por": [null, "No se espera a que baje de 40 lpm.", "La atropina no va antes de las compresiones.", "Con mala perfusión no bastan las ventilaciones."]
     },
     {
       "q": "En la RCP pediátrica realizada por dos o más reanimadores profesionales, la relación compresiones/ventilaciones es:",
       "o": ["30:2", "5:1", "3:1", "15:2"],
       "a": 3,
-      "e": "Con dos o más reanimadores sanitarios la relación es 15:2. Las compresiones se hacen en el tercio inferior del esternón, deprimiendo 1/3 del diámetro anteroposterior (≈ 4 cm en el lactante y 5 cm en el niño) a 100-120 por minuto."
+      "e": "Con dos o más reanimadores sanitarios la relación es 15:2. Las compresiones se hacen en el tercio inferior del esternón, deprimiendo 1/3 del diámetro anteroposterior (≈ 4 cm en el lactante y 5 cm en el niño) a 100-120 por minuto.",
+      "por": ["30:2 es para un reanimador lego.", "5:1 no es una relación de RCP vigente.", "3:1 es para el neonato.", null]
     },
     {
       "q": "Sobre la vía intraósea en el niño, es correcto:",
       "o": ["Solo permite administrar sueros, no fármacos", "Puede repetirse en el mismo hueso a las 2 horas", "Debe esperarse al menos 10 minutos de intentos de vía periférica antes de colocarla", "La localización habitual es la tibia proximal y está contraindicada en un hueso fracturado"],
       "a": 3,
-      "e": "La vía intraósea se coloca si no se consigue una vía periférica rápidamente (≈ 90 s o 3 intentos) en una emergencia; habitualmente en la tibia proximal, por debajo de la tuberosidad. Permite cualquier fármaco o fluido. Está contraindicada en hueso fracturado, con punción previa en las 24 horas anteriores o con infección local."
+      "e": "La vía intraósea se coloca si no se consigue una vía periférica rápidamente (≈ 90 s o 3 intentos) en una emergencia; habitualmente en la tibia proximal, por debajo de la tuberosidad. Permite cualquier fármaco o fluido. Está contraindicada en hueso fracturado, con punción previa en las 24 horas anteriores o con infección local.",
+      "por": ["Admite cualquier fármaco o fluido.", "No se repite en el mismo hueso en 24 horas.", "No se esperan 10 minutos: unos 90 segundos o 3 intentos.", null]
     },
     {
       "q": "Para calcular la longitud de inserción de una sonda nasogástrica en un niño, el método recomendado es:",
       "o": ["Nariz, lóbulo de la oreja y apéndice xifoides", "Nariz y apéndice xifoides directamente", "NEMU: nariz, lóbulo de la oreja y punto medio entre el xifoides y el ombligo", "Comisura bucal y ombligo"],
       "a": 2,
-      "e": "El método NEMU es más preciso en pediatría y asegura que los orificios queden en el estómago. La regla del adulto (nariz-oreja-xifoides) tiende a dejar la sonda corta, en el esófago distal. La posición se comprueba con radiografía o con el pH del aspirado (≤ 5,5)."
+      "e": "El método NEMU es más preciso en pediatría y asegura que los orificios queden en el estómago. La regla del adulto (nariz-oreja-xifoides) tiende a dejar la sonda corta, en el esófago distal. La posición se comprueba con radiografía o con el pH del aspirado (≤ 5,5).",
+      "por": ["Esa regla del adulto deja la sonda corta en el niño.", "Nariz-xifoides es demasiado corto.", null, "Comisura-ombligo no es el método recomendado."]
     },
     {
       "q": "En un lactante febril que no controla esfínteres, el método de elección para obtener un urocultivo fiable en urgencias es:",
       "o": ["El sondaje vesical", "La bolsa perineal adhesiva", "La recogida de orina exprimiendo el pañal", "La tira reactiva de la orina de la bolsa"],
       "a": 0,
-      "e": "La bolsa adhesiva tiene una alta tasa de contaminación y solo sirve para descartar (tira o sedimento). El sondaje vesical es el método de elección para el urocultivo; la punción suprapúbica es la técnica más estéril (de elección en neonatos o cuando no se puede sondar)."
+      "e": "La bolsa adhesiva tiene una alta tasa de contaminación y solo sirve para descartar (tira o sedimento). El sondaje vesical es el método de elección para el urocultivo; la punción suprapúbica es la técnica más estéril (de elección en neonatos o cuando no se puede sondar).",
+      "por": [null, "La bolsa tiene mucha contaminación.", "Exprimir el pañal no es una muestra fiable.", "La tira de la bolsa solo sirve para descartar."]
     }
   ]
 }

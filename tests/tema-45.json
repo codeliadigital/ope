@@ -7,188 +7,219 @@
       "q": "Los corpúsculos de Pacini son receptores cutáneos especializados en detectar:",
       "o": ["El frío", "La presión profunda y la vibración", "El calor", "El tacto fino de las yemas de los dedos"],
       "a": 1,
-      "e": "Pacini detecta la presión profunda y la vibración; Meissner, el tacto fino; Ruffini, el calor; Krause, el frío; y las terminaciones nerviosas libres, el dolor."
+      "e": "Pacini detecta la presión profunda y la vibración; Meissner, el tacto fino; Ruffini, el calor; Krause, el frío; y las terminaciones nerviosas libres, el dolor.",
+      "por": ["El frío lo detectan los corpúsculos de Krause.", null, "El calor lo detectan los de Ruffini.", "El tacto fino lo detectan los de Meissner."]
     },
     {
       "q": "El gusto del tercio posterior de la lengua se transmite por el nervio:",
       "o": ["Facial (VII par)", "Trigémino (V par)", "Hipogloso (XII par)", "Glosofaríngeo (IX par)"],
       "a": 3,
-      "e": "El facial recoge el gusto de los 2/3 anteriores, el glosofaríngeo el del 1/3 posterior y el vago el de la epiglotis y la faringe. El hipogloso es motor de la lengua."
+      "e": "El facial recoge el gusto de los 2/3 anteriores, el glosofaríngeo el del 1/3 posterior y el vago el de la epiglotis y la faringe. El hipogloso es motor de la lengua.",
+      "por": ["El facial recoge el gusto de los 2/3 anteriores.", "El trigémino da la sensibilidad general, no el gusto.", "El hipogloso es motor.", null]
     },
     {
       "q": "Para valorar el olfato no deben usarse sustancias como el amoníaco o el alcohol porque:",
       "o": ["Estimulan el nervio trigémino y falsean la prueba del I par", "Lesionan de forma permanente el epitelio olfatorio", "Su olor no es reconocible por la mayoría de pacientes", "Estimulan en exceso el sistema límbico"],
       "a": 0,
-      "e": "Los irritantes estimulan las terminaciones del trigémino (dolor, irritación), no el nervio olfatorio. Se usan aromas conocidos (café, vainilla, menta), explorando cada fosa por separado con los ojos cerrados."
+      "e": "Los irritantes estimulan las terminaciones del trigémino (dolor, irritación), no el nervio olfatorio. Se usan aromas conocidos (café, vainilla, menta), explorando cada fosa por separado con los ojos cerrados.",
+      "por": [null, "No lesionan el epitelio de forma permanente.", "Su olor sí es reconocible.", "El motivo es que estimulan el trigémino."]
     },
     {
       "q": "La escala de Snellen para valorar la agudeza visual lejana se realiza con el paciente situado a:",
       "o": ["1 metro", "35-40 centímetros", "6 metros", "10 metros"],
       "a": 2,
-      "e": "Snellen se hace a 6 metros (20 pies), con cada ojo por separado y sin presionar el ojo tapado. El resultado normal es 20/20 o 1,0. La tarjeta de 35-40 cm es la de Jaeger, para la visión cercana."
+      "e": "Snellen se hace a 6 metros (20 pies), con cada ojo por separado y sin presionar el ojo tapado. El resultado normal es 20/20 o 1,0. La tarjeta de 35-40 cm es la de Jaeger, para la visión cercana.",
+      "por": ["Un metro está demasiado cerca.", "35-40 cm es la distancia de la tarjeta de Jaeger.", null, "No son 10 metros."]
     },
     {
       "q": "La escala de Jaeger se utiliza principalmente para:",
       "o": ["Valorar la visión cercana y detectar la presbicia", "Detectar el daltonismo", "Medir la presión intraocular", "Valorar el campo visual periférico"],
       "a": 0,
-      "e": "Jaeger valora la lectura de cerca con una tarjeta a 35-40 cm y detecta la presbicia, que aparece a partir de los 40-45 años. Las discromatopsias se detectan con el test de Ishihara."
+      "e": "Jaeger valora la lectura de cerca con una tarjeta a 35-40 cm y detecta la presbicia, que aparece a partir de los 40-45 años. Las discromatopsias se detectan con el test de Ishihara.",
+      "por": [null, "El daltonismo se detecta con Ishihara.", "La presión intraocular se mide con tonometría.", "El campo visual se valora con campimetría."]
     },
     {
       "q": "Para visualizar con el otoscopio el conducto auditivo externo de un niño menor de 3 años, el pabellón auricular se tracciona:",
       "o": ["Hacia arriba y hacia atrás", "Hacia arriba y hacia delante", "Hacia delante sin tracción", "Hacia abajo y hacia atrás"],
       "a": 3,
-      "e": "En el niño pequeño el conducto es corto y recto: se tira hacia abajo y atrás. En el adulto (y a partir de los 3 años) se tira hacia arriba y atrás para rectificar la curvatura del conducto."
+      "e": "En el niño pequeño el conducto es corto y recto: se tira hacia abajo y atrás. En el adulto (y a partir de los 3 años) se tira hacia arriba y atrás para rectificar la curvatura del conducto.",
+      "por": ["Hacia arriba y atrás es en el adulto.", "Hacia delante no rectifica el conducto.", "Sin tracción no se ve bien.", null]
     },
     {
       "q": "En la prueba de Weber, el sonido se lateraliza hacia el oído enfermo cuando existe:",
       "o": ["Una hipoacusia neurosensorial", "Una hipoacusia de transmisión o conductiva (por ejemplo, un tapón de cerumen)", "Una audición normal", "Una presbiacusia bilateral simétrica"],
       "a": 1,
-      "e": "En la hipoacusia conductiva el oído afectado no recibe el ruido ambiental que tapa la vibración ósea, y el sonido se oye en él. En la neurosensorial se lateraliza al oído sano."
+      "e": "En la hipoacusia conductiva el oído afectado no recibe el ruido ambiental que tapa la vibración ósea, y el sonido se oye en él. En la neurosensorial se lateraliza al oído sano.",
+      "por": ["En la neurosensorial se lateraliza al oído sano.", null, "En la audición normal no se lateraliza.", "En la presbiacusia simétrica no se lateraliza."]
     },
     {
       "q": "Un resultado de Rinne positivo indica:",
       "o": ["Que la vía ósea es mejor que la aérea", "Una hipoacusia de transmisión", "Que la vía aérea es mejor que la ósea, lo que ocurre en la audición normal o en la hipoacusia neurosensorial", "Una perforación timpánica"],
       "a": 2,
-      "e": "Un Rinne positivo (VA > VO) es fisiológico, pero también aparece en la hipoacusia neurosensorial. Un Rinne negativo (VO > VA) indica hipoacusia de transmisión."
+      "e": "Un Rinne positivo (VA > VO) es fisiológico, pero también aparece en la hipoacusia neurosensorial. Un Rinne negativo (VO > VA) indica hipoacusia de transmisión.",
+      "por": ["Que la vía ósea sea mejor es un Rinne negativo.", "La de transmisión da Rinne negativo.", null, "La perforación da una hipoacusia de transmisión."]
     },
     {
       "q": "En la exploración del pie diabético con el monofilamento de Semmes-Weinstein:",
       "o": ["Se usa un monofilamento de 1 gramo aplicado sobre las callosidades", "Se pide al paciente que mire mientras se aplica para que avise", "Se desliza el filamento sobre la piel durante 5 segundos", "Se usa el de 10 gramos (5.07), aplicado en perpendicular hasta que se doble en forma de «C» durante 1 segundo"],
       "a": 3,
-      "e": "El de 10 g (5.07) es el estándar para la sensibilidad protectora. Se evitan las callosidades y el paciente tiene los ojos cerrados. Si no lo percibe, es un pie de riesgo."
+      "e": "El de 10 g (5.07) es el estándar para la sensibilidad protectora. Se evitan las callosidades y el paciente tiene los ojos cerrados. Si no lo percibe, es un pie de riesgo.",
+      "por": ["Es el de 10 g y se evitan las callosidades.", "El paciente tiene los ojos cerrados.", "No se desliza: se apoya en perpendicular durante 1 segundo.", null]
     },
     {
       "q": "Para explorar la sensibilidad vibratoria en el pie se utiliza un diapasón de:",
       "o": ["128 Hz", "512 Hz", "1.024 Hz", "64 Hz"],
       "a": 0,
-      "e": "El diapasón de 128 Hz se apoya en prominencias óseas (cabeza del primer metatarsiano, maléolo). La pérdida de la vibración es un signo precoz de neuropatía. El de 512 Hz se usa para Weber y Rinne."
+      "e": "El diapasón de 128 Hz se apoya en prominencias óseas (cabeza del primer metatarsiano, maléolo). La pérdida de la vibración es un signo precoz de neuropatía. El de 512 Hz se usa para Weber y Rinne.",
+      "por": [null, "512 Hz es para Weber y Rinne.", "1.024 Hz no se usa para esto.", "64 Hz no es el estándar."]
     },
     {
       "q": "Los valores normales de la presión intraocular se sitúan entre:",
       "o": ["5 y 8 mmHg", "10 y 21 mmHg", "25 y 35 mmHg", "40 y 60 mmHg"],
       "a": 1,
-      "e": "Por encima de 21 mmHg aumenta el riesgo de dañar el nervio óptico (glaucoma). En el glaucoma agudo de ángulo cerrado la PIO puede superar los 50-60 mmHg."
+      "e": "Por encima de 21 mmHg aumenta el riesgo de dañar el nervio óptico (glaucoma). En el glaucoma agudo de ángulo cerrado la PIO puede superar los 50-60 mmHg.",
+      "por": ["5-8 mmHg es hipotonía.", null, "25-35 mmHg es hipertensión ocular.", "40-60 mmHg es un glaucoma agudo."]
     },
     {
       "q": "Un paciente acude a urgencias con dolor ocular intenso irradiado a la cabeza, ojo rojo, halos alrededor de las luces, pupila en midriasis media arrefléxica, náuseas y vómitos. Debe sospecharse:",
       "o": ["Glaucoma agudo de ángulo cerrado", "Catarata madura", "Conjuntivitis bacteriana", "Gastroenteritis con conjuntivitis asociada"],
       "a": 0,
-      "e": "El cierre brusco del ángulo dispara la PIO. Es una urgencia que se trata con fármacos para bajar la presión e iridotomía con láser. Los vómitos pueden despistar hacia un cuadro digestivo."
+      "e": "El cierre brusco del ángulo dispara la PIO. Es una urgencia que se trata con fármacos para bajar la presión e iridotomía con láser. Los vómitos pueden despistar hacia un cuadro digestivo.",
+      "por": [null, "La catarata no produce dolor ni ojo rojo.", "La conjuntivitis no da midriasis arrefléxica.", "Los vómitos se deben al glaucoma."]
     },
     {
       "q": "En el glaucoma crónico de ángulo abierto, la alteración visual característica es:",
       "o": ["El escotoma central con metamorfopsia", "El dolor ocular brusco con ojo rojo", "La pérdida progresiva del campo visual periférico («visión en túnel»)", "La visión de destellos y una cortina negra"],
       "a": 2,
-      "e": "Es el tipo más frecuente: indoloro y silencioso, afecta primero a la periferia. El escotoma central es propio de la DMAE, y los destellos con cortina, del desprendimiento de retina."
+      "e": "Es el tipo más frecuente: indoloro y silencioso, afecta primero a la periferia. El escotoma central es propio de la DMAE, y los destellos con cortina, del desprendimiento de retina.",
+      "por": ["El escotoma central es de la DMAE.", "El dolor con ojo rojo es del glaucoma agudo.", null, "Los destellos y la cortina son del desprendimiento de retina."]
     },
     {
       "q": "En un paciente con glaucoma de ángulo estrecho están contraindicados los colirios:",
       "o": ["Betabloqueantes", "Análogos de las prostaglandinas", "Lágrimas artificiales", "Midriáticos como la atropina"],
       "a": 3,
-      "e": "Al dilatar la pupila, el iris se pliega hacia el ángulo y puede cerrarlo, desencadenando un glaucoma agudo. Los betabloqueantes y las prostaglandinas son tratamientos del glaucoma."
+      "e": "Al dilatar la pupila, el iris se pliega hacia el ángulo y puede cerrarlo, desencadenando un glaucoma agudo. Los betabloqueantes y las prostaglandinas son tratamientos del glaucoma.",
+      "por": ["Los betabloqueantes tratan el glaucoma.", "Las prostaglandinas tratan el glaucoma.", "Las lágrimas artificiales son inocuas.", null]
     },
     {
       "q": "Entre las recomendaciones al alta tras una cirugía de cataratas es correcto indicar:",
       "o": ["Limpiar las secreciones del ángulo externo hacia el interno", "Evitar durante unas semanas los esfuerzos de tipo Valsalva y agacharse doblando la cintura", "Dormir sobre el lado del ojo operado", "Frotar suavemente el ojo si nota arenilla"],
       "a": 1,
-      "e": "La maniobra de Valsalva y agacharse aumentan la PIO. Se limpia con suero y gasa estéril del ángulo interno al externo, sin frotar ni presionar el ojo, y se duerme boca arriba o sobre el lado no operado con protector."
+      "e": "La maniobra de Valsalva y agacharse aumentan la PIO. Se limpia con suero y gasa estéril del ángulo interno al externo, sin frotar ni presionar el ojo, y se duerme boca arriba o sobre el lado no operado con protector.",
+      "por": ["Se limpia del ángulo interno al externo.", null, "Se duerme sobre el lado no operado.", "No se frota el ojo."]
     },
     {
       "q": "La visión de destellos luminosos, «moscas volantes» y una sombra en forma de cortina que avanza por el campo visual es típica de:",
       "o": ["El desprendimiento de retina", "La DMAE seca", "El glaucoma de ángulo abierto", "La catarata"],
       "a": 0,
-      "e": "Las fotopsias y las miodesopsias son los síntomas iniciales, y el «telón negro» marca la progresión del desprendimiento. Es una urgencia quirúrgica, sobre todo si amenaza la mácula."
+      "e": "Las fotopsias y las miodesopsias son los síntomas iniciales, y el «telón negro» marca la progresión del desprendimiento. Es una urgencia quirúrgica, sobre todo si amenaza la mácula.",
+      "por": [null, "La DMAE seca da pérdida de visión central lenta.", "El glaucoma de ángulo abierto es silencioso.", "La catarata da visión borrosa progresiva."]
     },
     {
       "q": "Un paciente operado de desprendimiento de retina lleva una burbuja de gas intraocular (SF6). Es imprescindible advertirle que:",
       "o": ["Debe dormir siempre boca arriba", "Puede viajar en avión si lleva el ojo tapado", "La burbuja desaparece en 24 horas", "No debe volar ni subir a gran altitud mientras quede gas en el ojo"],
       "a": 3,
-      "e": "Con la altitud baja la presión atmosférica y el gas se expande (ley de Boyle), lo que puede disparar la PIO y causar isquemia y ceguera. Además debe mantener la posición que indique el cirujano, a menudo boca abajo."
+      "e": "Con la altitud baja la presión atmosférica y el gas se expande (ley de Boyle), lo que puede disparar la PIO y causar isquemia y ceguera. Además debe mantener la posición que indique el cirujano, a menudo boca abajo.",
+      "por": ["Suele tener que estar boca abajo; boca arriba el gas no presiona la retina.", "No puede volar.", "La burbuja tarda semanas en reabsorberse.", null]
     },
     {
       "q": "El factor de riesgo modificable más importante de la degeneración macular asociada a la edad (DMAE) es:",
       "o": ["La miopía", "La hipertensión ocular", "El tabaquismo", "El uso de lentes de contacto"],
       "a": 2,
-      "e": "El tabaco cuadruplica el riesgo y acelera la DMAE, la principal causa de ceguera irreversible en mayores de 65 años en los países desarrollados. Produce pérdida de visión central."
+      "e": "El tabaco cuadruplica el riesgo y acelera la DMAE, la principal causa de ceguera irreversible en mayores de 65 años en los países desarrollados. Produce pérdida de visión central.",
+      "por": ["La miopía no es modificable.", "La hipertensión ocular es del glaucoma.", null, "Las lentillas no son factor de DMAE."]
     },
     {
       "q": "El tratamiento de elección de la DMAE húmeda o exudativa es:",
       "o": ["Las inyecciones intravítreas periódicas de fármacos anti-VEGF", "La facoemulsificación", "La iridotomía con láser", "Los colirios de timolol"],
       "a": 0,
-      "e": "Los anti-VEGF frenan la neovascularización. Antes de la punción se instila povidona yodada al 5%, y después se vigila la PIO y la aparición de una endoftalmitis. La forma seca no tiene tratamiento curativo."
+      "e": "Los anti-VEGF frenan la neovascularización. Antes de la punción se instila povidona yodada al 5%, y después se vigila la PIO y la aparición de una endoftalmitis. La forma seca no tiene tratamiento curativo.",
+      "por": [null, "La facoemulsificación es para la catarata.", "La iridotomía es para el glaucoma de ángulo cerrado.", "El timolol es para el glaucoma."]
     },
     {
       "q": "En la miopía:",
       "o": ["El globo ocular es corto y la imagen se forma detrás de la retina", "El globo ocular es largo y la imagen se forma delante de la retina", "El cristalino pierde elasticidad con la edad", "La curvatura de la córnea es irregular"],
       "a": 1,
-      "e": "El miope ve mal de lejos y tiene más riesgo de desprendimiento de retina. La hipermetropía es un ojo corto (imagen detrás), la presbicia es la pérdida de elasticidad del cristalino y el astigmatismo, una córnea irregular."
+      "e": "El miope ve mal de lejos y tiene más riesgo de desprendimiento de retina. La hipermetropía es un ojo corto (imagen detrás), la presbicia es la pérdida de elasticidad del cristalino y el astigmatismo, una córnea irregular.",
+      "por": ["Eso es la hipermetropía.", null, "Eso es la presbicia.", "Eso es el astigmatismo."]
     },
     {
       "q": "La tríada clínica característica de la enfermedad de Ménière es:",
       "o": ["Otalgia, otorrea y fiebre", "Vértigo posicional breve sin síntomas auditivos", "Hipoacusia de transmisión, autofonía y plenitud ótica", "Vértigo rotatorio, acúfenos e hipoacusia neurosensorial fluctuante"],
       "a": 3,
-      "e": "Se debe a un hidrops endolinfático. Las crisis duran de 20 minutos a horas, con náuseas, vómitos y nistagmo. El vértigo sin hipoacusia orienta a una neuronitis vestibular, y la autofonía con plenitud, a un tapón."
+      "e": "Se debe a un hidrops endolinfático. Las crisis duran de 20 minutos a horas, con náuseas, vómitos y nistagmo. El vértigo sin hipoacusia orienta a una neuronitis vestibular, y la autofonía con plenitud, a un tapón.",
+      "por": ["Otalgia, otorrea y fiebre orientan a otitis.", "Eso es el vértigo posicional paroxístico benigno.", "Eso orienta a un tapón.", null]
     },
     {
       "q": "La intervención educativa más importante de enfermería para prevenir las crisis en la enfermedad de Ménière es:",
       "o": ["Una dieta rica en potasio", "Aumentar la ingesta de café para mejorar el riego", "Una dieta hiposódica, evitando también el glutamato monosódico", "Una dieta hiperproteica"],
       "a": 2,
-      "e": "Reducir la sal disminuye la retención de líquidos y la presión endolinfática. También se recomienda limitar la cafeína, el alcohol y el tabaco y beber agua de forma regular a lo largo del día."
+      "e": "Reducir la sal disminuye la retención de líquidos y la presión endolinfática. También se recomienda limitar la cafeína, el alcohol y el tabaco y beber agua de forma regular a lo largo del día.",
+      "por": ["El potasio no es la clave.", "La cafeína se limita.", null, "No es una dieta hiperproteica."]
     },
     {
       "q": "Si un paciente tose mientras se le explora o se le lava el conducto auditivo externo, se debe a la estimulación de:",
       "o": ["La rama auricular del nervio vago (nervio de Arnold)", "El nervio facial", "El nervio trigémino", "El nervio vestibular"],
       "a": 0,
-      "e": "La rama auricular del vago inerva parte del conducto auditivo externo. Al estimularla se produce un reflejo de tos. Es una pregunta clásica de examen."
+      "e": "La rama auricular del vago inerva parte del conducto auditivo externo. Al estimularla se produce un reflejo de tos. Es una pregunta clásica de examen.",
+      "por": [null, "El facial no provoca la tos.", "El trigémino no provoca ese reflejo.", "El vestibular da vértigo."]
     },
     {
       "q": "La contraindicación absoluta para hacer un lavado de oído para extraer un tapón de cerumen es:",
       "o": ["Que el tapón sea duro", "La sospecha o confirmación de una perforación de la membrana timpánica", "Que el paciente sea mayor de 65 años", "Que el paciente use audífonos"],
       "a": 1,
-      "e": "Tampoco se debe lavar si hay cirugía de oído, drenajes transtimpánicos u otitis aguda con supuración: en esos casos se deriva para limpieza en seco. Un tapón duro se ablanda antes con gotas cerumenolíticas durante 2-3 días."
+      "e": "Tampoco se debe lavar si hay cirugía de oído, drenajes transtimpánicos u otitis aguda con supuración: en esos casos se deriva para limpieza en seco. Un tapón duro se ablanda antes con gotas cerumenolíticas durante 2-3 días.",
+      "por": ["Un tapón duro se ablanda antes, no contraindica el lavado.", null, "La edad no lo contraindica.", "Los audífonos no lo contraindican."]
     },
     {
       "q": "En el lavado ótico el agua debe estar a unos 37 °C porque, si está fría o caliente:",
       "o": ["Endurece el tapón de cerumen", "Puede quemar la piel del conducto", "Disminuye la eficacia del arrastre", "Produce vértigo, náuseas y nistagmo por un reflejo calórico vestibular"],
       "a": 3,
-      "e": "La diferencia de temperatura estimula los canales semicirculares, igual que en la prueba calórica. En diabéticos e inmunodeprimidos se usa suero estéril para evitar una otitis externa maligna por Pseudomonas."
+      "e": "La diferencia de temperatura estimula los canales semicirculares, igual que en la prueba calórica. En diabéticos e inmunodeprimidos se usa suero estéril para evitar una otitis externa maligna por Pseudomonas.",
+      "por": ["No endurece el tapón.", "No es el motivo principal.", "El motivo es el reflejo vestibular.", null]
     },
     {
       "q": "Durante el lavado ótico, el chorro de agua debe dirigirse hacia:",
       "o": ["El centro de la membrana timpánica", "La pared inferior del conducto", "La pared posterosuperior del conducto auditivo externo", "Directamente sobre el tapón con la cánula introducida a fondo"],
       "a": 2,
-      "e": "El agua choca con la pared, rodea el tapón y lo empuja hacia fuera. Nunca se dirige directamente al tímpano. Si no sale tras 3-4 intentos, se detiene y se mantienen las gotas unos días."
+      "e": "El agua choca con la pared, rodea el tapón y lo empuja hacia fuera. Nunca se dirige directamente al tímpano. Si no sale tras 3-4 intentos, se detiene y se mantienen las gotas unos días.",
+      "por": ["Nunca se dirige al tímpano.", "No se dirige a la pared inferior.", null, "La cánula no se introduce a fondo."]
     },
     {
       "q": "Tras instilar un colirio con posibles efectos sistémicos (por ejemplo, un betabloqueante), la enfermera debe:",
       "o": ["Presionar suavemente el ángulo interno del ojo (punto lagrimal) durante 30-60 segundos", "Pedir al paciente que parpadee con fuerza varias veces", "Frotar el párpado para repartir el fármaco", "Aplicar a continuación una pomada para que el fármaco no se pierda"],
       "a": 0,
-      "e": "La oclusión del punto lagrimal impide que el fármaco pase a la mucosa nasal y a la sangre. Entre colirios distintos se esperan 5-10 minutos, la pomada va siempre al final y los envases multidosis se desechan a los 28 días."
+      "e": "La oclusión del punto lagrimal impide que el fármaco pase a la mucosa nasal y a la sangre. Entre colirios distintos se esperan 5-10 minutos, la pomada va siempre al final y los envases multidosis se desechan a los 28 días.",
+      "por": [null, "Parpadear con fuerza expulsa el colirio.", "No se frota.", "La pomada no evita el paso sistémico."]
     },
     {
       "q": "Un paciente en tratamiento con timolol en colirio refiere disnea y sibilancias. Lo más probable es que se deba a:",
       "o": ["Una reacción alérgica local al conservante", "Un glaucoma agudo", "Una sobreinfección respiratoria sin relación con el fármaco", "El efecto sistémico del betabloqueante, contraindicado en asma y EPOC"],
       "a": 3,
-      "e": "El timolol absorbido por vía nasolagrimal puede causar broncoespasmo, bradicardia e hipotensión. Por eso está contraindicado en asmáticos y en la EPOC y se presiona el lagrimal tras instilarlo."
+      "e": "El timolol absorbido por vía nasolagrimal puede causar broncoespasmo, bradicardia e hipotensión. Por eso está contraindicado en asmáticos y en la EPOC y se presiona el lagrimal tras instilarlo.",
+      "por": ["Una alergia local no da sibilancias.", "El glaucoma no da disnea.", "Se explica por el fármaco.", null]
     },
     {
       "q": "Ante una salpicadura de un producto cáustico en un ojo, la primera medida de enfermería es:",
       "o": ["Tapar el ojo con un apósito y avisar al oftalmólogo", "Irrigar de inmediato con suero fisiológico o agua abundante, de forma continua, desde el ángulo interno al externo", "Neutralizar el producto con una solución de pH contrario", "Instilar un anestésico tópico y esperar la valoración"],
       "a": 1,
-      "e": "El daño químico depende del tiempo de contacto: se lava sin demora con 1-3 litros, evertiendo el párpado superior. El flujo de dentro afuera evita contaminar el ojo sano y el conducto lagrimal."
+      "e": "El daño químico depende del tiempo de contacto: se lava sin demora con 1-3 litros, evertiendo el párpado superior. El flujo de dentro afuera evita contaminar el ojo sano y el conducto lagrimal.",
+      "por": ["Tapar el ojo prolonga el contacto con el cáustico.", null, "Neutralizar produce calor.", "No se espera: hay que irrigar ya."]
     },
     {
       "q": "En la educación sobre el cuidado de los pies de un paciente con neuropatía diabética, respecto a la hidratación se debe recomendar:",
       "o": ["Aplicar la crema sobre todo entre los dedos", "No usar nunca crema hidratante", "Aplicar crema en la planta y el dorso, evitando siempre los espacios interdigitales", "Mantener los pies en remojo 20 minutos antes de la crema"],
       "a": 2,
-      "e": "La crema entre los dedos favorece la maceración y las micosis. Además se secan bien los espacios interdigitales, se comprueba el agua con el codo, se inspecciona el pie a diario y se usan calcetines de algodón claros."
+      "e": "La crema entre los dedos favorece la maceración y las micosis. Además se secan bien los espacios interdigitales, se comprueba el agua con el codo, se inspecciona el pie a diario y se usan calcetines de algodón claros.",
+      "por": ["Entre los dedos favorece la maceración.", "Sí se hidrata.", null, "El remojo prolongado macera la piel."]
     },
     {
       "q": "En la prueba de Weber de la imagen el sonido se lateraliza hacia el oído enfermo. Esto indica una hipoacusia:",
       "o": ["Neurosensorial del oído enfermo", "De transmisión (conductiva) del oído enfermo", "Neurosensorial del oído sano", "Es un resultado normal"],
       "a": 1,
       "e": "Weber: diapasón de 512 Hz en el vértex. Conductiva (tapón, otitis): se oye más en el oído enfermo (falta el enmascaramiento del ruido ambiental). Neurosensorial: se lateraliza al oído sano.",
-      "img": "img/preguntas/t45-weber.jpg"
+      "img": "img/preguntas/t45-weber.jpg",
+      "por": ["La neurosensorial se lateraliza al oído sano.", null, "Si fuera neurosensorial se oiría en el sano, no en el enfermo.", "Lateralizarse no es normal."]
     }
   ]
 }

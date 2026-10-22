@@ -1,0 +1,96 @@
+1|b|100 mg/dl en ayunas es el límite de la prediabetes.
+1|c|5,7% es el límite de la prediabetes; la diabetes es 6,5%.
+1|d|140 a las 2 h es intolerancia; la diabetes es 200.
+2|a|7 días es muy poco tiempo.
+2|b|2-3 semanas refleja la fructosamina.
+2|d|No abarca un año: depende de la vida del hematíe.
+3|a|No requiere ayuno.
+3|b|100 g y 3 horas es la SOG de confirmación.
+3|c|Es un cribado: el positivo se confirma con la SOG.
+4|a|Un solo valor alterado es intolerancia.
+4|c|No basta con la basal.
+4|d|No hace falta que estén alterados los cuatro.
+5|a|El Addison pigmenta pliegues palmares y mucosas.
+5|b|El Cushing da estrías violáceas.
+5|c|El hipotiroidismo no produce acantosis.
+6|b|El glucagón es para el paciente inconsciente.
+6|c|El pan integral es de absorción lenta.
+6|d|La insulina empeora la hipoglucemia.
+7|a|Por boca puede broncoaspirar.
+7|b|Aun así puede aspirar.
+7|d|No se espera: hay que actuar ya.
+8|a|En el joven tipo 1 sí suele funcionar.
+8|c|El ejercicio no lo anula.
+8|d|La insulina basal no lo anula.
+9|b|El hiperosmolar es del anciano y sin cetosis.
+9|c|La hipoglucemia no da respiración de Kussmaul.
+9|d|No toma metformina y el aliento afrutado indica cetosis.
+10|a|La cetosis intensa es de la cetoacidosis.
+10|b|Es típico del anciano con DM2.
+10|c|Las glucemias son mucho más altas y sin Kussmaul.
+11|a|La insulina va después de rehidratar.
+11|b|El bicarbonato no es de rutina.
+11|d|La NPH no se usa en la urgencia.
+12|a|La NPH es solo subcutánea.
+12|c|La glargina es solo subcutánea.
+12|d|Las premezcladas son solo subcutáneas.
+13|a|Suele llegar normal o alto, no siempre con hiperpotasemia grave.
+13|b|No es por mejorar la acción de la insulina.
+13|c|No previene las cetonas.
+14|b|Es el de 10 g y nunca sobre callos.
+14|c|No se arrastra.
+14|d|Se explora la planta.
+15|a|El isquémico es frío y sin pulsos.
+15|b|No hay gangrena.
+15|d|No es una TVP.
+16|a|Grado 0 es un pie de riesgo sin úlcera.
+16|b|Grado 1 es una úlcera superficial.
+16|c|Grado 2 no afecta al hueso.
+17|a|El corte curvo favorece la uña encarnada.
+17|c|Las cuchillas están prohibidas.
+17|d|Hay que cortarlas.
+18|b|El muslo absorbe más lento.
+18|c|La nalga es la más lenta.
+18|d|El brazo es intermedio.
+19|a|Congelada se estropea.
+19|b|La pluma en uso puede estar a temperatura ambiente.
+19|d|Dura unas 4 semanas.
+20|a|No miden en sangre capilar.
+20|b|No miden en sangre venosa.
+20|c|No miden en el sudor.
+21|a|En el alba la glucemia de las 3:00 h no es baja.
+21|c|No es un estado hiperosmolar.
+21|d|No es resistencia a la insulina.
+22|b|Una hora antes provocaría hipoglucemia.
+22|c|Al acostarse no corresponde a una comida.
+22|d|Dos horas después llega tarde.
+23|a|Con el desayuno se absorbe peor.
+23|b|El hierro y el calcio reducen su absorción.
+23|c|La leche reduce su absorción.
+24|a|El hipotiroidismo no da fiebre alta brusca.
+24|b|La tormenta tiroidea no da odinofagia intensa.
+24|d|Puede ser grave: hay que descartar agranulocitosis.
+25|a|El enfriamiento físico está indicado.
+25|c|Los betabloqueantes están indicados.
+25|d|Los sueros están indicados.
+26|b|La lesión del recurrente da disfonía o estridor.
+26|c|La crisis tirotóxica no da parestesias peribucales.
+26|d|No es un efecto normal.
+27|a|Es al revés: hiponatremia e hiperpotasemia.
+27|b|Tiende a la hipoglucemia.
+27|c|Eso es del Cushing.
+28|a|Sin cortisol los vasoactivos no responden.
+28|b|La levotiroxina no trata la crisis addisoniana.
+28|d|La furosemida empeoraría el shock.
+29|a|Un betabloqueante solo desencadena una crisis hipertensiva.
+29|c|Palpar puede liberar catecolaminas.
+29|d|Hay que preparar la tensión antes de operar.
+30|b|Más agua empeora la hiponatremia.
+30|c|La desmopresina es para la diabetes insípida.
+30|d|El glucosado empeora la hiponatremia.
+31|a|La hipercalcemia no produce tetania.
+31|c|La hiperpotasemia da arritmias, no Chvostek.
+31|d|La hiponatremia no es la causa clásica.
+32|a|La más lenta es la nalga.
+32|b|Intermedia es el brazo.
+32|c|Sí se absorbe.

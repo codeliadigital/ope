@@ -1,0 +1,90 @@
+1|a|El riesgo cero no existe.
+1|b|La seguridad es responsabilidad de todos.
+1|c|Eso es la prevención de riesgos laborales.
+2|b|No llegó al paciente: no es un incidente sin daño.
+2|c|No hubo daño.
+2|d|No hubo daño grave.
+3|a|Llegó al paciente: no es un cuasi-incidente.
+3|b|Ya ocurrió un incidente.
+3|d|No hubo daño grave.
+4|a|No es muerte ni daño permanente.
+4|c|Sí llegó al paciente y le causó daño.
+4|d|Ya hay daño.
+5|b|Hay daño grave.
+5|c|Llegó al paciente.
+5|d|Ya ocurrió.
+6|a|Aún no hay daño.
+6|b|Aún no ha ocurrido ningún incidente.
+6|c|Aún no ha ocurrido ningún incidente.
+7|a|La pregunta cerrada es peligrosa.
+7|c|La cama no es un identificador fiable.
+7|d|Hay que comprobarlo personalmente.
+8|a|El paracetamol oral no es de alto riesgo.
+8|b|El omeprazol no es de alto riesgo.
+8|d|El suero fisiológico no es de alto riesgo.
+9|b|No es el registro de constantes.
+9|c|No es el riesgo de caídas.
+9|d|No es la revisión de la medicación.
+10|a|0 es sin riesgo.
+10|b|Menos de 12 es el riesgo alto de Braden.
+10|c|45 es el riesgo alto de Morse.
+11|a|Lo retrospectivo es el análisis causa-raíz.
+11|b|No es económico.
+11|d|No es sancionador.
+12|b|El AMFE es prospectivo.
+12|c|La encuesta no analiza causas.
+12|d|El PDCA requiere análisis previo.
+13|a|Es voluntario.
+13|c|Es confidencial.
+13|d|No se usa para evaluar al profesional.
+14|a|Los cuasi-incidentes sí se notifican.
+14|b|Las caídas sí se notifican.
+14|c|Los errores de identificación sí se notifican.
+15|a|El fallo administrativo es SAC 4.
+15|b|Requiere análisis urgente.
+15|d|Los cuasi-incidentes son SAC 4.
+16|b|El proceso es lo que se hace.
+16|c|El resultado es el efecto en el paciente.
+16|d|La satisfacción es un resultado.
+17|a|No mide recursos.
+17|b|No mide el efecto en el paciente.
+17|c|No mide la satisfacción.
+18|a|No mide recursos.
+18|c|No mide una actividad.
+18|d|No mide la accesibilidad.
+19|a|La eficacia es en condiciones ideales.
+19|b|La eficiencia relaciona resultado y coste.
+19|d|La legitimidad es otra dimensión.
+20|b|La eficacia es en condiciones ideales.
+20|c|La aceptabilidad son las preferencias del paciente.
+20|d|La equidad es el reparto según la necesidad.
+21|a|Se empieza por planificar.
+21|b|Se empieza por planificar.
+21|c|Se empieza por planificar.
+22|a|No se expresa por camas.
+22|c|No se expresa por enfermera.
+22|d|No es un porcentaje anual.
+23|a|La validez es medir lo que se pretende.
+23|b|La sensibilidad es detectar cambios.
+23|d|La relevancia es la importancia del indicador.
+24|b|Desconectar abre el circuito.
+24|c|La orina de la bolsa está contaminada.
+24|d|No se retira la sonda para esto.
+25|a|La clorhexidina altera la flora.
+25|b|La povidona no se usa de rutina.
+25|c|El alcohol irrita.
+26|a|Esa línea trata el burnout del personal.
+26|c|La infraestructura es el diseño de la unidad.
+26|d|El síndrome post-UCI son las secuelas al alta.
+27|a|Esa línea trata el burnout.
+27|b|La UCI de puertas abiertas trata las visitas.
+27|d|La comunicación es otra línea.
+28|b|No son bronce, plata y oro.
+28|c|No son esos niveles.
+28|d|No son A, B y C.
+29|a|La empatía es una de las E finales.
+29|b|La escucha activa no es una fase.
+29|c|La estrategia es la última E.
+30|a|El entorno es el lugar.
+30|c|La invitación es cuánta información quiere.
+30|d|El conocimiento es dar la noticia.

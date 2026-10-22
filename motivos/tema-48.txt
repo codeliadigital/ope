@@ -1,0 +1,90 @@
+1|a|El peligro inminente para la vida define la emergencia.
+1|b|La urgencia no exige soporte vital avanzado.
+1|d|Comprometer un órgano es emergencia.
+2|b|La percepción del paciente es propia de la urgencia.
+2|c|Lo que puede esperar 24 h no es emergencia.
+2|d|Eso no es emergencia.
+3|a|La Ley General de Sanidad no regula el triaje en la cartera.
+3|c|La LOPS regula las profesiones sanitarias.
+3|d|El RD 1093/2010 regula el conjunto mínimo de datos de los informes clínicos.
+4|a|Si lo rechaza por escrito no se interviene.
+4|b|Las razones organizativas no justifican actuar sin consentimiento.
+4|c|La edad no es una excepción.
+5|b|Un centro que abre por la tarde no es la UME.
+5|c|El consultorio en zona aislada es un PEA o PAC.
+5|d|La UME es un soporte vital avanzado, no transporte no asistido.
+6|a|El triaje no diagnostica.
+6|b|No es por orden de llegada.
+6|d|Las camas no determinan el nivel.
+7|a|Preguntar delante del agresor la pone en riesgo.
+7|b|Confrontar al acompañante aumenta el riesgo.
+7|c|Bajarle la prioridad no la protege.
+8|a|3 m² es insuficiente.
+8|c|12 m² no es el mínimo.
+8|d|20 m² no es el mínimo.
+9|b|Inferior al 10% es demasiado.
+9|c|Inferior al 15% es demasiado.
+9|d|Inferior al 25% es demasiado.
+10|a|Pautar morfina IV excede sus competencias.
+10|b|Diagnosticar es médico.
+10|d|Dar el alta excede sus competencias.
+11|a|Cerrar la puerta bloquea tu vía de escape.
+11|b|Se mantiene una distancia de 1-2 metros.
+11|c|No se contradicen los delirios.
+12|a|Los 52 diagramas son del Manchester.
+12|c|El e-PAT es del SET.
+12|d|Tiene 5 niveles.
+13|b|Son dos recursos, no uno.
+13|c|Sí consume recursos.
+13|d|No es de alto riesgo: está estable.
+14|a|La radiografía sí es un recurso.
+14|b|La medicación IV sí es un recurso.
+14|c|La sutura compleja sí es un recurso.
+15|a|El TAC no es salvavidas inmediato.
+15|b|La vía periférica no es salvavidas.
+15|d|La analítica no es salvavidas.
+16|b|Los 600 motivos con e-PAT son del SET.
+16|c|La previsión de recursos es del ESI.
+16|d|Tiene 5 colores.
+17|a|El rojo es el nivel 1.
+17|c|El amarillo es el nivel 3.
+17|d|El verde es el nivel 4.
+18|a|El nivel 2 es naranja.
+18|b|El nivel 3 es amarillo.
+18|c|El nivel 4 es verde.
+19|a|Sí tiene tiempos asociados.
+19|b|La previsión de recursos es del ESI.
+19|d|Tiene 5 niveles.
+20|b|La sensibilidad mide la validez.
+20|c|El VPP mide la validez.
+20|d|El Barthel mide la dependencia.
+21|a|El manual señala al Manchester, no al ESI.
+21|c|No es el SET-MAT.
+21|d|No es el CTAS.
+22|a|Las víctimas no recuperables no tienen prioridad.
+22|b|No es por orden de llegada.
+22|c|En el primer triaje no se hace RCP.
+23|a|Si camina no es rojo.
+23|b|Si camina no es amarillo.
+23|d|Si camina no es negro.
+24|b|Rojo es si respira tras abrir la vía aérea.
+24|c|Amarillo es si no camina pero está estable.
+24|d|Verde es si camina.
+25|a|No camina: no es verde.
+25|b|Más de 30 rpm es rojo.
+25|c|Respira: no es negro.
+26|a|Respiración, perfusión y estado mental son adecuados.
+26|c|No camina: no es verde.
+26|d|Está vivo y estable.
+27|a|En el niño se dan antes 5 ventilaciones.
+27|b|No es amarillo.
+27|d|No se hacen compresiones en el triaje.
+28|b|En la zona caliente se hace el rescate.
+28|c|En la zona fría están el mando y la noria de ambulancias.
+28|d|El PMA está en el lugar del incidente.
+29|a|No es el último paso.
+29|b|No cambia la clasificación.
+29|c|Pueden hacerlo los no sanitarios.
+30|a|Situación es lo que ocurre ahora.
+30|c|Evaluación son las constantes y el estado actual.
+30|d|Recomendación es lo que se propone.

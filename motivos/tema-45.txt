@@ -1,0 +1,93 @@
+1|a|El frío lo detectan los corpúsculos de Krause.
+1|c|El calor lo detectan los de Ruffini.
+1|d|El tacto fino lo detectan los de Meissner.
+2|a|El facial recoge el gusto de los 2/3 anteriores.
+2|b|El trigémino da la sensibilidad general, no el gusto.
+2|c|El hipogloso es motor.
+3|b|No lesionan el epitelio de forma permanente.
+3|c|Su olor sí es reconocible.
+3|d|El motivo es que estimulan el trigémino.
+4|a|Un metro está demasiado cerca.
+4|b|35-40 cm es la distancia de la tarjeta de Jaeger.
+4|d|No son 10 metros.
+5|b|El daltonismo se detecta con Ishihara.
+5|c|La presión intraocular se mide con tonometría.
+5|d|El campo visual se valora con campimetría.
+6|a|Hacia arriba y atrás es en el adulto.
+6|b|Hacia delante no rectifica el conducto.
+6|c|Sin tracción no se ve bien.
+7|a|En la neurosensorial se lateraliza al oído sano.
+7|c|En la audición normal no se lateraliza.
+7|d|En la presbiacusia simétrica no se lateraliza.
+8|a|Que la vía ósea sea mejor es un Rinne negativo.
+8|b|La de transmisión da Rinne negativo.
+8|d|La perforación da una hipoacusia de transmisión.
+9|a|Es el de 10 g y se evitan las callosidades.
+9|b|El paciente tiene los ojos cerrados.
+9|c|No se desliza: se apoya en perpendicular durante 1 segundo.
+10|b|512 Hz es para Weber y Rinne.
+10|c|1.024 Hz no se usa para esto.
+10|d|64 Hz no es el estándar.
+11|a|5-8 mmHg es hipotonía.
+11|c|25-35 mmHg es hipertensión ocular.
+11|d|40-60 mmHg es un glaucoma agudo.
+12|b|La catarata no produce dolor ni ojo rojo.
+12|c|La conjuntivitis no da midriasis arrefléxica.
+12|d|Los vómitos se deben al glaucoma.
+13|a|El escotoma central es de la DMAE.
+13|b|El dolor con ojo rojo es del glaucoma agudo.
+13|d|Los destellos y la cortina son del desprendimiento de retina.
+14|a|Los betabloqueantes tratan el glaucoma.
+14|b|Las prostaglandinas tratan el glaucoma.
+14|c|Las lágrimas artificiales son inocuas.
+15|a|Se limpia del ángulo interno al externo.
+15|c|Se duerme sobre el lado no operado.
+15|d|No se frota el ojo.
+16|b|La DMAE seca da pérdida de visión central lenta.
+16|c|El glaucoma de ángulo abierto es silencioso.
+16|d|La catarata da visión borrosa progresiva.
+17|a|Suele tener que estar boca abajo; boca arriba el gas no presiona la retina.
+17|b|No puede volar.
+17|c|La burbuja tarda semanas en reabsorberse.
+18|a|La miopía no es modificable.
+18|b|La hipertensión ocular es del glaucoma.
+18|d|Las lentillas no son factor de DMAE.
+19|b|La facoemulsificación es para la catarata.
+19|c|La iridotomía es para el glaucoma de ángulo cerrado.
+19|d|El timolol es para el glaucoma.
+20|a|Eso es la hipermetropía.
+20|c|Eso es la presbicia.
+20|d|Eso es el astigmatismo.
+21|a|Otalgia, otorrea y fiebre orientan a otitis.
+21|b|Eso es el vértigo posicional paroxístico benigno.
+21|c|Eso orienta a un tapón.
+22|a|El potasio no es la clave.
+22|b|La cafeína se limita.
+22|d|No es una dieta hiperproteica.
+23|b|El facial no provoca la tos.
+23|c|El trigémino no provoca ese reflejo.
+23|d|El vestibular da vértigo.
+24|a|Un tapón duro se ablanda antes, no contraindica el lavado.
+24|c|La edad no lo contraindica.
+24|d|Los audífonos no lo contraindican.
+25|a|No endurece el tapón.
+25|b|No es el motivo principal.
+25|c|El motivo es el reflejo vestibular.
+26|a|Nunca se dirige al tímpano.
+26|b|No se dirige a la pared inferior.
+26|d|La cánula no se introduce a fondo.
+27|b|Parpadear con fuerza expulsa el colirio.
+27|c|No se frota.
+27|d|La pomada no evita el paso sistémico.
+28|a|Una alergia local no da sibilancias.
+28|b|El glaucoma no da disnea.
+28|c|Se explica por el fármaco.
+29|a|Tapar el ojo prolonga el contacto con el cáustico.
+29|c|Neutralizar produce calor.
+29|d|No se espera: hay que irrigar ya.
+30|a|Entre los dedos favorece la maceración.
+30|b|Sí se hidrata.
+30|d|El remojo prolongado macera la piel.
+31|a|La neurosensorial se lateraliza al oído sano.
+31|c|Si fuera neurosensorial se oiría en el sano, no en el enfermo.
+31|d|Lateralizarse no es normal.

@@ -7,223 +7,259 @@
       "q": "La auscultación de un tercer ruido cardiaco (R3, ritmo de galope) en un adulto se asocia a:",
       "o": ["Un hallazgo normal", "Insuficiencia cardiaca con sobrecarga de volumen", "Estenosis pulmonar", "Cierre de las válvulas semilunares"],
       "a": 1,
-      "e": "El R3 en el adulto es patológico y sugiere insuficiencia cardiaca. R1 corresponde al cierre de mitral y tricúspide, R2 al de aórtica y pulmonar, y R4 indica rigidez ventricular."
+      "e": "El R3 en el adulto es patológico y sugiere insuficiencia cardiaca. R1 corresponde al cierre de mitral y tricúspide, R2 al de aórtica y pulmonar, y R4 indica rigidez ventricular.",
+      "por": ["En el adulto el R3 no es normal (solo puede serlo en niños y jóvenes).", null, "La estenosis pulmonar produce un soplo, no un R3.", "El cierre de las semilunares es el R2."]
     },
     {
       "q": "El latido apical (choque de la punta) se palpa normalmente en:",
       "o": ["El 2.º espacio intercostal derecho", "El 3.er espacio intercostal paraesternal izquierdo", "La línea axilar media en el 7.º espacio", "El 5.º espacio intercostal izquierdo, en la línea medioclavicular"],
       "a": 3,
-      "e": "Su desplazamiento hacia la línea axilar anterior sugiere cardiomegalia o dilatación del ventrículo izquierdo."
+      "e": "Su desplazamiento hacia la línea axilar anterior sugiere cardiomegalia o dilatación del ventrículo izquierdo.",
+      "por": ["El 2.º espacio derecho es el foco aórtico.", "El 3.er espacio paraesternal izquierdo es el foco de Erb.", "Tan lateral indica cardiomegalia.", null]
     },
     {
       "q": "Se considera insuficiencia cardiaca con fracción de eyección reducida cuando la FEVI es:",
       "o": ["≤ 40%", "Entre 41 y 49%", "≥ 50%", "≥ 70%"],
       "a": 0,
-      "e": "FEVI ≤ 40%: IC con FE reducida (disfunción sistólica); 41-49%: ligeramente reducida; ≥ 50%: conservada (disfunción diastólica)."
+      "e": "FEVI ≤ 40%: IC con FE reducida (disfunción sistólica); 41-49%: ligeramente reducida; ≥ 50%: conservada (disfunción diastólica).",
+      "por": [null, "41-49% es FE ligeramente reducida.", "50% o más es FE conservada.", "70% o más es normal o alta."]
     },
     {
       "q": "En un paciente con insuficiencia cardiaca tratado con espironolactona, la enfermera debe vigilar especialmente:",
       "o": ["La hipopotasemia", "Las infecciones genitales", "La hiperpotasemia", "La hipoglucemia"],
       "a": 2,
-      "e": "Los antagonistas de la aldosterona (espironolactona, eplerenona) retienen potasio. Los iSGLT2 se asocian a infecciones genitales y la furosemida, a hipopotasemia."
+      "e": "Los antagonistas de la aldosterona (espironolactona, eplerenona) retienen potasio. Los iSGLT2 se asocian a infecciones genitales y la furosemida, a hipopotasemia.",
+      "por": ["La hipopotasemia es de la furosemida.", "Las infecciones genitales son de los iSGLT2.", null, "La espironolactona no produce hipoglucemia."]
     },
     {
       "q": "En el seguimiento de un paciente con insuficiencia cardiaca, es un signo de alarma que requiere valoración urgente:",
       "o": ["Una pérdida de peso de 1 kg en una semana", "Una tensión arterial de 120/70 mmHg", "Una frecuencia cardiaca de 70 lpm", "Un aumento de peso de más de 2 kg en 3 días"],
       "a": 3,
-      "e": "El aumento rápido de peso indica retención de líquidos y descompensación. Se educa en el peso diario, la restricción de sal y la detección de disnea, ortopnea y edemas."
+      "e": "El aumento rápido de peso indica retención de líquidos y descompensación. Se educa en el peso diario, la restricción de sal y la detección de disnea, ortopnea y edemas.",
+      "por": ["Perder peso no es signo de descompensación.", "Esa tensión es normal.", "Esa frecuencia es normal.", null]
     },
     {
       "q": "Ante un paciente con dolor torácico sugestivo de síndrome coronario agudo, el ECG de 12 derivaciones debe realizarse:",
       "o": ["En los primeros 10 minutos desde el primer contacto", "En la primera hora", "Tras obtener el resultado de la troponina", "Solo si el dolor persiste más de 30 minutos"],
       "a": 0,
-      "e": "El ECG precoz (≤ 10 min) permite identificar la elevación del ST e iniciar la reperfusión urgente."
+      "e": "El ECG precoz (≤ 10 min) permite identificar la elevación del ST e iniciar la reperfusión urgente.",
+      "por": [null, "Una hora es demasiado tarde.", "No se espera a la troponina.", "Se hace siempre, no según la duración."]
     },
     {
       "q": "Para descartar o confirmar un infarto sin elevación del ST, la guía ESC 2023 recomienda:",
       "o": ["La CK-MB seriada cada 6 horas", "La mioglobina", "La troponina de alta sensibilidad con algoritmo 0 h/1 h", "Solo el ECG seriado"],
       "a": 2,
-      "e": "El biomarcador de elección es la troponina de alta sensibilidad, con extracción a la llegada (hora 0) y exactamente a la hora (o algoritmo 0 h/2 h)."
+      "e": "El biomarcador de elección es la troponina de alta sensibilidad, con extracción a la llegada (hora 0) y exactamente a la hora (o algoritmo 0 h/2 h).",
+      "por": ["La CK-MB ya no es de elección.", "La mioglobina es poco específica.", null, "El ECG solo no descarta el infarto sin elevación del ST."]
     },
     {
       "q": "Se diagnostica un infarto con elevación del ST cuando el ECG muestra:",
       "o": ["Descenso del ST en una sola derivación", "Elevación persistente del ST en al menos dos derivaciones contiguas", "Una onda T invertida aislada", "Un PR alargado"],
       "a": 1,
-      "e": "La elevación del ST en ≥ 2 derivaciones contiguas indica oclusión coronaria completa y obliga a reperfusión urgente."
+      "e": "La elevación del ST en ≥ 2 derivaciones contiguas indica oclusión coronaria completa y obliga a reperfusión urgente.",
+      "por": ["El infarto con elevación del ST requiere elevación, no descenso.", null, "Una T invertida aislada no es elevación del ST.", "El PR alargado es un bloqueo AV."]
     },
     {
       "q": "En el IAM con elevación del ST, la estrategia de reperfusión de elección es:",
       "o": ["La fibrinólisis en todos los casos", "El tratamiento conservador", "La cirugía de revascularización urgente", "La angioplastia primaria, si puede realizarse en menos de 120 minutos, preferentemente por vía radial"],
       "a": 3,
-      "e": "La angioplastia primaria es de elección si se puede hacer en < 120 min; la vía radial reduce el sangrado. Si no es posible, se administra fibrinólisis y se traslada a un centro con hemodinámica."
+      "e": "La angioplastia primaria es de elección si se puede hacer en < 120 min; la vía radial reduce el sangrado. Si no es posible, se administra fibrinólisis y se traslada a un centro con hemodinámica.",
+      "por": ["La fibrinólisis es la alternativa si no hay angioplastia a tiempo.", "El infarto con elevación del ST requiere reperfusión urgente.", "La cirugía urgente no es de elección.", null]
     },
     {
       "q": "En un paciente con síndrome coronario agudo y saturación de oxígeno del 96%, respecto a la oxigenoterapia:",
       "o": ["No está indicada; solo se administra si la SatO₂ es inferior al 90%", "Debe administrarse siempre a alto flujo", "Debe administrarse con mascarilla de reservorio", "Debe administrarse a 2 l/min de forma sistemática"],
       "a": 0,
-      "e": "El oxígeno de rutina ya no se recomienda: solo si hay hipoxemia (SatO₂ < 90%), porque puede producir vasoconstricción coronaria y más daño."
+      "e": "El oxígeno de rutina ya no se recomienda: solo si hay hipoxemia (SatO₂ < 90%), porque puede producir vasoconstricción coronaria y más daño.",
+      "por": [null, "El oxígeno de rutina puede ser perjudicial.", "No hace falta reservorio sin hipoxemia.", "No se da de forma sistemática."]
     },
     {
       "q": "Los nitratos están contraindicados en un paciente con síndrome coronario agudo que presenta:",
       "o": ["Dolor torácico persistente", "Hipertensión arterial", "Sospecha de infarto de ventrículo derecho con hipotensión", "Frecuencia cardiaca de 80 lpm"],
       "a": 2,
-      "e": "Los nitratos se suspenden si hay hipotensión, bradicardia significativa o infarto de ventrículo derecho, que depende de la precarga."
+      "e": "Los nitratos se suspenden si hay hipotensión, bradicardia significativa o infarto de ventrículo derecho, que depende de la precarga.",
+      "por": ["El dolor persistente es indicación de nitratos.", "La hipertensión no los contraindica.", null, "80 lpm no los contraindica."]
     },
     {
       "q": "La complicación arrítmica más frecuente y letal en las primeras horas del infarto agudo de miocardio es:",
       "o": ["La fibrilación auricular", "La fibrilación ventricular", "El bloqueo de rama derecha", "La bradicardia sinusal"],
       "a": 1,
-      "e": "La fibrilación ventricular primaria es la principal causa de muerte súbita precoz: obliga a monitorización continua del ritmo."
+      "e": "La fibrilación ventricular primaria es la principal causa de muerte súbita precoz: obliga a monitorización continua del ritmo.",
+      "por": ["La FA no es la arritmia más letal precoz.", null, "El bloqueo de rama derecha no es la principal causa de muerte súbita.", "La bradicardia sinusal no es la más letal."]
     },
     {
       "q": "Según la guía ESC 2024, unas cifras de presión arterial de 132/84 mmHg se clasifican como:",
       "o": ["Presión arterial no elevada", "Hipertensión de grado 1", "Hipertensión de grado 2", "Presión arterial elevada"],
       "a": 3,
-      "e": "La ESC 2024 distingue PA no elevada (< 120/70), PA elevada (120-139/70-89) e hipertensión (≥ 140/90). En la PA elevada se empieza con cambios de estilo de vida durante unos 3 meses."
+      "e": "La ESC 2024 distingue PA no elevada (< 120/70), PA elevada (120-139/70-89) e hipertensión (≥ 140/90). En la PA elevada se empieza con cambios de estilo de vida durante unos 3 meses.",
+      "por": ["No elevada es por debajo de 120/70.", "La hipertensión de grado 1 empieza en 140/90.", "La hipertensión de grado 2 es aún más alta.", null]
     },
     {
       "q": "Para confirmar el diagnóstico de hipertensión arterial, la guía ESC 2024 recomienda:",
       "o": ["Mediciones fuera de la consulta mediante MAPA de 24 horas o AMPA domiciliaria", "Una única medición en consulta", "La medición en el brazo izquierdo exclusivamente", "Una analítica con perfil lipídico"],
       "a": 0,
-      "e": "Las mediciones fuera de la consulta evitan errores por hipertensión de bata blanca o enmascarada. Enfermería instruye en el uso correcto de los dispositivos."
+      "e": "Las mediciones fuera de la consulta evitan errores por hipertensión de bata blanca o enmascarada. Enfermería instruye en el uso correcto de los dispositivos.",
+      "por": [null, "Una sola medición en consulta no basta.", "No se mide exclusivamente en el brazo izquierdo.", "La analítica no confirma la hipertensión."]
     },
     {
       "q": "La recomendación de ingesta de sal para un paciente hipertenso es:",
       "o": ["Menos de 10 g/día", "Eliminar totalmente la sal", "Menos de 5 g/día (unos 2 g de sodio)", "Menos de 15 g/día"],
       "a": 2,
-      "e": "Además de limitar la sal, se recomienda dieta DASH rica en potasio, 150 minutos semanales de ejercicio aeróbico, mantener el IMC entre 20 y 25, limitar el alcohol (< 100 g/semana) y no fumar."
+      "e": "Además de limitar la sal, se recomienda dieta DASH rica en potasio, 150 minutos semanales de ejercicio aeróbico, mantener el IMC entre 20 y 25, limitar el alcohol (< 100 g/semana) y no fumar.",
+      "por": ["10 g es demasiado.", "No hace falta eliminarla del todo.", null, "15 g es excesivo."]
     },
     {
       "q": "La causa más frecuente de falsa resistencia (seudorresistencia) en la hipertensión arterial es:",
       "o": ["El hiperaldosteronismo", "La falta de adherencia al tratamiento", "La estenosis de la arteria renal", "El feocromocitoma"],
       "a": 1,
-      "e": "Antes de diagnosticar una HTA resistente hay que descartar la falta de adherencia, la mala técnica de medida, el manguito inadecuado o la falta de reposo. La entrevista motivacional ayuda a mejorar la adherencia."
+      "e": "Antes de diagnosticar una HTA resistente hay que descartar la falta de adherencia, la mala técnica de medida, el manguito inadecuado o la falta de reposo. La entrevista motivacional ayuda a mejorar la adherencia.",
+      "por": ["El hiperaldosteronismo es una HTA secundaria verdadera.", null, "La estenosis renal es una HTA secundaria verdadera.", "El feocromocitoma es una HTA secundaria verdadera."]
     },
     {
       "q": "En una estenosis valvular aórtica, el ventrículo izquierdo se adapta inicialmente mediante:",
       "o": ["Hipertrofia concéntrica por aumento de la poscarga", "Dilatación por aumento de la precarga", "Disminución de su grosor", "Aumento del volumen de la aurícula derecha"],
       "a": 0,
-      "e": "La estenosis dificulta la apertura y aumenta la poscarga (hipertrofia concéntrica); la insuficiencia provoca reflujo, aumenta la precarga y dilata el ventrículo. En la estenosis aórtica grave del anciano puede optarse por la TAVI."
+      "e": "La estenosis dificulta la apertura y aumenta la poscarga (hipertrofia concéntrica); la insuficiencia provoca reflujo, aumenta la precarga y dilata el ventrículo. En la estenosis aórtica grave del anciano puede optarse por la TAVI.",
+      "por": [null, "La dilatación por precarga es de las insuficiencias.", "El ventrículo se engrosa, no adelgaza.", "La estenosis aórtica afecta al ventrículo izquierdo."]
     },
     {
       "q": "Un índice tobillo-brazo de 0,75 indica:",
       "o": ["Normalidad", "Arterias calcificadas e incompresibles", "Un error de técnica", "Enfermedad arterial periférica"],
       "a": 3,
-      "e": "Un ITB ≤ 0,90 confirma la enfermedad arterial periférica; > 1,40 sugiere arterias incompresibles (rigidez, calcificación). Se calcula con la sistólica más alta de cada tobillo dividida entre la más alta de los brazos."
+      "e": "Un ITB ≤ 0,90 confirma la enfermedad arterial periférica; > 1,40 sugiere arterias incompresibles (rigidez, calcificación). Se calcula con la sistólica más alta de cada tobillo dividida entre la más alta de los brazos.",
+      "por": ["Normal es de 0,91 a 1,40.", "Las arterias incompresibles dan un ITB mayor de 1,40.", "0,75 es un valor válido.", null]
     },
     {
       "q": "En un paciente con enfermedad arterial periférica y claudicación intermitente, es correcto aconsejar:",
       "o": ["Reposo absoluto para evitar el dolor", "Aplicar bolsas de agua caliente en los pies", "Dejar de fumar y caminar hasta el umbral del dolor, descansar y repetir", "Usar calzado ajustado para mejorar la circulación"],
       "a": 2,
-      "e": "El ejercicio supervisado favorece la circulación colateral. Dejar de fumar es prioritario. Se educa en el cuidado de los pies y se evita el calor directo por el riesgo de quemaduras."
+      "e": "El ejercicio supervisado favorece la circulación colateral. Dejar de fumar es prioritario. Se educa en el cuidado de los pies y se evita el calor directo por el riesgo de quemaduras.",
+      "por": ["El reposo empeora la circulación colateral.", "El calor directo puede quemar.", null, "El calzado ajustado causa lesiones."]
     },
     {
       "q": "En la prevención del ictus en la fibrilación auricular, es correcto:",
       "o": ["La aspirina es una alternativa adecuada a la anticoagulación", "La anticoagulación se decide según la escala CHA₂DS₂-VASc, y los antiagregantes no deben sustituirla", "Ningún paciente con FA necesita anticoagulación", "La anticoagulación solo se indica en menores de 65 años"],
       "a": 1,
-      "e": "La FA favorece trombos en la orejuela izquierda e ictus cardioembólicos. La escala CHA₂DS₂-VASc orienta la anticoagulación (antivitamina K o anticoagulantes directos); la aspirina no es una alternativa."
+      "e": "La FA favorece trombos en la orejuela izquierda e ictus cardioembólicos. La escala CHA₂DS₂-VASc orienta la anticoagulación (antivitamina K o anticoagulantes directos); la aspirina no es una alternativa.",
+      "por": ["La aspirina no sustituye a la anticoagulación.", null, "Muchos pacientes con FA necesitan anticoagulación.", "El riesgo aumenta con la edad."]
     },
     {
       "q": "Al realizar un ECG, el electrodo de color rojo de las derivaciones de los miembros se coloca en:",
       "o": ["La muñeca derecha", "La muñeca izquierda", "El tobillo izquierdo", "El tobillo derecho"],
       "a": 0,
-      "e": "Rojo: brazo derecho; amarillo: brazo izquierdo; verde: pierna izquierda; negro: pierna derecha (tierra)."
+      "e": "Rojo: brazo derecho; amarillo: brazo izquierdo; verde: pierna izquierda; negro: pierna derecha (tierra).",
+      "por": [null, "La muñeca izquierda es el amarillo.", "El tobillo izquierdo es el verde.", "El tobillo derecho es el negro."]
     },
     {
       "q": "La derivación precordial V1 se coloca en:",
       "o": ["El 5.º espacio intercostal, línea medioclavicular izquierda", "El 5.º espacio intercostal, línea axilar media", "El 4.º espacio intercostal, en el borde paraesternal derecho", "El 4.º espacio intercostal, en el borde paraesternal izquierdo"],
       "a": 2,
-      "e": "V1: 4.º EIC paraesternal derecho; V2: 4.º EIC paraesternal izquierdo; V3: entre V2 y V4; V4: 5.º EIC línea medioclavicular; V5: línea axilar anterior; V6: línea axilar media."
+      "e": "V1: 4.º EIC paraesternal derecho; V2: 4.º EIC paraesternal izquierdo; V3: entre V2 y V4; V4: 5.º EIC línea medioclavicular; V5: línea axilar anterior; V6: línea axilar media.",
+      "por": ["5.º espacio en la línea medioclavicular es V4.", "5.º espacio en la línea axilar media es V6.", null, "4.º espacio paraesternal izquierdo es V2."]
     },
     {
       "q": "Ante un IAM inferior con hipotensión, para valorar la afectación del ventrículo derecho se realiza:",
       "o": ["La derivación V7", "Un ECG a 50 mm/s", "Las derivaciones V7-V9", "La derivación V4R"],
       "a": 3,
-      "e": "Las derivaciones derechas (sobre todo V4R) detectan el infarto de ventrículo derecho. Las posteriores (V7-V9) detectan el infarto posterior, que se sospecha por descenso del ST en V1-V3."
+      "e": "Las derivaciones derechas (sobre todo V4R) detectan el infarto de ventrículo derecho. Las posteriores (V7-V9) detectan el infarto posterior, que se sospecha por descenso del ST en V1-V3.",
+      "por": ["V7 es una derivación posterior.", "Cambiar la velocidad no valora el ventrículo derecho.", "V7-V9 detectan el infarto posterior.", null]
     },
     {
       "q": "La velocidad estándar del papel en un ECG es de:",
       "o": ["10 mm/s", "25 mm/s", "50 mm/s", "100 mm/s"],
       "a": 1,
-      "e": "La velocidad estándar es 25 mm/s (50 mm/s para taquicardias) y la calibración, 10 mm = 1 mV. Cada cuadrado pequeño equivale a 0,04 s y cada grande, a 0,20 s."
+      "e": "La velocidad estándar es 25 mm/s (50 mm/s para taquicardias) y la calibración, 10 mm = 1 mV. Cada cuadrado pequeño equivale a 0,04 s y cada grande, a 0,20 s.",
+      "por": ["10 mm/s no es la velocidad estándar.", null, "50 mm/s es para taquicardias.", "100 mm/s no se usa."]
     },
     {
       "q": "Si al tomar la tensión arterial se utiliza un manguito demasiado pequeño para el brazo del paciente, se obtendrán:",
       "o": ["Cifras falsamente elevadas", "Cifras falsamente bajas", "Cifras correctas", "Solo se altera la diastólica a la baja"],
       "a": 0,
-      "e": "El manguito pequeño sobreestima la PA y el grande la infraestima. La cámara debe cubrir aproximadamente el 40% del ancho y el 80% de la circunferencia del brazo."
+      "e": "El manguito pequeño sobreestima la PA y el grande la infraestima. La cámara debe cubrir aproximadamente el 40% del ancho y el 80% de la circunferencia del brazo.",
+      "por": [null, "Las cifras bajas son con manguito grande.", "El manguito pequeño altera la medida.", "Altera ambas cifras al alza."]
     },
     {
       "q": "En la medición de la presión arterial por el método auscultatorio, la presión diastólica corresponde a:",
       "o": ["La fase I de Korotkoff (aparición del primer ruido)", "La fase II (ruidos soplantes)", "La fase V de Korotkoff (desaparición de los ruidos)", "La fase III (ruidos intensos)"],
       "a": 2,
-      "e": "La fase I marca la sistólica y la fase V (desaparición), la diastólica. Se infla 20-30 mmHg por encima de la sistólica palpada y se desinfla a 2-3 mmHg por segundo."
+      "e": "La fase I marca la sistólica y la fase V (desaparición), la diastólica. Se infla 20-30 mmHg por encima de la sistólica palpada y se desinfla a 2-3 mmHg por segundo.",
+      "por": ["La fase I es la sistólica.", "La fase II no marca la diastólica.", null, "La fase III no marca la diastólica."]
     },
     {
       "q": "Para medir la presión venosa central, el transductor debe situarse a la altura del eje flebostático, que se localiza en:",
       "o": ["El 2.º espacio intercostal, línea medioclavicular", "La apófisis xifoides", "El 5.º espacio intercostal, línea axilar anterior", "El 4.º espacio intercostal, en la línea axilar media"],
       "a": 3,
-      "e": "El eje flebostático corresponde a la aurícula derecha. Si el transductor queda por encima, las presiones salen falsamente bajas y, por debajo, altas. Se hace el cero abriendo al aire y se lee al final de la espiración."
+      "e": "El eje flebostático corresponde a la aurícula derecha. Si el transductor queda por encima, las presiones salen falsamente bajas y, por debajo, altas. Se hace el cero abriendo al aire y se lee al final de la espiración.",
+      "por": ["El 2.º espacio está demasiado alto.", "La xifoides no es el eje flebostático.", "Es la línea axilar media del 4.º espacio.", null]
     },
     {
       "q": "Respecto al mantenimiento de una línea arterial radial, es correcto:",
       "o": ["Puede administrarse medicación en bolo por ella", "El sistema se mantiene permeable con un presurizador a 300 mmHg y lavado continuo, y nunca se administra medicación por la arteria", "No es necesario valorar la circulación colateral antes de canalizarla", "El presurizador se mantiene a 100 mmHg"],
       "a": 1,
-      "e": "La bolsa presurizada a 300 mmHg aporta un lavado continuo de unos 3 ml/h que evita la coagulación. Antes de canalizar la radial se realiza el test de Allen. La medicación por vía arterial puede causar necrosis."
+      "e": "La bolsa presurizada a 300 mmHg aporta un lavado continuo de unos 3 ml/h que evita la coagulación. Antes de canalizar la radial se realiza el test de Allen. La medicación por vía arterial puede causar necrosis.",
+      "por": ["Nunca se administra medicación por la arteria.", null, "Hay que hacer el test de Allen.", "El presurizador va a 300 mmHg."]
     },
     {
       "q": "En una parada cardiaca en fibrilación ventricular, según el algoritmo de SVA del ERC, la primera dosis de adrenalina se administra:",
       "o": ["Tras la tercera descarga, repitiéndose cada 3-5 minutos", "Antes de la primera descarga", "Nunca en los ritmos desfibrilables", "Tras la primera descarga, cada minuto"],
       "a": 0,
-      "e": "En los ritmos desfibrilables: descarga y RCP inmediata sin comprobar pulso; adrenalina 1 mg y amiodarona 300 mg tras la tercera descarga. En asistolia y AESP, la adrenalina se da en cuanto se disponga de acceso vascular."
+      "e": "En los ritmos desfibrilables: descarga y RCP inmediata sin comprobar pulso; adrenalina 1 mg y amiodarona 300 mg tras la tercera descarga. En asistolia y AESP, la adrenalina se da en cuanto se disponga de acceso vascular.",
+      "por": [null, "No se da antes de la primera descarga.", "Sí se da en los ritmos desfibrilables.", "No es tras la primera ni cada minuto."]
     },
     {
       "q": "Durante la RCP, una vez que el paciente está intubado, la secuencia correcta es:",
       "o": ["Mantener ciclos 30:2", "Ventilar a 20 respiraciones por minuto", "Detener las compresiones para cada ventilación", "Compresiones continuas a 100-120/min y unas 10 ventilaciones por minuto, sin hiperventilar"],
       "a": 3,
-      "e": "Con vía aérea avanzada las compresiones no se interrumpen y se ventila unas 10 veces por minuto. La hiperventilación aumenta la presión intratorácica y reduce el retorno venoso."
+      "e": "Con vía aérea avanzada las compresiones no se interrumpen y se ventila unas 10 veces por minuto. La hiperventilación aumenta la presión intratorácica y reduce el retorno venoso.",
+      "por": ["Con vía aérea avanzada ya no se hacen ciclos 30:2.", "20 por minuto es hiperventilar.", "No se detienen las compresiones.", null]
     },
     {
       "q": "En la colocación de los electrodos precordiales de la imagen, el electrodo rojo (V1) se coloca en el:",
       "o": ["4.º espacio intercostal, borde paraesternal derecho", "4.º espacio intercostal, borde paraesternal izquierdo", "5.º espacio intercostal, línea medioclavicular izquierda", "5.º espacio intercostal, línea axilar media"],
       "a": 0,
       "e": "V1 4.º EIC paraesternal derecho (rojo), V2 4.º EIC paraesternal izquierdo (amarillo), V3 entre V2 y V4 (verde), V4 5.º EIC medioclavicular (marrón), V5 axilar anterior (negro), V6 axilar media (violeta).",
-      "img": "img/preguntas/t41-electrodos.jpg"
+      "img": "img/preguntas/t41-electrodos.jpg",
+      "por": [null, "4.º espacio paraesternal izquierdo es V2.", "5.º espacio medioclavicular es V4.", "5.º espacio axilar media es V6."]
     },
     {
       "q": "Paciente de 78 años con palpitaciones y este trazado (RR irregular, sin ondas P). ¿Cuál es la complicación principal que hay que prevenir?",
       "o": ["Hipoglucemia", "Bloqueo AV completo", "Embolia sistémica (ictus)", "Hiperpotasemia"],
       "a": 2,
       "e": "Fibrilación auricular: la aurícula no se contrae y se forman trombos (orejuela izquierda). Se valora la anticoagulación con la escala CHA₂DS₂-VASc.",
-      "img": "img/preguntas/ecg-fa.svg"
+      "img": "img/preguntas/ecg-fa.svg",
+      "por": ["La FA no produce hipoglucemia.", "La complicación principal no es el bloqueo.", null, "La FA no produce hiperpotasemia."]
     },
     {
       "q": "¿Qué ritmo muestra este trazado, con la línea de base en «dientes de sierra»?",
       "o": ["Fibrilación auricular", "Taquicardia ventricular", "Ritmo sinusal", "Flutter auricular"],
       "a": 3,
       "e": "Flutter: ondas F regulares a ≈ 300/min, en dientes de sierra en II, III y aVF. Con conducción 2:1 la FC suele ser ≈ 150 lpm; aquí, 4:1 (≈ 75 lpm).",
-      "img": "img/preguntas/ecg-flutter.svg"
+      "img": "img/preguntas/ecg-flutter.svg",
+      "por": ["La FA tiene una línea de base irregular, sin dientes de sierra.", "La TV tiene QRS anchos.", "El ritmo sinusal tiene ondas P normales.", null]
     },
     {
       "q": "Dolor torácico opresivo de 30 minutos con este trazado en II, III y aVF. ¿Qué actuación es prioritaria?",
       "o": ["Activar el Código Infarto para la reperfusión urgente", "Repetir el ECG en 24 horas", "Administrar adenosina en bolo", "Cardioversión sincronizada"],
       "a": 0,
       "e": "Elevación del ST en derivaciones inferiores = IAMCEST inferior: reperfusión (ICP primaria) cuanto antes. En el inferior, registrar también V3R-V4R (ventrículo derecho).",
-      "img": "img/preguntas/ecg-elevacion-st.svg"
+      "img": "img/preguntas/ecg-elevacion-st.svg",
+      "por": [null, "Esperar 24 h retrasa la reperfusión.", "La adenosina es para taquicardias supraventriculares.", "La cardioversión no trata el infarto."]
     },
     {
       "q": "Trazado con ondas P y QRS disociados, sin relación entre ellos, y QRS anchos a ≈ 35 lpm. El diagnóstico es:",
       "o": ["BAV de 1.er grado", "BAV de 2.º grado Mobitz I", "Fibrilación auricular lenta", "BAV completo (3.er grado)"],
       "a": 3,
       "e": "Disociación AV completa con ritmo de escape ventricular lento y ancho: riesgo de síncope (Stokes-Adams). Tratamiento: marcapasos.",
-      "img": "img/preguntas/ecg-bav3.svg"
+      "img": "img/preguntas/ecg-bav3.svg",
+      "por": ["En el de 1.er grado todas las P conducen, con PR largo.", "En Mobitz I el PR se alarga hasta que una P no conduce.", "En la FA no hay ondas P.", null]
     },
     {
       "q": "En este ritmo sinusal aparece un latido adelantado, ancho, sin P previa y seguido de una pausa. Es una:",
       "o": ["Extrasístole auricular", "Extrasístole ventricular", "Onda P bloqueada", "Taquicardia ventricular"],
       "a": 1,
       "e": "Extrasístole ventricular: QRS prematuro y ancho, sin P, con pausa compensadora completa. Tres o más seguidas a > 100 lpm = taquicardia ventricular.",
-      "img": "img/preguntas/ecg-extrasistole.svg"
+      "img": "img/preguntas/ecg-extrasistole.svg",
+      "por": ["La extrasístole auricular tiene P previa y QRS estrecho.", null, "Una P bloqueada no genera un QRS ancho.", "Un latido aislado no es una taquicardia ventricular."]
     }
   ]
 }

@@ -1,0 +1,90 @@
+1|a|En el estadio 4 cumple por respeto a las normas, no por recompensa.
+1|b|El estadio 6 se guía por principios universales.
+1|d|En el estadio 3 busca la aprobación de los demás.
+2|b|El preconvencional es el de los niños.
+2|c|El posconvencional solo lo alcanza una minoría.
+2|d|Sensoriomotor es una etapa de Piaget, no de Kohlberg.
+3|a|Los niños enfermaban aunque la higiene fuera buena.
+3|c|La nutrición era adecuada.
+3|d|No lo atribuyó a la genética.
+4|a|No se describe en adolescentes.
+4|b|No se describe en ancianos.
+4|c|No depende de la prematuridad, sino de la separación.
+5|b|La sensoriomotora es la de la permanencia del objeto.
+5|c|En las operaciones concretas el niño ya supera el egocentrismo.
+5|d|Las operaciones formales son el pensamiento abstracto.
+6|a|Confianza frente a desconfianza es la del lactante.
+6|b|Identidad frente a confusión es la de la adolescencia.
+6|c|Intimidad frente a aislamiento es la del adulto joven.
+7|a|El viscerotónico corresponde al endomorfo.
+7|c|El somatotónico corresponde al mesomorfo.
+7|d|Pícnico es de la clasificación de Kretschmer, no de Sheldon.
+8|a|El TOC genera angustia (egodistónico); aquí no la hay.
+8|b|El trastorno límite se caracteriza por inestabilidad emocional.
+8|d|El esquizoide se caracteriza por el aislamiento afectivo.
+9|b|Ceder refuerza la conducta manipuladora.
+9|c|Negociar por separado favorece la manipulación.
+9|d|Las amenazas de autolesión nunca se ignoran.
+10|a|El grupo A es paranoide, esquizoide y esquizotípico.
+10|b|El grupo B es antisocial, límite, histriónico y narcisista.
+10|c|Sí es un trastorno de la personalidad.
+11|a|El conformismo y la supresión de la ira son del tipo C.
+11|c|La afectividad negativa con inhibición social es el tipo D.
+11|d|La tranquilidad es del tipo B.
+12|a|No se considera la causa directa del cáncer.
+12|b|La hostilidad es del tipo A.
+12|d|No se asocia a mayor esperanza de vida.
+13|b|Hostilidad y prisa son del tipo A.
+13|c|Conformismo y deseo de agradar son del tipo C.
+13|d|No es extraversión.
+14|a|La secundaria valora los recursos disponibles.
+14|b|La reevaluación corrige según los resultados.
+14|c|La fase de alarma es del modelo de Selye.
+15|a|El centrado en la emoción regula el malestar, no actúa sobre el problema.
+15|c|Informarse y planificar no es negar.
+15|d|No está evitando el problema.
+16|a|Si la situación no se puede cambiar, no domina el centrado en el problema.
+16|b|El instrumental es centrado en el problema.
+16|d|Preconvencional es de Kohlberg.
+17|b|Son fases del duelo de Kübler-Ross.
+17|c|Son fases del modelo transteórico.
+17|d|Son evaluaciones del modelo de Lazarus.
+18|a|La alarma depende del simpático y la adrenalina.
+18|b|El agotamiento es cuando se consumen las reservas.
+18|c|La reevaluación es de Lazarus.
+19|a|Con dolor intenso no puede aprender.
+19|c|La autorrealización es la necesidad más alta.
+19|d|La analgesia no se pospone.
+20|b|En la precontemplación no piensa cambiar.
+20|c|En la acción ya ha cambiado.
+20|d|En el mantenimiento sostiene el cambio más de 6 meses.
+21|a|En la contemplación aún duda y no ha dado pasos.
+21|b|En el mantenimiento ya lleva más de 6 meses sin fumar.
+21|d|No ha recaído: todavía no lo ha dejado.
+22|a|Una semana es fase de acción.
+22|b|Un mes es fase de acción.
+22|c|Tres meses sigue siendo acción.
+23|a|Edad, sexo y genética son solo la biología humana.
+23|c|No es esa la clasificación de Lalonde.
+23|d|Renta, educación y vivienda son determinantes sociales de otros modelos.
+24|b|El 11% de mortalidad y el 90% del gasto son del sistema sanitario.
+24|c|Es el determinante que más influye en la mortalidad.
+24|d|Recibe muy poco gasto.
+25|a|Esa es la capa central, no modificable.
+25|b|Los estilos de vida son las conductas individuales.
+25|d|Esa es la capa más externa.
+26|a|Reestructurar es modificar prácticas perjudiciales.
+26|b|Preservar es mantener las prácticas beneficiosas.
+26|c|Imponer va contra el modelo de Leininger.
+27|a|No es un problema de memoria, sino de adaptación al traslado.
+27|c|El riesgo de caídas no explica estos síntomas.
+27|d|La desesperanza no recoge el contexto del traslado.
+28|a|El focal es el que afronta directamente (la cirugía o la enfermedad).
+28|b|El residual son creencias o experiencias de efecto incierto.
+28|d|Interdependencia es un modo de adaptación, no un estímulo.
+29|b|Son las fases del modelo de Selye.
+29|c|Son modos de acción de Leininger.
+29|d|Son fases del modelo transteórico.
+30|a|La prevención de caídas no trata el estrés del traslado.
+30|b|La autoestima no es el problema principal.
+30|c|La planificación del alta es para irse a casa.

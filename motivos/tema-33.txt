@@ -1,0 +1,90 @@
+1|a|No son 1.000 mujeres ni 5 años: son 100 mujeres en 1 año.
+1|c|No mide el abandono, sino los embarazos.
+1|d|No es a lo largo de toda la vida fértil, sino en 1 año.
+2|a|La píldora depende de la toma diaria: los olvidos bajan mucho su efectividad.
+2|b|El preservativo tiene mucha diferencia por errores de uso.
+2|c|Los métodos naturales son los que más difieren entre uso perfecto y habitual.
+3|b|Categoría 1 es sin restricciones: 35 años o más y 15 o más cigarrillos es contraindicación.
+3|c|No es categoría 2: es riesgo inaceptable.
+3|d|El tabaco sí restringe los estrógenos a partir de los 35 años.
+4|a|La edad no rebaja la migraña con aura: es categoría 4 siempre.
+4|b|Aunque no fume, la migraña con aura sigue siendo categoría 4.
+4|d|No se pueden usar: el riesgo es de ictus, no se controla con la tensión.
+5|b|Los anticonceptivos hormonales no son espermicidas.
+5|c|La reacción inflamatoria endometrial es el mecanismo del DIU de cobre.
+5|d|El moco es un efecto secundario: el principal es inhibir la ovulación.
+6|a|La drospirenona (4.ª generación) tiene más riesgo trombótico.
+6|b|El desogestrel (3.ª generación) tiene más riesgo trombótico.
+6|c|El gestodeno (3.ª generación) tiene más riesgo trombótico.
+7|a|No se deja el envase por un solo olvido.
+7|c|Con un solo olvido de menos de 24 h no hace falta preservativo.
+7|d|Con un solo olvido no está indicada la anticoncepción de urgencia.
+8|a|No se toman todas: solo la última olvidada.
+8|b|Con dos olvidos sí hay que actuar y usar preservativo.
+8|d|No se suspende el envase.
+9|b|Hacer el descanso tras olvidos en la 3.ª semana deja sin protección.
+9|c|No hay que abandonar el método.
+9|d|No se hace descanso: se empalma el envase siguiente.
+10|a|No se desecha ni se espera a la regla: se reinserta.
+10|b|Más de 3 horas fuera obliga a usar preservativo 7 días.
+10|c|No se cambia a parche.
+11|a|Con 48 h o más despegado no basta con volver a pegarlo.
+11|c|Esperar al día de cambio deja sin protección.
+11|d|El parche despegado no protege: el límite es 48 h.
+12|a|El aumento de peso no es la causa principal de retirada.
+12|b|La cefalea no es la causa principal de retirada.
+12|d|El acné no es la causa principal de retirada.
+13|b|No hace falta retirar el DIU de entrada.
+13|c|La EIP siempre se trata con antibióticos.
+13|d|No se sustituye el DIU por tener una EIP.
+14|a|No es normal: puede haberse expulsado o perforado.
+14|b|No se inserta otro DIU sin saber dónde está el primero.
+14|c|La urgencia no es sistemática: primero hay que localizar el DIU.
+15|a|La vaselina daña el látex y favorece la rotura.
+15|c|Sí protege frente al VIH.
+15|d|Se coloca antes de cualquier contacto genital, no justo antes de eyacular.
+16|a|30 minutos es insuficiente para que mueran los espermatozoides.
+16|b|1 hora es insuficiente.
+16|d|Más de 24 h aumenta el riesgo de shock tóxico.
+17|a|No basta con no tener la regla: el bebé pasa de 6 meses.
+17|b|El MELA solo vale hasta los 6 meses.
+17|c|También pierde eficacia a partir de los 6 meses o si la lactancia no es exclusiva.
+18|b|La temperatura sube después de ovular: no predice la ovulación.
+18|c|La subida se debe a la progesterona, no a los estrógenos.
+18|d|No indica la menstruación: indica la fase lútea.
+19|a|No es eficaz el mismo día: quedan espermatozoides en la vía seminal.
+19|c|Una semana no basta: hace falta un seminograma negativo.
+19|d|Sí necesita un seminograma de control.
+20|a|12 horas es demasiado corto: el plazo es 72 h.
+20|b|24 horas es lo ideal, pero el plazo máximo es 72 h.
+20|d|7 días no: el levonorgestrel llega hasta 72 h.
+21|a|El levonorgestrel es menos eficaz y pierde eficacia con el sobrepeso.
+21|b|El ulipristal es eficaz, pero menos que el DIU de cobre.
+21|c|El método Yuzpe está en desuso y es el menos eficaz.
+22|b|Empezar enseguida un gestágeno anula el efecto del ulipristal.
+22|c|No hay que esperar a la segunda regla.
+22|d|No hay ninguna prohibición de 6 meses.
+23|a|No es abortiva: no actúa sobre un embarazo implantado.
+23|c|No destruye el óvulo fecundado.
+23|d|No es teratógena.
+24|a|La ley de 2023 quitó los 3 días de reflexión y el plazo es de 14 semanas.
+24|b|Hasta la semana 22 es por causa médica, no a petición.
+24|d|No es en cualquier momento de la gestación.
+25|b|Desde 2023 no necesita el consentimiento de los progenitores.
+25|c|No necesita autorización judicial.
+25|d|No tiene que esperar a los 18 años.
+26|a|El orden es al revés: primero mifepristona y después misoprostol.
+26|b|El misoprostol solo no es la pauta habitual.
+26|c|La oxitocina no se usa en la IVE farmacológica precoz.
+27|a|El exudado purulento es típico de la gonorrea; la clamidia suele ser asintomática.
+27|c|El chancro indoloro es de la sífilis.
+27|d|El exantema palmoplantar es de la sífilis secundaria.
+28|a|El chancro blando y doloroso es el chancroide.
+28|b|Las vesículas dolorosas son del herpes.
+28|d|Las verrugas son del VPH 6 y 11.
+29|a|La toma continua en personas VIH negativas es la PrEP, no la PEP.
+29|b|Pasadas 72 h ya no se inicia.
+29|c|No es dosis única: son 28 días.
+30|b|La citología anual no está en el programa.
+30|c|La citología cada 3 años es de los 25 a los 34 años.
+30|d|De los 25 a los 65 años sí le corresponde cribado.

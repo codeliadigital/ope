@@ -1,0 +1,90 @@
+1|a|Es de diciembre, no de noviembre.
+1|b|La Ley 41/2002 es la de autonomía del paciente.
+1|d|Es de 2006 y del día 14.
+2|b|El IMSERSO es una entidad gestora, no la red del SAAD.
+2|c|El Consejo Interterritorial es del SNS.
+2|d|Los servicios sociales comunitarios no son el SAAD.
+3|a|No lo financia la comunidad.
+3|b|No lo pagan los usuarios.
+3|c|El convenio corresponde al nivel acordado.
+4|a|Esa es la definición de autonomía.
+4|c|No es una ayuda temporal.
+4|d|Esas son actividades instrumentales.
+5|a|El grado I es ayuda una vez al día.
+5|b|El grado III requiere apoyo continuo.
+5|c|Sí tiene grado.
+6|b|Una vez al día es el grado I.
+6|c|Las tareas domésticas no definen el grado.
+6|d|El apoyo intermitente es el grado I.
+7|a|Sin grado es de 0 a 24.
+7|b|El grado II empieza en 50.
+7|d|El grado III empieza en 75.
+8|a|Las instrumentales no determinan el grado.
+8|c|No se basa solo en el diagnóstico.
+8|d|Los ingresos no determinan el grado.
+9|b|Las prestaciones económicas son excepcionales.
+9|c|También hay servicios.
+9|d|Se prioriza seguir en el domicilio.
+10|a|Es compatible con casi todo.
+10|b|No es solo para grandes dependientes.
+10|d|No sustituye a la ayuda a domicilio.
+11|a|Eso es la prestación por cuidados en el entorno familiar.
+11|b|Eso es la prestación de asistencia personal.
+11|c|No es por renunciar a los servicios.
+12|a|El límite es el tercer grado.
+12|c|El cuarto grado no está incluido.
+12|d|Sí hay límite.
+13|b|No basta con ser familia: el primo es de cuarto grado.
+13|c|La convivencia no cambia el grado de parentesco.
+13|d|El primo no es de segundo grado.
+14|a|Un mes no es el plazo.
+14|b|Tres meses no es el plazo.
+14|c|12 meses no es el plazo.
+15|a|15 días no es el plazo.
+15|b|6 meses no es el plazo.
+15|d|Un año no es el plazo.
+16|b|La preferencia por otro recurso no es causa de revisión del grado.
+16|c|El cambio de médico no es causa.
+16|d|El paso del tiempo no es causa por sí solo.
+17|a|Lo aplica un profesional, no el solicitante.
+17|c|A menores de 3 años se aplica la EVE.
+17|d|Puntúa sobre 100.
+18|a|El BVD es a partir de los 3 años.
+18|b|El Barthel no es el baremo oficial.
+18|c|Lawton valora las actividades instrumentales.
+19|a|Comer y vestirse valen hasta 10.
+19|b|Bañarse y arreglarse valen 5.
+19|d|La continencia vale hasta 10.
+20|b|Leve es 60 o más.
+20|c|Moderada es 40-55.
+20|d|Independencia es 100.
+21|a|La independencia en todas es A.
+21|b|Dependencia solo en el baño es B.
+21|c|Dependencia en una función es B.
+22|a|Las básicas se valoran con Barthel o Katz.
+22|c|Las úlceras se valoran con Braden.
+22|d|La sobrecarga se valora con Zarit.
+23|a|30 es el MMSE de Folstein.
+23|b|10 es el Pfeiffer.
+23|d|100 es el Barthel.
+24|b|Normal es 0-2 errores.
+24|c|Leve es 3-4 errores.
+24|d|Grave es 8-10 errores.
+25|a|El mínimo es 5.
+25|b|7-9 no es riesgo alto.
+25|c|10 no es riesgo alto.
+26|a|17 o más es sobrecarga.
+26|c|La versión abreviada no distingue la leve.
+26|d|No hace falta repetirla.
+27|a|Las curas de rutina son de la enfermera de primaria.
+27|b|No sustituye al médico.
+27|d|El baremo lo aplica el IMAS.
+28|b|Los líquidos se espesan.
+28|c|En supino aumenta el riesgo de aspiración.
+28|d|La pajita aumenta el riesgo de aspiración.
+29|a|Tumbado favorece la aspiración.
+29|b|El Trendelenburg favorece la aspiración.
+29|c|El prono no está indicado.
+30|a|Sí protege la jubilación.
+30|c|Sí protege la incapacidad permanente.
+30|d|Sí protege la muerte y supervivencia.

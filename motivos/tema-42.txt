@@ -1,0 +1,90 @@
+1|a|En la gestante la creatinina normal es más baja: 0,9 es anormal.
+1|c|No es baja: es alta para el embarazo.
+1|d|Importa en cualquier trimestre.
+2|a|El timpánico es del gas intestinal.
+2|b|El hiperresonante es del pulmón enfisematoso o neumotórax.
+2|c|El sonido metálico no es el de la vejiga llena.
+3|b|1+ son unos 2 mm.
+3|c|3+ son unos 6 mm.
+3|d|4+ son 8 mm o más.
+4|a|La diuresis de un día aislado es poco fiable.
+4|b|El color de la orina es poco preciso.
+4|d|La sed es subjetiva.
+5|b|No basta la primera orina: hay que recoger 24 horas.
+5|c|Es al revés: la primera del día 1 se desecha.
+5|d|No son muestras cada 6 horas.
+6|a|La deambulación inmediata favorece el sangrado.
+6|b|El prono es para la punción; el reposo es en supino.
+6|c|Requiere observación.
+7|a|La posrenal es menos frecuente.
+7|c|La necrosis tubular es menos frecuente que la prerrenal.
+7|d|La glomerulonefritis es poco frecuente.
+8|a|Tres veces la basal es estadio 3.
+8|b|Anuria de 12 horas es estadio 3.
+8|d|La diálisis es estadio 3.
+9|b|3 litros causaría sobrecarga.
+9|c|No es una cantidad fija.
+9|d|No se repone solo la mitad.
+10|a|1,5 mg/dl no es indicación de diálisis urgente.
+10|b|1.000 ml/día no es oliguria.
+10|c|4,8 mEq/l es normal.
+11|a|La hemodiálisis intermitente empeora la hipotensión.
+11|c|La diálisis peritoneal no es de elección en el paciente crítico.
+11|d|El trasplante no es una técnica urgente.
+12|a|Freír no elimina el potasio.
+12|b|Crudas conservan todo el potasio.
+12|d|Al vapor no se pierde el potasio.
+13|b|En ayunas no se une al fósforo de los alimentos.
+13|c|Lejos de las comidas no actúa.
+13|d|Se toma de forma pautada, no según el picor.
+14|a|La hematuria con cilindros es del nefrítico.
+14|b|La creatinina alta no define el nefrótico.
+14|c|La glucosuria no define el nefrótico.
+15|a|El nefrótico no cursa con hematuria e HTA así.
+15|c|El cólico es dolor lumbar por un cálculo.
+15|d|La infección baja no da edema ni HTA.
+16|a|Se aplica calor, no frío.
+16|b|No se restringen los líquidos de forma estricta.
+16|d|El paciente con cólico no encuentra postura.
+17|b|Hay que beber mucha agua.
+17|c|Frutas y verduras alcalinizan la orina y ayudan.
+17|d|Los cereales integrales no son el problema.
+18|a|El Alzheimer es de inicio insidioso, no brusco.
+18|b|El ictus no es la primera sospecha en todos los casos.
+18|c|Un trastorno psicótico primario no es la primera sospecha en un anciano.
+19|a|El ciprofloxacino no es de primera línea.
+19|c|No se usa la vía intravenosa en la cistitis no complicada.
+19|d|La gentamicina no es de primera línea.
+20|a|Primero hay que resolver la obstrucción.
+20|b|Aumentar el lavado con obstrucción distiende la vejiga.
+20|d|No se retira la sonda.
+21|b|La epididimitis tiene Prehn positivo y no es tan brusca.
+21|c|Una semana es demasiado tarde.
+21|d|El calor y la observación retrasan la cirugía.
+22|a|Un calibre menor no evita el daño uretral.
+22|b|Más lubricante no lo evita.
+22|c|La Tiemann tampoco evita el daño.
+23|a|El suero puede cristalizar.
+23|c|El aire hace que el balón flote.
+23|d|La glucosada puede cristalizar.
+24|a|La Nélaton es para sondaje intermitente.
+24|b|La Couvelaire es para la hematuria con coágulos.
+24|d|La Malecot es quirúrgica.
+25|a|El vaciado brusco causa hematuria e hipotensión.
+25|b|No se espera: hay que vaciarla.
+25|c|100 ml es insuficiente.
+26|b|No hay fiebre.
+26|c|El Trendelenburg solo no corrige la atonía.
+26|d|12 horas es demasiado: el límite es 6 horas.
+27|a|Cerrar el lavado favorece los coágulos.
+27|c|Disminuir el ritmo favorece los coágulos.
+27|d|No se retira la sonda.
+28|a|El moco no indica infección.
+28|b|No indica obstrucción.
+28|d|No indica rechazo.
+29|a|No se toma la TA en ese brazo.
+29|b|No se extrae sangre de ese brazo.
+29|c|No se canalizan vías en ese brazo.
+30|b|No es normal tras las comidas.
+30|c|El calentamiento no enturbia el líquido.
+30|d|La deshidratación no lo enturbia.

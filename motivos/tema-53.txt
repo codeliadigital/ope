@@ -1,0 +1,93 @@
+1|a|El masaje daña los capilares.
+1|c|Con eritema que no blanquea tampoco se masajea.
+1|d|El alcohol reseca la piel.
+2|a|Frotar daña el tejido de granulación.
+2|b|Una jeringa de 5 ml da demasiada presión.
+2|c|El chorro del grifo no controla la presión.
+3|b|El hidrogel con apósito secundario es compatible.
+3|c|El suero con alginato es compatible.
+3|d|La película barrera con espuma es compatible.
+4|a|24 sería si todas puntuaran hasta 4.
+4|b|20 es el máximo de Norton.
+4|d|18 no es el máximo.
+5|a|17 o más es sin riesgo o bajo.
+5|b|15-16 es riesgo bajo.
+5|c|13-14 es riesgo moderado.
+6|a|5-9 es riesgo muy alto.
+6|c|10-12 es riesgo alto.
+6|d|13-14 es riesgo medio.
+7|b|Sí valora la incontinencia.
+7|c|No es solo para neonatos.
+7|d|No incluye la fricción.
+8|a|No valora la edad gestacional.
+8|b|No valora el peso al nacer.
+8|d|El estado mental no es lo que añade.
+9|a|La categoría I es eritema con piel intacta.
+9|b|La III tiene pérdida total del grosor de la piel.
+9|c|La IV expone hueso o músculo.
+10|b|La categoría I es roja, no púrpura.
+10|c|La dermatitis por incontinencia no es así.
+10|d|Una úlcera venosa no es así.
+11|a|No se clasifican como categoría II.
+11|c|No se clasifican como no estadiables.
+11|d|No es el tratamiento indicado.
+12|a|No se desbrida una escara estable en el talón.
+12|b|La colagenasa la ablandaría y desprotegería el talón.
+12|d|No se ablanda.
+13|b|A 90° se apoya sobre el trocánter.
+13|c|60° es demasiado.
+13|d|180° no es un decúbito lateral.
+14|a|No son de elección.
+14|b|Tampoco sentados.
+14|c|No se usan en ningún caso.
+15|a|La categoría II con poco exudado es una indicación.
+15|b|La prevención por fricción es una indicación.
+15|d|Las superficiales limpias son una indicación.
+16|a|En heridas secas se adhiere.
+16|c|Sin exudado no está indicado.
+16|d|No es oclusivo ni para anaerobios.
+17|b|La albúmina tarda unos 20 días en cambiar.
+17|c|La hemoglobina no valora la nutrición reciente.
+17|d|El colesterol no es el más útil.
+18|a|La UPP aparece sobre prominencias óseas.
+18|b|La lesión profunda es púrpura y localizada.
+18|c|La úlcera arterial es distal.
+19|a|Tirar rápido a 90° arranca la epidermis.
+19|b|Se tira a favor del vello.
+19|d|El alcohol reseca la piel.
+20|b|La arterial es distal y pálida.
+20|c|La neuropática es plantar.
+20|d|La UPP está sobre prominencias.
+21|a|En la venosa el dolor mejora al elevar la pierna.
+21|c|La dermatitis no produce ese patrón de dolor.
+21|d|Tampoco la úlcera por humedad.
+22|a|No es normal: el rango normal es 0,9-1,3.
+22|b|La isquemia crítica es menor de 0,5.
+22|c|La arteriopatía leve es menor de 0,9.
+23|a|No es normal.
+23|b|No indica insuficiencia venosa.
+23|d|Con menos de 0,5 la compresión está contraindicada.
+24|b|En el muslo la presión es menor.
+24|c|Con menos capas la presión es menor.
+24|d|Con menos tensión la presión es menor.
+25|a|El desbridamiento sin riego puede gangrenar la herida.
+25|c|El calor puede quemar.
+25|d|Elevar la pierna empeora la isquemia.
+26|a|A es limpia.
+26|b|B es infectada.
+26|c|C es isquémica.
+27|a|La colagenasa no controla el olor.
+27|b|El alcohol no está indicado.
+27|d|El hidrocoloide favorece a los anaerobios.
+28|b|La de primer grado no tiene flictenas.
+28|c|La de segundo grado profundo es blanquecina y duele menos.
+28|d|La de tercer grado es indolora.
+29|a|2 ml es para térmicas y químicas.
+29|b|1 ml no es la pauta.
+29|c|30 ml/kg es para la sepsis.
+30|a|La quemadura solar no se deriva.
+30|c|El 3% superficial en muslo no cumple criterios.
+30|d|Una flictena pequeña no se deriva.
+31|a|La categoría I tiene la piel intacta.
+31|b|La II tiene pérdida parcial, sin grasa visible.
+31|d|La IV expone hueso, tendón o músculo.

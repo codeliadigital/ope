@@ -7,181 +7,211 @@
       "q": "En la revisión de un niño de 2 años, su talla se sitúa en el percentil 3, igual que en todos los controles previos. ¿Cuál es la interpretación correcta?",
       "o": ["Debe iniciarse un estudio de malabsorción de forma inmediata", "Un percentil bajo aislado y estable no es patológico; lo que alarma es cruzar percentiles o la caída de la velocidad de crecimiento", "Indica siempre un déficit de hormona del crecimiento", "Debe derivarse a endocrinología pediátrica de forma urgente"],
       "a": 1,
-      "e": "El percentil es una medida de distribución, no de salud. Un niño que crece de forma constante en su carril, aunque sea el percentil 3, puede estar sano. Lo que orienta a patología es el cruce de percentiles en controles sucesivos o la desaceleración de la velocidad de crecimiento (cm/año)."
+      "e": "El percentil es una medida de distribución, no de salud. Un niño que crece de forma constante en su carril, aunque sea el percentil 3, puede estar sano. Lo que orienta a patología es el cruce de percentiles en controles sucesivos o la desaceleración de la velocidad de crecimiento (cm/año).",
+      "por": ["Un percentil bajo estable no justifica estudiar la malabsorción.", null, "No indica siempre un déficit de hormona del crecimiento.", "Sin cruce de percentiles no hace falta derivar con urgencia."]
     },
     {
       "q": "Respecto al test de Denver II, es correcto:",
       "o": ["Es un test de inteligencia que proporciona el cociente intelectual", "Evalúa únicamente la motricidad gruesa", "Solo se aplica a partir de los 6 años", "Valora la maduración en cuatro áreas: personal-social, motor fino-adaptativa, lenguaje y motor grueso"],
       "a": 3,
-      "e": "El Denver II (como la tabla Haizea-Llevant) es una prueba de cribado del desarrollo, no de inteligencia. Explora cuatro áreas: personal-social, motor fino-adaptativa, lenguaje y motor grueso."
+      "e": "El Denver II (como la tabla Haizea-Llevant) es una prueba de cribado del desarrollo, no de inteligencia. Explora cuatro áreas: personal-social, motor fino-adaptativa, lenguaje y motor grueso.",
+      "por": ["No es un test de inteligencia ni da un cociente intelectual.", "Evalúa cuatro áreas, no solo la motricidad gruesa.", "Se aplica desde el nacimiento hasta los 6 años.", null]
     },
     {
       "q": "¿Cuál de los siguientes hallazgos constituye una señal de alarma del desarrollo psicomotor?",
       "o": ["No se sienta sin apoyo a los 5 meses", "No camina solo a los 12 meses", "No camina de forma autónoma a los 18 meses", "No ha gateado a los 9 meses"],
       "a": 2,
-      "e": "La marcha autónoma suele adquirirse entre los 12 y 15 meses; no caminar a los 18 meses es una señal de alarma. La sedestación sin apoyo es esperable a los 6-7 meses (alarma a los 9) y el gateo puede no darse en niños sanos."
+      "e": "La marcha autónoma suele adquirirse entre los 12 y 15 meses; no caminar a los 18 meses es una señal de alarma. La sedestación sin apoyo es esperable a los 6-7 meses (alarma a los 9) y el gateo puede no darse en niños sanos.",
+      "por": ["A los 5 meses aún no se espera la sedestación sin apoyo.", "A los 12 meses muchos niños sanos aún no caminan.", null, "El gateo puede no darse en niños sanos."]
     },
     {
       "q": "Sobre la erupción dentaria temporal, es correcto:",
       "o": ["El primer diente en salir es el primer molar, hacia los 4 meses", "El primer diente es el incisivo central superior, hacia los 3 meses", "Los caninos son los primeros en erupcionar, hacia los 6 meses", "El primer diente suele ser el incisivo central inferior, hacia los 6-8 meses"],
       "a": 3,
-      "e": "La erupción comienza con el incisivo central inferior hacia los 6-8 meses. El orden es incisivos, primeros molares, caninos y segundos molares. Si a los 12-14 meses no ha salido ningún diente, se estudia (hipotiroidismo, raquitismo, displasias)."
+      "e": "La erupción comienza con el incisivo central inferior hacia los 6-8 meses. El orden es incisivos, primeros molares, caninos y segundos molares. Si a los 12-14 meses no ha salido ningún diente, se estudia (hipotiroidismo, raquitismo, displasias).",
+      "por": ["El primer molar sale después de los incisivos.", "El incisivo superior no sale a los 3 meses.", "Los caninos salen después de los primeros molares.", null]
     },
     {
       "q": "¿Cuál de las siguientes prestaciones NO está incluida en el Programa de Atención Dental Infantil (PADI) de la Región de Murcia?",
       "o": ["La ortodoncia", "El sellado de fisuras de molares permanentes", "La revisión anual de la cavidad oral", "La extracción de dientes temporales"],
       "a": 0,
-      "e": "El PADI incluye revisión anual, educación sanitaria, flúor tópico en alto riesgo, sellados, tartrectomía, obturaciones y endodoncias de dientes permanentes, extracciones y traumatismos. Nunca incluye la ortodoncia ni los empastes de dientes temporales."
+      "e": "El PADI incluye revisión anual, educación sanitaria, flúor tópico en alto riesgo, sellados, tartrectomía, obturaciones y endodoncias de dientes permanentes, extracciones y traumatismos. Nunca incluye la ortodoncia ni los empastes de dientes temporales.",
+      "por": [null, "El sellado de fisuras sí está incluido.", "La revisión anual sí está incluida.", "La extracción de dientes temporales sí está incluida."]
     },
     {
       "q": "Un niño de 8 años incluido en el PADI presenta una caries en un molar temporal. Según el programa:",
       "o": ["Se financia la obturación del molar temporal", "Se financia la endodoncia del molar temporal", "No se financia la obturación del diente temporal; sí su extracción si no es viable", "Se financia la colocación de una corona"],
       "a": 2,
-      "e": "El PADI prioriza la dentición definitiva: las obturaciones y endodoncias solo se cubren en dientes permanentes. De los dientes temporales solo se financia la extracción."
+      "e": "El PADI prioriza la dentición definitiva: las obturaciones y endodoncias solo se cubren en dientes permanentes. De los dientes temporales solo se financia la extracción.",
+      "por": ["La obturación de dientes temporales no se financia.", "La endodoncia de dientes temporales no se financia.", null, "Las coronas no están en el PADI."]
     },
     {
       "q": "Desde la erupción del primer diente hasta los 2 años, la recomendación de pasta dental es:",
       "o": ["No usar pasta fluorada hasta los 6 años", "Pasta de 1.000 ppm de flúor en cantidad mínima (grano de arroz)", "Pasta de 1.450 ppm en cantidad similar a un guisante", "Pasta de 500 ppm y enjuagar con abundante agua"],
       "a": 1,
-      "e": "Desde el primer diente se usa pasta de 1.000 ppm en una cantidad mínima (grano de arroz). De 2 a 6 años, la cantidad de un guisante (1.000-1.450 ppm) y por encima de los 6 años, 1.450 ppm y 1-2 cm de pasta."
+      "e": "Desde el primer diente se usa pasta de 1.000 ppm en una cantidad mínima (grano de arroz). De 2 a 6 años, la cantidad de un guisante (1.000-1.450 ppm) y por encima de los 6 años, 1.450 ppm y 1-2 cm de pasta.",
+      "por": ["Sí se usa pasta fluorada desde el primer diente.", null, "La cantidad de un guisante es para 2-6 años.", "500 ppm es insuficiente y no se enjuaga."]
     },
     {
       "q": "Sobre el cepillado dental en la infancia, es correcto:",
       "o": ["Tras el cepillado hay que enjuagar abundantemente con agua", "El cepillado más importante es el de la mañana", "La supervisión de los padres es necesaria solo hasta los 3 años", "Se debe escupir sin enjuagar y el cepillado nocturno es el más importante"],
       "a": 3,
-      "e": "Tras el cepillado se escupe sin enjuagar para que el flúor actúe sobre el esmalte. El nocturno es el más importante porque durante el sueño disminuye la saliva. Los padres supervisan el cepillado hasta los 8 años aproximadamente."
+      "e": "Tras el cepillado se escupe sin enjuagar para que el flúor actúe sobre el esmalte. El nocturno es el más importante porque durante el sueño disminuye la saliva. Los padres supervisan el cepillado hasta los 8 años aproximadamente.",
+      "por": ["No hay que enjuagar: el flúor debe actuar.", "El más importante es el nocturno.", "La supervisión se mantiene hasta los 8 años aproximadamente.", null]
     },
     {
       "q": "Para prevenir la dermatitis del pañal se recomienda:",
       "o": ["Aplicar polvos de talco en cada cambio", "Usar toallitas con alcohol y perfume", "Cambios frecuentes, limpiar preferentemente con agua y dejar la zona al aire", "Espaciar los cambios para no irritar la piel"],
       "a": 2,
-      "e": "La dermatitis del pañal se debe a la maceración y al contacto con heces y orina. Se previene con cambios frecuentes, limpieza con agua y aireación. El talco está contraindicado por el riesgo de inhalación y neumonitis química."
+      "e": "La dermatitis del pañal se debe a la maceración y al contacto con heces y orina. Se previene con cambios frecuentes, limpieza con agua y aireación. El talco está contraindicado por el riesgo de inhalación y neumonitis química.",
+      "por": ["El talco está contraindicado por riesgo de inhalación.", "El alcohol y el perfume irritan la piel.", null, "Espaciar los cambios aumenta la maceración."]
     },
     {
       "q": "¿En cuál de estas situaciones está contraindicado el colecho?",
       "o": ["Madre que amamanta a su hijo", "Padres fumadores, aunque no fumen en la habitación", "Lactante a término sano", "Cama de adultos con colchón firme"],
       "a": 1,
-      "e": "El colecho está contraindicado si los padres fuman (aunque no lo hagan en la habitación), han consumido alcohol, drogas o psicofármacos, si el bebé es prematuro o de bajo peso, o si se practica en sofás o sillones."
+      "e": "El colecho está contraindicado si los padres fuman (aunque no lo hagan en la habitación), han consumido alcohol, drogas o psicofármacos, si el bebé es prematuro o de bajo peso, o si se practica en sofás o sillones.",
+      "por": ["La lactancia materna no contraindica el colecho.", null, "Un lactante a término sano no lo contraindica.", "Un colchón firme no lo contraindica."]
     },
     {
       "q": "El calostro se caracteriza por:",
       "o": ["Ser la leche más rica en grasa y de mayor volumen", "Producirse a partir del día 15 posparto", "Tener un contenido muy bajo en inmunoglobulinas", "Su elevado contenido en IgA secretora y lactoferrina"],
       "a": 3,
-      "e": "El calostro (3-5 primeros días) es espeso y amarillento, de poco volumen y muy rico en IgA secretora, lactoferrina y células defensivas (la «primera vacuna»). Facilita la expulsión del meconio. La leche de transición va del día 5 al 14 y la madura, desde el día 15."
+      "e": "El calostro (3-5 primeros días) es espeso y amarillento, de poco volumen y muy rico en IgA secretora, lactoferrina y células defensivas (la «primera vacuna»). Facilita la expulsión del meconio. La leche de transición va del día 5 al 14 y la madura, desde el día 15.",
+      "por": ["El calostro es escaso y no es el más rico en grasa.", "El día 15 empieza la leche madura.", "El calostro es muy rico en inmunoglobulinas.", null]
     },
     {
       "q": "Según la OMS, la recomendación de actividad física para niños y adolescentes es:",
       "o": ["Al menos 60 minutos diarios de intensidad moderada a vigorosa, con actividades de fortalecimiento muscular y óseo al menos 3 días por semana", "150 minutos semanales, que pueden concentrarse en el fin de semana", "30 minutos diarios de intensidad ligera", "Solo natación y ciclismo, por ser deportes sin impacto"],
       "a": 0,
-      "e": "La OMS recomienda una media de 60 minutos diarios de actividad moderada a vigorosa y fortalecimiento muscular y óseo al menos 3 días por semana. El ejercicio del fin de semana no compensa el sedentarismo diario y, para el hueso, son mejores las actividades de impacto (Ley de Wolff)."
+      "e": "La OMS recomienda una media de 60 minutos diarios de actividad moderada a vigorosa y fortalecimiento muscular y óseo al menos 3 días por semana. El ejercicio del fin de semana no compensa el sedentarismo diario y, para el hueso, son mejores las actividades de impacto (Ley de Wolff).",
+      "por": [null, "El fin de semana no compensa el sedentarismo diario.", "30 minutos de intensidad ligera es insuficiente.", "El hueso necesita también actividades de impacto."]
     },
     {
       "q": "¿Cuál de las siguientes es una contraindicación verdadera de la lactancia materna?",
       "o": ["Mastitis materna", "Madre portadora de hepatitis B con el niño inmunizado", "Galactosemia clásica en el recién nacido", "Ictericia fisiológica del recién nacido"],
       "a": 2,
-      "e": "Las contraindicaciones reales son muy pocas: VIH materno (en países desarrollados), HTLV I/II, galactosemia clásica del niño y consumo materno de drogas de abuso, antineoplásicos o radiofármacos. La mastitis y la hepatitis B (con el niño inmunizado) no contraindican la lactancia."
+      "e": "Las contraindicaciones reales son muy pocas: VIH materno (en países desarrollados), HTLV I/II, galactosemia clásica del niño y consumo materno de drogas de abuso, antineoplásicos o radiofármacos. La mastitis y la hepatitis B (con el niño inmunizado) no contraindican la lactancia.",
+      "por": ["La mastitis no contraindica la lactancia.", "Con el niño inmunizado, la hepatitis B no la contraindica.", null, "La ictericia fisiológica no la contraindica."]
     },
     {
       "q": "Las espinacas y las acelgas no deben ofrecerse antes del año de vida porque:",
       "o": ["Son muy alergénicas", "Pueden contener esporas de Clostridium botulinum", "Provocan una sobrecarga renal de proteínas", "Su contenido en nitratos puede causar metahemoglobinemia"],
       "a": 3,
-      "e": "Los nitratos de las verduras de hoja verde se transforman en nitritos, que oxidan la hemoglobina a metahemoglobina (cianosis, «bebé azul»). El botulismo es el riesgo de la miel y la sobrecarga renal, el de la leche de vaca entera."
+      "e": "Los nitratos de las verduras de hoja verde se transforman en nitritos, que oxidan la hemoglobina a metahemoglobina (cianosis, «bebé azul»). El botulismo es el riesgo de la miel y la sobrecarga renal, el de la leche de vaca entera.",
+      "por": ["No es por alergia.", "Las esporas de botulismo son el riesgo de la miel.", "La sobrecarga renal es por la leche de vaca entera.", null]
     },
     {
       "q": "Respecto a los alimentos potencialmente alergénicos (huevo, pescado) en la alimentación complementaria, la recomendación actual es:",
       "o": ["Retrasarlos hasta los 12-18 meses para prevenir alergias", "No introducirlos antes de los 3 años", "Introducirlos sin retrasarlos, a partir de los 6 meses, para favorecer la tolerancia", "Evitarlos hasta los 2 años si hay antecedentes familiares de alergia"],
       "a": 2,
-      "e": "Retrasar la introducción de los alérgenos no previene la alergia y puede aumentarla. Se recomienda introducirlos a partir de los 6 meses, de uno en uno, para inducir tolerancia. El gluten se introduce entre los 4 y 11 meses en pequeñas cantidades."
+      "e": "Retrasar la introducción de los alérgenos no previene la alergia y puede aumentarla. Se recomienda introducirlos a partir de los 6 meses, de uno en uno, para inducir tolerancia. El gluten se introduce entre los 4 y 11 meses en pequeñas cantidades.",
+      "por": ["Retrasarlos no previene la alergia y puede aumentarla.", "No se esperan 3 años.", null, "Los antecedentes familiares no justifican retrasarlos."]
     },
     {
       "q": "La primera causa de muerte accidental en los menores de 1 año es:",
       "o": ["La asfixia (atragantamiento o sueño inseguro)", "Los accidentes de tráfico", "El ahogamiento en piscinas", "Las intoxicaciones por medicamentos"],
       "a": 0,
-      "e": "En el lactante predomina la asfixia: aspiración de cuerpos extraños, mala postura al dormir o colecho inseguro. A partir del año, la primera causa son los accidentes de tráfico; las intoxicaciones predominan entre 1 y 4 años."
+      "e": "En el lactante predomina la asfixia: aspiración de cuerpos extraños, mala postura al dormir o colecho inseguro. A partir del año, la primera causa son los accidentes de tráfico; las intoxicaciones predominan entre 1 y 4 años.",
+      "por": [null, "Los accidentes de tráfico son la primera causa a partir del año.", "El ahogamiento no es la primera causa en el lactante.", "Las intoxicaciones predominan entre 1 y 4 años."]
     },
     {
       "q": "Un niño de 2 años ha ingerido lejía. Los padres llaman al centro de salud. La indicación correcta es:",
       "o": ["Provocar el vómito para eliminar el tóxico", "Darle leche para neutralizar el cáustico", "Darle agua abundante para diluirlo", "No provocar el vómito, llamar al Servicio de Información Toxicológica y acudir al hospital con el envase"],
       "a": 3,
-      "e": "Ante cáusticos nunca se provoca el vómito: el producto volvería a quemar el esófago y existe riesgo de aspiración. Tampoco se dan leche, agua ni remedios caseros. Se llama al Servicio de Información Toxicológica y se traslada al niño con el envase."
+      "e": "Ante cáusticos nunca se provoca el vómito: el producto volvería a quemar el esófago y existe riesgo de aspiración. Tampoco se dan leche, agua ni remedios caseros. Se llama al Servicio de Información Toxicológica y se traslada al niño con el envase.",
+      "por": ["Provocar el vómito vuelve a quemar el esófago.", "La leche no neutraliza el cáustico.", "El agua abundante puede provocar el vómito.", null]
     },
     {
       "q": "Para calcular la superficie corporal quemada en un lactante, el método más adecuado es:",
       "o": ["La regla de los 9 de Wallace", "La tabla de Lund y Browder", "La regla de la palma de la mano en todos los casos", "El índice de Baux"],
       "a": 1,
-      "e": "La regla de los 9 no se ajusta a las proporciones del niño, cuya cabeza es mucho mayor (≈ 18-19% en el lactante). La tabla de Lund y Browder ajusta los porcentajes según la edad."
+      "e": "La regla de los 9 no se ajusta a las proporciones del niño, cuya cabeza es mucho mayor (≈ 18-19% en el lactante). La tabla de Lund y Browder ajusta los porcentajes según la edad.",
+      "por": ["La regla de los 9 no se ajusta a las proporciones del niño.", null, "La palma de la mano sirve para quemaduras dispersas, no en todos los casos.", "El índice de Baux es un pronóstico del adulto."]
     },
     {
       "q": "La normativa de sistemas de retención infantil R129 (i-Size) se caracteriza por:",
       "o": ["Clasificar las sillas por peso y permitir ir a favor de la marcha desde los 9 kg", "Clasificar las sillas por edad del niño", "Clasificar las sillas por altura y obligar a viajar a contramarcha al menos hasta los 15 meses", "Prohibir los anclajes ISOFIX"],
       "a": 2,
-      "e": "La i-Size clasifica por estatura, obliga a la contramarcha hasta al menos los 15 meses (se recomienda hasta los 4 años), usa ISOFIX y exige pruebas de impacto lateral. La antigua R44/04 clasificaba por peso (grupos 0, 0+, I, II y III)."
+      "e": "La i-Size clasifica por estatura, obliga a la contramarcha hasta al menos los 15 meses (se recomienda hasta los 4 años), usa ISOFIX y exige pruebas de impacto lateral. La antigua R44/04 clasificaba por peso (grupos 0, 0+, I, II y III).",
+      "por": ["Clasificar por peso era la norma antigua R44.", "No clasifica por edad.", null, "i-Size usa precisamente los anclajes ISOFIX."]
     },
     {
       "q": "En España, es obligatorio que los menores utilicen un sistema de retención infantil homologado cuando su estatura es:",
       "o": ["Igual o inferior a 135 cm", "Igual o inferior a 120 cm", "Igual o inferior a 150 cm, sin excepción", "Hasta los 12 años, con independencia de su estatura"],
       "a": 0,
-      "e": "El SRI es obligatorio hasta los 135 cm. Entre 135 y 150 cm se puede usar el SRI o el cinturón del vehículo, aunque se recomienda mantener el elevador hasta los 150 cm."
+      "e": "El SRI es obligatorio hasta los 135 cm. Entre 135 y 150 cm se puede usar el SRI o el cinturón del vehículo, aunque se recomienda mantener el elevador hasta los 150 cm.",
+      "por": [null, "120 cm no es el límite legal.", "El límite obligatorio es 135 cm.", "No depende de la edad, sino de la estatura."]
     },
     {
       "q": "Un lactante debe viajar, por una de las excepciones legales, en el asiento delantero en una silla a contramarcha. ¿Qué es imprescindible?",
       "o": ["Nada, la contramarcha ya es suficiente protección", "Que el niño pese más de 9 kg", "Girar la silla a favor de la marcha", "Desactivar el airbag frontal del pasajero"],
       "a": 3,
-      "e": "Con una silla a contramarcha en el asiento delantero hay que desactivar el airbag frontal: su despliegue golpearía el respaldo de la silla con un traumatismo letal. Si no se puede desactivar, el niño no puede viajar en ese asiento."
+      "e": "Con una silla a contramarcha en el asiento delantero hay que desactivar el airbag frontal: su despliegue golpearía el respaldo de la silla con un traumatismo letal. Si no se puede desactivar, el niño no puede viajar en ese asiento.",
+      "por": ["La contramarcha delante con airbag activo es mortal.", "El peso no cambia la necesidad de desactivar el airbag.", "Un lactante debe ir a contramarcha.", null]
     },
     {
       "q": "Según la Ley Orgánica 8/2021 (LOPIVI), ante una sospecha de violencia sobre un menor, el profesional sanitario:",
       "o": ["Solo debe comunicarlo si tiene una certeza absoluta", "Tiene el deber de comunicar cualquier sospecha fundada, sin necesidad de pruebas concluyentes", "Debe hablar primero con la familia para que cesen los hechos", "Solo debe comunicarlo si el menor lo solicita"],
       "a": 1,
-      "e": "La LOPIVI establece un deber de comunicación cualificado para los profesionales sanitarios: deben comunicar las sospechas fundadas sin esperar a tener pruebas. Avisar antes a la familia puede poner en riesgo al menor."
+      "e": "La LOPIVI establece un deber de comunicación cualificado para los profesionales sanitarios: deben comunicar las sospechas fundadas sin esperar a tener pruebas. Avisar antes a la familia puede poner en riesgo al menor.",
+      "por": ["No hace falta una certeza absoluta.", null, "Avisar antes a la familia puede poner en riesgo al menor.", "No depende de que lo pida el menor."]
     },
     {
       "q": "¿Cuál es la forma de maltrato infantil más frecuente?",
       "o": ["La violencia sexual", "El maltrato físico", "La negligencia", "El trastorno facticio aplicado a otro"],
       "a": 2,
-      "e": "La negligencia es la tipología más prevalente (más de la mitad de las notificaciones): omisión de los cuidados básicos de alimentación, higiene, salud (vacunas, citas) o escolarización."
+      "e": "La negligencia es la tipología más prevalente (más de la mitad de las notificaciones): omisión de los cuidados básicos de alimentación, higiene, salud (vacunas, citas) o escolarización.",
+      "por": ["La violencia sexual es menos frecuente.", "El maltrato físico es menos frecuente que la negligencia.", null, "El trastorno facticio es raro."]
     },
     {
       "q": "Un niño acude a urgencias con lesiones graves por castigo físico y los padres exigen llevárselo a casa. La actuación correcta es:",
       "o": ["Ingreso de protección del menor, parte de lesiones al Juzgado de Guardia y aviso a las Fuerzas y Cuerpos de Seguridad", "Darle el alta y citar a la familia en servicios sociales otro día", "Hablar con los padres y pedirles que no vuelva a ocurrir", "Respetar la decisión de los padres y registrarlo en la historia"],
       "a": 0,
-      "e": "En situaciones urgentes o de riesgo inminente se trata al niño, se emite el parte de lesiones al Juzgado de Guardia, se avisa a la policía y se realiza un ingreso de protección: nunca se entrega el menor a sus presuntos agresores. Los casos no urgentes siguen la vía de la hoja de notificación y el trabajador social."
+      "e": "En situaciones urgentes o de riesgo inminente se trata al niño, se emite el parte de lesiones al Juzgado de Guardia, se avisa a la policía y se realiza un ingreso de protección: nunca se entrega el menor a sus presuntos agresores. Los casos no urgentes siguen la vía de la hoja de notificación y el trabajador social.",
+      "por": [null, "Con riesgo inminente no se da el alta.", "Hablar con los padres no protege al niño.", "No se puede respetar esa decisión si hay riesgo."]
     },
     {
       "q": "El síndrome del niño zarandeado se caracteriza por la tríada:",
       "o": ["Fracturas costales, quemaduras y hematomas", "Hemorragia subdural, hemorragias retinianas y edema cerebral", "Fiebre, exantema y adenopatías", "Hipotermia, bradicardia e hipotensión"],
       "a": 1,
-      "e": "Las sacudidas violentas producen aceleración-desaceleración del encéfalo: hemorragia subdural, hemorragias retinianas y edema cerebral, a menudo sin lesiones externas visibles. Tiene alta mortalidad y secuelas."
+      "e": "Las sacudidas violentas producen aceleración-desaceleración del encéfalo: hemorragia subdural, hemorragias retinianas y edema cerebral, a menudo sin lesiones externas visibles. Tiene alta mortalidad y secuelas.",
+      "por": ["Esa tríada no es la del zarandeo.", null, "Fiebre, exantema y adenopatías no tienen relación.", "No es esa la tríada."]
     },
     {
       "q": "Si la triple vírica y la varicela no se administran el mismo día, el intervalo mínimo entre ambas es de:",
       "o": ["4 semanas", "1 semana", "10 días", "No hay intervalo mínimo"],
       "a": 0,
-      "e": "Dos vacunas vivas parenterales se administran el mismo día (en lugares distintos) o separadas al menos 4 semanas, para evitar la interferencia en la respuesta de la segunda. Entre vacunas inactivadas no hay intervalo mínimo."
+      "e": "Dos vacunas vivas parenterales se administran el mismo día (en lugares distintos) o separadas al menos 4 semanas, para evitar la interferencia en la respuesta de la segunda. Entre vacunas inactivadas no hay intervalo mínimo.",
+      "por": [null, "Una semana no basta.", "10 días no bastan.", "Sí hay intervalo mínimo entre vacunas vivas parenterales."]
     },
     {
       "q": "Sobre la vacuna frente al rotavirus, es correcto:",
       "o": ["Es una vacuna inactivada intramuscular", "Es una vacuna oral de virus vivos cuya primera dosis debe darse antes de las 12 semanas de vida", "Puede iniciarse a cualquier edad durante el primer año", "Se administra a los 12 y 15 meses"],
       "a": 1,
-      "e": "La vacuna del rotavirus es oral y de virus vivos atenuados (2, 4 y 6 meses en la pauta de 3 dosis). La primera dosis debe administrarse pronto (antes de las 12 semanas) porque iniciarla más tarde aumenta el riesgo de invaginación intestinal."
+      "e": "La vacuna del rotavirus es oral y de virus vivos atenuados (2, 4 y 6 meses en la pauta de 3 dosis). La primera dosis debe administrarse pronto (antes de las 12 semanas) porque iniciarla más tarde aumenta el riesgo de invaginación intestinal.",
+      "por": ["Es oral y de virus vivos.", null, "No se puede iniciar a cualquier edad.", "No se pone a los 12 y 15 meses."]
     },
     {
       "q": "El nirsevimab, administrado a los lactantes frente al virus respiratorio sincitial:",
       "o": ["Es una vacuna de virus atenuados", "Estimula la producción de anticuerpos propios (inmunidad activa)", "Se administra en tres dosis orales", "Es un anticuerpo monoclonal que proporciona inmunidad pasiva"],
       "a": 3,
-      "e": "El nirsevimab no es una vacuna: es un anticuerpo monoclonal de vida media prolongada que confiere inmunidad pasiva. Se administra en una dosis IM al inicio de la temporada o en la maternidad, con dosis según el peso."
+      "e": "El nirsevimab no es una vacuna: es un anticuerpo monoclonal de vida media prolongada que confiere inmunidad pasiva. Se administra en una dosis IM al inicio de la temporada o en la maternidad, con dosis según el peso.",
+      "por": ["No es una vacuna.", "No estimula anticuerpos propios: aporta anticuerpos ya hechos.", "Es una dosis IM, no oral.", null]
     },
     {
       "q": "Unos padres van a llevar a la playa a su bebé de 4 meses. La recomendación de fotoprotección es:",
       "o": ["No aplicar fotoprotector: mantenerlo a la sombra y protegerlo con ropa, gorro y sombrilla", "Aplicar un fotoprotector de filtro químico de factor 50", "Aplicar un fotoprotector de filtro físico cada 2 horas", "Exponerlo al sol solo en las horas centrales con crema"],
       "a": 0,
-      "e": "En los menores de 6 meses no se usan fotoprotectores (piel muy fina, absorción y toxicidad): se evita el sol directo y se usan barreras físicas. De 6 meses a 3 años se usan filtros físicos (óxido de zinc, dióxido de titanio) y desde los 3 años pueden usarse químicos."
+      "e": "En los menores de 6 meses no se usan fotoprotectores (piel muy fina, absorción y toxicidad): se evita el sol directo y se usan barreras físicas. De 6 meses a 3 años se usan filtros físicos (óxido de zinc, dióxido de titanio) y desde los 3 años pueden usarse químicos.",
+      "por": [null, "Los filtros químicos no se usan en menores de 6 meses (ni de 3 años).", "Los fotoprotectores no se usan en menores de 6 meses.", "En las horas centrales no hay que exponerlo al sol."]
     },
     {
       "q": "Respecto al uso de pantallas en la infancia, la recomendación correcta es:",
       "o": ["En menores de 2 años, exposición nula, salvo videollamadas con familiares", "En menores de 2 años, hasta 30 minutos diarios de contenido educativo", "Entre 2 y 5 años, hasta 3 horas diarias", "Es útil usarlas durante las comidas para que el niño coma mejor"],
       "a": 0,
-      "e": "Antes de los 2 años el tiempo de pantalla debe ser cero (excepto videollamadas). De 2 a 5 años, máximo 1 hora al día, con contenidos de calidad y acompañados. Nunca durante las comidas (anulan la percepción de saciedad) ni como «chupete emocional»."
+      "e": "Antes de los 2 años el tiempo de pantalla debe ser cero (excepto videollamadas). De 2 a 5 años, máximo 1 hora al día, con contenidos de calidad y acompañados. Nunca durante las comidas (anulan la percepción de saciedad) ni como «chupete emocional».",
+      "por": [null, "Antes de los 2 años la exposición debe ser cero.", "De 2 a 5 años el máximo es 1 hora.", "Durante las comidas no se recomiendan."]
     }
   ]
 }

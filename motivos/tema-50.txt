@@ -1,0 +1,93 @@
+1|a|El ingreso es parte del preoperatorio, no su final.
+1|b|Al entrar en el área quirúrgica aún es preoperatorio.
+1|c|La firma del consentimiento no marca el final.
+2|b|4 horas es para la leche materna.
+2|c|6 horas es para una comida ligera.
+2|d|8 horas es para una comida copiosa.
+3|a|La cuchilla produce microabrasiones.
+3|b|No es la recomendación.
+3|d|Tampoco se usa cuchilla en el quirófano.
+4|a|Los betabloqueantes se mantienen.
+4|c|La levotiroxina se mantiene.
+4|d|Los inhaladores se mantienen.
+5|b|3 horas antes es demasiado pronto.
+5|c|Al final de la cirugía no protege la incisión.
+5|d|24 horas antes no da niveles en el momento del corte.
+6|a|Informar y recoger la firma es del médico.
+6|b|La enfermera no firma en lugar del paciente.
+6|c|Cirugía y anestesia tienen documentos separados.
+7|a|En la zona negra se puede ir con ropa de calle.
+7|b|En la gris no es obligatoria la mascarilla.
+7|d|La recepción es zona negra.
+8|a|Antes de la inducción es la entrada.
+8|c|Antes de salir es la salida.
+8|d|En la URPA no se hace.
+9|a|No se cierra con el recuento descuadrado.
+9|b|No se continúa sin aclararlo.
+9|c|No se espera al día siguiente.
+10|b|No es exclusiva de la instrumentista.
+10|c|No es del cirujano.
+10|d|No es del anestesiólogo.
+11|a|Presionar el tiroides es la maniobra BURP.
+11|b|Elevar la mandíbula es la tracción mandibular.
+11|d|Hiperextender no es la maniobra de Sellick.
+12|a|La pulsioximetría no confirma la posición del tubo.
+12|c|La auscultación del epigastrio no es fiable.
+12|d|La radiografía de abdomen no confirma el tubo.
+13|b|El Trendelenburg es para las varices.
+13|c|La Valsalva no valora la circulación de la mano.
+13|d|El Mantoux es para la tuberculosis.
+14|a|90-100 es el paciente despierto.
+14|b|70-80 es sedación ligera.
+14|c|0-20 es una anestesia excesiva.
+15|a|El cubital se lesiona en el codo.
+15|c|El plexo braquial se lesiona en el brazo.
+15|d|El femoral no se comprime en la cabeza del peroné.
+16|a|La úlcera del sacro no depende de los brazos.
+16|b|La compresión ocular es en prono.
+16|d|El compartimental no depende de los brazos.
+17|b|37 °C es normal.
+17|c|35 °C no es el umbral.
+17|d|34 °C no es el umbral.
+18|a|En prominencias óseas se concentra la corriente.
+18|b|En cicatrices se concentra la corriente.
+18|c|Junto a prótesis metálicas puede quemar.
+19|a|Sobre el tórax la corriente atraviesa el corazón.
+19|b|A máxima potencia aumenta el riesgo.
+19|d|El marcapasos sí puede verse afectado.
+20|b|Más oxígeno aviva el fuego.
+20|c|Hay que retirar el tubo.
+20|d|No se espera.
+21|a|El formol impide la congelación.
+21|c|El alcohol no es el medio.
+21|d|El glucosado no es el medio.
+22|a|Para cortar hilos se usa la de Mayo.
+22|b|No es una pinza de hemostasia.
+22|c|No es un separador.
+23|a|0 es más grueso.
+23|b|2/0 es más grueso.
+23|d|3/0 es más grueso que 6/0.
+24|b|ASA I es un paciente sano sin embarazo.
+24|c|ASA III es enfermedad sistémica grave.
+24|d|ASA IV es amenaza constante para la vida.
+25|a|Durante la laringoscopia se valora Cormack-Lehane.
+25|c|Se valora sentado, no en supino.
+25|d|No se valora en la URPA.
+26|a|La fiebre es tardía.
+26|b|Produce taquicardia, no bradicardia.
+26|c|La hipotensión no es el signo precoz.
+27|a|Depende de la postura.
+27|b|Mejora en decúbito.
+27|d|No cursa con fiebre.
+28|b|En el abdomen se puede usar.
+28|c|En la espalda se puede usar.
+28|d|En el muslo se puede usar.
+29|a|El amarillo es para los hipnóticos.
+29|b|El azul es para los opioides.
+29|c|El gris es para los anestésicos locales.
+30|a|La povidona acuosa no es de elección.
+30|c|El alcohol solo no es de elección.
+30|d|El agua oxigenada no se usa.
+31|a|La epidural no atraviesa la duramadre.
+31|c|La de plexo braquial se hace en el brazo.
+31|d|La infiltrativa es local en la piel.

@@ -7,181 +7,211 @@
       "q": "Según la OMS, la urgencia se define como la aparición fortuita de un problema de causa diversa y gravedad variable que:",
       "o": ["Pone en peligro inminente la vida del paciente", "Requiere siempre traslado en soporte vital avanzado", "Genera la conciencia de una necesidad inminente de atención en quien lo sufre o en su familia", "Compromete la viabilidad de un órgano"],
       "a": 2,
-      "e": "La definición de la OMS tiene un fuerte componente subjetivo: la percepción del paciente o la familia. El riesgo vital inminente o para la viabilidad de un órgano define la emergencia."
+      "e": "La definición de la OMS tiene un fuerte componente subjetivo: la percepción del paciente o la familia. El riesgo vital inminente o para la viabilidad de un órgano define la emergencia.",
+      "por": ["El peligro inminente para la vida define la emergencia.", "La urgencia no exige soporte vital avanzado.", null, "Comprometer un órgano es emergencia."]
     },
     {
       "q": "Se considera emergencia la situación que:",
       "o": ["Pone en peligro inminente la vida del paciente o la viabilidad de un órgano y requiere atención en minutos", "El paciente percibe como urgente aunque no tenga riesgo", "Puede atenderse en las siguientes 24 horas", "Se atiende en atención primaria en horario ordinario"],
       "a": 0,
-      "e": "En la emergencia el tiempo es el principal determinante del pronóstico. Son ejemplos la parada cardiorrespiratoria, el infarto, el ictus, la anafilaxia y la hemorragia exanguinante."
+      "e": "En la emergencia el tiempo es el principal determinante del pronóstico. Son ejemplos la parada cardiorrespiratoria, el infarto, el ictus, la anafilaxia y la hemorragia exanguinante.",
+      "por": [null, "La percepción del paciente es propia de la urgencia.", "Lo que puede esperar 24 h no es emergencia.", "Eso no es emergencia."]
     },
     {
       "q": "La norma que incluye en la cartera de servicios comunes del SNS la atención de urgencia, con la clasificación de pacientes (triaje) para priorizar la asistencia, es:",
       "o": ["La Ley 14/1986, General de Sanidad", "El Real Decreto 1030/2006", "La Ley 44/2003, de Ordenación de las Profesiones Sanitarias", "El Real Decreto 1093/2010"],
       "a": 1,
-      "e": "El anexo IV del RD 1030/2006 regula la atención urgente las 24 horas, dentro y fuera de los centros: atención telefónica y regulación, evaluación inicial, triaje, procedimientos y transporte sanitario."
+      "e": "El anexo IV del RD 1030/2006 regula la atención urgente las 24 horas, dentro y fuera de los centros: atención telefónica y regulación, evaluación inicial, triaje, procedimientos y transporte sanitario.",
+      "por": ["La Ley General de Sanidad no regula el triaje en la cartera.", null, "La LOPS regula las profesiones sanitarias.", "El RD 1093/2010 regula el conjunto mínimo de datos de los informes clínicos."]
     },
     {
       "q": "Según la Ley 41/2002, se pueden realizar intervenciones clínicas indispensables sin el consentimiento del paciente cuando:",
       "o": ["El paciente lo rechaza por escrito", "El médico lo considera conveniente por razones organizativas", "Se trata de un paciente mayor de 65 años", "Existe un riesgo inmediato grave para su integridad física o psíquica y no es posible conseguir su autorización"],
       "a": 3,
-      "e": "Tienen que darse ambos requisitos a la vez. Cuando las circunstancias lo permitan, se consulta a los familiares o personas vinculadas de hecho con el paciente."
+      "e": "Tienen que darse ambos requisitos a la vez. Cuando las circunstancias lo permitan, se consulta a los familiares o personas vinculadas de hecho con el paciente.",
+      "por": ["Si lo rechaza por escrito no se interviene.", "Las razones organizativas no justifican actuar sin consentimiento.", "La edad no es una excepción.", null]
     },
     {
       "q": "En la Región de Murcia, la Unidad Médica de Emergencias (UME) es:",
       "o": ["Un recurso móvil de soporte vital avanzado, con médico, enfermero y técnico en emergencias sanitarias", "Un centro de salud que abre por las tardes", "Un consultorio situado en una pedanía aislada", "Un recurso de transporte sanitario no asistido"],
       "a": 0,
-      "e": "La UME atiende in situ las emergencias con riesgo vital. Los SUAP son dispositivos fijos de urgencias extrahospitalarias, y los PAC y PEA dan cobertura en comarcas periféricas y zonas aisladas."
+      "e": "La UME atiende in situ las emergencias con riesgo vital. Los SUAP son dispositivos fijos de urgencias extrahospitalarias, y los PAC y PEA dan cobertura en comarcas periféricas y zonas aisladas.",
+      "por": [null, "Un centro que abre por la tarde no es la UME.", "El consultorio en zona aislada es un PEA o PAC.", "La UME es un soporte vital avanzado, no transporte no asistido."]
     },
     {
       "q": "El objetivo principal del triaje en un servicio de urgencias es:",
       "o": ["Emitir un diagnóstico médico de sospecha", "Ordenar a los pacientes por orden de llegada", "Gestionar el riesgo clínico priorizando la atención según la urgencia fisiológica", "Asignar la atención según las camas disponibles"],
       "a": 2,
-      "e": "El triaje no diagnostica: clasifica para que los pacientes que necesitan medidas salvavidas sean atendidos de inmediato y el resto espere un tiempo seguro. La disponibilidad de recursos no determina el nivel."
+      "e": "El triaje no diagnostica: clasifica para que los pacientes que necesitan medidas salvavidas sean atendidos de inmediato y el resto espere un tiempo seguro. La disponibilidad de recursos no determina el nivel.",
+      "por": ["El triaje no diagnostica.", "No es por orden de llegada.", null, "Las camas no determinan el nivel."]
     },
     {
       "q": "Durante el triaje, una mujer con lesiones que no encajan con lo que relata acude con un acompañante que responde por ella y no la deja hablar. La actuación de enfermería más adecuada es:",
       "o": ["Preguntarle directamente delante del acompañante si sufre malos tratos", "Pedir al acompañante de forma tajante que abandone el servicio", "Asignarle el nivel más bajo y que la valore el médico", "Separar al acompañante con un pretexto clínico rutinario (ECG, constantes, normas del box) y entrevistarla a solas"],
       "a": 3,
-      "e": "El box de triaje debe ser un espacio seguro. Nunca se confronta al presunto agresor. Tras la entrevista a solas se activan los protocolos institucionales y se emite el parte de lesiones si procede."
+      "e": "El box de triaje debe ser un espacio seguro. Nunca se confronta al presunto agresor. Tras la entrevista a solas se activan los protocolos institucionales y se emite el parte de lesiones si procede.",
+      "por": ["Preguntar delante del agresor la pone en riesgo.", "Confrontar al acompañante aumenta el riesgo.", "Bajarle la prioridad no la protege.", null]
     },
     {
       "q": "Según los estándares de SEMES, el box de triaje debe tener una superficie mínima de:",
       "o": ["3 m²", "6 m²", "12 m²", "20 m²"],
       "a": 1,
-      "e": "El mínimo es de 6 m² (óptimo, 9 m²). El box se sitúa a la entrada del servicio, con contacto visual con admisión y la sala de espera, y dispone de camilla, silla de ruedas, ordenador, monitor y glucómetro."
+      "e": "El mínimo es de 6 m² (óptimo, 9 m²). El box se sitúa a la entrada del servicio, con contacto visual con admisión y la sala de espera, y dispone de camilla, silla de ruedas, ordenador, monitor y glucómetro.",
+      "por": ["3 m² es insuficiente.", null, "12 m² no es el mínimo.", "20 m² no es el mínimo."]
     },
     {
       "q": "Entre los indicadores de calidad del triaje (SEMES), el índice de fugas de pacientes ya clasificados que se marchan sin ser atendidos debe ser:",
       "o": ["Inferior al 2%", "Inferior al 10%", "Inferior al 15%", "Inferior al 25%"],
       "a": 0,
-      "e": "Las fugas antes del triaje deben ser inferiores al 4% y las de pacientes ya triados, inferiores al 2%. El tiempo desde la llegada hasta el inicio del triaje debe ser menor de 10 minutos en al menos el 85% de los casos."
+      "e": "Las fugas antes del triaje deben ser inferiores al 4% y las de pacientes ya triados, inferiores al 2%. El tiempo desde la llegada hasta el inicio del triaje debe ser menor de 10 minutos en al menos el 85% de los casos.",
+      "por": [null, "Inferior al 10% es demasiado.", "Inferior al 15% es demasiado.", "Inferior al 25% es demasiado."]
     },
     {
       "q": "Es una intervención propia del triaje avanzado de enfermería:",
       "o": ["Pautar morfina intravenosa a un paciente con dolor intenso", "Diagnosticar una fractura de radio", "Administrar paracetamol oral según protocolo a un paciente con dolor moderado", "Dar el alta a un paciente con una cefalea leve"],
       "a": 2,
-      "e": "El triaje avanzado permite actuaciones protocolizadas antes de la valoración médica: analgesia oral, antitérmicos, petición de radiografías, inmovilización con frío o tira de orina. Pautar morfina IV o diagnosticar exceden sus competencias."
+      "e": "El triaje avanzado permite actuaciones protocolizadas antes de la valoración médica: analgesia oral, antitérmicos, petición de radiografías, inmovilización con frío o tira de orina. Pautar morfina IV o diagnosticar exceden sus competencias.",
+      "por": ["Pautar morfina IV excede sus competencias.", "Diagnosticar es médico.", null, "Dar el alta excede sus competencias."]
     },
     {
       "q": "Para prevenir agresiones de un paciente agitado en el box de triaje, la enfermera debe:",
       "o": ["Cerrar la puerta del box para evitar que el paciente se escape", "Acercarse a menos de 50 cm para transmitir confianza", "Contradecir sus ideas delirantes para reorientarle", "Situarse siempre más cerca de la salida que el paciente"],
       "a": 3,
-      "e": "La vía de escape debe quedar libre. Se mantiene una distancia de 1-2 metros, una postura no amenazante y un tono sereno. Si hay riesgo inminente de agresión, se interrumpe el triaje y se activa el protocolo de paciente violento."
+      "e": "La vía de escape debe quedar libre. Se mantiene una distancia de 1-2 metros, una postura no amenazante y un tono sereno. Si hay riesgo inminente de agresión, se interrumpe el triaje y se activa el protocolo de paciente violento.",
+      "por": ["Cerrar la puerta bloquea tu vía de escape.", "Se mantiene una distancia de 1-2 metros.", "No se contradicen los delirios.", null]
     },
     {
       "q": "El Índice de Severidad de Emergencia (ESI) se caracteriza por:",
       "o": ["Basarse en 52 diagramas de flujo de motivos de consulta", "No fijar tiempos de espera concretos y clasificar a los pacientes estables según los recursos que se prevé que consumirán", "Exigir un programa informático llamado e-PAT", "Tener solo tres niveles de prioridad"],
       "a": 1,
-      "e": "El ESI estadounidense tiene 5 niveles y se basa en la agudeza (niveles 1 y 2) y en la previsión de recursos (niveles 3 a 5). Los 52 diagramas son del Manchester y el e-PAT es el software del SET."
+      "e": "El ESI estadounidense tiene 5 niveles y se basa en la agudeza (niveles 1 y 2) y en la previsión de recursos (niveles 3 a 5). Los 52 diagramas son del Manchester y el e-PAT es el software del SET.",
+      "por": ["Los 52 diagramas son del Manchester.", null, "El e-PAT es del SET.", "Tiene 5 niveles."]
     },
     {
       "q": "Según el ESI, un paciente estable que precisará una analítica de sangre y orina y una radiografía de tórax se clasifica en el nivel:",
       "o": ["3, porque se prevén dos recursos", "4, porque se prevé un solo recurso", "5, porque no consume recursos", "2, porque es de alto riesgo"],
       "a": 0,
-      "e": "La analítica de sangre y la de orina cuentan juntas como un solo recurso de laboratorio, y la radiografía es otro: en total dos, que corresponden al nivel 3. Un recurso es el nivel 4 y ninguno, el nivel 5."
+      "e": "La analítica de sangre y la de orina cuentan juntas como un solo recurso de laboratorio, y la radiografía es otro: en total dos, que corresponden al nivel 3. Un recurso es el nivel 4 y ninguno, el nivel 5.",
+      "por": [null, "Son dos recursos, no uno.", "Sí consume recursos.", "No es de alto riesgo: está estable."]
     },
     {
       "q": "En el sistema ESI, NO se considera un recurso:",
       "o": ["La radiografía", "La medicación intravenosa", "La sutura de una laceración compleja", "La administración de medicación por vía oral"],
       "a": 3,
-      "e": "Tampoco son recursos la historia y la exploración, la férula o el vendaje simple, las muletas, la vacuna antitetánica, la cura simple, retirar puntos ni hacer una receta."
+      "e": "Tampoco son recursos la historia y la exploración, la férula o el vendaje simple, las muletas, la vacuna antitetánica, la cura simple, retirar puntos ni hacer una receta.",
+      "por": ["La radiografía sí es un recurso.", "La medicación IV sí es un recurso.", "La sutura compleja sí es un recurso.", null]
     },
     {
       "q": "En el ESI, se considera intervención salvavidas inmediata que asigna el nivel 1:",
       "o": ["Realizar un TAC urgente", "Canalizar una vía venosa periférica", "La desfibrilación", "Extraer una analítica completa"],
       "a": 2,
-      "e": "También lo son la intubación, la ventilación asistida, el marcapasos externo, la descompresión torácica con aguja, los fluidos masivos y fármacos como la adrenalina, la atropina, la adenosina o la naloxona. El TAC, la vía periférica y la analítica no lo son."
+      "e": "También lo son la intubación, la ventilación asistida, el marcapasos externo, la descompresión torácica con aguja, los fluidos masivos y fármacos como la adrenalina, la atropina, la adenosina o la naloxona. El TAC, la vía periférica y la analítica no lo son.",
+      "por": ["El TAC no es salvavidas inmediato.", "La vía periférica no es salvavidas.", null, "La analítica no es salvavidas."]
     },
     {
       "q": "El Sistema de Triaje de Manchester se estructura en:",
       "o": ["52 diagramas de flujo basados en el motivo de consulta, con discriminadores generales y específicos", "Más de 600 motivos de consulta gestionados con el software e-PAT", "La previsión del número de recursos", "Tres colores: rojo, amarillo y verde"],
       "a": 0,
-      "e": "Una vez elegido el diagrama, se recorren los discriminadores de arriba abajo, empezando por el nivel más grave, y se asigna el nivel del primero que se cumple. 49 de los 52 diagramas sirven también para pediatría."
+      "e": "Una vez elegido el diagrama, se recorren los discriminadores de arriba abajo, empezando por el nivel más grave, y se asigna el nivel del primero que se cumple. 49 de los 52 diagramas sirven también para pediatría.",
+      "por": [null, "Los 600 motivos con e-PAT son del SET.", "La previsión de recursos es del ESI.", "Tiene 5 colores."]
     },
     {
       "q": "En el Sistema de Triaje de Manchester, el nivel 2 (muy urgente) se asocia al color:",
       "o": ["Rojo, con atención inmediata", "Naranja, con un tiempo máximo de 10 minutos", "Amarillo, con un tiempo máximo de 60 minutos", "Verde, con un tiempo máximo de 120 minutos"],
       "a": 1,
-      "e": "Los niveles del Manchester son: rojo (inmediato), naranja (10 min), amarillo (60 min), verde (120 min) y azul (240 min)."
+      "e": "Los niveles del Manchester son: rojo (inmediato), naranja (10 min), amarillo (60 min), verde (120 min) y azul (240 min).",
+      "por": ["El rojo es el nivel 1.", null, "El amarillo es el nivel 3.", "El verde es el nivel 4."]
     },
     {
       "q": "En el Sistema de Triaje de Manchester, el color azul corresponde al nivel:",
       "o": ["2, muy urgente, 10 minutos", "3, urgente, 60 minutos", "4, estándar, 120 minutos", "5, no urgente, 240 minutos"],
       "a": 3,
-      "e": "Es una trampa clásica: el nivel 4 es verde y el nivel 5 es azul. Se suelen intercambiar en las opciones de respuesta."
+      "e": "Es una trampa clásica: el nivel 4 es verde y el nivel 5 es azul. Se suelen intercambiar en las opciones de respuesta.",
+      "por": ["El nivel 2 es naranja.", "El nivel 3 es amarillo.", "El nivel 4 es verde.", null]
     },
     {
       "q": "El Sistema Español de Triaje (SET), basado en el Modelo Andorrano, se caracteriza por:",
       "o": ["No tener tiempos de atención asociados", "Basarse en el número de recursos previstos", "Requerir un programa informático de ayuda a la decisión (e-PAT)", "Tener solo 3 niveles de prioridad"],
       "a": 2,
-      "e": "El SET-MAT, recomendado por SEMES, cruza cientos de motivos de consulta con discriminantes como las constantes, el dolor o el nivel de conciencia, lo que hace imprescindible el software e-PAT."
+      "e": "El SET-MAT, recomendado por SEMES, cruza cientos de motivos de consulta con discriminantes como las constantes, el dolor o el nivel de conciencia, lo que hace imprescindible el software e-PAT.",
+      "por": ["Sí tiene tiempos asociados.", "La previsión de recursos es del ESI.", null, "Tiene 5 niveles."]
     },
     {
       "q": "La fiabilidad de un sistema de triaje, entendida como la concordancia entre dos profesionales que clasifican al mismo paciente, se mide con:",
       "o": ["El índice kappa", "La sensibilidad", "El valor predictivo positivo", "El índice de Barthel"],
       "a": 0,
-      "e": "Un kappa de 0,6-0,8 indica buena concordancia y por encima de 0,8, excelente. La validez, en cambio, se refiere a si el sistema clasifica bien la gravedad real (ingresos, recursos, mortalidad)."
+      "e": "Un kappa de 0,6-0,8 indica buena concordancia y por encima de 0,8, excelente. La validez, en cambio, se refiere a si el sistema clasifica bien la gravedad real (ingresos, recursos, mortalidad).",
+      "por": [null, "La sensibilidad mide la validez.", "El VPP mide la validez.", "El Barthel mide la dependencia."]
     },
     {
       "q": "El sistema de triaje que, según el manual, presenta una tasa relevante de infratriaje en mayores de 65 años por no captar bien las presentaciones atípicas es:",
       "o": ["El ESI", "El Manchester", "El SET-MAT", "El CTAS"],
       "a": 1,
-      "e": "En el anciano son frecuentes los infartos indoloros o las sepsis sin fiebre, que el algoritmo del Manchester detecta peor. El infratriaje (asignar menos gravedad de la real) es el principal riesgo para la seguridad del paciente."
+      "e": "En el anciano son frecuentes los infartos indoloros o las sepsis sin fiebre, que el algoritmo del Manchester detecta peor. El infratriaje (asignar menos gravedad de la real) es el principal riesgo para la seguridad del paciente.",
+      "por": ["El manual señala al Manchester, no al ESI.", null, "No es el SET-MAT.", "No es el CTAS."]
     },
     {
       "q": "En un incidente de múltiples víctimas, el principio que rige la clasificación es:",
       "o": ["Atender primero siempre al más grave, aunque no sea recuperable", "Atender por orden de llegada de los equipos", "Iniciar RCP en todas las víctimas en parada", "Conseguir el mayor beneficio para el mayor número de víctimas con los recursos disponibles"],
       "a": 3,
-      "e": "En las catástrofes se aplica una filosofía utilitarista: no se gastan recursos ni tiempo en maniobras fútiles. En el primer triaje no se hace RCP."
+      "e": "En las catástrofes se aplica una filosofía utilitarista: no se gastan recursos ni tiempo en maniobras fútiles. En el primer triaje no se hace RCP.",
+      "por": ["Las víctimas no recuperables no tienen prioridad.", "No es por orden de llegada.", "En el primer triaje no se hace RCP.", null]
     },
     {
       "q": "Según el método START, una víctima de un accidente múltiple que puede caminar por sí misma se clasifica como:",
       "o": ["Rojo", "Amarillo", "Verde", "Negro"],
       "a": 2,
-      "e": "La marcha autónoma es el primer paso: si camina, es verde y no se valora nada más en ese momento. Se agrupa a estas víctimas en un punto de reunión seguro."
+      "e": "La marcha autónoma es el primer paso: si camina, es verde y no se valora nada más en ese momento. Se agrupa a estas víctimas en un punto de reunión seguro.",
+      "por": ["Si camina no es rojo.", "Si camina no es amarillo.", null, "Si camina no es negro."]
     },
     {
       "q": "Aplicando el método START, un adulto que no respira, que sigue sin respirar tras la apertura manual de la vía aérea, se clasifica como:",
       "o": ["Negro", "Rojo", "Amarillo", "Verde"],
       "a": 0,
-      "e": "Si respira tras abrir la vía aérea, se clasifica como rojo; si no, negro. En el adulto no se hacen ventilaciones de rescate en el primer triaje. En el niño (JumpSTART) se palpa el pulso y, si lo tiene, se dan 5 ventilaciones."
+      "e": "Si respira tras abrir la vía aérea, se clasifica como rojo; si no, negro. En el adulto no se hacen ventilaciones de rescate en el primer triaje. En el niño (JumpSTART) se palpa el pulso y, si lo tiene, se dan 5 ventilaciones.",
+      "por": [null, "Rojo es si respira tras abrir la vía aérea.", "Amarillo es si no camina pero está estable.", "Verde es si camina."]
     },
     {
       "q": "Según el método START, una víctima que no camina y respira a 34 respiraciones por minuto se clasifica como:",
       "o": ["Verde", "Amarillo", "Negro", "Rojo"],
       "a": 3,
-      "e": "Una frecuencia respiratoria superior a 30 rpm indica rojo. También son rojo un relleno capilar de más de 2 segundos, la ausencia de pulso radial y no obedecer órdenes sencillas."
+      "e": "Una frecuencia respiratoria superior a 30 rpm indica rojo. También son rojo un relleno capilar de más de 2 segundos, la ausencia de pulso radial y no obedecer órdenes sencillas.",
+      "por": ["No camina: no es verde.", "Más de 30 rpm es rojo.", "Respira: no es negro.", null]
     },
     {
       "q": "En el método START, una víctima que no camina, respira a 20 rpm, tiene un relleno capilar inferior a 2 segundos y obedece órdenes sencillas se clasifica como:",
       "o": ["Rojo", "Amarillo", "Verde", "Negro"],
       "a": 1,
-      "e": "No camina, pero la respiración, la perfusión y el estado mental son adecuados: su atención puede demorarse algunas horas sin riesgo vital inminente."
+      "e": "No camina, pero la respiración, la perfusión y el estado mental son adecuados: su atención puede demorarse algunas horas sin riesgo vital inminente.",
+      "por": ["Respiración, perfusión y estado mental son adecuados.", null, "No camina: no es verde.", "Está vivo y estable."]
     },
     {
       "q": "En el triaje pediátrico de catástrofes (JumpSTART), ante un niño que no respira tras abrir la vía aérea pero tiene pulso palpable, se debe:",
       "o": ["Clasificarlo directamente como negro", "Clasificarlo como amarillo", "Administrar 5 ventilaciones de rescate y reevaluar", "Iniciar compresiones torácicas"],
       "a": 2,
-      "e": "La parada infantil suele ser de origen respiratorio. Si respira tras las 5 ventilaciones, es rojo; si no, negro. En el niño también es rojo una frecuencia respiratoria menor de 15 o mayor de 45 rpm."
+      "e": "La parada infantil suele ser de origen respiratorio. Si respira tras las 5 ventilaciones, es rojo; si no, negro. En el niño también es rojo una frecuencia respiratoria menor de 15 o mayor de 45 rpm.",
+      "por": ["En el niño se dan antes 5 ventilaciones.", "No es amarillo.", null, "No se hacen compresiones en el triaje."]
     },
     {
       "q": "En la sectorización de un incidente de múltiples víctimas, el Puesto Médico Avanzado (PMA) se sitúa en:",
       "o": ["La zona templada o área de socorro", "La zona caliente o área de rescate", "La zona fría o área base", "El hospital de referencia"],
       "a": 0,
-      "e": "En el PMA se hace el segundo triaje y se estabiliza a los pacientes. En la zona caliente se hace el primer triaje y el rescate, y en la zona fría están el puesto de mando y la noria de evacuación con las ambulancias."
+      "e": "En el PMA se hace el segundo triaje y se estabiliza a los pacientes. En la zona caliente se hace el primer triaje y el rescate, y en la zona fría están el puesto de mando y la noria de evacuación con las ambulancias.",
+      "por": [null, "En la zona caliente se hace el rescate.", "En la zona fría están el mando y la noria de ambulancias.", "El PMA está en el lugar del incidente."]
     },
     {
       "q": "En el método de triaje SHORT, la «T» (taponar hemorragias):",
       "o": ["Es el último paso y solo se aplica a las víctimas clasificadas como rojas", "Obliga a reclasificar a la víctima como roja", "Solo puede hacerla personal médico", "Se aplica en cualquier momento al detectar una hemorragia exanguinante y no cambia la clasificación"],
       "a": 3,
-      "e": "SHORT es un método español pensado también para intervinientes no sanitarios: Sale caminando (verde), Habla y Obedece (amarillo), Respira (rojo; si no respira tras abrir la vía aérea, negro) y Taponar en cualquier momento."
+      "e": "SHORT es un método español pensado también para intervinientes no sanitarios: Sale caminando (verde), Habla y Obedece (amarillo), Respira (rojo; si no respira tras abrir la vía aérea, negro) y Taponar en cualquier momento.",
+      "por": ["No es el último paso.", "No cambia la clasificación.", "Pueden hacerlo los no sanitarios.", null]
     },
     {
       "q": "En una transferencia con la técnica SAER, la información «es hipertenso, toma anticoagulantes y es alérgico a la penicilina» corresponde al apartado:",
       "o": ["Situación", "Antecedentes", "Evaluación", "Recomendación"],
       "a": 1,
-      "e": "SAER (SBAR): Situación (qué ocurre ahora), Antecedentes (historia relevante), Evaluación (constantes y estado actual) y Recomendación (qué propone o necesita el paciente)."
+      "e": "SAER (SBAR): Situación (qué ocurre ahora), Antecedentes (historia relevante), Evaluación (constantes y estado actual) y Recomendación (qué propone o necesita el paciente).",
+      "por": ["Situación es lo que ocurre ahora.", null, "Evaluación son las constantes y el estado actual.", "Recomendación es lo que se propone."]
     }
   ]
 }

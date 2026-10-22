@@ -1,0 +1,90 @@
+1|a|ECOG 0 es actividad normal.
+1|b|ECOG 1 son síntomas con actividad ligera.
+1|c|En el ECOG 2 está en cama menos del 50% del día.
+2|a|La nutrición del anciano se valora con el MNA.
+2|c|El dolor en no colaboradores se valora con PAINAD.
+2|d|Las úlceras por presión se valoran con Braden o Norton.
+3|b|El bien diferenciado es G1.
+3|c|No atravesar la membrana basal es el carcinoma in situ.
+3|d|Las metástasis se expresan con la M del TNM.
+4|a|La afectación ganglionar es la N.
+4|b|El estadio IV es por metástasis.
+4|d|Un tumor no evaluable es Tx.
+5|a|Los leucocitos y la febrícula no definen la neutropenia febril.
+5|c|Las plaquetas no la definen.
+5|d|Sin fiebre no es neutropenia febril.
+6|b|No se espera 24 h a sacar los cultivos.
+6|c|No se espera: el antibiótico va en la primera hora.
+6|d|Retirar el catéter no es lo primero.
+7|a|El cepillo extrasuave está indicado.
+7|b|La maquinilla eléctrica está indicada.
+7|c|El lavado de manos está indicado.
+8|a|El alcohol irrita la mucosa.
+8|b|La clorhexidina irrita la mucosa radiada.
+8|d|La higiene no se suspende.
+9|b|Las comidas abundantes empeoran las náuseas.
+9|c|El olor de la comida caliente favorece la náusea.
+9|d|Los líquidos se toman entre horas.
+10|a|Los AINE responden mal en el dolor neuropático.
+10|c|La butilescopolamina es para el dolor cólico.
+10|d|El paracetamol solo es insuficiente.
+11|a|No hay que subir el basal: es un dolor incidental.
+11|b|Las curas no se pueden retrasar indefinidamente.
+11|c|El rescate se da antes de la cura, no solo con EVA de 8.
+12|a|El reposo absoluto la empeora.
+12|b|Es el síntoma más frecuente.
+12|d|La etiqueta correcta es «Fatiga».
+13|b|«Infección» supone que ya la tiene.
+13|c|La neutropenia febril es un diagnóstico médico.
+13|d|No es la etiqueta indicada.
+14|a|Una aguja intramuscular cortaría la membrana.
+14|b|Un catéter periférico no sirve.
+14|c|La palomilla estándar corta la silicona.
+15|a|No es por la cantidad de heparina.
+15|c|Las pequeñas sí son estériles.
+15|d|No tiene que ver con las punciones.
+16|a|No busca concentrar la heparina.
+16|b|No comprueba si está roto.
+16|d|No es por la embolia gaseosa.
+17|b|Cada 24 h es excesivo.
+17|c|Cada 7 días es el cambio del PICC.
+17|d|Debe mantenerse aunque no se use.
+18|a|Cada 24 horas no es la pauta.
+18|b|Cada 48 h es con apósito de gasa.
+18|c|Cada 30 días es demasiado.
+19|a|La heparina no disuelve el trombo.
+19|c|Forzar con presión puede romper el catéter.
+19|d|El glucosado no disuelve el trombo.
+20|a|El ácido folínico es el rescate del metotrexato.
+20|b|El dexrazoxano protege frente a las antraciclinas.
+20|d|La hialuronidasa es para extravasaciones.
+21|b|La doxorrubicina es cardiotóxica.
+21|c|La bleomicina es neumotóxica.
+21|d|La ciclofosfamida causa cistitis hemorrágica.
+22|a|La del trastuzumab es reversible.
+22|b|La vincristina es neurotóxica.
+22|c|El cisplatino es nefrotóxico.
+23|a|No va por vía intratecal.
+23|b|No se da en bolo rápido.
+23|d|El rescate con ácido folínico es del metotrexato.
+24|a|No se retira de inmediato ni se comprime.
+24|c|Nunca se continúa la infusión.
+24|d|Lavar empuja más fármaco al tejido.
+25|b|Frío y DMSO son para las antraciclinas.
+25|c|El dexrazoxano es para las antraciclinas.
+25|d|El frío confina la vincristina y empeora la lesión.
+26|a|La lejía puede generar vapores.
+26|b|Los cristales se recogen con pinzas.
+26|c|Se absorbe sin presionar y de la periferia al centro.
+27|a|El autoclave no destruye el citostático.
+27|b|La desinfección química no lo destruye.
+27|d|No se deposita en vertedero.
+28|a|Las tiazidas aumentan el calcio.
+28|c|Restringir líquidos empeora la deshidratación.
+28|d|Los suplementos de calcio lo empeoran.
+29|b|El supino empeora la disnea.
+29|c|No se canalizan vías en los brazos.
+29|d|El Trendelenburg empeora el edema.
+30|a|La crema antes de la sesión aumenta la dosis en la piel.
+30|b|Sí se usan cremas, después de la sesión.
+30|c|El alcohol y la colonia irritan.

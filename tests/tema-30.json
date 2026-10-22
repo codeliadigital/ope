@@ -7,181 +7,211 @@
       "q": "En el recién nacido, se define apnea como una pausa respiratoria:",
       "o": ["Superior a 10 segundos en cualquier caso", "Superior a 15 segundos aunque no haya otros signos", "Superior a 20 segundos, o de menor duración si se acompaña de bradicardia o cianosis", "De cualquier duración durante el sueño"],
       "a": 2,
-      "e": "La apnea es la ausencia de flujo respiratorio durante más de 20 segundos, o menos tiempo si se acompaña de bradicardia (< 100 lpm) o cianosis central. Es típica del prematuro por inmadurez del centro respiratorio."
+      "e": "La apnea es la ausencia de flujo respiratorio durante más de 20 segundos, o menos tiempo si se acompaña de bradicardia (< 100 lpm) o cianosis central. Es típica del prematuro por inmadurez del centro respiratorio.",
+      "por": ["10 segundos sin otros signos son pausas respiratorias normales.", "15 segundos sin otros signos no es apnea.", null, "No cualquier pausa durante el sueño es apnea."]
     },
     {
       "q": "Un recién nacido con un peso al nacer de 1.350 g se clasifica como:",
       "o": ["Muy bajo peso al nacer", "Bajo peso al nacer", "Extremado bajo peso al nacer", "Peso adecuado si nace a término"],
       "a": 0,
-      "e": "Bajo peso: < 2.500 g; muy bajo peso: < 1.500 g; extremado bajo peso: < 1.000 g. La clasificación por peso es independiente de la edad gestacional."
+      "e": "Bajo peso: < 2.500 g; muy bajo peso: < 1.500 g; extremado bajo peso: < 1.000 g. La clasificación por peso es independiente de la edad gestacional.",
+      "por": [null, "Bajo peso es menos de 2.500 g; con 1.350 g es muy bajo peso.", "Extremado bajo peso es menos de 1.000 g.", "El peso se clasifica con independencia de la edad gestacional."]
     },
     {
       "q": "Un recién nacido de 27 semanas de gestación se clasifica como:",
       "o": ["Prematuro tardío", "Muy prematuro", "Prematuro moderado", "Prematuro extremo"],
       "a": 3,
-      "e": "Prematuro extremo: < 28 semanas; muy prematuro: 28 a 31+6; prematuro tardío: 34 a 36+6. Pretérmino es todo nacido antes de las 37 semanas."
+      "e": "Prematuro extremo: < 28 semanas; muy prematuro: 28 a 31+6; prematuro tardío: 34 a 36+6. Pretérmino es todo nacido antes de las 37 semanas.",
+      "por": ["Prematuro tardío es de 34 a 36+6 semanas.", "Muy prematuro es de 28 a 31+6 semanas.", "Prematuro moderado es de 32 a 33+6 semanas.", null]
     },
     {
       "q": "Según los cuidados centrados en el desarrollo (método NIDCAP), es correcto:",
       "o": ["Establecer horarios fijos de manipulación cada 2 horas", "Agrupar las intervenciones para respetar el sueño y mantener al niño en flexión con nidos de contención", "Mantener una iluminación intensa para vigilar mejor al niño", "Colocar al prematuro en extensión para facilitar la ventilación"],
       "a": 1,
-      "e": "El NIDCAP individualiza el cuidado: control de luz y ruido (< 45 dB), mínima manipulación agrupando técnicas para no interrumpir el sueño, contención en flexión con las manos hacia la línea media y participación de la familia. Los horarios rígidos son contrarios a este modelo."
+      "e": "El NIDCAP individualiza el cuidado: control de luz y ruido (< 45 dB), mínima manipulación agrupando técnicas para no interrumpir el sueño, contención en flexión con las manos hacia la línea media y participación de la familia. Los horarios rígidos son contrarios a este modelo.",
+      "por": ["Los horarios rígidos van contra el cuidado individualizado.", null, "La luz intensa estresa al prematuro.", "Se coloca en flexión, no en extensión."]
     },
     {
       "q": "Respecto a la sacarosa oral como analgesia no farmacológica en el neonato, es correcto:",
       "o": ["Actúa como anestésico local sobre la piel del talón", "Debe administrarse inmediatamente después del procedimiento", "Se administra por vía intravenosa en bolo", "Se administra en la parte anterior de la lengua unos 2 minutos antes y actúa por un mecanismo central (opioides endógenos)"],
       "a": 3,
-      "e": "La sacarosa al 20-24% se da en la parte anterior de la lengua unos 2 minutos antes del estímulo doloroso. El sabor dulce activa el sistema opioide endógeno: el efecto es central, no local. Se potencia con la succión no nutritiva o el método canguro."
+      "e": "La sacarosa al 20-24% se da en la parte anterior de la lengua unos 2 minutos antes del estímulo doloroso. El sabor dulce activa el sistema opioide endógeno: el efecto es central, no local. Se potencia con la succión no nutritiva o el método canguro.",
+      "por": ["No es anestesia local: actúa a nivel central.", "Se da antes del procedimiento, no después.", "Es oral, no intravenosa.", null]
     },
     {
       "q": "En la clasificación de Papile, una hemorragia intraventricular que provoca dilatación de los ventrículos, sin afectación del parénquima, corresponde al grado:",
       "o": ["I", "II", "III", "IV"],
       "a": 2,
-      "e": "Grado I: limitada a la matriz germinal; II: intraventricular sin dilatación; III: intraventricular con dilatación ventricular; IV: con infarto hemorrágico del parénquima."
+      "e": "Grado I: limitada a la matriz germinal; II: intraventricular sin dilatación; III: intraventricular con dilatación ventricular; IV: con infarto hemorrágico del parénquima.",
+      "por": ["Grado I: limitada a la matriz germinal.", "Grado II: intraventricular sin dilatación.", null, "Grado IV: con infarto del parénquima."]
     },
     {
       "q": "Para prevenir la retinopatía de la prematuridad, en los prematuros de riesgo se recomienda mantener la saturación de oxígeno entre:",
       "o": ["98 y 100%", "90 y 94%", "80 y 85%", "85 y 88%"],
       "a": 1,
-      "e": "La retinopatía se relaciona con la hiperoxia y sus fluctuaciones. Enfermería debe ajustar las alarmas para mantener la SpO₂ entre el 90 y el 94% y evitar la hiperoxia inadvertida."
+      "e": "La retinopatía se relaciona con la hiperoxia y sus fluctuaciones. Enfermería debe ajustar las alarmas para mantener la SpO₂ entre el 90 y el 94% y evitar la hiperoxia inadvertida.",
+      "por": ["98-100% es hiperoxia, que favorece la retinopatía.", null, "80-85% es una hipoxemia excesiva.", "85-88% es demasiado bajo."]
     },
     {
       "q": "La escala de Wood-Downes-Ferrés se utiliza fundamentalmente para valorar:",
       "o": ["La edad gestacional del recién nacido", "El dolor postoperatorio", "La extensión de la ictericia", "La gravedad de la obstrucción bronquial en la bronquiolitis o la crisis asmática"],
       "a": 3,
-      "e": "Valora cianosis, ventilación, sibilancias, tiraje, FR y FC. Leve 1-3, moderada 4-7, grave 8-14. La dificultad respiratoria del recién nacido se valora con el Silverman-Anderson."
+      "e": "Valora cianosis, ventilación, sibilancias, tiraje, FR y FC. Leve 1-3, moderada 4-7, grave 8-14. La dificultad respiratoria del recién nacido se valora con el Silverman-Anderson.",
+      "por": ["La edad gestacional se valora con Ballard o Capurro.", "El dolor se valora con otras escalas.", "La ictericia se valora con Kramer.", null]
     },
     {
       "q": "La enfermedad de la membrana hialina se debe principalmente a:",
       "o": ["Un déficit de surfactante pulmonar en el recién nacido prematuro", "La aspiración de meconio en el recién nacido postérmino", "El retraso en la reabsorción del líquido pulmonar tras una cesárea", "Una infección por estreptococo del grupo B"],
       "a": 0,
-      "e": "El síndrome de dificultad respiratoria del prematuro se debe al déficit de surfactante: según la ley de Laplace, la alta tensión superficial colapsa los alvéolos al final de la espiración, con hipoxemia, hipercapnia y acidosis."
+      "e": "El síndrome de dificultad respiratoria del prematuro se debe al déficit de surfactante: según la ley de Laplace, la alta tensión superficial colapsa los alvéolos al final de la espiración, con hipoxemia, hipercapnia y acidosis.",
+      "por": [null, "La aspiración meconial es de recién nacidos a término o postérmino.", "El retraso en reabsorber el líquido es la taquipnea transitoria.", "El estreptococo del grupo B causa sepsis o neumonía, no la membrana hialina."]
     },
     {
       "q": "En el estudio del líquido amniótico, indica madurez pulmonar fetal:",
       "o": ["Un cociente lecitina/esfingomielina menor de 1,5", "Un cociente lecitina/esfingomielina igual a 1", "Un cociente lecitina/esfingomielina mayor de 2", "La ausencia de fosfatidilglicerol"],
       "a": 2,
-      "e": "Un cociente L/E > 2 y la presencia de fosfatidilglicerol indican madurez pulmonar. Un cociente < 1,5 señala un alto riesgo de enfermedad de la membrana hialina."
+      "e": "Un cociente L/E > 2 y la presencia de fosfatidilglicerol indican madurez pulmonar. Un cociente < 1,5 señala un alto riesgo de enfermedad de la membrana hialina.",
+      "por": ["Un cociente menor de 1,5 indica inmadurez.", "Un cociente de 1 indica inmadurez.", null, "La ausencia de fosfatidilglicerol indica inmadurez."]
     },
     {
       "q": "Antes de administrar surfactante exógeno, conservado en nevera, la enfermera debe:",
       "o": ["Calentarlo en el microondas unos segundos", "Atemperarlo de forma pasiva, por ejemplo entre las manos", "Calentarlo al baño maría a 39 °C", "Administrarlo frío directamente para conservar sus propiedades"],
       "a": 1,
-      "e": "El surfactante se conserva a 2-8 °C y se atempera de forma pasiva (entre las manos). El calor directo desnaturaliza sus proteínas y, administrado frío, es muy viscoso y puede obstruir la vía aérea."
+      "e": "El surfactante se conserva a 2-8 °C y se atempera de forma pasiva (entre las manos). El calor directo desnaturaliza sus proteínas y, administrado frío, es muy viscoso y puede obstruir la vía aérea.",
+      "por": ["El microondas desnaturaliza sus proteínas.", null, "El calor directo lo desnaturaliza.", "Frío es muy viscoso y puede obstruir la vía aérea."]
     },
     {
       "q": "Un recién nacido a término, nacido por cesárea electiva sin trabajo de parto, presenta a las pocas horas FR de 75 rpm con leve dificultad respiratoria que mejora en 48 horas con oxígeno de bajo flujo. Lo más probable es:",
       "o": ["Taquipnea transitoria del recién nacido", "Enfermedad de la membrana hialina", "Síndrome de aspiración meconial", "Apnea del prematuro"],
       "a": 0,
-      "e": "La taquipnea transitoria se debe al retraso en la reabsorción del líquido pulmonar fetal, típica de la cesárea sin trabajo de parto. Es benigna y se resuelve en 24-72 horas. La aspiración meconial es propia del término o postérmino con sufrimiento fetal."
+      "e": "La taquipnea transitoria se debe al retraso en la reabsorción del líquido pulmonar fetal, típica de la cesárea sin trabajo de parto. Es benigna y se resuelve en 24-72 horas. La aspiración meconial es propia del término o postérmino con sufrimiento fetal.",
+      "por": [null, "La membrana hialina es del prematuro, no del término por cesárea.", "La aspiración meconial requiere líquido teñido y sufrimiento fetal.", "No es un prematuro y no son apneas."]
     },
     {
       "q": "El tratamiento farmacológico de mantenimiento de la apnea del prematuro es:",
       "o": ["La adrenalina intravenosa", "El citrato de cafeína", "El surfactante endotraqueal", "La naloxona"],
       "a": 1,
-      "e": "La apnea del prematuro se debe a la inmadurez del centro respiratorio: se trata con estimulación en el episodio agudo y citrato de cafeína (metilxantina) de mantenimiento."
+      "e": "La apnea del prematuro se debe a la inmadurez del centro respiratorio: se trata con estimulación en el episodio agudo y citrato de cafeína (metilxantina) de mantenimiento.",
+      "por": ["La adrenalina no trata la apnea del prematuro.", null, "El surfactante trata la membrana hialina.", "La naloxona revierte opioides."]
     },
     {
       "q": "En la enterocolitis necrotizante, el signo radiológico considerado patognomónico es:",
       "o": ["El neumoperitoneo", "La imagen de doble burbuja", "La neumatosis intestinal (gas en la pared del intestino)", "El abdomen sin aire"],
       "a": 2,
-      "e": "La neumatosis intestinal define la ECN establecida (estadio II de Bell). El gas en la vena porta indica mayor gravedad y el neumoperitoneo (estadio IIIB) indica perforación y necesidad de cirugía."
+      "e": "La neumatosis intestinal define la ECN establecida (estadio II de Bell). El gas en la vena porta indica mayor gravedad y el neumoperitoneo (estadio IIIB) indica perforación y necesidad de cirugía.",
+      "por": ["El neumoperitoneo indica perforación (estadio avanzado).", "La doble burbuja es de la atresia duodenal.", null, "El abdomen sin aire es de la atresia esofágica sin fístula."]
     },
     {
       "q": "Ante la sospecha de enterocolitis necrotizante en un prematuro, la actuación de enfermería incluye:",
       "o": ["Aumentar el volumen de las tomas con fórmula", "Controlar la temperatura por vía rectal cada 4 horas", "Colocar al niño en decúbito prono con el abdomen comprimido", "Dieta absoluta, sonda orogástrica abierta a bolsa y medición seriada del perímetro abdominal"],
       "a": 3,
-      "e": "Se suspende la alimentación enteral, se coloca sonda orogástrica para descomprimir y se mide el perímetro abdominal cada turno. La temperatura rectal está prohibida por el riesgo de perforación. La leche materna es el principal factor protector."
+      "e": "Se suspende la alimentación enteral, se coloca sonda orogástrica para descomprimir y se mide el perímetro abdominal cada turno. La temperatura rectal está prohibida por el riesgo de perforación. La leche materna es el principal factor protector.",
+      "por": ["Aumentar las tomas empeora la ECN.", "La temperatura rectal puede perforar el intestino.", "No se comprime el abdomen.", null]
     },
     {
       "q": "Un recién nacido cuya madre tuvo polihidramnios presenta salivación espumosa abundante y, al intentar pasar una sonda gástrica, se encuentra un tope a unos 10 cm. Debe sospecharse:",
       "o": ["Estenosis hipertrófica de píloro", "Atresia de esófago", "Enterocolitis necrotizante", "Enfermedad de Hirschsprung"],
       "a": 1,
-      "e": "La atresia de esófago se sospecha por polihidramnios, sialorrea espumosa e imposibilidad de pasar la sonda. El tipo más frecuente (III, 85%) tiene bolsa proximal ciega y fístula traqueal en el cabo distal."
+      "e": "La atresia de esófago se sospecha por polihidramnios, sialorrea espumosa e imposibilidad de pasar la sonda. El tipo más frecuente (III, 85%) tiene bolsa proximal ciega y fístula traqueal en el cabo distal.",
+      "por": ["La estenosis de píloro da vómitos tras semanas, no sialorrea al nacer.", null, "La ECN es del prematuro y no impide pasar la sonda.", "El Hirschsprung da retraso en la expulsión del meconio."]
     },
     {
       "q": "Un lactante varón de 4 semanas presenta vómitos en proyectil no biliosos tras las tomas y hambre voraz. La alteración analítica esperable es:",
       "o": ["Acidosis metabólica hiperclorémica", "Acidosis respiratoria", "Alcalosis metabólica hipoclorémica e hipopotasémica", "Acidosis metabólica con hiperpotasemia"],
       "a": 2,
-      "e": "Es una estenosis hipertrófica de píloro. Los vómitos gástricos pierden ácido clorhídrico: alcalosis metabólica hipoclorémica e hipopotasémica. Se corrige antes de la piloromiotomía de Ramstedt. Las diarreas, en cambio, producen acidosis."
+      "e": "Es una estenosis hipertrófica de píloro. Los vómitos gástricos pierden ácido clorhídrico: alcalosis metabólica hipoclorémica e hipopotasémica. Se corrige antes de la piloromiotomía de Ramstedt. Las diarreas, en cambio, producen acidosis.",
+      "por": ["La acidosis hiperclorémica es propia de las diarreas.", "No hay acidosis respiratoria.", null, "Hay hipopotasemia, no hiperpotasemia."]
     },
     {
       "q": "La actuación inicial en paritorio ante un recién nacido con gastrosquisis es:",
       "o": ["Introducir piernas y abdomen en una bolsa de polietileno estéril, sin comprimir, y colocarlo en decúbito lateral derecho", "Envolver las asas con gasas secas estériles y comprimir para reintroducirlas", "Cubrir las asas con compresas empapadas en povidona yodada", "Reintroducir manualmente las asas en la cavidad abdominal"],
       "a": 0,
-      "e": "Las asas no tienen saco protector: se introducen en una bolsa estéril transparente para limitar la pérdida de calor y líquidos, sin presionar, y se coloca al niño en decúbito lateral derecho para no acodar los vasos mesentéricos. Las gasas secas se adhieren y dañan la serosa."
+      "e": "Las asas no tienen saco protector: se introducen en una bolsa estéril transparente para limitar la pérdida de calor y líquidos, sin presionar, y se coloca al niño en decúbito lateral derecho para no acodar los vasos mesentéricos. Las gasas secas se adhieren y dañan la serosa.",
+      "por": [null, "Las gasas secas se adhieren y la compresión daña las asas.", "La povidona no se usa sobre las asas.", "No se reintroducen manualmente en paritorio."]
     },
     {
       "q": "Respecto al onfalocele, es correcto:",
       "o": ["Es un defecto paraumbilical derecho sin saco", "Contiene exclusivamente asas intestinales", "Raramente se asocia a otras malformaciones", "Es un defecto central cubierto por un saco y se asocia con frecuencia a otras malformaciones"],
       "a": 3,
-      "e": "El onfalocele es central, en el anillo umbilical, cubierto por un saco (amnios y peritoneo) del que sale el cordón; puede contener hígado y en más de la mitad se asocia a cardiopatías, trisomías 13 y 18 o Beckwith-Wiedemann. La gastrosquisis es paraumbilical derecha, sin saco y suele ser aislada."
+      "e": "El onfalocele es central, en el anillo umbilical, cubierto por un saco (amnios y peritoneo) del que sale el cordón; puede contener hígado y en más de la mitad se asocia a cardiopatías, trisomías 13 y 18 o Beckwith-Wiedemann. La gastrosquisis es paraumbilical derecha, sin saco y suele ser aislada.",
+      "por": ["Eso describe la gastrosquisis.", "Puede contener hígado además de asas.", "Se asocia con frecuencia a otras malformaciones.", null]
     },
     {
       "q": "En la deshidratación hipertónica (hipernatrémica) del lactante, es correcto:",
       "o": ["El signo del pliegue está siempre muy marcado y el shock es precoz", "El pliegue puede ser poco llamativo y predominan los signos neurológicos; la corrección debe ser lenta", "Es el tipo de deshidratación más frecuente", "Debe corregirse el sodio rápidamente en pocas horas"],
       "a": 1,
-      "e": "En la hipertónica el agua sale de las células al espacio vascular: el volumen circulante se mantiene y la piel parece conservada («pastosa»), pero hay irritabilidad, llanto agudo, hiperreflexia o convulsiones. Se corrige en 48-72 horas para evitar el edema cerebral. La más frecuente es la isotónica."
+      "e": "En la hipertónica el agua sale de las células al espacio vascular: el volumen circulante se mantiene y la piel parece conservada («pastosa»), pero hay irritabilidad, llanto agudo, hiperreflexia o convulsiones. Se corrige en 48-72 horas para evitar el edema cerebral. La más frecuente es la isotónica.",
+      "por": ["En la hipertónica el pliegue puede ser poco llamativo.", null, "La más frecuente es la isotónica.", "Corregir deprisa provoca edema cerebral."]
     },
     {
       "q": "Un lactante con gastroenteritis está inquieto, con ojos hundidos, bebe con avidez y el pliegue cutáneo desaparece lentamente. Según la OMS, la pauta es:",
       "o": ["Plan A: seguir en casa con la alimentación habitual", "Plan C: bolos intravenosos de suero fisiológico", "Plan B: solución de rehidratación oral, 50-100 ml/kg en 4 horas, con supervisión", "Dieta absoluta durante 24 horas"],
       "a": 2,
-      "e": "Son signos de deshidratación moderada («algo de deshidratación»): plan B, rehidratación oral en el centro sanitario con 50-100 ml/kg en 4 horas, en pequeños sorbos. El plan C (intravenoso) se reserva para la deshidratación grave."
+      "e": "Son signos de deshidratación moderada («algo de deshidratación»): plan B, rehidratación oral en el centro sanitario con 50-100 ml/kg en 4 horas, en pequeños sorbos. El plan C (intravenoso) se reserva para la deshidratación grave.",
+      "por": ["El plan A es para niños sin deshidratación.", "El plan C es para la deshidratación grave.", null, "La dieta absoluta no está indicada."]
     },
     {
       "q": "En el shock hipovolémico por deshidratación (plan C), la expansión de volumen se realiza con:",
       "o": ["Bolos de suero fisiológico o Ringer lactato de 10-20 ml/kg en 10-20 minutos, reevaluando tras cada bolo", "Bolos de 50 ml/kg de suero fisiológico", "Suero glucosado al 5% a 5 ml/kg en una hora", "Solución de rehidratación oral a demanda"],
       "a": 0,
-      "e": "Se usan cristaloides isotónicos (suero fisiológico al 0,9% o Ringer lactato) en bolos de 10-20 ml/kg lo más rápido posible (10-20 minutos), repitiendo según la perfusión (relleno capilar, pulsos, tensión)."
+      "e": "Se usan cristaloides isotónicos (suero fisiológico al 0,9% o Ringer lactato) en bolos de 10-20 ml/kg lo más rápido posible (10-20 minutos), repitiendo según la perfusión (relleno capilar, pulsos, tensión).",
+      "por": [null, "50 ml/kg en un bolo es excesivo.", "El suero glucosado no expande el volumen.", "En el shock no se usa la vía oral."]
     },
     {
       "q": "Según la escala de Kramer, una ictericia que alcanza palmas de las manos y plantas de los pies (zona 5) se corresponde con una bilirrubina aproximada de:",
       "o": ["5-6 mg/dl", "7-9 mg/dl", "10-12 mg/dl", "Más de 15 mg/dl"],
       "a": 3,
-      "e": "La ictericia progresa en sentido cefalocaudal: zona 1 cabeza (≈ 5-6), 2 hasta el ombligo (≈ 7-9), 3 hasta las rodillas (≈ 10-12), 4 hasta los tobillos (≈ 13-15) y 5 palmas y plantas (> 15 mg/dl)."
+      "e": "La ictericia progresa en sentido cefalocaudal: zona 1 cabeza (≈ 5-6), 2 hasta el ombligo (≈ 7-9), 3 hasta las rodillas (≈ 10-12), 4 hasta los tobillos (≈ 13-15) y 5 palmas y plantas (> 15 mg/dl).",
+      "por": ["5-6 mg/dl corresponde a la zona 1 (cabeza).", "7-9 mg/dl corresponde a la zona 2.", "10-12 mg/dl corresponde a la zona 3.", null]
     },
     {
       "q": "Durante la fototerapia de un recién nacido, es un cuidado correcto:",
       "o": ["Aplicar aceite o crema hidratante para evitar la sequedad", "Proteger los ojos con un antifaz opaco y vigilar el balance hídrico y la temperatura", "Mantener al niño vestido para evitar la hipotermia", "Restringir los líquidos para evitar la sobrecarga"],
       "a": 1,
-      "e": "El niño debe estar desnudo, con protección ocular continua (que se retira en las tomas), cambios posturales y control de la temperatura y del balance hídrico, porque aumentan las pérdidas insensibles. Las cremas y aceites están contraindicados por riesgo de quemaduras."
+      "e": "El niño debe estar desnudo, con protección ocular continua (que se retira en las tomas), cambios posturales y control de la temperatura y del balance hídrico, porque aumentan las pérdidas insensibles. Las cremas y aceites están contraindicados por riesgo de quemaduras.",
+      "por": ["Las cremas y aceites pueden causar quemaduras.", null, "Debe estar desnudo para que actúe la luz.", "Hay que aumentar los líquidos, no restringirlos."]
     },
     {
       "q": "El microorganismo más frecuente en la sepsis neonatal precoz (transmisión vertical) es:",
       "o": ["Streptococcus agalactiae (estreptococo del grupo B)", "Staphylococcus epidermidis", "Candida albicans", "Pseudomonas aeruginosa"],
       "a": 0,
-      "e": "La sepsis precoz (primeras 72 horas) se debe sobre todo al estreptococo del grupo B y a E. coli; su incidencia ha bajado con el cribado al final del embarazo y la profilaxis intraparto. En la tardía (nosocomial) predomina el estafilococo coagulasa negativo."
+      "e": "La sepsis precoz (primeras 72 horas) se debe sobre todo al estreptococo del grupo B y a E. coli; su incidencia ha bajado con el cribado al final del embarazo y la profilaxis intraparto. En la tardía (nosocomial) predomina el estafilococo coagulasa negativo.",
+      "por": [null, "El estafilococo epidermidis predomina en la sepsis tardía nosocomial.", "Candida es más típica de la sepsis tardía del prematuro.", "Pseudomonas no es la causa más frecuente de la precoz."]
     },
     {
       "q": "Ante la sospecha de sepsis en un recién nacido, la actuación prioritaria de enfermería es:",
       "o": ["Esperar a que aparezca fiebre para confirmar la sospecha", "Iniciar los antibióticos y extraer los cultivos al día siguiente", "Administrar antitérmicos y reevaluar en 6 horas", "Extraer los cultivos (hemocultivo, orina, LCR) antes de administrar la primera dosis de antibiótico"],
       "a": 3,
-      "e": "Las muestras para cultivo deben obtenerse siempre antes de la primera dosis de antibioterapia empírica (habitualmente ampicilina + gentamicina). La fiebre es rara en el neonato: es más típica la hipotermia o la inestabilidad térmica."
+      "e": "Las muestras para cultivo deben obtenerse siempre antes de la primera dosis de antibioterapia empírica (habitualmente ampicilina + gentamicina). La fiebre es rara en el neonato: es más típica la hipotermia o la inestabilidad térmica.",
+      "por": ["La fiebre es rara en el neonato: no se espera.", "Los cultivos se toman antes del antibiótico, no al día siguiente.", "Los antitérmicos no tratan la sepsis.", null]
     },
     {
       "q": "La escala de Finnegan se utiliza para valorar:",
       "o": ["El dolor postoperatorio neonatal", "La edad gestacional", "El síndrome de abstinencia neonatal", "La dificultad respiratoria"],
       "a": 2,
-      "e": "La escala de Finnegan cuantifica la gravedad de la abstinencia neonatal (llanto agudo, temblores, hipertonía, succión ávida e ineficaz, vómitos, diarrea, sudoración, bostezos, estornudos) y guía el tratamiento. Las medidas no farmacológicas (arrullo, poca luz y ruido, chupete) son de primera línea."
+      "e": "La escala de Finnegan cuantifica la gravedad de la abstinencia neonatal (llanto agudo, temblores, hipertonía, succión ávida e ineficaz, vómitos, diarrea, sudoración, bostezos, estornudos) y guía el tratamiento. Las medidas no farmacológicas (arrullo, poca luz y ruido, chupete) son de primera línea.",
+      "por": ["El dolor postoperatorio neonatal se valora con CRIES.", "La edad gestacional se valora con Ballard.", null, "La dificultad respiratoria se valora con Silverman."]
     },
     {
       "q": "La escala de valoración del dolor específica para prematuros, que incluye un factor corrector por edad gestacional, es:",
       "o": ["PIPP", "FLACC", "COMFORT", "CRIES"],
       "a": 0,
-      "e": "La PIPP (Premature Infant Pain Profile) combina FC, saturación y gestos faciales con corrección por edad gestacional. FLACC se usa en niños sin lenguaje verbal, COMFORT en UCI pediátrica y CRIES en el dolor postoperatorio neonatal."
+      "e": "La PIPP (Premature Infant Pain Profile) combina FC, saturación y gestos faciales con corrección por edad gestacional. FLACC se usa en niños sin lenguaje verbal, COMFORT en UCI pediátrica y CRIES en el dolor postoperatorio neonatal.",
+      "por": [null, "FLACC es para niños sin lenguaje verbal.", "COMFORT es para la UCI pediátrica.", "CRIES es para el dolor postoperatorio neonatal."]
     },
     {
       "q": "Un recién nacido hijo de madre diabética presenta temblores y una glucemia capilar de 22 mg/dl. La actuación indicada es:",
       "o": ["Bolo intravenoso de suero glucosado al 10% a 2 ml/kg seguido de perfusión", "Ofrecer una toma y repetir la glucemia en 2 horas", "Administrar insulina subcutánea", "Bolo de suero glucosado al 50%"],
       "a": 0,
-      "e": "La hipoglucemia sintomática o grave (< 25 mg/dl) es una urgencia: bolo IV de suero glucosado al 10% (2 ml/kg) y perfusión de mantenimiento. En la hipoglucemia leve asintomática se adelanta la toma y se repite la glucemia en 30-60 minutos."
+      "e": "La hipoglucemia sintomática o grave (< 25 mg/dl) es una urgencia: bolo IV de suero glucosado al 10% (2 ml/kg) y perfusión de mantenimiento. En la hipoglucemia leve asintomática se adelanta la toma y se repite la glucemia en 30-60 minutos.",
+      "por": [null, "Con síntomas y 22 mg/dl no se espera 2 horas.", "La insulina empeoraría la hipoglucemia.", "El glucosado al 50% es demasiado concentrado para el neonato."]
     },
     {
       "q": "Un niño de 2 años ingresado sin sus padres, tras varios días de llanto intenso, deja de protestar, se muestra apático y no quiere jugar ni comer. Se encuentra en la fase de:",
       "o": ["Protesta", "Adaptación normal al hospital", "Desapego", "Desesperación"],
       "a": 3,
-      "e": "Según Bowlby y Robertson, la ansiedad de separación pasa por protesta (llanto, rechazo: signo de vínculo sólido), desesperación (apatía, anorexia: no es adaptación, es sufrimiento) y desapego (ignora a los padres cuando vuelven). Se previene con el alojamiento conjunto de los padres."
+      "e": "Según Bowlby y Robertson, la ansiedad de separación pasa por protesta (llanto, rechazo: signo de vínculo sólido), desesperación (apatía, anorexia: no es adaptación, es sufrimiento) y desapego (ignora a los padres cuando vuelven). Se previene con el alojamiento conjunto de los padres.",
+      "por": ["En la protesta llora y rechaza: aquí ya no protesta.", "La apatía no es una adaptación normal.", "En el desapego ignora a los padres cuando vuelven.", null]
     }
   ]
 }

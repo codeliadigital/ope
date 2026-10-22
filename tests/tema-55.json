@@ -7,181 +7,211 @@
       "q": "La Ley de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia es la:",
       "o": ["Ley 39/2006, de 14 de noviembre", "Ley 41/2002, de 14 de noviembre", "Ley 39/2006, de 14 de diciembre", "Ley 39/2007, de 15 de diciembre"],
       "a": 2,
-      "e": "Se la conoce como el «cuarto pilar del Estado del bienestar» y desarrolla los artículos 49 y 50 de la Constitución. Las fechas de noviembre son trampas habituales."
+      "e": "Se la conoce como el «cuarto pilar del Estado del bienestar» y desarrolla los artículos 49 y 50 de la Constitución. Las fechas de noviembre son trampas habituales.",
+      "por": ["Es de diciembre, no de noviembre.", "La Ley 41/2002 es la de autonomía del paciente.", null, "Es de 2006 y del día 14."]
     },
     {
       "q": "La Ley 39/2006 crea, como red de utilización pública que integra centros y servicios públicos y privados concertados:",
       "o": ["El Sistema para la Autonomía y Atención a la Dependencia (SAAD)", "El Instituto de Mayores y Servicios Sociales", "El Consejo Interterritorial del SNS", "La Red de Servicios Sociales Comunitarios"],
       "a": 0,
-      "e": "El SAAD reúne recursos de la Administración General del Estado y de las comunidades autónomas, y permite concertar con entidades privadas y del tercer sector."
+      "e": "El SAAD reúne recursos de la Administración General del Estado y de las comunidades autónomas, y permite concertar con entidades privadas y del tercer sector.",
+      "por": [null, "El IMSERSO es una entidad gestora, no la red del SAAD.", "El Consejo Interterritorial es del SNS.", "Los servicios sociales comunitarios no son el SAAD."]
     },
     {
       "q": "El nivel mínimo de protección del SAAD:",
       "o": ["Lo financia exclusivamente cada comunidad autónoma", "Lo pagan íntegramente los usuarios", "Se establece por convenio entre el Estado y la comunidad", "Lo garantiza y financia íntegramente la Administración General del Estado"],
       "a": 3,
-      "e": "El nivel acordado se financia mediante convenios entre el Estado y cada comunidad, que aporta al menos lo mismo. El nivel adicional lo añade cada comunidad con sus propios fondos."
+      "e": "El nivel acordado se financia mediante convenios entre el Estado y cada comunidad, que aporta al menos lo mismo. El nivel adicional lo añade cada comunidad con sus propios fondos.",
+      "por": ["No lo financia la comunidad.", "No lo pagan los usuarios.", "El convenio corresponde al nivel acordado.", null]
     },
     {
       "q": "Según la Ley 39/2006, la dependencia se define como:",
       "o": ["La capacidad de tomar decisiones propias sobre cómo vivir", "El estado de carácter permanente en que la persona, por edad, enfermedad o discapacidad, precisa la ayuda de otras personas para las actividades básicas de la vida diaria", "La necesidad de ayuda temporal tras una intervención quirúrgica", "La pérdida de capacidad para manejar el dinero y el teléfono"],
       "a": 1,
-      "e": "La capacidad de controlar y tomar decisiones propias es la definición de autonomía. Manejar el dinero o el teléfono son actividades instrumentales, que no determinan el grado."
+      "e": "La capacidad de controlar y tomar decisiones propias es la definición de autonomía. Manejar el dinero o el teléfono son actividades instrumentales, que no determinan el grado.",
+      "por": ["Esa es la definición de autonomía.", null, "No es una ayuda temporal.", "Esas son actividades instrumentales."]
     },
     {
       "q": "Una persona que necesita ayuda para varias actividades básicas de la vida diaria dos o tres veces al día, sin requerir el apoyo permanente de un cuidador, tiene una dependencia de:",
       "o": ["Grado I, moderada", "Grado III, gran dependencia", "Sin grado", "Grado II, severa"],
       "a": 3,
-      "e": "Grado I: ayuda al menos una vez al día. Grado II: dos o tres veces al día. Grado III: varias veces al día con apoyo indispensable y continuo de otra persona."
+      "e": "Grado I: ayuda al menos una vez al día. Grado II: dos o tres veces al día. Grado III: varias veces al día con apoyo indispensable y continuo de otra persona.",
+      "por": ["El grado I es ayuda una vez al día.", "El grado III requiere apoyo continuo.", "Sí tiene grado.", null]
     },
     {
       "q": "La gran dependencia (grado III) se caracteriza por:",
       "o": ["Necesitar ayuda varias veces al día y el apoyo indispensable y continuo de otra persona", "Necesitar ayuda una vez al día", "Necesitar ayuda solo para tareas domésticas", "Necesitar apoyo intermitente para la autonomía personal"],
       "a": 0,
-      "e": "Corresponde a 75-100 puntos en el BVD. Los niveles que la ley establecía dentro de cada grado se suprimieron."
+      "e": "Corresponde a 75-100 puntos en el BVD. Los niveles que la ley establecía dentro de cada grado se suprimieron.",
+      "por": [null, "Una vez al día es el grado I.", "Las tareas domésticas no definen el grado.", "El apoyo intermitente es el grado I."]
     },
     {
       "q": "Un solicitante obtiene 49 puntos en el Baremo de Valoración de la Dependencia. Le corresponde:",
       "o": ["Sin grado", "Grado II", "Grado I", "Grado III"],
       "a": 2,
-      "e": "De 0 a 24 puntos no hay grado; de 25 a 49, grado I; de 50 a 74, grado II; y de 75 a 100, grado III. Con 50 puntos ya sería grado II."
+      "e": "De 0 a 24 puntos no hay grado; de 25 a 49, grado I; de 50 a 74, grado II; y de 75 a 100, grado III. Con 50 puntos ya sería grado II.",
+      "por": ["Sin grado es de 0 a 24.", "El grado II empieza en 50.", null, "El grado III empieza en 75."]
     },
     {
       "q": "El grado de dependencia se determina valorando:",
       "o": ["Únicamente las actividades instrumentales (teléfono, compras, transporte)", "La necesidad de ayuda en las actividades básicas de la vida diaria", "Solo el diagnóstico médico", "Los ingresos económicos de la persona"],
       "a": 1,
-      "e": "Las actividades instrumentales sirven para la valoración clínica (escala de Lawton), pero los grados de la ley se basan en las actividades básicas."
+      "e": "Las actividades instrumentales sirven para la valoración clínica (escala de Lawton), pero los grados de la ley se basan en las actividades básicas.",
+      "por": ["Las instrumentales no determinan el grado.", null, "No se basa solo en el diagnóstico.", "Los ingresos no determinan el grado."]
     },
     {
       "q": "Según la filosofía de la Ley 39/2006, en el catálogo del SAAD:",
       "o": ["Los servicios tienen prioridad y las prestaciones económicas son excepcionales", "Las prestaciones económicas tienen prioridad", "Solo existen prestaciones económicas", "La residencia es siempre el primer recurso"],
       "a": 0,
-      "e": "Además, el principio de permanencia en el entorno da prioridad a los recursos que permiten seguir viviendo en el domicilio."
+      "e": "Además, el principio de permanencia en el entorno da prioridad a los recursos que permiten seguir viviendo en el domicilio.",
+      "por": [null, "Las prestaciones económicas son excepcionales.", "También hay servicios.", "Se prioriza seguir en el domicilio."]
     },
     {
       "q": "El servicio de teleasistencia del catálogo del SAAD:",
       "o": ["Es incompatible con cualquier otro servicio", "Solo se concede a grandes dependientes", "Es compatible con el resto de servicios y prestaciones, salvo con la atención residencial", "Sustituye a la ayuda a domicilio"],
       "a": 2,
-      "e": "La residencia ya garantiza la supervisión las 24 horas. Por regla general, la atención residencial es incompatible con la ayuda a domicilio, el centro de día y las prestaciones económicas."
+      "e": "La residencia ya garantiza la supervisión las 24 horas. Por regla general, la atención residencial es incompatible con la ayuda a domicilio, el centro de día y las prestaciones económicas.",
+      "por": ["Es compatible con casi todo.", "No es solo para grandes dependientes.", null, "No sustituye a la ayuda a domicilio."]
     },
     {
       "q": "La prestación económica vinculada al servicio se concede cuando:",
       "o": ["Un familiar cuida al dependiente en casa", "Se contrata un asistente personal para estudiar o trabajar", "El dependiente renuncia a todos los servicios", "Existe derecho a un servicio, pero no hay plaza en la red pública o concertada, para pagar un centro privado acreditado"],
       "a": 3,
-      "e": "La prestación de cuidados en el entorno familiar compensa al cuidador no profesional, y la de asistencia personal financia la contratación de un asistente que favorezca una vida independiente."
+      "e": "La prestación de cuidados en el entorno familiar compensa al cuidador no profesional, y la de asistencia personal financia la contratación de un asistente que favorezca una vida independiente.",
+      "por": ["Eso es la prestación por cuidados en el entorno familiar.", "Eso es la prestación de asistencia personal.", "No es por renunciar a los servicios.", null]
     },
     {
       "q": "Para ser reconocido como cuidador no profesional, se exige tener con la persona dependiente un parentesco por consanguinidad, afinidad o adopción:",
       "o": ["Hasta el segundo grado", "Hasta el tercer grado", "Hasta el cuarto grado", "Sin límite de parentesco"],
       "a": 1,
-      "e": "También debe ser mayor de 18 años, tener capacidad para cuidar y no ser dependiente. El tercer grado incluye tíos, sobrinos, bisabuelos y bisnietos."
+      "e": "También debe ser mayor de 18 años, tener capacidad para cuidar y no ser dependiente. El tercer grado incluye tíos, sobrinos, bisabuelos y bisnietos.",
+      "por": ["El límite es el tercer grado.", null, "El cuarto grado no está incluido.", "Sí hay límite."]
     },
     {
       "q": "Un anciano dependiente es cuidado por su primo hermano. ¿Cumple este el requisito de parentesco para ser cuidador no profesional?",
       "o": ["No, porque los primos son parientes de cuarto grado", "Sí, porque es familia directa", "Sí, si convive con él", "Sí, porque es pariente de segundo grado"],
       "a": 0,
-      "e": "La ley exige parentesco hasta el tercer grado inclusive. Los hermanos son de segundo grado y los tíos y sobrinos, de tercero."
+      "e": "La ley exige parentesco hasta el tercer grado inclusive. Los hermanos son de segundo grado y los tíos y sobrinos, de tercero.",
+      "por": [null, "No basta con ser familia: el primo es de cuarto grado.", "La convivencia no cambia el grado de parentesco.", "El primo no es de segundo grado."]
     },
     {
       "q": "El plazo máximo para resolver el reconocimiento de la situación de dependencia y el programa individual de atención es de:",
       "o": ["1 mes", "3 meses", "12 meses", "6 meses"],
       "a": 3,
-      "e": "Si se supera, la persona tiene derecho a percibir con efectos retroactivos las cantidades correspondientes desde que venció el plazo."
+      "e": "Si se supera, la persona tiene derecho a percibir con efectos retroactivos las cantidades correspondientes desde que venció el plazo.",
+      "por": ["Un mes no es el plazo.", "Tres meses no es el plazo.", "12 meses no es el plazo.", null]
     },
     {
       "q": "Si una persona con dependencia reconocida y PIA en vigor se traslada de forma permanente a otra comunidad autónoma, la comunidad de origen mantiene la prestación durante:",
       "o": ["15 días", "6 meses", "60 días", "1 año"],
       "a": 2,
-      "e": "Ese plazo permite que la comunidad de destino estudie el caso y apruebe un nuevo programa individual de atención con sus propios recursos."
+      "e": "Ese plazo permite que la comunidad de destino estudie el caso y apruebe un nuevo programa individual de atención con sus propios recursos.",
+      "por": ["15 días no es el plazo.", "6 meses no es el plazo.", null, "Un año no es el plazo."]
     },
     {
       "q": "Es una causa legal para revisar el grado de dependencia:",
       "o": ["La mejoría o el empeoramiento de la situación de dependencia", "El cambio de opinión del usuario sobre el recurso que prefiere", "El cambio de médico de familia", "El paso de un año desde la resolución"],
       "a": 0,
-      "e": "Las otras causas son el error de diagnóstico o en la aplicación del baremo y el cambio de la situación personal o del entorno que obligue a modificar el PIA, por ejemplo, el fallecimiento del cuidador."
+      "e": "Las otras causas son el error de diagnóstico o en la aplicación del baremo y el cambio de la situación personal o del entorno que obligue a modificar el PIA, por ejemplo, el fallecimiento del cuidador.",
+      "por": [null, "La preferencia por otro recurso no es causa de revisión del grado.", "El cambio de médico no es causa.", "El paso del tiempo no es causa por sí solo."]
     },
     {
       "q": "Sobre el Baremo de Valoración de la Dependencia (BVD), es correcto que:",
       "o": ["Lo rellena el propio solicitante en su domicilio", "Lo aplica un profesional mediante observación directa, a partir de los 3 años, valorando 47 tareas en 10 actividades", "Se aplica a menores de 3 años", "Da una puntuación de 1, 2 o 3"],
       "a": 1,
-      "e": "Lo regula el RD 174/2011. En la Región de Murcia lo aplican los valoradores del IMAS en el entorno habitual de la persona, con el informe de salud del médico de atención primaria."
+      "e": "Lo regula el RD 174/2011. En la Región de Murcia lo aplican los valoradores del IMAS en el entorno habitual de la persona, con el informe de salud del médico de atención primaria.",
+      "por": ["Lo aplica un profesional, no el solicitante.", null, "A menores de 3 años se aplica la EVE.", "Puntúa sobre 100."]
     },
     {
       "q": "Para valorar la dependencia en un niño de 18 meses se utiliza:",
       "o": ["El Baremo de Valoración de la Dependencia, sobre 100 puntos", "El índice de Barthel", "La escala de Lawton", "La Escala de Valoración Específica (EVE)"],
       "a": 3,
-      "e": "La EVE se aplica de 0 a 35 meses y otorga directamente 1, 2 o 3 puntos, que corresponden a los grados I, II y III."
+      "e": "La EVE se aplica de 0 a 35 meses y otorga directamente 1, 2 o 3 puntos, que corresponden a los grados I, II y III.",
+      "por": ["El BVD es a partir de los 3 años.", "El Barthel no es el baremo oficial.", "Lawton valora las actividades instrumentales.", null]
     },
     {
       "q": "En el índice de Barthel, las actividades que pueden puntuar hasta 15 puntos son:",
       "o": ["Comer y vestirse", "Bañarse y arreglarse", "El traslado cama-sillón y la deambulación", "La continencia urinaria y fecal"],
       "a": 2,
-      "e": "Comer, vestirse, deposición, micción, retrete y escaleras valen hasta 10, y baño y arreglarse, 5. El máximo es 100, o 90 en un paciente autónomo en silla de ruedas."
+      "e": "Comer, vestirse, deposición, micción, retrete y escaleras valen hasta 10, y baño y arreglarse, 5. El máximo es 100, o 90 en un paciente autónomo en silla de ruedas.",
+      "por": ["Comer y vestirse valen hasta 10.", "Bañarse y arreglarse valen 5.", null, "La continencia vale hasta 10."]
     },
     {
       "q": "Una puntuación inferior a 20 en el índice de Barthel indica:",
       "o": ["Dependencia total", "Dependencia leve", "Dependencia moderada", "Independencia"],
       "a": 0,
-      "e": "60 o más es dependencia leve, 40-55 moderada, 20-35 grave y menos de 20, total."
+      "e": "60 o más es dependencia leve, 40-55 moderada, 20-35 grave y menos de 20, total.",
+      "por": [null, "Leve es 60 o más.", "Moderada es 40-55.", "Independencia es 100."]
     },
     {
       "q": "En el índice de Katz, la categoría G significa:",
       "o": ["Independencia en todas las funciones", "Dependencia solo en el baño", "Dependencia en una función", "Dependencia en las seis funciones"],
       "a": 3,
-      "e": "Katz clasifica con letras de la A (independiente en todas) a la G. Valora baño, vestido, uso del retrete, movilidad, continencia y alimentación."
+      "e": "Katz clasifica con letras de la A (independiente en todas) a la G. Valora baño, vestido, uso del retrete, movilidad, continencia y alimentación.",
+      "por": ["La independencia en todas es A.", "Dependencia solo en el baño es B.", "Dependencia en una función es B.", null]
     },
     {
       "q": "La escala de Lawton y Brody valora:",
       "o": ["Las actividades básicas de la vida diaria", "Las actividades instrumentales de la vida diaria, que son las primeras en deteriorarse con el deterioro cognitivo", "El riesgo de úlceras por presión", "La sobrecarga del cuidador"],
       "a": 1,
-      "e": "Tiene 8 ítems (teléfono, compras, comida, hogar, ropa, transporte, medicación y dinero), con una puntuación de 0 a 8. Se le atribuye un sesgo de género en algunos ítems."
+      "e": "Tiene 8 ítems (teléfono, compras, comida, hogar, ropa, transporte, medicación y dinero), con una puntuación de 0 a 8. Se le atribuye un sesgo de género en algunos ítems.",
+      "por": ["Las básicas se valoran con Barthel o Katz.", null, "Las úlceras se valoran con Braden.", "La sobrecarga se valora con Zarit."]
     },
     {
       "q": "La puntuación máxima del Mini-Examen Cognoscitivo (MEC) de Lobo es de:",
       "o": ["30 puntos", "10 puntos", "35 puntos", "100 puntos"],
       "a": 2,
-      "e": "El MMSE original de Folstein tiene 30 puntos. El MEC se corrige según la edad y la escolaridad y una puntuación de 23 o menos sugiere deterioro cognitivo."
+      "e": "El MMSE original de Folstein tiene 30 puntos. El MEC se corrige según la edad y la escolaridad y una puntuación de 23 o menos sugiere deterioro cognitivo.",
+      "por": ["30 es el MMSE de Folstein.", "10 es el Pfeiffer.", null, "100 es el Barthel."]
     },
     {
       "q": "Un paciente comete 6 errores en el cuestionario de Pfeiffer. Esto indica:",
       "o": ["Deterioro cognitivo moderado", "Función cognitiva normal", "Deterioro cognitivo leve", "Deterioro cognitivo grave"],
       "a": 0,
-      "e": "En el Pfeiffer se cuentan los errores: 0-2 normal, 3-4 leve, 5-7 moderado y 8-10 grave. Se permite un error más si no tiene estudios y uno menos con estudios superiores."
+      "e": "En el Pfeiffer se cuentan los errores: 0-2 normal, 3-4 leve, 5-7 moderado y 8-10 grave. Se permite un error más si no tiene estudios y uno menos con estudios superiores.",
+      "por": [null, "Normal es 0-2 errores.", "Leve es 3-4 errores.", "Grave es 8-10 errores."]
     },
     {
       "q": "En la escala sociofamiliar de Gijón, indica riesgo social alto una puntuación:",
       "o": ["Inferior a 5", "De 7 a 9", "Igual a 10", "Superior a 15"],
       "a": 3,
-      "e": "Valora 5 áreas (situación familiar, económica, vivienda, relaciones sociales y apoyos) de 1 a 5, con un rango de 5 a 25."
+      "e": "Valora 5 áreas (situación familiar, económica, vivienda, relaciones sociales y apoyos) de 1 a 5, con un rango de 5 a 25.",
+      "por": ["El mínimo es 5.", "7-9 no es riesgo alto.", "10 no es riesgo alto.", null]
     },
     {
       "q": "Una cuidadora obtiene 18 puntos en la versión abreviada de 7 ítems de la escala de Zarit. Esto indica:",
       "o": ["Ausencia de sobrecarga", "Sobrecarga intensa", "Sobrecarga leve", "Que debe repetirse con la versión completa"],
       "a": 1,
-      "e": "La versión abreviada (7-35 puntos) es dicotómica: 17 o más indica sobrecarga intensa. En la completa (22 ítems), 47-55 es leve y 56 o más, intensa."
+      "e": "La versión abreviada (7-35 puntos) es dicotómica: 17 o más indica sobrecarga intensa. En la completa (22 ítems), 47-55 es leve y 56 o más, intensa.",
+      "por": ["17 o más es sobrecarga.", null, "La versión abreviada no distingue la leve.", "No hace falta repetirla."]
     },
     {
       "q": "La función principal de la enfermera gestora de casos del SMS es:",
       "o": ["Hacer las curas y extracciones diarias en el domicilio", "Sustituir al médico de familia", "Gestionar la complejidad y coordinar recursos y niveles asistenciales para el paciente con dependencia grave", "Aplicar el baremo oficial de dependencia"],
       "a": 2,
-      "e": "Valora en el domicilio con los patrones de Gordon (el más alterado suele ser actividad-ejercicio), activa vías rápidas, gestiona material y oxígeno y coordina con el IMAS. Los cuidados de rutina los presta la enfermera de atención primaria."
+      "e": "Valora en el domicilio con los patrones de Gordon (el más alterado suele ser actividad-ejercicio), activa vías rápidas, gestiona material y oxígeno y coordina con el IMAS. Los cuidados de rutina los presta la enfermera de atención primaria.",
+      "por": ["Las curas de rutina son de la enfermera de primaria.", "No sustituye al médico.", null, "El baremo lo aplica el IMAS."]
     },
     {
       "q": "En la alimentación de un paciente dependiente con disfagia se recomienda:",
       "o": ["Evitar las dobles texturas, como la sopa de fideos o el yogur con trozos", "Ofrecer líquidos sin espesar para facilitar el paso", "Comer en decúbito supino", "Usar pajita para los líquidos"],
       "a": 0,
-      "e": "Las dobles texturas aumentan el riesgo de aspiración. Se usan alimentos de textura homogénea y espesantes hasta la viscosidad segura (néctar, miel o pudin) y se cuida la higiene oral antes y después."
+      "e": "Las dobles texturas aumentan el riesgo de aspiración. Se usan alimentos de textura homogénea y espesantes hasta la viscosidad segura (néctar, miel o pudin) y se cuida la higiene oral antes y después.",
+      "por": [null, "Los líquidos se espesan.", "En supino aumenta el riesgo de aspiración.", "La pajita aumenta el riesgo de aspiración."]
     },
     {
       "q": "Tras la ingesta, un paciente con disfagia debe permanecer:",
       "o": ["Tumbado en decúbito supino para descansar", "En Trendelenburg", "En decúbito prono", "Incorporado, a unos 45°, durante al menos 45 minutos"],
       "a": 3,
-      "e": "Durante la comida debe estar sentado a 90°. Tumbarlo justo después favorece el reflujo y la neumonía por aspiración, principal causa de muerte en el gran dependiente."
+      "e": "Durante la comida debe estar sentado a 90°. Tumbarlo justo después favorece el reflujo y la neumonía por aspiración, principal causa de muerte en el gran dependiente.",
+      "por": ["Tumbado favorece la aspiración.", "El Trendelenburg favorece la aspiración.", "El prono no está indicado.", null]
     },
     {
       "q": "El convenio especial de la Seguridad Social para cuidadores no profesionales NO protege:",
       "o": ["La jubilación", "El desempleo", "La incapacidad permanente", "La muerte y supervivencia derivada de enfermedad común"],
       "a": 1,
-      "e": "Tampoco protege la incapacidad temporal. Se tramita con el formulario TA-0040 ante la Tesorería General de la Seguridad Social, aportando la resolución y el PIA."
+      "e": "Tampoco protege la incapacidad temporal. Se tramita con el formulario TA-0040 ante la Tesorería General de la Seguridad Social, aportando la resolución y el PIA.",
+      "por": ["Sí protege la jubilación.", null, "Sí protege la incapacidad permanente.", "Sí protege la muerte y supervivencia."]
     }
   ]
 }

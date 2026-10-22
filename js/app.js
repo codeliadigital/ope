@@ -12,7 +12,7 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 const IS_FILE = location.protocol === 'file:';
 
 // Súbelo cada vez que cambien los archivos de data/ para que nadie vea datos guardados antiguos
-const DATA_V = 10;
+const DATA_V = 11;
 
 let temasPromise = null;
 let testsPromise = null;

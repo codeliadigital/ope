@@ -1,0 +1,90 @@
+1|a|El vello púbico aparece después del aumento testicular.
+1|b|El crecimiento del pene es posterior.
+1|d|El cambio de voz es tardío.
+2|b|La pubarquia suele ser posterior a la telarquia.
+2|c|La menarquia es un acontecimiento tardío.
+2|d|El pico de crecimiento no es el primer signo.
+3|a|No se igualan: cada parámetro va por su lado.
+3|b|No se toma el más inmaduro.
+3|c|No se hace la media.
+4|a|Es al revés: el sistema límbico madura antes.
+4|c|La mielinización continúa hasta pasados los 20 años.
+4|d|El sistema de recompensa está muy activo, no disminuido.
+5|b|Intimidad frente a aislamiento es la etapa del adulto joven.
+5|c|Laboriosidad frente a inferioridad es la etapa escolar.
+5|d|Generatividad frente a estancamiento es la edad adulta media.
+6|a|No hay riesgo grave e inminente que justifique romper el secreto.
+6|b|No procede avisar a la policía.
+6|d|Puede atenderse sin sus padres.
+7|a|No usar preservativo requiere consejo, no romper el secreto.
+7|b|Suspender asignaturas no justifica romper el secreto.
+7|c|Beber los fines de semana requiere consejo, no romper el secreto.
+8|a|A los 16 años no hacen falta los padres sin riesgo grave.
+8|c|No hace falta autorización judicial.
+8|d|A los 16 años no hace falta valorar la madurez.
+9|a|La vacunación sigue la regla general de los 16 años.
+9|b|La cirugía programada sigue la regla general.
+9|d|Las curas siguen la regla general.
+10|b|800 mg es insuficiente en la adolescencia.
+10|c|1.000 mg es la recomendación del adulto.
+10|d|500 mg es muy insuficiente.
+11|a|No es por pérdidas digestivas.
+11|b|No se debe al consumo de proteínas.
+11|c|Las pérdidas menstruales son de las mujeres.
+12|a|El DSM-5 ya no exige la amenorrea.
+12|c|No tiene atracones ni conductas compensatorias propias de la bulimia.
+12|d|Cumple los criterios de anorexia.
+13|a|Leve es un IMC de 17 o más.
+13|b|Moderada es un IMC de 16 a 16,99.
+13|d|Extrema es un IMC menor de 15.
+14|b|Dos veces por semana durante 6 meses era el criterio antiguo.
+14|c|Una vez al mes no es suficiente.
+14|d|No se exige que sea diario.
+15|a|Sí hay pérdida de control en el atracón.
+15|b|No es exclusivo de varones.
+15|c|Suele asociarse a obesidad, no a peso bajo.
+16|a|La erosión dental es la perimólisis.
+16|c|La hipertrofia parotídea es otro signo de vómitos.
+16|d|El vello fino es el lanugo.
+17|a|No hay acidosis: hay alcalosis.
+17|b|No es respiratoria ni hay hipercalcemia.
+17|d|No hay acidosis respiratoria.
+18|b|Un solo sí no basta.
+18|c|4 síes no es el umbral.
+18|d|5 síes no es el umbral.
+19|a|La hipernatremia no es lo característico.
+19|b|Hay hipopotasemia, no hiperpotasemia.
+19|c|No es la hipercalcemia.
+20|a|Un aporte hipercalórico provoca el síndrome.
+20|c|La glucosa concentrada sin tiamina es peligrosa.
+20|d|Hacen falta controles diarios.
+21|a|Mirar la báscula aumenta la fijación con la cifra.
+21|b|Con ropa de calle y al final del día no es fiable.
+21|d|Se pesa de forma pautada, no a demanda.
+22|b|Comentar que ha engordado es iatrogénico.
+22|c|Pesarla ante un espejo aumenta la fijación.
+22|d|La dieta pautada no se negocia.
+23|a|El CAGE no se recomienda en adolescentes.
+23|b|El Fagerström mide la dependencia de la nicotina.
+23|c|Morisky-Green mide la adherencia terapéutica.
+24|a|El riesgo es la hipoglucemia, no la hiperglucemia.
+24|c|La hiperpotasemia no es el riesgo principal.
+24|d|La hipercalcemia no es el riesgo principal.
+25|a|La metoclopramida es poco eficaz en este síndrome.
+25|b|El ondansetrón es poco eficaz en este síndrome.
+25|d|La dieta absoluta sola no basta.
+26|a|En la intoxicación aislada por benzodiacepinas puede usarse.
+26|b|En la reversión de una sedación puede usarse.
+26|c|La edad no lo contraindica.
+27|b|La miosis con bradipnea y coma sugiere opioides.
+27|c|La cocaína produce taquicardia e hipertensión.
+27|d|La piel seca y la hipotermia no son típicas de la cocaína.
+28|a|La nomofobia es la angustia de estar sin móvil.
+28|c|El FOMO es el miedo a perderse algo.
+28|d|El sexting es enviar imágenes íntimas.
+29|a|El acoso entre iguales es ciberbullying.
+29|b|Enviar imágenes propias es sexting.
+29|c|El miedo a quedarse sin móvil es nomofobia.
+30|b|No es solo vapor de agua.
+30|c|Sí produce dependencia por la nicotina.
+30|d|No es una alternativa recomendable.

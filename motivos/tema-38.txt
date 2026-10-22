@@ -1,0 +1,90 @@
+1|a|La ilusión deforma un estímulo que sí existe.
+1|c|La idea delirante es una creencia falsa, no una percepción.
+1|d|La idea sobrevalorada es una creencia exagerada, no una percepción.
+2|a|El bloqueo es la interrupción brusca del pensamiento.
+2|b|La bradilalia es hablar despacio.
+2|c|La disgregación es perder el hilo asociativo.
+3|b|La catatonía es una alteración psicomotora con inmovilidad o rigidez.
+3|c|La distonía aguda son contracciones musculares sostenidas.
+3|d|La discinesia tardía son movimientos involuntarios bucolinguales.
+4|a|Nivel de ansiedad es un resultado NOC, no un diagnóstico.
+4|b|Ansiedad es un diagnóstico NANDA, no una NIC.
+4|d|Ansiedad es un diagnóstico NANDA.
+5|b|La contención mecánica es el último recurso.
+5|c|La farmacológica IM va después de la verbal.
+5|d|Encerrar con llave no es una medida de primera línea.
+6|a|El prono está contraindicado por riesgo de asfixia.
+6|b|No se pone en lateral con la cama plana.
+6|c|En sedestación sin sujeciones no hay contención.
+7|a|La indicación es médica y siempre se registra.
+7|c|Nunca se usa como castigo.
+7|d|Debe ser lo más breve posible.
+8|a|0,3 mEq/l es infraterapéutico.
+8|b|0,6 mEq/l es el límite bajo del rango terapéutico.
+8|d|El umbral tóxico es mucho más bajo, 1,5 mEq/l.
+9|b|Quitar la sal aumenta la reabsorción de litio y lo intoxica.
+9|c|Restringir líquidos favorece la intoxicación.
+9|d|Los diuréticos elevan la litemia.
+10|a|La leche y el yogur fresco tienen poca tiramina.
+10|b|El arroz y la pasta no tienen tiramina.
+10|c|Las carnes y pescados frescos no tienen tiramina.
+11|a|El flumazenilo revierte las benzodiacepinas.
+11|c|La naloxona revierte los opioides.
+11|d|Más haloperidol empeoraría la distonía.
+12|a|La discinesia tardía no da fiebre ni rigidez.
+12|b|La acatisia es inquietud motora sin fiebre.
+12|d|El litio no produce esa rigidez con hipertermia.
+13|b|Los hombres consuman más suicidios que las mujeres.
+13|c|Estar casado protege.
+13|d|Esa franja de edad no es el predictor más potente.
+14|a|Riesgo bajo es 0-2.
+14|b|Seguimiento sin ingreso es para 3-4.
+14|c|Con 5-6 sí hay riesgo.
+15|a|No es obesidad.
+15|c|No es la ocupación laboral.
+15|d|No es la orientación.
+16|a|Precisamente busca que no se quede sin seguimiento.
+16|b|Seis meses es demasiado tarde: la cita es preferente.
+16|d|El seguimiento es proactivo, no solo si recae.
+17|b|La escala del recién nacido es el Apgar neonatal.
+17|c|La sobrecarga del cuidador se mide con Zarit.
+17|d|El riesgo social de mayores se mide con Gijón.
+18|a|Las actividades básicas se miden con Barthel o Katz.
+18|b|El deterioro cognitivo se mide con Pfeiffer o MEC.
+18|c|Las úlceras por presión se valoran con Braden o Norton.
+19|a|Vivir solo sin visitas no son buenos recursos.
+19|c|Solo ayuda ocasional son recursos muy deteriorados.
+19|d|La escala no se basa en los ingresos.
+20|a|El riesgo se usa cuando aún no hay agotamiento.
+20|b|El agotamiento del cuidador tiene un diagnóstico propio.
+20|d|El deterioro parental es para padres con hijos.
+21|b|Cada ítem va de 0 a 4, no de 1 a 5.
+21|c|0-22 sería un punto por ítem.
+21|d|El máximo es 88, no 100.
+22|a|Las depresoras son alcohol, opiáceos e hipnosedantes.
+22|b|Las perturbadoras son LSD, cannabis o psilocibina.
+22|c|Los hipnosedantes son depresores.
+23|a|La CIWA-Ar no incluye constantes vitales.
+23|c|El máximo es 67.
+23|d|Requiere poca colaboración.
+24|a|Los antipsicóticos solos bajan el umbral convulsivo.
+24|b|La naloxona es para los opioides.
+24|d|El disulfiram es para la deshabituación, no la abstinencia.
+25|b|Taquicardia, hipertensión y midriasis orientan a estimulantes.
+25|c|Hipertermia y rigidez orientan al síndrome neuroléptico maligno.
+25|d|No es la tríada de los opiáceos.
+26|a|La naloxona dura menos que la heroína: puede volver la apnea.
+26|b|El flumazenilo es para benzodiacepinas.
+26|c|Hay que mantener la monitorización.
+27|a|La naloxona es un antagonista para urgencias.
+27|c|La naltrexona es antagonista y oral.
+27|d|El fentanilo no se usa en mantenimiento.
+28|a|De 14 a 18 años es ESTUDES.
+28|b|No se dirige a mayores de 65.
+28|d|Es a población general, no solo en tratamiento.
+29|a|La universal es para toda la población.
+29|b|La selectiva es para vulnerables que aún no consumen.
+29|c|La primordial actúa sobre determinantes sociales.
+30|b|La cocaína es la segunda droga ilegal.
+30|c|El éxtasis se consume mucho menos.
+30|d|La heroína se consume mucho menos.

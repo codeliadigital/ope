@@ -7,181 +7,211 @@
       "q": "Un brote de Acinetobacter transmitido a través de las barandillas de las camas y los fonendoscopios de la planta. Estos objetos actúan como:",
       "o": ["Vectores", "Reservorios", "Fómites", "Huéspedes susceptibles"],
       "a": 2,
-      "e": "Un fómite es un objeto inanimado que actúa como intermediario en la transmisión indirecta por contacto. Un vector es siempre un ser vivo (mosquito, garrapata)."
+      "e": "Un fómite es un objeto inanimado que actúa como intermediario en la transmisión indirecta por contacto. Un vector es siempre un ser vivo (mosquito, garrapata).",
+      "por": ["Un vector es siempre un ser vivo, como un mosquito.", "El reservorio es donde el microorganismo vive y se multiplica.", null, "El huésped susceptible es la persona que se infecta."]
     },
     {
       "q": "La transmisión por gotas se caracteriza por partículas:",
       "o": ["Mayores de 5 micras que caen rápidamente y alcanzan distancias cortas (≈ 1 metro)", "Menores de 5 micras que permanecen suspendidas en el aire", "Que se transmiten solo por fómites", "Que requieren habitación con presión negativa"],
       "a": 0,
-      "e": "Las gotas de Flügge (> 5 µm) caen por gravedad y recorren distancias cortas, por lo que basta la mascarilla quirúrgica al acercarse. Los núcleos de Wells (≤ 5 µm) quedan suspendidos y requieren aislamiento aéreo."
+      "e": "Las gotas de Flügge (> 5 µm) caen por gravedad y recorren distancias cortas, por lo que basta la mascarilla quirúrgica al acercarse. Los núcleos de Wells (≤ 5 µm) quedan suspendidos y requieren aislamiento aéreo.",
+      "por": [null, "Las partículas de 5 micras o menos son los núcleos de Wells (transmisión aérea).", "Las gotas se transmiten directamente, no solo por fómites.", "La presión negativa es para el aislamiento aéreo."]
     },
     {
       "q": "¿Cuál de las siguientes hepatitis víricas nunca evoluciona a la cronicidad?",
       "o": ["Hepatitis B", "Hepatitis A", "Hepatitis C", "Hepatitis D"],
       "a": 1,
-      "e": "La hepatitis A (fecal-oral) nunca cronifica y deja inmunidad permanente; la E tampoco suele cronificar. Las hepatitis B, C y D, de transmisión sanguínea, pueden cronificar."
+      "e": "La hepatitis A (fecal-oral) nunca cronifica y deja inmunidad permanente; la E tampoco suele cronificar. Las hepatitis B, C y D, de transmisión sanguínea, pueden cronificar.",
+      "por": ["La hepatitis B puede cronificar.", null, "La hepatitis C es la que más cronifica.", "La hepatitis D puede cronificar."]
     },
     {
       "q": "La hepatitis vírica de transmisión fecal-oral que puede tener una mortalidad elevada en embarazadas durante el tercer trimestre es la:",
       "o": ["Hepatitis A", "Hepatitis B", "Hepatitis C", "Hepatitis E"],
       "a": 3,
-      "e": "La hepatitis E, asociada a aguas contaminadas, suele ser autolimitada, pero en embarazadas del tercer trimestre puede causar un fallo hepático fulminante con una mortalidad de hasta el 20%."
+      "e": "La hepatitis E, asociada a aguas contaminadas, suele ser autolimitada, pero en embarazadas del tercer trimestre puede causar un fallo hepático fulminante con una mortalidad de hasta el 20%.",
+      "por": ["La hepatitis A no tiene esa mortalidad en embarazadas.", "La hepatitis B se transmite por sangre, no fecal-oral.", "La hepatitis C se transmite por sangre.", null]
     },
     {
       "q": "El virus de la hepatitis D (delta) se caracteriza por:",
       "o": ["Ser un virus defectivo que necesita el HBsAg del VHB para infectar", "Transmitirse por vía fecal-oral", "Ser la causa más frecuente de hepatitis aguda", "Disponer de una vacuna específica propia"],
       "a": 0,
-      "e": "El VHD es un virus ARN defectivo que necesita la envoltura (HBsAg) del VHB. Solo infecta a personas con VHB: coinfección (a la vez) o sobreinfección en un portador crónico (más grave). La vacuna del VHB protege indirectamente."
+      "e": "El VHD es un virus ARN defectivo que necesita la envoltura (HBsAg) del VHB. Solo infecta a personas con VHB: coinfección (a la vez) o sobreinfección en un portador crónico (más grave). La vacuna del VHB protege indirectamente.",
+      "por": [null, "Se transmite por sangre, como el VHB.", "No es la causa más frecuente de hepatitis aguda.", "No tiene vacuna propia: protege la del VHB."]
     },
     {
       "q": "Respecto a la cronificación de la hepatitis B, es correcto:",
       "o": ["Es mayor en los adultos que en los niños", "Es igual a cualquier edad", "Es superior al 90% cuando la infección se adquiere en el periodo neonatal por vía vertical", "No cronifica nunca"],
       "a": 2,
-      "e": "El riesgo de cronificación es inversamente proporcional a la edad: más del 90% en neonatos infectados por vía vertical y menos del 5% en adultos inmunocompetentes."
+      "e": "El riesgo de cronificación es inversamente proporcional a la edad: más del 90% en neonatos infectados por vía vertical y menos del 5% en adultos inmunocompetentes.",
+      "por": ["Es al revés: cronifica más cuanto menor es la edad.", "Depende mucho de la edad.", null, "Sí cronifica."]
     },
     {
       "q": "Una persona vacunada correctamente frente a la hepatitis B, sin contacto previo con el virus, presentará en la serología:",
       "o": ["HBsAg positivo y anti-HBc positivo", "Solo anti-HBs positivo", "Anti-HBs y anti-HBc positivos", "Anti-HBc IgM positivo"],
       "a": 1,
-      "e": "La vacuna solo contiene HBsAg, por lo que genera únicamente anti-HBs. La presencia de anti-HBc indica contacto con el virus natural (infección pasada o actual)."
+      "e": "La vacuna solo contiene HBsAg, por lo que genera únicamente anti-HBs. La presencia de anti-HBc indica contacto con el virus natural (infección pasada o actual).",
+      "por": ["El HBsAg y el anti-HBc indican infección, no vacuna.", null, "El anti-HBc indica contacto con el virus natural.", "El anti-HBc IgM indica infección aguda."]
     },
     {
       "q": "En el periodo ventana de la hepatitis B aguda, cuando el HBsAg ya no se detecta y el anti-HBs aún no ha aparecido, el único marcador que revela la infección es:",
       "o": ["HBeAg", "Anti-HBe", "Anti-HBs", "Anti-HBc IgM"],
       "a": 3,
-      "e": "En el periodo ventana solo es positivo el anti-HBc IgM, marcador de infección aguda o reciente. Por eso un HBsAg negativo no descarta al 100% una infección aguda."
+      "e": "En el periodo ventana solo es positivo el anti-HBc IgM, marcador de infección aguda o reciente. Por eso un HBsAg negativo no descarta al 100% una infección aguda.",
+      "por": ["El HBeAg indica replicación, no aparece en el periodo ventana.", "El anti-HBe no es el marcador del periodo ventana.", "En el periodo ventana el anti-HBs aún no ha aparecido.", null]
     },
     {
       "q": "Se diagnostica hepatitis B crónica cuando el HBsAg permanece positivo durante más de:",
       "o": ["6 meses", "1 mes", "3 semanas", "2 años"],
       "a": 0,
-      "e": "La persistencia del HBsAg más de 6 meses define la infección crónica, que predispone a cirrosis y hepatocarcinoma. El HBeAg indica replicación activa y alta contagiosidad."
+      "e": "La persistencia del HBsAg más de 6 meses define la infección crónica, que predispone a cirrosis y hepatocarcinoma. El HBeAg indica replicación activa y alta contagiosidad.",
+      "por": [null, "Un mes no define la cronicidad.", "Tres semanas no define la cronicidad.", "El límite es 6 meses, no 2 años."]
     },
     {
       "q": "La pauta estándar de vacunación frente a la hepatitis B en adultos es:",
       "o": ["2 dosis a los 0 y 6 meses en el glúteo", "Dosis única subcutánea", "3 dosis intramusculares en el deltoides a los 0, 1 y 6 meses", "Una dosis anual de recuerdo"],
       "a": 2,
-      "e": "Se administran 3 dosis IM en el deltoides (0, 1 y 6 meses). Es eficaz si el anti-HBs supera 10 mUI/ml a los 1-2 meses de la última dosis; en inmunocompetentes no se necesitan recuerdos. La vacuna de la hepatitis A sí se da en 2 dosis (0 y 6-12 meses)."
+      "e": "Se administran 3 dosis IM en el deltoides (0, 1 y 6 meses). Es eficaz si el anti-HBs supera 10 mUI/ml a los 1-2 meses de la última dosis; en inmunocompetentes no se necesitan recuerdos. La vacuna de la hepatitis A sí se da en 2 dosis (0 y 6-12 meses).",
+      "por": ["Esa pauta de 2 dosis es la de la hepatitis A, y el glúteo no se usa.", "No es dosis única ni subcutánea.", null, "En inmunocompetentes no hacen falta recuerdos anuales."]
     },
     {
       "q": "La técnica correcta de administración de la prueba de Mantoux es:",
       "o": ["0,5 ml de PPD por vía subcutánea en el deltoides", "0,1 ml de PPD por vía intramuscular", "0,1 ml de PPD por vía subcutánea con el bisel hacia abajo", "0,1 ml de PPD por vía intradérmica en la cara anterior del antebrazo, con el bisel hacia arriba"],
       "a": 3,
-      "e": "Se inyectan 0,1 ml de tuberculina (PPD) por vía intradérmica en la cara anterior del tercio medio del antebrazo, con el bisel hacia arriba, formando una pápula con aspecto de piel de naranja. No se debe frotar ni tapar."
+      "e": "Se inyectan 0,1 ml de tuberculina (PPD) por vía intradérmica en la cara anterior del tercio medio del antebrazo, con el bisel hacia arriba, formando una pápula con aspecto de piel de naranja. No se debe frotar ni tapar.",
+      "por": ["No es subcutánea ni son 0,5 ml.", "No es intramuscular.", "Es intradérmica y con el bisel hacia arriba.", null]
     },
     {
       "q": "La lectura de la prueba de Mantoux se realiza:",
       "o": ["A las 24 horas, midiendo el eritema", "A las 48-72 horas, midiendo el diámetro transversal de la induración", "A la semana, midiendo el diámetro longitudinal del eritema", "A los 30 minutos, como en las pruebas alérgicas"],
       "a": 1,
-      "e": "Se lee a las 48-72 horas midiendo solo la induración (no el eritema) en su diámetro transversal al eje del brazo. El Mantoux diagnostica infección, no enfermedad activa."
+      "e": "Se lee a las 48-72 horas midiendo solo la induración (no el eritema) en su diámetro transversal al eje del brazo. El Mantoux diagnostica infección, no enfermedad activa.",
+      "por": ["A las 24 h es pronto y no se mide el eritema.", null, "No se lee a la semana ni se mide el eritema.", "No es una lectura inmediata."]
     },
     {
       "q": "En un cribado laboral, una enfermera tiene un primer Mantoux de 0 mm y, al repetirlo a las dos semanas, de 12 mm. Esto se interpreta como:",
       "o": ["Efecto booster: infección o vacunación BCG antigua, no un contagio reciente", "Una conversión por contagio reciente en el hospital", "Tuberculosis activa que requiere aislamiento", "Un error de técnica sin significado"],
       "a": 0,
-      "e": "En infectados antiguos o vacunados con BCG la reactividad puede haberse debilitado: la primera prueba la «recuerda» y la segunda sale positiva. Indica infección o vacunación previa, no una infección reciente. Por eso se hace la prueba en dos etapas al inicio del cribado."
+      "e": "En infectados antiguos o vacunados con BCG la reactividad puede haberse debilitado: la primera prueba la «recuerda» y la segunda sale positiva. Indica infección o vacunación previa, no una infección reciente. Por eso se hace la prueba en dos etapas al inicio del cribado.",
+      "por": [null, "Una conversión exige un Mantoux previo realmente negativo, no debilitado.", "El Mantoux no diagnostica enfermedad activa.", "No es un error: es el efecto booster."]
     },
     {
       "q": "La principal ventaja de los test IGRA (como el QuantiFERON) frente al Mantoux es que:",
       "o": ["Diagnostican la enfermedad activa", "Se leen a las 72 horas en la piel", "No se ven alterados por la vacunación previa con BCG", "No necesitan extracción de sangre"],
       "a": 2,
-      "e": "Los IGRA son análisis de sangre que miden el interferón gamma liberado por los linfocitos ante antígenos muy específicos del bacilo, por lo que no dan falsos positivos por la BCG. Como el Mantoux, detectan infección, no enfermedad."
+      "e": "Los IGRA son análisis de sangre que miden el interferón gamma liberado por los linfocitos ante antígenos muy específicos del bacilo, por lo que no dan falsos positivos por la BCG. Como el Mantoux, detectan infección, no enfermedad.",
+      "por": ["Detectan infección, no enfermedad activa.", "Son análisis de sangre, no pruebas cutáneas.", null, "Sí necesitan extracción de sangre."]
     },
     {
       "q": "La pauta estándar de tratamiento de la tuberculosis pulmonar activa sensible es:",
       "o": ["Isoniacida en monoterapia durante 9 meses", "Rifampicina durante 4 meses", "Isoniacida y rifapentina semanal durante 3 meses", "2 meses de isoniacida, rifampicina, pirazinamida y etambutol, seguidos de 4 meses de isoniacida y rifampicina"],
       "a": 3,
-      "e": "La pauta clásica dura 6 meses: 2HRZE (fase intensiva) + 4HR (continuación). Las pautas con un solo fármaco o las cortas de 4R o 3HP se usan en la infección latente, no en la enfermedad activa."
+      "e": "La pauta clásica dura 6 meses: 2HRZE (fase intensiva) + 4HR (continuación). Las pautas con un solo fármaco o las cortas de 4R o 3HP se usan en la infección latente, no en la enfermedad activa.",
+      "por": ["La monoterapia con isoniacida es para la infección latente.", "4 meses de rifampicina es para la infección latente.", "La isoniacida con rifapentina es para la infección latente.", null]
     },
     {
       "q": "Para prevenir la neuropatía periférica producida por la isoniacida se administra:",
       "o": ["Vitamina B12", "Piridoxina (vitamina B6)", "Ácido fólico", "Tiamina (vitamina B1)"],
       "a": 1,
-      "e": "La isoniacida interfiere con el metabolismo de la vitamina B6 y puede causar neuropatía periférica (hormigueos y entumecimiento); se previene con piridoxina."
+      "e": "La isoniacida interfiere con el metabolismo de la vitamina B6 y puede causar neuropatía periférica (hormigueos y entumecimiento); se previene con piridoxina.",
+      "por": ["La B12 no previene la neuropatía por isoniacida.", null, "El ácido fólico no la previene.", "La tiamina no la previene."]
     },
     {
       "q": "Una paciente en tratamiento con rifampicina debe ser informada de que:",
       "o": ["La orina, el sudor y las lágrimas pueden teñirse de color rojo-anaranjado y puede disminuir la eficacia de los anticonceptivos hormonales", "Debe tomar vitamina B6 para evitar la neuritis óptica", "Puede producirle gota", "Debe evitar el sol por fotosensibilidad grave"],
       "a": 0,
-      "e": "La rifampicina tiñe los fluidos corporales de rojo-anaranjado (inofensivo; mancha las lentillas blandas) y es un potente inductor enzimático que reduce la eficacia de anticonceptivos orales y antirretrovirales. La gota se asocia a la pirazinamida."
+      "e": "La rifampicina tiñe los fluidos corporales de rojo-anaranjado (inofensivo; mancha las lentillas blandas) y es un potente inductor enzimático que reduce la eficacia de anticonceptivos orales y antirretrovirales. La gota se asocia a la pirazinamida.",
+      "por": [null, "La B6 previene la neuropatía de la isoniacida; la neuritis óptica es del etambutol.", "La gota es por la pirazinamida.", "La fotosensibilidad grave no es el efecto característico."]
     },
     {
       "q": "El efecto adverso característico del etambutol es:",
       "o": ["La hiperuricemia", "La ototoxicidad", "La neuritis óptica con alteración en la distinción de los colores rojo y verde", "La coloración anaranjada de la orina"],
       "a": 2,
-      "e": "El etambutol puede producir neuritis óptica retrobulbar (pérdida de agudeza visual y discromatopsia rojo-verde): requiere control oftalmológico. La pirazinamida produce hiperuricemia y la estreptomicina, ototoxicidad."
+      "e": "El etambutol puede producir neuritis óptica retrobulbar (pérdida de agudeza visual y discromatopsia rojo-verde): requiere control oftalmológico. La pirazinamida produce hiperuricemia y la estreptomicina, ototoxicidad.",
+      "por": ["La hiperuricemia es por la pirazinamida.", "La ototoxicidad es por la estreptomicina.", null, "La orina anaranjada es por la rifampicina."]
     },
     {
       "q": "Para la recogida de una muestra de esputo para baciloscopia, la enfermera debe indicar al paciente que:",
       "o": ["Se cepille los dientes con pasta y use un colutorio antes de expectorar", "Recoja la saliva acumulada en la boca", "Tome la muestra por la noche tras la cena", "Se enjuague solo con agua y expectore a primera hora de la mañana tras una tos profunda"],
       "a": 3,
-      "e": "Se recogen 3 muestras en días consecutivos, a primera hora y en ayunas. El enjuague se hace solo con agua: la pasta y los colutorios pueden destruir los bacilos y dar falsos negativos. Se busca moco bronquial, no saliva."
+      "e": "Se recogen 3 muestras en días consecutivos, a primera hora y en ayunas. El enjuague se hace solo con agua: la pasta y los colutorios pueden destruir los bacilos y dar falsos negativos. Se busca moco bronquial, no saliva.",
+      "por": ["La pasta y el colutorio pueden destruir los bacilos.", "La saliva no sirve: hay que sacar moco bronquial.", "Se recoge a primera hora de la mañana.", null]
     },
     {
       "q": "Un paciente con infección por VIH se considera en fase SIDA cuando presenta:",
       "o": ["Carga viral detectable", "Un recuento de linfocitos CD4 inferior a 200/mm³ o una enfermedad definitoria de SIDA", "Un recuento de CD4 inferior a 500/mm³ sin más", "Fiebre de más de una semana"],
       "a": 1,
-      "e": "La fase SIDA se define por CD4 < 200/mm³ o por la aparición de enfermedades definitorias (neumonía por Pneumocystis, toxoplasmosis cerebral, retinitis por CMV, sarcoma de Kaposi, tuberculosis extrapulmonar, etc.)."
+      "e": "La fase SIDA se define por CD4 < 200/mm³ o por la aparición de enfermedades definitorias (neumonía por Pneumocystis, toxoplasmosis cerebral, retinitis por CMV, sarcoma de Kaposi, tuberculosis extrapulmonar, etc.).",
+      "por": ["La carga viral detectable no define el SIDA.", null, "El umbral es 200, no 500.", "La fiebre no define el SIDA."]
     },
     {
       "q": "Tras un pinchazo accidental con una aguja usada en un paciente, la primera medida local correcta es:",
       "o": ["Dejar sangrar la herida sin exprimirla, lavarla con agua y jabón y aplicar un antiséptico", "Succionar la herida para extraer el posible virus", "Exprimir con fuerza la zona durante varios minutos", "Aplicar lejía sobre la herida"],
       "a": 0,
-      "e": "Se favorece el sangrado sin exprimir ni succionar, se lava con agua y jabón y se aplica un antiséptico (povidona yodada o clorhexidina). En mucosas se lava con abundante suero o agua. Después se notifica de inmediato el accidente."
+      "e": "Se favorece el sangrado sin exprimir ni succionar, se lava con agua y jabón y se aplica un antiséptico (povidona yodada o clorhexidina). En mucosas se lava con abundante suero o agua. Después se notifica de inmediato el accidente.",
+      "por": [null, "No se succiona la herida.", "No se exprime.", "La lejía no se aplica sobre la piel."]
     },
     {
       "q": "Respecto a la profilaxis postexposición ocupacional frente al VIH, es correcto:",
       "o": ["Puede iniciarse hasta 2 semanas después del accidente", "Se administra en dosis única", "Debe iniciarse lo antes posible, no más allá de 72 horas, y mantenerse 28 días", "Solo está indicada si el trabajador no está vacunado"],
       "a": 2,
-      "e": "La PPE debe empezarse idealmente en las primeras 2-4 horas y nunca después de 72 h, con triple terapia antirretroviral durante 28 días. No existe vacuna frente al VIH."
+      "e": "La PPE debe empezarse idealmente en las primeras 2-4 horas y nunca después de 72 h, con triple terapia antirretroviral durante 28 días. No existe vacuna frente al VIH.",
+      "por": ["Pasadas 72 h ya no se inicia.", "No es dosis única: son 28 días.", null, "No existe vacuna frente al VIH."]
     },
     {
       "q": "Una enfermera vacunada frente a la hepatitis B, con un título documentado de anti-HBs de 120 mUI/ml, sufre un pinchazo con una aguja de un paciente HBsAg positivo. Respecto al VHB, debe:",
       "o": ["Recibir inmunoglobulina antihepatitis B", "Revacunarse con tres dosis", "Recibir inmunoglobulina y una dosis de vacuna", "No precisa ninguna profilaxis frente al VHB"],
       "a": 3,
-      "e": "Si el trabajador es un vacunado respondedor (anti-HBs ≥ 10 mUI/ml) está protegido y no necesita nada. Si no está vacunado o no responde, se administra inmunoglobulina (mejor en 24 h, máximo 7 días) y vacuna en lugares distintos."
+      "e": "Si el trabajador es un vacunado respondedor (anti-HBs ≥ 10 mUI/ml) está protegido y no necesita nada. Si no está vacunado o no responde, se administra inmunoglobulina (mejor en 24 h, máximo 7 días) y vacuna en lugares distintos.",
+      "por": ["Con anti-HBs de 10 o más está protegida: no necesita inmunoglobulina.", "No necesita revacunarse.", "No necesita ni inmunoglobulina ni vacuna.", null]
     },
     {
       "q": "Tras un accidente biológico con un paciente fuente con hepatitis C, la actuación correcta es:",
       "o": ["Administrar inmunoglobulina específica frente al VHC", "Seguimiento con PCR del ARN del VHC a las 3-6 semanas y tratamiento precoz con antivirales si se positiviza", "Vacunar frente al VHC", "Iniciar antivirales de acción directa de forma profiláctica durante 28 días"],
       "a": 1,
-      "e": "No existe vacuna, inmunoglobulina ni profilaxis postexposición frente al VHC. Se hace un seguimiento molecular y, si hay infección, se trata precozmente con antivirales de acción directa, que logran la curación."
+      "e": "No existe vacuna, inmunoglobulina ni profilaxis postexposición frente al VHC. Se hace un seguimiento molecular y, si hay infección, se trata precozmente con antivirales de acción directa, que logran la curación.",
+      "por": ["No existe inmunoglobulina frente al VHC.", null, "No existe vacuna frente al VHC.", "No hay profilaxis postexposición frente al VHC."]
     },
     {
       "q": "Tras atender a un paciente con diarrea por Clostridioides difficile, la higiene de manos correcta es:",
       "o": ["Lavado con agua y jabón por arrastre mecánico, porque las esporas resisten al alcohol", "Fricción con solución hidroalcohólica durante 20 segundos", "Basta con quitarse los guantes", "Aplicar lejía diluida en las manos"],
       "a": 0,
-      "e": "Las esporas de C. difficile no se destruyen con alcohol. Se deben lavar las manos con agua y jabón (arrastre mecánico), mantener aislamiento de contacto y desinfectar las superficies con hipoclorito (lejía)."
+      "e": "Las esporas de C. difficile no se destruyen con alcohol. Se deben lavar las manos con agua y jabón (arrastre mecánico), mantener aislamiento de contacto y desinfectar las superficies con hipoclorito (lejía).",
+      "por": [null, "El alcohol no destruye las esporas.", "Quitarse los guantes no basta: hay que lavarse.", "La lejía es para superficies, no para las manos."]
     },
     {
       "q": "El protocolo de descolonización de un portador nasal de SARM consiste en:",
       "o": ["Vancomicina intravenosa durante 10 días", "Aislamiento aéreo y mascarilla FFP2", "Mupirocina al 2% nasal tres veces al día y duchas con clorhexidina al 4% durante 5 días", "Lavados nasales con suero fisiológico"],
       "a": 2,
-      "e": "El portador asintomático de SARM se descoloniza con pomada nasal de mupirocina al 2% (3 veces al día) y duchas corporales con clorhexidina al 4% durante 5 días. El SARM requiere aislamiento de contacto."
+      "e": "El portador asintomático de SARM se descoloniza con pomada nasal de mupirocina al 2% (3 veces al día) y duchas corporales con clorhexidina al 4% durante 5 días. El SARM requiere aislamiento de contacto.",
+      "por": ["La vancomicina IV es para la infección, no para descolonizar.", "El SARM requiere aislamiento de contacto, no aéreo.", null, "El suero fisiológico no descoloniza."]
     },
     {
       "q": "Los criterios de la escala qSOFA para identificar a pacientes con infección de mal pronóstico son:",
       "o": ["Fiebre > 38 °C, leucocitosis y taquicardia", "Lactato > 2, plaquetas bajas y bilirrubina alta", "Saturación < 90%, diuresis baja y fiebre", "Frecuencia respiratoria ≥ 22, alteración del nivel de conciencia y presión sistólica ≤ 100 mmHg"],
       "a": 3,
-      "e": "El qSOFA es positivo con 2 o más criterios clínicos: FR ≥ 22 rpm, alteración de la conciencia (Glasgow < 15) y PAS ≤ 100 mmHg. Activa el código sepsis: lactato, hemocultivos antes del antibiótico, antibiótico IV y fluidos (30 ml/kg) si hay hipotensión o lactato ≥ 4."
+      "e": "El qSOFA es positivo con 2 o más criterios clínicos: FR ≥ 22 rpm, alteración de la conciencia (Glasgow < 15) y PAS ≤ 100 mmHg. Activa el código sepsis: lactato, hemocultivos antes del antibiótico, antibiótico IV y fluidos (30 ml/kg) si hay hipotensión o lactato ≥ 4.",
+      "por": ["La fiebre y la leucocitosis no son criterios del qSOFA.", "Lactato, plaquetas y bilirrubina no son criterios clínicos del qSOFA.", "Saturación, diuresis y fiebre no son criterios del qSOFA.", null]
     },
     {
       "q": "Un paciente ingresa con sospecha de tuberculosis pulmonar bacilífera. El aislamiento indicado es:",
       "o": ["De contacto, con bata y guantes", "Aéreo, en habitación individual con puerta cerrada y presión negativa, con mascarilla FFP2/FFP3 para el personal", "De gotas, con mascarilla quirúrgica al acercarse a menos de 1 metro", "Protector, con presión positiva"],
       "a": 1,
-      "e": "La tuberculosis pulmonar o laríngea, el sarampión y la varicela requieren aislamiento aéreo: habitación individual, puerta cerrada, presión negativa con filtro HEPA, y FFP2/FFP3 colocada antes de entrar. Si sale de la habitación, el paciente lleva mascarilla quirúrgica."
+      "e": "La tuberculosis pulmonar o laríngea, el sarampión y la varicela requieren aislamiento aéreo: habitación individual, puerta cerrada, presión negativa con filtro HEPA, y FFP2/FFP3 colocada antes de entrar. Si sale de la habitación, el paciente lleva mascarilla quirúrgica.",
+      "por": ["La tuberculosis pulmonar es aérea, no de contacto.", null, "La mascarilla quirúrgica no protege frente a los núcleos de Wells.", "La presión positiva es para el aislamiento protector."]
     },
     {
       "q": "Un paciente con neutropenia grave (< 500 neutrófilos/mm³) tras un trasplante de médula requiere:",
       "o": ["Aislamiento protector, en habitación con presión positiva y filtro HEPA", "Aislamiento aéreo con presión negativa", "Aislamiento de contacto con material exclusivo", "Ningún tipo de aislamiento"],
       "a": 0,
-      "e": "El aislamiento protector o inverso protege al paciente del entorno: presión positiva (el aire filtrado sale hacia el pasillo), higiene de manos, bata, mascarilla, gorro y calzas, y prohibición de flores, plantas, fruta con piel o ensaladas crudas."
+      "e": "El aislamiento protector o inverso protege al paciente del entorno: presión positiva (el aire filtrado sale hacia el pasillo), higiene de manos, bata, mascarilla, gorro y calzas, y prohibición de flores, plantas, fruta con piel o ensaladas crudas.",
+      "por": [null, "La presión negativa es para el aislamiento aéreo.", "El aislamiento de contacto protege a los demás, no al paciente.", "Con neutropenia grave sí requiere aislamiento."]
     },
     {
       "q": "Al extraer hemocultivos con palomilla y sistema de vacío, el orden de llenado de los frascos es:",
       "o": ["Primero el anaerobio, porque es el más importante", "Es indiferente el orden", "Primero el anaerobio y después el aerobio, como con la jeringa", "Primero el aerobio y después el anaerobio, para que el aire del tubo de la palomilla vaya al frasco aerobio"],
       "a": 3,
-      "e": "Con palomilla y vacío, el aire del tubo pasaría al primer frasco: por eso se llena primero el aerobio y después el anaerobio. Con jeringa, en cambio, se inocula primero el anaerobio para no introducir el aire que queda al final del émbolo."
+      "e": "Con palomilla y vacío, el aire del tubo pasaría al primer frasco: por eso se llena primero el aerobio y después el anaerobio. Con jeringa, en cambio, se inocula primero el anaerobio para no introducir el aire que queda al final del émbolo.",
+      "por": ["Con palomilla el anaerobio no va primero: recibiría el aire.", "El orden sí importa.", "Primero el anaerobio es con jeringa, no con palomilla.", null]
     }
   ]
 }

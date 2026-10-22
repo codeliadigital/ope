@@ -7,181 +7,211 @@
       "q": "En los varones, el primer signo físico del inicio de la pubertad es:",
       "o": ["La aparición de vello púbico", "El crecimiento del pene en longitud", "El aumento del volumen testicular por encima de 4 ml", "El cambio de la voz"],
       "a": 2,
-      "e": "En el niño, el primer signo puberal es el aumento del volumen testicular (≥ 4 ml, Tanner II), que se mide con el orquidómetro de Prader, habitualmente entre los 9 y 14 años. El vello púbico y el crecimiento del pene son posteriores."
+      "e": "En el niño, el primer signo puberal es el aumento del volumen testicular (≥ 4 ml, Tanner II), que se mide con el orquidómetro de Prader, habitualmente entre los 9 y 14 años. El vello púbico y el crecimiento del pene son posteriores.",
+      "por": ["El vello púbico aparece después del aumento testicular.", "El crecimiento del pene es posterior.", null, "El cambio de voz es tardío."]
     },
     {
       "q": "En las niñas, el primer signo del desarrollo puberal suele ser:",
       "o": ["La telarquia (botón mamario)", "La pubarquia (vello púbico)", "La menarquia", "El pico de crecimiento"],
       "a": 0,
-      "e": "La telarquia (Tanner II mamario) es el primer signo puberal en la niña, entre los 8 y 13 años. La menarquia es un acontecimiento tardío de la pubertad."
+      "e": "La telarquia (Tanner II mamario) es el primer signo puberal en la niña, entre los 8 y 13 años. La menarquia es un acontecimiento tardío de la pubertad.",
+      "por": [null, "La pubarquia suele ser posterior a la telarquia.", "La menarquia es un acontecimiento tardío.", "El pico de crecimiento no es el primer signo."]
     },
     {
       "q": "Una adolescente presenta desarrollo mamario en estadio IV de Tanner y vello púbico en estadio II. El registro correcto es:",
       "o": ["Tanner IV global, igualando ambos parámetros", "Tanner II global, por el parámetro más inmaduro", "Tanner III, como media de ambos", "S4-P2, registrando cada parámetro por separado"],
       "a": 3,
-      "e": "El desarrollo mamario (estrógenos) y el vello púbico (andrógenos suprarrenales) progresan de forma independiente: se registran por separado (S4-P2). Unificarlos invalida el registro."
+      "e": "El desarrollo mamario (estrógenos) y el vello púbico (andrógenos suprarrenales) progresan de forma independiente: se registran por separado (S4-P2). Unificarlos invalida el registro.",
+      "por": ["No se igualan: cada parámetro va por su lado.", "No se toma el más inmaduro.", "No se hace la media.", null]
     },
     {
       "q": "La tendencia del adolescente a la impulsividad y la búsqueda de sensaciones se explica porque:",
       "o": ["La corteza prefrontal madura antes que el sistema límbico", "El sistema límbico (emociones y recompensa) madura antes que la corteza prefrontal (control de impulsos)", "La mielinización cerebral termina a los 12 años", "Disminuye la actividad del sistema de recompensa"],
       "a": 1,
-      "e": "La maduración cerebral avanza de atrás hacia delante: el sistema límbico madura antes que la corteza prefrontal, responsable del juicio y la inhibición de impulsos. Esta asimetría favorece las conductas de riesgo."
+      "e": "La maduración cerebral avanza de atrás hacia delante: el sistema límbico madura antes que la corteza prefrontal, responsable del juicio y la inhibición de impulsos. Esta asimetría favorece las conductas de riesgo.",
+      "por": ["Es al revés: el sistema límbico madura antes.", null, "La mielinización continúa hasta pasados los 20 años.", "El sistema de recompensa está muy activo, no disminuido."]
     },
     {
       "q": "Según Erikson, el conflicto psicosocial central de la adolescencia es:",
       "o": ["Identidad frente a confusión de roles", "Intimidad frente a aislamiento", "Laboriosidad frente a inferioridad", "Generatividad frente a estancamiento"],
       "a": 0,
-      "e": "En la adolescencia el conflicto es identidad frente a confusión de roles: el adolescente se separa psicológicamente de los padres y busca validación en el grupo de iguales. Para Piaget, entra en el estadio de las operaciones formales."
+      "e": "En la adolescencia el conflicto es identidad frente a confusión de roles: el adolescente se separa psicológicamente de los padres y busca validación en el grupo de iguales. Para Piaget, entra en el estadio de las operaciones formales.",
+      "por": [null, "Intimidad frente a aislamiento es la etapa del adulto joven.", "Laboriosidad frente a inferioridad es la etapa escolar.", "Generatividad frente a estancamiento es la edad adulta media."]
     },
     {
       "q": "Durante la entrevista HEEADSSS, un adolescente de 15 años cuenta que fuma cannabis los fines de semana. La actuación correcta de la enfermera es:",
       "o": ["Llamar inmediatamente a los padres para informarles", "Comunicarlo a la policía", "Mantener la confidencialidad y realizar una intervención de consejo sanitario", "Negarse a seguir atendiéndole sin la presencia de sus padres"],
       "a": 2,
-      "e": "Las conductas de riesgo requieren intervención y consejo, pero están protegidas por la confidencialidad. El secreto solo se rompe ante un riesgo grave e inminente para la vida del menor o de terceros, o ante maltrato o abuso."
+      "e": "Las conductas de riesgo requieren intervención y consejo, pero están protegidas por la confidencialidad. El secreto solo se rompe ante un riesgo grave e inminente para la vida del menor o de terceros, o ante maltrato o abuso.",
+      "por": ["No hay riesgo grave e inminente que justifique romper el secreto.", "No procede avisar a la policía.", null, "Puede atenderse sin sus padres."]
     },
     {
       "q": "¿En cuál de las siguientes situaciones está justificado romper la confidencialidad de un adolescente?",
       "o": ["Si refiere que no usa preservativo", "Si cuenta que ha suspendido varias asignaturas", "Si reconoce que bebe alcohol los fines de semana", "Si expresa un plan estructurado de suicidio"],
       "a": 3,
-      "e": "Al inicio de la entrevista se explican los límites de la confidencialidad: se rompe ante riesgo grave para la vida (ideación suicida con plan), riesgo para terceros, maltrato o abuso sexual."
+      "e": "Al inicio de la entrevista se explican los límites de la confidencialidad: se rompe ante riesgo grave para la vida (ideación suicida con plan), riesgo para terceros, maltrato o abuso sexual.",
+      "por": ["No usar preservativo requiere consejo, no romper el secreto.", "Suspender asignaturas no justifica romper el secreto.", "Beber los fines de semana requiere consejo, no romper el secreto.", null]
     },
     {
       "q": "Según la Ley 41/2002, un paciente de 16 años no emancipado que va a someterse a una cirugía programada sin riesgo grave:",
       "o": ["Necesita siempre la firma de ambos padres", "Presta él mismo el consentimiento; no cabe el consentimiento por representación", "Necesita autorización judicial", "Solo puede consentir si es menor maduro según el juez"],
       "a": 1,
-      "e": "A partir de los 16 años, o si está emancipado, el paciente consiente por sí mismo. La excepción es la actuación de grave riesgo para su vida o salud, en la que consiente el representante legal tras oír al menor; los ensayos clínicos y la reproducción asistida requieren la mayoría de edad."
+      "e": "A partir de los 16 años, o si está emancipado, el paciente consiente por sí mismo. La excepción es la actuación de grave riesgo para su vida o salud, en la que consiente el representante legal tras oír al menor; los ensayos clínicos y la reproducción asistida requieren la mayoría de edad.",
+      "por": ["A los 16 años no hacen falta los padres sin riesgo grave.", null, "No hace falta autorización judicial.", "A los 16 años no hace falta valorar la madurez."]
     },
     {
       "q": "¿Para cuál de las siguientes actuaciones se exige la mayoría de edad civil (18 años) y no basta con tener 16?",
       "o": ["La vacunación", "Una cirugía programada", "Las técnicas de reproducción humana asistida", "Las curas de una herida"],
       "a": 2,
-      "e": "Los ensayos clínicos y las técnicas de reproducción humana asistida se rigen por la mayoría de edad general (18 años). Para el resto de actuaciones sanitarias, a los 16 años el paciente consiente por sí mismo."
+      "e": "Los ensayos clínicos y las técnicas de reproducción humana asistida se rigen por la mayoría de edad general (18 años). Para el resto de actuaciones sanitarias, a los 16 años el paciente consiente por sí mismo.",
+      "por": ["La vacunación sigue la regla general de los 16 años.", "La cirugía programada sigue la regla general.", null, "Las curas siguen la regla general."]
     },
     {
       "q": "La ingesta recomendada de calcio entre los 9 y los 18 años es de:",
       "o": ["1.300 mg/día", "800 mg/día", "1.000 mg/día", "500 mg/día"],
       "a": 0,
-      "e": "En la adolescencia se recomiendan 1.300 mg/día de calcio, más que en el adulto (1.000 mg/día), para alcanzar un buen pico de masa ósea, protector frente a la osteoporosis."
+      "e": "En la adolescencia se recomiendan 1.300 mg/día de calcio, más que en el adulto (1.000 mg/día), para alcanzar un buen pico de masa ósea, protector frente a la osteoporosis.",
+      "por": [null, "800 mg es insuficiente en la adolescencia.", "1.000 mg es la recomendación del adulto.", "500 mg es muy insuficiente."]
     },
     {
       "q": "El aumento de las necesidades de hierro en el varón adolescente se debe principalmente a:",
       "o": ["Las pérdidas digestivas de sangre", "El mayor consumo de proteínas", "Las mismas pérdidas que en la mujer", "La expansión del volumen sanguíneo y el desarrollo de la masa muscular"],
       "a": 3,
-      "e": "Los varones necesitan unos 11 mg/día de hierro por el aumento de la volemia y la síntesis de mioglobina para la masa muscular. Las mujeres necesitan unos 15 mg/día para compensar las pérdidas menstruales."
+      "e": "Los varones necesitan unos 11 mg/día de hierro por el aumento de la volemia y la síntesis de mioglobina para la masa muscular. Las mujeres necesitan unos 15 mg/día para compensar las pérdidas menstruales.",
+      "por": ["No es por pérdidas digestivas.", "No se debe al consumo de proteínas.", "Las pérdidas menstruales son de las mujeres.", null]
     },
     {
       "q": "Una chica de 17 años con restricción alimentaria intensa, miedo a engordar e IMC de 15 mantiene menstruaciones regulares. Según el DSM-5:",
       "o": ["No puede diagnosticarse anorexia nerviosa porque no tiene amenorrea", "Puede diagnosticarse anorexia nerviosa, ya que la amenorrea dejó de ser un criterio", "Debe diagnosticarse bulimia nerviosa", "Debe clasificarse como un trastorno alimentario no especificado"],
       "a": 1,
-      "e": "El DSM-5 eliminó la amenorrea como criterio de anorexia nerviosa. El diagnóstico se basa en la restricción con peso significativamente bajo, el miedo intenso a engordar y la alteración de la percepción del peso o la figura."
+      "e": "El DSM-5 eliminó la amenorrea como criterio de anorexia nerviosa. El diagnóstico se basa en la restricción con peso significativamente bajo, el miedo intenso a engordar y la alteración de la percepción del peso o la figura.",
+      "por": ["El DSM-5 ya no exige la amenorrea.", null, "No tiene atracones ni conductas compensatorias propias de la bulimia.", "Cumple los criterios de anorexia."]
     },
     {
       "q": "Según el DSM-5, una anorexia nerviosa con un IMC de 15,5 kg/m² se clasifica como:",
       "o": ["Leve", "Moderada", "Grave", "Extrema"],
       "a": 2,
-      "e": "Gravedad de la anorexia en adultos según el IMC: leve ≥ 17; moderada 16-16,99; grave 15-15,99; extrema < 15 kg/m². En niños y adolescentes se usan percentiles equivalentes."
+      "e": "Gravedad de la anorexia en adultos según el IMC: leve ≥ 17; moderada 16-16,99; grave 15-15,99; extrema < 15 kg/m². En niños y adolescentes se usan percentiles equivalentes.",
+      "por": ["Leve es un IMC de 17 o más.", "Moderada es un IMC de 16 a 16,99.", null, "Extrema es un IMC menor de 15."]
     },
     {
       "q": "Para el diagnóstico de bulimia nerviosa según el DSM-5, los atracones y las conductas compensatorias deben producirse:",
       "o": ["Al menos una vez a la semana durante tres meses", "Al menos dos veces a la semana durante seis meses", "Al menos una vez al mes durante un año", "Diariamente durante un mes"],
       "a": 0,
-      "e": "El DSM-5 redujo la frecuencia exigida a una vez por semana durante tres meses (antes eran dos veces por semana). La gravedad se gradúa por el número de conductas compensatorias semanales."
+      "e": "El DSM-5 redujo la frecuencia exigida a una vez por semana durante tres meses (antes eran dos veces por semana). La gravedad se gradúa por el número de conductas compensatorias semanales.",
+      "por": [null, "Dos veces por semana durante 6 meses era el criterio antiguo.", "Una vez al mes no es suficiente.", "No se exige que sea diario."]
     },
     {
       "q": "El trastorno por atracón se diferencia de la bulimia nerviosa en que:",
       "o": ["Los atracones no implican pérdida de control", "Solo aparece en varones", "El peso es siempre muy bajo", "No existen conductas compensatorias regulares (vómitos, laxantes, ayuno)"],
       "a": 3,
-      "e": "En el trastorno por atracón hay atracones recurrentes con pérdida de control (al menos una vez por semana durante tres meses), pero sin conductas compensatorias; por eso tiende a asociarse con la obesidad."
+      "e": "En el trastorno por atracón hay atracones recurrentes con pérdida de control (al menos una vez por semana durante tres meses), pero sin conductas compensatorias; por eso tiende a asociarse con la obesidad.",
+      "por": ["Sí hay pérdida de control en el atracón.", "No es exclusivo de varones.", "Suele asociarse a obesidad, no a peso bajo.", null]
     },
     {
       "q": "El signo de Russell, propio de los pacientes con conductas purgativas, consiste en:",
       "o": ["Erosión del esmalte en la cara interna de los dientes", "Callosidades o erosiones en el dorso de la mano por provocarse el vómito", "Hipertrofia de las glándulas parótidas", "Vello fino en espalda y brazos"],
       "a": 1,
-      "e": "El signo de Russell son callosidades o cicatrices en el dorso de la mano (articulaciones metacarpofalángicas) por el roce con los incisivos al inducir el vómito. La erosión dental es la perimólisis y el vello fino, el lanugo de la anorexia."
+      "e": "El signo de Russell son callosidades o cicatrices en el dorso de la mano (articulaciones metacarpofalángicas) por el roce con los incisivos al inducir el vómito. La erosión dental es la perimólisis y el vello fino, el lanugo de la anorexia.",
+      "por": ["La erosión dental es la perimólisis.", null, "La hipertrofia parotídea es otro signo de vómitos.", "El vello fino es el lanugo."]
     },
     {
       "q": "En una paciente con bulimia y vómitos autoinducidos frecuentes, la alteración analítica esperable es:",
       "o": ["Acidosis metabólica con hiperpotasemia", "Alcalosis respiratoria con hipercalcemia", "Alcalosis metabólica hipoclorémica con hipopotasemia", "Acidosis respiratoria con hipernatremia"],
       "a": 2,
-      "e": "El vómito pierde ácido clorhídrico: alcalosis metabólica hipoclorémica con hipopotasemia, que puede alargar el QT y provocar arritmias graves. Es uno de los criterios de gravedad e ingreso."
+      "e": "El vómito pierde ácido clorhídrico: alcalosis metabólica hipoclorémica con hipopotasemia, que puede alargar el QT y provocar arritmias graves. Es uno de los criterios de gravedad e ingreso.",
+      "por": ["No hay acidosis: hay alcalosis.", "No es respiratoria ni hay hipercalcemia.", null, "No hay acidosis respiratoria."]
     },
     {
       "q": "En el cuestionario SCOFF de cribado de TCA, la sospecha es positiva a partir de:",
       "o": ["2 respuestas afirmativas", "1 respuesta afirmativa", "4 respuestas afirmativas", "5 respuestas afirmativas"],
       "a": 0,
-      "e": "El SCOFF tiene 5 preguntas de sí/no (sentirse lleno hasta el malestar, perder el control sobre la comida, perder más de 6 kg en 3 meses, sentirse gordo, la comida domina la vida). Dos o más síes indican sospecha. En el EAT-26, más de 20 puntos indica alto riesgo."
+      "e": "El SCOFF tiene 5 preguntas de sí/no (sentirse lleno hasta el malestar, perder el control sobre la comida, perder más de 6 kg en 3 meses, sentirse gordo, la comida domina la vida). Dos o más síes indican sospecha. En el EAT-26, más de 20 puntos indica alto riesgo.",
+      "por": [null, "Un solo sí no basta.", "4 síes no es el umbral.", "5 síes no es el umbral."]
     },
     {
       "q": "El dato analítico más característico del síndrome de realimentación es:",
       "o": ["La hipernatremia", "La hiperpotasemia", "La hipercalcemia", "La hipofosfatemia"],
       "a": 3,
-      "e": "Al reintroducir los hidratos de carbono, la insulina introduce en las células fósforo, potasio, magnesio y agua. La hipofosfatemia es el dato clave y causa fallo muscular, respiratorio y cardíaco; también hay hipopotasemia, hipomagnesemia y déficit de tiamina."
+      "e": "Al reintroducir los hidratos de carbono, la insulina introduce en las células fósforo, potasio, magnesio y agua. La hipofosfatemia es el dato clave y causa fallo muscular, respiratorio y cardíaco; también hay hipopotasemia, hipomagnesemia y déficit de tiamina.",
+      "por": ["La hipernatremia no es lo característico.", "Hay hipopotasemia, no hiperpotasemia.", "No es la hipercalcemia.", null]
     },
     {
       "q": "Para prevenir el síndrome de realimentación en una paciente con anorexia de alto riesgo, es correcto:",
       "o": ["Iniciar un aporte hipercalórico para recuperar peso cuanto antes", "Administrar tiamina antes de iniciar el aporte calórico y empezar con pocas calorías, aumentando lentamente", "Administrar glucosa intravenosa concentrada como primera medida", "Evitar los controles analíticos para no estresar a la paciente"],
       "a": 1,
-      "e": "La regla es «empezar bajo e ir despacio» (10-15 kcal/kg/día y subir en 4-7 días), con tiamina antes de cualquier aporte de glucosa, suplementos de fósforo, potasio y magnesio y control diario de iones la primera semana."
+      "e": "La regla es «empezar bajo e ir despacio» (10-15 kcal/kg/día y subir en 4-7 días), con tiamina antes de cualquier aporte de glucosa, suplementos de fósforo, potasio y magnesio y control diario de iones la primera semana.",
+      "por": ["Un aporte hipercalórico provoca el síndrome.", null, "La glucosa concentrada sin tiamina es peligrosa.", "Hacen falta controles diarios."]
     },
     {
       "q": "El pesaje de una paciente ingresada por anorexia nerviosa debe realizarse:",
       "o": ["Con la bata hospitalaria tras el desayuno, mirando la báscula para darle control", "Al final del día, con ropa de calle", "Por la mañana, tras orinar, en ropa interior y de espaldas al visor de la báscula", "Solo cuando la paciente lo solicite"],
       "a": 2,
-      "e": "Se pesa a primera hora, tras la micción (evita la «carga de agua»), en ropa interior (evita objetos ocultos) y de espaldas a la báscula, para reducir la fijación obsesiva con la cifra."
+      "e": "Se pesa a primera hora, tras la micción (evita la «carga de agua»), en ropa interior (evita objetos ocultos) y de espaldas a la báscula, para reducir la fijación obsesiva con la cifra.",
+      "por": ["Mirar la báscula aumenta la fijación con la cifra.", "Con ropa de calle y al final del día no es fiable.", null, "Se pesa de forma pautada, no a demanda."]
     },
     {
       "q": "Ante el diagnóstico «trastorno de la imagen corporal» en una adolescente con anorexia que está ganando peso, la intervención correcta es:",
       "o": ["Evitar los comentarios sobre su aspecto físico y ayudarla a separar la apariencia de su valía personal", "Felicitarla diciéndole que ya se la ve mejor y ha engordado", "Pesarla delante de un espejo para que vea su evolución", "Dejar que negocie el contenido de la bandeja para que gane confianza"],
       "a": 0,
-      "e": "Los comentarios sobre el aspecto («te veo mejor», «has cogido peso») los interpreta como que ha engordado y son iatrogénicos. Se trabaja la autoestima separando la apariencia de la valía personal. La dieta pautada no se negocia."
+      "e": "Los comentarios sobre el aspecto («te veo mejor», «has cogido peso») los interpreta como que ha engordado y son iatrogénicos. Se trabaja la autoestima separando la apariencia de la valía personal. La dieta pautada no se negocia.",
+      "por": [null, "Comentar que ha engordado es iatrogénico.", "Pesarla ante un espejo aumenta la fijación.", "La dieta pautada no se negocia."]
     },
     {
       "q": "El cuestionario de cribado de consumo de alcohol y drogas recomendado en adolescentes es:",
       "o": ["El CAGE", "El test de Fagerström", "El test de Morisky-Green", "El CRAFFT"],
       "a": 3,
-      "e": "El CRAFFT (12-21 años) es la herramienta de elección; dos o más respuestas afirmativas en la parte B indican alto riesgo. El CAGE no se recomienda en adolescentes por su baja sensibilidad. El Fagerström mide la dependencia de la nicotina."
+      "e": "El CRAFFT (12-21 años) es la herramienta de elección; dos o más respuestas afirmativas en la parte B indican alto riesgo. El CAGE no se recomienda en adolescentes por su baja sensibilidad. El Fagerström mide la dependencia de la nicotina.",
+      "por": ["El CAGE no se recomienda en adolescentes.", "El Fagerström mide la dependencia de la nicotina.", "Morisky-Green mide la adherencia terapéutica.", null]
     },
     {
       "q": "Un adolescente de 15 años llega a urgencias en coma etílico. Además del riesgo de aspiración, el principal riesgo metabólico es:",
       "o": ["La hiperglucemia por los azúcares de las bebidas", "La hipoglucemia por bloqueo de la gluconeogénesis hepática", "La hiperpotasemia", "La hipercalcemia"],
       "a": 1,
-      "e": "El etanol bloquea la gluconeogénesis y el adolescente tiene pocas reservas de glucógeno: riesgo de hipoglucemia grave. Se coloca en posición lateral de seguridad, se controla la glucemia y se protege del frío (la vasodilatación favorece la hipotermia)."
+      "e": "El etanol bloquea la gluconeogénesis y el adolescente tiene pocas reservas de glucógeno: riesgo de hipoglucemia grave. Se coloca en posición lateral de seguridad, se controla la glucemia y se protege del frío (la vasodilatación favorece la hipotermia).",
+      "por": ["El riesgo es la hipoglucemia, no la hiperglucemia.", null, "La hiperpotasemia no es el riesgo principal.", "La hipercalcemia no es el riesgo principal."]
     },
     {
       "q": "Un consumidor crónico de cannabis acude por vómitos incoercibles que, según refiere, mejoran con duchas de agua caliente. El tratamiento más adecuado es:",
       "o": ["Metoclopramida intravenosa", "Ondansetrón en dosis altas", "Fluidoterapia y aplicación de crema de capsaicina en el abdomen", "Dieta absoluta sin otra medida"],
       "a": 2,
-      "e": "Es un síndrome de hiperémesis cannabinoide. Los antieméticos clásicos son poco eficaces. Se trata con sueroterapia y capsaicina tópica en el abdomen, que imita el efecto del agua caliente sobre los receptores TRPV1, además del abandono del consumo."
+      "e": "Es un síndrome de hiperémesis cannabinoide. Los antieméticos clásicos son poco eficaces. Se trata con sueroterapia y capsaicina tópica en el abdomen, que imita el efecto del agua caliente sobre los receptores TRPV1, además del abandono del consumo.",
+      "por": ["La metoclopramida es poco eficaz en este síndrome.", "El ondansetrón es poco eficaz en este síndrome.", null, "La dieta absoluta sola no basta."]
     },
     {
       "q": "El flumazenilo está contraindicado en:",
       "o": ["La intoxicación aislada por benzodiacepinas en un paciente sin antecedentes", "La sedación por midazolam tras una endoscopia", "Cualquier paciente menor de 18 años", "La intoxicación mixta por benzodiacepinas y antidepresivos tricíclicos"],
       "a": 3,
-      "e": "El flumazenilo revierte las benzodiacepinas, pero anula su efecto anticonvulsivante: está contraindicado en intoxicaciones mixtas con tricíclicos, en epilépticos y en la dependencia crónica de benzodiacepinas, por el riesgo de convulsiones graves."
+      "e": "El flumazenilo revierte las benzodiacepinas, pero anula su efecto anticonvulsivante: está contraindicado en intoxicaciones mixtas con tricíclicos, en epilépticos y en la dependencia crónica de benzodiacepinas, por el riesgo de convulsiones graves.",
+      "por": ["En la intoxicación aislada por benzodiacepinas puede usarse.", "En la reversión de una sedación puede usarse.", "La edad no lo contraindica.", null]
     },
     {
       "q": "La intoxicación aguda por cocaína se caracteriza por:",
       "o": ["Agitación, taquicardia, hipertensión, midriasis, sudoración y riesgo de infarto por vasoespasmo", "Miosis puntiforme, bradipnea y coma", "Bradicardia, hipotensión y somnolencia", "Hipotermia y piel seca"],
       "a": 0,
-      "e": "La cocaína es un simpaticomimético (bloquea la recaptación de dopamina, noradrenalina y serotonina): agitación, verborrea, taquicardia, hipertensión, midriasis, sudoración, infarto por vasoespasmo y alucinaciones táctiles (Magnan). La miosis con bradipnea sugiere opioides."
+      "e": "La cocaína es un simpaticomimético (bloquea la recaptación de dopamina, noradrenalina y serotonina): agitación, verborrea, taquicardia, hipertensión, midriasis, sudoración, infarto por vasoespasmo y alucinaciones táctiles (Magnan). La miosis con bradipnea sugiere opioides.",
+      "por": [null, "La miosis con bradipnea y coma sugiere opioides.", "La cocaína produce taquicardia e hipertensión.", "La piel seca y la hipotermia no son típicas de la cocaína."]
     },
     {
       "q": "Un adolescente presenta fatiga diurna y fracaso escolar porque pasa las noches con el móvil y la consola hasta las 4 de la madrugada. Este fenómeno se denomina:",
       "o": ["Nomofobia", "Vamping", "FOMO", "Sexting"],
       "a": 1,
-      "e": "El vamping es el uso de pantallas durante la madrugada, que reduce el sueño; la luz azul inhibe la melatonina. La nomofobia es la angustia por estar sin móvil y el FOMO, la ansiedad por perderse lo que hacen los demás."
+      "e": "El vamping es el uso de pantallas durante la madrugada, que reduce el sueño; la luz azul inhibe la melatonina. La nomofobia es la angustia por estar sin móvil y el FOMO, la ansiedad por perderse lo que hacen los demás.",
+      "por": ["La nomofobia es la angustia de estar sin móvil.", null, "El FOMO es el miedo a perderse algo.", "El sexting es enviar imágenes íntimas."]
     },
     {
       "q": "El término grooming hace referencia a:",
       "o": ["El acoso entre compañeros a través de redes sociales", "El envío de imágenes íntimas propias", "El miedo a quedarse sin el teléfono móvil", "Las acciones de un adulto para ganarse la confianza de un menor con fines sexuales o de extorsión"],
       "a": 3,
-      "e": "El grooming lo realiza un adulto (a menudo con perfil falso) que crea un vínculo con el menor para obtener material íntimo o abusar de él. El acoso entre iguales por medios digitales es ciberbullying y el envío de imágenes propias, sexting."
+      "e": "El grooming lo realiza un adulto (a menudo con perfil falso) que crea un vínculo con el menor para obtener material íntimo o abusar de él. El acoso entre iguales por medios digitales es ciberbullying y el envío de imágenes propias, sexting.",
+      "por": ["El acoso entre iguales es ciberbullying.", "Enviar imágenes propias es sexting.", "El miedo a quedarse sin móvil es nomofobia.", null]
     },
     {
       "q": "Respecto al cigarrillo electrónico en adolescentes, es correcto:",
       "o": ["No es inocuo: suele contener nicotina, genera sustancias tóxicas y se asocia a lesión pulmonar aguda (EVALI)", "Solo emite vapor de agua sin riesgo para la salud", "No produce dependencia", "Es una alternativa recomendable para que los adolescentes no empiecen a fumar"],
       "a": 0,
-      "e": "El aerosol del vapeo contiene nicotina (dependencia) y, al calentarse el propilenglicol y la glicerina, formaldehído y acroleína. Se asocia a EVALI. La encuesta ESTUDES muestra su gran expansión entre los estudiantes."
+      "e": "El aerosol del vapeo contiene nicotina (dependencia) y, al calentarse el propilenglicol y la glicerina, formaldehído y acroleína. Se asocia a EVALI. La encuesta ESTUDES muestra su gran expansión entre los estudiantes.",
+      "por": [null, "No es solo vapor de agua.", "Sí produce dependencia por la nicotina.", "No es una alternativa recomendable."]
     }
   ]
 }

@@ -1,0 +1,93 @@
+1|a|En la de Broca el habla no es fluida y la comprensión se conserva.
+1|b|La afasia no se debe a una lesión occipital, y en la global tampoco es fluida.
+1|d|La disartria altera la articulación, no el lenguaje.
+2|b|3 es la flexión anormal (decorticación).
+2|c|4 es la retirada al dolor.
+2|d|5 es localizar el dolor.
+3|a|14-15 es TCE leve.
+3|b|12-13 es TCE moderado.
+3|c|9-13 es moderado.
+4|a|Los opiáceos dan miosis bilateral, no anisocoria.
+4|c|La sedación no produce anisocoria brusca.
+4|d|El VII par es el facial: no controla la pupila.
+5|b|Se desvía hacia el lado lesionado, no hacia el sano.
+5|c|No se desvía hacia arriba.
+5|d|Sí se desvía.
+6|a|1 es contracción sin movimiento.
+6|b|2 es movimiento sin vencer la gravedad.
+6|d|5 es fuerza normal contra resistencia.
+7|a|No hacen falta los tres: basta uno.
+7|c|La NIHSS es hospitalaria y no se exige un valor para activar el código.
+7|d|No se espera al TC para activarlo.
+8|b|Una hora es demasiado corto.
+8|c|12 horas supera la ventana de la fibrinólisis.
+8|d|72 horas es muy superior a la ventana.
+9|a|Menos de 10 minutos es el objetivo puerta-médico.
+9|b|Menos de 25 minutos es el objetivo puerta-TC.
+9|d|3 horas es demasiado.
+10|a|Bajarla rápido reduce la perfusión de la penumbra.
+10|b|Esas cifras son demasiado bajas en el ictus agudo.
+10|c|La hipotensión empeora la isquemia.
+11|a|Dar agua sin protocolo puede provocar aspiración.
+11|c|La sonda no es sistemática.
+11|d|Las dobles texturas son peligrosas en la disfagia.
+12|b|En supino aumenta el riesgo de aspiración.
+12|c|Los líquidos se espesan.
+12|d|Las dobles texturas están contraindicadas.
+13|a|Los cambios posturales son correctos.
+13|b|Los cojines para la rotación externa son correctos.
+13|d|La sedestación precoz es recomendable.
+14|a|Una crisis provocada por fiebre no es epilepsia.
+14|b|Una crisis por hipoglucemia es provocada.
+14|c|Una crisis por abstinencia es provocada.
+15|a|1 minuto es demasiado pronto.
+15|c|30 minutos es t2, el umbral de daño neuronal.
+15|d|60 minutos es demasiado tarde.
+16|b|No se mete nada en la boca.
+16|c|Sujetar puede causar fracturas y luxaciones.
+16|d|No se da nada por boca.
+17|a|La fenitoína es de segunda línea.
+17|b|El propofol es para el estatus refractario.
+17|d|El magnesio es para la eclampsia.
+18|a|La taquicardia no es el primer signo.
+18|b|La hipertensión no es signo de toxicidad.
+18|c|La fiebre no es signo de toxicidad.
+19|a|La lamotrigina es de las preferidas en el embarazo.
+19|c|El levetiracetam es de los preferidos.
+19|d|El ácido fólico no es un antiepiléptico y se recomienda.
+20|a|En el Alzheimer predomina la amnesia, no las alucinaciones precoces.
+20|b|La vascular empeora en escalones.
+20|d|La frontotemporal empieza con cambios de conducta.
+21|a|El inicio brusco en escalones es de la vascular.
+21|b|Los cambios de personalidad precoces son de la frontotemporal.
+21|c|La conciencia se conserva al inicio.
+22|b|La contención no es lo primero.
+22|c|Los neurolépticos a dosis altas no son lo primero.
+22|d|No se discuten los delirios.
+23|a|Las proteínas compiten con la levodopa.
+23|b|El horario es estricto para evitar fluctuaciones.
+23|d|La leche es rica en proteínas.
+24|a|Es al revés: el calor empeora.
+24|b|El temblor de reposo es del Parkinson.
+24|c|No es pérdida de memoria.
+25|b|La fuerza se pierde.
+25|c|La deglución se pierde en fases avanzadas.
+25|d|El fallo respiratorio es la causa de muerte.
+26|a|Es al revés: empeora con el ejercicio.
+26|c|Los aminoglucósidos empeoran la miastenia.
+26|d|Se da antes de comer para poder masticar y tragar.
+27|a|La pleocitosis neutrofílica es de la meningitis bacteriana.
+27|c|La glucosa baja es de la meningitis bacteriana.
+27|d|El LCR hemático es de la hemorragia.
+28|a|Hipotensión y taquicardia orientan a shock.
+28|b|Fiebre y rigidez de nuca orientan a meningitis.
+28|c|No es esa la tríada.
+29|b|Está al revés.
+29|c|No se suma la sistólica.
+29|d|No se usa la presión venosa central.
+30|a|Bajar la cámara vaciaría el LCR bruscamente.
+30|b|Elevarla sin pinzar no es lo indicado.
+30|c|No se retira para el aseo.
+31|a|El II par es el óptico: lleva la visión, no la constricción pupilar.
+31|c|El IV par mueve el ojo, no la pupila.
+31|d|El VI par mueve el ojo hacia fuera.

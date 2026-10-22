@@ -1,0 +1,90 @@
+1|a|No son solo horas de clase teórica.
+1|c|50 horas es demasiado.
+1|d|No equivale a una semana de prácticas.
+2|a|180 ECTS en 3 años era el modelo de diplomatura.
+2|b|300 ECTS en 5 años no es el de Enfermería.
+2|c|Son 240, no 200.
+3|b|30 ECTS es poco.
+3|c|90 ECTS es el módulo de prácticas y TFG.
+3|d|120 ECTS no es el de formación básica.
+4|a|36 ECTS no es la cifra.
+4|b|60 ECTS es la formación básica.
+4|d|120 ECTS no es la cifra.
+5|b|No es de 0 a 100.
+5|c|No es solo apto o no apto.
+5|d|No son letras.
+6|a|Hace falta un 9 y hay límite.
+6|b|Es a partir de 9 y hasta el 5%.
+6|c|No hace falta un 10 y sí hay límite.
+7|a|Con menos de 20 alumnos se permite una.
+7|c|Dos superan el límite.
+7|d|Tres superan el límite.
+8|a|Un centro de salud no basta.
+8|b|Dos hospitales no es el requisito.
+8|d|Tres hospitales no es el requisito.
+9|a|No es profesor titular.
+9|b|El profesor asociado sí tiene contrato.
+9|c|No es un estudiante.
+10|b|El estudiante no responde en exclusiva.
+10|c|Sí hay un responsable.
+10|d|No es solo la universidad.
+11|a|El RD 183/2008 organiza la formación especializada.
+11|b|El RD 1146/2006 regula la relación laboral del residente.
+11|d|El RD 639/2015 regula los diplomas de acreditación.
+12|a|Un año no es la duración.
+12|c|Tres años no es la duración.
+12|d|Cuatro años no es la duración.
+13|b|Geriátrica está desarrollada.
+13|c|Del trabajo está desarrollada.
+13|d|Pediátrica está desarrollada.
+14|a|El RD 450/2005 es el de especialidades.
+14|b|El RD 183/2008 organiza la docencia.
+14|c|El RD 589/2022 no regula la relación laboral del residente.
+15|a|El plan de estudios lo regula la Orden CIN/2134/2008.
+15|b|La dependencia la regula la Ley 39/2006.
+15|d|La carrera profesional tiene su propia normativa.
+16|b|No la preside el gerente.
+16|c|No la preside el director de enfermería.
+16|d|No la preside el tutor más antiguo.
+17|a|2 no es el máximo.
+17|c|10 supera el máximo.
+17|d|Sí hay límite.
+18|a|El tutor informa, no califica.
+18|b|El colaborador docente no califica.
+18|c|El residente no se califica a sí mismo.
+19|a|Es antes de terminar el año, no después.
+19|b|No es al inicio.
+19|d|Es anual, no solo al final.
+20|b|La repetición es de la negativa recuperable.
+20|c|Sí tiene consecuencias.
+20|d|No se promociona.
+21|a|El expediente académico es del grado.
+21|c|El Plan Individual lo elabora el tutor.
+21|d|El informe anual es del tutor.
+22|a|No es voluntaria sin efectos.
+22|b|No es solo un deber.
+22|c|No es solo un derecho.
+23|a|Valen en todo el territorio nacional.
+23|b|No solo en el centro organizador.
+23|d|No caducan a los dos años.
+24|b|No tiene voto.
+24|c|No preside.
+24|d|Sí asiste.
+25|a|No se calcula igual que el ECTS.
+25|b|No depende del número de alumnos.
+25|c|No depende del precio.
+26|a|El precio no se valora.
+26|c|La categoría del organizador no es un apartado.
+26|d|Los patrocinadores no se valoran.
+27|a|El RD 450/2005 es el de especialidades.
+27|b|El RD 183/2008 es de formación especializada.
+27|d|El RD 1125/2003 es el de créditos y calificaciones.
+28|b|La Orden CIN es del plan de estudios.
+28|c|El RD 1146/2006 es del residente.
+28|d|La Ley 39/2006 es de dependencia.
+29|a|Un año no es el mínimo.
+29|b|Dos años no es el mínimo.
+29|c|Tres años no es el mínimo.
+30|a|La simple asistencia pierde peso.
+30|c|La antigüedad sola no basta.
+30|d|Las horas extra no se valoran así.

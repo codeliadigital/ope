@@ -1,0 +1,105 @@
+1|a|La radiografía no es la X del ABCDE.
+1|c|La exposición es la E.
+1|d|La inmovilización no es la X.
+2|a|La hiperextensión puede lesionar la médula.
+2|b|La flexión del cuello está contraindicada.
+2|c|La rotación de la cabeza está contraindicada.
+3|b|En la fractura de fémur sí se aplica la hipotensión permisiva.
+3|c|En el traumatismo abdominal cerrado sí se aplica.
+3|d|El anciano anticoagulado no es la excepción clásica.
+4|a|No son esos los componentes de la tríada.
+4|b|No son esos los componentes.
+4|d|No son esos los componentes.
+5|a|La distensión es una indicación de sonda.
+5|b|Los vómitos no la contraindican.
+5|c|La fractura de fémur no la contraindica.
+6|b|Baja prioridad es 12.
+6|c|La situación agónica es por debajo de 3.
+6|d|11 no es negro.
+7|a|18% es solo el tronco anterior.
+7|c|36% sería tronco anterior y posterior.
+7|d|45% no corresponde.
+8|a|27% suma la espalda con primer grado.
+8|b|18% es la espalda, que es primer grado.
+8|d|36% no corresponde.
+9|b|No se da todo en la primera hora ni son 2 ml.
+9|c|30 ml/kg es la pauta de la sepsis.
+9|d|No es la fórmula de Parkland.
+10|a|Las 20:00 h es contar 6 horas.
+10|b|Las 8 horas se cuentan desde el accidente, no desde la llegada.
+10|c|Las 18:00 h es contar solo 4 horas.
+11|a|La vía IM se absorbe de forma errática.
+11|c|La vía SC se absorbe de forma errática.
+11|d|La vía rectal no es adecuada.
+12|a|El hipovolémico cursa con taquicardia y piel fría.
+12|b|El cardiogénico cursa con taquicardia y piel fría.
+12|d|El obstructivo cursa con taquicardia.
+13|b|La dopamina ya no es de primera elección.
+13|c|La dobutamina se reserva para la disfunción miocárdica.
+13|d|La adrenalina es de segunda línea.
+14|a|Los cultivos van antes del antibiótico.
+14|b|No se espera al lactato.
+14|c|Los líquidos van antes que los vasopresores.
+15|a|En supino aumenta el riesgo de aspiración.
+15|b|El lateral derecho favorece el paso al duodeno.
+15|d|La sedestación no es la posición indicada.
+16|b|En benzodiacepinas en la primera hora puede hacerse.
+16|c|Los tricíclicos no lo contraindican.
+16|d|Los salicilatos no lo contraindican.
+17|a|El carbón sí adsorbe el paracetamol.
+17|c|Sí adsorbe las benzodiacepinas.
+17|d|Sí adsorbe los tricíclicos.
+18|a|El colinérgico da miosis y sudoración.
+18|b|El opioide da miosis.
+18|c|El simpaticomimético cursa con sudoración.
+19|b|El flumazenilo es para las benzodiacepinas.
+19|c|La deferoxamina es para el hierro.
+19|d|La naloxona es para los opioides.
+20|a|No produce hipertensión grave.
+20|b|No produce hipoglucemia.
+20|d|Las convulsiones son del flumazenilo.
+21|a|A alto flujo puede ser perjudicial.
+21|b|El dolor no es la indicación.
+21|c|No depende del traslado.
+22|a|Elevar las piernas aumenta la precarga.
+22|c|El Trendelenburg empeora el edema.
+22|d|El lateral izquierdo no es la posición indicada.
+23|b|Bajarla de golpe empeora la isquemia.
+23|c|No se da nitroprusiato en bolo.
+23|d|Bajarla un 50% es excesivo.
+24|a|En glucosado precipita.
+24|b|Con glucosa precipita.
+24|d|Hay que diluirla en suero fisiológico.
+25|a|El diazepam IM se absorbe mal.
+25|b|La vía oral no se usa en plena crisis.
+25|c|El levetiracetam no se da por vía subcutánea.
+26|a|Los antihistamínicos son coadyuvantes.
+26|c|Los corticoides son coadyuvantes.
+26|d|La vía es IM en el muslo, no subcutánea.
+27|a|El tipo I es fallecido a la llegada.
+27|b|El tipo II es RCP infructuosa.
+27|d|El tipo IV es parada en muerte encefálica.
+28|b|60-80 por minuto y 3-4 cm es insuficiente.
+28|c|Más de 140 por minuto es demasiado rápido.
+28|d|8 cm es demasiado profundo.
+29|a|Antes de la primera descarga no se da.
+29|b|Tras la primera descarga no se da.
+29|c|En la FV se da sin esperar a la asistolia.
+30|a|30:2 es para el adulto o un reanimador lego.
+30|c|5:1 no es una relación vigente.
+30|d|3:1 es para el neonato.
+31|b|La asistolia es una línea plana.
+31|c|La AESP tiene un ritmo organizado.
+31|d|La FA rápida tiene QRS estrechos y pulso.
+32|a|La asistolia no se desfibrila.
+32|b|No se cardiovierte: no hay ritmo.
+32|d|La amiodarona es para ritmos desfibrilables.
+33|a|La sincronizada es para la TV con pulso.
+33|c|La adenosina es para taquicardias con pulso.
+33|d|Las maniobras vagales no sirven sin pulso.
+34|a|El flumazenilo es para las benzodiacepinas.
+34|b|La N-acetilcisteína es para el paracetamol.
+34|c|La atropina es para los organofosforados.
+35|a|El opioide da miosis.
+35|b|El colinérgico da miosis y sudoración.
+35|d|El sedante no da piel roja, seca e hipertermia.

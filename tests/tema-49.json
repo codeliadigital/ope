@@ -7,216 +7,251 @@
       "q": "En la sistemática X-ABCDE del paciente politraumatizado, la «X» hace referencia a:",
       "o": ["La radiografía cervical urgente", "El control de la hemorragia externa exanguinante, que se aborda antes que la vía aérea", "La exposición completa del paciente", "La inmovilización con tabla espinal"],
       "a": 1,
-      "e": "Una hemorragia masiva mata en minutos, así que se controla primero con compresión directa o torniquete. Después siguen la A (vía aérea con control cervical), la B, la C, la D y la E (exposición y prevención de la hipotermia)."
+      "e": "Una hemorragia masiva mata en minutos, así que se controla primero con compresión directa o torniquete. Después siguen la A (vía aérea con control cervical), la B, la C, la D y la E (exposición y prevención de la hipotermia).",
+      "por": ["La radiografía no es la X del ABCDE.", null, "La exposición es la E.", "La inmovilización no es la X."]
     },
     {
       "q": "En un paciente politraumatizado, la apertura de la vía aérea debe realizarse mediante:",
       "o": ["La maniobra frente-mentón con hiperextensión del cuello", "La flexión del cuello", "La rotación lateral de la cabeza", "La tracción mandibular, sin hiperextender el cuello"],
       "a": 3,
-      "e": "Se asume que existe una lesión cervical hasta demostrar lo contrario. Se coloca un collarín rígido y un inmovilizador tetracameral y, si hay que intubar, se mantiene la estabilización manual en línea."
+      "e": "Se asume que existe una lesión cervical hasta demostrar lo contrario. Se coloca un collarín rígido y un inmovilizador tetracameral y, si hay que intubar, se mantiene la estabilización manual en línea.",
+      "por": ["La hiperextensión puede lesionar la médula.", "La flexión del cuello está contraindicada.", "La rotación de la cabeza está contraindicada.", null]
     },
     {
       "q": "En la reposición de volumen del politraumatizado con hemorragia, la hipotensión permisiva busca mantener una PAS de 80-90 mmHg, excepto en:",
       "o": ["El traumatismo craneoencefálico grave", "La fractura de fémur", "El traumatismo abdominal cerrado", "El paciente anciano anticoagulado"],
       "a": 0,
-      "e": "Los grandes volúmenes diluyen los factores de coagulación, enfrían al paciente y desprenden los coágulos. En el TCE grave, en cambio, se necesita una presión mayor para mantener la perfusión cerebral."
+      "e": "Los grandes volúmenes diluyen los factores de coagulación, enfrían al paciente y desprenden los coágulos. En el TCE grave, en cambio, se necesita una presión mayor para mantener la perfusión cerebral.",
+      "por": [null, "En la fractura de fémur sí se aplica la hipotensión permisiva.", "En el traumatismo abdominal cerrado sí se aplica.", "El anciano anticoagulado no es la excepción clásica."]
     },
     {
       "q": "La llamada «tríada letal» del paciente traumatizado está formada por:",
       "o": ["Hipotensión, taquicardia y oliguria", "Hipoxia, hipercapnia y acidosis", "Hipotermia, coagulopatía y acidosis metabólica", "Hipoglucemia, hipotermia y bradicardia"],
       "a": 2,
-      "e": "Cada elemento empeora a los otros dos. Por eso, en la E del ABCDE se desviste al paciente para explorarlo y se le tapa enseguida con mantas o sistemas de calor."
+      "e": "Cada elemento empeora a los otros dos. Por eso, en la E del ABCDE se desviste al paciente para explorarlo y se le tapa enseguida con mantas o sistemas de calor.",
+      "por": ["No son esos los componentes de la tríada.", "No son esos los componentes.", null, "No son esos los componentes."]
     },
     {
       "q": "Está contraindicado colocar una sonda nasogástrica en un politraumatizado que presenta:",
       "o": ["Distensión abdominal", "Vómitos", "Fractura de fémur", "Hematoma retroauricular (signo de Battle) y salida de líquido claro por la nariz"],
       "a": 3,
-      "e": "El signo de Battle y la rinolicuorrea sugieren una fractura de la base del cráneo, y la sonda podría entrar en la cavidad craneal: se usa la vía orogástrica. Si hay sangre en el meato, lo que está contraindicado es el sondaje vesical."
+      "e": "El signo de Battle y la rinolicuorrea sugieren una fractura de la base del cráneo, y la sonda podría entrar en la cavidad craneal: se usa la vía orogástrica. Si hay sangre en el meato, lo que está contraindicado es el sondaje vesical.",
+      "por": ["La distensión es una indicación de sonda.", "Los vómitos no la contraindican.", "La fractura de fémur no la contraindica.", null]
     },
     {
       "q": "Un paciente traumatizado obtiene una puntuación de 11 en el Revised Trauma Score (RTS). Esto indica:",
       "o": ["Alta prioridad: asistencia urgente", "Baja prioridad: asistencia demorable", "Situación agónica", "Que debe clasificarse como negro"],
       "a": 0,
-      "e": "El RTS suma Glasgow, PAS y frecuencia respiratoria (0-12). Con 12 la asistencia es demorable, con 11 es urgente, de 3 a 10 inmediata, y por debajo de 3 indica una situación agónica."
+      "e": "El RTS suma Glasgow, PAS y frecuencia respiratoria (0-12). Con 12 la asistencia es demorable, con 11 es urgente, de 3 a 10 inmediata, y por debajo de 3 indica una situación agónica.",
+      "por": [null, "Baja prioridad es 12.", "La situación agónica es por debajo de 3.", "11 no es negro."]
     },
     {
       "q": "Según la regla de los 9 de Wallace, un adulto con quemaduras de segundo grado en todo el tronco anterior y en todo el brazo izquierdo tiene una superficie quemada de:",
       "o": ["18%", "27%", "36%", "45%"],
       "a": 1,
-      "e": "El tronco anterior vale 18% y cada brazo, 9%: 18 + 9 = 27%. La cabeza vale 9%, el tronco posterior 18%, cada pierna 18% y el periné 1%. En niños se usan las tablas de Lund-Browder."
+      "e": "El tronco anterior vale 18% y cada brazo, 9%: 18 + 9 = 27%. La cabeza vale 9%, el tronco posterior 18%, cada pierna 18% y el periné 1%. En niños se usan las tablas de Lund-Browder.",
+      "por": ["18% es solo el tronco anterior.", null, "36% sería tronco anterior y posterior.", "45% no corresponde."]
     },
     {
       "q": "Un paciente tiene una quemadura solar (primer grado) en toda la espalda y una quemadura con flictenas (segundo grado) en todo el brazo derecho. La superficie que se usa para calcular la reposición de líquidos es:",
       "o": ["27%", "18%", "9%", "36%"],
       "a": 2,
-      "e": "Las quemaduras de primer grado (eritema) no se cuentan para la reposición. Solo se suma el brazo con quemadura de segundo grado: 9%."
+      "e": "Las quemaduras de primer grado (eritema) no se cuentan para la reposición. Solo se suma el brazo con quemadura de segundo grado: 9%.",
+      "por": ["27% suma la espalda con primer grado.", "18% es la espalda, que es primer grado.", null, "36% no corresponde."]
     },
     {
       "q": "La fórmula de Parkland para la reposición de líquidos en el gran quemado es:",
       "o": ["4 ml × kg de peso × % de superficie quemada en 24 h, administrando la mitad en las primeras 8 horas", "2 ml × kg × % de superficie quemada, todo en la primera hora", "30 ml/kg en bolo", "1.500 ml/m² al día repartidos en 24 horas"],
       "a": 0,
-      "e": "Se usa Ringer lactato: la mitad del volumen en las primeras 8 horas y la otra mitad en las 16 siguientes. La reposición se ajusta con la diuresis horaria (0,5-1 ml/kg/h en el adulto)."
+      "e": "Se usa Ringer lactato: la mitad del volumen en las primeras 8 horas y la otra mitad en las 16 siguientes. La reposición se ajusta con la diuresis horaria (0,5-1 ml/kg/h en el adulto).",
+      "por": [null, "No se da todo en la primera hora ni son 2 ml.", "30 ml/kg es la pauta de la sepsis.", "No es la fórmula de Parkland."]
     },
     {
       "q": "Un paciente sufre una quemadura extensa a las 14:00 h y llega al hospital a las 17:00 h. Según la fórmula de Parkland, la primera mitad del volumen calculado debe haberse administrado:",
       "o": ["Antes de las 20:00 h", "En las 8 horas siguientes a su llegada, es decir, antes de la 01:00 h", "Antes de las 18:00 h", "Antes de las 22:00 h"],
       "a": 3,
-      "e": "Las primeras 8 horas se cuentan desde el momento del accidente, no desde la llegada. Desde las 14:00 h, el plazo termina a las 22:00 h: quedan 5 horas para administrar el 50% del volumen."
+      "e": "Las primeras 8 horas se cuentan desde el momento del accidente, no desde la llegada. Desde las 14:00 h, el plazo termina a las 22:00 h: quedan 5 horas para administrar el 50% del volumen.",
+      "por": ["Las 20:00 h es contar 6 horas.", "Las 8 horas se cuentan desde el accidente, no desde la llegada.", "Las 18:00 h es contar solo 4 horas.", null]
     },
     {
       "q": "En un gran quemado con dolor intenso, la vía de administración de los opioides debe ser:",
       "o": ["Intramuscular", "Intravenosa", "Subcutánea", "Rectal"],
       "a": 1,
-      "e": "El edema hace que la absorción IM o SC sea errática: el fármaco se acumula y puede pasar de golpe a la sangre cuando el edema se reabsorbe. La analgesia se administra antes de las curas."
+      "e": "El edema hace que la absorción IM o SC sea errática: el fármaco se acumula y puede pasar de golpe a la sangre cuando el edema se reabsorbe. La analgesia se administra antes de las curas.",
+      "por": ["La vía IM se absorbe de forma errática.", null, "La vía SC se absorbe de forma errática.", "La vía rectal no es adecuada."]
     },
     {
       "q": "Un paciente con una lesión medular cervical presenta hipotensión con bradicardia y la piel caliente. Se trata probablemente de un shock:",
       "o": ["Hipovolémico", "Cardiogénico", "Neurogénico", "Obstructivo"],
       "a": 2,
-      "e": "La lesión por encima de T4 interrumpe el control simpático: hay vasodilatación sin taquicardia compensadora. En los demás tipos de shock suele aparecer taquicardia."
+      "e": "La lesión por encima de T4 interrumpe el control simpático: hay vasodilatación sin taquicardia compensadora. En los demás tipos de shock suele aparecer taquicardia.",
+      "por": ["El hipovolémico cursa con taquicardia y piel fría.", "El cardiogénico cursa con taquicardia y piel fría.", null, "El obstructivo cursa con taquicardia."]
     },
     {
       "q": "El vasopresor de primera elección en el shock séptico es:",
       "o": ["La noradrenalina", "La dopamina", "La dobutamina", "La adrenalina"],
       "a": 0,
-      "e": "Se inicia si la hipotensión persiste durante o tras la reposición de volumen, con el objetivo de una PAM ≥ 65 mmHg. Si no basta, se añade vasopresina o adrenalina; la dobutamina se reserva para la disfunción miocárdica."
+      "e": "Se inicia si la hipotensión persiste durante o tras la reposición de volumen, con el objetivo de una PAM ≥ 65 mmHg. Si no basta, se añade vasopresina o adrenalina; la dobutamina se reserva para la disfunción miocárdica.",
+      "por": [null, "La dopamina ya no es de primera elección.", "La dobutamina se reserva para la disfunción miocárdica.", "La adrenalina es de segunda línea."]
     },
     {
       "q": "Ante un paciente con sospecha de shock séptico, el orden correcto de actuación es:",
       "o": ["Administrar el antibiótico y extraer hemocultivos a las 24 horas", "Esperar el resultado del lactato antes de iniciar cualquier tratamiento", "Iniciar vasopresores antes de los líquidos", "Extraer hemocultivos y administrar el antibiótico de amplio espectro en la primera hora"],
       "a": 3,
-      "e": "Los cultivos se sacan antes del antibiótico, sin retrasarlo. Además se mide el lactato y, si hay hipotensión o lactato ≥ 4 mmol/L, se administran 30 ml/kg de cristaloides."
+      "e": "Los cultivos se sacan antes del antibiótico, sin retrasarlo. Además se mide el lactato y, si hay hipotensión o lactato ≥ 4 mmol/L, se administran 30 ml/kg de cristaloides.",
+      "por": ["Los cultivos van antes del antibiótico.", "No se espera al lactato.", "Los líquidos van antes que los vasopresores.", null]
     },
     {
       "q": "Para hacer un lavado gástrico en una intoxicación, el paciente se coloca en:",
       "o": ["Decúbito supino con la cabecera a 45°", "Decúbito lateral derecho", "Decúbito lateral izquierdo con ligero Trendelenburg", "Sedestación"],
       "a": 2,
-      "e": "Esta posición dificulta el paso del contenido al duodeno y protege frente a la aspiración. Se usa una sonda gruesa (Faucher) y está indicado sobre todo dentro de la primera hora tras la ingesta."
+      "e": "Esta posición dificulta el paso del contenido al duodeno y protege frente a la aspiración. Se usa una sonda gruesa (Faucher) y está indicado sobre todo dentro de la primera hora tras la ingesta.",
+      "por": ["En supino aumenta el riesgo de aspiración.", "El lateral derecho favorece el paso al duodeno.", null, "La sedestación no es la posición indicada."]
     },
     {
       "q": "El lavado gástrico está contraindicado en la intoxicación por:",
       "o": ["Derivados del petróleo (hidrocarburos) y cáusticos", "Benzodiacepinas en la primera hora", "Antidepresivos tricíclicos", "Salicilatos"],
       "a": 0,
-      "e": "Con cáusticos hay riesgo de perforación, y con hidrocarburos, de neumonitis por aspiración. Tampoco se hace si el Glasgow es inferior a 8 o falta el reflejo nauseoso sin la vía aérea aislada."
+      "e": "Con cáusticos hay riesgo de perforación, y con hidrocarburos, de neumonitis por aspiración. Tampoco se hace si el Glasgow es inferior a 8 o falta el reflejo nauseoso sin la vía aérea aislada.",
+      "por": [null, "En benzodiacepinas en la primera hora puede hacerse.", "Los tricíclicos no lo contraindican.", "Los salicilatos no lo contraindican."]
     },
     {
       "q": "El carbón activado NO es eficaz en la intoxicación por:",
       "o": ["Paracetamol", "Litio", "Benzodiacepinas", "Antidepresivos tricíclicos"],
       "a": 1,
-      "e": "El carbón no adsorbe metales (litio, hierro, plomo), alcoholes, cáusticos ni hidrocarburos. Es el método de descontaminación de elección para la mayoría de fármacos, idealmente en la primera hora."
+      "e": "El carbón no adsorbe metales (litio, hierro, plomo), alcoholes, cáusticos ni hidrocarburos. Es el método de descontaminación de elección para la mayoría de fármacos, idealmente en la primera hora.",
+      "por": ["El carbón sí adsorbe el paracetamol.", null, "Sí adsorbe las benzodiacepinas.", "Sí adsorbe los tricíclicos."]
     },
     {
       "q": "Un paciente presenta midriasis, taquicardia, piel roja, caliente y seca, retención urinaria y agitación con alucinaciones. Corresponde al síndrome:",
       "o": ["Colinérgico", "Opioide", "Simpaticomimético", "Anticolinérgico"],
       "a": 3,
-      "e": "Lo causan la atropina, los antidepresivos tricíclicos o los antihistamínicos. El simpaticomimético (cocaína, anfetaminas) también produce midriasis y taquicardia, pero con sudoración abundante."
+      "e": "Lo causan la atropina, los antidepresivos tricíclicos o los antihistamínicos. El simpaticomimético (cocaína, anfetaminas) también produce midriasis y taquicardia, pero con sudoración abundante.",
+      "por": ["El colinérgico da miosis y sudoración.", "El opioide da miosis.", "El simpaticomimético cursa con sudoración.", null]
     },
     {
       "q": "El antídoto de la intoxicación por paracetamol es:",
       "o": ["La N-acetilcisteína", "El flumazenilo", "La deferoxamina", "La naloxona"],
       "a": 0,
-      "e": "La N-acetilcisteína evita la necrosis hepática que produce el metabolito tóxico del paracetamol. El flumazenilo revierte las benzodiacepinas, la deferoxamina quela el hierro y la naloxona antagoniza los opioides."
+      "e": "La N-acetilcisteína evita la necrosis hepática que produce el metabolito tóxico del paracetamol. El flumazenilo revierte las benzodiacepinas, la deferoxamina quela el hierro y la naloxona antagoniza los opioides.",
+      "por": [null, "El flumazenilo es para las benzodiacepinas.", "La deferoxamina es para el hierro.", "La naloxona es para los opioides."]
     },
     {
       "q": "Tras revertir con naloxona una sobredosis de heroína, el paciente debe seguir vigilado porque:",
       "o": ["La naloxona produce hipertensión grave", "La naloxona provoca hipoglucemia", "La naloxona tiene una vida media más corta que muchos opioides y el paciente puede volver a sedarse", "La naloxona causa siempre convulsiones"],
       "a": 2,
-      "e": "Puede requerir dosis repetidas o perfusión continua, sobre todo con opioides de acción prolongada (metadona, fentanilo en parches). Con el flumazenilo, el riesgo son las convulsiones en consumidores crónicos."
+      "e": "Puede requerir dosis repetidas o perfusión continua, sobre todo con opioides de acción prolongada (metadona, fentanilo en parches). Con el flumazenilo, el riesgo son las convulsiones en consumidores crónicos.",
+      "por": ["No produce hipertensión grave.", "No produce hipoglucemia.", null, "Las convulsiones son del flumazenilo."]
     },
     {
       "q": "En un paciente con síndrome coronario agudo, el oxígeno está indicado cuando:",
       "o": ["Siempre, a alto flujo", "Solo si hay dolor torácico", "Solo durante el traslado", "Solo si la saturación de oxígeno es inferior al 90%"],
       "a": 3,
-      "e": "La hiperoxia puede producir vasoconstricción coronaria. Lo prioritario es hacer un ECG de 12 derivaciones en menos de 10 minutos y vigilar el ritmo por el riesgo de fibrilación ventricular."
+      "e": "La hiperoxia puede producir vasoconstricción coronaria. Lo prioritario es hacer un ECG de 12 derivaciones en menos de 10 minutos y vigilar el ritmo por el riesgo de fibrilación ventricular.",
+      "por": ["A alto flujo puede ser perjudicial.", "El dolor no es la indicación.", "No depende del traslado.", null]
     },
     {
       "q": "Ante un edema agudo de pulmón cardiogénico, la posición más adecuada es:",
       "o": ["Decúbito supino con las piernas elevadas", "Sentado con las piernas colgando", "Trendelenburg", "Decúbito lateral izquierdo"],
       "a": 1,
-      "e": "Con las piernas colgando se retiene sangre en ellas y disminuye el retorno venoso (precarga). Además se usa VMNI (CPAP o BiPAP), furosemida IV y nitroglicerina IV."
+      "e": "Con las piernas colgando se retiene sangre en ellas y disminuye el retorno venoso (precarga). Además se usa VMNI (CPAP o BiPAP), furosemida IV y nitroglicerina IV.",
+      "por": ["Elevar las piernas aumenta la precarga.", null, "El Trendelenburg empeora el edema.", "El lateral izquierdo no es la posición indicada."]
     },
     {
       "q": "Un paciente con sospecha de ictus isquémico, que no va a recibir fibrinólisis, tiene una TA de 200/100 mmHg. La actuación correcta respecto a la tensión es:",
       "o": ["No bajarla, salvo que supere 220/120 mmHg", "Bajarla de inmediato por debajo de 140/90 mmHg", "Administrar nitroprusiato en bolo", "Reducir la PAM un 50% en la primera hora"],
       "a": 0,
-      "e": "En el ictus isquémico se permite una TA alta para mantener la perfusión de la zona en riesgo. Si se va a fibrinolisar, debe estar por debajo de 185/110. En la disección aórtica, en cambio, se baja de forma rápida (PAS < 120)."
+      "e": "En el ictus isquémico se permite una TA alta para mantener la perfusión de la zona en riesgo. Si se va a fibrinolisar, debe estar por debajo de 185/110. En la disección aórtica, en cambio, se baja de forma rápida (PAS < 120).",
+      "por": [null, "Bajarla de golpe empeora la isquemia.", "No se da nitroprusiato en bolo.", "Bajarla un 50% es excesivo."]
     },
     {
       "q": "La fenitoína intravenosa para el estatus epiléptico debe diluirse:",
       "o": ["En suero glucosado al 5%", "En Ringer lactato con glucosa", "Solo en suero fisiológico al 0,9%", "En agua para inyección sin diluir más"],
       "a": 2,
-      "e": "La fenitoína precipita en suero glucosado y puede formar cristales y émbolos o producir flebitis. Hoy el levetiracetam es una alternativa de segunda línea muy utilizada por su seguridad."
+      "e": "La fenitoína precipita en suero glucosado y puede formar cristales y émbolos o producir flebitis. Hoy el levetiracetam es una alternativa de segunda línea muy utilizada por su seguridad.",
+      "por": ["En glucosado precipita.", "Con glucosa precipita.", null, "Hay que diluirla en suero fisiológico."]
     },
     {
       "q": "Un paciente lleva 6 minutos convulsionando y no se consigue canalizar una vía venosa. El fármaco y la vía más adecuados son:",
       "o": ["Diazepam intramuscular", "Fenitoína oral", "Levetiracetam subcutáneo", "Midazolam intramuscular o intranasal"],
       "a": 3,
-      "e": "El diazepam IM se absorbe de forma lenta y errática, por lo que no se usa. Durante la crisis se protege la cabeza, no se fuerza la apertura de la boca ni se sujeta al paciente, y se cronometra la duración."
+      "e": "El diazepam IM se absorbe de forma lenta y errática, por lo que no se usa. Durante la crisis se protege la cabeza, no se fuerza la apertura de la boca ni se sujeta al paciente, y se cronometra la duración.",
+      "por": ["El diazepam IM se absorbe mal.", "La vía oral no se usa en plena crisis.", "El levetiracetam no se da por vía subcutánea.", null]
     },
     {
       "q": "El tratamiento de primera línea de la anafilaxia en un adulto es:",
       "o": ["Dexclorfeniramina intravenosa", "Adrenalina intramuscular 0,5 mg (ampolla 1:1.000) en la cara anterolateral del muslo", "Hidrocortisona intravenosa", "Adrenalina subcutánea en el deltoides"],
       "a": 1,
-      "e": "Se puede repetir a los 5-15 minutos. Antihistamínicos y corticoides son coadyuvantes y no deben retrasarla. Al paciente se le mantiene tumbado con las piernas elevadas, sin levantarlo de golpe."
+      "e": "Se puede repetir a los 5-15 minutos. Antihistamínicos y corticoides son coadyuvantes y no deben retrasarla. Al paciente se le mantiene tumbado con las piernas elevadas, sin levantarlo de golpe.",
+      "por": ["Los antihistamínicos son coadyuvantes.", null, "Los corticoides son coadyuvantes.", "La vía es IM en el muslo, no subcutánea."]
     },
     {
       "q": "En la clasificación de Maastricht modificada, la donación en asistolia controlada, tras la limitación del tratamiento de soporte vital, corresponde al tipo:",
       "o": ["I", "II", "III", "IV"],
       "a": 2,
-      "e": "Tipo I: fallecido a la llegada. Tipo II: RCP infructuosa. Tipo III: asistolia controlada (tras LTSV o prestación de ayuda para morir). Tipo IV: parada en un paciente en muerte encefálica. Tras la asistolia se esperan 5 minutos sin tocar al paciente."
+      "e": "Tipo I: fallecido a la llegada. Tipo II: RCP infructuosa. Tipo III: asistolia controlada (tras LTSV o prestación de ayuda para morir). Tipo IV: parada en un paciente en muerte encefálica. Tras la asistolia se esperan 5 minutos sin tocar al paciente.",
+      "por": ["El tipo I es fallecido a la llegada.", "El tipo II es RCP infructuosa.", null, "El tipo IV es parada en muerte encefálica."]
     },
     {
       "q": "En la RCP básica del adulto, las compresiones torácicas deben realizarse:",
       "o": ["A 100-120 por minuto y con una profundidad de 5-6 cm, permitiendo la reexpansión completa del tórax", "A 60-80 por minuto y con una profundidad de 3-4 cm", "A más de 140 por minuto para mejorar el gasto", "A 100 por minuto y con una profundidad de 8 cm"],
       "a": 0,
-      "e": "Se comprime en el centro del pecho con una relación 30:2 y sin interrumpir más de 10 segundos para ventilar. Las respiraciones agónicas (gasping) no son respiración normal."
+      "e": "Se comprime en el centro del pecho con una relación 30:2 y sin interrumpir más de 10 segundos para ventilar. Las respiraciones agónicas (gasping) no son respiración normal.",
+      "por": [null, "60-80 por minuto y 3-4 cm es insuficiente.", "Más de 140 por minuto es demasiado rápido.", "8 cm es demasiado profundo."]
     },
     {
       "q": "En una parada con fibrilación ventricular, la primera dosis de adrenalina (1 mg IV) se administra:",
       "o": ["Antes de la primera descarga", "Tras la primera descarga", "Solo si la FV pasa a asistolia", "Tras la tercera descarga y luego cada 3-5 minutos"],
       "a": 3,
-      "e": "En ritmos desfibrilables la prioridad es la desfibrilación. Tras la tercera descarga se dan adrenalina 1 mg y amiodarona 300 mg, y amiodarona 150 mg tras la quinta. En la asistolia y la AESP, la adrenalina va en cuanto haya acceso vascular."
+      "e": "En ritmos desfibrilables la prioridad es la desfibrilación. Tras la tercera descarga se dan adrenalina 1 mg y amiodarona 300 mg, y amiodarona 150 mg tras la quinta. En la asistolia y la AESP, la adrenalina va en cuanto haya acceso vascular.",
+      "por": ["Antes de la primera descarga no se da.", "Tras la primera descarga no se da.", "En la FV se da sin esperar a la asistolia.", null]
     },
     {
       "q": "En la RCP pediátrica con dos o más reanimadores sanitarios, la relación compresiones/ventilaciones es:",
       "o": ["30:2", "15:2", "5:1", "3:1"],
       "a": 1,
-      "e": "En el niño se empieza con 5 ventilaciones de rescate, porque la parada suele ser de origen respiratorio. Se comprime 1/3 del diámetro torácico y la desfibrilación es de 4 J/kg."
+      "e": "En el niño se empieza con 5 ventilaciones de rescate, porque la parada suele ser de origen respiratorio. Se comprime 1/3 del diámetro torácico y la desfibrilación es de 4 J/kg.",
+      "por": ["30:2 es para el adulto o un reanimador lego.", null, "5:1 no es una relación vigente.", "3:1 es para el neonato."]
     },
     {
       "q": "Paciente que no responde y no respira con normalidad. ¿Qué ritmo muestra el monitor?",
       "o": ["Fibrilación ventricular", "Asistolia", "Actividad eléctrica sin pulso", "Fibrilación auricular rápida"],
       "a": 0,
       "e": "FV: actividad caótica sin QRS. Ritmo desfibrilable: descarga inmediata y RCP 2 min; adrenalina 1 mg y amiodarona 300 mg tras la 3.ª descarga.",
-      "img": "img/preguntas/ecg-fv.svg"
+      "img": "img/preguntas/ecg-fv.svg",
+      "por": [null, "La asistolia es una línea plana.", "La AESP tiene un ritmo organizado.", "La FA rápida tiene QRS estrechos y pulso."]
     },
     {
       "q": "Parada cardiaca con este ritmo (confirmado en dos derivaciones y con la ganancia adecuada). La actuación correcta es:",
       "o": ["Desfibrilar tres veces seguidas", "Cardioversión sincronizada", "RCP y adrenalina 1 mg IV lo antes posible", "Amiodarona 300 mg IV"],
       "a": 2,
       "e": "Asistolia = ritmo no desfibrilable: compresiones de calidad, adrenalina 1 mg cada 3-5 min desde el principio y buscar causas reversibles (4H y 4T).",
-      "img": "img/preguntas/ecg-asistolia.svg"
+      "img": "img/preguntas/ecg-asistolia.svg",
+      "por": ["La asistolia no se desfibrila.", "No se cardiovierte: no hay ritmo.", null, "La amiodarona es para ritmos desfibrilables."]
     },
     {
       "q": "Paciente sin pulso con este ritmo (taquicardia regular de QRS anchos a ≈ 180 lpm). ¿Qué se debe hacer?",
       "o": ["Cardioversión sincronizada", "Desfibrilación (no sincronizada) y RCP", "Adenosina 6 mg en bolo", "Maniobras vagales"],
       "a": 1,
       "e": "TV sin pulso = ritmo desfibrilable, igual que la FV. La cardioversión sincronizada se reserva para la TV con pulso e inestable.",
-      "img": "img/preguntas/ecg-tv.svg"
+      "img": "img/preguntas/ecg-tv.svg",
+      "por": ["La sincronizada es para la TV con pulso.", null, "La adenosina es para taquicardias con pulso.", "Las maniobras vagales no sirven sin pulso."]
     },
     {
       "q": "Paciente en coma, con 6 respiraciones por minuto y las pupilas de la imagen. El antídoto de primera elección es:",
       "o": ["Flumazenilo", "N-acetilcisteína", "Atropina", "Naloxona"],
       "a": 3,
       "e": "Miosis puntiforme + depresión respiratoria + coma = intoxicación por opiáceos: naloxona (IV, IM o intranasal), vigilando la resedación porque dura menos que el opioide.",
-      "img": "img/preguntas/pupilas-miosis.svg"
+      "img": "img/preguntas/pupilas-miosis.svg",
+      "por": ["El flumazenilo es para las benzodiacepinas.", "La N-acetilcisteína es para el paracetamol.", "La atropina es para los organofosforados.", null]
     },
     {
       "q": "Paciente confuso con las pupilas de la imagen, piel seca y caliente, enrojecimiento, taquicardia y retención urinaria. ¿Qué toxíndrome sugiere?",
       "o": ["Opioide", "Colinérgico (organofosforados)", "Anticolinérgico", "Sedante-hipnótico"],
       "a": 2,
       "e": "Anticolinérgico (antihistamínicos, tricíclicos, atropina): midriasis, piel seca y roja, hipertermia, retención urinaria y delirio. El simpaticomimético también da midriasis pero con sudoración.",
-      "img": "img/preguntas/pupilas-midriasis.svg"
+      "img": "img/preguntas/pupilas-midriasis.svg",
+      "por": ["El opioide da miosis.", "El colinérgico da miosis y sudoración.", null, "El sedante no da piel roja, seca e hipertermia."]
     }
   ]
 }

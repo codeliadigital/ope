@@ -1,0 +1,90 @@
+1|a|Somático y visceral son tipos de dolor físico, no las dimensiones del dolor total.
+1|c|Agudo y crónico es una clasificación temporal.
+1|d|Nociceptivo y neuropático es una clasificación por mecanismo.
+2|a|No se prolonga la vida a cualquier precio.
+2|b|La familia también forma parte del cuidado.
+2|c|Se evitan las pruebas que no aportan beneficio.
+3|b|No pregunta por la mejoría.
+3|c|El plazo es de 12 meses, no de una semana.
+3|d|No tiene que ver con la eutanasia.
+4|a|Los cuidados paliativos no son solo para el cáncer.
+4|b|No hace falta tener un tumor.
+4|d|No hay límite de edad.
+5|a|ECOG 1 es síntomas con actividad ligera.
+5|c|ECOG 0 es actividad normal.
+5|d|ECOG 5 es fallecido.
+6|a|La aspiración profunda es ineficaz y aumenta las secreciones.
+6|b|El supino plano favorece el acúmulo de secreciones.
+6|c|Más sueros aumentan las secreciones.
+7|a|El ambiente cerrado y caldeado empeora la disnea.
+7|b|El supino plano empeora la disnea.
+7|d|La familia no se restringe.
+8|b|La morfina no trata el delirium y puede causarlo.
+8|c|Las benzodiacepinas pueden empeorar el delirium.
+8|d|El fenobarbital no es de primera línea.
+9|a|Eso es un síntoma difícil, no refractario.
+9|c|Lo que importa es el paciente, no las molestias de la familia.
+9|d|No depende del momento de aparición.
+10|a|La morfina no se usa para sedar.
+10|b|El fenobarbital es de tercera línea.
+10|c|El propofol se reserva al hospital.
+11|a|Subir la morfina para dormir produce neurotoxicidad.
+11|b|Retirar la morfina provoca abstinencia y dolor.
+11|d|El tramadol no es un sedante.
+12|b|La eutanasia provoca la muerte de forma intencionada.
+12|c|La sedación paliativa disminuye la conciencia ante síntomas refractarios.
+12|d|La obstinación terapéutica es justo lo contrario.
+13|a|Los menores no pueden otorgarlo.
+13|b|Lo otorga el propio paciente, no el médico.
+13|c|La familia no puede otorgarlo en su nombre.
+14|b|La Ley 41/2002 es la de autonomía del paciente.
+14|c|La Ley 16/2003 es la de cohesión y calidad del SNS.
+14|d|La LO 1/2023 trata de salud sexual y reproductiva.
+15|a|El somático está bien localizado.
+15|b|El neuropático es quemazón o descargas.
+15|d|El irruptivo incidental aparece con movilizaciones o curas.
+16|a|El paracetamol solo es insuficiente para el dolor neuropático.
+16|c|Los AINE no bastan en el dolor neuropático.
+16|d|Los corticoides tópicos no tratan el dolor neuropático.
+17|a|El incidental es previsible por movimientos, no por el horario.
+17|b|No es neuropático: es por el horario de la dosis.
+17|c|El espontáneo no sigue el patrón de las tomas.
+18|b|La escala de caras es otra cosa y la EVA no es para menores de 2 años.
+18|c|La EVA es autovalorada, no conductual.
+18|d|El máximo es 10.
+19|a|La EVA exige que el paciente se comunique.
+19|b|La numérica exige que el paciente se comunique.
+19|d|La verbal exige que el paciente se comunique.
+20|a|Campbell es conductual y no incluye cambios fisiológicos.
+20|b|PAINAD es conductual.
+20|c|FLACC es pediátrica y conductual.
+21|a|La morfina es compatible con la mayoría de las mezclas.
+21|c|El midazolam es compatible.
+21|d|El haloperidol es compatible.
+22|b|Un opioide potente sí puede asociarse a paracetamol.
+22|c|Un opioide débil sí puede asociarse a un AINE.
+22|d|Los coadyuvantes pueden usarse en cualquier escalón.
+23|a|No tienen techo terapéutico.
+23|b|Son para el dolor intenso.
+23|d|Sí pueden darse por vía subcutánea.
+24|a|En la negación rechaza la realidad.
+24|c|En la ira expresa enfado.
+24|d|En la aceptación ya no negocia.
+25|a|Aceptar la realidad es la tarea I.
+25|b|Adaptarse al medio es la tarea III.
+25|c|Recolocar al fallecido es la tarea IV.
+26|a|El anticipado empieza antes de la muerte.
+26|b|En el normal la persona relaciona su malestar con la pérdida.
+26|d|El crónico mantiene el mismo dolor durante años.
+27|b|Un mes es poco para hablar de duelo prolongado.
+27|c|Tres meses no es el criterio.
+27|d|No hacen falta 5 años.
+28|a|46 es el corte de la versión completa.
+28|c|56 es la sobrecarga intensa de la versión completa.
+28|d|88 es el máximo de la versión completa.
+29|a|La edad no define al pluripatológico.
+29|b|Eso es polimedicación.
+29|c|Tienen que ser de categorías distintas.
+30|b|Pfeiffer cuenta errores: 9 errores es grave.
+30|c|Leve son 3-4 errores.
+30|d|No se repite: el resultado es válido.

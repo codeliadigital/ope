@@ -1,0 +1,90 @@
+1|a|Un vector es siempre un ser vivo, como un mosquito.
+1|b|El reservorio es donde el microorganismo vive y se multiplica.
+1|d|El huésped susceptible es la persona que se infecta.
+2|b|Las partículas de 5 micras o menos son los núcleos de Wells (transmisión aérea).
+2|c|Las gotas se transmiten directamente, no solo por fómites.
+2|d|La presión negativa es para el aislamiento aéreo.
+3|a|La hepatitis B puede cronificar.
+3|c|La hepatitis C es la que más cronifica.
+3|d|La hepatitis D puede cronificar.
+4|a|La hepatitis A no tiene esa mortalidad en embarazadas.
+4|b|La hepatitis B se transmite por sangre, no fecal-oral.
+4|c|La hepatitis C se transmite por sangre.
+5|b|Se transmite por sangre, como el VHB.
+5|c|No es la causa más frecuente de hepatitis aguda.
+5|d|No tiene vacuna propia: protege la del VHB.
+6|a|Es al revés: cronifica más cuanto menor es la edad.
+6|b|Depende mucho de la edad.
+6|d|Sí cronifica.
+7|a|El HBsAg y el anti-HBc indican infección, no vacuna.
+7|c|El anti-HBc indica contacto con el virus natural.
+7|d|El anti-HBc IgM indica infección aguda.
+8|a|El HBeAg indica replicación, no aparece en el periodo ventana.
+8|b|El anti-HBe no es el marcador del periodo ventana.
+8|c|En el periodo ventana el anti-HBs aún no ha aparecido.
+9|b|Un mes no define la cronicidad.
+9|c|Tres semanas no define la cronicidad.
+9|d|El límite es 6 meses, no 2 años.
+10|a|Esa pauta de 2 dosis es la de la hepatitis A, y el glúteo no se usa.
+10|b|No es dosis única ni subcutánea.
+10|d|En inmunocompetentes no hacen falta recuerdos anuales.
+11|a|No es subcutánea ni son 0,5 ml.
+11|b|No es intramuscular.
+11|c|Es intradérmica y con el bisel hacia arriba.
+12|a|A las 24 h es pronto y no se mide el eritema.
+12|c|No se lee a la semana ni se mide el eritema.
+12|d|No es una lectura inmediata.
+13|b|Una conversión exige un Mantoux previo realmente negativo, no debilitado.
+13|c|El Mantoux no diagnostica enfermedad activa.
+13|d|No es un error: es el efecto booster.
+14|a|Detectan infección, no enfermedad activa.
+14|b|Son análisis de sangre, no pruebas cutáneas.
+14|d|Sí necesitan extracción de sangre.
+15|a|La monoterapia con isoniacida es para la infección latente.
+15|b|4 meses de rifampicina es para la infección latente.
+15|c|La isoniacida con rifapentina es para la infección latente.
+16|a|La B12 no previene la neuropatía por isoniacida.
+16|c|El ácido fólico no la previene.
+16|d|La tiamina no la previene.
+17|b|La B6 previene la neuropatía de la isoniacida; la neuritis óptica es del etambutol.
+17|c|La gota es por la pirazinamida.
+17|d|La fotosensibilidad grave no es el efecto característico.
+18|a|La hiperuricemia es por la pirazinamida.
+18|b|La ototoxicidad es por la estreptomicina.
+18|d|La orina anaranjada es por la rifampicina.
+19|a|La pasta y el colutorio pueden destruir los bacilos.
+19|b|La saliva no sirve: hay que sacar moco bronquial.
+19|c|Se recoge a primera hora de la mañana.
+20|a|La carga viral detectable no define el SIDA.
+20|c|El umbral es 200, no 500.
+20|d|La fiebre no define el SIDA.
+21|b|No se succiona la herida.
+21|c|No se exprime.
+21|d|La lejía no se aplica sobre la piel.
+22|a|Pasadas 72 h ya no se inicia.
+22|b|No es dosis única: son 28 días.
+22|d|No existe vacuna frente al VIH.
+23|a|Con anti-HBs de 10 o más está protegida: no necesita inmunoglobulina.
+23|b|No necesita revacunarse.
+23|c|No necesita ni inmunoglobulina ni vacuna.
+24|a|No existe inmunoglobulina frente al VHC.
+24|c|No existe vacuna frente al VHC.
+24|d|No hay profilaxis postexposición frente al VHC.
+25|b|El alcohol no destruye las esporas.
+25|c|Quitarse los guantes no basta: hay que lavarse.
+25|d|La lejía es para superficies, no para las manos.
+26|a|La vancomicina IV es para la infección, no para descolonizar.
+26|b|El SARM requiere aislamiento de contacto, no aéreo.
+26|d|El suero fisiológico no descoloniza.
+27|a|La fiebre y la leucocitosis no son criterios del qSOFA.
+27|b|Lactato, plaquetas y bilirrubina no son criterios clínicos del qSOFA.
+27|c|Saturación, diuresis y fiebre no son criterios del qSOFA.
+28|a|La tuberculosis pulmonar es aérea, no de contacto.
+28|c|La mascarilla quirúrgica no protege frente a los núcleos de Wells.
+28|d|La presión positiva es para el aislamiento protector.
+29|b|La presión negativa es para el aislamiento aéreo.
+29|c|El aislamiento de contacto protege a los demás, no al paciente.
+29|d|Con neutropenia grave sí requiere aislamiento.
+30|a|Con palomilla el anaerobio no va primero: recibiría el aire.
+30|b|El orden sí importa.
+30|c|Primero el anaerobio es con jeringa, no con palomilla.

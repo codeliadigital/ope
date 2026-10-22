@@ -7,209 +7,243 @@
       "q": "Un paciente con cetoacidosis diabética presenta una respiración profunda, rápida y ruidosa, sin pausas. Se trata de una respiración de:",
       "o": ["Cheyne-Stokes", "Biot", "Kussmaul", "Paradójica"],
       "a": 2,
-      "e": "La respiración de Kussmaul es la compensación respiratoria de la acidosis metabólica (elimina CO₂). Cheyne-Stokes se asocia a insuficiencia cardíaca y Biot a lesión bulbar."
+      "e": "La respiración de Kussmaul es la compensación respiratoria de la acidosis metabólica (elimina CO₂). Cheyne-Stokes se asocia a insuficiencia cardíaca y Biot a lesión bulbar.",
+      "por": ["Cheyne-Stokes alterna aumento y descenso de la amplitud con pausas.", "Biot es irregular con pausas, por lesión bulbar.", null, "En la paradójica el abdomen se hunde al inspirar."]
     },
     {
       "q": "La respiración en la que el abdomen se hunde durante la inspiración indica:",
       "o": ["Una respiración normal en el adulto", "Una acidosis metabólica", "Una lesión del cerebelo", "Fatiga diafragmática con necesidad de soporte ventilatorio inmediato"],
       "a": 3,
-      "e": "La respiración paradójica es un signo de agotamiento del diafragma y de parada respiratoria inminente."
+      "e": "La respiración paradójica es un signo de agotamiento del diafragma y de parada respiratoria inminente.",
+      "por": ["No es normal: indica agotamiento del diafragma.", "La acidosis metabólica da respiración de Kussmaul.", "No indica una lesión cerebelosa.", null]
     },
     {
       "q": "El índice paquetes-año de un paciente que fuma 20 cigarrillos al día desde hace 30 años es:",
       "o": ["600", "30", "20", "1,5"],
       "a": 1,
-      "e": "Paquetes-año = (cigarrillos al día × años fumando) / 20 = (20 × 30) / 20 = 30."
+      "e": "Paquetes-año = (cigarrillos al día × años fumando) / 20 = (20 × 30) / 20 = 30.",
+      "por": ["600 es multiplicar sin dividir entre 20.", null, "20 son los cigarrillos al día.", "1,5 no sale de la fórmula."]
     },
     {
       "q": "En la palpación torácica, las vibraciones vocales están aumentadas en:",
       "o": ["La condensación pulmonar (neumonía)", "El derrame pleural", "El neumotórax", "El enfisema"],
       "a": 0,
-      "e": "El tejido consolidado transmite mejor el sonido. El líquido (derrame) y el aire (neumotórax) actúan de barrera y las disminuyen."
+      "e": "El tejido consolidado transmite mejor el sonido. El líquido (derrame) y el aire (neumotórax) actúan de barrera y las disminuyen.",
+      "por": [null, "El derrame las disminuye.", "El neumotórax las disminuye.", "El enfisema las disminuye."]
     },
     {
       "q": "El ruido respiratorio adventicio de tono grave, producido por secreciones en los bronquios grandes, que se modifica con la tos, es:",
       "o": ["El crepitante", "El estridor", "El roce pleural", "El roncus"],
       "a": 3,
-      "e": "Los roncus se deben a secreciones en bronquios de gran calibre y se modifican con la tos. Los crepitantes aparecen al final de la inspiración (neumonía, edema), y el roce pleural no cambia con la tos."
+      "e": "Los roncus se deben a secreciones en bronquios de gran calibre y se modifican con la tos. Los crepitantes aparecen al final de la inspiración (neumonía, edema), y el roce pleural no cambia con la tos.",
+      "por": ["Los crepitantes son alveolares y no cambian con la tos.", "El estridor es inspiratorio y de la vía aérea alta.", "El roce pleural no se modifica con la tos.", null]
     },
     {
       "q": "Un ruido inspiratorio agudo, intenso y audible sin fonendoscopio indica:",
       "o": ["Broncoespasmo de pequeñas vías", "Obstrucción de la vía aérea superior, que es una urgencia vital", "Secreciones en bronquios grandes", "Inflamación pleural"],
       "a": 1,
-      "e": "El estridor es un ruido inspiratorio por obstrucción de la vía aérea superior (cuerpo extraño, edema laríngeo, epiglotitis, crup) y constituye una urgencia. Las sibilancias, espiratorias, indican broncoespasmo."
+      "e": "El estridor es un ruido inspiratorio por obstrucción de la vía aérea superior (cuerpo extraño, edema laríngeo, epiglotitis, crup) y constituye una urgencia. Las sibilancias, espiratorias, indican broncoespasmo.",
+      "por": ["El broncoespasmo da sibilancias espiratorias.", null, "Las secreciones en bronquios grandes dan roncus.", "La inflamación pleural da roce pleural."]
     },
     {
       "q": "La insuficiencia respiratoria se define gasométricamente, a nivel del mar y respirando aire ambiente, por una PaO₂ inferior a:",
       "o": ["60 mmHg", "80 mmHg", "90 mmHg", "40 mmHg"],
       "a": 0,
-      "e": "PaO₂ < 60 mmHg (que corresponde a una SatO₂ de alrededor del 90%). Si además la PaCO₂ supera 45-50 mmHg, la insuficiencia es hipercápnica (tipo II)."
+      "e": "PaO₂ < 60 mmHg (que corresponde a una SatO₂ de alrededor del 90%). Si además la PaCO₂ supera 45-50 mmHg, la insuficiencia es hipercápnica (tipo II).",
+      "por": [null, "80 mmHg es hipoxemia leve, no insuficiencia.", "90 mmHg es normal.", "El límite es 60, no 40."]
     },
     {
       "q": "El mecanismo de hipoxemia que no mejora significativamente al aumentar la FiO₂ y requiere presión positiva para abrir los alvéolos es:",
       "o": ["El desequilibrio ventilación/perfusión", "La hipoventilación alveolar", "La altitud", "El efecto shunt (cortocircuito)"],
       "a": 3,
-      "e": "En el shunt la sangre atraviesa alvéolos colapsados o llenos de líquido: el oxígeno no llega a ellos. Necesita CPAP/PEEP para reclutar alvéolos. El desequilibrio V/Q, el mecanismo más frecuente, responde bien al oxígeno."
+      "e": "En el shunt la sangre atraviesa alvéolos colapsados o llenos de líquido: el oxígeno no llega a ellos. Necesita CPAP/PEEP para reclutar alvéolos. El desequilibrio V/Q, el mecanismo más frecuente, responde bien al oxígeno.",
+      "por": ["El desequilibrio V/Q mejora bien con oxígeno.", "La hipoventilación mejora con oxígeno y ventilación.", "La altitud mejora con oxígeno.", null]
     },
     {
       "q": "La insuficiencia respiratoria tipo II (hipercápnica) se caracteriza por:",
       "o": ["PaO₂ baja con PaCO₂ normal o baja", "PaO₂ < 60 mmHg con PaCO₂ elevada (> 45-50 mmHg)", "PaO₂ normal con PaCO₂ baja", "Solo alteración del pH"],
       "a": 1,
-      "e": "La tipo II es un fallo de la «bomba» ventilatoria (EPOC, sobredosis, enfermedades neuromusculares). La tipo I (hipoxémica) se debe a problemas del parénquima, como la neumonía o el edema."
+      "e": "La tipo II es un fallo de la «bomba» ventilatoria (EPOC, sobredosis, enfermedades neuromusculares). La tipo I (hipoxémica) se debe a problemas del parénquima, como la neumonía o el edema.",
+      "por": ["PaCO₂ normal o baja es la tipo I.", null, "Con PaO₂ normal no hay insuficiencia.", "No es solo el pH."]
     },
     {
       "q": "El diagnóstico NANDA que se centra en la alteración de la oxigenación o de la eliminación de CO₂ en la membrana alveolocapilar, objetivable mediante gasometría, es:",
       "o": ["Patrón respiratorio ineficaz", "Limpieza ineficaz de las vías aéreas", "Deterioro del intercambio de gases", "Intolerancia a la actividad"],
       "a": 2,
-      "e": "El deterioro del intercambio de gases (00030) se refiere a la sangre arterial (hipoxemia, hipercapnia). El patrón respiratorio ineficaz (00032) describe cómo mueve el aire el paciente (taquipnea, musculatura accesoria)."
+      "e": "El deterioro del intercambio de gases (00030) se refiere a la sangre arterial (hipoxemia, hipercapnia). El patrón respiratorio ineficaz (00032) describe cómo mueve el aire el paciente (taquipnea, musculatura accesoria).",
+      "por": ["El patrón ineficaz describe cómo mueve el aire.", "La limpieza ineficaz es por secreciones.", null, "La intolerancia a la actividad es otro problema."]
     },
     {
       "q": "En un paciente con EPOC retenedor de CO₂, el objetivo de saturación de oxígeno es:",
       "o": ["88-92%", "95-100%", "100%", "Por debajo del 85%"],
       "a": 0,
-      "e": "En los retenedores crónicos de CO₂ se busca una SatO₂ del 88-92% para no suprimir el estímulo respiratorio y evitar la hipercapnia. El sistema de elección es la mascarilla Venturi."
+      "e": "En los retenedores crónicos de CO₂ se busca una SatO₂ del 88-92% para no suprimir el estímulo respiratorio y evitar la hipercapnia. El sistema de elección es la mascarilla Venturi.",
+      "por": [null, "95-100% suprime el estímulo respiratorio del retenedor.", "El 100% favorece la hipercapnia.", "Por debajo del 85% hay hipoxemia peligrosa."]
     },
     {
       "q": "Un paciente con neumonía del pulmón derecho presenta hipoxemia. Para mejorar la oxigenación, se le debe colocar:",
       "o": ["En decúbito lateral derecho", "En decúbito prono", "En Trendelenburg", "En decúbito lateral izquierdo, con el pulmón sano abajo"],
       "a": 3,
-      "e": "En la afectación unilateral, el pulmón sano en posición declive recibe más perfusión por gravedad y mejora la relación ventilación/perfusión. En la afectación bilateral se prefiere Fowler alto."
+      "e": "En la afectación unilateral, el pulmón sano en posición declive recibe más perfusión por gravedad y mejora la relación ventilación/perfusión. En la afectación bilateral se prefiere Fowler alto.",
+      "por": ["Con el pulmón enfermo abajo empeora la oxigenación.", "El prono es para el distrés bilateral.", "El Trendelenburg dificulta la respiración.", null]
     },
     {
       "q": "El diagnóstico de EPOC se confirma mediante espirometría cuando el cociente FEV1/FVC posbroncodilatador es:",
       "o": ["Mayor de 0,80", "Menor de 0,70", "Igual a 1", "Mayor de 0,70 con FVC baja"],
       "a": 1,
-      "e": "Un FEV1/FVC < 0,70 tras broncodilatador indica obstrucción persistente. Un cociente normal o alto con FVC baja sugiere un patrón restrictivo, como en la fibrosis pulmonar."
+      "e": "Un FEV1/FVC < 0,70 tras broncodilatador indica obstrucción persistente. Un cociente normal o alto con FVC baja sugiere un patrón restrictivo, como en la fibrosis pulmonar.",
+      "por": ["Mayor de 0,80 es normal.", null, "Un cociente de 1 no indica obstrucción.", "Con FVC baja y cociente normal es un patrón restrictivo."]
     },
     {
       "q": "Para valorar el grado de control del asma en las últimas 4 semanas se utiliza el cuestionario ACT. Indica asma no controlada una puntuación:",
       "o": ["Superior a 10", "Igual a 25", "Inferior a 20", "Superior a 20"],
       "a": 2,
-      "e": "En el ACT, una puntuación inferior a 20 indica asma no controlada y obliga a revisar la técnica inhalatoria y la adherencia. El CAT, en cambio, valora el impacto de la EPOC (≥ 10 = muy sintomático)."
+      "e": "En el ACT, una puntuación inferior a 20 indica asma no controlada y obliga a revisar la técnica inhalatoria y la adherencia. El CAT, en cambio, valora el impacto de la EPOC (≥ 10 = muy sintomático).",
+      "por": ["Superior a 10 no es el corte del ACT.", "25 es asma bien controlada.", null, "Superior a 20 indica control."]
     },
     {
       "q": "En la EPOC, los corticoides inhalados se reservan para pacientes con fenotipo eosinofílico o asma asociada porque:",
       "o": ["Son el tratamiento de base de todos los pacientes con EPOC", "Producen taquicardia", "Curan la enfermedad", "Aumentan el riesgo de neumonía"],
       "a": 3,
-      "e": "La base del tratamiento de mantenimiento son los broncodilatadores de larga duración (LAMA, LABA). Los corticoides inhalados se asocian a mayor riesgo de neumonía, por lo que se usan solo en agudizadores eosinofílicos (≥ 300/µl) o con asma."
+      "e": "La base del tratamiento de mantenimiento son los broncodilatadores de larga duración (LAMA, LABA). Los corticoides inhalados se asocian a mayor riesgo de neumonía, por lo que se usan solo en agudizadores eosinofílicos (≥ 300/µl) o con asma.",
+      "por": ["La base son los broncodilatadores, no los corticoides.", "La taquicardia es de los beta-agonistas.", "No curan la EPOC.", null]
     },
     {
       "q": "Para valorar la dependencia física de la nicotina en un fumador se utiliza:",
       "o": ["El test de Richmond", "El test de Fagerström", "La escala mMRC", "El cuestionario CAT"],
       "a": 1,
-      "e": "El test de Fagerström mide la dependencia (≥ 7 = alta) y el de Richmond, la motivación para dejar de fumar. Dejar de fumar es la intervención más eficaz para frenar la caída del FEV1 en la EPOC."
+      "e": "El test de Fagerström mide la dependencia (≥ 7 = alta) y el de Richmond, la motivación para dejar de fumar. Dejar de fumar es la intervención más eficaz para frenar la caída del FEV1 en la EPOC.",
+      "por": ["Richmond mide la motivación para dejar de fumar.", null, "La mMRC mide la disnea.", "El CAT mide el impacto de la EPOC."]
     },
     {
       "q": "Según los criterios de Anthonisen, los síntomas de una exacerbación de la EPOC son:",
       "o": ["Aumento de la disnea, aumento del volumen del esputo y esputo purulento", "Fiebre, cefalea y mialgias", "Dolor torácico, hemoptisis y síncope", "Edemas, ortopnea y ascitis"],
       "a": 0,
-      "e": "Los tres criterios de Anthonisen son más disnea, más volumen de esputo y purulencia; esta última orienta a la necesidad de antibiótico. Todo paciente debe tener un plan de acción escrito."
+      "e": "Los tres criterios de Anthonisen son más disnea, más volumen de esputo y purulencia; esta última orienta a la necesidad de antibiótico. Todo paciente debe tener un plan de acción escrito.",
+      "por": [null, "Fiebre, cefalea y mialgias orientan a gripe.", "Dolor, hemoptisis y síncope orientan a embolia.", "Edemas, ortopnea y ascitis orientan a insuficiencia cardíaca."]
     },
     {
       "q": "En la prueba broncodilatadora, el resultado se considera positivo (reversibilidad, propia del asma) cuando el FEV1 aumenta:",
       "o": ["Un 5% respecto al valor basal", "Un 12% sin importar el volumen", "100 ml sin importar el porcentaje", "Al menos un 12% y 200 ml respecto al valor basal"],
       "a": 3,
-      "e": "Se administran 400 µg de salbutamol con cámara y se repite la espirometría a los 15-20 minutos; es positiva si el FEV1 mejora al menos un 12% y 200 ml."
+      "e": "Se administran 400 µg de salbutamol con cámara y se repite la espirometría a los 15-20 minutos; es positiva si el FEV1 mejora al menos un 12% y 200 ml.",
+      "por": ["Un 5% no es significativo.", "Hacen falta también 200 ml.", "Hace falta también el 12%.", null]
     },
     {
       "q": "Un paciente de 70 años con neumonía está orientado, con urea de 30 mg/dl, FR de 32 rpm y TA de 120/70 mmHg. Su puntuación CURB-65 y la actitud son:",
       "o": ["2 puntos: indicación de ingreso hospitalario", "1 punto: tratamiento domiciliario", "0 puntos: tratamiento domiciliario", "4 puntos: ingreso en UCI"],
       "a": 0,
-      "e": "Suma 1 punto por FR ≥ 30 y 1 punto por edad ≥ 65 años = 2 puntos, que indica ingreso hospitalario. 0-1: domicilio; ≥ 3: valorar UCI."
+      "e": "Suma 1 punto por FR ≥ 30 y 1 punto por edad ≥ 65 años = 2 puntos, que indica ingreso hospitalario. 0-1: domicilio; ≥ 3: valorar UCI.",
+      "por": [null, "Suma 2: la FR de 32 y la edad de 70.", "Tiene puntos por FR y edad.", "No llega a 4: la urea y la TA son normales."]
     },
     {
       "q": "La fibrosis pulmonar produce en la espirometría un patrón:",
       "o": ["Obstructivo con FEV1/FVC < 0,70", "Normal", "Restrictivo, con disminución de la FVC y cociente FEV1/FVC normal o elevado", "Mixto con predominio obstructivo"],
       "a": 2,
-      "e": "La fibrosis hace el pulmón rígido: cae la capacidad vital forzada y el cociente FEV1/FVC se mantiene o aumenta. A la auscultación se oyen crepitantes secos en «velcro»."
+      "e": "La fibrosis hace el pulmón rígido: cae la capacidad vital forzada y el cociente FEV1/FVC se mantiene o aumenta. A la auscultación se oyen crepitantes secos en «velcro».",
+      "por": ["El patrón obstructivo es la EPOC.", "No es normal: la FVC baja.", null, "No es mixto."]
     },
     {
       "q": "Respecto a la técnica de la espirometría forzada, es correcto:",
       "o": ["Se realiza con el paciente tumbado y sin pinza nasal", "Se pide una espiración lenta y suave", "Con pinza nasal, tras una inspiración máxima se realiza una espiración explosiva mantenida al menos 6 segundos", "Basta con una sola maniobra"],
       "a": 2,
-      "e": "El paciente, sentado y con pinza nasal, inspira al máximo y espira de forma explosiva y mantenida (≥ 6 s). Se necesitan al menos 3 maniobras aceptables con una diferencia < 150 ml entre las dos mejores, sin superar 8 intentos."
+      "e": "El paciente, sentado y con pinza nasal, inspira al máximo y espira de forma explosiva y mantenida (≥ 6 s). Se necesitan al menos 3 maniobras aceptables con una diferencia < 150 ml entre las dos mejores, sin superar 8 intentos.",
+      "por": ["Se hace sentado y con pinza nasal.", "La espiración es explosiva.", null, "Hacen falta al menos 3 maniobras."]
     },
     {
       "q": "El sistema de oxigenoterapia que proporciona una FiO₂ fija y exacta, de elección en el paciente con EPOC retenedor de CO₂, es:",
       "o": ["La mascarilla Venturi", "Las gafas nasales a 6 l/min", "La mascarilla con reservorio", "La mascarilla simple"],
       "a": 0,
-      "e": "La Venturi es un sistema de alto flujo con FiO₂ constante e independiente del patrón respiratorio. Las gafas y la mascarilla simple dan una FiO₂ variable; el reservorio (10-15 l/min) se reserva para emergencias."
+      "e": "La Venturi es un sistema de alto flujo con FiO₂ constante e independiente del patrón respiratorio. Las gafas y la mascarilla simple dan una FiO₂ variable; el reservorio (10-15 l/min) se reserva para emergencias.",
+      "por": [null, "Las gafas dan una FiO₂ variable.", "El reservorio da FiO₂ alta, peligrosa en el retenedor.", "La mascarilla simple da una FiO₂ variable."]
     },
     {
       "q": "Respecto a la cánula nasal de alto flujo, es correcto:",
       "o": ["Administra oxígeno frío y seco a 4 l/min", "Administra hasta 60 l/min de gas calentado y humidificado, con efecto PEEP y lavado del espacio muerto", "Solo puede utilizarse en pacientes intubados", "No requiere vigilar la condensación de las tubuladuras"],
       "a": 1,
-      "e": "La cánula de alto flujo administra hasta 60 l/min a 34-37 °C con 100% de humedad, genera cierta PEEP y lava el espacio muerto. Su eficacia se valora con el índice ROX (SpO₂/FiO₂ y FR). Hay que vigilar la piel y la condensación."
+      "e": "La cánula de alto flujo administra hasta 60 l/min a 34-37 °C con 100% de humedad, genera cierta PEEP y lava el espacio muerto. Su eficacia se valora con el índice ROX (SpO₂/FiO₂ y FR). Hay que vigilar la piel y la condensación.",
+      "por": ["El gas va calentado y humidificado a flujo alto.", null, "Se usa en pacientes no intubados.", "Sí hay que vigilar la condensación."]
     },
     {
       "q": "Respecto a la técnica de los inhaladores, es correcto:",
       "o": ["Con el cartucho presurizado se inspira de forma rápida y enérgica", "Con el polvo seco se inspira lentamente", "Con el cartucho presurizado la inspiración debe ser lenta y profunda, seguida de una apnea de unos 10 segundos; con el polvo seco, rápida y enérgica", "Después de inhalar corticoides no es necesario enjuagarse la boca"],
       "a": 2,
-      "e": "El MDI requiere inspiración lenta y apnea de 10 s (mejor con cámara); el DPI depende del flujo del paciente y exige una inspiración rápida y enérgica. Tras los corticoides inhalados hay que enjuagar la boca para prevenir candidiasis y disfonía."
+      "e": "El MDI requiere inspiración lenta y apnea de 10 s (mejor con cámara); el DPI depende del flujo del paciente y exige una inspiración rápida y enérgica. Tras los corticoides inhalados hay que enjuagar la boca para prevenir candidiasis y disfonía.",
+      "por": ["Con el presurizado la inspiración es lenta.", "Con el polvo seco la inspiración es rápida.", null, "Hay que enjuagarse tras los corticoides."]
     },
     {
       "q": "La percusión torácica (clapping) está contraindicada en:",
       "o": ["Las bronquiectasias con abundantes secreciones", "La fibrosis quística", "La neumonía en resolución", "La hemoptisis activa, las fracturas costales y las coagulopatías"],
       "a": 3,
-      "e": "El clapping (mano ahuecada) ayuda a despegar secreciones, pero está contraindicado en hemoptisis, fracturas costales y trastornos de la coagulación. Las vibraciones se aplican durante la espiración."
+      "e": "El clapping (mano ahuecada) ayuda a despegar secreciones, pero está contraindicado en hemoptisis, fracturas costales y trastornos de la coagulación. Las vibraciones se aplican durante la espiración.",
+      "por": ["Las bronquiectasias son una indicación.", "La fibrosis quística es una indicación.", "La neumonía en resolución no la contraindica.", null]
     },
     {
       "q": "Respecto al cuidado de un drenaje pleural con sello de agua, es correcto:",
       "o": ["Pinzar el tubo durante todos los traslados", "Colocar el colector por encima del nivel del tórax", "Mantener el colector vertical y por debajo del tórax, sin pinzar el tubo en los traslados", "El burbujeo continuo en el sello de agua es normal y no requiere atención"],
       "a": 2,
-      "e": "El colector debe estar siempre por debajo del tórax. Pinzar en los traslados puede provocar un neumotórax a tensión. La oscilación indica permeabilidad y el burbujeo, fuga aérea."
+      "e": "El colector debe estar siempre por debajo del tórax. Pinzar en los traslados puede provocar un neumotórax a tensión. La oscilación indica permeabilidad y el burbujeo, fuga aérea.",
+      "por": ["Pinzar en los traslados puede provocar un neumotórax a tensión.", "Por encima del tórax el líquido refluye al pulmón.", null, "El burbujeo continuo indica fuga aérea."]
     },
     {
       "q": "Respecto a la ventilación mecánica no invasiva, es correcto:",
       "o": ["Es de elección en el paciente en coma sin reflejo de deglución", "Requiere un paciente consciente y colaborador, y se debe proteger el puente nasal con un apósito hidrocoloide antes de colocar la mascarilla", "Debe apretarse el arnés al máximo para evitar cualquier fuga", "Aumenta el riesgo de neumonía respecto a la intubación"],
       "a": 1,
-      "e": "La VMNI exige un paciente despierto, colaborador y con reflejos de protección; en coma está indicada la intubación. La complicación más frecuente son las lesiones por presión: se previenen con hidrocoloide antes de poner la mascarilla y sin apretar en exceso."
+      "e": "La VMNI exige un paciente despierto, colaborador y con reflejos de protección; en coma está indicada la intubación. La complicación más frecuente son las lesiones por presión: se previenen con hidrocoloide antes de poner la mascarilla y sin apretar en exceso.",
+      "por": ["En coma sin reflejos está indicada la intubación.", null, "Apretar en exceso produce úlceras por presión.", "Reduce el riesgo de neumonía respecto a la intubación."]
     },
     {
       "q": "En la ventilación mecánica invasiva con estrategia protectora, el volumen corriente se programa a:",
       "o": ["6-8 ml/kg de peso corporal ideal", "10-12 ml/kg de peso real", "15 ml/kg de peso real", "2-3 ml/kg de peso ideal"],
       "a": 0,
-      "e": "El volumen corriente se calcula sobre el peso ideal (no el real, sobre todo en obesos) para evitar el volutrauma."
+      "e": "El volumen corriente se calcula sobre el peso ideal (no el real, sobre todo en obesos) para evitar el volutrauma.",
+      "por": [null, "10-12 ml/kg produce volutrauma.", "15 ml/kg es excesivo.", "2-3 ml/kg es insuficiente."]
     },
     {
       "q": "Según el proyecto Neumonía Zero, la presión del neumotaponamiento del tubo endotraqueal debe mantenerse:",
       "o": ["Entre 20 y 30 cmH₂O", "Por debajo de 15 cmH₂O", "Por encima de 40 cmH₂O", "Entre 5 y 10 cmH₂O"],
       "a": 0,
-      "e": "Por debajo de 20 cmH₂O se favorece la microaspiración y por encima de 30 cmH₂O, la isquemia de la mucosa traqueal. Otras medidas: cabecera a 30-45°, higiene bucal con clorhexidina, aspiración subglótica, no cambiar tubuladuras de rutina y aspirar a demanda."
+      "e": "Por debajo de 20 cmH₂O se favorece la microaspiración y por encima de 30 cmH₂O, la isquemia de la mucosa traqueal. Otras medidas: cabecera a 30-45°, higiene bucal con clorhexidina, aspiración subglótica, no cambiar tubuladuras de rutina y aspirar a demanda.",
+      "por": [null, "Por debajo de 20 favorece la microaspiración.", "Por encima de 30 produce isquemia traqueal.", "5-10 es demasiado bajo."]
     },
     {
       "q": "Respecto a la oxigenación por membrana extracorpórea (ECMO), es correcto:",
       "o": ["La modalidad veno-venosa da soporte cardíaco y respiratorio", "La modalidad veno-arterial solo da soporte respiratorio", "Si sube el CO₂, se debe aumentar el volumen corriente del respirador", "La modalidad veno-venosa da soporte solo respiratorio, y la veno-arterial, respiratorio y circulatorio"],
       "a": 3,
-      "e": "La ECMO VV requiere que el corazón funcione; la VA se usa en shock cardiogénico o parada refractaria y obliga a vigilar la isquemia de la pierna canulada. Si sube el CO₂ se aumenta el gas de barrido; el ventilador se mantiene en reposo pulmonar."
+      "e": "La ECMO VV requiere que el corazón funcione; la VA se usa en shock cardiogénico o parada refractaria y obliga a vigilar la isquemia de la pierna canulada. Si sube el CO₂ se aumenta el gas de barrido; el ventilador se mantiene en reposo pulmonar.",
+      "por": ["La veno-venosa solo da soporte respiratorio.", "La veno-arterial da soporte también circulatorio.", "Se aumenta el gas de barrido, no el volumen corriente.", null]
     },
     {
       "q": "En el esquema, el ruido n.º 1, agudo, inspiratorio y originado en la vía aérea superior (laringe-tráquea), es:",
       "o": ["Sibilancias", "Estridor", "Roncus", "Crepitantes"],
       "a": 1,
       "e": "Estridor: obstrucción de la vía aérea alta (laringitis, epiglotitis, cuerpo extraño), se oye sin fonendo. Sibilancias: bronquios pequeños, sobre todo espiratorias (asma, EPOC).",
-      "img": "img/preguntas/t40-ruidos.jpg"
+      "img": "img/preguntas/t40-ruidos.jpg",
+      "por": ["Las sibilancias son de bronquios pequeños y espiratorias.", null, "Los roncus son de secreciones en bronquios grandes.", "Los crepitantes son alveolares."]
     },
     {
       "q": "El ruido n.º 4, discontinuo, que se produce en los alvéolos al reabrirse (como frotar un mechón de pelo junto al oído), típico de la insuficiencia cardiaca o la neumonía, es:",
       "o": ["Crepitantes", "Roce pleural", "Sibilancias", "Estridor"],
       "a": 0,
       "e": "Crepitantes (estertores finos): apertura de alvéolos con líquido o exudado, al final de la inspiración, en las bases (ICC, neumonía, fibrosis).",
-      "img": "img/preguntas/t40-ruidos.jpg"
+      "img": "img/preguntas/t40-ruidos.jpg",
+      "por": [null, "El roce pleural suena a cuero y es pleural.", "Las sibilancias son continuas y bronquiales.", "El estridor es de la vía aérea superior."]
     },
     {
       "q": "El ruido n.º 5, que se origina en las hojas pleurales inflamadas, suena como cuero que roza y no se modifica con la tos, es:",
       "o": ["Roncus", "Crepitantes", "Roce (frote) pleural", "Estridor"],
       "a": 2,
       "e": "Roce pleural: pleuritis; en ambas fases respiratorias y desaparece si se acumula derrame. Los roncus (secreciones en bronquios grandes) sí cambian con la tos.",
-      "img": "img/preguntas/t40-ruidos.jpg"
+      "img": "img/preguntas/t40-ruidos.jpg",
+      "por": ["Los roncus cambian con la tos.", "Los crepitantes son alveolares.", null, "El estridor es laríngeo o traqueal."]
     },
     {
       "q": "Botella de gas medicinal con la ojiva completamente blanca. Contiene:",
       "o": ["Aire medicinal", "Oxígeno", "Óxido nitroso", "Dióxido de carbono"],
       "a": 1,
       "e": "Ojiva blanca = oxígeno (UNE-EN 1089-3). Aire medicinal: blanco y negro; N₂O: azul; CO₂: gris.",
-      "img": "img/preguntas/botella-oxigeno.svg"
+      "img": "img/preguntas/botella-oxigeno.svg",
+      "por": ["El aire medicinal es blanco y negro.", null, "El óxido nitroso es azul.", "El CO₂ es gris."]
     }
   ]
 }

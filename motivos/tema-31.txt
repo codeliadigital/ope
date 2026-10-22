@@ -1,0 +1,90 @@
+1|b|El trabajo respiratorio es importante, pero no el lado principal.
+1|c|La circulación cutánea es el tercer lado, no el más importante.
+1|d|La frecuencia cardíaca no forma parte del TEP.
+2|a|FLACC es conductual: no sirve si el niño está paralizado.
+2|b|NIPS es conductual y para neonatos.
+2|c|El niño paralizado no puede señalar caras.
+3|a|La EVA numérica se usa a partir de los 7-8 años.
+3|c|La NIPS es para neonatos.
+3|d|Glasgow mide el nivel de conciencia, no el dolor.
+4|a|La flexión anormal es la decorticación.
+4|b|La retirada normal puntúa 4.
+4|c|Localizar el dolor puntúa 5.
+5|b|El salbutamol no se usa de forma sistemática en la bronquiolitis.
+5|c|La cabecera debe estar elevada unos 30°.
+5|d|Las tomas deben ser pequeñas y frecuentes.
+6|a|No es aéreo: se transmite por contacto y gotas.
+6|b|El aislamiento protector es para inmunodeprimidos.
+6|d|Sí requiere aislamiento.
+7|a|No es una mejoría: es un signo de gravedad extrema.
+7|c|El tórax silente no indica que el salbutamol haya funcionado.
+7|d|No indica un origen cardíaco.
+8|a|Fiebre alta, babeo y disfagia orientan a epiglotitis.
+8|b|Las sibilancias espiratorias son de bronquiolitis o asma.
+8|c|El estridor del crup es inspiratorio y la tos no es productiva.
+9|b|El salbutamol no trata la laringitis.
+9|c|Los antibióticos no sirven: es vírica.
+9|d|La adrenalina se reserva para los casos moderados y graves.
+10|a|El efecto pasa en unas 2 horas y el estridor puede volver.
+10|b|No se repite cada 15 minutos sin más.
+10|d|No se pauta adrenalina en el domicilio.
+11|a|Heimlich está contraindicada en menores de 1 año.
+11|c|El barrido a ciegas puede empujar el objeto.
+11|d|Con tos ineficaz no se espera.
+12|a|Con tos eficaz no se hacen maniobras.
+12|b|Con tos eficaz no se dan golpes.
+12|c|Darle agua puede empeorar la obstrucción.
+13|b|Varias pulsaciones seguidas hacen precipitar el fármaco.
+13|c|Sí hay que agitar el cartucho.
+13|d|Hay que mantener la mascarilla mientras respira dentro.
+14|a|La lejía no se usa.
+14|b|Frotar genera electricidad estática.
+14|d|No se limpia con alcohol tras cada uso.
+15|a|La dieta absoluta no está indicada.
+15|c|Las bebidas deportivas son hiperosmolares.
+15|d|No se diluye la fórmula.
+16|a|2.300 ml sería 100 ml/kg para todo el peso.
+16|b|1.500 ml solo cuenta los primeros 20 kg.
+16|c|1.230 ml no sale de la regla.
+17|b|60 ml/h no corresponde a 15 kg.
+17|c|45 ml/h no corresponde a 15 kg.
+17|d|75 ml/h no corresponde a 15 kg.
+18|a|Sin diuresis no se añade potasio.
+18|b|El potasio nunca va en bolo IV.
+18|d|No se da siempre por vía oral.
+19|a|La cirugía no es una emergencia inmediata.
+19|c|Hay que mantener dieta absoluta.
+19|d|El bicarbonato empeoraría la alcalosis.
+20|a|La gastroenteritis no da heces en jalea de grosella ni crisis de llanto así.
+20|b|La estenosis de píloro da vómitos en proyectil, no sangre.
+20|c|La apendicitis no produce heces en jalea de grosella.
+21|a|El reposo absoluto favorece el íleo y las atelectasias.
+21|b|La dieta absoluta prolongada no previene el íleo.
+21|d|La sonda nasogástrica no es sistemática.
+22|a|Neumococo y meningococo predominan por encima de los 3 meses.
+22|c|Haemophilus y S. aureus no son los típicos del neonato.
+22|d|Esos virus causan meningitis víricas.
+23|b|Ese es el LCR de la meningitis vírica.
+23|c|Ese es un LCR normal.
+23|d|El LCR hemático no es el de la meningitis bacteriana.
+24|a|Kernig es el dolor al extender la rodilla con la cadera flexionada.
+24|b|Babinski es un reflejo plantar.
+24|d|Lasègue es para la ciática.
+25|a|El ibuprofeno se evita en la varicela.
+25|c|El ácido acetilsalicílico está contraindicado (síndrome de Reye).
+25|d|No se alterna con ibuprofeno en la varicela.
+26|b|No se espera a que baje de 40 lpm.
+26|c|La atropina no va antes de las compresiones.
+26|d|Con mala perfusión no bastan las ventilaciones.
+27|a|30:2 es para un reanimador lego.
+27|b|5:1 no es una relación de RCP vigente.
+27|c|3:1 es para el neonato.
+28|a|Admite cualquier fármaco o fluido.
+28|b|No se repite en el mismo hueso en 24 horas.
+28|c|No se esperan 10 minutos: unos 90 segundos o 3 intentos.
+29|a|Esa regla del adulto deja la sonda corta en el niño.
+29|b|Nariz-xifoides es demasiado corto.
+29|d|Comisura-ombligo no es el método recomendado.
+30|b|La bolsa tiene mucha contaminación.
+30|c|Exprimir el pañal no es una muestra fiable.
+30|d|La tira de la bolsa solo sirve para descartar.

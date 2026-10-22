@@ -1,0 +1,102 @@
+1|a|Cheyne-Stokes alterna aumento y descenso de la amplitud con pausas.
+1|b|Biot es irregular con pausas, por lesión bulbar.
+1|d|En la paradójica el abdomen se hunde al inspirar.
+2|a|No es normal: indica agotamiento del diafragma.
+2|b|La acidosis metabólica da respiración de Kussmaul.
+2|c|No indica una lesión cerebelosa.
+3|a|600 es multiplicar sin dividir entre 20.
+3|c|20 son los cigarrillos al día.
+3|d|1,5 no sale de la fórmula.
+4|b|El derrame las disminuye.
+4|c|El neumotórax las disminuye.
+4|d|El enfisema las disminuye.
+5|a|Los crepitantes son alveolares y no cambian con la tos.
+5|b|El estridor es inspiratorio y de la vía aérea alta.
+5|c|El roce pleural no se modifica con la tos.
+6|a|El broncoespasmo da sibilancias espiratorias.
+6|c|Las secreciones en bronquios grandes dan roncus.
+6|d|La inflamación pleural da roce pleural.
+7|b|80 mmHg es hipoxemia leve, no insuficiencia.
+7|c|90 mmHg es normal.
+7|d|El límite es 60, no 40.
+8|a|El desequilibrio V/Q mejora bien con oxígeno.
+8|b|La hipoventilación mejora con oxígeno y ventilación.
+8|c|La altitud mejora con oxígeno.
+9|a|PaCO₂ normal o baja es la tipo I.
+9|c|Con PaO₂ normal no hay insuficiencia.
+9|d|No es solo el pH.
+10|a|El patrón ineficaz describe cómo mueve el aire.
+10|b|La limpieza ineficaz es por secreciones.
+10|d|La intolerancia a la actividad es otro problema.
+11|b|95-100% suprime el estímulo respiratorio del retenedor.
+11|c|El 100% favorece la hipercapnia.
+11|d|Por debajo del 85% hay hipoxemia peligrosa.
+12|a|Con el pulmón enfermo abajo empeora la oxigenación.
+12|b|El prono es para el distrés bilateral.
+12|c|El Trendelenburg dificulta la respiración.
+13|a|Mayor de 0,80 es normal.
+13|c|Un cociente de 1 no indica obstrucción.
+13|d|Con FVC baja y cociente normal es un patrón restrictivo.
+14|a|Superior a 10 no es el corte del ACT.
+14|b|25 es asma bien controlada.
+14|d|Superior a 20 indica control.
+15|a|La base son los broncodilatadores, no los corticoides.
+15|b|La taquicardia es de los beta-agonistas.
+15|c|No curan la EPOC.
+16|a|Richmond mide la motivación para dejar de fumar.
+16|c|La mMRC mide la disnea.
+16|d|El CAT mide el impacto de la EPOC.
+17|b|Fiebre, cefalea y mialgias orientan a gripe.
+17|c|Dolor, hemoptisis y síncope orientan a embolia.
+17|d|Edemas, ortopnea y ascitis orientan a insuficiencia cardíaca.
+18|a|Un 5% no es significativo.
+18|b|Hacen falta también 200 ml.
+18|c|Hace falta también el 12%.
+19|b|Suma 2: la FR de 32 y la edad de 70.
+19|c|Tiene puntos por FR y edad.
+19|d|No llega a 4: la urea y la TA son normales.
+20|a|El patrón obstructivo es la EPOC.
+20|b|No es normal: la FVC baja.
+20|d|No es mixto.
+21|a|Se hace sentado y con pinza nasal.
+21|b|La espiración es explosiva.
+21|d|Hacen falta al menos 3 maniobras.
+22|b|Las gafas dan una FiO₂ variable.
+22|c|El reservorio da FiO₂ alta, peligrosa en el retenedor.
+22|d|La mascarilla simple da una FiO₂ variable.
+23|a|El gas va calentado y humidificado a flujo alto.
+23|c|Se usa en pacientes no intubados.
+23|d|Sí hay que vigilar la condensación.
+24|a|Con el presurizado la inspiración es lenta.
+24|b|Con el polvo seco la inspiración es rápida.
+24|d|Hay que enjuagarse tras los corticoides.
+25|a|Las bronquiectasias son una indicación.
+25|b|La fibrosis quística es una indicación.
+25|c|La neumonía en resolución no la contraindica.
+26|a|Pinzar en los traslados puede provocar un neumotórax a tensión.
+26|b|Por encima del tórax el líquido refluye al pulmón.
+26|d|El burbujeo continuo indica fuga aérea.
+27|a|En coma sin reflejos está indicada la intubación.
+27|c|Apretar en exceso produce úlceras por presión.
+27|d|Reduce el riesgo de neumonía respecto a la intubación.
+28|b|10-12 ml/kg produce volutrauma.
+28|c|15 ml/kg es excesivo.
+28|d|2-3 ml/kg es insuficiente.
+29|b|Por debajo de 20 favorece la microaspiración.
+29|c|Por encima de 30 produce isquemia traqueal.
+29|d|5-10 es demasiado bajo.
+30|a|La veno-venosa solo da soporte respiratorio.
+30|b|La veno-arterial da soporte también circulatorio.
+30|c|Se aumenta el gas de barrido, no el volumen corriente.
+31|a|Las sibilancias son de bronquios pequeños y espiratorias.
+31|c|Los roncus son de secreciones en bronquios grandes.
+31|d|Los crepitantes son alveolares.
+32|b|El roce pleural suena a cuero y es pleural.
+32|c|Las sibilancias son continuas y bronquiales.
+32|d|El estridor es de la vía aérea superior.
+33|a|Los roncus cambian con la tos.
+33|b|Los crepitantes son alveolares.
+33|d|El estridor es laríngeo o traqueal.
+34|a|El aire medicinal es blanco y negro.
+34|c|El óxido nitroso es azul.
+34|d|El CO₂ es gris.

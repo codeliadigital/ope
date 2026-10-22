@@ -1,0 +1,90 @@
+1|a|El hígado es el segundo más frecuente.
+1|b|El corazón es menos frecuente.
+1|d|El pulmón es menos frecuente.
+2|a|No se exige consentimiento expreso por escrito.
+2|c|No decide solo el equipo médico.
+2|d|No hace falta autorización judicial en el fallecido.
+3|a|No pueden conocerse.
+3|b|No se intercambian cartas firmadas.
+3|c|La familia no elige al receptor.
+4|b|No la hace el cirujano: debe ser independiente.
+4|c|Es obligatoria aunque sea familiar.
+4|d|La familia del receptor no puede hacerla.
+5|a|El tipo I es fallecido a la llegada.
+5|c|El tipo II es la RCP infructuosa.
+5|d|El tipo IV es parada en muerte encefálica.
+6|a|La saturación no define el test.
+6|b|La bradicardia no define el test.
+6|c|Con PaCO₂ de 40 el estímulo es insuficiente.
+7|b|6 horas es con lesión destructiva conocida.
+7|c|Una hora no basta.
+7|d|72 horas no es el plazo.
+8|a|La atropina es ineficaz sin tono vagal.
+8|b|Doblar la dosis tampoco funciona.
+8|d|No está indicada siempre.
+9|a|Por debajo de 50 los órganos no se perfunden.
+9|c|Más de 110 no es el objetivo.
+9|d|Sí tiene objetivo.
+10|b|La desmopresina se añade solo si hay diabetes insípida.
+10|c|Los estrógenos no forman parte.
+10|d|No es esa la pauta.
+11|a|El rechazo es del receptor, no del donante.
+11|c|El exceso de sueros no da hipernatremia.
+11|b|La insuficiencia renal da oliguria.
+12|a|La donación no es obligatoria.
+12|b|Revocar la donación no hace perder la prestación.
+12|d|No tiene que hacerse en el domicilio.
+13|b|Albúmina, ascitis y encefalopatía son de Child-Pugh.
+13|c|No incluye transaminasas ni plaquetas.
+13|d|No incluye edad, peso ni grupo sanguíneo.
+14|a|No se desecha siempre.
+14|c|Un KDPI alto es de peor calidad.
+14|d|No es solo para niños.
+15|a|No se mezcla la noticia con la petición.
+15|b|En el shock no se dan datos técnicos.
+15|c|En la negación no se plantea.
+16|a|En la aceptación sí puede plantearse.
+16|b|En la tristeza puede plantearse.
+16|d|Al asimilar la pérdida sí puede plantearse.
+17|b|No se pone en la fosa lumbar.
+17|c|No se pone en el retroperitoneo posterior.
+17|d|No se pone en el tórax.
+18|a|Restringir líquidos con poliuria produce hipovolemia.
+18|b|Un volumen fijo no compensa la poliuria.
+18|c|Por boca no se repone suficiente.
+19|a|La bilis buena es densa y dorada.
+19|c|No se debe a los sueros.
+19|d|No indica que haya que retirarlo.
+20|a|El rechazo no se manifiesta solo con taquicardia.
+20|b|No hay signos de hipovolemia.
+20|d|No es por el tacrolimus.
+21|b|El hígado tolera 12-15 horas.
+21|c|El páncreas tolera 12-15 horas.
+21|d|El riñón es el que más tolera.
+22|a|El que aparece años después es el crónico.
+22|b|El mediado por linfocitos T es el agudo.
+22|c|El más frecuente es el agudo celular.
+23|a|El rechazo da oliguria, no poliuria.
+23|c|No da hipoglucemia ni bradicardia.
+23|d|Sí da síntomas y sube la creatinina.
+24|a|El micofenolato da diarrea.
+24|b|El tacrolimus da temblor y diabetes.
+24|d|El sirolimus da hiperlipemia.
+25|b|El paracetamol no interacciona así.
+25|c|El omeprazol no interacciona así.
+25|d|La insulina no interacciona así.
+26|a|Dos horas después es el pico, no el valle.
+26|b|Debe ser a una hora fija.
+26|c|Después del desayuno no es el valle.
+27|a|La gripe inactivada sí se puede.
+27|b|La antineumocócica sí se puede.
+27|d|La de hepatitis B sí se puede.
+28|b|No es una reacción hemolítica.
+28|c|No es una infección.
+28|d|No es contaminación.
+29|a|Fiebre, tos y disnea no son la tríada.
+29|c|Eso orienta a una nefropatía.
+29|d|Eso orienta a meningitis.
+30|a|La presión negativa es para pacientes contagiosos.
+30|b|La presión negativa no protege al paciente.
+30|c|Las plantas están prohibidas.

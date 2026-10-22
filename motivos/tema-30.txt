@@ -1,0 +1,90 @@
+1|a|10 segundos sin otros signos son pausas respiratorias normales.
+1|b|15 segundos sin otros signos no es apnea.
+1|d|No cualquier pausa durante el sueño es apnea.
+2|b|Bajo peso es menos de 2.500 g; con 1.350 g es muy bajo peso.
+2|c|Extremado bajo peso es menos de 1.000 g.
+2|d|El peso se clasifica con independencia de la edad gestacional.
+3|a|Prematuro tardío es de 34 a 36+6 semanas.
+3|b|Muy prematuro es de 28 a 31+6 semanas.
+3|c|Prematuro moderado es de 32 a 33+6 semanas.
+4|a|Los horarios rígidos van contra el cuidado individualizado.
+4|c|La luz intensa estresa al prematuro.
+4|d|Se coloca en flexión, no en extensión.
+5|a|No es anestesia local: actúa a nivel central.
+5|b|Se da antes del procedimiento, no después.
+5|c|Es oral, no intravenosa.
+6|a|Grado I: limitada a la matriz germinal.
+6|b|Grado II: intraventricular sin dilatación.
+6|d|Grado IV: con infarto del parénquima.
+7|a|98-100% es hiperoxia, que favorece la retinopatía.
+7|c|80-85% es una hipoxemia excesiva.
+7|d|85-88% es demasiado bajo.
+8|a|La edad gestacional se valora con Ballard o Capurro.
+8|b|El dolor se valora con otras escalas.
+8|c|La ictericia se valora con Kramer.
+9|b|La aspiración meconial es de recién nacidos a término o postérmino.
+9|c|El retraso en reabsorber el líquido es la taquipnea transitoria.
+9|d|El estreptococo del grupo B causa sepsis o neumonía, no la membrana hialina.
+10|a|Un cociente menor de 1,5 indica inmadurez.
+10|b|Un cociente de 1 indica inmadurez.
+10|d|La ausencia de fosfatidilglicerol indica inmadurez.
+11|a|El microondas desnaturaliza sus proteínas.
+11|c|El calor directo lo desnaturaliza.
+11|d|Frío es muy viscoso y puede obstruir la vía aérea.
+12|b|La membrana hialina es del prematuro, no del término por cesárea.
+12|c|La aspiración meconial requiere líquido teñido y sufrimiento fetal.
+12|d|No es un prematuro y no son apneas.
+13|a|La adrenalina no trata la apnea del prematuro.
+13|c|El surfactante trata la membrana hialina.
+13|d|La naloxona revierte opioides.
+14|a|El neumoperitoneo indica perforación (estadio avanzado).
+14|b|La doble burbuja es de la atresia duodenal.
+14|d|El abdomen sin aire es de la atresia esofágica sin fístula.
+15|a|Aumentar las tomas empeora la ECN.
+15|b|La temperatura rectal puede perforar el intestino.
+15|c|No se comprime el abdomen.
+16|a|La estenosis de píloro da vómitos tras semanas, no sialorrea al nacer.
+16|c|La ECN es del prematuro y no impide pasar la sonda.
+16|d|El Hirschsprung da retraso en la expulsión del meconio.
+17|a|La acidosis hiperclorémica es propia de las diarreas.
+17|b|No hay acidosis respiratoria.
+17|d|Hay hipopotasemia, no hiperpotasemia.
+18|b|Las gasas secas se adhieren y la compresión daña las asas.
+18|c|La povidona no se usa sobre las asas.
+18|d|No se reintroducen manualmente en paritorio.
+19|a|Eso describe la gastrosquisis.
+19|b|Puede contener hígado además de asas.
+19|c|Se asocia con frecuencia a otras malformaciones.
+20|a|En la hipertónica el pliegue puede ser poco llamativo.
+20|c|La más frecuente es la isotónica.
+20|d|Corregir deprisa provoca edema cerebral.
+21|a|El plan A es para niños sin deshidratación.
+21|b|El plan C es para la deshidratación grave.
+21|d|La dieta absoluta no está indicada.
+22|b|50 ml/kg en un bolo es excesivo.
+22|c|El suero glucosado no expande el volumen.
+22|d|En el shock no se usa la vía oral.
+23|a|5-6 mg/dl corresponde a la zona 1 (cabeza).
+23|b|7-9 mg/dl corresponde a la zona 2.
+23|c|10-12 mg/dl corresponde a la zona 3.
+24|a|Las cremas y aceites pueden causar quemaduras.
+24|c|Debe estar desnudo para que actúe la luz.
+24|d|Hay que aumentar los líquidos, no restringirlos.
+25|b|El estafilococo epidermidis predomina en la sepsis tardía nosocomial.
+25|c|Candida es más típica de la sepsis tardía del prematuro.
+25|d|Pseudomonas no es la causa más frecuente de la precoz.
+26|a|La fiebre es rara en el neonato: no se espera.
+26|c|Los antitérmicos no tratan la sepsis.
+26|b|Los cultivos se toman antes del antibiótico, no al día siguiente.
+27|a|El dolor postoperatorio neonatal se valora con CRIES.
+27|b|La edad gestacional se valora con Ballard.
+27|d|La dificultad respiratoria se valora con Silverman.
+28|b|FLACC es para niños sin lenguaje verbal.
+28|c|COMFORT es para la UCI pediátrica.
+28|d|CRIES es para el dolor postoperatorio neonatal.
+29|b|Con síntomas y 22 mg/dl no se espera 2 horas.
+29|c|La insulina empeoraría la hipoglucemia.
+29|d|El glucosado al 50% es demasiado concentrado para el neonato.
+30|a|En la protesta llora y rechaza: aquí ya no protesta.
+30|b|La apatía no es una adaptación normal.
+30|c|En el desapego ignora a los padres cuando vuelven.

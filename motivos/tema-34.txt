@@ -1,0 +1,90 @@
+1|a|Lo cromosómico y hormonal es el sexo, no el género.
+1|c|Las diferencias anatómicas son el sexo biológico.
+1|d|La orientación sexual es otro concepto distinto.
+2|a|Las mujeres viven más años, no menos.
+2|b|No son iguales: viven más pero con más morbilidad.
+2|c|Es al revés: viven más años y con peor salud.
+3|b|La mayor reactividad inmunitaria protege frente a la sepsis.
+3|c|Protege frente a las infecciones agudas.
+3|d|La cardiopatía isquémica precoz es más de varones.
+4|a|En la mujer el dolor típico falta con frecuencia.
+4|b|Se diagnostica más tarde, no antes.
+4|d|No es excepcional: es causa importante de muerte en la mujer.
+5|b|La carga por movilización se mide con el índice MAPO.
+5|c|La doble presencia se mide con el CoPsoQ-istas21.
+5|d|La sobrecarga del cuidador se mide con la escala de Zarit.
+6|a|El CoPsoQ-istas21 evalúa riesgos psicosociales.
+6|b|Zarit mide la sobrecarga del cuidador.
+6|c|EASI es para sospecha de maltrato a mayores.
+7|a|No se refiere a trabajar en dos centros.
+7|c|No son dos turnos seguidos: es empleo más trabajo doméstico.
+7|d|No tiene que ver con compartir consulta.
+8|a|La segregación horizontal es la concentración en ciertos sectores.
+8|b|La doble presencia es la suma de empleo y cuidados.
+8|d|La feminización de la pobreza es otro fenómeno.
+9|b|El ciclo original tiene tres fases, no cuatro.
+9|c|No son dos fases.
+9|d|No son cinco fases ni terminan en separación.
+10|a|En la acumulación de tensión aún no hay arrepentimiento.
+10|b|En la explosión se produce la agresión.
+10|c|La separación no es una fase del ciclo.
+11|a|La violencia de otros familiares es violencia doméstica, no de género.
+11|b|No exige matrimonio ni convivencia.
+11|d|La agresión de un desconocido no entra en la LO 1/2004.
+12|b|La violencia entre compañeros de trabajo no es vicaria.
+12|c|No se refiere a los vecinos.
+12|d|La violencia de los hijos a los padres es violencia filioparental.
+13|a|No requiere sentencia judicial.
+13|b|No requiere denuncia.
+13|c|Los bajos ingresos condicionan la ayuda económica, no la asistencia.
+14|a|No se abre expediente: la falta está justificada.
+14|c|No tiene que recuperar el turno.
+14|d|No hace falta una orden de alejamiento.
+15|a|El parte es obligatorio aunque ella no consienta.
+15|b|Se emite ante cualquier lesión, no solo las graves.
+15|d|Lo emite el profesional sanitario que la atiende.
+16|b|Con riesgo vital no se le da el alta.
+16|c|Esperar una semana es inaceptable con riesgo inminente.
+16|d|Nunca se media con el agresor.
+17|a|Enfrentarse al agresor aumenta el riesgo.
+17|b|Expulsarlo de forma directa también puede aumentar el riesgo.
+17|c|Con él delante ella no podrá hablar.
+18|a|La puntualidad no es indicador de violencia.
+18|c|Una analítica normal no es indicador.
+18|d|Lo sospechoso es que acuda siempre acompañada por una pareja controladora.
+19|a|La primaria evita que la violencia ocurra.
+19|b|La primordial actúa sobre los determinantes sociales.
+19|d|La terciaria trata las secuelas.
+20|a|No pregunta directamente por golpes ni agresiones.
+20|b|No pregunta por alcohol ni armas.
+20|c|No pregunta por hijos ni economía.
+21|a|El VPP del 40% no confirma: hay muchos falsos positivos.
+21|c|Sí sirve: su alta sensibilidad es lo que busca un cribado.
+21|d|Con un VPN del 98% tiene pocos falsos negativos.
+22|a|No es solo violencia sexual (eso lo añade E-HITS).
+22|b|La sobrecarga del cuidador se mide con Zarit.
+22|d|El maltrato a mayores se valora con EASI.
+23|b|Zarit mide la sobrecarga del cuidador.
+23|c|EASI es para sospecha de maltrato a mayores.
+23|d|Barthel mide la dependencia para actividades básicas.
+24|a|La ley de salud no es la norma de igualdad.
+24|b|La LO 3/2007 es estatal, no autonómica.
+24|c|La Ley 41/2002 es la de autonomía del paciente.
+25|a|No exige denuncia previa.
+25|c|El registro de maltrato infantil es el RUMI.
+25|d|No es una unidad policial: las policiales son UFAM y EMUME.
+26|a|El registro de maltrato infantil es el RUMI.
+26|b|Las unidades policiales son UFAM y EMUME.
+26|d|No es un cuestionario de cribado.
+27|a|Sin sobrecarga es 46 o menos.
+27|b|Sobrecarga leve es de 47 a 55.
+27|c|Zarit mide la carga del cuidador, no detecta maltrato.
+28|b|La pregunta 1 no puntúa: no hay sospecha.
+28|c|El EASI no confirma maltrato: solo da sospecha.
+28|d|Sí puede aplicarse: el MMSE es de 24 o más.
+29|a|No es negligencia: es un maltrato activo.
+29|c|No es maltrato emocional por rechazo.
+29|d|Lo provoca el cuidador.
+30|b|Retirar la custodia es para el nivel grave.
+30|c|Avisar a la policía es para el nivel grave.
+30|d|No se archiva: requiere seguimiento.

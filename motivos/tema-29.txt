@@ -1,0 +1,90 @@
+1|a|Un percentil bajo estable no justifica estudiar la malabsorción.
+1|c|No indica siempre un déficit de hormona del crecimiento.
+1|d|Sin cruce de percentiles no hace falta derivar con urgencia.
+2|a|No es un test de inteligencia ni da un cociente intelectual.
+2|b|Evalúa cuatro áreas, no solo la motricidad gruesa.
+2|c|Se aplica desde el nacimiento hasta los 6 años.
+3|a|A los 5 meses aún no se espera la sedestación sin apoyo.
+3|b|A los 12 meses muchos niños sanos aún no caminan.
+3|d|El gateo puede no darse en niños sanos.
+4|a|El primer molar sale después de los incisivos.
+4|b|El incisivo superior no sale a los 3 meses.
+4|c|Los caninos salen después de los primeros molares.
+5|b|El sellado de fisuras sí está incluido.
+5|c|La revisión anual sí está incluida.
+5|d|La extracción de dientes temporales sí está incluida.
+6|a|La obturación de dientes temporales no se financia.
+6|b|La endodoncia de dientes temporales no se financia.
+6|d|Las coronas no están en el PADI.
+7|a|Sí se usa pasta fluorada desde el primer diente.
+7|c|La cantidad de un guisante es para 2-6 años.
+7|d|500 ppm es insuficiente y no se enjuaga.
+8|a|No hay que enjuagar: el flúor debe actuar.
+8|b|El más importante es el nocturno.
+8|c|La supervisión se mantiene hasta los 8 años aproximadamente.
+9|a|El talco está contraindicado por riesgo de inhalación.
+9|b|El alcohol y el perfume irritan la piel.
+9|d|Espaciar los cambios aumenta la maceración.
+10|a|La lactancia materna no contraindica el colecho.
+10|c|Un lactante a término sano no lo contraindica.
+10|d|Un colchón firme no lo contraindica.
+11|a|El calostro es escaso y no es el más rico en grasa.
+11|b|El día 15 empieza la leche madura.
+11|c|El calostro es muy rico en inmunoglobulinas.
+12|b|El fin de semana no compensa el sedentarismo diario.
+12|c|30 minutos de intensidad ligera es insuficiente.
+12|d|El hueso necesita también actividades de impacto.
+13|a|La mastitis no contraindica la lactancia.
+13|b|Con el niño inmunizado, la hepatitis B no la contraindica.
+13|d|La ictericia fisiológica no la contraindica.
+14|a|No es por alergia.
+14|b|Las esporas de botulismo son el riesgo de la miel.
+14|c|La sobrecarga renal es por la leche de vaca entera.
+15|a|Retrasarlos no previene la alergia y puede aumentarla.
+15|b|No se esperan 3 años.
+15|d|Los antecedentes familiares no justifican retrasarlos.
+16|b|Los accidentes de tráfico son la primera causa a partir del año.
+16|c|El ahogamiento no es la primera causa en el lactante.
+16|d|Las intoxicaciones predominan entre 1 y 4 años.
+17|a|Provocar el vómito vuelve a quemar el esófago.
+17|b|La leche no neutraliza el cáustico.
+17|c|El agua abundante puede provocar el vómito.
+18|a|La regla de los 9 no se ajusta a las proporciones del niño.
+18|c|La palma de la mano sirve para quemaduras dispersas, no en todos los casos.
+18|d|El índice de Baux es un pronóstico del adulto.
+19|a|Clasificar por peso era la norma antigua R44.
+19|b|No clasifica por edad.
+19|d|i-Size usa precisamente los anclajes ISOFIX.
+20|b|120 cm no es el límite legal.
+20|c|El límite obligatorio es 135 cm.
+20|d|No depende de la edad, sino de la estatura.
+21|a|La contramarcha delante con airbag activo es mortal.
+21|b|El peso no cambia la necesidad de desactivar el airbag.
+21|c|Un lactante debe ir a contramarcha.
+22|a|No hace falta una certeza absoluta.
+22|c|Avisar antes a la familia puede poner en riesgo al menor.
+22|d|No depende de que lo pida el menor.
+23|a|La violencia sexual es menos frecuente.
+23|b|El maltrato físico es menos frecuente que la negligencia.
+23|d|El trastorno facticio es raro.
+24|b|Con riesgo inminente no se da el alta.
+24|c|Hablar con los padres no protege al niño.
+24|d|No se puede respetar esa decisión si hay riesgo.
+25|a|Esa tríada no es la del zarandeo.
+25|c|Fiebre, exantema y adenopatías no tienen relación.
+25|d|No es esa la tríada.
+26|b|Una semana no basta.
+26|c|10 días no bastan.
+26|d|Sí hay intervalo mínimo entre vacunas vivas parenterales.
+27|a|Es oral y de virus vivos.
+27|c|No se puede iniciar a cualquier edad.
+27|d|No se pone a los 12 y 15 meses.
+28|a|No es una vacuna.
+28|b|No estimula anticuerpos propios: aporta anticuerpos ya hechos.
+28|c|Es una dosis IM, no oral.
+29|b|Los filtros químicos no se usan en menores de 6 meses (ni de 3 años).
+29|c|Los fotoprotectores no se usan en menores de 6 meses.
+29|d|En las horas centrales no hay que exponerlo al sol.
+30|b|Antes de los 2 años la exposición debe ser cero.
+30|c|De 2 a 5 años el máximo es 1 hora.
+30|d|Durante las comidas no se recomiendan.

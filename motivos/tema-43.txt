@@ -1,0 +1,93 @@
+1|a|Las sinartrosis son inmóviles, como las suturas del cráneo.
+1|b|Las diartrosis son las articulaciones más móviles.
+1|d|Las sinoviales son diartrosis.
+2|b|En la artrosis el dolor mejora con el reposo.
+2|c|La tendinitis es un dolor mecánico.
+2|d|La contractura no da rigidez matutina prolongada.
+3|a|En el genu varo las rodillas se separan.
+3|b|El recurvatum es la hiperextensión de la rodilla.
+3|c|El pie equino es otra deformidad del pie.
+4|a|El mediano afecta a la mano.
+4|c|El cerebelo produce una marcha atáxica.
+4|d|El femoral afecta a la extensión de la rodilla.
+5|b|Riesgo bajo es de 25 a 28.
+5|c|Menos de 19 no es normal.
+5|d|Riesgo moderado es de 19 a 24.
+6|a|C5-C6 es el bicipital.
+6|b|C7 es el tricipital.
+6|d|S1 es el aquíleo.
+7|a|El cruzado anterior se explora con el cajón.
+7|b|El túnel carpiano se explora con Tinel y Phalen.
+7|c|El glúteo medio se explora con el Trendelenburg.
+8|a|El Tinel es percutir el nervio.
+8|c|El Lasègue es para el ciático.
+8|d|El Ortolani es para la cadera del neonato.
+9|a|No es el glúteo mayor.
+9|b|No es el cuádriceps.
+9|d|No es el psoas.
+10|b|En las interfalángicas proximales están los nódulos de Bouchard.
+10|c|Las metacarpofalángicas son típicas de la artritis reumatoide.
+10|d|El carpo es típico de la artritis reumatoide.
+11|a|El bastón va en la mano contraria a la lesión.
+11|b|El alto impacto daña el cartílago.
+11|c|El frío continuo no es lo indicado.
+12|a|Eso es la deformidad en ojal.
+12|c|En la artritis reumatoide la desviación es cubital.
+12|d|Los nódulos en las distales son de Heberden (artrosis).
+13|a|Las vacunas vivas están contraindicadas.
+13|b|El reposo absoluto no está indicado.
+13|d|No se suspende: se actualiza antes.
+14|b|Entre −1 y −2,5 es osteopenia.
+14|c|Por encima de −1 es normal.
+14|d|+2,5 no es osteoporosis.
+15|a|La leche y la comida impiden su absorción.
+15|b|Por la noche, tumbado, daña el esófago.
+15|c|El zumo reduce su absorción.
+16|a|La natación tiene poca carga sobre el hueso.
+16|c|El reposo empeora la osteoporosis.
+16|d|Los estiramientos sin carga no estimulan el hueso.
+17|b|No puede diferirse.
+17|c|Un yeso cerrado no trata la herida.
+17|d|Necesita antibiótico siempre.
+18|a|El hematoma es la fase inicial.
+18|b|El callo duro ya se ve en la radiografía.
+18|d|La remodelación es la fase final.
+19|a|La luxación de rodilla no da rotación externa de la pierna.
+19|b|El esguince de tobillo no acorta la pierna.
+19|c|La lumbalgia no produce esa deformidad.
+20|a|Cruzar las piernas luxa la prótesis.
+20|c|Las sillas bajas flexionan la cadera más de 90°.
+20|d|La flexión máxima la luxa.
+21|b|La neumonía aspirativa no da petequias.
+21|c|El compartimental afecta a la extremidad.
+21|d|La alergia no se explica por la fractura.
+22|a|La ausencia de pulso es muy tardía.
+22|b|La parálisis es tardía.
+22|d|La cianosis generalizada no es un signo del compartimental.
+23|a|Elevar la pierna empeora la perfusión.
+23|b|Más compresión lo empeora.
+23|c|Reevaluar al día siguiente es demasiado tarde.
+24|a|La de Klumpke pierde la prensión.
+24|c|No es una fractura de fémur.
+24|d|No es una lesión medular.
+25|b|Introducir primero el sano obliga a traccionar el lesionado.
+25|c|Levantarlo por las axilas tracciona el brazo.
+25|d|No se deja el brazo colgando.
+26|a|Se venda de distal a proximal.
+26|b|Los dedos deben quedar visibles.
+26|d|Mucha tensión proximal hace de torniquete.
+27|a|El vendaje en ocho es para articulaciones.
+27|b|El espiral es para segmentos cilíndricos.
+27|c|El Velpeau es para el hombro.
+28|b|Las pesas no se retiran.
+28|c|No se apoyan en el suelo.
+28|d|No se modifica el peso sin orden médica.
+29|a|El supino comprime la cava.
+29|c|El Trendelenburg no evita la compresión aortocava.
+29|d|Se inclina a la izquierda, no a la derecha.
+30|a|Para bajar van primero las muletas y la pierna afectada; para subir, la sana.
+30|b|No se suben las dos piernas a la vez sin muletas.
+30|c|No se sube de espaldas.
+31|a|En el genu varo las rodillas se separan.
+31|b|El recurvatum es la hiperextensión de la rodilla.
+31|d|Las rodillas juntas con tobillos separados no es normal en el adulto.

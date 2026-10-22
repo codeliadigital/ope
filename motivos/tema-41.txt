@@ -1,0 +1,108 @@
+1|a|En el adulto el R3 no es normal (solo puede serlo en niños y jóvenes).
+1|c|La estenosis pulmonar produce un soplo, no un R3.
+1|d|El cierre de las semilunares es el R2.
+2|a|El 2.º espacio derecho es el foco aórtico.
+2|b|El 3.er espacio paraesternal izquierdo es el foco de Erb.
+2|c|Tan lateral indica cardiomegalia.
+3|b|41-49% es FE ligeramente reducida.
+3|c|50% o más es FE conservada.
+3|d|70% o más es normal o alta.
+4|a|La hipopotasemia es de la furosemida.
+4|b|Las infecciones genitales son de los iSGLT2.
+4|d|La espironolactona no produce hipoglucemia.
+5|a|Perder peso no es signo de descompensación.
+5|b|Esa tensión es normal.
+5|c|Esa frecuencia es normal.
+6|b|Una hora es demasiado tarde.
+6|c|No se espera a la troponina.
+6|d|Se hace siempre, no según la duración.
+7|a|La CK-MB ya no es de elección.
+7|b|La mioglobina es poco específica.
+7|d|El ECG solo no descarta el infarto sin elevación del ST.
+8|a|El infarto con elevación del ST requiere elevación, no descenso.
+8|c|Una T invertida aislada no es elevación del ST.
+8|d|El PR alargado es un bloqueo AV.
+9|a|La fibrinólisis es la alternativa si no hay angioplastia a tiempo.
+9|b|El infarto con elevación del ST requiere reperfusión urgente.
+9|c|La cirugía urgente no es de elección.
+10|b|El oxígeno de rutina puede ser perjudicial.
+10|c|No hace falta reservorio sin hipoxemia.
+10|d|No se da de forma sistemática.
+11|a|El dolor persistente es indicación de nitratos.
+11|b|La hipertensión no los contraindica.
+11|d|80 lpm no los contraindica.
+12|a|La FA no es la arritmia más letal precoz.
+12|c|El bloqueo de rama derecha no es la principal causa de muerte súbita.
+12|d|La bradicardia sinusal no es la más letal.
+13|a|No elevada es por debajo de 120/70.
+13|b|La hipertensión de grado 1 empieza en 140/90.
+13|c|La hipertensión de grado 2 es aún más alta.
+14|b|Una sola medición en consulta no basta.
+14|c|No se mide exclusivamente en el brazo izquierdo.
+14|d|La analítica no confirma la hipertensión.
+15|a|10 g es demasiado.
+15|b|No hace falta eliminarla del todo.
+15|d|15 g es excesivo.
+16|a|El hiperaldosteronismo es una HTA secundaria verdadera.
+16|c|La estenosis renal es una HTA secundaria verdadera.
+16|d|El feocromocitoma es una HTA secundaria verdadera.
+17|b|La dilatación por precarga es de las insuficiencias.
+17|c|El ventrículo se engrosa, no adelgaza.
+17|d|La estenosis aórtica afecta al ventrículo izquierdo.
+18|a|Normal es de 0,91 a 1,40.
+18|b|Las arterias incompresibles dan un ITB mayor de 1,40.
+18|c|0,75 es un valor válido.
+19|a|El reposo empeora la circulación colateral.
+19|b|El calor directo puede quemar.
+19|d|El calzado ajustado causa lesiones.
+20|a|La aspirina no sustituye a la anticoagulación.
+20|c|Muchos pacientes con FA necesitan anticoagulación.
+20|d|El riesgo aumenta con la edad.
+21|b|La muñeca izquierda es el amarillo.
+21|c|El tobillo izquierdo es el verde.
+21|d|El tobillo derecho es el negro.
+22|a|5.º espacio en la línea medioclavicular es V4.
+22|b|5.º espacio en la línea axilar media es V6.
+22|d|4.º espacio paraesternal izquierdo es V2.
+23|a|V7 es una derivación posterior.
+23|b|Cambiar la velocidad no valora el ventrículo derecho.
+23|c|V7-V9 detectan el infarto posterior.
+24|a|10 mm/s no es la velocidad estándar.
+24|c|50 mm/s es para taquicardias.
+24|d|100 mm/s no se usa.
+25|b|Las cifras bajas son con manguito grande.
+25|c|El manguito pequeño altera la medida.
+25|d|Altera ambas cifras al alza.
+26|a|La fase I es la sistólica.
+26|b|La fase II no marca la diastólica.
+26|d|La fase III no marca la diastólica.
+27|a|El 2.º espacio está demasiado alto.
+27|b|La xifoides no es el eje flebostático.
+27|c|Es la línea axilar media del 4.º espacio.
+28|a|Nunca se administra medicación por la arteria.
+28|c|Hay que hacer el test de Allen.
+28|d|El presurizador va a 300 mmHg.
+29|b|No se da antes de la primera descarga.
+29|c|Sí se da en los ritmos desfibrilables.
+29|d|No es tras la primera ni cada minuto.
+30|a|Con vía aérea avanzada ya no se hacen ciclos 30:2.
+30|b|20 por minuto es hiperventilar.
+30|c|No se detienen las compresiones.
+31|b|4.º espacio paraesternal izquierdo es V2.
+31|c|5.º espacio medioclavicular es V4.
+31|d|5.º espacio axilar media es V6.
+32|a|La FA no produce hipoglucemia.
+32|b|La complicación principal no es el bloqueo.
+32|d|La FA no produce hiperpotasemia.
+33|a|La FA tiene una línea de base irregular, sin dientes de sierra.
+33|b|La TV tiene QRS anchos.
+33|c|El ritmo sinusal tiene ondas P normales.
+34|b|Esperar 24 h retrasa la reperfusión.
+34|c|La adenosina es para taquicardias supraventriculares.
+34|d|La cardioversión no trata el infarto.
+35|a|En el de 1.er grado todas las P conducen, con PR largo.
+35|b|En Mobitz I el PR se alarga hasta que una P no conduce.
+35|c|En la FA no hay ondas P.
+36|a|La extrasístole auricular tiene P previa y QRS estrecho.
+36|c|Una P bloqueada no genera un QRS ancho.
+36|d|Un latido aislado no es una taquicardia ventricular.
