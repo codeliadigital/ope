@@ -18,7 +18,7 @@
     "Utilizar la metodología TISS (Simplified Therapeutic Intervention Score System), por la que los pacientes de la clase IV requerirán una relación 1:1.",
     "Utilizar la metodología TISS, por la que los pacientes de clase III relativamente estables pueden ser agrupados con dos de clase II, por ser de bajo riesgo, y pueden ser tratados por una sola enfermera.",
     "Para una UCI de nivel III se requeriría una auxiliar de enfermería por cada 8 pacientes en turno de día, y 12 en turno de noche.",
-    "La dimensión de la plantilla no se debe ajustar por nivel de dependencia de los pacientes, sino solamente en base al criterio diagnóstico. 35 ADMINISTRACIÓN SANITARIA"
+    "La dimensión de la plantilla no se debe ajustar por nivel de dependencia de los pacientes, sino solamente en base al criterio diagnóstico."
    ],
    "a": 0,
    "src": "EIR"
@@ -26,9 +26,9 @@
   {
    "q": "Según las directrices del Consejo Internacional de Enfermería (CIE), ¿qué caracteriza a una enfermera de práctica avanzada (EPA)?:",
    "o": [
-    "1Es la enfermera que trabaja en investigación fuera del entorno clínico.",
+    "Es la enfermera que trabaja en investigación fuera del entorno clínico.",
     "Es la enfermera gestora que da apoyo educativo y conocimiento más avanzado.",
-    "Es la enfermera que tiene autonomía para la indicación, uso y administración de productos sanitarios. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 36",
+    "Es la enfermera que tiene autonomía para la indicación, uso y administración de productos sanitarios.",
     "Es la enfermera especialista o generalista con formación de grado superior, una base de conocimientos experta, habilidades para la toma de decisiones complejas y competencias clínicas ampliadas según el contexto en el que ejerce."
    ],
    "a": 3,
@@ -51,7 +51,7 @@
     "Los PREMs se centran en los resultados clínicos mientras que los PROMs en la satisfacción con el entorno hospitalario.",
     "Los PREMs evalúan la experiencia del paciente con el servicio de salud, mientras que los PROMs evalúan el impacto del tratamiento en la salud del paciente.",
     "Los PREMs miden los resultados a largo plazo, mientras que los PROMs se centran en evaluaciones inmediatas.",
-    "Los PREMs son utilizados exclusivamente en pacientes crónicos, mientras que los PROMs en pacientes agudos. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 40"
+    "Los PREMs son utilizados exclusivamente en pacientes crónicos, mientras que los PROMs en pacientes agudos."
    ],
    "a": 1,
    "src": "EIR"
@@ -102,7 +102,7 @@
    "src": "EIR"
   },
   {
-   "q": "En relación con la gestión de la cronicidad en la pirámide de KAISER, señale la respuesta INCORRECTA: 689 ENFERMERÍA COMUNITARIA",
+   "q": "En relación con la gestión de la cronicidad en la pirámide de KAISER, señale la respuesta INCORRECTA:",
    "o": [
     "Es un modelo de estratificación del riesgo.",
     "Se basa en el análisis y estratificación de la población según la complejidad y las necesidades de atención.",
@@ -116,7 +116,7 @@
    "q": "Respecto a la frecuentación de las consultas en Atención Primaria, señale la respuesta INCORRECTA:",
    "o": [
     "El principal factor que influye en la frecuentación de las consultas es la morbilidad del paciente.",
-    "La frecuentación se calcula dividiendo todas las visitas realizadas en un año en un centro de salud entre todas las personas atendidas. Modelo de Kaiser Permanente PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 690",
+    "La frecuentación se calcula dividiendo todas las visitas realizadas en un año en un centro de salud entre todas las personas atendidas.",
     "La frecuentación es el número de veces que cada persona acude para recibir atención a demanda en un centro de salud en un año.",
     "Las particularidades de los profesionales influyen en la frecuentación de las consultas."
    ],

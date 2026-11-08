@@ -5,7 +5,7 @@ window.OPE_TEMAS = [
   "programa": "Fundamentos de la enfermería: historia, disciplina y profesión. Modelos teóricos de enfermería. La Constitución Española: derechos y deberes fundamentales. La organización territorial del Estado. El Estatuto de Autonomía de la Región de Murcia.",
   "preguntas": 54,
   "pdf": "resumenes/tema-01.pdf",
-  "paginas": 13
+  "paginas": 15
  },
  {
   "n": 2,
@@ -13,7 +13,7 @@ window.OPE_TEMAS = [
   "programa": "Organización de los cuidados enfermeros en Atención Primaria y Atención Especializada: consulta de enfermería, enfermería de práctica avanzada, coordinación entre niveles, enfermera referente, escolar y gestora de casos. Ley 14/1986 General de Sanidad. Ley 4/1994 de Salud de la Región de Murcia.",
   "preguntas": 42,
   "pdf": "resumenes/tema-02.pdf",
-  "paginas": 9
+  "paginas": 10
  },
  {
   "n": 3,
@@ -21,7 +21,7 @@ window.OPE_TEMAS = [
   "programa": "El proceso enfermero: conceptos, características, ventajas y fases (valoración, diagnóstico, planificación, ejecución y evaluación). Ley 3/2009, de 11 de mayo, de los derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia. Ley 12/2014, de 16 de diciembre, de Transparencia y Participación Ciudadana de la Región de Murcia.",
   "preguntas": 57,
   "pdf": "resumenes/tema-03.pdf",
-  "paginas": 6
+  "paginas": 7
  },
  {
   "n": 4,

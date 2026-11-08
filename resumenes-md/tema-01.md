@@ -5,6 +5,34 @@ pie: Fundamentos, Modelos y Constitución
 sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B: Modelos y teorías · Bloque C: Constitución y Estatuto de Murcia
 ---
 
+## Siglas y leyes de este tema
+
+| Sigla o norma | Nombre completo | De qué va |
+|---|---|---|
+| **CIE** | Consejo Internacional de Enfermeras (1899) | Organización mundial de la enfermería; código deontológico internacional |
+| **OMS** | Organización Mundial de la Salud | Organismo de la ONU para la salud |
+| **ATS / DUE** | Ayudante Técnico Sanitario / Diplomado Universitario en Enfermería | Títulos anteriores al actual Grado en Enfermería |
+| **EIR** | Enfermero/a Interno/a Residente | Vía de formación de las especialidades (2 años de residencia) |
+| **RD** | Real Decreto | Norma del Gobierno (rango inferior a la ley) |
+| **RD 2128/1977** | Integración de las Escuelas de ATS en la Universidad | Crea la diplomatura de Enfermería (3 años) |
+| **RD 450/2005** | Real Decreto de especialidades de Enfermería | Las 7 especialidades |
+| **CE** | Constitución Española de 1978 | Norma suprema del Estado |
+| **LO** | Ley Orgánica | Ley de mayoría absoluta (derechos fundamentales, Estatutos, régimen electoral) |
+| **LO 4/1982** | Estatuto de Autonomía de la Región de Murcia | «Constitución» de la Región |
+| **SNS** | Sistema Nacional de Salud | Conjunto de los Servicios de Salud del Estado y de las CCAA |
+| **CCAA** | Comunidades Autónomas | |
+| **SMS** | Servicio Murciano de Salud | Servicio de Salud de Murcia (gestiona centros y personal) |
+| **LGS (Ley 14/1986)** | Ley General de Sanidad | Crea el SNS |
+| **Ley 16/2003** | Ley de Cohesión y Calidad del SNS | Igualdad entre CCAA y cartera de servicios |
+| **Ley 33/2011** | Ley General de Salud Pública | |
+| **Ley 55/2003** | Estatuto Marco del personal estatutario de los servicios de salud | Derechos, deberes y trabajo del personal del SNS |
+| **Ley 31/1995** | Ley de Prevención de Riesgos Laborales | Desarrolla el art. 40.2 CE |
+| **Ley 4/1994** | Ley de Salud de la Región de Murcia | Crea el SMS |
+| **Ley 6/2004** | Estatuto del Presidente y del Consejo de Gobierno de la Región de Murcia | Elección y cese del Presidente |
+| **Ley 7/2004** | Organización y Régimen Jurídico de la Administración regional de Murcia | Órganos superiores y directivos |
+| **CES** | Consejo Económico y Social (de Murcia) | Órgano consultivo socioeconómico |
+| **INGESA** | Instituto Nacional de Gestión Sanitaria | Gestiona la sanidad pública en Ceuta y Melilla (Estado) |
+
 ## A1. Historia de la enfermería: las 4 etapas
 
 | Etapa | Época | Claves |
@@ -21,15 +49,15 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 - **Hebreos**: la enfermedad es un castigo divino, pero reconocen el contagio, el aislamiento y la notificación. La **Ley Mosaica** regula la higiene. **Débora** es la primera enfermera reconocida.
 - **India**: Vedas (ca. 1600 a.C.). El texto **Kaviratna** dice que los cuidadores deben ser hombres jóvenes (o mujeres ancianas).
 - **China**: salud = armonía con el universo, equilibrio **Yin-Yang**.
-- **Grecia**: se pasa de una visión teúrgica a una naturalista. **Hipócrates** (s. V a.C.), «padre de la medicina», con la **Teoría Humoral** (4 humores). Templos de Asclepio.
-- **Roma**: medicina militar; los **nosocomi** son los antecesores de camilleros y enfermeros de campaña. Galeno (s. II d.C.). Con el Edicto de Tesalónica surgen los **xenodoquios** (hospicios), precursores de los hospitales.
+- **Grecia**: se pasa de una visión teúrgica (la enfermedad la envían los dioses) a una naturalista (tiene causas naturales). **Hipócrates** (s. V a.C.), «padre de la medicina», con la **Teoría Humoral**: la enfermedad es un desequilibrio de 4 humores: **sangre** (caliente y húmeda), **bilis amarilla** (caliente y seca), **bilis negra** (fría y seca) y **flema** (fría y húmeda). Templos de Asclepio.
+- **Roma**: medicina militar; los **nosocomi** son los antecesores de camilleros y enfermeros de campaña. Galeno (s. II d.C.). Tras el Edicto de Tesalónica (380, el cristianismo pasa a ser religión oficial) surgen los **xenodoquios** (hospicios), precursores de los hospitales.
 
 ### Etapa vocacional (Edad Media y Edad Moderna)
 
-- **Alta Edad Media**: San Benito de Nursia (s. VI) y la **Orden Benedictina**, con obligación de atender a enfermos. **Escuela de Salerno** (s. IX), que admitía mujeres. **Hôtel-Dieu** de París (s. VII). Diaconisas, Agustinas y **beguinas** (Flandes).
+- **Alta Edad Media**: San Benito de Nursia (s. VI) y la **Orden Benedictina**, con obligación de atender a enfermos. **Escuela de Salerno** (s. IX), que admitía mujeres. **Hôtel-Dieu** de París (s. VII). Cuidan a los enfermos diaconisas, agustinas y **beguinas** (mujeres laicas de Flandes).
 - **Baja Edad Media** (Cruzadas): órdenes **militares** (Hospitalarios de San Juan de Jerusalén / Malta, San Lázaro), **mendicantes** (Franciscanos, Dominicos) y cofradías seglares.
 - **Reforma Protestante**: cierra instituciones en el norte de Europa y abre la «**época oscura**» de la enfermería. Cuidan reclusas y mujeres marginales.
-- **España, ss. XVI-XVII (Trento)**: «**época áurea**». Orden de **San Juan de Dios** (Pío V, 1572); **Hijas de la Caridad** (París, 1633). Aparecen los primeros manuales escritos por enfermeros.
+- **España, ss. XVI-XVII** (tras el Concilio de Trento): «**época áurea**» de la enfermería. Orden de **San Juan de Dios** (Juan Ciudad; aprobada por Pío V en 1572); **Ministros de los Enfermos** o Camilos (**Camilo de Lelis**, s. XVI, orden masculina); **Hijas de la Caridad** (Vicente de Paúl y Luisa de Marillac, París, 1633). Aparecen los primeros manuales escritos por enfermeros.
 
 ### Etapa técnica (s. XIX)
 
@@ -42,24 +70,26 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
   - Primera enfermera investigadora: usa la **estadística** y los gráficos de áreas.
 - **España**: antes había **practicantes** (hombres, curas menores), **matronas** (partos) y religiosas.
   - **Ley Moyano** (Instrucción Pública, 1857): regula los títulos de practicante y matrona, pero **NO el de enfermera**.
+  - **Concepción Arenal** (escritora, desde 1860): defiende la reforma hospitalaria y propone unificar enfermera, practicante y matrona en un solo título y escuela.
+  - **1896: primera escuela de enfermería de España**, la **Escuela de Enfermeras de Santa Isabel de Hungría** (Madrid, fundada por el doctor Federico Rubio).
   - ==**1915, Real Orden: crea el título de Enfermera**== en España, a instancias de las **Siervas de María**.
-  - **Concepción Arenal** (desde 1860): propone unificar enfermera, practicante y matrona en un solo título y escuela.
 
 ### Etapa profesional (ss. XX-XXI): cronología España e internacional
 
 | Año | Hito |
 |---|---|
-| **1899** | Se funda el **Consejo Internacional de Enfermeras (CIE)**, con código deontológico internacional |
+| **1899** | Se funda el **Consejo Internacional de Enfermeras (CIE)**, con código deontológico internacional. Su Plan Estratégico 2019-2023 tenía 3 ejes: **impacto global, liderazgo estratégico y crecimiento innovador** |
 | 1912 | Colegios Oficiales de practicantes (en 1928 se incluyen las enfermeras) |
 | 1944 | Colegio único de «Auxiliares Sanitarios» |
-| **1953** | ==Se unifican enfermera, practicante y matrona en el título de **ATS**== |
-| 1970 | Ley General de Educación: la formación de ATS pasa a la universidad |
+| **1953** | ==Se unifican enfermera, practicante y matrona en el título de **ATS**== (Ayudante Técnico Sanitario) |
+| 1970 | Ley General de Educación: dispone que la formación de ATS sea universitaria (se hace efectivo en 1977) |
 | **1977** | **RD 2128/1977**: Escuelas Universitarias de Enfermería, **diplomatura de 3 años** (más de 4.500 h). Se crea el **Consejo General de Colegios de Enfermería** |
-| 1980 | Curso de nivelación de ATS a DUE |
-| 1999 | Proceso de **Bolonia** (Espacio Europeo de Educación Superior) |
-| **2005** | **RD 450/2005**: **7 especialidades** vía EIR |
+| 1980 | Curso de nivelación de ATS a **DUE** (Diplomado Universitario en Enfermería) |
+| 1999 | Proceso de **Bolonia** (Espacio Europeo de Educación Superior, EEES) |
+| **2005** | **RD 450/2005** (Real Decreto de especialidades de Enfermería): **7 especialidades** vía **EIR** (Enfermero Interno Residente) |
 | **2007** | **Grado en Enfermería (4 años)**, con acceso a máster y doctorado |
-| 2020 | Bicentenario de Nightingale: la OMS declara el Año Internacional de la Enfermera y la Matrona; campaña **Nursing Now** (OMS + CIE) |
+| 2020 | Bicentenario de Nightingale: la **OMS** (Organización Mundial de la Salud) declara el Año Internacional de la Enfermera y la Matrona; campaña **Nursing Now** (OMS + CIE, 2018-2020) para dar más peso y liderazgo a las enfermeras |
+| 2021 | **Desafío Nursing Now** (*Nursing Now Challenge*, OMS + CIE): continúa la campaña; busca **empoderar a enfermeras y matronas** para mejorar la experiencia del paciente y la salud |
 
 - **Las 7 especialidades (RD 450/2005)**: Obstétrico-Ginecológica (Matrona), Salud Mental, Geriátrica, del Trabajo, Familiar y Comunitaria, Pediátrica y Cuidados Médico-Quirúrgicos.
 
@@ -103,7 +133,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 - **Supuestos**: premisas aceptadas sin demostración.
 - **Sistema de valores**: lo que la teórica considera importante o deseable.
 - **Principios**: meta de la enfermería, rol del profesional, origen del problema, enfoque de la intervención y consecuencias esperadas.
-- **Criterios para evaluar teorías** (Fawcett; también Marriner-Alligood): **Claridad, Simplicidad, Generalidad, Precisión empírica y Consecuencias deducibles**. Marriner-Tomey y Alligood analizaron 51 teorías con estos criterios.
+- **Criterios para evaluar teorías** (Fawcett; también Marriner-Alligood): **Claridad, Simplicidad (sencillez), Generalidad, Precisión empírica y Consecuencias deducibles**. Marriner-Tomey y Alligood analizaron 51 teorías con estos criterios.
 
 ## B2. Clasificaciones de modelos y teorías (muy preguntado)
 
@@ -111,13 +141,15 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 | | **CATEGORIZACIÓN** | **INTEGRACIÓN** | **TRANSFORMACIÓN** |
 |---|---|---|---|
-| Época | 1850-1950 (raíces ss. XVIII-XIX) | 1950-1975 | 1975 en adelante |
-| Visión | Fragmentada, causa única. Persona = suma de partes | Multicausal; persona biopsicosocial e integrada | Fenómeno único, contextual e irrepetible; visión holística |
+| Época | 1850-1950 (raíces ss. XVIII-XIX) | 1950-1975 | 1975 en adelante (**el actual**) |
+| Visión | Fragmentada, causa única (influencia **positivista**). Persona = suma de partes | Multicausal; persona biopsicosocial e integrada | Fenómeno único, contextual e irrepetible; visión holística |
 | Orientación | Salud pública (Nightingale) y enfermedad | Hacia la persona | Apertura al mundo |
 | Cuidado | ==«**Hacer para**»==; paciente pasivo | ==«**Actuar con**»== | ==«**Estar con**»== |
 | Enfermera | Realizadora de tareas | Consejera | Compañera |
 | Salud | Ausencia de enfermedad | Ideal, capacidad de adaptación | Valor y proceso |
 | Teóricas | **Nightingale** | **Henderson, Orem, Peplau, Roy, Neuman, Johnson** | **Rogers, Watson, Leininger, Parse, Newman** |
+
+- Las escuelas del **Caring** y del **Ser humano unitario** (tabla siguiente) corresponden al paradigma de **Transformación**.
 
 ### Escuelas de pensamiento (Meleis y Kérouac)
 
@@ -140,7 +172,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 | | Existencialista (salud-psicología) | Peplau, Roy, King, Levine |
 | | Cósmica (salud-medio ambiente/energía) | Rogers, Neuman, Johnson |
 | | Sociológica (salud-dinámica social) | Orem |
-| **UNED** (rol de la enfermera) | Naturalista | Nightingale |
+| **UNED** (Universidad Nacional de Educación a Distancia; rol de la enfermera) | Naturalista | Nightingale |
 | | Suplencia y ayuda | Henderson, Orem |
 | | Interrelación | Peplau, Roy, Rogers, King, Levine |
 | **Marriner** (significado de la enfermería) | Humanistas (arte y ciencia) | Nightingale, Henderson, Orem, Leininger, Watson |
@@ -172,7 +204,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 - Definición aceptada por el **CIE**: «La única función de la enfermera es asistir al individuo, sano o enfermo, en la realización de aquellas actividades que contribuyen a su salud o recuperación (o a una muerte serena), que realizaría sin ayuda si tuviera la fuerza, la voluntad o el conocimiento necesarios.»
 - ==Salud = **independencia** en la satisfacción de las necesidades==. El objetivo es la independencia lo antes posible.
-- ==Fuentes de dificultad: falta de **fuerza**, de **conocimiento** o de **voluntad**==.
+- ==Fuentes de dificultad (causas de la dependencia): falta de **fuerza**, de **conocimiento** o de **voluntad**==.
 - Roles de la enfermera: **sustituta** (hace por él), **ayudante** (colabora) y **compañera** (fomenta la independencia).
 - «Necesidad» no significa carencia, sino **requisito vital**.
 
@@ -201,7 +233,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 ### Hildegard Peplau: Relaciones Interpersonales (1952)
 
-- «**Madre de la enfermería psiquiátrica**». Es el primer modelo centrado en la **relación enfermera-paciente**. Enfermería psicodinámica: un proceso interpersonal terapéutico y educativo.
+- «**Madre de la enfermería psiquiátrica**». Es el primer modelo centrado en la **relación enfermera-paciente**. Enfermería psicodinámica: un proceso interpersonal **terapéutico, significativo** y educativo.
 - ==**4 fases** (O-I-E-R): **Orientación** (se define el problema), **Identificación** (confianza), **Explotación** o aprovechamiento (usa los recursos) y **Resolución**== (se cierra el vínculo).
 - **6 roles**: extraño, persona recurso, docente, líder, sustituto y **consejero** (el más importante).
 - Salud: desarrollo de la personalidad hacia la madurez.
@@ -218,7 +250,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 ### Martha Rogers: Seres Humanos Unitarios (1970)
 
-- La persona es un **campo de energía** irreductible, indivisible y pandimensional, en interacción continua con el campo del entorno.
+- La persona es un **campo de energía** irreductible, indivisible y pandimensional: un **sistema abierto** en interacción continua con otro sistema abierto, el entorno.
 - 4 conceptos: campos de energía, universo de sistemas abiertos, patrones y pandimensionalidad.
 - **Principios de homeodinámica**: **Resonancia** (cambios en los patrones de onda), **Helicidad** (cambio continuo, innovador e impredecible, en espiral) e **Integralidad** (interacción mutua persona-entorno).
 - Intervenciones no invasivas: tacto terapéutico, música, luz, color, meditación.
@@ -245,19 +277,21 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 |---|---|---|
 | **Myra Levine** (1967) | Conservación | 4 principios de conservación: energía, integridad estructural, integridad personal e integridad social. Escuela de Efectos deseables |
 | **Dorothy Johnson** | Sistema conductual | **7 subsistemas**: afiliativo, dependencia, ingestión, eliminación, sexual, realización y agresivo-protector. Efectos deseables |
-| **Betty Neuman** | Sistemas | Estresores (intra-, inter- y extrapersonales); líneas de defensa (flexible y normal) y de resistencia; prevención en 3 niveles. Efectos deseables |
+| **Betty Neuman** | Sistemas | Estresores (intra-, inter- y extrapersonales); líneas de defensa (flexible y normal) y **líneas de resistencia** (factores internos de protección frente al estresor); prevención en 3 niveles. Efectos deseables |
 | **Ida Jean Orlando** | Proceso deliberativo | Necesidad inmediata; **validar** con el paciente y no inferir; acción deliberada, no automática. Interacción |
 | **Imogene King** | Consecución de objetivos | Logro de metas mediante la interacción y las transacciones. Interacción |
 | **Joyce Travelbee** | Relación persona a persona | Encontrar **sentido al sufrimiento** |
 | **Faye G. Abdellah** | Tipología de problemas | **21 problemas** de enfermería (evolución de Henderson). Necesidades |
-| **Patricia Benner** (1984) | De principiante a experta | Basada en Dreyfus. ==**5 niveles**: principiante, principiante avanzada, competente (2-3 años), eficiente y experta==. Know-how frente a know-that. Caring |
+| **Patricia Benner** (1984) | De principiante a experta | Basada en Dreyfus. ==**5 niveles**: principiante, principiante avanzada, competente (2-3 años), eficiente y experta==. **Eficiente**: ve la situación como un todo, reconoce lo más importante y tiene un dominio intuitivo basado en su experiencia previa. **Experta**: ya no necesita reglas; actúa por intuición y va directa al problema. Know-how frente a know-that. Caring |
 | **Nola Pender** (1982) | Promoción de la salud | Basada en **Bandura**: beneficios y barreras percibidas, **autoeficacia**, influencias interpersonales. Promoción de la salud |
-| **Roper-Logan-Tierney** | Modelo de vida | **12 actividades** de la vida diaria |
+| **Roper-Logan-Tierney** | Modelo de vida | **12 actividades** de la vida diaria (AVD) |
 | **Marjory Gordon** | Patrones funcionales | ==**11 patrones funcionales**== para la valoración |
 | **Kristen Swanson** | Caring | 5 procesos: conocer, estar con, hacer por, posibilitar y mantener las creencias |
 | **Merle Mishel** | Incertidumbre | La incertidumbre ante la enfermedad influye en el afrontamiento |
 | **Katharine Kolcaba** | Confort | Alivio, tranquilidad y trascendencia |
-| **Lydia Hall** | Esencia, cuidado y curación | 3 círculos: cuidado (enfermera), núcleo (persona) y curación (equipo) |
+| **Lydia Hall** | Núcleo (esencia), cuidado y curación | 3 círculos: cuidado (enfermera), núcleo (persona) y curación (equipo) |
+| **Ernestine Wiedenbach** | El arte de cuidar (ayudar) en la enfermería clínica | La enfermera identifica la necesidad de ayuda del paciente, se la da y valida que la ha cubierto |
+| **Barbara Riegel** | Autocuidado en la enfermedad crónica (nivel medio) | 3 conceptos: **mantenimiento, monitorización y gestión** del autocuidado |
 
 !! ==Números que se cruzan: **Henderson = 14 necesidades**; **Abdellah = 21 problemas**; **Gordon = 11 patrones**; **Roper = 12 AVD**; **Johnson = 7 subsistemas**; **Watson = 10 factores**; **Benner = 5 niveles**; **Peplau = 4 fases y 6 roles**.==
 !! Henderson está en **Integración** (Kérouac), aunque su enfoque por necesidades «descompone» el cuidado. Si te preguntan el paradigma, marca Integración.
@@ -268,19 +302,19 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 ## == BLOQUE C · Constitución Española, organización territorial y Estatuto de Murcia
 
-## C1. La Constitución de 1978: datos básicos
+## C1. La Constitución Española de 1978 (CE): datos básicos
 
 | Hito | Fecha |
 |---|---|
 | Aprobada por las Cortes | 31 octubre 1978 |
 | Referéndum (trampa: no es la entrada en vigor) | ==**6 diciembre 1978**== |
-| Sanción y promulgación por el Rey | 27 diciembre 1978 |
-| Entrada en vigor (BOE) | ==**29 diciembre 1978**== |
+| Sanción y promulgación por el Rey (la firma y ordena publicarla) | 27 diciembre 1978 |
+| Entrada en vigor (publicación en el Boletín Oficial del Estado, BOE) | ==**29 diciembre 1978**== |
 
 - **169 artículos**: Título Preliminar + 10 Títulos (11 en total; el Preliminar no lleva número).
-- Disposiciones **4-9-1-1**: 4 Adicionales, 9 Transitorias, 1 Derogatoria, 1 Final.
-- Solo **3 reformas** (Constitución rígida):
-  - **1992**: art. 13.2, sufragio pasivo de extranjeros en municipales (Maastricht).
+- Al final lleva disposiciones **4-9-1-1**: 4 adicionales, 9 transitorias, 1 derogatoria y 1 final.
+- Es una Constitución **rígida** (cambiarla exige mayorías reforzadas) y solo ha tenido **3 reformas**:
+  - **1992**: art. 13.2, para que los extranjeros de la Unión Europea puedan **ser elegidos** (sufragio pasivo) en las elecciones municipales, por el Tratado de Maastricht.
   - **2011**: art. 135, estabilidad presupuestaria.
   - **2024**: art. 49, «disminuidos» pasa a «**personas con discapacidad**».
 
@@ -303,7 +337,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 ### Reforma constitucional (Título X)
 
 - **Ordinaria (art. 167)**: reformas parciales.
-  - Requiere **3/5** de cada Cámara. Si no hay acuerdo, comisión paritaria.
+  - Requiere **3/5** de cada Cámara. Si Congreso y Senado no se ponen de acuerdo, una comisión paritaria (igual número de diputados y senadores) propone un texto.
   - Si el Senado aprueba por mayoría absoluta sin llegar a 3/5, el Congreso puede aprobarla con **2/3**.
   - Referéndum solo si lo pide **1/10** de los miembros de cualquier Cámara en **15 días**.
 - **Agravada (art. 168)**: revisión total, Título Preliminar, arts. 15-29 (Sección 1.ª) o Título II (Corona).
@@ -315,7 +349,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
   - ==Valores superiores: **libertad, justicia, igualdad y pluralismo político**==.
   - La soberanía nacional reside en el **pueblo español**.
   - Forma política: **Monarquía parlamentaria**.
-- **Art. 2**: indisoluble unidad de la Nación + derecho a la autonomía de nacionalidades y regiones + solidaridad.
+- **Art. 2**: la Nación española es una e indisoluble; reconoce el derecho a la autonomía de nacionalidades y regiones y la solidaridad entre ellas.
 - **Art. 3**: castellano oficial. Se tiene el **DEBER de conocerlo** y el **DERECHO a usarlo**.
 - **Art. 4**: bandera roja-amarilla-roja; la amarilla es de doble anchura que cada una de las rojas.
 - **Art. 5**: capital, la villa de Madrid.
@@ -324,8 +358,8 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 - **Art. 9.2**: los poderes públicos promueven que la libertad y la igualdad sean reales y efectivas.
 - **Art. 9.3**, principios garantizados:
   - Legalidad, jerarquía normativa y publicidad de las normas.
-  - Irretroactividad de las disposiciones sancionadoras **no favorables** o restrictivas de derechos individuales.
-  - Seguridad jurídica, responsabilidad e interdicción de la arbitrariedad de los poderes públicos.
+  - Irretroactividad (no se aplican hacia atrás) de las disposiciones sancionadoras **no favorables** o restrictivas de derechos individuales.
+  - Seguridad jurídica, responsabilidad e interdicción (prohibición) de la arbitrariedad de los poderes públicos.
 
 !! ==Los valores superiores son **SOLO esos 4**. «Solidaridad», «paz», «legalidad» o «democracia»: FALSO.==
 !! Art. 3: no inviertas los términos («derecho a conocerlo y deber de usarlo» es FALSO).
@@ -345,22 +379,24 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 ### Capítulo II: derechos y libertades (arts. 14-38)
 
 - **Art. 14**: igualdad ante la ley y prohibición de discriminación (raza, sexo, religión, opinión...).
+- Cuanto más protegido está un derecho, más difícil es cambiarlo y más vías hay para defenderlo. El **recurso de amparo** es la demanda que un ciudadano presenta ante el **Tribunal Constitucional** cuando le vulneran un derecho fundamental.
+- Nombres oficiales (los cambian en el examen): Título I «**De los derechos y deberes fundamentales**»; Sección 1.ª «De los derechos fundamentales y de las libertades públicas»; Sección 2.ª «De los derechos y deberes de los ciudadanos».
 
 | **Sección 1.ª (arts. 15-29)**: Derechos fundamentales | **Sección 2.ª (arts. 30-38)**: Derechos y deberes de los ciudadanos |
 |---|---|
 | ==**MÁXIMA protección: Ley Orgánica + recurso de amparo**== | Protección media: ley ordinaria, **SIN amparo** |
-| **15** Vida e integridad física y moral. Prohíbe la tortura. Pena de muerte abolida «salvo leyes penales militares en tiempo de guerra» (base de las leyes de aborto y eutanasia) | **30** Defensa de España. **30.2 Objeción de conciencia: SÍ tiene amparo** (excepción) |
-| **16** Libertad ideológica, religiosa y de culto; ninguna confesión es estatal (Testigos de Jehová) | **32** Matrimonio |
-| **17** Libertad. Detención preventiva **máx. 72 h**. Habeas corpus | **33** Propiedad privada y herencia |
+| **15** Vida e integridad física y moral. Prohíbe la tortura. Pena de muerte abolida «salvo leyes penales militares en tiempo de guerra». Es el artículo de referencia en aborto y eutanasia | **30** Defensa de España. **30.2 Objeción de conciencia: SÍ tiene amparo** (excepción) |
+| **16** Libertad ideológica, religiosa y de culto; ninguna confesión es estatal (p. ej., el rechazo a transfusiones de los Testigos de Jehová) | **32** Matrimonio |
+| **17** Libertad. Detención preventiva **máx. 72 h**. *Habeas corpus*: llevar de inmediato ante el juez a quien está detenido ilegalmente | **33** Propiedad privada y herencia |
 | **18** Honor, intimidad y propia imagen; inviolabilidad del domicilio; secreto de comunicaciones (historia clínica, protección de datos) | **36** Colegios Profesionales, con estructura democrática |
 | **20** Libertad de expresión y cátedra; secreto profesional | |
-| **24** Tutela judicial efectiva | |
+| **24** Tutela judicial efectiva (derecho a acudir a los jueces y obtener respuesta) | |
 | **27** Educación (básica obligatoria y gratuita) | |
 
 ### Capítulo III: principios rectores (arts. 39-52)
 
-- **No son exigibles directamente ante un juez**: son mandatos para que los poderes públicos legislen. **No tienen amparo**.
-- **Art. 39**: familia e infancia. **Art. 41**: régimen público de Seguridad Social. **Art. 43**: protección de la salud. **Art. 47**: vivienda digna. **Art. 49**: personas con discapacidad (reforma de 2024). **Art. 50**: tercera edad (pensiones).
+- **No se pueden reclamar directamente ante un juez**: son mandatos para que los poderes públicos hagan leyes y políticas. Solo se reclaman según lo que digan esas leyes. **No tienen amparo**.
+- **Art. 39**: familia e infancia. **Art. 40.2**: seguridad e higiene en el trabajo (lo desarrolla la Ley 31/1995 de Prevención de Riesgos Laborales). **Art. 41**: régimen público de Seguridad Social. **Art. 43**: protección de la salud. **Art. 47**: vivienda digna. **Art. 49**: personas con discapacidad (reforma de 2024). **Art. 50**: tercera edad (pensiones).
 
 ### Capítulo IV: garantías (arts. 53-54)
 
@@ -370,7 +406,7 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 ### Capítulo V: suspensión de derechos (art. 55)
 
 - **Suspensión general**: solo en estados de **excepción y sitio**. El estado de **alarma NO suspende** derechos fundamentales.
-- **Suspensión individual**: investigaciones de terrorismo o bandas armadas (ampliar las 72 h, intervenir comunicaciones), con control parlamentario posterior.
+- **Suspensión individual**: en investigaciones de terrorismo o bandas armadas se puede alargar la detención más de 72 h o intervenir comunicaciones, con control posterior del Parlamento.
 
 !! ==«Un paciente en lista de espera recurre en amparo por el art. 43»: **NO se admite**. La salud es un principio rector, sin amparo.==
 !! El Defensor del Pueblo lo eligen las **Cortes Generales**, no el Rey ni el Gobierno.
@@ -382,27 +418,27 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 - **43.1**: se reconoce el **derecho a la protección de la salud**.
 - **43.2**: compete a los poderes públicos organizar y tutelar la **salud pública** mediante medidas preventivas y prestaciones; la ley fija derechos y deberes.
 - **43.3**: los poderes públicos fomentan la **educación sanitaria**, la educación física y el deporte, y facilitan la adecuada utilización del ocio.
-- Naturaleza: ==**principio rector** (Cap. III) y derecho de configuración legal==: necesita leyes y presupuesto. **Sin eficacia directa ni amparo**.
+- Naturaleza: ==**principio rector** (Cap. III) y derecho de configuración legal==: solo se puede exigir en los términos que fijen las leyes que lo desarrollan (y su presupuesto). **No tiene eficacia directa ni amparo**.
 
 | Ley | Clave |
 |---|---|
-| **Ley 14/1986**, de 25 de abril, **General de Sanidad** | Crea el **SNS**: universal y financiado por impuestos. Supera la beneficencia y el aseguramiento laboral. Art. 3.1: prioridad a la **promoción de la salud y la prevención** |
-| **Ley 16/2003** | Cohesión y Calidad del SNS (evitar desigualdades entre CCAA) |
-| **Ley 33/2011** | General de Salud Pública |
+| **Ley 14/1986**, de 25 de abril, **General de Sanidad** (LGS) | Crea el **Sistema Nacional de Salud (SNS)**: universal y financiado por impuestos. Sustituye al modelo anterior, en el que solo tenían asistencia los trabajadores asegurados (y los pobres, por beneficencia). Art. 3.1: prioridad a la **promoción de la salud y la prevención** |
+| **Ley 16/2003**, de Cohesión y Calidad del SNS | Evitar desigualdades entre Comunidades Autónomas (CCAA) |
+| **Ley 33/2011**, General de Salud Pública | Vigilancia y protección de la salud de la población |
 
 ## C5. Las Cortes Generales (Título III, arts. 66-96)
 
-- **Bicameralismo asimétrico**: el Congreso pesa más que el Senado. Las Cortes son inviolables.
+- Son dos Cámaras, Congreso y Senado, pero el Congreso pesa más (**bicameralismo asimétrico**). Las Cortes son inviolables.
 - Funciones: potestad **legislativa**, aprobar los **Presupuestos Generales del Estado** y **controlar al Gobierno**.
 - **Congreso**: entre **300 y 400** diputados (la ley electoral los fija en **350**). Circunscripción: la **provincia** (+ Ceuta y Melilla). Mandato de 4 años.
 - **Senado**: cámara de **representación territorial**. **4 senadores por provincia** peninsular + senadores designados por los parlamentos autonómicos. Mandato de 4 años.
 
 ### Iniciativa legislativa
 
-- **Proyecto de ley**: lo presenta el **Gobierno**. Tiene prioridad y no necesita toma en consideración.
-- **Proposición de ley**: la presentan el Congreso, el Senado, las Asambleas de las CCAA o la **iniciativa popular (500.000 firmas)**. Necesita toma en consideración.
+- **Proyecto de ley**: lo presenta el **Gobierno**. Tiene prioridad y se tramita directamente.
+- **Proposición de ley**: la presentan el Congreso, el Senado, las Asambleas de las CCAA o la **iniciativa popular (500.000 firmas)**. Antes de tramitarse necesita la «toma en consideración» (una votación en la que la Cámara decide si la admite).
 - El Senado tiene **2 meses** para vetar o enmendar (**20 días** si es urgente). La última palabra la tiene el **Congreso**.
-- El Rey sanciona en **15 días**; es un acto debido y no puede negarse.
+- El Rey sanciona (firma) la ley en **15 días**; es un acto debido: no puede negarse.
 
 | **Ley Orgánica (art. 81)** | **Ley Ordinaria** |
 |---|---|
@@ -411,10 +447,12 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 ### Normas del Gobierno con rango de ley (muy preguntado)
 
+Son normas que aprueba el Gobierno, no el Parlamento, pero tienen la misma fuerza que una ley.
+
 | | **DECRETO-LEY (art. 86)** | **DECRETO LEGISLATIVO (arts. 82-85)** |
 |---|---|---|
 | Motivo | ==**Extraordinaria y urgente necesidad**== | ==**Delegación previa de las Cortes**== |
-| Control | **Posterior**: el Congreso lo convalida o deroga en **30 días** | **Previo**: Ley de Bases (textos articulados) o Ley ordinaria (textos refundidos) |
+| Control | **Posterior**: el Congreso lo convalida o deroga en **30 días** | **Previo**: las Cortes delegan antes, con una Ley de Bases (para redactar un texto articulado nuevo) o con una ley ordinaria (para refundir en un solo texto leyes que ya existen) |
 | Límites | No puede afectar a instituciones básicas, derechos del Título I, régimen de las CCAA ni ley electoral | Materia concreta y plazo fijado. Prohibido subdelegar |
 
 ?? Truco: en el decreto-ley el Gobierno «dispara primero» y el Parlamento revisa después. En el decreto legislativo el Parlamento autoriza primero y el Gobierno redacta después.
@@ -450,8 +488,9 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 ### La Administración Pública
 
+- **Art. 105.b**: acceso de los ciudadanos a los archivos y registros administrativos (base del derecho de acceso a la **información pública**; no es un derecho fundamental).
 - **Art. 103**: sirve con objetividad los intereses generales según los principios de ==**Eficacia, Jerarquía, Descentralización, Desconcentración y Coordinación**==.
-- **Ley 55/2003, Estatuto Marco** del personal estatutario de los servicios de salud: legislación básica estatal (art. 149.1.18). Establece una relación funcionarial especial y garantiza la movilidad en todo el SNS.
+- **Ley 55/2003, Estatuto Marco** del personal estatutario de los servicios de salud: legislación básica estatal (art. 149.1.18 CE). Regula una relación de empleo especial, parecida a la de los funcionarios, y garantiza la movilidad en todo el SNS.
 
 !! «Los ministros los nombra el Presidente»: FALSO. Los nombra el **Rey a propuesta del Presidente**.
 !! Moción de censura con «mayoría simple»: FALSO. Requiere **mayoría absoluta**.
@@ -465,14 +504,14 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 | **CCAA: art. 148.1.21** | ==**ESTADO (exclusiva): art. 149.1.16**== |
 |---|---|
-| Sanidad e higiene: gestión de hospitales, centros de salud y asistencia diaria (Servicios de Salud como el SMS) | 1. **Sanidad exterior** (puertos, aeropuertos, fronteras) · 2. **Bases y coordinación general** de la sanidad · 3. **Legislación sobre productos farmacéuticos** (autorización, precio y financiación de medicamentos) |
+| Sanidad e higiene: **planificación sanitaria** de su territorio y gestión de hospitales, centros de salud y asistencia diaria (Servicios de Salud como el Servicio Murciano de Salud, SMS) | 1. **Sanidad exterior** (puertos, aeropuertos, fronteras) · 2. **Bases y coordinación general** de la sanidad · 3. **Legislación sobre productos farmacéuticos** (autorización, precio y financiación de medicamentos). También gestiona, a través del **INGESA** (Instituto Nacional de Gestión Sanitaria), la sanidad de Ceuta y Melilla |
 
-- **Art. 149.3, cláusula de supletoriedad**: lo no asumido en los Estatutos corresponde al Estado; el Derecho estatal es supletorio del autonómico.
+- **Art. 149.3, cláusula de supletoriedad**: lo que una comunidad no ha asumido en su Estatuto corresponde al Estado, y la ley estatal se aplica para cubrir lo que no regule la ley autonómica.
 
 ## C8. Estatuto de Autonomía de la Región de Murcia
 
-- Aprobado el ==**9 de junio de 1982**== (coincide con el Día de la Región).
-- Acceso a la autonomía por el ==**art. 143 CE («vía lenta»)**==. Trampa: el art. 151 es el de Andalucía, Galicia, País Vasco y Cataluña.
+- Es la **Ley Orgánica 4/1982**, aprobada el ==**9 de junio de 1982**== (coincide con el Día de la Región).
+- Acceso a la autonomía por el ==**art. 143 CE («vía lenta»)**== (las competencias se asumen de forma gradual). Trampa: el art. 151 es el de Andalucía, Galicia, País Vasco y Cataluña.
 - Territorio (art. 2): los municipios de la provincia de Murcia.
 - Bandera (art. 4): fondo **rojo carmesí**.
   - Ángulo superior izquierdo: **4 castillos** de oro, de dos en dos.
@@ -496,24 +535,26 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 - Funciones (art. 22): legislar, aprobar los **Presupuestos regionales** (incluido el del SMS) y controlar al Ejecutivo.
 - Sistema electoral tras la **reforma de 2015** (memorizar la tríada):
   - ==**45 diputados**==, con mandato de 4 años.
-  - ==**Circunscripción única**== (antes había 5).
-  - ==**Barrera electoral del 3 %**== (antes era del 5 %).
+  - ==**Circunscripción única**== (toda la Región vota como un solo distrito; antes había 5).
+  - ==**Barrera electoral del 3 %**== (votos mínimos para conseguir escaño; antes era del 5 %).
 - Sede: **Cartagena**. Puede reunirse en otro lugar por acuerdo de la Mesa y la Junta de Portavoces.
 
 | Órgano | Composición y función |
 |---|---|
 | **Mesa** | Presidente + 2 vicepresidentes + 2 secretarios. Dirige y administra la cámara. Vota por persona |
-| **Junta de Portavoces** | Presidente + 1 portavoz por grupo. Fija el orden del día. **Voto ponderado** |
+| **Junta de Portavoces** | Presidente + 1 portavoz por grupo. Fija el orden del día. **Voto ponderado** (cada portavoz vale tantos votos como diputados tiene su grupo) |
 | **Pleno** | Los 45 diputados; órgano supremo |
 | **Comisiones** | Trabajo especializado previo al Pleno (p. ej., Comisión de Sanidad) |
 | **Diputación Permanente** | Actúa en vacaciones parlamentarias o tras la disolución |
 
-## C10. Presidente de la Comunidad Autónoma (Ley 6/2004)
+## C10. Presidente de la Comunidad Autónoma (Ley 6/2004, del Estatuto del Presidente y del Consejo de Gobierno)
 
 - Tiene la suprema representación de la Región y la representación ordinaria del Estado en ella, y preside el Consejo de Gobierno.
 - El candidato lo propone el **Presidente de la Asamblea** tras consultar a los grupos, y ==debe ser obligatoriamente **Diputado Regional**==.
 - 1.ª votación: **mayoría absoluta (23)**. 2.ª votación (48 h después): **mayoría simple**.
 - Si pasan **2 meses** sin elegir Presidente, la Asamblea se disuelve y se convocan elecciones.
+- **Cese**: dimisión, **final de la legislatura** (cesa al acabar el periodo para el que se eligió la Asamblea), fallecimiento o incapacidad, condena firme que inhabilite, o pérdida de la confianza de la Asamblea. Sigue en funciones hasta que toma posesión el nuevo.
+- Puede **delegar temporalmente** funciones ejecutivas en un Vicepresidente o Consejero.
 - **Cuestión de confianza**: mayoría simple.
 - **Moción de censura**: la propone **1/10** de la Asamblea (**5 diputados**), es constructiva y requiere **mayoría absoluta (23)**.
 
@@ -524,21 +565,21 @@ sub: Resumen OPE Enfermería SMS · Bloque A: Historia y profesión · Bloque B:
 
 ## C11. Consejo de Gobierno y Administración Regional
 
-- **Consejo de Gobierno**: Presidente + Vicepresidentes + Consejeros. Tiene la función **ejecutiva** y la **potestad reglamentaria**.
+- **Consejo de Gobierno**: Presidente + Vicepresidentes + Consejeros. Tiene la función **ejecutiva** y la **potestad reglamentaria** (aprueba decretos y reglamentos).
 - Los **Consejeros** los nombra y separa libremente el **Presidente**, sin votación en la Asamblea.
-- **Ley 7/2004** (Organización y Régimen Jurídico de la Administración regional):
+- **Ley 7/2004**, de Organización y Régimen Jurídico de la Administración Pública de la Región de Murcia:
   - Órganos **superiores**: Presidente, Vicepresidente y Consejeros.
   - Órganos **directivos**: Secretarios Generales y Directores Generales.
 - **Ley 4/1994, de 26 de julio, de Salud de la Región de Murcia**: ==crea el **Servicio Murciano de Salud (SMS)**==.
   - Es un ==**Ente Público** (entidad de Derecho Público) con **personalidad jurídica propia**==, patrimonio propio y plena capacidad de obrar.
-  - Está adscrito a la **Consejería de Salud** y gestiona Atención Primaria, hospitales, Salud Mental y Urgencias.
+  - Está adscrito a la **Consejería de Salud** y gestiona Atención Primaria (AP), hospitales, Salud Mental y Urgencias.
 
 ## C12. Instituciones consultivas y de control de Murcia
 
 - **Consejo Jurídico**: máximo órgano consultivo en materia legal; emite dictámenes. Sede en Murcia; en protocolo va justo detrás del Consejo de Gobierno.
 - **Consejo Económico y Social (CES)**: órgano consultivo en materia socioeconómica y laboral; emite informes preceptivos sobre anteproyectos.
-- **Comisionado de la Transparencia** (según el manual): órgano unipersonal, sustituye al antiguo Consejo de la Transparencia (colegiado). Lo ratifica la Asamblea para 4 años.
+- **Comisionado de la Transparencia** (según el manual; lo regula la Ley 12/2014 de Transparencia de Murcia, ver tema 3): órgano unipersonal, sustituye al antiguo Consejo de la Transparencia (colegiado). Lo ratifica la Asamblea para 4 años.
 
 !! ==«El SMS es una Dirección General de la Consejería de Salud»: FALSO. Es un **Ente Público con personalidad jurídica propia**.==
 !! Director General y Secretario General son órganos **directivos**, NO superiores.
-!! Leyes regionales clave: **4/1994** (Salud y SMS) y **7/2004** (Administración regional).
+!! Leyes regionales clave: **Ley 4/1994** de Salud de la Región de Murcia (crea el SMS), **Ley 6/2004** (Presidente y Consejo de Gobierno) y **Ley 7/2004** (Administración regional).

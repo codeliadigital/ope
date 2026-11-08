@@ -70,7 +70,7 @@
   {
    "q": "¿Qué se entiende como sedación paliativa?:",
    "o": [
-    "El suicidio asistido al paciente con necesidades paliativas destinado a provocar la muerte de una persona que tiene una enfermedad grave e irreversible por razones compasivas en un contexto médico. 29 LEGISLACIÓN Y ÉTICA",
+    "El suicidio asistido al paciente con necesidades paliativas destinado a provocar la muerte de una persona que tiene una enfermedad grave e irreversible por razones compasivas en un contexto médico.",
     "Intervención deliberada para poner fin a la vida de un paciente con enfermedad grave y avanzada y que se encuentre en un programa de Cuidados Paliativos.",
     "Muerte de un paciente en el entorno de Cuidados Paliativos, sin sufrimiento físico, dirigida por un médico.",
     "La administración deliberada de fármacos, para reducir la consciencia de un paciente con una enfermedad avanzada o en fase terminal para aliviar síntomas refractarios y con consentimiento explícito."
@@ -255,7 +255,7 @@
    "src": "EIR"
   },
   {
-   "q": "En la Clasificación de Resultados de Enfermería (NOC), la clase: crecimiento y desarrollo que tiene relación con los resultados que describen la maduración física, emocional y social de una persona, ¿a qué dominio pertenece?: 185 ENFERMERÍA FUNDAMENTAL",
+   "q": "En la Clasificación de Resultados de Enfermería (NOC), la clase: crecimiento y desarrollo que tiene relación con los resultados que describen la maduración física, emocional y social de una persona, ¿a qué dominio pertenece?:",
    "o": [
     "Salud funcional.",
     "Salud psicosocial.",
@@ -282,7 +282,7 @@
     "Reconducir las preguntas de los niños sobre la muerte para evitar incidir en la pérdida y minimizar el impacto emocional.",
     "Retirar de la vista de la persona doliente fotos o recuerdos de la persona fallecida.",
     "Utilizar palabras claras como “muerte” o “muerto” en lugar de eufemismos.",
-    ".Evitar la discusión reiterada de experiencias de pérdidas anteriores."
+    "Evitar la discusión reiterada de experiencias de pérdidas anteriores."
    ],
    "a": 2,
    "src": "EIR"
