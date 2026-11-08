@@ -245,7 +245,7 @@ Oficialmente son cuatro: **Seguridad en el Trabajo, Higiene Industrial, Ergonom�
 | **Medicina del Trabajo** | Vigilancia de la salud y detección precoz |
 
 - Movilización: base amplia, flexionar rodillas con la espalda recta, carga pegada al cuerpo, **sin giros de tronco**; grúas o un segundo profesional si hace falta.
-- **Pantallas (Guía técnica del INSST)**: la pantalla **nunca a menos de 300 mm** de los ojos; en tareas de oficina lo habitual es **400-750 mm**. (El EIR 2025 da como correcta "450 mm para tareas habituales", cifra que no aparece en la guía vigente del INSST.)
+- **Pantallas de visualización de datos**: respuestas oficiales del EIR: distancia ojos-pantalla de **450 mm para tareas habituales** y **nunca a menos de 300 mm** (Guía técnica del INSST). La web del INSST da como habitual en oficina 400-750 mm.
 - **Enfermedades profesionales (RD 1299/2006)**: 6 grupos: 1 agentes químicos, 2 físicos, 3 biológicos, 4 inhalación de sustancias no incluidas en otros grupos, 5 enfermedades de la piel y **6 agentes carcinógenos**.
 - **Urticaria de contacto por guantes de látex** (protocolo de vigilancia de dermatosis): **estadio I** urticaria localizada; **estadio II** urticaria **local y generalizada**; estadio III con asma o rinitis; estadio IV reacción anafiláctica.
 
@@ -254,7 +254,7 @@ Oficialmente son cuatro: **Seguridad en el Trabajo, Higiene Industrial, Ergonom�
 - Niveles: **conato** (se controla con medios de la planta), **emergencia parcial** (equipos especiales del centro, una zona) y **emergencia general** (ayuda externa y evacuación).
 - Equipos: **Jefe de Emergencias** (centro de control), **Jefe de Intervención** (en el foco), **Equipos de Primera Intervención** (extintores portátiles), **Equipos de Segunda Intervención** (bocas de incendio equipadas, BIE; mangueras; equipos de respiración), **Alarma y Evacuación** y **Primeros Auxilios**.
 - **Simulacro al menos una vez al año**. Al llegar los bomberos, el mando pasa a ellos.
-- **Clases de fuego y extintores** (norma europea UNE-EN 2): **A** sólidos (madera, papel, tela), **B** **líquidos inflamables**, **C** gases, **D** metales, **F** aceites de cocina. Con **equipos eléctricos** se usa CO₂ o polvo; en la clasificación americana el fuego eléctrico es la "clase C", y esa es la respuesta del EIR (en la norma europea, la C son los gases).
+- **Clases de fuego y extintores**: respuesta oficial del EIR: **clase B = líquidos inflamables** y **clase C = equipos eléctricos**. Otras clases: **A** sólidos (madera, papel, tela), **D** metales, **F** aceites de cocina. (En la norma europea UNE-EN 2 la C son los gases y para fuego eléctrico se usa CO₂ o polvo; en el examen, marca la respuesta del EIR.)
 
 ## B5. Precauciones universales y riesgo biológico
 
