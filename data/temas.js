@@ -53,7 +53,7 @@ window.OPE_TEMAS = [
   "programa": "Fundamento y metodología de la investigación cuantitativa y cualitativa en enfermería. Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales: objeto, ámbito y definiciones; derechos y obligaciones; servicios de prevención; tipos de riesgos; Seguridad en el Trabajo, Higiene Industrial, Ergonomía y Psicosociología; actuación en supuestos de riesgo; precauciones universales: vacunación, higiene, equipos de protección, objetos cortopunzantes, esterilización y desinfección.",
   "preguntas": 65,
   "pdf": "resumenes/tema-07.pdf",
-  "paginas": 6
+  "paginas": 9
  },
  {
   "n": 8,
@@ -61,7 +61,7 @@ window.OPE_TEMAS = [
   "programa": "Enfermería Basada en la Evidencia. Niveles de evidencia y grados de recomendación. Bases de datos bibliográficas, fuentes documentales y revisión bibliográfica. Lectura crítica. Formulación de preguntas y búsqueda de respuestas. Evaluación y síntesis de la revisión. Guías de Práctica Clínica, mapas de cuidados y vías clínicas. LO 3/2007 de igualdad efectiva, Ley 7/2007 de la Región de Murcia, LO 1/2004 de violencia de género y Ley 4/2023 de derechos LGTBI y trans.",
   "preguntas": 49,
   "pdf": "resumenes/tema-08.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 9,
@@ -69,7 +69,7 @@ window.OPE_TEMAS = [
   "programa": "Principios fundamentales de la Bioética: dilemas éticos; inteligencia artificial. El secreto profesional. Código deontológico. Protección de datos personales: Reglamento (UE) 2016/679 y LO 3/2018. Sistemas de información en Atención Primaria y Especializada: historia clínica digital, registros de enfermería, informe de enfermería al alta, CMBD, CIE-10 y clasificaciones NANDA, NIC y NOC.",
   "preguntas": 53,
   "pdf": "resumenes/tema-09.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 10,
@@ -77,7 +77,7 @@ window.OPE_TEMAS = [
   "programa": "Principios fundamentales de la Bioética. Código deontológico de la enfermería española. El consentimiento informado. El secreto profesional: concepto, regulación jurídica y relevancia penal. Calidad en el SNS: dimensiones de la calidad, evaluación de estructura, proceso y resultados, mejora continua, modelo EFQM 2020, auditorías e indicadores de seguridad, Value Based Healthcare, PROMs y PREMs, programas de calidad, GPC (GRADE) y práctica basada en la evidencia.",
   "preguntas": 43,
   "pdf": "resumenes/tema-10.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 11,

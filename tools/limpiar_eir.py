@@ -27,6 +27,7 @@ def clean(t):
             t = t[:i] if v is None else t.replace(k, v)
     t = re.sub(r"^1(?=Es la enfermera)", "", t)
     t = re.sub(r"^\.(?=[A-ZÁÉÍÓÚ])", "", t)
+    t = re.sub(r"^[1-4](?=[A-ZÁÉÍÓÚ]{3,}[A-Za-z]*\.?$)", "", t)  # número de opción pegado: «2STROBE.» (tema 7)
     return t.strip() if t != t.strip() else t
 
 

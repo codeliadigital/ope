@@ -105,8 +105,8 @@
    "q": "Usted, como miembro de un equipo investigador que ha llevado a cabo un ensayo clínico aleatorizado, es responsable de revisar si el artículo que se encuentran preparando para solicitar publicar en una revista cientíﬁca cumple los estándares exigidos para su comunicación. ¿Qué lista de comprobación utilizaría?:",
    "o": [
     "COREQ.",
-    "2STROBE.",
-    "3CONSORT.",
+    "STROBE.",
+    "CONSORT.",
     "PRISMA."
    ],
    "a": 2,
@@ -124,7 +124,7 @@
    "src": "EIR"
   },
   {
-   "q": "En el análisis de las propiedades de medición de un instrumento, ¿a qué se refiere la consistencia interna?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 74",
+   "q": "En el análisis de las propiedades de medición de un instrumento, ¿a qué se refiere la consistencia interna?:",
    "o": [
     "Al grado en que el contenido de un instrumento es un reflejo adecuado del constructo que se va a medir.",
     "Al grado de interrelación entre los elementos del instrumento.",
@@ -316,7 +316,7 @@
    "q": "Conforme al Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, aquel agente biológico que resulta poco probable que cause una enfermedad en el hombre, se clasifica como:",
    "o": [
     "Agente Biológico del grupo 1.",
-    "Agente Biológico del grupo 2. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 626",
+    "Agente Biológico del grupo 2.",
     "Agente Biológico del grupo 3.",
     "Agente Biológico del grupo 4."
    ],

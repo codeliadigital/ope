@@ -229,7 +229,7 @@
    "src": "EIR"
   },
   {
-   "q": "Señale la opción INCORRECTA en relación con las ventajas del sistema GRADE (Grading of Recommendations, Assessment, Development and Evaluation) sobre otros sistemas de clasiﬁcación: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 68",
+   "q": "Señale la opción INCORRECTA en relación con las ventajas del sistema GRADE (Grading of Recommendations, Assessment, Development and Evaluation) sobre otros sistemas de clasiﬁcación:",
    "o": [
     "Evaluación explícita de la importancia de los resultados de las estrategias de gestión alternativas.",
     "Útil para revisiones sistemáticas y evaluaciones de tecnología sanitaria, así como para directrices.",
@@ -376,8 +376,8 @@
    "q": "Usted, como miembro de un equipo investigador que ha llevado a cabo un ensayo clínico aleatorizado, es responsable de revisar si el artículo que se encuentran preparando para solicitar publicar en una revista cientíﬁca cumple los estándares exigidos para su comunicación. ¿Qué lista de comprobación utilizaría?:",
    "o": [
     "COREQ.",
-    "2STROBE.",
-    "3CONSORT.",
+    "STROBE.",
+    "CONSORT.",
     "PRISMA."
    ],
    "a": 2,
@@ -417,7 +417,7 @@
    "src": "EIR"
   },
   {
-   "q": "En el análisis de las propiedades de medición de un instrumento, ¿a qué se refiere la consistencia interna?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 74",
+   "q": "En el análisis de las propiedades de medición de un instrumento, ¿a qué se refiere la consistencia interna?:",
    "o": [
     "Al grado en que el contenido de un instrumento es un reflejo adecuado del constructo que se va a medir.",
     "Al grado de interrelación entre los elementos del instrumento.",
