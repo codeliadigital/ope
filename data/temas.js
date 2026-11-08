@@ -29,7 +29,7 @@ window.OPE_TEMAS = [
   "programa": "Gestión de servicios sanitarios: tendencias actuales. Planificación: concepto. Planificación operativa: objetivos, actividades y recursos. La gestión de los servicios de enfermería. Producto sanitario y producto enfermero: concepto y sistemas de medición. Cartera de servicios. Gestión de recursos humanos: motivación, liderazgo, comunicación. Las prestaciones del SNS en la Ley 16/2003: ordenación, cartera, garantías, sistema de información sanitaria y Consejo Interterritorial.",
   "preguntas": 43,
   "pdf": "resumenes/tema-04.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 5,
@@ -37,7 +37,7 @@ window.OPE_TEMAS = [
   "programa": "Derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia. Garantías de accesibilidad, derecho a la información, intimidad y confidencialidad, libre elección. Garantía y derecho de la persona en el proceso de muerte. Voluntad anticipada y su Registro. Igualdad entre mujeres y hombres y protección contra la violencia de género en la Región de Murcia. Personal estatutario: clasificación, situaciones, incompatibilidades, derechos, deberes y régimen disciplinario.",
   "preguntas": 34,
   "pdf": "resumenes/tema-05.pdf",
-  "paginas": 6
+  "paginas": 7
  },
  {
   "n": 6,
@@ -45,7 +45,7 @@ window.OPE_TEMAS = [
   "programa": "La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias: profesiones sanitarias tituladas y profesionales del área sanitaria de formación profesional; el ejercicio de las profesiones sanitarias; formación especializada en ciencias de la salud.",
   "preguntas": 44,
   "pdf": "resumenes/tema-06.pdf",
-  "paginas": 3
+  "paginas": 5
  },
  {
   "n": 7,
