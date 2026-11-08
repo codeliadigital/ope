@@ -583,3 +583,10 @@ Son normas que aprueba el Gobierno, no el Parlamento, pero tienen la misma fuerz
 !! ==«El SMS es una Dirección General de la Consejería de Salud»: FALSO. Es un **Ente Público con personalidad jurídica propia**.==
 !! Director General y Secretario General son órganos **directivos**, NO superiores.
 !! Leyes regionales clave: **Ley 4/1994** de Salud de la Región de Murcia (crea el SMS), **Ley 6/2004** (Presidente y Consejo de Gobierno) y **Ley 7/2004** (Administración regional).
+
+## Otras preguntas del test de este tema
+
+Estas preguntas del EIR caen en el test de este tema aunque su materia es de otros apartados del programa. Aquí tienes lo necesario para responderlas.
+
+- **Donante vivo de órganos (RD 1723/2012)**: entre la firma del documento de cesión del órgano y la extracción deben pasar **al menos 24 horas** (tiempo para poder arrepentirse).
+- **NIC «Cuidados en la agonía»**: incluye comunicar que estamos dispuestos a hablar de la muerte, facilitar la conversación sobre el funeral y animar al paciente y a la familia a compartir sus sentimientos. **No** incluye «responder a preguntas sobre la donación de órganos».

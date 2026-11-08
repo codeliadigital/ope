@@ -256,3 +256,21 @@ Supuestos: incapacidad legal, incapacidad de hecho (a criterio del médico, regi
 !! Silencio en una solicitud de acceso = **negativo** (desestimatorio).
 !! Transparencia: **20 días hábiles**. Demora de pruebas (Ley 3/2009): **30 días naturales**.
 !! Fechas: Ley 3/2009, de **11 de mayo**; Ley 12/2014, de **16 de diciembre**.
+
+## Otras preguntas del test de este tema
+
+Estas preguntas del EIR caen en el test de este tema aunque su materia es de otros apartados del programa. Aquí tienes lo necesario para responderlas.
+
+- **Final de la vida**: los cuidados se adecuan a **aliviar el sufrimiento** y lograr el máximo **confort**, respetando los deseos del paciente (máxima expresión del principio de **autonomía**). El paciente puede **rechazar la información** y también rechazar o retirar un tratamiento aunque el médico no esté de acuerdo; sus instrucciones previas se respetan.
+- **Entrevista familiar para la donación (Organización Nacional de Trasplantes)**: se **informa** a la familia de cómo se hará la extracción y de la **restauración del cadáver** (no se oculta); el consentimiento incluye extraer injertos vasculares; si el posible donante en asistolia controlada está consciente y es competente, consiente **él mismo**; ante una negativa, se valora si es definitiva.
+- **Ley 14/2007 de Investigación Biomédica**: la salud del participante está por encima del interés de la ciencia (no se le retrasan ni niegan tratamientos); tiene derecho a **conocer sus datos genéticos**; cederlos a terceros exige su **consentimiento expreso y por escrito**; en menores o incapaces se admite el consentimiento por representación.
+- **NIC «Facilitar el duelo» (5290)**: usar palabras claras como «muerte» o «muerto», **sin eufemismos**; responder a las preguntas de los niños y animar a hablar de la pérdida.
+
+| Etiqueta NANDA-I | Lo que preguntan |
+|---|---|
+| **Ansiedad excesiva** (00400, nueva en 2024-2026) | Preocupación desproporcionada y persistente. Una característica definitoria es la **dilatación pupilar** |
+| **Patrón respiratorio ineficaz** | La inspiración o espiración no ventila bien: **disnea, uso de músculos accesorios, aleteo nasal** (p. ej., fracturas costales con dolor) |
+| **Control de impulsos ineficaz** | Reacciones **rápidas y no planeadas**, sin pensar en las consecuencias |
+| **Trastorno de la identidad personal** | Incapacidad para mantener una percepción **completa e integrada del «yo»** |
+| **Duelo inadaptado** | Diagnóstico **nuevo** en NANDA-I 2021-2023 |
+| **Riesgo de nivel de glucemia inestable** (00179) | Actividades: enseñar los signos de hipoglucemia, autocontrol de la glucemia, diario de comidas. «Conducta de mantenimiento del peso» es un resultado NOC, **no** una actividad |

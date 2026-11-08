@@ -21,7 +21,7 @@ window.OPE_TEMAS = [
   "programa": "El proceso enfermero: conceptos, características, ventajas y fases (valoración, diagnóstico, planificación, ejecución y evaluación). Ley 3/2009, de 11 de mayo, de los derechos y deberes de los usuarios del sistema sanitario de la Región de Murcia. Ley 12/2014, de 16 de diciembre, de Transparencia y Participación Ciudadana de la Región de Murcia.",
   "preguntas": 57,
   "pdf": "resumenes/tema-03.pdf",
-  "paginas": 7
+  "paginas": 8
  },
  {
   "n": 4,

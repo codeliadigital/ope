@@ -360,3 +360,16 @@ Garantiza la **transición segura del hospital al domicilio** u otros recursos. 
 !! Consejo de Administración del SMS → **Consejero de Salud**. Consejo de Salud de Área → **Gerente de Área**.
 !! En el Consejo de Área, la mayoría es de los **ayuntamientos (4)**. Los Consejos de Zona son **opcionales**.
 !! El coordinador de enfermería de un centro de salud y el supervisor de una planta dependen de la **Dirección de Enfermería del Área**.
+
+## Otras preguntas del test de este tema
+
+Estas preguntas del EIR caen en el test de este tema aunque su materia es de otros apartados del programa. Aquí tienes lo necesario para responderlas.
+
+- **Conjunto Mínimo de Datos de los Informes Clínicos (CMDIC, RD 1093/2010)**: 8 documentos: informe de **alta**, de **consultas externas**, de **urgencias**, de **atención primaria**, de resultados de **laboratorio**, de pruebas de **imagen**, de **cuidados de enfermería** e **historia clínica resumida** (más en el tema 9).
+- **Frecuentación**: número total de visitas de un año dividido entre las personas atendidas. Cuenta **todas** las visitas, no solo las de demanda. Depende sobre todo de la **morbilidad** del paciente, y también del estilo de cada profesional.
+- **Mintzberg**: las organizaciones coordinan su trabajo con 5 mecanismos: **adaptación mutua**, **supervisión directa** y normalización de los procesos, de los resultados y de las habilidades.
+- **Criterio, indicador y estándar** (calidad): el criterio es la condición que debe cumplir la buena práctica; el indicador, la medida que la cuantifica; el **estándar**, el nivel de cumplimiento aceptable (p. ej., «el 85-90 % de los usuarios atendidos antes de 10 minutos»).
+- **PREMs y PROMs**: los **PREMs** miden la **experiencia** del paciente con el servicio (trato, esperas, información); los **PROMs**, los **resultados en su salud** que el propio paciente percibe tras el tratamiento.
+- **Guía de Unidades de Cuidados Intensivos del Ministerio (2010)**: calcula las enfermeras necesarias con la escala **TISS** (cuánto trabajo de enfermería genera cada paciente); un paciente de **clase IV** necesita **1 enfermera para él solo (1:1)**.
+- **Desastres (competencias del CIE)**: para proteger la resiliencia del personal, la medida más eficaz es formar en gestión emocional y autocuidado, fomentar la comunicación abierta y hacer sesiones de **debriefing** (puesta en común tras el suceso) y apoyo entre compañeros.
+- **Cuidados de larga duración en personas dependientes** (Plan de Recuperación, componente 22): el modelo recomendado es la **Atención Centrada en la Persona**.
