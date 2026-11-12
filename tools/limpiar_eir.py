@@ -9,10 +9,14 @@ import glob, json, re, sys
 HEAD = re.compile(r"\s*PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS \(2018-2025\) \d+")
 # Cabecera de sección del libro: «35 ADMINISTRACIÓN SANITARIA», «689 ENFERMERÍA COMUNITARIA»...
 SECC = re.compile(r"\s+\d{1,4}(?: [A-ZÁÉÍÓÚÜÑ]{2,}| Y){2,}(?=\s|$)")
+# Cabecera de una sola palabra al final: «647 EPIDEMIOLOGÍA», «57 BIOESTADÍSTICA» (temas 11-16)
+SECC1 = re.compile(r"\s+\d{1,4} [A-ZÁÉÍÓÚÜÑ]{8,}$")
 # Restos de tablas o pies de figura pegados al texto: se corta desde ahí (None) o se quita (""). Revisar a mano.
 FIX = {
     " Humor Estación Elemento Órgano Características": None,  # tabla de humores (tema 1)
     " Modelo de Kaiser Permanente": "",  # pie de figura (tema 2)
+    " PROTOCOLO DE VACUNACIÓN FRENTE AL TÉTANOS": None,  # tabla del tétanos (tema 11)
+    " MUESTRAS INDEPENDIENTES MUESTRAS APAREADAS": None,  # tabla de test estadísticos (tema 12)
 }
 
 
@@ -21,6 +25,7 @@ def clean(t):
         return t
     t = HEAD.sub("", t)
     t = SECC.sub("", t)
+    t = SECC1.sub("", t)
     for k, v in FIX.items():
         i = t.find(k)
         if i >= 0:

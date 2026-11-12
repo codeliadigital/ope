@@ -73,7 +73,7 @@
    "q": "El intervalo de confianza (IC) del 95 % calculado para la media aritmética indica:",
    "o": [
     "Que la media de la población tiene un 95 % de probabilidad de encontrarse dentro de ese rango.",
-    "Que el 95 % de los sujetos se sitúa dentro del intervalo calculado. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 52",
+    "Que el 95 % de los sujetos se sitúa dentro del intervalo calculado.",
     "Que, si se repite el estudio muchas veces, en el 95 % de los casos el intervalo incluirá la media poblacional.",
     "Que existe un 95 % de probabilidad de que la hipótesis nula sea verdadera."
    ],
@@ -129,7 +129,7 @@
    "q": "A la hora de realizar el análisis estadístico hay que tener en cuenta varios conceptos. Identiﬁque la respuesta INCORRECTA:",
    "o": [
     "Dos variables son apareadas o emparejadas únicamente si se relacionan de manera directa (mismos individuos en distintos medios).",
-    "En una tabla de contingencia de 2xn, con frecuencias esperadas inferiores a 5 en más de una celda (25 %), se debe recurrir a la prueba exacta de Fisher. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 54",
+    "En una tabla de contingencia de 2xn, con frecuencias esperadas inferiores a 5 en más de una celda (25 %), se debe recurrir a la prueba exacta de Fisher.",
     "Con variables cuantitativas es necesario evaluar la bondad de ajuste con la distribución normal mediante la prueba Shapiro-Wilk para muestras grandes y la de Kolmogorov-Smirnov para muestras más pequeñas.",
     "La t de Student para muestras independientes se debe acompañar de la prueba de Levene para evaluar si hay homocedasticidad (p >0,05, varianzas iguales) o heterocedasticidad (p < 0,05, varianzas diferentes)."
    ],
@@ -206,7 +206,7 @@
    "q": "Si quisiéramos medir la efectividad del seguimiento de pacientes en los programas de cuidados paliativos especializados domiciliarios (variable independiente “seguimiento en cuidados paliativos”: si/no) en términos de la media de permanencia en casa (variable dependiente “media de días sin ingreso hospitalario”). ¿Qué test estadístico utilizaríamos?:",
    "o": [
     "T de Student.",
-    "Ji cuadrado. MUESTRAS INDEPENDIENTES MUESTRAS APAREADAS O DEPENDIENTES Paramétrico No paramétrico Paramétrico No paramétrico Cuantitativa con cualitativa (dos categorías) T student U de Mann-Whitney T student para muestras apareadas Wilcoxon Cuantitativa con cualitativa (más dos categorías) ANOVA Kruskal-Wallis ANOVA para muestras apareadas Friedman Cualitativa con cualitativa ---- Chi cuadrado --- McNemar Cuantitativa con cuantitativa Correlación de Pearson Regresión lineal Correlación Rho de Spearman --- --- 57 BIOESTADÍSTICA",
+    "Ji cuadrado.",
     "Wilcoxon.",
     "McNemar."
    ],
@@ -240,7 +240,7 @@
    "o": [
     "Que el test identifica correctamente al 90 % de los pacientes con infección estreptocócica.",
     "Que el 90 % de los pacientes con un resultado positivo en el test realmente presentan faringitis estreptocócica.",
-    "Que el test ofrece un resultado negativo en el 90 % de los pacientes sin infección. 73 INVESTIGACIÓN EN ENFERMERÍA",
+    "Que el test ofrece un resultado negativo en el 90 % de los pacientes sin infección.",
     "Que el test acierta el 90 % de las veces, tanto en positivos como en negativos."
    ],
    "a": 1,
@@ -417,7 +417,7 @@
    "o": [
     "Temperatura mantenida mayor de 38 ºC en la zona.",
     "Altura de la zona inferior a 3.000 metros.",
-    "Humedad relativa de la zona inferior al 52 %. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 656",
+    "Humedad relativa de la zona inferior al 52 %.",
     "Temperatura mantenida menor de 15 ºC en la zona."
    ],
    "a": 1,

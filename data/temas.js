@@ -85,7 +85,7 @@ window.OPE_TEMAS = [
   "programa": "Atención domiciliaria: concepto, visita domiciliaria y etapas, coordinación entre Atención Primaria, Especializada y Servicios Sociales, programas específicos e informe de continuidad de cuidados. Epidemiología: concepto y método. Diseños epidemiológicos. Enfermedades transmisibles de mayor incidencia en España. Sistema Nacional de Vigilancia Epidemiológica, RENAVE y EDO. COVID-19, virus emergentes y enfoque One Health.",
   "preguntas": 84,
   "pdf": "resumenes/tema-11.pdf",
-  "paginas": 5
+  "paginas": 8
  },
  {
   "n": 12,
@@ -93,7 +93,7 @@ window.OPE_TEMAS = [
   "programa": "Hospitalización a domicilio: concepto, marco legal, modelos organizativos, cartera de servicios, criterios de inclusión y exclusión, papel de enfermería, seguimiento telefónico, telemedicina, telemonitorización e indicadores de calidad. Metodología de la investigación cuantitativa: diseños, muestreo, variables, sesgos, estadística descriptiva e inferencial, pruebas diagnósticas, revisiones sistemáticas y metaanálisis. Ley 14/2007 de Investigación Biomédica y protección de datos en investigación. Estructura IMRyD.",
   "preguntas": 73,
   "pdf": "resumenes/tema-12.pdf",
-  "paginas": 4
+  "paginas": 7
  },
  {
   "n": 13,
@@ -101,7 +101,7 @@ window.OPE_TEMAS = [
   "programa": "Salud comunitaria: conceptos, determinantes sociales de la salud, marco legal estatal y de la Región de Murcia, grupos excluidos y en riesgo de exclusión, barreras de acceso, prevención y fomento de la salud, participación comunitaria, datos epidemiológicos regionales y rol de la enfermería comunitaria. Investigación cualitativa: fundamentos, diseños, proceso y fases, técnicas (observación, entrevista, grupos de discusión y técnicas de consenso), análisis, criterios de rigor, software CAQDAS y práctica basada en la evidencia.",
   "preguntas": 54,
   "pdf": "resumenes/tema-13.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 14,
@@ -109,7 +109,7 @@ window.OPE_TEMAS = [
   "programa": "Educación para la salud: concepto, marco legal y teorías; metodología individual, grupal y comunitaria; técnicas didácticas y materiales; fomento del autocuidado en paciente, cuidador y familia; elaboración, evaluación y sostenibilidad de programas; grupos de autoayuda y agentes de salud. Salud pública: concepto, niveles de prevención, modelos de salud y enfermedad, indicadores de morbilidad, mortalidad, letalidad y esperanza de vida, principales problemas de salud, métodos de priorización, determinantes sociales y práctica basada en la evidencia.",
   "preguntas": 72,
   "pdf": "resumenes/tema-14.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 15,
@@ -117,7 +117,7 @@ window.OPE_TEMAS = [
   "programa": "Técnicas y habilidades de comunicación: relación enfermera-paciente, asertividad, modelo de Peplau, relación de ayuda (Rogers, Carkhuff, Chalifour, Cibanal), trabajo en equipo, entrevista clínica y entrevista motivacional; valoración de las necesidades de apoyo emocional del paciente, cuidador y familia mediante escalas. Demografía sanitaria: demografía estática y dinámica, fuentes, indicadores de natalidad, fecundidad, mortalidad, migraciones y crecimiento, índices de estructura poblacional, envejecimiento, cronicidad y equidad en salud.",
   "preguntas": 75,
   "pdf": "resumenes/tema-15.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 16,
@@ -125,7 +125,7 @@ window.OPE_TEMAS = [
   "programa": "Prevención y promoción de la salud: conceptos, niveles de prevención y Carta de Ottawa. Marco normativo y estratégico nacional y de la Región de Murcia. Detección precoz de problemas de salud: cribado, escalas y diagnósticos de riesgo. Factores de riesgo y cuidados enfermeros en la infancia, adolescencia, edad adulta y vejez. Programas y estrategias del SNS y del SMS.",
   "preguntas": 72,
   "pdf": "resumenes/tema-16.pdf",
-  "paginas": 3
+  "paginas": 5
  },
  {
   "n": 17,
