@@ -159,7 +159,7 @@
     },
     {
       "q": "La guía de infección del tracto urinario inferior permite a la enfermera indicar fosfomicina o nitrofurantoína:",
-      "o": ["A cualquier paciente con disuria", "A embarazadas con bacteriuria", "A varones con prostatitis", "A mujeres adultas no gestantes con cistitis no complicada, si las resistencias locales de E. coli son bajas"],
+      "o": ["A cualquier paciente con disuria", "A embarazadas con bacteriuria", "A varones con prostatitis", "A mujeres a partir de 14 años, no gestantes, con cistitis no complicada, si las resistencias locales de E. coli son bajas"],
       "a": 3,
       "e": "La gerencia del área debe certificar que las tasas de resistencia locales están dentro de los márgenes de seguridad.",
       "por": ["No a cualquier paciente con disuria.", "Las embarazadas quedan fuera de la guía.", "Los varones con prostatitis quedan fuera.", null]

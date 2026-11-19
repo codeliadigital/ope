@@ -5,6 +5,23 @@ pie: Higiene, antisepsia y esterilización
 sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, higiene de manos, antisépticos, desinfectantes, unidad central de esterilización, limpieza y empaquetado, métodos y controles de esterilización, almacenamiento y manipulación del material estéril
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **IRAS** | Infecciones Relacionadas con la Asistencia Sanitaria | Lo que la higiene quiere evitar (antes, «nosocomiales») |
+| **SAL** | *Sterility Assurance Level* (nivel de seguridad de esterilidad) | Probabilidad ≤ 10⁻⁶ de que quede un microorganismo vivo |
+| **OMS / CDC** | Organización Mundial de la Salud / *Centers for Disease Control and Prevention* (EE. UU.) | 5 momentos / guía de desinfección y esterilización |
+| **UCE** | Unidad Central de Esterilización | Donde se limpia, empaqueta y esteriliza el material |
+| **EPI** | Equipo de Protección Individual | Guantes, bata, gafas en la zona sucia |
+| **OPA** | Ortoftalaldehído | Desinfectante de alto nivel |
+| **PHMB** | Polihexametileno biguanida (polihexanida) | Antiséptico de heridas crónicas |
+| **ppm** | Partes por millón | Concentración de la lejía |
+| **ISO 11140-1** | Norma internacional de los indicadores químicos | Clases 1 a 6 |
+| **FIFO** | *First In, First Out* | Lo primero que entra, primero que sale |
+| **TA / SNC** | Tensión Arterial / Sistema Nervioso Central | |
+| **VIH / VHB / VHC** | Virus de la Inmunodeficiencia Humana / de la Hepatitis B / C | Virus con envoltura |
+
 ## 1. Conceptos básicos
 
 | Término | Definición |
@@ -14,8 +31,12 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 | **Esterilización** | Destruye **todas las formas de vida**, incluidas las **esporas**. Nivel de seguridad (**SAL**): probabilidad ≤ **10⁻⁶** de un microorganismo viable |
 | **Antisepsia** | Reducción microbiana sobre **tejidos vivos** (piel, mucosas, heridas) con **antisépticos** |
 | **Asepsia** | Prácticas para **impedir la llegada** de microorganismos: médica o limpia (lavado, guantes limpios) y quirúrgica o estéril (campos, guantes y material estériles) |
+| **Higiene hospitalaria** | Conjunto de medidas en el medio hospitalario para **prevenir infecciones** y riesgos para pacientes y profesionales. La **higiene personal** son las prácticas de cada persona para conservar su salud y no transmitir enfermedades |
 
 !! ==Antiséptico = **tejido vivo**; desinfectante = **superficies e instrumental**.==
+
+- **Historia**: **Joseph Lister** (médico inglés, siglo XIX) es el **padre de la cirugía antiséptica**: pulverizaba **ácido fénico** (carbólico) en el quirófano.
+- Según el SMS, la **limpieza y desinfección manuales bien hechas** eliminan el **93,3%** de los microorganismos.
 
 | Spaulding | Contacto | Procesado | Ejemplos |
 |---|---|---|---|
@@ -49,6 +70,11 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 | Octenidina | 1 min | Hasta 24 h | No se inactiva | Alternativa en alergias y neonatos |
 
 - Mucosa oral (prevención de la neumonía asociada a ventilación): **clorhexidina 0,12-0,2%**.
+- **Antiséptico ideal**: amplio espectro, acción rápida, **efecto residual**, que **no se inactive con materia orgánica**, poco tóxico y compatible con jabones. Ninguno los cumple todos.
+- **No son antisépticos** los antibióticos tópicos como el **ácido fusídico**. La **polivinilpirrolidona** es la povidona.
+- Si hay **alergia a la clorhexidina** en la piel antes de un catéter: **tintura de yodo**, **povidona** o **alcohol de 70%** (no de 96%).
+- **Tiempos de secado** antes de entrar en una llave o conexión (EIR): **alcohol isopropílico 5 s**, **clorhexidina alcohólica 20 s**, **povidona yodada 6 min**.
+- **Hemocultivos** (EIR): piel con **clorhexidina alcohólica 2%**, **frotando 30 s** y dejando **secar 3-5 min** (en un **neonato** de 48 horas, **clorhexidina acuosa 2%**). No hace falta mascarilla ni esperar al pico de fiebre; si se sacan de un catéter central, **no se desecha** la primera sangre. Los frascos pueden estar a temperatura ambiente **como máximo 18 h** antes de incubarse.
 
 ## 4. Desinfectantes
 
@@ -62,6 +88,9 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 | **Ácido peracético** | Alto / esterilizante | Rápido, esporicida, se degrada en ácido acético, agua y oxígeno (sin residuos); lavadoras de endoscopios |
 | **Hipoclorito sódico (lejía)** | Intermedio | **1.000 ppm**: superficies limpias; **10.000 ppm**: **derrames de sangre** y fluidos. Inestable con calor, luz y materia orgánica; **corrosivo**; nunca mezclar con ácidos o amoniaco; usar en agua fría |
 | Amonios cuaternarios | Bajo | Superficies y mobiliario; buen detergente, no corrosivo |
+
+- **Desinfectante ideal** (guía de los CDC): amplio espectro, **acción rápida**, que **no le afecten los factores ambientales** (activo con materia orgánica y compatible con jabones, detergentes y otros productos **químicos**), no tóxico, **soluble en agua**, estable y con **efecto residual** (la respuesta que da el SMS).
+- **Peróxido de hidrógeno** como desinfectante: activo frente a *S. aureus*, *Pseudomonas*, levaduras, hongos, virus y esporas; uno de los desinfectantes de superficies más eficaces y estables; sirve para respiradores, endoscopios y tejidos. Es **menos eficaz** frente a microorganismos con **mucha catalasa** (la enzima que lo descompone).
 
 ## 5. Unidad Central de Esterilización (UCE)
 
@@ -80,6 +109,9 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 | **Plasma de peróxido de hidrógeno** | 45-50 °C | Oxidación por radicales | Rápido (45-75 min), sin residuos (agua y oxígeno). **Incompatible con celulosa** (papel, algodón, gasas, lino): envoltorio de **Tyvek** o polipropileno |
 | Vapor a baja temperatura con formaldehído | 50-80 °C | Alquilación | Penetra en tubos largos; tóxico |
 | **Radiaciones ionizantes** (gamma, beta) | Frío | Rotura del ADN | **Industrial**: material de un solo uso (jeringas, agujas, catéteres, suturas) |
+
+- **Métodos físicos** (calor húmedo, calor seco, radiaciones) y **químicos** (**óxido de etileno**, **plasma de peróxido de hidrógeno**, formaldehído). El **flujo laminar** no esteriliza: solo filtra el aire.
+- Ventaja del **calor húmedo** (vapor): **poco deterioro** del material. Las ventajas de **no corroer los metales** y de esterilizar **polvos, aceites y sustancias no acuosas** son del **calor seco**.
 
 ## 7. Controles de esterilización
 
@@ -105,3 +137,13 @@ sub: Resumen OPE Enfermería SMS · Terminología, clasificación de Spaulding, 
 [[img: tema-18-1.jpg | Los 5 momentos de la higiene de manos (OMS)]]
 
 [[img: tema-18-2.jpg | Lectura de controles biológicos tras la incubación (color del vial)]]
+
+## Otras preguntas del test de este tema
+
+Preguntas del EIR que el reparto automático puso en este tema aunque son de otros (catéteres, tema 20; imagen, tema 7):
+
+- **Reservorio subcutáneo** (*port-a-cath*): se pincha con **aguja de bisel especial (Gripper o Huber)**, **guantes estériles** y antiséptico; para sellar se usa **heparina sódica**, **no** heparina **cálcica**.
+- **Conexiones de un catéter central** (Bacteriemia Zero): valen la desinfección **activa** (frotar con clorhexidina alcohólica o alcohol isopropílico de 70%) y la **pasiva** (tapones desinfectantes); las dos se recomiendan. No se ponen **pomadas** antibióticas ni antisépticas en el punto de inserción.
+- **Método ZIM** (*Zone Insertion Method*) para **PICC** (catéter central de inserción periférica): divide el brazo en zonas desde el **codo hasta la axila**; la **zona media** (verde) es la más segura para insertar y mantener.
+- **Cavitación** como efecto biológico: es propia de la **ecografía** (ultrasonidos), igual que en la limpieza por ultrasonidos.
+- **Hidrogeles** (SMS): su función es el **desbridamiento autolítico** (no son antisépticos ni frenan el exudado).

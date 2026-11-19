@@ -5,6 +5,26 @@ pie: Infección nosocomial, residuos y salud ambiental
 sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precauciones estándar y EPI, proyectos Zero, tipos de aislamiento, gestión de residuos sanitarios en la Región de Murcia y condicionantes medioambientales de la salud
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **IRAS** | Infecciones Relacionadas con la Asistencia Sanitaria | Las antiguas «nosocomiales» |
+| **EPINE** | Estudio de Prevalencia de las Infecciones Nosocomiales en España | Foto anual de las IRAS |
+| **EPI / FFP2-FFP3** | Equipo de Protección Individual / mascarilla autofiltrante (*Filtering Face Piece*) de nivel 2 o 3 | Protección del personal |
+| **HEPA** | *High Efficiency Particulate Air* | Filtro de aire de alta eficacia |
+| **CVC / PICC** | Catéter Venoso Central / Catéter central de inserción periférica | Bacteriemia Zero |
+| **UCI** | Unidad de Cuidados Intensivos | Donde se aplican los proyectos Zero |
+| **ITU / NAVM** | Infección del Tracto Urinario / Neumonía Asociada a la Ventilación Mecánica | ITU Zero / Neumonía Zero |
+| **PROA** | Programas de Optimización del uso de Antimicrobianos | Resistencia Zero |
+| **SARM / BLEE** | *S. aureus* Resistente a Meticilina / Betalactamasas de Espectro Extendido | Multirresistentes (aislamiento de contacto) |
+| **VRS / Hib** | Virus Respiratorio Sincitial / *Haemophilus influenzae* tipo b | |
+| **LER** | Lista Europea de Residuos | Código de cada residuo; el asterisco (\*) = peligroso |
+| **ENRESA** | Empresa Nacional de Residuos Radiactivos | Recoge los radiactivos |
+| **INSST** | Instituto Nacional de Seguridad y Salud en el Trabajo (antes INSHT) | Normas de manejo de residuos |
+| **PEHSU** | *Pediatric Environmental Health Specialty Unit* (Unidad de Salud Medioambiental Pediátrica) | Arrixaca, embarazo e infancia |
+| **PM2,5 / PM10** | Partículas en suspensión de menos de 2,5 / 10 micras | Contaminación del aire |
+
 ## 1. Infección relacionada con la asistencia sanitaria (IRAS)
 
 - Infección que **no estaba presente ni en incubación** al ingreso. **Comunitaria**: aparece **antes de 48 horas**; **nosocomial**: a partir de las **48-72 horas** del ingreso.
@@ -25,10 +45,14 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 
 | Proyecto Zero (UCI) | Medidas clave |
 |---|---|
-| **Bacteriemia Zero** (catéter venoso central) | Higiene de manos; **barreras máximas** en la inserción; **clorhexidina alcohólica 2%** (dejar secar); **evitar la femoral** (de elección la **subclavia**, luego yugular); **retirar CVC innecesarios**; manejo aséptico de conexiones |
-| **Neumonía Zero** (ventilación mecánica) | Presión del **neumotaponamiento 20-30 cmH₂O**; **higiene bucal con clorhexidina 0,12-0,2%** cada 8-12 h; **cabecero a 30-45°**; **no cambiar tubuladuras de rutina**; reducir sedación y extubar cuanto antes |
-| **ITU Zero** (sonda vesical) | Revisar a diario la indicación y retirar; **sistema cerrado** (no desconectar); bolsa **por debajo de la vejiga** y sin tocar el suelo; fijación al muslo; **meato con agua y jabón** (sin antisépticos de rutina) |
+| **Bacteriemia Zero** (catéter venoso central) | Higiene de manos; **barreras máximas** en la inserción; **clorhexidina alcohólica 2%** (dejar secar); **evitar la femoral** (de elección la **subclavia**, luego yugular); **retirar CVC innecesarios**; manejo aséptico de conexiones. **Nunca** antibióticos profilácticos ni cambios programados del catéter |
+| **Neumonía Zero** (ventilación mecánica) | Presión del **neumotaponamiento 20-30 cmH₂O**, controlada **de forma continua** (2022); **higiene bucal con clorhexidina 0,12-0,2%** cada **6-8 h** según el EIR (el manual dice 8-12 h); **cabecero a 30-45°**; **no cambiar tubuladuras de rutina**; reducir sedación y extubar cuanto antes |
+| **ITU Zero** (sonda vesical) | Revisar a diario la indicación y retirar; **sistema de drenaje cerrado y estéril** (la medida más importante; no desconectar); **no hacer lavados vesicales**; bolsa **por debajo de la vejiga** y sin tocar el suelo; fijación al muslo; **meato con agua y jabón** (sin antisépticos de rutina) |
 | Resistencia Zero | **PROA** (uso de antimicrobianos), cribado de multirresistentes al ingreso, precauciones de contacto |
+
+- **Bacteriemia Zero, otros detalles** (2.ª edición, 2021): apósito transparente cada **7 días** (gasa cada 2 días) o antes si está sucio, húmedo o despegado; **apósitos con clorhexidina** a valorar en accesos de **mayor riesgo**, cerca de una **traqueotomía** o con **prótesis aórtica reciente**; medida **opcional**: **higiene corporal diaria con clorhexidina**.
+- **Neumonía Zero 2022**: entre las medidas **obligatorias** añadió **antibióticos en las 24 horas** siguientes a la intubación en pacientes con **disminución de la consciencia previa** (es la excepción a la regla de no dar antibióticos profilácticos). La medida con más evidencia es la **higiene bucal con clorhexidina**.
+- **ITU Zero**: se considera ITU asociada a sonda si el paciente la ha llevado **más de 2 días** y sigue puesta o se retiró **el día anterior**. Los protocolos de sondaje se revisan **cada 3 años** o antes si hay nueva evidencia. Higiene del meato con **agua y jabón** (nunca antisépticos a diario); la sonda se **cambia** si hay infección que requiere antibiótico.
 
 ## 3. Aislamientos
 
@@ -47,7 +71,7 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 
 ## 4. Gestión de residuos sanitarios
 
-- Fases: **segregación en origen** (el punto crítico, responsabilidad de enfermería) → envasado → transporte interno → almacenamiento intermedio y final → recogida externa por gestor autorizado → tratamiento.
+- Fases (**transporte interno según el INSST**: bolsas de **galga suficiente**, colocadas **una al lado de otra** y nunca apiladas ni arrastradas; la recogida de las unidades es cada **12 horas**, no es «llevarlas a incinerar cada 12 horas»): **segregación en origen** (el punto crítico, responsabilidad de enfermería) → envasado → transporte interno → almacenamiento intermedio y final → recogida externa por gestor autorizado → tratamiento.
 - **Llenado máximo: 3/4** del contenedor. Punzantes en **contenedor rígido** (nunca en bolsa). No arrastrar bolsas, **no usar tolvas** de caída, coger las bolsas por arriba y no comprimirlas. Carros exclusivos y cerrados.
 
 | Grupo (Región de Murcia) | Contenido | Envase y destino |
@@ -60,10 +84,12 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 | **VI** · **Citostáticos** (18 01 08\*) | Restos de quimioterapia y **todo el material en contacto** (sistemas, guantes, batas) | **Contenedor rígido AZUL**; **incineración a alta temperatura** (> 1.000 °C) |
 | Radiactivos | Isótopos de medicina nuclear | **ENRESA** |
 
-- Plazos: evacuar de las unidades cada **12 horas** como máximo; permanencia en el almacén final **≤ 72 horas**. El **asterisco** del código LER indica residuo **peligroso**.
+- Plazos: evacuar de las unidades cada **12 horas** como máximo; permanencia en el almacén final **≤ 72 horas**.
+- **Ojo con el EIR**: usa otra clasificación nacional de **4 grupos** (I asimilables a urbanos; II no específicos, p. ej. **yesos**; III específicos o de biorriesgo, p. ej. una bolsa de sangre empezada; **IV** tipificados en normas propias: **citotóxicos, medicamentos caducados**, químicos y radiactivos). En el examen del SMS se usa la de Murcia de la tabla. El **asterisco** del código LER indica residuo **peligroso**.
 
 ## 5. Salud medioambiental
 
+- **Medio ambiente** (OMS): conjunto de influencias externas **físicas, químicas, biológicas y sociales** que tienen un efecto significativo sobre la salud y el bienestar de las personas en la comunidad.
 - **Declaración de Sofía (OMS, 1993)**: aspectos de la salud y la calidad de vida determinados por agentes ambientales **físicos, químicos, biológicos, psíquicos y sociales**. Antecedente: **Florence Nightingale** (teoría del entorno).
 - **PEHSU** (Unidad de Salud Medioambiental Pediátrica, **Hospital Virgen de la Arrixaca**): pionera; centrada en **embarazo e infancia** (ventanas de vulnerabilidad); herramienta de cribado **"hoja verde"**.
 - **Biológicos**: agua y suelo contaminados, **zoonosis** por *spillover* (gripe aviar, SARS-CoV-2), **vectores** favorecidos por el **cambio climático** (supervivencia invernal de *Aedes* y ***Culex***; virus del Nilo Occidental), pólenes potenciados por partículas diésel.
@@ -80,3 +106,12 @@ sub: Resumen OPE Enfermería SMS · IRAS y cadena epidemiológica, EPINE, precau
 [[img: tema-19-1.jpg | Secuencia de colocación (donning) y retirada (doffing) del EPI]]
 
 [[img: tema-19-2.jpg | Clasificación de residuos sanitarios del SMS: grupos y contenedores]]
+
+## Otras preguntas del test de este tema
+
+Preguntas del EIR que el reparto automático puso en este tema aunque son de otros (catéteres, sondas y traqueotomía):
+
+- **Síndrome de *pinch off*** (el catéter de un reservorio se pinza entre la clavícula y la primera costilla): se evita usando el **acceso yugular** y **retirando el reservorio** en cuanto no haga falta.
+- **Cánula de traqueotomía fenestrada con balón, para hablar**: balón **deshinchado**, camisa interna **fenestrada** y abertura exterior **cerrada** (así el aire sube a las cuerdas vocales).
+- **Catéter doble J**: va de la **pelvis renal a la vejiga** del mismo lado; se coloca con control de **rayos X**.
+- **Sondaje intermitente** (p. ej., lesión medular): catéteres **hidrofílicos** (se lubrican con agua y dañan menos la uretra).

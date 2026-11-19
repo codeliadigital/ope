@@ -133,7 +133,7 @@ window.OPE_TEMAS = [
   "programa": "Inmunizaciones: concepto, inmunidad activa, pasiva y de grupo. Clasificación y tipos de vacunas. Contraindicaciones verdaderas y falsas. Complicaciones y efectos adversos, anafilaxia. Conservación y cadena de frío. Administración, vías, analgesia e intervalos. Calendario de vacunaciones de la Región de Murcia 2025-2026, adultos, grupos de riesgo, personal sanitario y profilaxis antitetánica.",
   "preguntas": 35,
   "pdf": "resumenes/tema-17.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 18,
@@ -141,7 +141,7 @@ window.OPE_TEMAS = [
   "programa": "Higiene en centros sanitarios: conceptos generales, clasificación de Spaulding e higiene de manos. Antisépticos y desinfectantes. El servicio de esterilización. Preparación y tipos de material a esterilizar, métodos de esterilización y controles. Manipulación y conservación del material estéril.",
   "preguntas": 40,
   "pdf": "resumenes/tema-18.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 19,
@@ -149,7 +149,7 @@ window.OPE_TEMAS = [
   "programa": "Infección nosocomial: concepto, cadena epidemiológica y epidemiología (EPINE). Medidas preventivas: precauciones estándar, EPI, higiene de manos y proyectos Zero. Aislamiento hospitalario: concepto, tipos y descripción. Gestión de residuos sanitarios: clasificación y transporte; gestión integral de residuos sanitarios de la Región de Murcia. Salud medioambiental: condicionantes biológicos, físicos y socioculturales.",
   "preguntas": 47,
   "pdf": "resumenes/tema-19.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 20,
@@ -157,7 +157,7 @@ window.OPE_TEMAS = [
   "programa": "Administración de fármacos por diferentes vías: fundamentos de seguridad, farmacocinética, medicamentos de alto riesgo y reacciones adversas; vías enterales, parenterales y tópicas. Cálculo de dosis y fluidoterapia. Administración de medicamentos en el domicilio y seguimiento de pacientes polimedicados: conciliación, deprescripción y adherencia.",
   "preguntas": 74,
   "pdf": "resumenes/tema-20.pdf",
-  "paginas": 4
+  "paginas": 7
  },
  {
   "n": 21,
@@ -165,7 +165,7 @@ window.OPE_TEMAS = [
   "programa": "Clasificación general de medicamentos (sistema ATC). Absorción, distribución, metabolismo y eliminación. Efectos colaterales y reacciones adversas. Farmacovigilancia: reacciones adversas y su notificación (Tarjeta Amarilla). Uso racional del medicamento y adherencia. Indicación, uso y autorización de dispensación por enfermeras y protocolos del SMS.",
   "preguntas": 78,
   "pdf": "resumenes/tema-21.pdf",
-  "paginas": 3
+  "paginas": 6
  },
  {
   "n": 22,
@@ -173,7 +173,7 @@ window.OPE_TEMAS = [
   "programa": "Actuación de enfermería en el uso y autorización de dispensación de medicamentos: Real Decreto 954/2015, de 23 de octubre, y su modificación por el RD 1302/2018. Acreditación de los enfermeros para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano. Acreditación en el SMS, guías nacionales y protocolos regionales.",
   "preguntas": 44,
   "pdf": "resumenes/tema-22.pdf",
-  "paginas": 3
+  "paginas": 5
  },
  {
   "n": 23,
