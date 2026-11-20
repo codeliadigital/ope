@@ -5,10 +5,33 @@ pie: Género, violencia y malos tratos
 sub: Resumen OPE Enfermería SMS · Sexo y género, morbilidad diferencial (biología, ambiente, pobreza, trabajo, violencia), ciclo de Walker, LO 1/2004, protocolo común del SNS y parte de lesiones, cribado (WAST, HITS, AAS), Ley 7/2007 de Murcia y red CAVI, maltrato al anciano (Zarit, EASI) y al niño (RUMI)
 ---
 
+## Siglas y leyes de este tema
+
+| Sigla / norma | Nombre completo | De qué va |
+|---|---|---|
+| **LO 1/2004** | Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género | Ley estatal: violencia de la pareja o expareja |
+| **Ley 7/2007 (Murcia)** | Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protección contra la Violencia de Género en la Región de Murcia | Ley regional: igualdad y recursos para las víctimas |
+| **SNS / SMS** | Sistema Nacional de Salud / Servicio Murciano de Salud | |
+| **OMS / CDSS** | Organización Mundial de la Salud / su Comisión sobre Determinantes Sociales de la Salud | |
+| **AROPE** | Tasa de riesgo de pobreza o exclusión social (siglas en inglés) | Feminización de la pobreza |
+| **MAPO** | Índice de riesgo por movilización manual de pacientes | Riesgo ergonómico |
+| **CoPsoQ-istas21** | Cuestionario de riesgos psicosociales en el trabajo | Mide la doble presencia |
+| **ITS** | Infección de transmisión sexual | |
+| **WAST / HITS / AAS / ISA** | Cuestionarios de cribado de violencia en la pareja (siglas en inglés) | |
+| **VPP / VPN** | Valor predictivo positivo / negativo | Validez del WAST |
+| **CAVI** | Centros de Atención Especializada a Mujeres Víctimas de Violencia (Murcia) | Atención sin denuncia |
+| **SEMA** | Servicio de atención psicológica a menores expuestos a violencia de género (Murcia) | |
+| **UFAM / EMUME** | Unidad de Atención a la Familia y Mujer (Policía Nacional) / Equipo Mujer-Menor (Guardia Civil) | |
+| **EAP** | Equipo de Atención Primaria | |
+| **EASI / MMSE** | Índice de sospecha de maltrato a mayores / Miniexamen del estado mental (siglas en inglés) | |
+| **RUMI** | Registro Unificado de Maltrato Infantil (Murcia) | |
+| **NANDA** | Diagnósticos de enfermería | |
+
 ## 1. Género y salud
 
 - **Sexo**: características **biológicas** (genéticas, hormonales, anatómicas). **Género**: **construcción social** de roles, tareas y expectativas asignadas de forma desigual a hombres y mujeres.
-- La medicina ha sido **androcéntrica** (el varón como norma). Paradoja de la **morbilidad diferencial**: **«las mujeres viven más, pero viven peor»** (más enfermedad crónica, dolor, discapacidad y trastornos mentales).
+- La medicina ha sido **androcéntrica** (el varón como norma). Paradoja de la **morbilidad diferencial**: **«las mujeres viven más, pero viven peor»** (más enfermedad crónica, dolor, discapacidad y trastornos mentales); los hombres tienen **menor esperanza de vida** y más años de vida perdidos por discapacidad.
+- El **género crea desigualdades por sí solo** y agrava las de clase, edad, etnia, discapacidad u orientación sexual. La **CDSS de la OMS**: las desigualdades de salud solo se reducen mejorando la vida de mujeres, jóvenes y niñas. Sumar el rol **reproductivo y el productivo** (doble jornada) **empeora** la salud de la mujer (no la mejora).
 
 ## 2. Determinantes de la morbilidad diferencial
 
@@ -45,6 +68,7 @@ sub: Resumen OPE Enfermería SMS · Sexo y género, morbilidad diferencial (biol
 | **4. Actuación** | Tratar; **parte de lesiones al juzgado** (obligatorio **aunque la mujer no quiera denunciar**); si **riesgo vital**, **no dejarla salir**, protegerla en el centro y **llamar al 112**; **trabajo social** y derivación a recursos (red CAVI) |
 
 - **Indicadores de sospecha**: dolor crónico, cefaleas, fibromialgia, colon irritable; dolor pélvico, **ITS de repetición**, **control prenatal tardío**, abortos; depresión, ansiedad, insomnio, intentos de suicidio, abuso de psicofármacos o alcohol; **hiperfrecuentación** o, al revés, abandono de tratamientos y citas; **pareja controladora** que no la deja hablar.
+- **Solo sospecha y ella lo niega** (examen SMS 2022): **escucha activa** y **apoyarla en las decisiones que tome**, sin presionarla para denunciar; registrar la sospecha y ofrecer seguimiento.
 - **Pareja controladora en la consulta**: **no enfrentarse** a él; usar un **pretexto técnico** (constantes, electrocardiograma) para quedarse a solas con ella.
 - **Prevención**: **primaria** (igualdad y educación, evitar que ocurra), **secundaria** (**cribado y detección precoz**: WAST, EASI), **terciaria** (tratar secuelas, evitar la revictimización, derivar a la red CAVI).
 - **NANDA** útiles: síndrome traumático de la violación (00142), riesgo de suicidio (00150), afrontamiento ineficaz (00069), desempeño ineficaz del rol (00055), riesgo de cansancio del rol de cuidador (00062), riesgo de violencia dirigida a otros (00138).
@@ -62,8 +86,13 @@ sub: Resumen OPE Enfermería SMS · Sexo y género, morbilidad diferencial (biol
 
 ## 6. Región de Murcia
 
-- **Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protección contra la Violencia de Género** (principio de **transversalidad**) y **Pacto Regional contra la Violencia de Género**.
-- **Red CAVI** (Centros de Atención Especializada a Mujeres Víctimas de Violencia): atención psicológica, social y jurídica **sin exigir denuncia**.
+- **Plan de Acción Regional**: cada comunidad autónoma aplica la LO 1/2004 con sus propios planes y estrategias. En Murcia:
+  - **Ley 7/2007, de 4 de abril, para la Igualdad entre Mujeres y Hombres y de Protección contra la Violencia de Género** (principio de **transversalidad**: la igualdad se tiene en cuenta en todas las políticas). Las funciones de **ordenación, planificación y programación** corresponden al organismo de igualdad (Instituto de la Mujer), no al Instituto de Servicios Sociales; el Gobierno aprueba un **Plan General de igualdad cada legislatura**, con participación de las demás administraciones, presupuestado y evaluado (ver Tema 8).
+  - **Asistencia integral** a la víctima para paliar las consecuencias físicas y psíquicas; se benefician **la mujer, los menores bajo su patria potestad, guarda o tutela y cualquier persona que dependa de ella**. Recursos: **dispositivo de atención urgente** (atención inmediata y acogida en **centros de emergencia**), **casas de acogida** (estancia **media**, **no** urgentes), pisos tutelados y centros especializados (CAVI).
+  - **Pacto Regional contra la Violencia de Género** (acuerdo de todos los partidos de la Asamblea Regional; el I Pacto, 2018-2022: sensibilización, prevención en la escuela y protección de víctimas e hijos; en 2024 se preparaba el II).
+  - Organización (examen SMS 2022): el **112** atiende también las llamadas de violencia de género; la prevención depende de la **Dirección General de Mujer e Igualdad de Oportunidades** (Consejería de Familia e Igualdad de Oportunidades).
+- **Red CAVI** (Centros de Atención Especializada a Mujeres Víctimas de Violencia): atención psicológica, social y jurídica a mujeres **mayores de 18 años** (y menores con permiso de sus padres) **sin exigir denuncia**.
+- **Mutilación genital femenina (protocolo de Murcia)**: el **Responsable de Violencia del EAP** recibe la información de niñas y mujeres mutiladas o en riesgo y la comparte con sus sanitarios, **asesora** a los profesionales y **aporta recursos comunitarios** (no hace de interlocutor entre niveles asistenciales). Si hay problemas para entenderse con la mujer: **mediadora intercultural**.
 - **SEMA**: atención psicológica a los **menores expuestos** a la violencia de género.
 - Coordinación con juzgados, fiscalía, forenses y policía: **UFAM** (Policía Nacional) y **EMUME** (Guardia Civil).
 - (El temario cita también la **Estrategia Madrileña contra la Violencia de Género 2016-2021**: 3 ejes, sensibilización, atención integral y coordinación, con el registro **VISEM**.)
@@ -77,6 +106,13 @@ sub: Resumen OPE Enfermería SMS · Sexo y género, morbilidad diferencial (biol
 - **Maltrato infantil** (ver también Tema 29): **negligencia = la forma más frecuente**; físico (lesiones incompatibles con la edad o con el relato, **fracturas en distinto estadio**, quemaduras por inmersión o con cigarrillo); **bebé sacudido** (hematoma subdural, hemorragias retinianas, sin lesiones externas); emocional; sexual; **maltrato médico (Münchausen por poderes)**: el cuidador **provoca o inventa** síntomas (es abuso activo, no negligencia).
 - Alarma: **relato incompatible** con el desarrollo del niño, **retraso en consultar**, y en el niño la **«vigilancia congelada»** (hipervigilancia y miedo) o agresividad.
 - **Murcia**: **Hoja de Notificación de Riesgo y Maltrato Infantil** → **RUMI**. No exige certeza. Nivel **leve**: seguimiento con el niño en casa; **moderado**: intervención de los servicios comunitarios; **grave**: protección de menores, fiscalía y policía, **separación** del niño.
+
+## Otras preguntas del test de este tema
+
+- **Apgar familiar** (funcionamiento de la familia, 0-10): **7-10 normofuncional**, 4-6 disfunción leve, **0-3 disfunción grave** (2 puntos = grave).
+- **Genograma**: dos líneas paralelas entre dos personas = relación **muy unida**; línea en zigzag = **conflictiva**; dos barras cruzando la línea de pareja = **divorcio**.
+- **Ciclo de acción comunitaria**: sus fases son **orientativas** y dependen del contexto de cada comunidad (no son independientes ni dan siempre los mismos objetivos).
+- **Teleasistencia**: las **limitaciones físicas** del paciente (vista, oído, manos) dificultan su uso; el acceso a la tecnología y la inseguridad jurídica siguen siendo barreras.
 
 !! Sexo = biología; género = construcción social.
 !! Mujeres: **viven más, pero peor**; infarto **atípico** y diagnóstico más tardío.

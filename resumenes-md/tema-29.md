@@ -5,11 +5,34 @@ pie: Cuidados en la infancia
 sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento, desarrollo), PADI y flúor, higiene y sueño, lactancia y alimentación complementaria, accidentes y sistemas de retención, maltrato infantil y protocolo de Murcia, vacunación y hábitos saludables
 ---
 
+## Siglas y leyes de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **RN** | Recién nacido | Primeras 4 semanas de vida |
+| **SMS / CARM** | Servicio Murciano de Salud / Comunidad Autónoma de la Región de Murcia | |
+| **PADI** | Programa de Atención Dental Infantil (Programa de Salud Bucodental Infantil de Murcia) | Dentista gratis de 6 a 14-15 años |
+| **SMSL** | Síndrome de Muerte Súbita del Lactante | Se previene durmiendo boca arriba |
+| **OMS / AEP** | Organización Mundial de la Salud / Asociación Española de Pediatría | |
+| **GPC** | Guía de Práctica Clínica (del Ministerio de Sanidad) | Lactancia materna (2017) |
+| **APLV / LTP** | Alergia a las Proteínas de la Leche de Vaca / Proteínas Transportadoras de Lípidos | Alergias alimentarias |
+| **IgA / IgE** | Inmunoglobulina A / Inmunoglobulina E | Anticuerpos: IgA en el calostro; IgE en la alergia inmediata |
+| **SRI / ISOFIX** | Sistema de Retención Infantil (silla del coche) / anclaje rígido de la silla al coche | |
+| **LOPIVI** | Ley Orgánica 8/2021, de Protección Integral a la Infancia y la Adolescencia frente a la Violencia | Obliga a comunicar la sospecha de violencia sobre un menor |
+| **RUMI** | Registro Unificado de Maltrato Infantil (de Murcia) | Recoge las hojas de notificación |
+| **ITS** | Infección de Transmisión Sexual | |
+| **IM / SC** | Vía intramuscular / vía subcutánea | |
+| **VNC20 / Hib / HBsAg** | Vacuna Neumocócica Conjugada de 20 serotipos / *Haemophilus influenzae* tipo b / antígeno de superficie de la hepatitis B | |
+| **MenB / MenACWY** | Vacuna del meningococo B / del meningococo de los grupos A, C, W e Y | |
+| **DTPa / Tdpa** | Difteria, Tétanos y tos ferina (Pertussis) acelular de carga completa (niños) / de baja carga (adolescentes, adultos, embarazo) | Las mayúsculas indican dosis completa |
+| **VPH / VRS** | Virus del Papiloma Humano / Virus Respiratorio Sincitial | |
+
 ## 1. Valoración del niño
 
 - Repaso neonatal (ver Tema 28): pérdidas de calor (al nacer **evaporación**, después **radiación**), **vitamina K 1 mg IM en el vasto externo**, pomada de **eritromicina**, **prueba del talón a las 48-72 h**. **Apgar** (más puntos, mejor) y **Silverman** (0 = sin dificultad). **Capurro** (204 + puntos ÷ 7) en el RN a término; **Ballard** en prematuros extremos.
 - **Antropometría**: pérdida de hasta el **10%** del peso los primeros días, recuperado hacia el **10.º-14.º día**; **duplica el peso a los 5 meses** y lo **triplica al año**; talla al nacer ≈ 50 cm, **+50% el primer año** (≈ 75 cm); perímetro cefálico al nacer 34-35 cm.
 - **Percentiles**: un **percentil 3 aislado no es patológico**; lo que alarma es **cruzar percentiles** en controles sucesivos o la caída de la **velocidad de crecimiento** (cm/año: el indicador más sensible).
+- **Desarrollo**: sigue el sentido **cefalocaudal** (de la cabeza a los pies) y **proximodistal** (del tronco a los dedos). El desarrollo **motor** abarca la motricidad **gruesa** (moverse, desplazarse) y la **fina**; el desarrollo **intelectual** (aprender) es el **cognitivo**, no el psicosocial.
 - **Desarrollo psicomotor**: **Haizea-Llevant** y **Denver II** (**no mide inteligencia**, sino maduración; 4 áreas: **personal-social, motor fino-adaptativa, lenguaje y motor grueso**).
 
 | Hito | Edad habitual | Señal de alarma |
@@ -20,7 +43,9 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 | Gateo (puede faltar) | 8-10 meses | Asimetría |
 | Bipedestación | 10-12 meses | No a los 15 meses |
 | Marcha autónoma | 12-15 meses | **No camina a los 18 meses** |
-| Primeras palabras | 10-12 meses | Sin lenguaje a los 18 meses |
+| Primeras palabras | 10-12 meses | Sin lenguaje a los 18 meses; **a los 18 meses solo dice «papá» y «mamá»** (examen SMS) |
+
+- No son señales de alarma: **balbucear a los 12 meses** ni **responder a su nombre a los 6 meses** (es lo normal).
 
 - **Reflejos**: un **Moro** que persiste a los **6-7 meses** es signo de alarma. **Babinski** (extensión del dedo gordo) es **normal hasta los 18-24 meses** (mielinización de la vía piramidal).
 - Constantes: FC del RN 120-160 lpm y del lactante 100-120; FR del RN 40-60 rpm y 30-40 en el primer año. Fontanela **posterior** (triangular) se cierra a los **2-3 meses**; **anterior** (romboidal) a los **12-18 meses**; **abombada** = hipertensión intracraneal; **hundida** = deshidratación.
@@ -29,7 +54,7 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 ## 2. Salud bucodental
 
 - La **caries** es la enfermedad crónica más frecuente en la infancia.
-- **PADI de Murcia**: con **tarjeta sanitaria del SMS**, desde los **6 años** (dentición definitiva) hasta la adolescencia; libre elección de dentista público o privado adherido ("dentista de cabecera"). Ampliación para niños con discapacidad (sedación o anestesia general).
+- **PADI de Murcia**: con **tarjeta sanitaria del SMS**, desde los **6 años** (dentición definitiva) hasta los **14-15 años** (no «hasta los 11»). Lo organiza la **Consejería de Salud** coordinada con el **Colegio Oficial de Dentistas**. Libre elección entre dentistas **públicos** (unidades de salud bucodental de los centros de salud) y **privados adheridos**: es el "dentista de cabecera"; se puede cambiar como mucho **una vez al año**. Ampliación para niños con discapacidad (sedación o anestesia general hasta los 14 años).
 
 | Incluido | **Excluido** |
 |---|---|
@@ -47,16 +72,20 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 | **2-6 años** | 1.000-1.450 ppm | **Guisante** |
 | **> 6 años** | **1.450 ppm** | 1-2 cm |
 
+- **Avulsión** (el diente sale entero por un golpe): coger el diente **por la corona**, sin tocar la raíz; si es **permanente**, reimplantarlo en el mismo lugar del accidente o llevarlo en **leche, suero fisiológico o saliva**. Los dientes **temporales (de leche) no se reimplantan**.
 - Cepillado **supervisado hasta los 8 años**; el **nocturno es el más importante** (menos saliva); **escupir sin enjuagar** con agua.
 
 ## 3. Higiene, sueño y alimentación
 
 - **Cordón**: cura en seco; los antisépticos retrasan la caída (7-14 días). **Piel**: jabones **syndet** de pH ≈ 5,5. **Dermatitis del pañal**: cambios frecuentes, limpiar con agua, airear; **talco contraindicado** (neumonitis por inhalación).
-- **SMSL** (primera causa de muerte posneonatal): **boca arriba**; colchón firme; cuna sin almohadas (hasta los 2 años), peluches ni chichoneras; **habitación a 20-22 °C** sin sobreabrigo. **Colecho contraindicado** si los padres **fuman** (aunque no sea en la habitación), han tomado alcohol, drogas o psicofármacos, si el bebé es **prematuro o de bajo peso**, o en **sofás**. **Plagiocefalia**: alternar la posición de la cabeza y **tiempo boca abajo despierto y vigilado** (*tummy time*).
+- **SMSL** (primera causa de muerte posneonatal; factores de riesgo: tabaco materno, prematuridad y bajo peso, **sexo varón**): **boca arriba**; colchón firme; cuna sin almohadas (hasta los 2 años), peluches ni chichoneras; **habitación a 20-22 °C** sin sobreabrigo. **Colecho contraindicado** si los padres **fuman** (aunque no sea en la habitación), han tomado alcohol, drogas o psicofármacos, si el bebé es **prematuro o de bajo peso**, o en **sofás**. **Plagiocefalia**: alternar la posición de la cabeza y **tiempo boca abajo despierto y vigilado** (*tummy time*).
 - **Lactancia materna exclusiva y a demanda 6 meses**; complementada hasta los **2 años** o más.
   - **Calostro** (3-5 primeros días): amarillo, **IgA secretora**, lactoferrina: «primera vacuna»; ayuda a expulsar el meconio. **Transición**: días 5-14. **Madura**: desde el día 15; **87% agua**, **lactosa**, proteínas del suero (**alfa-lactoalbúmina**), grasas = 50% de la energía.
   - **Al final de la toma la leche tiene más grasa** (saciedad): no retirar al niño por reloj.
+  - **GPC de lactancia materna (2017)**: evitar **suplementos** sin indicación médica (recomendación fuerte); advertir del peligro de dejar al lactante **solo en la cama de un adulto, en un sofá o en un sillón** (fuerte); se **sugiere** el colecho en casa (en cama o cuna sidecar) para ayudar a la lactancia (débil); evitar el **chupete el primer mes** es solo una sugerencia (recomendación **débil**, no fuerte).
   - **Contraindicaciones reales**: **VIH** (en países desarrollados), **HTLV I/II**, **galactosemia** del niño, drogas de abuso, antineoplásicos y radiofármacos.
+- **APLV**: la **mediada por IgE** da reacciones **inmediatas**; la leche de vaca es de los alimentos que **más** anafilaxias mortales causan; **la mayoría de los niños se vuelven tolerantes** con el tiempo; no se sustituye por leche de otros animales parecidos (cabra, oveja: reacción cruzada). En la APLV **no mediada por IgE**, la prueba de confirmación (patrón oro) es la **provocación oral**.
+- **Alergia a las LTP** (de frutas y vegetales): muy extendidas, **resisten la cocción y la digestión** y están **más en la piel que en la pulpa** de la fruta; en niños pueden dar reacciones **graves**, no solo síntomas locales leves.
 - **Alimentación complementaria**: **a los 6 meses** (nunca antes de los 4); retrasarla da **déficit de hierro** (las reservas se agotan a los 6 meses). Alimentos **de uno en uno cada 3-5 días**; texturas progresivas; *baby-led weaning* con trozos que el niño agarra.
   - **Gluten** entre los **4 y 11 meses**, en pequeñas cantidades. **Alérgenos** (huevo, pescado, cacahuete triturado) **sin retrasar**: inducen tolerancia.
   - **Prohibidos el primer año**: **leche de vaca entera** (sobrecarga renal y anemia ferropénica), **miel** (**botulismo**), **espinacas y acelgas** (**nitratos → metahemoglobinemia**, no por alergia), **sal y azúcar** añadidos. **Frutos secos enteros, uvas o salchichas en rodajas**: no antes de los **5 años** (asfixia).
@@ -75,6 +104,7 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 - **Intoxicaciones** (más en **1-4 años**: cáusticos y fármacos): ==**nunca provocar el vómito**== (vuelve a quemar el esófago y riesgo de aspiración) ni dar leche o agua: **llamar al Servicio de Información Toxicológica** y acudir al hospital **con el envase**.
 - **Ahogamiento**: en pocos centímetros de agua y **en silencio**; vigilancia continua al alcance del brazo; los manguitos no sustituyen la vigilancia (chaleco homologado).
 - **Quemaduras en niños**: superficie con la **tabla de Lund y Browder** (no la regla de los 9 de Wallace: en el lactante la cabeza supone ≈ 18-19%).
+- **Calzado (AEP)**: suela **plana (no más de 3 mm), no muy blanda pero muy flexible** en la zona de los dedos; puntera y talón **reforzados**.
 - **Sistemas de retención infantil (SRI)**:
   - **R44/04** (venta prohibida desde **septiembre de 2024**; uso legal): **por peso**: grupo 0 (hasta 10 kg), **0+ (hasta 13 kg, a contramarcha)**, I (9-18 kg, arnés), II (15-25 kg) y III (22-36 kg, elevadores con cinturón).
   - **R129 (i-Size)**: **por altura**; **contramarcha obligatoria hasta al menos los 15 meses** (recomendada hasta los 4 años); **ISOFIX**; pruebas de **impacto lateral**.
@@ -83,17 +113,21 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 
 ## 5. Maltrato infantil
 
-- **LOPIVI (Ley Orgánica 8/2021)**: los sanitarios tienen el **deber de comunicar** cualquier **sospecha** fundada, **sin necesidad de pruebas** ni certeza.
-- **Negligencia**: la forma **más frecuente** (> 50% de las notificaciones): falta de alimentación, higiene, vacunas, citas médicas, escolarización.
+- **Definición**: toda **acción u omisión** que prive al menor de sus derechos y bienestar. **Cuatro tipos básicos** del protocolo estatal: **físico, psicológico (emocional), sexual y negligencia**.
+- **LOPIVI (Ley Orgánica 8/2021, de Protección Integral a la Infancia y la Adolescencia frente a la Violencia)**: los sanitarios tienen el **deber de comunicar** cualquier **sospecha** fundada, **sin necesidad de pruebas** ni certeza.
+- **Negligencia**: la forma **más frecuente** (> 50% de las notificaciones); es una **omisión** (dejar de cuidar), no una acción: falta de alimentación, higiene, vacunas, citas médicas, escolarización.
 - **Maltrato físico** (banderas rojas): lesiones **incompatibles con el desarrollo** (hematomas o fractura en un niño que no camina), explicaciones contradictorias, **retraso en consultar**, **quemaduras por inmersión «en guante o calcetín»** sin salpicaduras.
 - **Niño zarandeado**: **hemorragia subdural + hemorragias retinianas + edema cerebral**, a menudo **sin lesiones externas**.
-- **Violencia sexual**: ITS o embarazo, lesiones genitales/anales, **enuresis o encopresis secundarias**, conductas regresivas; atención a la sumisión química.
+- **Violencia sexual**: incluye la **mutilación genital** y, según un examen del SMS, la **no aceptación de la identidad sexual** del niño (transexualidad) como subtipo. Sospechar ante ITS o embarazo, lesiones genitales/anales, **enuresis o encopresis secundarias**, conductas regresivas; atención a la sumisión química.
 - **Maltrato emocional** (humillación, rechazo, aislamiento) y **trastorno facticio aplicado a otro (Münchausen por poderes)**: el cuidador **inventa o provoca** síntomas en el niño.
+- **Prevención**: educación sexual en los colegios, **Programa de Salud Infantil**, planificación familiar, preparación al parto y **promover las redes de apoyo** de la familia (Protocolo común de actuación sanitaria frente a la violencia en la infancia y la adolescencia, 2023).
+- **Proyecto Luz** (Murcia): atención a niños y adolescentes con sospecha de **abuso sexual infantil**.
 - **Protocolo de Murcia**: **Hoja de Notificación de Riesgo y Maltrato Infantil desde el Ámbito Sanitario** (alimenta el **RUMI**). Registrar **literalmente** lo que dice el niño, describir las lesiones con esquemas y las conductas **sin juicios de valor**; entrevistar al niño **a solas** si la edad lo permite; **no confrontar ni avisar antes a la familia**.
 
 | Situación | Actuación |
 |---|---|
 | **Urgente** (lesión grave, riesgo inminente) | Tratar; **parte de lesiones al Juzgado de Guardia**; avisar a **policía**; **ingreso de protección** (no entregar al niño a los presuntos agresores aunque los padres se opongan) |
+| Protocolo común estatal (2023), caso urgente | Comunicación **inmediata, preferentemente por teléfono** |
 | **No urgente** (negligencia, sospecha leve) | **Hoja de notificación** → **trabajador social sanitario** → **servicios sociales municipales** o entidad de protección |
 
 ## 6. Vacunación infantil
@@ -122,7 +156,7 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 - **VNC20** sustituye a la de 13 serotipos (2, 4 y 11 meses), con dosis de rescate para los vacunados con la 13-valente.
 - **Rotavirus** (oral, viva; financiado para nacidos desde 2024): **primera dosis antes de las 12 semanas** (más tarde aumenta el riesgo de **invaginación intestinal**).
 - **MenB** (Bexsero, proteínas recombinantes): **2, 4 y 12 meses**; muy **reactógena** (fiebre en 24 h; se usa paracetamol).
-- **VRS: nirsevimab** es un **anticuerpo monoclonal** (**inmunidad pasiva**, no una vacuna): **una dosis IM** al inicio de la temporada o en la maternidad; dosis según el peso (corte en 5 kg).
+- **VRS: nirsevimab** es un **anticuerpo monoclonal** (**inmunidad pasiva**, no una vacuna): **una sola dosis, solo IM**, en la **cara anterolateral del muslo** (tercio medio); **50 mg si pesa < 5 kg y 100 mg si ≥ 5 kg** (nunca dos dosis). Puede ponerse **el mismo día que otras vacunas** (no hay que separarlo). Se pone al inicio de la temporada a los nacidos en los meses previos, y a los que nacen **durante la temporada (octubre-marzo), en sus primeras 24-48 h** (en la maternidad), no «a partir de la semana de vida». También a **prematuros de < 35 semanas** antes de cumplir 12 meses y a niños de alto riesgo (cardiopatías, **errores congénitos del metabolismo**...).
 - **VPH**: a los **12 años, chicas y chicos**; dosis única; rescate de varones jóvenes en Murcia.
 - **Gripe**: lactantes y niños desde los **6 meses**; desde los **2 años** existe la **intranasal** (atenuada).
 
@@ -132,6 +166,14 @@ sub: Resumen OPE Enfermería SMS · Valoración del niño (escalas, crecimiento,
 - **Pantallas**: **< 2 años: cero** (salvo videollamadas con familiares); **2-5 años: máximo 1 hora al día**, contenidos de calidad y **acompañados**. Nunca como «chupete emocional» ni **durante las comidas** (anulan la percepción de saciedad: obesidad).
 - **Actividad física (OMS)**: **≥ 60 minutos diarios** de intensidad **moderada a vigorosa** y actividades de **fortalecimiento muscular y óseo ≥ 3 días/semana**. El ejercicio del fin de semana **no compensa** el sedentarismo diario.
 - **Ley de Wolff**: el hueso se fortalece con **impacto** (correr, saltar, deportes de equipo); **natación y ciclismo** apenas estimulan el hueso. Objetivo: alcanzar el **pico de masa ósea** al final de la adolescencia (prevención de la osteoporosis).
+
+## Otras preguntas del test de este tema
+
+- **Síndrome de Kostmann** (neutropenia congénita grave: casi sin neutrófilos, infecciones de repetición): **higiene oral minuciosa** (las encías y la boca son una puerta de infección).
+- **Soplos inocentes**: hasta el **50%** de los niños < 14 años; son **sistólicos** (nunca diastólicos); **nunca con cianosis**; se valoran con la historia, la auscultación y el electrocardiograma.
+- **Enuresis nocturna**: a los 5 años moja la cama una minoría de niños (no la mitad); **beber lo adecuado durante el día** y menos por la noche; **desaconsejar el pañal** si ya está seco de día; la **alarma de enuresis** tiene **alto éxito a largo plazo**.
+- **Enfermedad boca-mano-pie**: por **virus Coxsackie** u otros enterovirus; se contagia por vía **fecal-oral** y por **secreciones respiratorias**; vesículas en boca, manos y pies que **no suelen picar**.
+- **Síndrome PFAPA** (siglas en inglés de fiebre periódica, aftas, faringitis y adenitis): fiebre recurrente **a intervalos regulares** con amigdalitis, aftas y ganglios; de los más frecuentes en la infancia.
 
 !! El **percentil 3** aislado no es enfermedad; sí **cruzar percentiles**.
 !! PADI: **nunca ortodoncia ni empastes de dientes de leche** (de los temporales solo la extracción).

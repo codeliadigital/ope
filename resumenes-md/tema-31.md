@@ -5,13 +5,33 @@ pie: El niño hospitalizado
 sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, constantes, dolor, Glasgow pediátrico y PEWS; bronquiolitis, asma, laringitis, cuerpo extraño; cámara espaciadora; deshidratación y Holliday-Segar; píloro, apendicitis, invaginación; meningitis y fiebre; RCP, vía intraósea, sonda nasogástrica, punción lumbar y recogida de orina
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **TEP** | Triángulo de Evaluación Pediátrica | Primera impresión en urgencias, sin tocar al niño |
+| **TICLS** | Tono, Interacción, Consolabilidad, mirada (*Look*) y lenguaje o llanto (*Speech*) | Cómo se mira la apariencia |
+| **FC / FR / SpO₂** | Frecuencia cardiaca / frecuencia respiratoria / saturación de oxígeno por pulsioxímetro | |
+| **NIPS / FLACC / EVA** | Escala de dolor neonatal / cara-piernas-actividad-llanto-consuelo / Escala Visual Analógica | Dolor |
+| **PEWS** | Escala pediátrica de alerta precoz (siglas en inglés) | Avisa del empeoramiento en planta |
+| **VRS** | Virus Respiratorio Sincitial | Bronquiolitis |
+| **OVACE** | Obstrucción de la Vía Aérea por Cuerpo Extraño | Atragantamiento |
+| **SRO / IV / IM** | Solución de rehidratación oral / vía intravenosa / vía intramuscular | |
+| **LCR / SNC** | Líquido cefalorraquídeo / sistema nervioso central | Meningitis |
+| **AAS / AINE** | Ácido acetilsalicílico (aspirina) / antiinflamatorio no esteroideo | |
+| **CIV / CIA / VD** | Comunicación interventricular / comunicación interauricular / ventrículo derecho | Cardiopatías |
+| **LLA** | Leucemia linfoblástica aguda | El cáncer infantil más frecuente |
+| **RCP / ERC** | Reanimación cardiopulmonar / Consejo Europeo de Resucitación | |
+| **NEMU** | Nariz - oreja (*Ear*) - punto Medio xifoides-ombligo (*Umbilicus*) | Medir la sonda nasogástrica |
+| **EMLA** | Crema anestésica de lidocaína y prilocaína | Antes de pinchar |
+
 ## 1. Valoración del niño
 
 - **Triángulo de Evaluación Pediátrica (TEP)**: impresión **visual y auditiva**, **sin tocar al niño** ni usar aparatos, en **< 30 s** y a ser posible **en brazos** de sus padres. Tres lados:
   - **Apariencia** (el **más importante**: refleja la oxigenación y perfusión **cerebral**). Regla **TICLS**: **T**ono, **I**nteracción, **C**onsolabilidad, mirada (**L**ook) y llanto o lenguaje (**S**peech).
   - **Trabajo respiratorio**: ruidos (**estridor** inspiratorio = obstrucción alta; **quejido** espiratorio; sibilancias), posturas (**olfateo**, **trípode**), tiraje, aleteo, balancín.
   - **Circulación cutánea**: **palidez** (primer signo), **piel moteada** y **cianosis** (signo tardío).
-  - Los tres lados alterados = **fallo cardiorrespiratorio**.
+  - Los tres lados alterados = **fallo cardiorrespiratorio** (p. ej., dificultad respiratoria grave + somnolencia + cianosis).
 - **Constantes**: la FC y la FR bajan con la edad (lactante ≈ 120-140 lpm; escolar ≈ 90; adolescente ≈ 80). La **FR** es el primer signo de compensación y la que más se olvida. La **bradicardia** (< 60 lpm en el niño) suele ser por **hipoxia** y anuncia la parada. **Glucemia capilar** ante cualquier alteración neurológica o convulsión.
 - **Dolor**:
 
@@ -24,13 +44,13 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 | Paciente **sedado o paralizado** | Escalas con variables fisiológicas (**COMFORT**): las conductuales no sirven |
 
 - **Sacarosa al 24%** + chupete **2 minutos antes** de una punción en el lactante pequeño.
-- **Glasgow pediátrico** (3-15; verbal adaptada: sonríe, balbucea, llanto consolable o inconsolable, quejido). **≤ 8 = intubación**. No valora las pupilas. **Decorticación** (flexión anormal) = lesión por encima del tronco; **descerebración** (extensión) = lesión del **tronco**, peor pronóstico.
+- **Glasgow pediátrico** (3-15; verbal adaptada: sonríe, balbucea, llanto consolable o inconsolable, quejido). Ejemplo de examen SMS: lactante dormido que **abre los ojos al hablarle** (3), **balbucea** (5) y **se mueve con normalidad** (6) = **14**. **≤ 8 = intubación**. No valora las pupilas. **Decorticación** (flexión anormal) = lesión por encima del tronco; **descerebración** (extensión) = lesión del **tronco**, peor pronóstico.
 - **PEWS** (alerta precoz en planta): comportamiento, cardiovascular y respiratorio (0-3 cada uno); una puntuación alta o la **subida de 2 puntos** obliga a avisar.
 - Al ingreso, **pesar al niño** (todas las dosis van por kg) y medir el perímetro cefálico en menores de 2-3 años.
 
 ## 2. Procesos respiratorios
 
-- **Bronquiolitis** (VRS; menores de 2 años): necrosis del epitelio, moco y atrapamiento aéreo. Gravedad: **Wood-Downes-Ferrés** (leve 1-3, moderada 4-7, grave > 7).
+- **Bronquiolitis** (VRS; menores de 2 años; la infección respiratoria baja más frecuente del lactante): necrosis del epitelio, moco y atrapamiento aéreo. Factores de **gravedad**: **prematuridad**, edad < 3 meses, cardiopatía, **no tomar lactancia materna**, **tener hermanos** (contagio) y tabaco en casa; la **atopia no** lo es. Gravedad: **Wood-Downes-Ferrés** (0-14 puntos; valora sibilancias, tiraje, entrada de aire, **cianosis**, FR y FC, **no la conciencia**; leve 1-3, moderada 4-7, grave > 7).
   - Cuidados: **lavados nasales con suero y aspiración suave antes de las tomas y del sueño**; **cabecera elevada 30°**; **tomas fraccionadas**; si la FR es muy alta (> 60), alimentación por sonda o IV (riesgo de aspiración). **Aislamiento de contacto y gotas**. **Sin pruebas de rutina**; el tratamiento es de soporte.
 - **Crisis asmática**: **Pulmonary Score** (leve < 3-4, moderada 4-6, grave > 6).
   - **Salbutamol** (primera línea); **bromuro de ipratropio** como coadyuvante en crisis **moderadas y graves**; **corticoides sistémicos** precoces; **oxigenoterapia de alto flujo** si no mejora.
@@ -40,6 +60,7 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
   - **No agitar al niño** (en brazos de los padres; evitar explorar la faringe y pinchar). O₂ si SpO₂ < 93%.
   - **Dexametasona** en **dosis única** (0,15-0,6 mg/kg, máx. 10 mg; oral, IM o IV); alternativa **budesonida nebulizada** 2 mg.
   - **Adrenalina nebulizada** (1/1.000, 0,5 mg/kg, máx. 5 mg) en las **moderadas y graves**: efecto rápido pero **corto (≈ 2 h)** → **observar 3-4 horas** antes del alta.
+- Otros procesos respiratorios: **fibrosis quística** (enfermedad **autosómica recesiva**: pulmón, páncreas, hígado e intestino). En el **prematuro**, la causa más frecuente de dificultad respiratoria es la **falta de surfactante** (membrana hialina, tema 30), no la taquicardia.
 - **Cuerpo extraño (OVACE)**, sobre todo **< 3 años**:
   - **Tos eficaz**: animar a toser, **sin maniobras**.
   - **Tos ineficaz y consciente**: **lactante < 1 año**: **5 golpes en la espalda** (boca abajo sobre el antebrazo, cabeza más baja) + **5 compresiones torácicas**; **nunca Heimlich** (hígado). **Niño > 1 año**: **5 golpes** + **5 compresiones abdominales (Heimlich)**.
@@ -57,7 +78,8 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 - **Rehidratación oral** (de elección si no hay shock): **SRO hiposmolar** (sodio ≈ 60 mEq/l; cotransporte sodio-glucosa).
   - **Fase de rehidratación** en **2-4 h**: 30-50 ml/kg (leve), 50-90/100 ml/kg (moderada). Si vomita, **pequeñas cantidades cada 5 minutos** con jeringa. Antiemético: **ondansetrón** (dosis única); **no metoclopramida** (extrapiramidalismo). **Nunca bebidas deportivas ni refrescos**.
   - **Mantenimiento**: reponer ≈ **10 ml/kg por deposición**; **reintroducir pronto la dieta**; **no suspender la lactancia materna ni diluir los biberones**.
-- **Holliday-Segar (líquidos de mantenimiento en 24 h)**: **100 ml/kg** los primeros 10 kg + **50 ml/kg** de 11 a 20 kg + **20 ml/kg** por cada kg por encima de 20. Ej.: **23 kg** = 1.000 + 500 + 60 = **1.560 ml/día**. Por hora, regla **4-2-1** (4 ml/kg/h los primeros 10 kg, 2 los 10 siguientes, 1 el resto).
+- **Escala de Fortín y Parent**: estima el **grado de deshidratación** del lactante por signos clínicos (pérdida de peso, fontanela, mucosas, ojos, pliegue, estado neurológico, respiración, extremidades). Examen SMS: lactante con **pérdida del 6%**, lengua algo seca y extremidades frías = deshidratación **moderada**.
+- **Holliday-Segar (líquidos de mantenimiento en 24 h)**: calcula las **necesidades basales** solo con el **peso** (no con el porcentaje perdido; el déficit se suma aparte). Ej.: **7 kg** = 7 × 100 = **700 ml/día**. **100 ml/kg** los primeros 10 kg + **50 ml/kg** de 11 a 20 kg + **20 ml/kg** por cada kg por encima de 20. Ej.: **23 kg** = 1.000 + 500 + 60 = **1.560 ml/día**. Por hora, regla **4-2-1** (4 ml/kg/h los primeros 10 kg, 2 los 10 siguientes, 1 el resto).
 - **Potasio IV solo después de comprobar la diuresis** (nunca en anuria: hiperpotasemia y parada).
 - **Estenosis hipertrófica de píloro** (2.ª-8.ª semana, varones primogénitos): vómitos **en proyectil no biliosos**, **oliva pilórica**, ondas peristálticas; diagnóstico por **ecografía**; **alcalosis metabólica hipoclorémica e hipopotasémica**. Preoperatorio: **dieta absoluta**, sonda gástrica y **corregir los electrolitos** (la urgencia es metabólica, no quirúrgica). **Piloromiotomía de Ramstedt**; tolerancia oral a las pocas horas; algún vómito las primeras 24-48 h es normal.
 - **Apendicitis**: dolor **periumbilical que migra a la fosa ilíaca derecha** (McBurney), anorexia, febrícula, vómitos. Posoperatorio: **dolor agudo** (manejo del dolor), **riesgo de infección** (cuidado de la herida y el drenaje) y **deambulación precoz** (previene el íleo y las atelectasias).
@@ -81,12 +103,14 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 
 ### Otros procesos pediátricos frecuentes
 
-- **Convulsión febril**: la crisis más frecuente en la infancia (**6 meses-5 años**), con fiebre y **sin infección del SNC**. **Simple**: generalizada, **< 15 min**, una sola en 24 h; benigna. Actuación: **lateral de seguridad**, no meter nada en la boca, cronometrar; si dura **> 5 min**, **midazolam bucal o diazepam rectal**. Los antitérmicos **no previenen** recurrencias.
+- **Convulsión febril**: la crisis más frecuente en la infancia (**6 meses-5 años**), con fiebre y **sin infección del SNC**. **Simple**: generalizada, **< 15 min**, una sola en 24 h; benigna. Actuación: **lateral de seguridad**, no meter nada en la boca, cronometrar; si dura **> 5 min**, benzodiacepina por vía **bucal (midazolam), intranasal o rectal (diazepam)**; la vía **endotraqueal no** se usa.
+- **Crisis de ausencia** («petit mal»): empiezan entre los **4 y 9 años**, **más en niñas**, de origen genético; suelen **desaparecer con la edad**, aunque requieren tratamiento largo. Los antitérmicos **no previenen** recurrencias.
 - **Síndrome de Reye**: encefalopatía aguda + **daño hepático (esteatosis)** tras una virasis (**varicela, gripe**) tratada con **ácido acetilsalicílico**: **no dar AAS a menores de 16 años**.
 - **Cardiopatías congénitas**: **acianóticas** (cortocircuito izquierda-derecha): **CIV (la más frecuente)**, CIA, **ductus arterioso persistente** (soplo continuo «en maquinaria»; se cierra con **ibuprofeno o indometacina**), **coartación de aorta** (**pulsos femorales débiles** y HTA en brazos). **Cianóticas** (derecha-izquierda): **tetralogía de Fallot** (CIV, estenosis pulmonar, hipertrofia del VD y aorta cabalgante; la cianótica más frecuente después del periodo neonatal; en las **crisis hipoxémicas**: **posición genupectoral** o de cuclillas, O₂, morfina) y **transposición de grandes vasos** (la cianótica más frecuente en el **recién nacido**; necesita **prostaglandina E1** para mantener abierto el ductus).
-- **Celiaquía**: intolerancia permanente al **gluten** (gliadina: **trigo, cebada, centeno**; avena por contaminación); diarrea crónica, **distensión abdominal, nalgas aplanadas**, irritabilidad y estancamiento ponderal. Diagnóstico: **anticuerpos antitransglutaminasa IgA** y biopsia; tratamiento: **dieta sin gluten de por vida** (arroz y maíz permitidos).
+- **Celiaquía**: intolerancia permanente al **gluten** (gliadina: **trigo, cebada, centeno**; avena por contaminación); diarrea crónica, **distensión y dolor abdominal, nalgas aplanadas**, pérdida de peso, **anemia**, transaminasas altas, irritabilidad o cambios de ánimo y **falta de apetito** (no aumento). Diagnóstico: **anticuerpos antitransglutaminasa IgA** y biopsia; tratamiento: **dieta sin gluten de por vida** (arroz y maíz permitidos).
 - **Estenosis hipertrófica del píloro**: varón de **2-8 semanas**, **vómitos en escopetazo no biliosos** tras las tomas, con hambre posterior, **oliva pilórica** palpable y **alcalosis metabólica hipoclorémica**; piloromiotomía.
-- **Genitales**: **fimosis** (fisiológica en el lactante; no forzar el prepucio); **parafimosis** (el prepucio retraído no vuelve: **reducción urgente**); **torsión testicular** (dolor brusco, **reflejo cremastérico abolido**; **cirugía en < 6 h**).
+- **Genitales**: **balanitis** (inflamación del glande: eritema, edema, dolor); **testículo ectópico** (fuera del camino normal de bajada, p. ej. **suprapúbico**, y no se puede bajar al escroto) frente a **no descendido** (en su trayecto), **retráctil** (sube y baja: se puede llevar al escroto) y **evanescente** (desaparecido); **fimosis** (fisiológica en el lactante; no forzar el prepucio); **parafimosis** (el prepucio retraído no vuelve: **reducción urgente**); **torsión testicular** (dolor brusco, **reflejo cremastérico abolido**; **cirugía en < 6 h**).
+- **Cetoacidosis diabética** en el niño: criterios: **hiperglucemia > 200 mg/dl**, acidosis (respiración de **Kussmaul**) y **deshidratación**. Efectos adversos del tratamiento: hipoglucemia, **hipopotasemia** (la insulina mete el potasio en la célula; no hiperpotasemia), edema cerebral, insuficiencia renal e incluso la muerte.
 - **Tumores infantiles**: lo más frecuente es la **leucemia (LLA, 2-5 años)**; el tumor sólido más frecuente son los del **SNC**; el sólido extracraneal más frecuente, el **neuroblastoma**; renal, el **tumor de Wilms** (masa abdominal: **no palpar repetidamente**); óseos: **osteosarcoma** (metáfisis de huesos largos, adolescentes) y **sarcoma de Ewing** (diáfisis y huesos planos).
 - **Hemofilia**: ligada al X (varones); **A = déficit de factor VIII** (la más frecuente), **B = factor IX**; **hemartros**. Evitar **IM, AAS y AINE**; la **enfermedad de von Willebrand** es el trastorno hereditario de la coagulación más frecuente.
 
@@ -97,7 +121,7 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
   - **15:2 con dos o más reanimadores** sanitarios (el manual indica 30:2 con un solo reanimador). **Tercio inferior del esternón**, **1/3 del diámetro** (≈ 4 cm en lactante, 5 cm en niño), **100-120 por minuto**. Lactante: **dos pulgares abrazando el tórax** con dos reanimadores (dos dedos si está solo); niño: talón de una o dos manos.
   - El **gasping** equivale a parada.
 - **Vías venosas**: calibre según la edad (**24G** en neonatos, 22G en lactantes, 20G en escolares); **clorhexidina**; **apósito transparente** para vigilar flebitis y extravasación.
-- **Vía intraósea**: si no se consigue una vía periférica en **≈ 90 s o 3 intentos** en una emergencia. **Tibia proximal** (cara interna, 1-2 cm bajo la tuberosidad). Permite cualquier fármaco o fluido. **Contraindicada** en hueso **fracturado**, con **punción previa en 24 h** o infección local. Complicación más temida: **síndrome compartimental** por extravasación.
+- **Vía intraósea**: si no se consigue una vía periférica en **≈ 90 s o 3 intentos** en una emergencia; sirve **a cualquier edad** (también < 6 años). **Tibia proximal**, cara anteromedial, **1-2 cm por debajo** de la tuberosidad tibial en lactantes (EIR: **2-3 cm** en un niño de 5 años); en **mayores de 8 años**, también la **tibia distal**, 2-3 cm por encima del maléolo interno (las dos son correctas en un examen SMS). Permite cualquier fármaco o fluido. **Contraindicada** en hueso **fracturado**, con **punción previa en 24 h** o infección local. Complicación más temida: **síndrome compartimental** por extravasación.
 - **Sonda nasogástrica**: medir con el método **NEMU** (nariz → lóbulo de la oreja → **punto medio entre xifoides y ombligo**); la regla del adulto (nariz-oreja-xifoides) la deja corta en el esófago. Comprobar: **radiografía** (patrón oro) y, a pie de cama, **pH del aspirado ≤ 5,5**; la **auscultación del aire no es válida**.
 - **Punción lumbar**: **EMLA 60 minutos antes** con apósito oclusivo; espacio **L3-L4 o L4-L5**; **decúbito lateral en posición fetal** (rodillas al pecho y cuello flexionado) o sentado. **Contraindicada con coagulopatía o trombopenia grave** (hematoma epidural). El manual recomienda reposo horizontal unas horas tras la punción.
 - **Orina**:
@@ -106,7 +130,24 @@ sub: Resumen OPE Enfermería SMS · Triángulo de evaluación pediátrica, const
 |---|---|
 | **Bolsa adhesiva** | Solo para **tira reactiva o descartar** (hasta 60% de contaminación); **cambiar si en 30 min no ha orinado** (lavando de nuevo) |
 | **Sondaje vesical** | **De elección para urocultivo** en el niño que no controla esfínteres (sonda 6-8 Fr; desechar los primeros ml) |
-| **Punción suprapúbica** | La **más estéril**; en **neonatos** o si no se puede sondar; 1-2 cm sobre el pubis, mejor con ecografía |
+| **Punción suprapúbica** | La **más estéril** (técnica **de referencia**); en **neonatos** o si no se puede sondar; 1-2 cm sobre el pubis, mejor con ecografía |
+| **Mitad del chorro** | Niños que **ya controlan** la micción |
+
+- El sondaje también puede contaminarse (no lo descarta del todo); la bolsa tiene **más** contaminación que el chorro miccional.
+- **Gotas en el oído** en menores de 3 años: tirar del pabellón **hacia abajo y atrás** (en mayores y adultos, **hacia arriba y atrás**).
+- **Dosis pediátricas** por reglas: **Young** (por edad), **Clark** (por peso) y **Cowling**; la «fórmula de Bloise» no existe.
+
+## Otras preguntas del test de este tema
+
+- **Anquiloglosia**: frenillo lingual corto que limita la lengua.
+- **Escoliosis**: curva lateral de la columna de **10° o más** en la radiografía (no 5°); puede ser **congénita, adquirida o idiopática** (infantil, juvenil, del adolescente). La **cifosis** es otra alteración (curva hacia delante), no una variante de la escoliosis.
+- **Tetralogía de Fallot**: **estenosis pulmonar, hipertrofia del ventrículo derecho, CIV y aorta cabalgante**. **Transposición de grandes vasos**: cianótica del recién nacido; la **aorta sale del ventrículo derecho** y la pulmonar del izquierdo; hay que **mantener abierto el ductus** (prostaglandina) para que se mezcle la sangre.
+- **Cuidados paliativos pediátricos (grupos)**: **1**: hay tratamiento curativo pero **puede fallar** (cáncer); **2**: la muerte prematura es inevitable, pero el tratamiento alarga mucho la vida (fibrosis quística); **3**: enfermedad **progresiva sin cura**, solo paliativo; **4**: proceso **irreversible no progresivo** con discapacidad grave (parálisis cerebral grave).
+- **Tumor de Wilms** (nefroblastoma): el tumor renal maligno más frecuente en niños.
+- **Exantemas**: **roséola** (exantema súbito, herpes 6): 3 días de **fiebre alta** y, **al bajar la fiebre**, exantema rosado en tronco que no pica; **eritema infeccioso** (quinta enfermedad) = **parvovirus B19**; **sarampión**: primero **fiebre y catarro** (tos, mocos, conjuntivitis) y **después** el exantema, que empieza en la **frente y detrás de las orejas**; **manchas de Koplik** (patognomónicas); entra por vía respiratoria o conjuntival.
+- **Tétrada de Gregg** (rubéola congénita): **sordera** (la más frecuente), cataratas, cardiopatía (ductus) y microcefalia.
+- **Impétigo**: infección **bacteriana** superficial (estafilococo, estreptococo), **muy contagiosa**, más en verano y en la cara; lavar con agua y jabón + pomada de **mupirocina o ácido fusídico**.
+- **Enfermedad de Kawasaki**: fiebre > 5 días, manos y pies rojos e hinchados, lengua «aframbuesada», exantema y ganglio cervical; tratamiento con **inmunoglobulina IV y AAS** (es la excepción a la prohibición del AAS); **reposo** en la fase aguda; no necesita aislamiento.
 
 !! TEP: **sin tocar** al niño; el lado más importante es la **apariencia**.
 !! Paralizado o sedado: las escalas conductuales (FLACC, NIPS) **no valen**.

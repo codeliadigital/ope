@@ -229,7 +229,7 @@ window.OPE_TEMAS = [
   "programa": "Cuidados de enfermería en la infancia: valoración, crecimiento y desarrollo psicomotor. Programa de salud bucodental (PADI) y flúor. Higiene, sueño seguro, lactancia y alimentación complementaria. Prevención de accidentes y sistemas de retención infantil. Detección de malos tratos y protocolo de Murcia. Vacunación infantil. Promoción de hábitos saludables.",
   "preguntas": 50,
   "pdf": "resumenes/tema-29.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 30,
@@ -237,7 +237,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración del recién nacido enfermo; clasificación y cuidados del prematuro (NIDCAP, hemorragia intraventricular, retinopatía); insuficiencia respiratoria neonatal; enterocolitis necrotizante, atresia de esófago, estenosis de píloro y defectos de pared; deshidratación; ictericia y fototerapia, sepsis, abstinencia, dolor e hipoglucemia; problemas derivados de la hospitalización infantil.",
   "preguntas": 39,
   "pdf": "resumenes/tema-30.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 31,
@@ -245,7 +245,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración del niño hospitalizado (triángulo de evaluación pediátrica, constantes, dolor, Glasgow, PEWS). Bronquiolitis, asma, laringitis y cuerpo extraño. Cámara espaciadora. Deshidratación y fluidoterapia. Estenosis de píloro, apendicitis e invaginación. Meningitis y fiebre. RCP pediátrica, accesos vasculares e intraóseos, sondaje nasogástrico, punción lumbar y recogida de orina.",
   "preguntas": 52,
   "pdf": "resumenes/tema-31.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 32,
@@ -253,7 +253,7 @@ window.OPE_TEMAS = [
   "programa": "Cuidados en la adolescencia: pubertad y escala de Tanner, desarrollo psicosocial, entrevista HEEADSSS, PANA, marco legal y confidencialidad, nutrición. Trastornos de la conducta alimentaria: DSM-5, valoración, cribado, criterios de ingreso, síndrome de realimentación y cuidados. Prevención de hábitos tóxicos: ESTUDES, programas de Murcia, CRAFFT, alcohol, vapeo, cannabis, cocaína, hipnosedantes y ciberriesgos.",
   "preguntas": 35,
   "pdf": "resumenes/tema-32.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 33,
@@ -261,7 +261,7 @@ window.OPE_TEMAS = [
   "programa": "Planificación familiar, PIAM y Ley Orgánica 1/2023. Consejo anticonceptivo: índice de Pearl y criterios de elegibilidad de la OMS. Anticoncepción hormonal combinada y olvidos, solo gestágeno, implante, DIU, barrera, MELA, métodos naturales y esterilización. Anticoncepción de urgencia. Embarazo no deseado e IVE. Infecciones de transmisión sexual, PrEP, PEP, PERSEA y vacuna del VPH. Diagnósticos e intervenciones de enfermería. Programa CERCA.",
   "preguntas": 55,
   "pdf": "resumenes/tema-33.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 34,
@@ -269,7 +269,7 @@ window.OPE_TEMAS = [
   "programa": "Perspectiva de género en el proceso salud/enfermedad. Morbilidad diferencial: biología, medio ambiente, pobreza, violencia, condiciones de trabajo y salud ocupacional. Protocolo para la actuación sanitaria ante la violencia de género. Plan de Acción Regional contra la violencia de género. Detección y prevención de malos tratos en el niño, la mujer y el anciano.",
   "preguntas": 35,
   "pdf": "resumenes/tema-34.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 35,
