@@ -181,7 +181,7 @@ window.OPE_TEMAS = [
   "programa": "Alimentación y nutrición: nutrientes y clasificación de los alimentos. Elaboración de dietas y gasto energético. Dietas terapéuticas. Valoración, intervenciones y cuidados de enfermería a personas con problemas de desnutrición, deshidratación, anorexia, bulimia y obesidad. Soporte nutricional artificial.",
   "preguntas": 68,
   "pdf": "resumenes/tema-23.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 24,
@@ -189,7 +189,7 @@ window.OPE_TEMAS = [
   "programa": "Promoción de la actividad física y la alimentación equilibrada. Consejo dietético básico. Consejo dietético intensivo. Plan de actividad física individualizado y estandarizado en subgrupos poblacionales: anciano, anciano frágil, enfermedades crónicas y postoperatorio. Otros subgrupos de cuidado: embarazo, infancia y oncología.",
   "preguntas": 45,
   "pdf": "resumenes/tema-24.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 25,
@@ -197,7 +197,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería en personas con nutrición enteral y parenteral: desnutrición relacionada con la enfermedad, respuesta metabólica a la agresión, cribado y valoración nutricional, vías de acceso, sondas, verificación, tolerancia y cuidados de la nutrición enteral, fórmulas, nutrición parenteral periférica y central, seguridad, prevención de infecciones, complicaciones y síndrome de realimentación.",
   "preguntas": 66,
   "pdf": "resumenes/tema-25.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 26,
@@ -205,7 +205,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería en la mujer gestante: alimentación, higiene y cambios fisiológicos. Educación maternal. Problemas más frecuentes durante la gestación. Valoración y cuidados de enfermería en la puérpera: cambios fisiológicos y psicológicos. Lactancia natural.",
   "preguntas": 80,
   "pdf": "resumenes/tema-26.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 27,
@@ -213,7 +213,7 @@ window.OPE_TEMAS = [
   "programa": "Cuidados de la mujer en el climaterio: conceptos, fisiopatología, manifestaciones clínicas, valoración y escalas, plan de cuidados, tratamiento. Fomento de hábitos saludables. Educación para la salud individual y grupal y programa educativo. Cribados en Atención Primaria.",
   "preguntas": 58,
   "pdf": "resumenes/tema-27.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 28,
@@ -221,7 +221,7 @@ window.OPE_TEMAS = [
   "programa": "Adaptación extrauterina, atención inmediata en paritorio (piel con piel, clampaje, Apgar, profilaxis), valoración física y somatometría, Silverman-Anderson, edad gestacional (Capurro, Ballard), cuidados en planta y al alta, cribados neonatales (talón, hipoacusia, cardiopatías congénitas), crecimiento, reflejos arcaicos e hitos del desarrollo psicomotor.",
   "preguntas": 54,
   "pdf": "resumenes/tema-28.pdf",
-  "paginas": 7
+  "paginas": 8
  },
  {
   "n": 29,

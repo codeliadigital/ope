@@ -109,11 +109,11 @@
       "por": ["Caer en hilo es la textura néctar.", null, "Mantener la forma es la textura pudin.", "La consistencia del agua es líquido sin espesar."]
     },
     {
-      "q": "En la encefalopatía hepática grave y en la enfermedad renal crónica prediálisis suele pautarse una dieta:",
+      "q": "En la enfermedad renal crónica prediálisis suele pautarse una dieta:",
       "o": ["Hiperproteica", "Rica en fibra", "Hipoproteica", "Hipercalórica sin restricciones"],
       "a": 2,
-      "e": "Se restringen las proteínas (20-40 g/día) para reducir el amoniaco o la urea, asegurando calorías suficientes y proteínas de alto valor biológico.",
-      "por": ["La hiperproteica empeora el amoniaco o la urea.", "La fibra no es el criterio principal.", null, "Hacen falta calorías suficientes, pero con restricción proteica."]
+      "e": "Se restringen las proteínas (20-40 g/día, unos 0,6-0,8 g/kg) para no acumular urea, asegurando calorías suficientes y proteínas de alto valor biológico. En la cirrosis con encefalopatía, la guía ESPEN ya no restringe las proteínas.",
+      "por": ["La hiperproteica aumenta la urea.", "La fibra no es el criterio principal.", null, "Hacen falta calorías suficientes, pero con restricción proteica."]
     },
     {
       "q": "La dieta astringente que se pauta en una gastroenteritis aguda debe ser:",

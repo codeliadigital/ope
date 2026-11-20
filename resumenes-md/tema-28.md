@@ -5,10 +5,33 @@ pie: Recién nacido sano, cribados y desarrollo
 sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en paritorio (CPP, clampaje, Apgar, profilaxis), exploración y somatometría, Silverman, edad gestacional (Capurro, Ballard), cuidados al alta, cribados (talón, hipoacusia, cardiopatías), crecimiento, reflejos e hitos
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **RN / RNT / RNPT** | Recién Nacido / a Término / PreTérmino | |
+| **CPP** | Contacto Piel con Piel | |
+| **SENeo** | Sociedad Española de Neonatología | Reanimación neonatal |
+| **FC / FR / SpO₂ / PaO₂** | Frecuencia Cardiaca / Respiratoria / Saturación de oxígeno por pulsioximetría / Presión arterial de oxígeno | |
+| **PGE₂** | Prostaglandina E2 | Mantiene abierto el ductus |
+| **HBsAg / IGHB** | Antígeno de superficie de la hepatitis B / InmunoGlobulina de la Hepatitis B | |
+| **IM** | IntraMuscular | |
+| **SMSL** | Síndrome de Muerte Súbita del Lactante | |
+| **BRUE** | Episodio Breve Resuelto Inexplicado (*Brief Resolved Unexplained Event*) | |
+| **UCI** | Unidad de Cuidados Intensivos | |
+| **TSH / TIR** | Hormona estimulante del tiroides / Tripsina InmunoReactiva | Prueba del talón |
+| **MCADD / LCHADD / VLCAD** | Déficit de acil-CoA deshidrogenasa de cadena media / de 3-hidroxiacil-CoA de cadena larga / de acil-CoA de cadena muy larga | Errores de la oxidación de las grasas |
+| **HPLC** | Cromatografía líquida de alta resolución | |
+| **OEA / PEATC** | OtoEmisiones Acústicas / Potenciales Evocados Auditivos de Tronco Cerebral | Cribado de la sordera |
+| **TORCH / CMV** | Toxoplasma, Otros, Rubéola, Citomegalovirus, Herpes / CitoMegaloVirus | Infecciones congénitas |
+| **LATCH** | *Latch, Audible swallowing, Type of nipple, Comfort, Hold* | Escala de lactancia |
+| **TEP** | Triángulo de Evaluación Pediátrica | |
+| **OMS / SNS / SNC / ITU** | Organización Mundial de la Salud / Sistema Nacional de Salud / Sistema Nervioso Central / Infección del Tracto Urinario | |
+
 ## 1. Adaptación extrauterina
 
-- **Respiratoria**: el paso por el canal expulsa ≈ un tercio del líquido pulmonar; el resto se reabsorbe (canales de sodio). La primera inspiración la desencadenan estímulos **químicos** (hipoxia, hipercapnia, acidosis), **térmicos** y **táctiles**. El **surfactante** (fosfolípidos, sobre todo dipalmitoilfosfatidilcolina) lo sintetizan los **neumocitos tipo II**: evita el colapso alveolar al final de la espiración; se produce desde la semana **24** y madura hacia la **34-35**.
-- **Cardiovascular**: al ventilar y pinzar el cordón **cae la resistencia pulmonar y sube la sistémica**. Se cierran los tres shunts fetales:
+- **Respiratoria**: el paso por el canal expulsa ≈ un tercio del líquido pulmonar; el resto se reabsorbe (canales de sodio) y el surfactante **aumenta** (no disminuye). La primera inspiración la desencadenan estímulos **químicos** (hipoxia, hipercapnia, acidosis), **térmicos** y **táctiles**. El **surfactante** (fosfolípidos, sobre todo dipalmitoilfosfatidilcolina) lo sintetizan los **neumocitos tipo II**: evita el colapso alveolar al final de la espiración; se produce desde la semana **24** y madura hacia la **34-35**.
+- **Cardiovascular**: al ventilar y pinzar el cordón **cae la resistencia pulmonar y sube la sistémica**. Se cierran los tres shunts fetales (estructuras propias del feto; la **coartación de aorta es una malformación**, no una de ellas):
 
 | Shunt | Comunica | Cierre |
 |---|---|---|
@@ -25,7 +48,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 | **Convección** | Corrientes de aire | Cerrar puertas; sala de partos a **24-26 °C** |
 | **Conducción** | Contacto con superficies frías | Precalentar sábanas, báscula, fonendo |
 
-- **Digestiva y hepática**: intestino estéril, se coloniza en el parto; estómago de **10-20 ml**; reflujo fisiológico. Inmadurez de la **glucuroniltransferasa** (conjuga la bilirrubina indirecta) + más hematíes de vida más corta (90 días) → **ictericia fisiológica**.
+- **Digestiva y hepática**: intestino estéril, se coloniza en el parto; estómago de **10-20 ml**; reflujo fisiológico. Inmadurez de la **glucuroniltransferasa** (conjuga la bilirrubina indirecta) + más hematíes de vida más corta (90 días) → **ictericia fisiológica**, a expensas de la **bilirrubina no conjugada (indirecta)** (no del ácido úrico). La incompatibilidad de grupo con la madre causa ictericia precoz; se trata con **fototerapia**.
 
 | Ictericia **fisiológica** | Ictericia ==**patológica**== |
 |---|---|
@@ -37,9 +60,10 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 
 ## 2. Atención en la sala de partos
 
-- **Contacto piel con piel** inmediato en el RN vigoroso: en **prono** sobre el pecho materno, cubierto con un paño caliente. Beneficios: estabilidad cardiorrespiratoria, glucemia, **calor por conducción**, colonización por **flora materna**, **reptación al pecho** y lactancia precoz.
-- **Clampaje tardío**: cuando deja de latir el cordón (**1-3 min**): más volumen sanguíneo y **depósitos de hierro**; en prematuros menos hemorragia intraventricular y enterocolitis. **Inmediato** si el niño necesita **reanimación**, hay **desprendimiento de placenta** o rotura del cordón. Pinza a **2-3 cm** de la piel.
-- **Test de Apgar** (1952) al **1 y 5 minutos** (si < 7 a los 5 min, repetir cada 5 min hasta los 20). **No** sirve para decidir la reanimación (se decide en 30-60 s por apnea, boqueo o **FC < 100**) ni predice secuelas.
+- **Contacto piel con piel** inmediato en el RN vigoroso: en **prono** sobre el pecho materno, con la cabeza ladeada, **secando cabeza y espalda pero no las manos** (huelen a líquido amniótico y guían al pecho), con **gorro** y paño o manta caliente; **sin duración máxima**: al menos 1-2 h y sin interrumpir. Beneficios: estabilidad cardiorrespiratoria, glucemia, **calor por conducción**, colonización por **flora materna**, **reptación al pecho** y lactancia precoz.
+- **Clampaje tardío** (SENeo: **al menos 1 minuto**, de elección en RN a término y prematuros de cualquier edad, por parto vaginal o cesárea, si no necesitan reanimación inmediata): cuando deja de latir el cordón (**1-3 min**): más volumen sanguíneo y **depósitos de hierro**; en prematuros menos hemorragia intraventricular y enterocolitis. **Inmediato** si el niño necesita **reanimación**, hay **desprendimiento de placenta** o rotura del cordón. Pinza a **2-3 cm** de la piel.
+- **Test de Apgar** (1952) al **1 y 5 minutos** (si < 7 a los 5 min, repetir cada 5 min hasta los 20). **No** sirve para decidir la reanimación (se decide en 30-60 s por apnea, boqueo o **FC < 100**) ni predice secuelas. La **FC es el único dato numérico** (cuantitativo) del test.
+- **Reanimación**: el «**minuto de oro**» es el primer minuto, en el que se hacen la estabilización y la evaluación inicial y se empieza a ventilar y monitorizar. El pulsioxímetro va en la **mano derecha** (preductal). La vía de elección en la sala de partos es la **vena umbilical**.
 
 | Ítem | 0 | 1 | 2 |
 |---|---|---|---|
@@ -65,6 +89,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 - **Test de Silverman-Anderson** (dificultad respiratoria): **aleteo nasal**, **quejido espiratorio**, **tiraje intercostal**, **retracción xifoidea** y **disociación toracoabdominal** (**balancín** = 2 puntos). **0 = sin dificultad (lo mejor)**; 1-3 leve; 4-6 moderada; **7-10 grave**. Al revés que el Apgar.
 - **Piel**: **vérnix caseoso** (protector, no frotarlo), **lanugo** (más en prematuros), **mancha mongólica** (azulada lumbosacra, benigna), **eritema tóxico** (pápulas sobre base roja del 1.º al 3.er día, eosinófilos, benigno), **milium** (puntos blancos en nariz), **fenómeno de arlequín** (mitad del cuerpo roja y la otra pálida, vasomotor y transitorio), **cutis marmorata** (piel moteada con el frío).
 - **Boca**: **perlas de Epstein** (quistes blancos en la línea media del paladar) y **nódulos de Bohn** (en las encías), benignos y transitorios; los **dientes congénitos** pueden extraerse por riesgo de aspiración. **Craneotabes**: reblandecimiento de los huesos del cráneo, fisiológico en el RN.
+- **Deshidratación del RN** (por pérdida de peso): **leve < 5%**, **moderada 5-10%**, **grave > 10%**; **> 15%** puede dar **shock** hipovolémico.
 - **Fontanelas**: **anterior (bregmática)** romboidal, 2-4 cm, se cierra a los **12-18 meses**; **abombada** = hipertensión intracraneal/meningitis; **hundida** = **deshidratación**. **Posterior (lambdoidea)** triangular, se cierra a los **2-3 meses**.
 
 | | **Caput succedaneum** | **Cefalohematoma** |
@@ -95,11 +120,12 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 - **Ombligo**: **granuloma umbilical** (tejido rojo húmedo tras caer el cordón: **nitrato de plata**); **onfalitis** (enrojecimiento periumbilical, olor: antibiótico); **persistencia del uraco** (sale orina por el ombligo); **hernia umbilical** (se cierra sola, suele bastar esperar hasta los 3-5 años).
 - **Higiene**: **primer baño después de las 24 h** (preservar el vérnix); jabones syndet. Niñas: limpiar **de delante hacia atrás** (evitar ITU por *E. coli*).
 - **Sueño seguro (SMSL)**: **siempre boca arriba (supino)**; **nunca prono ni de lado** (el lateral rueda a prono). Colchón firme, cuna sin almohadas, peluches ni protectores; sin exceso de abrigo.
-- **Alimentación**: lactancia materna **exclusiva a demanda 6 meses**. Biberón: el polvo **no es estéril** (*Cronobacter sakazakii*): **agua hervida a ≥ 70 °C** al añadir el polvo; después enfriar.
+- **Alimentación**: lactancia materna **exclusiva a demanda 6 meses**. Buen inicio (GPC de lactancia): boca muy abierta (≈ 120°) con el labio inferior evertido, **más areola visible por encima** que por debajo y ganancia de **20-35 g/día desde el 4.º día**; los **ruidos de chupeteo** indican **mal agarre**. **Escala LATCH**: **5 áreas** (agarre, deglución audible, tipo de pezón —**plano = 1**—, comodidad y ayuda para colocarlo), cada una de **0 a 2**. Postura de **balón de rugby**: el bebé bajo el brazo de la madre, con los pies hacia su espalda (útil tras cesárea o con gemelos). **Anquiloglosia** (frenillo corto): se valora con la **herramienta de Hazelbaker**. Biberón: el polvo **no es estéril** (*Cronobacter sakazakii*): **agua hervida a ≥ 70 °C** al añadir el polvo; después enfriar.
 - **Vitamina D**: **400 UI/día** de D3 a todos los **menores de 12 meses** con lactancia materna o mixta (y en la práctica también con fórmula, salvo que tome > 1 litro al día).
 
 ## 6. Cribados neonatales
 
+- **Cartera común del SNS** (Orden SSI/2065/2014): **hipotiroidismo congénito, fenilcetonuria, fibrosis quística, MCADD, LCHADD, acidemia glutárica tipo I y anemia falciforme** (la **VLCAD no** estaba incluida; el autismo, obviamente, tampoco). **Murcia** tiene un **programa ampliado** con un panel secundario (incluye, entre otras, SCAD, tirosinemia tipo II, argininemia y el **déficit de biotinidasa**; según la plantilla del SMS 2019, la **deficiencia primaria de carnitina no** está en él).
 - **Prueba del talón**: entre las **48 y 72 h** de vida (con al menos 24-48 h de **ingesta proteica**: si es antes, **falsos negativos**; además se normaliza el pico de **TSH** del nacimiento). Murcia tiene un **programa ampliado** (Centro de Bioquímica y Genética Clínica).
 
 | Enfermedad | Marcador |
@@ -115,6 +141,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 - Resultado normal por **correo** (≈ 30 días). Es un **cribado, no un diagnóstico**: un positivo obliga a confirmar.
 - **Segunda muestra** (≈ 15 días o al alta): **prematuros < 37 semanas o < 1.500 g** (la TSH sube tarde), **transfundidos** (la sangre del donante enmascara; si se puede, tomar antes de transfundir) y **nutrición parenteral** (falsos positivos).
 - **Hipoacusia** (tratar antes de los 6 meses para no afectar al lenguaje):
+  - **Programa de Murcia**: el RN se da de **alta en el Registro Regional de Hipoacusias antes de las 48 h**; cada hospital con maternidad tiene su **Unidad Hospitalaria de Detección Precoz de Hipoacusias**; con factores de riesgo se hacen **otoemisiones y potenciales** (las dos). Signos de alarma a los **5 meses**: no se sobresalta ni parpadea con unas palmas, **no le tranquiliza la voz de la madre**, no emite sonidos guturales para llamar la atención («no girar la cabeza hacia sonidos cotidianos» es un signo de una edad posterior).
   - **Otoemisiones acústicas (OEA)**: rápidas y baratas; miden la **cóclea** (células ciliadas externas). **Primera línea en el RN sin riesgo**. **No detectan la neuropatía auditiva** (lesión retrococlear).
   - **Potenciales evocados de tronco (PEATC automatizados)**: recorren la vía hasta el tronco (onda V). **De entrada** en los niños con riesgo: **UCI neonatal > 5 días**, **< 32 semanas o < 1.500 g**, infecciones **TORCH (CMV)**, **exanguinotransfusión**, **meningitis**, **aminoglucósidos** (gentamicina).
 - **Cardiopatías congénitas críticas (pulsioximetría)**: con el niño tranquilo y caliente, hacia las **12-24 h** (siempre antes del alta). Sensor **preductal en la mano derecha** y **postductal en un pie**.
@@ -140,6 +167,7 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 | **Prensión palmar** | Cierra la mano sobre el dedo | ≈ 5-6 meses (necesario para coger voluntariamente) |
 | **Prensión plantar** | Flexiona los dedos del pie | **El más tardío**: ≈ 9-12 meses (antes de andar) |
 | **Galant** | Incurva el tronco al rozar junto a la columna | ≈ 3-4 meses |
+| **Tónico cervical asimétrico** (del **esgrimista**) | En supino, al girar la cabeza extiende el brazo de ese lado y flexiona el otro | Según el EIR **no está desde el nacimiento** (aparece en las primeras semanas); desaparece ≈ 6 meses |
 | **Deglución** | Traga | **No desaparece** |
 | **Landau** | Extiende tronco y cabeza en suspensión ventral | **No está al nacer**: **aparece a los 4 meses** y dura hasta el año o más |
 | **Paracaídas** | Extiende los brazos al caer hacia delante | **Aparece a los 6-9 meses** y **no desaparece** nunca |
@@ -153,6 +181,14 @@ sub: Resumen OPE Enfermería SMS · Adaptación extrauterina, atención en parit
 | **10-12 meses** | Se pone de pie y anda agarrado; **marcha libre ≈ 12 meses**; **pinza fina** (pulgar-índice); **señala con el índice**; **«mamá», «papá»** con sentido; **permanencia del objeto**. Si a los 12 meses no señala ni dice palabras: **derivar** (autismo, audición) |
 | **15-18 meses** | Marcha firme; torre de 3-4 cubos; bebe en vaso; **10-20 palabras**; usa la cuchara |
 | **2 años** | **Corre**, chuta, sube escaleras (dos pies por escalón); **frases de 2-3 palabras**; negativismo y **rabietas** |
+
+## Otras preguntas del test de este tema
+
+- **Hirschsprung** (megacolon agangliónico): **faltan las células ganglionares** de los plexos submucoso y mientérico del colon (retraso del meconio).
+- **Petequias en el paladar blando**: faringitis estreptocócica, rubéola, mononucleosis o **abuso sexual**; **no** la enfermedad de Lyme.
+- **BRUE**: episodio en un **menor de 1 año**, de **menos de 1 minuto**, ya resuelto y sin causa, con cianosis o palidez, respiración ausente o irregular, cambio marcado del tono o menor respuesta.
+- **Test de Hirschberg** (estrabismo): mira si el **reflejo de la luz en la córnea** es simétrico en los dos ojos. **Test de Adams** (escoliosis): al inclinarse hacia delante, una giba indica **rotación del tronco** (positivo).
+- **Triángulo de Evaluación Pediátrica** (apariencia, respiración y circulación): lactante activo, que responde, con Silverman 0 y solo **cutis marmorata** = **estable**.
 
 !! Al nacer la pérdida de calor principal es la **evaporación** (secar); ya seco en la cuna, la **radiación**.
 !! ==Ictericia en las **primeras 24 h** = **patológica**, siempre.==

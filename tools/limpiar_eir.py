@@ -17,6 +17,9 @@ FIX = {
     " Modelo de Kaiser Permanente": "",  # pie de figura (tema 2)
     " PROTOCOLO DE VACUNACIÓN FRENTE AL TÉTANOS": None,  # tabla del tétanos (tema 11)
     " MUESTRAS INDEPENDIENTES MUESTRAS APAREADAS": None,  # tabla de test estadísticos (tema 12)
+    " Clasificación de los edulcorantes CALÓRICOS": None,  # tabla de edulcorantes (tema 23)
+    " Escala visual de valoracion de flebitis": None,  # escala de flebitis (tema 25)
+    " Causas Factores de riesgo Atonía uterina": None,  # tabla de hemorragia posparto (tema 26)
 }
 
 
