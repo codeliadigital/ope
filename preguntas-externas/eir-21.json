@@ -34,7 +34,7 @@
     "Mide la distancia máxima que un individuo puede recorrer caminando durante 6 minutos, con intervalos de caminata-descanso de 1 minuto para completar los 6 minutos totales (caminar 1 minuto y descansar otro, hasta completar 6 minutos).",
     "Evalúa de forma integrada la respuesta de los sistemas respiratorio, cardiovascular, metabólico, músculo esquelético y neurosensorial al estrés impuesto por el ejercicio.",
     "El pasillo por el que se camina nunca debe estar en interiores y ha de tener superficie plana y con una distancia siempre superior a 30 m.",
-    "El embarazo es una contraindicación para la prueba, aunque debe hacerse una prueba adaptada (Pregnancy Modified 6 Minutes Test o PM3M) en los casos necesarios. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 490"
+    "El embarazo es una contraindicación para la prueba, aunque debe hacerse una prueba adaptada (Pregnancy Modified 6 Minutes Test o PM3M) en los casos necesarios."
    ],
    "a": 1,
    "src": "EIR"
@@ -76,7 +76,7 @@
   {
    "q": "La imagen 6 es de una curva flujo-volumen que corresponde a:",
    "o": [
-    "Una obstrucción bronquial unilateral del tronco principal. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 492",
+    "Una obstrucción bronquial unilateral del tronco principal.",
     "Una enfermedad pulmonar obstructiva crónica.",
     "Una obstrucción extratorácica variable.",
     "Una obstrucción intratorácica variable."

@@ -277,7 +277,7 @@ window.OPE_TEMAS = [
   "programa": "Cadena epidemiológica y mecanismos de transmisión. Hepatitis víricas, serología del VHB y vacunación. Tuberculosis: Mantoux, efecto booster, IGRA, tratamiento, toxicidad y recogida de esputo. VIH/SIDA y profilaxis postexposición ocupacional (VIH, VHB, VHC). IRAS: EPINE, Clostridioides difficile, SARM y código sepsis. Aislamientos. Hemocultivos, EPI y gestión de residuos.",
   "preguntas": 42,
   "pdf": "resumenes/tema-35.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 36,
@@ -285,7 +285,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a pacientes al final de la vida. Principales problemas. Dolor: características y escalas de medida. Duelo: tipos y manifestaciones. Apoyo al cuidador principal y familia. Valoración y cuidados de enfermería a pacientes con procesos crónicos.",
   "preguntas": 68,
   "pdf": "resumenes/tema-36.pdf",
-  "paginas": 4
+  "paginas": 6
  },
  {
   "n": 37,
@@ -293,7 +293,7 @@ window.OPE_TEMAS = [
   "programa": "Desarrollo de la conducta humana: etapas del desarrollo. Tipos de personalidad. Hábitos. Motivación. Factores socioculturales: su incidencia en la salud. Componentes psicosociales y de adaptación del paciente hospitalizado. Intervención de enfermería.",
   "preguntas": 44,
   "pdf": "resumenes/tema-37.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 38,
@@ -301,7 +301,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas de salud mental. Otras alteraciones psíquicas. Prevención y control ante el riesgo del suicidio. Valoración de la situación familiar y social. El apoyo al cuidador principal y familia. Drogodependencias. Plan Nacional sobre Drogas: generalidades.",
   "preguntas": 131,
   "pdf": "resumenes/tema-38.pdf",
-  "paginas": 4
+  "paginas": 7
  },
  {
   "n": 39,
@@ -309,7 +309,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas neurológicos: accidente cerebrovascular, epilepsia. Alzheimer y demencias. Otros problemas del sistema nervioso (Parkinson, esclerosis múltiple, ELA, miastenia, Guillain-Barré). Procedimientos y técnicas de enfermería (hipertensión intracraneal).",
   "preguntas": 71,
   "pdf": "resumenes/tema-39.pdf",
-  "paginas": 7
+  "paginas": 9
  },
  {
   "n": 40,
@@ -317,7 +317,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas respiratorios: insuficiencia respiratoria aguda, EPOC. Otros problemas broncopulmonares. Procedimientos de enfermería: oxigenoterapia y otras técnicas. Ventilación mecánica invasiva y no invasiva. Sistemas de oxigenación extracorpórea.",
   "preguntas": 93,
   "pdf": "resumenes/tema-40.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 41,

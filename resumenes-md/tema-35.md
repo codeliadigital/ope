@@ -5,9 +5,33 @@ pie: Procesos infectocontagiosos
 sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisión, hepatitis víricas y serología del VHB, vacunas, tuberculosis (Mantoux, booster, IGRA, tratamiento y toxicidad, esputo), VIH, profilaxis postexposición ocupacional, EPINE, C. difficile, SARM, código sepsis, aislamientos, hemocultivos, EPI y residuos
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **VHA, VHB, VHC, VHD, VHE** | Virus de la hepatitis A, B, C, D (delta) y E | |
+| **HBsAg / HBeAg** | Antígeno de superficie / antígeno «e» del VHB | Infección actual / replicación |
+| **Anti-HBs / anti-HBc / anti-HBe** | Anticuerpos frente a esos antígenos del VHB | Protección / contacto con el virus |
+| **PPD / BCG / IGRA** | Derivado proteico purificado (tuberculina) / vacuna de Calmette-Guérin / ensayos de liberación de interferón gamma | Diagnóstico de la tuberculosis (TB) |
+| **H, R, Z, E, S** | Isoniacida, rifampicina, pirazinamida, etambutol, estreptomicina | Fármacos antituberculosos |
+| **VIH / SIDA** | Virus de la inmunodeficiencia humana / síndrome de inmunodeficiencia adquirida | |
+| **TAR** | Tratamiento antirretroviral | |
+| **PPE / PrEP** | Profilaxis postexposición / profilaxis preexposición | Fármacos tras un riesgo / antes, en personas sin VIH |
+| **ITS / HSH** | Infección de transmisión sexual / hombres que tienen sexo con hombres | |
+| **IRAS** | Infecciones relacionadas con la asistencia sanitaria (antes «nosocomiales») | |
+| **EPINE** | Estudio de Prevalencia de las Infecciones Nosocomiales en España | |
+| **SARM / BLEE** | *Staphylococcus aureus* resistente a meticilina / betalactamasas de espectro extendido | Bacterias multirresistentes |
+| **qSOFA** | Escala rápida de fallo orgánico secuencial (siglas en inglés) | Cribado de sepsis |
+| **FR / PAS** | Frecuencia respiratoria / presión arterial sistólica | |
+| **EPI / FFP2-FFP3 / HEPA** | Equipo de protección individual / mascarillas filtrantes / filtro de aire de alta eficacia | |
+| **OMS / AAS / AINE** | Organización Mundial de la Salud / ácido acetilsalicílico / antiinflamatorios no esteroideos | |
+| **LCR** | Líquido cefalorraquídeo | Meningitis |
+
 ## 1. Cadena epidemiológica
 
 - **6 eslabones**: **agente** → **reservorio** → **puerta de salida** → **mecanismo de transmisión** → **puerta de entrada** → **huésped susceptible**. La prevención consiste en **romper** algún eslabón.
+- Versión clásica resumida (examen SMS 2023): **fuente de infección** (agente + reservorio), **mecanismo de transmisión** y **huésped susceptible (receptivo)**; la respuesta es «todas».
+- Propiedades del agente: **infectividad** = capacidad de **entrar y multiplicarse** en el huésped; **patogenicidad** = capacidad de **producir enfermedad** (examen SMS 2022); **virulencia** = **gravedad** de la enfermedad que produce.
 - **Contacto** (la vía nosocomial **más frecuente**): **directo** (piel con piel) o **indirecto** a través de **fómites** (objetos inanimados: barandillas, fonendo, teclados). Un **vector** es siempre un **ser vivo** (mosquito, garrapata).
 - **Gotas (Flügge)**: partículas **> 5 µm** que **caen** pronto, alcance **≈ 1 m** (hasta 2 m con tos).
 - **Aérea (núcleos de Wells)**: partículas **≤ 5 µm** que **quedan suspendidas** y viajan con las corrientes de aire.
@@ -23,6 +47,7 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
 | **D** (delta) | Como el B | Virus **defectivo**: necesita el **HBsAg** del VHB. **Coinfección** (a la vez) o **sobreinfección** (en un portador crónico: **más grave**) |
 
 - **A y E: entéricas y agudas**; **B, C y D: sanguíneas y pueden cronificar**.
+- Exámenes SMS 2019 y 2022: el VHC se transmite sobre todo por vía **parenteral**; la transmisión **sexual es poco frecuente** (falso que sea la más habitual). **No hay vacuna frente al VHC**. La **vacuna de la hepatitis B protege también de la D** (sin VHB no hay VHD). **Existen vacunas frente al VHE** seguras y eficaces, pero **no tienen una distribución amplia**.
 - **Serología del VHB**:
 
 | Marcador | Significado |
@@ -42,6 +67,9 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
 - *Mycobacterium tuberculosis* (bacilo de Koch): **aerobio**, **ácido-alcohol resistente**, prefiere zonas muy oxigenadas (**ápices** pulmonares).
 - **Infección latente**: bacilos encerrados en granulomas, **sin síntomas, radiografía normal y sin contagio**. **Enfermedad activa**: tos prolongada, hemoptisis, **fiebre vespertina**, **sudoración nocturna**, pérdida de peso; **contagiosa**.
 - **Mantoux** (detecta **infección**, no enfermedad): **0,1 ml de PPD intradérmico** en la **cara anterior del antebrazo**, **bisel hacia arriba** (pápula «piel de naranja»); no frotar ni tapar. **Lectura a las 48-72 h**: medir solo el **diámetro transversal de la induración** (no el eritema). Criterios del manual: **≥ 5 mm** en alto riesgo (VIH, inmunodeprimidos, **contactos recientes**), **≥ 10 mm** en riesgo intermedio (sanitarios, instituciones cerradas, países endémicos, drogas IV, < 4 años), **≥ 15 mm** sin riesgo. (En España se suele considerar positiva **≥ 5 mm**.)
+- Detalles de la técnica (examen SMS 2019): **0,1 ml = 2 unidades de tuberculina PPD RT23**, aguja de **26-27 G**, ángulo de **10-15°**; la induración se mide con la **técnica de Sokal** (deslizar un bolígrafo hasta que se frena en el borde). Si **no hay induración pero sí eritema > 10 mm**, la inyección fue **demasiado profunda**: se repite.
+- **Mal administrada** (se sale el líquido o no se forma la pápula): **repetir en el momento** a **≥ 5 cm** del primer punto y **anotar en la historia** dónde se hizo la segunda.
+- **Falsos negativos**: vacunas de virus vivos como la **triple vírica** (sarampión, rubeola, parotiditis) **el mismo día o en las 6 semanas anteriores** (examen SMS 2022; falso que den falsos positivos), inmunodepresión, infecciones víricas, técnica o lectura incorrectas. La lectura **nunca a las 24 h** y **nunca se mide el eritema**; la vía es **intradérmica** (no subcutánea).
 - **Efecto booster**: en infectados antiguos o **vacunados con BCG**, el primer Mantoux puede salir negativo; se **repite a las 1-3 semanas** y si entonces es positivo indica infección o vacunación **antigua**, **no una conversión reciente**. El PPD no sensibiliza a quien no está infectado.
 - **IGRA** (QuantiFERON): análisis de sangre que **no se altera con la BCG**.
 - **Tratamiento** de la enfermedad: **2HRZE + 4HR** (2 meses isoniacida, rifampicina, pirazinamida y etambutol; 4 meses isoniacida y rifampicina). Pauta corta de 4 meses con rifapentina y moxifloxacino. **Infección latente**: **6-9H**, **4R** o **3HP** semanal; profilaxis universal en VIH (tras descartar enfermedad).
@@ -61,6 +89,14 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
 ## 4. VIH y profilaxis postexposición
 
 - Retrovirus que infecta las células **CD4** (transcriptasa inversa). Fases: aguda (cuadro gripal), latencia clínica y **SIDA**: **CD4 < 200/mm³** o **enfermedad definitoria** (neumonía por *Pneumocystis*, toxoplasmosis cerebral, retinitis por CMV, candidiasis esofágica, tuberculosis extrapulmonar, **sarcoma de Kaposi** por VHH-8, linfoma cerebral, cáncer de cérvix invasivo). Transmisión **sexual, parenteral y vertical**.
+  - Examen SMS 2023: es definitoria la **tuberculosis pulmonar o extrapulmonar** (marca esta; el manual solo cita la extrapulmonar o diseminada). La **candidiasis orofaríngea no** es definitoria (la **esofágica** sí).
+  - **Inmunodepresión grave = CD4 < 200/mm³** (falso que sea < 500).
+- **Transmisión**: por **sangre, semen, flujo vaginal y leche materna**; **no por saliva**. La práctica sexual de **mayor riesgo** es el **coito anal receptivo sin preservativo**. La **circuncisión** hecha por sanitarios reduce ≈ **60%** el riesgo del hombre en relaciones heterosexuales (OMS). De madre a hijo: embarazo, parto y lactancia. La **sangre donada en España** se analiza y no supone riesgo. Con TAR y **carga viral indetectable** no se transmite por vía sexual (**indetectable = intransmisible**): pueden tener hijos de forma natural.
+- **Diagnóstico**: las pruebas de cribado (**ELISA o EIA**, técnicas inmunoenzimáticas) y el **Western Blot** (confirmación, más específico) son métodos **indirectos** (detectan **anticuerpos**); los **directos** detectan el virus (antígeno p24, PCR de carga viral). Con las pruebas actuales el **periodo ventana** para descartar la infección es de unas **6 semanas** (ya no 6 meses). La prueba exige **consentimiento** del paciente.
+- **A quién ofrecer la prueba** (guía de diagnóstico precoz del VIH): **a todas las embarazadas** de forma rutinaria, aunque no refieran riesgo; a quien quiere **dejar el preservativo con su pareja estable**; personas con ITS, HSH, parejas de personas con VIH, etc.
+- **TAR**: combinación de fármacos (habitualmente **3**) que se toma **de por vida** (si se deja, el virus vuelve a replicarse); objetivo: **carga viral indetectable** (< 50 copias/ml).
+- **Plan Estratégico para la Prevención y Control del VIH y las ITS en España 2021-2030**: la meta pasa de **90-90-90 a 95-95-95-95** (95% diagnosticados, 95% de ellos en TAR, 95% de estos con carga indetectable y un cuarto 95: **buena calidad de vida y sin estigma**).
+- **PrEP** (documento de consenso de 2018): personas **≥ 18 años** sin VIH (**hay que descartarlo antes**), **HSH y mujeres transexuales** (con los **mismos criterios**) que cumplan **al menos 2** en el **último año**: **> 10 parejas sexuales**, sexo anal sin preservativo, **uso de drogas relacionado con sexo sin protección** (*chemsex*), varias PPE o **al menos una ITS bacteriana**. **Seguimiento cada 3 meses** (no una vez al año): VIH, otras ITS y función renal.
 - **Accidente biológico**:
   - **Pinchazo o corte**: dejar **sangrar** sin exprimir, **lavar con agua y jabón**, antiséptico (povidona o **clorhexidina 2%**).
   - **Mucosas**: lavar con abundante **suero fisiológico o agua** (sin desinfectantes).
@@ -75,7 +111,7 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
 |---|---|---|
 | **Sarampión** | Paramixovirus | Catarro, conjuntivitis, **manchas de Koplik** (mucosa yugal); exantema **de la cabeza (detrás de las orejas) hacia abajo**; complicación más frecuente: **neumonía**. Aislamiento **aéreo** |
 | **Rubéola** | Togavirus | Exantema leve de 3 días, **adenopatías retroauriculares y occipitales**; **manchas de Forchheimer** (paladar blando). Grave en el **embarazo** (síndrome de rubéola congénita) |
-| **Varicela** | Virus varicela-zóster | Vesículas **en distintos estadios** («cielo estrellado»), pruriginosas, empieza en tronco y cuero cabelludo; contagia hasta que todas son **costra**. **Nunca AAS** (Reye) ni ibuprofeno |
+| **Varicela** | Virus varicela-zóster (**ADN bicatenario**, familia herpesvirus; el **ser humano es su único reservorio**; el 80-100% de los adultos jóvenes ya tiene anticuerpos) | Vesículas **en distintos estadios** («cielo estrellado»), pruriginosas, empieza en tronco y cuero cabelludo; contagia hasta que todas son **costra**. **Nunca AAS** (Reye) ni ibuprofeno |
 | **Megaloeritema (5.ª enfermedad)** | **Parvovirus B19** | **Mejillas rojas «abofeteadas»**, luego exantema reticulado en extremidades; artralgias; peligroso en el embarazo (hidrops) y en anemias hemolíticas |
 | **Exantema súbito (roséola, 6.ª)** | **Herpes virus 6** | **3 días de fiebre alta sin otros síntomas** y, **al bajar la fiebre**, exantema en tronco; < 2 años; puede dar **convulsión febril** |
 | **Escarlatina** | **Estreptococo β-hemolítico grupo A** | Faringoamigdalitis, **lengua aframbuesada** (blanca y luego roja), exantema áspero «**en papel de lija**» que blanquea, **líneas de Pastia** en pliegues, descamación posterior; **penicilina** |
@@ -114,6 +150,14 @@ sub: Resumen OPE Enfermería SMS · Cadena epidemiológica y vías de transmisi�
   - **Colocación** (en zona limpia, sin joyas, heridas tapadas): higiene de manos → **bata** → **mascarilla** (comprobar el ajuste) → **gafas o pantalla** → **guantes por encima del puño** (dobles si hay mucho riesgo).
   - **Retirada** (la fase de **más riesgo** de contagio): **guantes primero** (técnica de dar la vuelta, «guante dentro de guante») → higiene de manos → bata y protección ocular (sin tocar la cara externa) → **mascarilla la última, por las gomas y sin tocar el filtro** → **higiene de manos final**.
 - **Residuos** (Región de Murcia; ver Tema 19): **grupo I** asimilables a urbanos; **grupo II** **material de curas, gasas, guantes, pañales, sondas manchados pero sin líquido libre** (bolsa); **grupo III** de riesgo: **todo lo punzante o cortante**, **sangre y fluidos líquidos** (tubos, bolsas), cultivos, vacunas vivas, restos anatómicos pequeños → **contenedor rígido** con símbolo de riesgo biológico y **autoclave**; **citostáticos** → **contenedor azul** e **incineración** (el manual de este tema los numera grupo IV y cita el Decreto 28/1999; el del Tema 19, grupo VI).
+
+## Otras preguntas del test de este tema
+
+- **Varicela-zóster** (examen SMS 2019): la plantilla marca como **falsa** «endémico en población infantil» (en España se vacuna a los niños desde 2016).
+- **Meningitis aguda**: el LCR **nunca tiene la glucosa aumentada**. **Bacteriana**: turbio, **glucosa baja**, proteínas altas, neutrófilos. **Vírica**: **claro**, glucosa normal, proteínas algo altas, **células mononucleares** (linfocitos).
+- **Higiene hospitalaria** (examen SMS 2019, ver Tema 18): conjunto de medidas en el hospital para **prevenir infecciones** y riesgos de pacientes y profesionales. **Limpieza** = retirada **mecánica** de cualquier partícula, orgánica o inorgánica, con **agua y detergente o productos enzimáticos**.
+- **Enfermedad de von Willebrand**: el trastorno hereditario de la coagulación **más frecuente**; herencia **autosómica dominante** en la mayoría; falta o mal funcionamiento del **factor von Willebrand** (no del IX); suele dar sangrados **leves de piel y mucosas** (nariz, encías, reglas abundantes).
+- **Donación de sangre** (EIR): excluye hacer la **primera donación a partir de los 65 años**; **no** excluyen tomar **ansiolíticos** ni haberse puesto la **vacuna de la gripe** (inactivada) hace menos de una semana.
 
 !! Objeto inanimado = **fómite**; vector = ser vivo.
 !! Gotas **> 5 µm** (≈ 1 m); aérea **≤ 5 µm** (suspendidas).
