@@ -325,7 +325,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas cardiovasculares: insuficiencia cardiaca, infarto de miocardio, hipertensión arterial. Otros problemas cardiovasculares (valvulopatías, arteriopatía periférica, fibrilación auricular). Procedimientos y técnicas: ECG, presión arterial, monitorización hemodinámica y soporte vital avanzado.",
   "preguntas": 114,
   "pdf": "resumenes/tema-41.pdf",
-  "paginas": 5
+  "paginas": 9
  },
  {
   "n": 42,
@@ -333,7 +333,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas en el sistema renal: insuficiencia renal aguda. Otros problemas renales y urológicos. Procedimientos y técnicas de enfermería. Cateterismo vesical: concepto, indicaciones y contraindicaciones del sondaje vesical.",
   "preguntas": 86,
   "pdf": "resumenes/tema-42.pdf",
-  "paginas": 5
+  "paginas": 7
  },
  {
   "n": 43,
@@ -341,7 +341,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas en el sistema músculo-esquelético. Principales problemas del aparato locomotor (artrosis, artritis, osteoporosis, fracturas, síndrome compartimental). Procedimientos de enfermería: vendajes, inmovilizaciones, tracciones y ayudas a la marcha.",
   "preguntas": 70,
   "pdf": "resumenes/tema-43.pdf",
-  "paginas": 6
+  "paginas": 7
  },
  {
   "n": 44,
@@ -349,7 +349,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas gastrointestinales. Principales problemas del aparato digestivo (esófago, estómago, intestino, vía biliar, hígado y páncreas). Ostomías. Procedimientos: sondaje nasogástrico, enemas, fecalomas y recogida de muestras de heces.",
   "preguntas": 83,
   "pdf": "resumenes/tema-44.pdf",
-  "paginas": 8
+  "paginas": 10
  },
  {
   "n": 45,
@@ -357,7 +357,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas de los órganos de los sentidos (vista, oído, tacto, gusto y olfato). Principales problemas: glaucoma, cataratas, desprendimiento de retina, DMAE, defectos de refracción, Ménière, tapón de cerumen y neuropatía. Procedimientos: instilación de colirios, lavado ocular y lavado ótico.",
   "preguntas": 43,
   "pdf": "resumenes/tema-45.pdf",
-  "paginas": 7
+  "paginas": 8
  },
  {
   "n": 46,
@@ -365,7 +365,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas oncológicos. Principales problemas (mucositis, neutropenia febril, náuseas y vómitos, dolor, astenia, urgencias oncológicas). Procedimientos: accesos venosos centrales, administración y manipulación de citostáticos, extravasación, residuos y radioterapia.",
   "preguntas": 45,
   "pdf": "resumenes/tema-46.pdf",
-  "paginas": 6
+  "paginas": 7
  },
  {
   "n": 47,

@@ -5,6 +5,27 @@ pie: Oncología
 sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnofsky, HADS), TNM y grado, mucositis, neutropenia febril, NVIQ, dolor, astenia, NANDA, reservorio y PICC, citostáticos y antídotos, coadyuvantes, manipulación, derrames, extravasación, residuos, hipercalcemia, vena cava superior y radioterapia
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **ECOG** | Escala del Eastern Cooperative Oncology Group (0-5) | Estado funcional: más puntos = peor |
+| **MUST / MNA** | Herramienta universal de cribado de malnutrición / mininutritional assessment (anciano) | Nutrición |
+| **HADS** | Escala hospitalaria de ansiedad y depresión | |
+| **TNM / Tis** | Tumor, ganglios (*nodes*), metástasis / carcinoma *in situ* | Estadio del cáncer |
+| **RECIST** | Criterios de respuesta de los tumores sólidos | Si el tumor responde al tratamiento |
+| **NVIQ** | Náuseas y vómitos inducidos por la quimioterapia | |
+| **PICC** | Catéter central de inserción periférica | |
+| **SF / FEVI** | Suero fisiológico / fracción de eyección del ventrículo izquierdo | |
+| **5-FU** | 5-fluorouracilo | Citostático |
+| **G-CSF** | Factor estimulante de colonias de granulocitos (filgrastim) | Sube los neutrófilos |
+| **NK1 / 5-HT3** | Receptores de los antieméticos (aprepitant / ondansetrón) | |
+| **DMSO** | Dimetilsulfóxido | Antídoto tópico (antraciclinas) |
+| **NIOSH / INSST** | Instituto de seguridad laboral de EE. UU. / Instituto Nacional de Seguridad y Salud en el Trabajo | Listas de fármacos peligrosos |
+| **EPI / FFP2-FFP3** | Equipo de protección individual / mascarillas filtrantes | |
+| **TVP / TEP** | Trombosis venosa profunda / tromboembolismo pulmonar | |
+| **TMO / EICH** | Trasplante de médula ósea / enfermedad del injerto contra el huésped | |
+
 ## 1. Valoración
 
 - **Gordon** busca **cómo vive y afronta** el cáncer; **Henderson**, **qué no puede hacer por sí mismo** (dependencia y suplencia).
@@ -38,14 +59,17 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 
 ## 2. Nomenclatura, grado y estadio
 
+- **Prevención**: la **obesidad** se asocia con fuerza (World Cancer Report 2020) a cáncer de **esófago, colorrectal, riñón**, mama posmenopáusica, endometrio, páncreas, hígado... (la **vejiga no**). El **Código Europeo contra el Cáncer** recomienda cribados de mama, cérvix y colon, pero **no el PSA anual** para el de próstata.
+- Respuesta del tumor al tratamiento: **escala RECIST** (examen SMS).
 - **Carcinoma** (80-90%): epitelio, la «**cubierta**» (adenocarcinoma: glándulas; escamoso). **Sarcoma**: tejido conectivo, el «**soporte**» (osteosarcoma, liposarcoma). **Leucemia** (médula) y **linfoma** (linfático). **Melanoma**: melanocitos.
 - **Grado** (microscopio, diferenciación): **G1 bien diferenciado** (mejor pronóstico) → **G4 indiferenciado o anaplásico** (el más agresivo).
 - **Estadio TNM** (extensión): **T** tumor (**Tis = in situ: no rompe la membrana basal**, no metastatiza; el más curable), **N** ganglios (**N0 = limpios**), **M** metástasis (**M1 = estadio IV**).
 
 ## 3. Problemas principales
 
-- **Mucositis** (radioterapia de cabeza y cuello, **5-FU, metotrexato**): escala **OMS 0-4** (grado 4 = imposible comer). **Cepillo extrasuave** tras cada comida, hidratación labial, **crioterapia oral (hielo)** durante la infusión de algunos fármacos, enjuagues con **suero o bicarbonato**, **lidocaína viscosa** 15-30 min antes de comer; vigilar **candidiasis** (nistatina). **Evitar colutorios con alcohol** y **clorhexidina durante la radioterapia** de cabeza y cuello.
-- **Neutropenia febril** (urgencia): **neutrófilos < 500/mm³** (o < 1.000 con descenso previsto) + **fiebre > 38,3 °C** o **> 38 °C mantenida 1 h**. **Orden: 1.º hemocultivos** (periférico y de cada luz del catéter) → **2.º antibiótico empírico en la primera hora**. **Aislamiento protector** (inverso), lavado de manos, **sin plantas ni flores**, visitas sanas. **Dieta de baja carga bacteriana**: sin ensaladas crudas, fresas, uvas con piel, lácteos no pasteurizados ni quesos con moho. **Prohibido**: temperatura **rectal**, **enemas y supositorios**. **G-CSF** (filgrastim) subcutáneo.
+- **Mucositis** (radioterapia de cabeza y cuello, **5-FU, metotrexato**): escala **OMS 0-4** (**5 grados**, no 6): **0** normal; **1** eritema y dolor leve, sin úlceras; **2** eritema y **úlceras** pequeñas, **aún traga sólidos**; **3** úlceras extensas, **solo líquidos**; **4** **imposible comer** (nutrición enteral o parenteral). **Cepillo extrasuave** tras cada comida, hidratación labial, **crioterapia oral (hielo)** durante la infusión de algunos fármacos, enjuagues con **suero o bicarbonato**, **lidocaína viscosa** 15-30 min antes de comer; vigilar **candidiasis** (nistatina). **Evitar colutorios con alcohol** y **clorhexidina durante la radioterapia** de cabeza y cuello. NOC útiles para el deterioro de la mucosa oral (AECPAL, Asociación Española de Enfermería en Cuidados Paliativos): hidratación, severidad de los síntomas, satisfacción con el control de síntomas (**«restablecimiento de la salud bucal» no es un NOC**).
+- **Radioterapia de cabeza y cuello**: la complicación **más frecuente es la xerostomía** (boca seca: comida blanda y húmeda, humidificador); también **linfedema interno** (ronquera, disfagia, compromiso de la vía aérea) y disfagia tardía (aparece años después, infravalorada). El **trismo** (no poder abrir la boca) es **menos frecuente** (en la pregunta EIR, «más del 30%» es falso); ejercicios mandibulares y férulas.
+- **Neutropenia febril** (urgencia): **neutrófilos < 500/mm³** (o < 1.000 con descenso previsto) + **fiebre > 38,3 °C** o **> 38 °C mantenida 1 h**. **Orden: 1.º hemocultivos** (periférico y de cada luz del catéter) → **2.º antibiótico empírico en la primera hora**. **Aislamiento protector** (inverso), lavado de manos, **sin plantas ni flores**, visitas sanas. **Dieta de baja carga bacteriana** (en el **nadir**, el momento de defensas más bajas): **sin fruta fresca con piel ni verdura cruda**, fresas, uvas con piel, lácteos no pasteurizados ni quesos con moho. **Prohibido**: temperatura **rectal**, **enemas y supositorios**. **G-CSF** (filgrastim) subcutáneo.
 - **Náuseas y vómitos (NVIQ)**: **agudos** (< 24 h), **diferidos** (> 24 h; típicos del **cisplatino**) y **anticipatorios** (condicionados, antes de llegar). Comidas **pequeñas y frecuentes**, **frías o templadas** (el olor de la comida caliente empeora), líquidos **entre horas**, incorporado tras comer.
 - **Dolor oncológico** («**dolor total**» de **Cicely Saunders**: físico, psíquico, social y espiritual):
 
@@ -56,7 +80,8 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 | **Neuropático** | **Quemazón, descarga eléctrica**, hormigueo | Responde mal a opioides: **pregabalina, gabapentina, amitriptilina** |
 
 - Dolor **basal** (> 12 h/día; fármacos de liberación prolongada) e **irruptivo**: **incidental** (previsible: **rescate 15-30 min antes** de curas o movilización), **idiopático** (sin desencadenante) y **fallo de final de dosis** (reajustar la dosis basal). Los opioides producen **estreñimiento en casi el 100%** sin tolerancia: **laxante desde el primer día**.
-- **Astenia (fatiga) tumoral**: el **síntoma más frecuente**; **no mejora con el descanso**. **Conservación de energía** (planificar, priorizar, silla en la ducha) y **ejercicio aeróbico moderado**, **no reposo absoluto**; descartar **anemia**.
+- En los **niños con cáncer**, el dolor por el **tratamiento** viene de la **mucositis**, la propia quimioterapia, las punciones o la **enfermedad del injerto contra el huésped** (la **fiebre no** es una causa de dolor del tratamiento).
+- **Astenia (fatiga) tumoral**: el **síntoma más frecuente**; **no mejora con el descanso**. **Conservación de energía** (planificar, priorizar, silla en la ducha) y **ejercicio aeróbico moderado**, **no reposo absoluto**; descartar **anemia**. Para prevenir la **sarcopenia** (SEOM, Sociedad Española de Oncología Médica): **ejercicio aeróbico + actividad física diaria + ejercicios de fuerza (resistencia)**.
 
 ## 4. Diagnósticos NANDA clave
 
@@ -75,12 +100,14 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 
 ## 6. Citostáticos: toxicidades y cuidados
 
+- La quimioterapia puede ser **curativa, paliativa o coadyuvante**; los citostáticos **no son específicos** de las células tumorales: dañan también las que se dividen rápido (**médula ósea**, mucosas, piel, pelo) (examen SMS).
+
 | Fármaco | Toxicidad clave | Cuidado / antídoto |
 |---|---|---|
 | **Cisplatino** | **Nefrotoxicidad**, **ototoxicidad**, muy emetógeno (vómitos **diferidos**) | **Hiperhidratación**, diuresis forzada, Mg y K |
 | **Carboplatino** | **Mielosupresión** (trombopenia) | Hemograma |
 | **Oxaliplatino** | **Neurotoxicidad desencadenada por el frío** (disestesias, sensación de asfixia) | **Nada frío**: bebidas templadas, guantes para la nevera |
-| **Ciclofosfamida / ifosfamida** | **Cistitis hemorrágica** (acroleína) | **Mesna** + abundante diuresis |
+| **Ciclofosfamida / ifosfamida** | **Cistitis hemorrágica** (acroleína; p. ej. semanas después de un **trasplante de médula**) | **Mesna** + abundante diuresis |
 | **Metotrexato** | Mucositis, toxicidad renal y hepática | **Rescate con ácido folínico (leucovorina)**, alcalinizar la orina |
 | **5-FU / capecitabina** | **Síndrome mano-pie**, diarrea, mucositis | Cremas con urea, evitar fricción y calor |
 | **Citarabina** | **Toxicidad cerebelosa** | **Prueba de la firma** diaria |
@@ -114,7 +141,7 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 - **Extravasación**: **vesicantes** (necrosis: **antraciclinas, vinca**) frente a **irritantes** (flebitis: platinos, 5-FU). Prevención: no canalizar en flexuras, **no usar palomillas metálicas**, preferir vía central.
   1. **Parar la infusión** sin retirar el catéter.
   2. **Aspirar** el fármaco por la propia vía (jeringa pequeña, 3-5 ml) y después retirarla.
-  3. **No comprimir ni vendar**; **delimitar con rotulador** la zona; **elevar** el miembro.
+  3. **No comprimir ni vendar** (examen SMS); **delimitar con rotulador** la zona; **elevar** el miembro.
   4. **Calor seco + hialuronidasa** para **vincas y taxanos**; **frío + DMSO tópico / dexrazoxano IV** para **antraciclinas**.
 
 ## 9. Residuos (Decreto 48/2003, Región de Murcia)
@@ -131,6 +158,11 @@ sub: Resumen OPE Enfermería SMS · Valoración (Gordon, Henderson, ECOG, Karnof
 - **Síndrome de vena cava superior** (cáncer de pulmón, linfoma): **disnea, ingurgitación yugular, edema «en esclavina»** (cara, cuello, brazos). **Fowler**, **ninguna punción ni toma de TA en los brazos** (usar miembros inferiores), O₂, dexametasona. **Compresión medular**: dexametasona IV inmediata y **decúbito supino**.
 - **Radioterapia externa** (teleterapia): el paciente **no es radiactivo**. **Radiodermitis**: agua tibia y jabón neutro, **secar a toques**, ropa de algodón holgada; **sin perfumes, alcohol ni esparadrapo**; **cremas solo después** de la sesión, **nunca en las 2-3 h previas** (efecto *bolus*).
 - **Braquiterapia** (fuentes dentro del paciente): **sí emite radiación** mientras lleva el implante; habitación **plomada** individual. **Tiempo mínimo, distancia máxima (≥ 2 m) y blindaje**; **dosímetro** bajo el delantal; visitas breves (≈ 30 min a 2 m), **ni embarazadas ni menores de 18**. Ginecológica: **reposo en decúbito supino** y **sonda vesical permanente**. Si se cae la fuente: **nunca con las manos**, **pinzas de mango largo** y **contenedor plomado**.
+
+## Otras preguntas del test de este tema
+
+- **Vía subcutánea para líquidos (hipodermoclisis)**: deshidratación leve o moderada, **máximo unos 3.000 ml en 24 h repartidos en dos puntos**; zonas: abdomen, muslos, zona subclavicular, espalda (en la pregunta EIR, la **zona glútea no** está indicada). Si se usa para **medicación**, el punto **no se cambia de rutina**, solo si hay complicaciones.
+- **Signos de Menten** (agonía, últimos días): **livideces**, **nariz fría o pálida** y **extremidades frías**.
 
 !! ECOG **sube = peor**; Karnofsky **sube = mejor**. En cama **< 50% = ECOG 2**; **> 50% = ECOG 3**.
 !! HADS **excluye síntomas físicos**. MNA = **anciano**. Norton/Braden: **menos puntos, más riesgo**.

@@ -5,9 +5,24 @@ pie: Órganos de los sentidos
 sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del tacto, Snellen, Jaeger, Ishihara, otoscopia, Weber y Rinne, monofilamento, glaucoma, cataratas, desprendimiento de retina, DMAE, refracción, Ménière, tapón de cerumen, neuropatía, gusto y olfato, colirios, lavado ocular y ótico
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **CAE** | Conducto auditivo externo | |
+| **PIO** | Presión intraocular | Glaucoma |
+| **DMAE** | Degeneración macular asociada a la edad | Pérdida de la visión central |
+| **anti-VEGF** | Fármacos contra el factor de crecimiento de los vasos | Inyecciones en el ojo (DMAE húmeda) |
+| **AREDS2** | Fórmula de vitaminas y antioxidantes (del estudio del mismo nombre) | DMAE seca |
+| **PIRRLA** | Pupilas iguales, redondas, reactivas a la luz y a la acomodación | Exploración normal |
+| **VA / VO** | Vía aérea / vía ósea (de conducción del sonido) | Rinne |
+| **VPPB** | Vértigo posicional paroxístico benigno | Otolitos sueltos |
+| **SF6 / C3F8** | Gases (hexafluoruro de azufre / perfluoropropano) que se dejan en el ojo | Desprendimiento de retina |
+| **EPOC** | Enfermedad pulmonar obstructiva crónica | |
+
 ## 1. Anatomía clave y pares craneales
 
-- **Ojo**: capa externa **esclerótica + córnea** (la córnea es **avascular** y la de **mayor poder refractivo**); media **úvea** (iris, **cuerpo ciliar** que **produce el humor acuoso**, coroides); interna **retina**. El **cristalino** permite la **acomodación**.
+- **Ojo**: capa externa **esclerótica + córnea** (la córnea es **avascular** y la de **mayor poder refractivo**); media **úvea** (iris, **cuerpo ciliar** que **produce el humor acuoso**, coroides); interna **retina**. El **cristalino** permite la **acomodación**. El **limbo** es la zona donde se unen **esclerótica y córnea**.
 - **Conos**: visión **diurna, color y agudeza**, concentrados en la **mácula**. **Bastones**: visión **nocturna y periférica**.
 - **Oído**: externo (pabellón y CAE), medio (tímpano y huesecillos **martillo → yunque → estribo**), interno: **cóclea con el órgano de Corti** (audición) y **vestíbulo** (**canales semicirculares = rotación**; **utrículo y sáculo = posición y aceleración lineal**).
 
@@ -31,6 +46,7 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 | **Terminaciones libres** | **Dolor** (nociceptores) |
 
 - Sabores básicos: dulce, salado, ácido, amargo y **umami** (glutamato).
+- Para valorar **ojos y visión** se exploran **todos** los pares implicados (examen SMS): **II** (visión), **III, IV (patético) y VI** (movimientos y pupila), **V** (reflejo corneal) y **VII** (cerrar los párpados).
 
 ## 2. Valoración sensorial
 
@@ -43,6 +59,8 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 | **Ishihara** | **Visión del color** | Láminas de puntos; el defecto más frecuente: **rojo-verde** |
 | **Rejilla de Amsler** | Mácula | **Metamorfopsia** (líneas torcidas): DMAE |
 
+- **Agudeza visual en niños**: optotipos adaptados (dibujos de **Pigassou** o **Lea**, letras **HOTV**, la **«E» de Snellen**); el **test de Bayley no** mide la visión (es una escala de **desarrollo**).
+
 - **Otoscopia**: rectificar el conducto **traccionando el pabellón hacia arriba y atrás en el adulto** y **hacia abajo y atrás en el niño < 3 años**. Tímpano normal **gris perlado** y translúcido con **triángulo luminoso** en el **cuadrante anteroinferior** (si falta: abombamiento o líquido).
 - **Acumetría** con diapasón de **512 Hz**:
 
@@ -50,7 +68,7 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 |---|---|---|
 | **Weber** (vértex) | Lateraliza al ==**oído enfermo**== | Lateraliza al ==**oído sano**== |
 | **Rinne** (mastoides → CAE) | **Negativo** (vía ósea > vía aérea) | **Positivo** (VA > VO), igual que lo normal |
-| Ejemplos | **Tapón de cerumen**, otitis | Presbiacusia, Ménière, ototóxicos |
+| Ejemplos | **Tapón de cerumen**, **otitis media** (Weber al oído afectado y, en él, la vía ósea dura **igual o más** que la aérea) | Presbiacusia, Ménière, ototóxicos |
 
 - **Tacto** (pie diabético, quimioterapia con platinos o taxanos, alcoholismo, **isoniazida**): explorar con los **ojos cerrados**. **Monofilamento de Semmes-Weinstein 5.07 (10 g)**: perpendicular, hasta que se **doble en «C» durante 1 segundo**, evitando callosidades; si no lo nota = **pérdida de sensibilidad protectora (pie de riesgo)**. **Diapasón de 128 Hz** para la **sensibilidad vibratoria** (indicador **más precoz** de neuropatía).
 - **Olfato**: aromas conocidos (café, vainilla, menta), una fosa cada vez y ojos cerrados; **nunca amoníaco ni alcohol** (estimulan el **trigémino**, no el I par). **Gusto**: soluciones de sabores con hisopo y **enjuague entre pruebas**; causas: infecciones, tabaco, **déficit de zinc** o B12, quimioterapia.
@@ -67,8 +85,9 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 | Tratamiento crónico con colirios | **Midriasis media arrefléxica**; **náuseas y vómitos** (no confundir con un cuadro digestivo) |
 | | **Iridotomía periférica con láser**; **midriáticos contraindicados** |
 
+- Otros términos: **queratocono** = la **córnea central se adelgaza y abomba** progresivamente; **pseudofaquia** = ojo operado al que se ha quitado el cristalino y se ha puesto una **lente intraocular**.
 - **Cataratas**: **opacidad del cristalino**; pérdida de visión **progresiva e indolora**, deslumbramiento, colores apagados. Tratamiento: **facoemulsificación + lente intraocular**. Al alta: el leve enrojecimiento, la sensación de arenilla y la visión borrosa transitoria son esperables; limpiar con **suero y gasa estéril del ángulo interno al externo**; **no frotar** el ojo; **evitar Valsalva**, cargas y agacharse doblando la cintura **≈ 3 semanas**; **dormir boca arriba o sobre el lado no operado** con **protector rígido**; gafas de sol. Complicación más temida de toda cirugía ocular: **endoftalmitis** (dolor intenso + pérdida de visión).
-- **Desprendimiento de retina**: **regmatógeno** (por desgarro; el más frecuente; miopes magnos), **traccional** (**retinopatía diabética proliferativa**) y exudativo. Pródromos: **fotopsias** (destellos) y **miodesopsias** («moscas volantes»); después, **«telón o cortina negra»**. Cirugía urgente: cerclaje escleral, **vitrectomía**, láser o crioterapia y **taponador**: **gas (SF6, C3F8)** o **aceite de silicona** (suele requerir otra cirugía para retirarlo). Con gas: **posición estricta** indicada por el cirujano (a menudo **boca abajo**, «mirando al suelo») para que la burbuja flote contra la rotura; **prohibido volar o subir a gran altitud** mientras quede gas (**ley de Boyle**: se expande).
+- **Desprendimiento de retina**: **regmatógeno** (por desgarro; el más frecuente; miopes magnos), **traccional** (**retinopatía diabética proliferativa**) y exudativo. Pródromos: **fotopsias** (destellos) y **miodesopsias** («moscas volantes»; si aparecen solas, sin otra enfermedad: **gafas de sol**, **evitar mirar fondos claros** y **no seguirlas con la vista**); después, **«telón o cortina negra»**. Cirugía urgente: cerclaje escleral, **vitrectomía**, láser o crioterapia y **taponador**: **gas (SF6, C3F8)** o **aceite de silicona** (suele requerir otra cirugía para retirarlo). Con gas: **posición estricta** indicada por el cirujano (a menudo **boca abajo**, «mirando al suelo») para que la burbuja flote contra la rotura; **prohibido volar o subir a gran altitud** mientras quede gas (**ley de Boyle**: se expande).
 - **DMAE**: principal causa de **ceguera irreversible en > 65 años** en países desarrollados; **tabaco** = factor modificable principal (**cuadruplica** el riesgo). Pérdida de la **visión central** (**escotoma central**; no puede leer ni reconocer caras), metamorfopsia. **Seca (≈ 85%)**: **drusas**; sin tratamiento curativo: **AREDS2**, dieta mediterránea, omega-3, **luteína y zeaxantina**. **Húmeda**: **inyecciones intravítreas de anti-VEGF**; antisepsia con **povidona yodada al 5%** en el saco conjuntival; vigilar **PIO** y signos de **endoftalmitis** (48-72 h).
 
 | Defecto | Mecanismo | Clínica |
@@ -81,6 +100,7 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
 ## 4. Patología del oído
 
 - **Enfermedad de Ménière**: **hidrops endolinfático** (exceso de endolinfa; la rotura mezcla el **potasio** con la perilinfa). **Tríada**: **vértigo rotatorio + acúfenos graves + hipoacusia neurosensorial fluctuante** (al principio de **frecuencias bajas**). Crisis de **20 min a horas** con náuseas, vómitos y **nistagmo horizontal**. Crisis: **habitación en penumbra y silenciosa**, reposo, **barandillas**, antieméticos y sedantes vestibulares. Entre crisis: **dieta hiposódica** (pilar), evitar **glutamato monosódico**, cafeína, alcohol y tabaco, ingesta de agua regular. Vértigo **sin** hipoacusia → **neuronitis vestibular**.
+- **Vértigo posicional paroxístico benigno**: **otolitos** sueltos en un conducto semicircular; vértigo breve al **cambiar la cabeza respecto a la gravedad** (típicamente al **echarla hacia atrás con el oído afectado abajo**, al tumbarse o girarse en la cama). Se trata con **maniobras de recolocación** (Epley); posible complicación: que los otolitos **pasen a otro conducto** y den un nuevo vértigo.
 - **Tapón de cerumen**: el cerumen es **protector** (ácido, bacteriostático) y se produce en el **tercio externo** del CAE. Los **bastoncillos** lo empujan (**contraindicados**). Clínica: **hipoacusia de transmisión súbita**, típica **tras la ducha** (el agua hincha la cera), plenitud, **autofonía**, acúfenos y **tos refleja (nervio de Arnold)**.
 
 ## 5. Neuropatía, gusto y olfato
@@ -109,6 +129,12 @@ sub: Resumen OPE Enfermería SMS · Anatomía y pares craneales, receptores del 
   - **Técnica**: paciente **sentado** con la batea bajo la oreja; agua a **temperatura corporal (≈ 37 °C)** (fría o caliente → **vértigo, náuseas y nistagmo** por **reflejo calórico**); traccionar el pabellón **hacia arriba y atrás**; cánula a 5-8 mm; chorro hacia la **pared posterosuperior**, **nunca directo al tímpano**.
   - Si tras **3-4 intentos** no sale, **parar** y seguir con gotas unos días. Al terminar: **otoscopia** de control y **secado** del conducto.
   - **Diabéticos e inmunodeprimidos**: usar **suero estéril** (no agua del grifo: ***Pseudomonas*** → **otitis externa maligna**).
+
+## Otras preguntas del test de este tema
+
+- **Malformación de Arnold-Chiari**: el cerebelo baja por el agujero occipital; da el **síndrome del agujero occipital** (cefalea en la nuca, mareo...) y puede aparecer el **signo de Lhermitte** (descarga eléctrica por la espalda al flexionar el cuello).
+- **Silla turca** (donde está la hipófisis) = hueso **esfenoides**. Parálisis de **media lengua** = **hipogloso (XII par)**.
+- **Migraña frente a cefalea tensional**: la migraña se acompaña de **náuseas o vómitos**, o de **fotofobia y fonofobia**; la tensional no suele.
 
 !! Meissner **tacto fino**; Pacini **presión profunda y vibración**; Ruffini **calor**; Krause **frío**.
 !! Gusto: **VII** 2/3 anteriores, **IX** 1/3 posterior; olfato **I** (no amoníaco: estimula el **V**).
