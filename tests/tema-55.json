@@ -81,18 +81,18 @@
       "por": ["Eso es la prestación por cuidados en el entorno familiar.", "Eso es la prestación de asistencia personal.", "No es por renunciar a los servicios.", null]
     },
     {
-      "q": "Para ser reconocido como cuidador no profesional, se exige tener con la persona dependiente un parentesco por consanguinidad, afinidad o adopción:",
-      "o": ["Hasta el segundo grado", "Hasta el tercer grado", "Hasta el cuarto grado", "Sin límite de parentesco"],
-      "a": 1,
-      "e": "También debe ser mayor de 18 años, tener capacidad para cuidar y no ser dependiente. El tercer grado incluye tíos, sobrinos, bisabuelos y bisnietos.",
-      "por": ["El límite es el tercer grado.", null, "El cuarto grado no está incluido.", "Sí hay límite."]
+      "q": "Según la norma vigente (Real Decreto 1051/2013, modificado por el Real Decreto 675/2023), pueden ser cuidadores no profesionales los parientes por consanguinidad, afinidad o adopción:",
+      "o": ["Hasta el segundo grado", "Hasta el tercer grado", "Hasta el cuarto grado", "Solo el cónyuge y los hijos"],
+      "a": 2,
+      "e": "Desde 2023 valen el cónyuge o pareja de hecho, los parientes hasta el cuarto grado (primos hermanos incluidos) y personas del entorno propuestas por el dependiente. Antes el límite era el tercer grado, y así lo recoge todavía el manual. Además debe ser mayor de 18 años y no ser dependiente.",
+      "por": ["Se queda corto: el límite es el cuarto grado.", "Era el límite antes del RD 675/2023; ahora es el cuarto grado.", null, "Valen muchos más parientes y personas del entorno."]
     },
     {
-      "q": "Un anciano dependiente es cuidado por su primo hermano. ¿Cumple este el requisito de parentesco para ser cuidador no profesional?",
-      "o": ["No, porque los primos son parientes de cuarto grado", "Sí, porque es familia directa", "Sí, si convive con él", "Sí, porque es pariente de segundo grado"],
-      "a": 0,
-      "e": "La ley exige parentesco hasta el tercer grado inclusive. Los hermanos son de segundo grado y los tíos y sobrinos, de tercero.",
-      "por": [null, "No basta con ser familia: el primo es de cuarto grado.", "La convivencia no cambia el grado de parentesco.", "El primo no es de segundo grado."]
+      "q": "Un anciano dependiente es cuidado por su primo hermano. Según la norma vigente (Real Decreto 675/2023), ¿puede ser reconocido como cuidador no profesional?",
+      "o": ["No, porque solo valen los parientes hasta el tercer grado", "Sí, porque el primo hermano es pariente de cuarto grado y desde 2023 se admite hasta el cuarto grado", "Sí, porque el primo hermano es pariente de segundo grado", "No, porque solo puede serlo el cónyuge"],
+      "a": 1,
+      "e": "Los primos hermanos son parientes de cuarto grado. El Real Decreto 675/2023 amplió el límite del tercer al cuarto grado (y a personas del entorno). Si el anciano tiene grado II o III, el primo debe convivir con él.",
+      "por": ["Esa era la norma anterior a 2023 (la que aún cita el manual).", null, "Los hermanos son de segundo grado; los primos, de cuarto.", "También valen parientes y personas del entorno."]
     },
     {
       "q": "El plazo máximo para resolver el reconocimiento de la situación de dependencia y el programa individual de atención es de:",

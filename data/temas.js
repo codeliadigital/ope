@@ -421,7 +421,7 @@ window.OPE_TEMAS = [
   "programa": "Manejo de heridas y cuidados generales de la piel: cicatrización, preparación del lecho (TIMERS), escalas de riesgo, úlceras por presión, lesiones por humedad y por adhesivos, úlceras venosas y arteriales, pie diabético, úlceras neoplásicas y quemaduras.",
   "preguntas": 78,
   "pdf": "resumenes/tema-53.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 54,
@@ -429,7 +429,7 @@ window.OPE_TEMAS = [
   "programa": "Seguridad del paciente: conceptos, estrategia y prácticas seguras. Sistemas de notificación de incidentes (SiNASP). Calidad de la asistencia sanitaria: modelo de Donabedian, ciclo de mejora y dimensiones. Indicadores de calidad. Humanización de los servicios sanitarios (Proyecto HU-CI, comunicación de malas noticias).",
   "preguntas": 46,
   "pdf": "resumenes/tema-54.pdf",
-  "paginas": 3
+  "paginas": 4
  },
  {
   "n": 55,
@@ -437,7 +437,7 @@ window.OPE_TEMAS = [
   "programa": "Atención de enfermería a personas en situación de dependencia. Ley 39/2006, de 14 de diciembre: SAAD, grados, catálogo de servicios y prestaciones, cuidador no profesional y procedimiento. Instrumentos de valoración (BVD, EVE y escalas geriátricas). Coordinación sociosanitaria en la Región de Murcia.",
   "preguntas": 46,
   "pdf": "resumenes/tema-55.pdf",
-  "paginas": 3
+  "paginas": 5
  },
  {
   "n": 56,

@@ -5,6 +5,26 @@ pie: Formación de grado, especializada y continuada
 sub: Resumen OPE Enfermería SMS · EEES y créditos ECTS, Orden CIN/2134/2008, calificaciones (RD 1125/2003), conciertos (RD 1558/1986), figuras docentes, especialidades (RD 450/2005), residencia (RD 1146/2006), FSE (RD 183/2008), tutor y evaluación del residente, formación continuada (LOPS), acreditación y créditos CFC, diplomas de acreditación y carrera profesional del SMS
 ---
 
+## Siglas y leyes de este tema
+
+| Sigla o norma | Nombre completo | De qué va |
+|---|---|---|
+| **EEES** | Espacio Europeo de Educación Superior («Bolonia») | Títulos universitarios comparables en Europa |
+| **ECTS** | Sistema europeo de transferencia de créditos | Mide el trabajo del estudiante universitario |
+| **TFG** | Trabajo Fin de Grado | |
+| **LOPS (Ley 44/2003)** | Ley de ordenación de las profesiones sanitarias | Base de la formación de grado, especializada y continuada |
+| **Orden CIN/2134/2008** | Requisitos del título de Grado en Enfermería | 240 ECTS, módulos |
+| **RD 1125/2003** | Real Decreto del sistema de calificaciones universitarias | Notas de 0 a 10 y matrícula de honor |
+| **RD 1558/1986** | Real Decreto de conciertos universidad-instituciones sanitarias | Hospitales y centros de salud para la docencia |
+| **FSE / EIR / MIR** | Formación sanitaria especializada / enfermera interna residente / médico interno residente | La residencia |
+| **RD 450/2005** | Real Decreto de especialidades de enfermería | Las 7 especialidades |
+| **RD 1146/2006** | Real Decreto de la relación laboral especial de residencia | Contrato del residente |
+| **RD 183/2008** | Real Decreto de organización de la FSE | Unidades docentes, tutor, evaluación |
+| **CFC** | Crédito de formación continuada | Mide los cursos tras la titulación |
+| **RD 639/2015** | Real Decreto de diplomas de acreditación | Competencia en un área funcional |
+| **ABP / TIC** | Aprendizaje basado en problemas / tecnologías de la información y la comunicación | Metodologías y herramientas docentes |
+| **SMS** | Servicio Murciano de Salud | |
+
 ## 1. Formación de grado
 
 - Tras la **Declaración de Bolonia (1999)** y el **Espacio Europeo de Educación Superior (EEES)**, la diplomatura (3 años) pasó a **Grado en Enfermería**. La **Ley 44/2003, de ordenación de las profesiones sanitarias (LOPS)** es la base de la formación de los profesionales.
@@ -60,7 +80,7 @@ sub: Resumen OPE Enfermería SMS · EEES y créditos ECTS, Orden CIN/2134/2008, 
 
 - **Evaluación cualitativa** de una actividad para acreditarla: **objetivos**, **organización** (profesorado, recursos), **pertinencia** (necesidad real del sistema), **metodología** (se valora la docencia **activa**: simulación, ABP, talleres) y **evaluación** del aprendizaje. La realizan evaluadores externos; el diploma debe llevar el **logotipo**, el número de expediente y los créditos.
 - La formación continuada mejora la **seguridad del paciente** (más adherencia a protocolos, menos eventos adversos), reduce el desgaste del profesional y optimiza recursos.
-- Planes de formación de las áreas basados en la **detección de necesidades formativas**. La enfermera es **discente** y también **docente** (formación entre iguales, sesiones clínicas).
+- Planes de formación de las áreas basados en la **detección de necesidades formativas**. La enfermera es **discente** y también **docente** (formación entre iguales, sesiones clínicas). La formación que usa **las nuevas tecnologías e internet** para mejorar el aprendizaje se llama **e-learning** (SMS 2019).
 - **Diplomas de acreditación y de acreditación avanzada (RD 639/2015)**: certifican competencia en un **área funcional** (p. ej., cuidados paliativos); **no son una especialidad**.
 - **Carrera profesional** (reconocimiento del desarrollo profesional; LOPS y Estatuto Marco): en el SMS, **Ley 5/2001** de personal estatutario y acuerdos de la Mesa Sectorial; **grado inicial** al ser fijo y **niveles I a IV**, con **5 años** mínimos en el nivel anterior para ascender. Áreas valoradas: **actividad asistencial**, **formación** recibida, **docencia e investigación** (tutor EIR, colaborador docente, publicaciones) y **compromiso con la organización** (comisiones, grupos de mejora). En los niveles altos pesa más el papel de **docente e investigador**.
 
