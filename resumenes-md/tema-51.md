@@ -5,6 +5,33 @@ pie: Paciente trasplantado
 sub: Resumen OPE Enfermería SMS · Modelo español y marco legal, tipos de donante, muerte encefálica, mantenimiento del donante, donación tras PAM, KDPI, Child-Pugh y MELD, entrevista familiar (modelo Alicante), receptor renal, hepático y cardíaco, isquemia fría, rechazo, inmunosupresores, educación, TPH, aislamiento protector y transfusión
 ---
 
+## Siglas y leyes de este tema
+
+| Sigla / norma | Nombre completo | De qué va |
+|---|---|---|
+| **ONT** | Organización Nacional de Trasplantes | Coordina la donación en España |
+| **Ley 30/1979** | Ley de extracción y trasplante de órganos | Altruismo, gratuidad, consentimiento presunto |
+| **RD 1723/2012** | Real Decreto de obtención, utilización y coordinación de órganos | Criterios de muerte encefálica |
+| **ME** | Muerte encefálica | |
+| **LTSV / PAM** | Limitación del tratamiento de soporte vital / prestación de ayuda para morir (eutanasia) | Donación en asistolia controlada |
+| **CIOD** | Cuidados intensivos orientados a la donación | |
+| **PAM** (en las tablas de constantes) | Presión arterial media | Ojo: misma sigla que la ayuda para morir |
+| **PVC / PEEP** | Presión venosa central / presión positiva al final de la espiración | |
+| **ADH** | Hormona antidiurética | Su falta da diabetes insípida |
+| **KDPI** | Índice de perfil del donante renal (*Kidney Donor Profile Index*) | Calidad del riñón |
+| **MELD / Child-Pugh** | Escalas de gravedad de la enfermedad hepática | Lista de espera de hígado |
+| **INR** | Cociente internacional normalizado (coagulación) | |
+| **AINE** | Antiinflamatorios no esteroideos | Dañan el riñón |
+| **mTOR** | Diana de rapamicina (sirolimus, everolimus) | Grupo de inmunosupresores |
+| **TPH / TOS** | Trasplante de progenitores hematopoyéticos / de órgano sólido | |
+| **HLA** | Antígenos leucocitarios humanos | Compatibilidad donante-receptor |
+| **DMSO** | Dimetilsulfóxido | Conservante de las células congeladas |
+| **EICH** | Enfermedad del injerto contra el huésped | |
+| **NPT** | Nutrición parenteral total | |
+| **HEPA** | Filtro de partículas de alta eficacia | |
+| **TRALI / TACO** | Lesión pulmonar aguda por transfusión / sobrecarga circulatoria por transfusión | |
+| **CID** | Coagulación intravascular diseminada | |
+
 ## 1. Modelo español y marco legal
 
 - **ONT** (Organización Nacional de Trasplantes) coordina en tres niveles: nacional, autonómico y hospitalario. Principios: **altruismo, gratuidad, anonimato** entre la familia del donante y el receptor, y **equidad** en el acceso.
@@ -22,7 +49,7 @@ sub: Resumen OPE Enfermería SMS · Modelo español y marco legal, tipos de dona
   - **Test de apnea positivo**: sin respiración con **PaCO₂ > 60 mmHg**.
   - **Pruebas instrumentales** si hay dudas (EEG, Doppler, angiografía).
   - **Observación**: **6 h** en lesión destructiva conocida y **24 h** en la **anoxia**.
-- **Contraindicaciones absolutas**: **cáncer con capacidad de metástasis** (salvo algunos tumores del SNC, basocelular, carcinoma in situ de cérvix), **sepsis no controlada**, **VIH** fuera de protocolos, **priones** (Creutzfeldt-Jakob).
+- **Contraindicaciones absolutas**: **cáncer con capacidad de metástasis** (salvo algunos tumores del SNC (sistema nervioso central), basocelular, carcinoma in situ de cérvix; un **cáncer de próstata** hallado en el proceso **no** es un riesgo inaceptable según la clave EIR; pulmón, mama o leucemia sí), **sepsis no controlada**, **VIH** fuera de protocolos, **priones** (Creutzfeldt-Jakob).
 - **Cuidados intensivos orientados a la donación (CIOD)**: mantener el soporte vital en un daño cerebral catastrófico sin opción terapéutica para que la donación sea posible. Se evitan medidas que bajen la perfusión (hiperventilación intensa, manitol masivo).
 - **Fisiopatología de la ME**: **1.ª fase, tormenta simpática** (HTA y taquicardia extremas, reflejo de Cushing) → **2.ª fase, vasoplejía**: **hipotensión**, **bradicardia que no responde a la atropina** (no hay vago) y **poiquilotermia**.
 
@@ -100,8 +127,19 @@ sub: Resumen OPE Enfermería SMS · Modelo español y marco legal, tipos de dona
 ## 8. Aislamiento protector y transfusión
 
 - **Aislamiento protector (inverso)**: **presión positiva** (el aire sale de la habitación; la **presión negativa** es para pacientes **contagiosos** como la tuberculosis), **filtros HEPA** (≥ 99,97% de partículas de 0,3 µm; previenen la **aspergilosis**), muchas renovaciones de aire por hora. Limpieza **húmeda** (nunca barrer en seco) **de lo más limpio a lo más sucio**; **sin plantas ni flores**; **dieta de baja carga microbiana** (sin ensaladas crudas, frutas sin pelar, quesos sin pasteurizar); contacto telemático con la familia.
+- **TPH**: el **alogénico** necesita **aislamiento inverso (protector)** aunque la compatibilidad HLA sea alta (9/10). Por su **origen** es **autólogo, alogénico o singénico** (gemelo idéntico); «**mieloablativo**» no es un origen, es un tipo de **acondicionamiento** que **erradica la hematopoyesis** del receptor y le hace sitio en la médula. Los progenitores hematopoyéticos son células **multipotentes**.
 - **Hemoderivados**: concentrado de hematíes, **plaquetas** (pool leucodeplecionado), **plasma fresco** (factores de coagulación).
-- **Transfusión**: **doble comprobación** por dos profesionales a pie de cama; **quedarse con el paciente los primeros 15 min** con ritmo lento y constantes. **Hemolítica aguda**: fiebre, escalofríos, ==**dolor lumbar**==, orina oscura. **TRALI**: disnea e hipoxemia con ==**hipotensión**== (principal causa de muerte transfusional). **TACO**: sobrecarga de volumen con ==**hipertensión**==. Ante una reacción: **parar la transfusión, mantener la vía con SF y avisar** al médico y al banco de sangre.
+- **Compatibilidad**: el **plasma** va al revés que los hematíes: un receptor **A** recibe plasma **A** y, como segunda opción, **AB** (donante universal de plasma). Ejemplo: hematíes que aglutinan con anti-B y no con anti-A ni anti-D = **B negativo** → hematíes **B−** y plasma **AB**. Las **plaquetas** con **< 2 ml de hematíes** no exigen compatibilidad de grupo.
+- **Transfusión**: **doble comprobación** por dos profesionales a pie de cama; empezar a transfundir **en los 30 min** siguientes a sacarla de la nevera; **quedarse con el paciente los primeros 15 min** a ritmo lento (**unas 10 gotas/min**) con constantes. Una unidad de hematíes **no debe pasar de 4 h** (si hay riesgo de sobrecarga, se divide en alícuotas). **Pool de plaquetas** (300 ml) sin riesgo de sobrecarga: **600-900 ml/h** (20-30 min). Para prevenir el **TRALI**, **plasma de donantes varones** (se evita el de mujeres). **Hemolítica aguda**: fiebre, escalofríos, ==**dolor lumbar**==, orina oscura. **TRALI**: disnea e hipoxemia con ==**hipotensión**== (principal causa de muerte transfusional). **TACO**: sobrecarga de volumen con ==**hipertensión**==. Ante una reacción: **lo primero, parar la transfusión**, mantener la vía con SF (suero fisiológico) y avisar al médico y al banco de sangre. La reacción aguda **más grave** es la **hemolítica** (fiebre, **hematuria**, hipotensión, dolor lumbar).
+- **Vacunas**: la de herpes zóster **Shingrix (HZ/su)** está indicada desde los 18 años en **TOS** (o en lista de espera) y **TPH** de los últimos 2 años (no en toda la población > 65 años; SMS 2023).
+
+## Otras preguntas del test de este tema
+
+- **Manguito de isquemia**: contraindicado en **neuropatía periférica y enfermedad vascular periférica**; complicaciones: dolor, lesión nerviosa, daño cutáneo; no hay un tiempo «seguro» exacto. En el **bloqueo de Bier** se usa un manguito **doble** (no simple).
+- Símbolo de un **2 tachado** en un envase = **producto de un solo uso** (no reutilizable).
+- **Anemia regenerativa (periférica)**: la médula funciona y responde (p. ej., **hemorragia aguda**); las aplásicas, ferropénicas o por falta de B12 o fólico son centrales. **Síndrome mielodisplásico**: la anemia crónica **aumenta el gasto cardíaco**, da hipertrofia ventricular y riesgo coronario.
+- **Coagulopatía adquirida**: **CID**; la hemofilia A, la B (enfermedad de Christmas) y la de Von Willebrand son **congénitas**.
+- **Donación de sangre**: intervalo mínimo **2 meses**; máximo **4 al año en hombres y 3 en mujeres**; no más del **13%** del volumen sanguíneo; gastroscopia en los 2 meses previos = exclusión temporal; **diabéticos con insulina no pueden donar**; mejor **2 h** después de una comida copiosa; sí puede donar quien tuvo una **gripe resuelta hace un mes**; no los **menores de 18**, las mujeres **en los 6 meses tras el parto** ni quien tuvo un cáncer (salvo excepciones).
 
 !! Ley **30/1979** = consentimiento **presunto**, pero **siempre se pregunta a la familia**; **anonimato** absoluto.
 !! RD **1723/2012** = criterios de **muerte encefálica**; observación **6 h** (lesión destructiva) / **24 h** (anoxia).

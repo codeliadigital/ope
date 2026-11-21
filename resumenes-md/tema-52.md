@@ -5,6 +5,31 @@ pie: Paciente postquirúrgico
 sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, Aldrete y Bromage, posiciones, drenajes (Penrose, Kehr, Redón, Jackson-Pratt, sumidero), drenaje torácico, cicatrización, cierre de heridas, TIME, REEDA, terapia de presión negativa, abscesos, CMA y PADSS, cirugía menor, retirada de puntos, informe de continuidad, gestora de casos y Zarit
 ---
 
+## Siglas de este tema
+
+| Sigla | Nombre completo | De qué va |
+|---|---|---|
+| **URPA** | Unidad de recuperación postanestésica | |
+| **ERAS / RICA** | *Enhanced Recovery After Surgery* / Vía Clínica de Recuperación Intensificada en Cirugía del Adulto | Recuperación rápida tras la cirugía |
+| **TVP** | Trombosis venosa profunda | |
+| **AINE / NVPO** | Antiinflamatorios no esteroideos / náuseas y vómitos postoperatorios | |
+| **SNG** | Sonda nasogástrica | |
+| **PLS** | Posición lateral de seguridad | |
+| **HTIC / EAP** | Hipertensión intracraneal / edema agudo de pulmón | |
+| **PIA** | Presión intraabdominal | |
+| **TIME** | Tejido, Infección, humedad (*Moisture*), bordes (*Edge*) | Preparar el lecho de la herida |
+| **REEDA** | Enrojecimiento, Edema, Equimosis, Drenaje, Aproximación | Valorar la herida quirúrgica |
+| **DACC** | Cloruro de dialquilcarbamoilo | Apósito antimicrobiano |
+| **VAC** | Terapia de presión negativa (*vacuum assisted closure*) | |
+| **UPP** | Úlcera por presión | |
+| **CMA / PADSS** | Cirugía mayor ambulatoria / escala de alta a domicilio tras anestesia | |
+| **ASA** | Sociedad Americana de Anestesiología (riesgo I-VI) | |
+| **GLIM** | *Global Leadership Initiative on Malnutrition* | Criterios de desnutrición |
+| **ICEA** | Informe de cuidados de enfermería al alta | |
+| **NANDA / NOC / NIC** | Diagnósticos / resultados / intervenciones de enfermería | |
+| **SELENE / Ágora** | Historia clínica del hospital / visor de primaria (SMS, Servicio Murciano de Salud) | |
+| **PICC** | Catéter central de inserción periférica | |
+
 ## 1. Postoperatorio: fases y vigilancia
 
 | Fase | Dónde | Objetivos |
@@ -21,7 +46,10 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
   - **Movilización el mismo día (día 0)**.
   - **Sin SNG de rutina**; retirar pronto sondas y drenajes.
   - **Educación preoperatoria**: la ansiedad aumenta el cortisol y el catabolismo.
-- **Escala de Aldrete** (anestesia general): **actividad, respiración, circulación (PA), conciencia y coloración/SpO₂**, cada uno 0-2 (total 0-10); **alta de la URPA con ≥ 9**.
+  - **Sin preparación mecánica del colon**, salvo en cirugía de **recto** con posible **estoma de protección**.
+  - **Nutrición**: valoración completa con los **criterios GLIM**; si hay riesgo o desnutrición **grave**, tratamiento nutricional **al menos 7-10 días antes**.
+  - **Profilaxis antitrombótica** al menos **7 días** o hasta que camine (recomendación fuerte).
+- **Escala de Aldrete** (anestesia general): **actividad, respiración, circulación (PA), conciencia y SpO₂**, cada uno 0-2 (total 0-10); **alta de la URPA con ≥ 9**. En la **Aldrete modificada** la **SpO₂ sustituye a la coloración de la piel** (clave EIR: la coloración **no** se valora; el manual pone «coloración / SpO₂»). Un paciente que mueve 2 extremidades, con disnea, PA un 30% por debajo de la basal, que responde a la voz y necesita O₂ para saturar 92% **no llega a 9** → **sigue en la URPA**. Riesgo de **NVPO**: escala de **Apfel**.
 - **Escala de Bromage** (anestesia **raquídea o epidural**): bloqueo motor de las piernas: **0** eleva la pierna extendida (sin bloqueo) · 1 flexiona rodillas · 2 solo mueve pies · **3 bloqueo completo**. Para movilizar o dar el alta: ==**grado 0**==.
 
 | Posición postoperatoria | Indicación |
@@ -34,12 +62,15 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
 | **Antitrendelenburg** | Reflujo, cirugía cervical, isquemia de las piernas |
 | **Roser** (cuello en hiperextensión) | Traqueotomía, tiroides |
 | **Kraske / navaja** | Cirugía sacra y proctológica (pilonidal, hemorroides) |
+| **Lloyd Davies** (supino, rodillas flexionadas 30-45°, periné fuera de la mesa) | Cirugía de **colon izquierdo y recto** |
+
+- **Catéter venoso central yugular**: se canaliza en **Trendelenburg**. **Retirada de un PICC**: la clave EIR da **semi-Fowler o sentado** para evitar la embolia gaseosa.
 
 ## 2. Drenajes
 
 - Ideal: inerte, **radiopaco**, flexible y que no se colapse. **Profilácticos** (evitar hematoma o seroma) o **terapéuticos** (absceso, neumotórax).
 - **Pasivos por capilaridad**: **Penrose** (lámina de látex plana; se fija con un punto y un **imperdible estéril** para que no se introduzca en la cavidad; macera la piel), en cigarrillo (con gasa), Silastic.
-- **Pasivos por gravedad**: la bolsa siempre **por debajo** de la inserción. **Tubo en T de Kehr** (vía biliar tras explorar el colédoco): proteger la piel de la bilis (**pasta de zinc**); vigilar el débito; antes de retirarlo (días 10-21), **colangiografía** y **pinzamiento progresivo** (empezando en las comidas). Si al pinzar aparece **ictericia, coluria, acolia, dolor o fiebre** → **despinzar y avisar**.
+- **Pasivos por gravedad**: la bolsa siempre **por debajo** de la inserción. El **Kehr** es el ejemplo típico de drenaje **pasivo por gravedad** (SMS 2019 y EIR). **Tubo en T de Kehr** (vía biliar tras explorar el colédoco): proteger la piel de la bilis (**pasta de zinc**); vigilar el débito; antes de retirarlo (días 10-21), **colangiografía** y **pinzamiento progresivo** (empezando en las comidas). Si al pinzar aparece **ictericia, coluria, acolia, dolor o fiebre** → **despinzar y avisar**.
 - **Activos (aspirativos)**: **Redón** (alto vacío en frasco; cambiar el frasco o rehacer el vacío cuando se pierde), **Jackson-Pratt** (baja presión, bulbo en «pera» que la enfermera comprime antes de cerrar), **Saratoga** (sumidero de **doble luz**: una abierta al aire evita el **efecto ventosa**) y **Abramson** (triple luz: añade **lavado** continuo).
 
 ## 3. Drenaje torácico (tres cámaras)
@@ -51,6 +82,7 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
 | **Control de aspiración** (izquierda) | Limita la presión negativa (habitualmente **−20 cmH₂O**) | En modelos húmedos, el burbujeo aquí es **normal**: indica que la aspiración funciona |
 
 - **Siempre por debajo del tórax**, vertical; conexiones fijadas con bridas y **visibles** (sin tapar con esparadrapo). Muestras por el **puerto** con jeringa, **nunca desconectando**. «Ordeñar» los tubos solo con suavidad y según protocolo.
+- **Nivel del sello de agua elevado** = **presión negativa** en el tórax. **Sistemas de aspiración seca**: la succión se regula con un dial (no se añade agua); si **sube la presión intratorácica**, se aprieta el **botón de escape** de la parte superior hasta que el sello vuelve a su nivel.
 - **No pinzar de rutina** (ni para traslados ni para el aseo). Solo: **cambiar el sistema**, tras **instilar medicación** intrapleural, hemorragia masiva hasta llegar al quirófano y prueba previa a la **retirada (≈ 24 h)** por orden médica.
 - **Nunca pinzar con fuga aérea activa** (burbujeo) → **neumotórax a tensión** (disnea, hipotensión, desviación del mediastino) y **enfisema subcutáneo** (crepitación «de nieve»).
 
@@ -59,8 +91,10 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
 - Fases: **inflamatoria (días 1-4)**: hemostasia, neutrófilos y **macrófagos** (las células clave); **proliferativa (días 4-21)**: **fibroblastos**, **colágeno tipo III**, angiogénesis (granulación roja y brillante), contracción y epitelización; **maduración (día 21 a 1-2 años)**: **colágeno tipo I**; la cicatriz recupera como mucho el **80%** de la resistencia.
 - **Cierre por primera intención** (bordes limpios aproximados: sutura, grapas, adhesivos); **segunda intención** (herida abierta que **granula desde el fondo**: úlceras, abscesos); **tercera intención** o primario diferido (se deja abierta unos días por infección o edema y **después se sutura**).
 - **Cura en ambiente húmedo** con el esquema **TIME**: **T**ejido no viable (necrosis negra, esfacelos amarillos → **desbridamiento**: el **quirúrgico** es el más rápido; el **autolítico** con hidrogel, el más lento, selectivo e indoloro), **I**nfección (plata, cadexómero yodado, DACC), **M**oisture/humedad (**alginatos y espumas** si hay mucho exudado; **hidrogel** si está seca), **E**dge/bordes (proteger la piel perilesional; **epíbole** = borde enrollado que no avanza).
+- **Alteraciones de la cicatriz**: **queloide** = tejido fibroso que **sobrepasa los límites** de la herida; **hipertrófica** = elevada pero **dentro** de ellos; **dehiscencia** = los bordes se separan. Una **úlcera por presión** cierra por **segunda intención**.
+- **Suturas**: punto **colchonero horizontal** y **vertical**, **intradérmica continua** (estética, bajo la piel).
 - **Escala REEDA** (0-3 cada ítem; 0 = curación óptima): **R**edness/enrojecimiento, **E**dema, **E**quimosis, **D**ischarge/exudado, **A**proximación de los bordes.
-- **Terapia de presión negativa (VAC)**: esponja recortada **del tamaño exacto** de la herida (**sin tocar la piel sana**), film que sobrepase **3-5 cm**, presión habitual **−125 mmHg** continua al inicio. **Contraindicada** con **tejido necrótico** sin desbridar, **osteomielitis no tratada**, **fístulas no exploradas**, **vasos u órganos expuestos** y **cáncer** en el lecho.
+- **Terapia de presión negativa (VAC)**: esponja recortada **del tamaño exacto** de la herida (**sin tocar la piel sana**), film que sobrepase **3-5 cm**, presión habitual **−125 mmHg** continua al inicio. Su objetivo principal es **favorecer el tejido de granulación** (SMS 2023). **Contraindicada** con **tejido necrótico** sin desbridar, **osteomielitis no tratada**, **fístulas no exploradas**, **vasos u órganos expuestos** y **cáncer** en el lecho.
 - NANDA: **Deterioro de la integridad cutánea (00046)** = epidermis y dermis; **Deterioro de la integridad tisular (00044)** = planos profundos (incisión profunda, UPP III-IV). **Trastorno de la imagen corporal (00118)**: acercamiento progresivo a la herida, **expresión neutra** de la enfermera e implicación en las curas.
 - **Absceso**: incisión en la zona de máxima **fluctuación** siguiendo las **líneas de Langer**; romper los tabiques; lavar (con **agua oxigenada** si el pus es **fétido**, por anaerobios); **no suturar**: **mecha** y cierre por **segunda intención**.
 
@@ -88,7 +122,17 @@ sub: Resumen OPE Enfermería SMS · Fases del postoperatorio, URPA, ERAS/RICA, A
 
 - Continuidad de la **información, la relación y la gestión**. **Informe de cuidados de enfermería al alta (ICEA)**: lo hace la enfermera de planta; describe **necesidades de cuidados y dependencia** (no el diagnóstico médico) con lenguaje **NANDA-NOC-NIC** (Gordon o Henderson) e incluye la **conciliación de la medicación**. En el SMS se escribe en **SELENE** y se ve en primaria en **Ágora**; el paciente recibe **copia en papel**.
 - **Enfermera de enlace hospitalaria**: detecta al paciente complejo **durante el ingreso** y prepara el alta. **Enfermera gestora de casos comunitaria**: lo sigue en el **domicilio** y coordina recursos (pacientes crónicos complejos y con enfermedad avanzada; Barthel, Katz).
-- **Escala de Zarit** (sobrecarga del cuidador, 22 ítems): **< 47 sin sobrecarga**, **47-55 leve**, **≥ 56 intensa**.
+- **Escala de Zarit** (sobrecarga del cuidador, 22 ítems): **< 47 sin sobrecarga** (46 = sin sobrecarga; SMS 2023), **47-55 leve**, **≥ 56 intensa**.
+
+## Otras preguntas del test de este tema
+
+- **Raquídea frente a epidural**: la epidural va por **catéter** y sirve para el **dolor postoperatorio**; la raquídea es una **punción única** con menos anestésico y **no** sirve para la analgesia postoperatoria continua. Ambas pueden dar cefalea, retención urinaria e hipotensión.
+- **Presión intraabdominal**: **hipertensión intraabdominal si PIA ≥ 12 mmHg**.
+- **Marcaje de un estoma**: sobre el **músculo recto del abdomen**.
+- **Etiquetado de fármacos en quirófano**: colores con escala **Pantone**; **no usar «cc»**, sino «ml»; los **antagonistas** llevan **barras diagonales blancas** sobre el color del agonista. La medicación **intratecal o epidural no** va en etiqueta azul (el azul es de los opioides).
+- **Holter**: el paciente solo se lo quita en casa si es de **duración semanal**, para la higiene.
+- **Marcapasos transcutáneo sin función de desfibrilación**: parches en posición **anteroposterior** centrada.
+- **Prueba de la mesa basculante** (síncope): la respuesta positiva se clasifica con la **VASIS**.
 
 !! ERAS: líquidos claros **2 h** antes; tolerancia **sin esperar ruidos**; levantarse el **día 0**; sin SNG de rutina.
 !! ==Aldrete **≥ 9** para salir de la URPA; Bromage (raquídea) **grado 0** para movilizar.==

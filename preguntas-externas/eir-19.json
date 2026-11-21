@@ -63,7 +63,7 @@
    "src": "EIR"
   },
   {
-   "q": "Según la última Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad, ¿cuál es el orden correcto de prioridad en la evaluación inicial 433 URGENCIAS Y EMERGENCIAS básica (“ABC”) en el paciente extrahospitalario con traumatismo craneoencefálico (TCE)?:",
+   "q": "Según la última Guía de Manejo Rápido en las Emergencias Extrahospitalarias, del Ministerio de Sanidad, ¿cuál es el orden correcto de prioridad en la evaluación inicial básica (“ABC”) en el paciente extrahospitalario con traumatismo craneoencefálico (TCE)?:",
    "o": [
     "(A) Asegurar perímetro→ (B) Valorar estado de consciencia → (C) Coordinar equipo para atención o traslado.",
     "Vía (A)aérea permeable → Asegurar (B)Ventilación → Tratar alteraciones de la (C) Circulación.",
@@ -98,7 +98,7 @@
   {
    "q": "En el cálculo de la extensión de una quemadura según la regla de la palma de la mano, hay que considerar que:",
    "o": [
-    "La superficie que cubre la palma de la mano (incluyendo los dedos juntos y estirados) es el 1% de la superficie corporal total. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 434",
+    "La superficie que cubre la palma de la mano (incluyendo los dedos juntos y estirados) es el 1% de la superficie corporal total.",
     "La superficie que cubre la palma de la mano (sin incluir los dedos) es el 1% de la superficie corporal total.",
     "La superficie que cubre la palma de la mano (incluyendo los dedos juntos y estirados) es el 2% de la superficie corporal total.",
     "La superficie que cubre la palma de la mano (sin incluir los dedos) es el 2% de la superficie corporal total."
@@ -220,7 +220,7 @@
    "q": "Ante una anafilaxia por una reacción alérgica grave, que se instaura de forma rápida y que es potencialmente mortal en un adulto, ¿cuál es la vía, dosis y fármaco inicial de elección?:",
    "o": [
     "Vía intramuscular dosis 0,01 mg/kg de adrenalina, llegando a un máximo de 0,5 mg.",
-    "Vía intravenosa dosis 0,01 mg/kg de adrenalina, llegando a un máximo de 1 mg. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 438",
+    "Vía intravenosa dosis 0,01 mg/kg de adrenalina, llegando a un máximo de 1 mg.",
     "Vía intravenosa dosis 0,5 mg/kg de hidrocortisona, llegando a un máximo de máximo 200 mg.",
     "Vía intramuscular dosis 0,01 mg/kg de atropina, llegando a un máximo de 0,5 mg."
    ],
@@ -318,7 +318,7 @@
   {
    "q": "De las tres etapas en que se divide el shock (compensatoria, progresiva e irreversible), ¿cuáles son las características de la Respiración, Frecuencia Cardiaca (FC) y Tensión Arterial (TA) que corresponden a la etapa progresiva?:",
    "o": [
-    "Respiración rápida y con estertores; FC > 150 lpm; TA sistólica < 90 mmHg. 441 URGENCIAS Y EMERGENCIAS",
+    "Respiración rápida y con estertores; FC > 150 lpm; TA sistólica < 90 mmHg.",
     "Frecuencia respiratoria (FR) > 20 respiraciones por minuto; FC > 100 lpm; TA Normal.",
     "Respiración que requiere intubación y ventilación; FC errática; TA que requiere apoyo farmacológico.",
     "Respiración: FR normal; FC > 180 lpm; TA sistólica > 180 mmHg."
@@ -343,7 +343,7 @@
     "Garantizar una producción de orina de al menos 15-20 ml/h.",
     "Administración de oxígeno para todos los pacientes en shock, incluso para los que presenten una respiración adecuada.",
     "Colocar al paciente en posición de Trendelemburg, poniendo especial atención en garantizar una suficiente inclinación del tronco, especialmente en casos de shock cardiogénico.",
-    "Evitar la administración de opiáceos para reducir la depresión respiratoria. Compensatoria Progresiva Irreversible Presión arterial Normal PAS < 80-90 mmHg Necesidad de soporte mecánico o farmacológico Respiratorio F.R. >20x´ Respiración rápida y con estertores Intubación orotraqueal Frecuencia cardiaca > 100 x´ > 150 x´ Errática o asistolia Piel Fría y húmeda Marmórea, petequias Ictericia Diuresis Disminuida < 30 ml/hora Anuria Estado mental Confusión Letargo Inconsciencia Equilibrio ácido-base Alcalosis respiratoria Alcalosis metabólica Acidosis profunda PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 442"
+    "Evitar la administración de opiáceos para reducir la depresión respiratoria."
    ],
    "a": 1,
    "src": "EIR"
@@ -360,7 +360,7 @@
    "src": "EIR"
   },
   {
-   "q": "Un paciente es atendido en el Servicio de Urgencias con una sobredosis grave y potencialmente hepatotóxica por Paracetamol (Acetaminofén). La enfermera debe preparar la administraciónbdel antídoto específico. ¿Cuál es el antídoto de elección para esta intoxicación y cuál es la vía de administración preferente en el entorno hospitalario?:",
+   "q": "Un paciente es atendido en el Servicio de Urgencias con una sobredosis grave y potencialmente hepatotóxica por Paracetamol (Acetaminofén). La enfermera debe preparar la administración del antídoto específico. ¿Cuál es el antídoto de elección para esta intoxicación y cuál es la vía de administración preferente en el entorno hospitalario?:",
    "o": [
     "Flumazenil, administrado por vía oral (VO).",
     "Vitamina K, administrada por vía intravenosa (IV).",
@@ -453,7 +453,7 @@
    "q": "Basándonos en el Original Swiss System de estadificación para hipotermia accidental de la Comisión Internacional de Medicina de Emergencia de Montaña (ICAR MedCom), ¿qué temperatura central estimará para un paciente extraviado que rescata de una montaña a 2000 m de altitud, con una temperatura ambiente de 2 °C, sin lesiones aparentes, mal equipado y con alteración de la consciencia sin escalofríos?:",
    "o": [
     "Temperatura central estimada de 37-35 ºC.",
-    "Temperatura central estimada de < 32-28 ºC. 447 URGENCIAS Y EMERGENCIAS",
+    "Temperatura central estimada de < 32-28 ºC.",
     "Temperatura central estimada de < 28-24 ºC.",
     "Temperatura central estimada de < 24-13,7 ºC."
    ],
@@ -552,7 +552,7 @@
    "q": "Pregunta asociada a la imagen 3. Indique la opción INCORRECTA respecto a la maniobra correspondiente a la imagen:",
    "o": [
     "El reanimador se situará tras la cabeza del recién nacido.",
-    "La mascarilla facial no debe sobrepasar el mentón ni apoyarse sobre los globos oculares. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 450",
+    "La mascarilla facial no debe sobrepasar el mentón ni apoyarse sobre los globos oculares.",
     "Se colocará al recién nacido en decúbito supino con la cabeza en hiperextensión.",
     "Debe mantenerse un ritmo de 30 a 60 respiraciones/minuto."
    ],
@@ -610,7 +610,7 @@
     "La posición de elección para su colocación es la posición antero-lateral con el parche apical colocado al nivel de la posición del electrodo V6 del electrocardiograma.",
     "En pacientes con un dispositivo implantable (Marcapasos/DAI) el parche debe estar a 8 centímetros del dispositivo.",
     "En un ritmo desfibrilable refractario a la desfibrilación se puede considerar una posición alternativa de los parches (p.ej. posición anteroposterior).",
-    "En un paciente en decúbito prono la posición de los parches recomendada consiste en modificar el parche esternal y ponerlo en la espalda del paciente a la misma altura. 453 URGENCIAS Y EMERGENCIAS"
+    "En un paciente en decúbito prono la posición de los parches recomendada consiste en modificar el parche esternal y ponerlo en la espalda del paciente a la misma altura."
    ],
    "a": 3,
    "src": "EIR"
@@ -760,7 +760,7 @@
    "src": "EIR"
   },
   {
-   "q": "¿Cuándo está recomendada la administración de la primera dosis de adrenalina endovenosa en un paciente con Actividad Eléctrica Sin Pulso y con una temperatura de 28 ºC?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 458",
+   "q": "¿Cuándo está recomendada la administración de la primera dosis de adrenalina endovenosa en un paciente con Actividad Eléctrica Sin Pulso y con una temperatura de 28 ºC?:",
    "o": [
     "En cuanto se disponga de un acceso vascular.",
     "Tras reanimar y calentar a la víctima hasta conseguir una temperatura ≥ 30 ºC.",

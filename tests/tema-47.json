@@ -225,7 +225,7 @@
       "q": "En el esquema de zonas de inyección de insulina, la zona coloreada en verde (abdomen) es la de absorción:",
       "o": ["Más lenta", "Intermedia", "Nula", "Más rápida"],
       "a": 3,
-      "e": "Velocidad de absorción: abdomen (rápida) > brazos > muslos > nalgas (lenta). Rotar dentro de la misma zona, separar los pinchazos ≈ 1 cm y respetar 2-3 cm alrededor del ombligo para evitar lipodistrofias.",
+      "e": "Velocidad de absorción: abdomen (rápida) > brazos > muslos > nalgas (lenta). Rotar dentro de la misma zona, separar los pinchazos ≈ 1 cm y respetar 5 cm alrededor del ombligo para evitar lipodistrofias.",
       "img": "img/preguntas/t47-insulina.jpg",
       "por": ["La más lenta es la nalga.", "Intermedia es el brazo.", "Sí se absorbe.", null]
     }

@@ -373,7 +373,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería a personas con problemas endocrinológicos. Diabetes mellitus: diagnóstico, complicaciones agudas y crónicas, pie diabético, insulinoterapia y educación. Otros problemas: tiroides, suprarrenales, paratiroides e hipófisis. Procedimientos y técnicas de enfermería.",
   "preguntas": 78,
   "pdf": "resumenes/tema-47.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 48,
@@ -381,7 +381,7 @@ window.OPE_TEMAS = [
   "programa": "Conceptos de urgencia y emergencia. Sistemas de respuesta a la urgencia y emergencia (Gerencia 061 de la Región de Murcia). Clasificación de pacientes en urgencias: RAC, sistemas de triaje estructurado (ESI, Manchester, SET-MAT) y triaje en incidentes de múltiples víctimas.",
   "preguntas": 49,
   "pdf": "resumenes/tema-48.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 49,
@@ -389,7 +389,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería ante situaciones críticas: politraumatizados, quemados, shock e intoxicaciones. Otras situaciones críticas: síndrome coronario agudo, edema agudo de pulmón, crisis hipertensivas, estatus epiléptico, anafilaxia, donación en asistolia y parada cardiorrespiratoria.",
   "preguntas": 110,
   "pdf": "resumenes/tema-49.pdf",
-  "paginas": 6
+  "paginas": 8
  },
  {
   "n": 50,
@@ -397,7 +397,7 @@ window.OPE_TEMAS = [
   "programa": "Valoración y cuidados de enfermería del paciente quirúrgico en el preoperatorio (valoración, preparación, ayuno, medicación, consentimiento) y en el intraoperatorio (bloque quirúrgico, listado de verificación, funciones de enfermería, monitorización, posiciones, seguridad, asepsia, instrumental, suturas y anestesia).",
   "preguntas": 79,
   "pdf": "resumenes/tema-50.pdf",
-  "paginas": 7
+  "paginas": 9
  },
  {
   "n": 51,
@@ -405,7 +405,7 @@ window.OPE_TEMAS = [
   "programa": "El paciente trasplantado: valoración y cuidados del donante (muerte encefálica y asistolia) y del receptor (renal, hepático, cardíaco). Rechazo e inmunosupresión. Acondicionamiento en el trasplante de progenitores hematopoyéticos. Aislamiento protector. Atención a la familia del donante.",
   "preguntas": 52,
   "pdf": "resumenes/tema-51.pdf",
-  "paginas": 4
+  "paginas": 5
  },
  {
   "n": 52,
@@ -413,7 +413,7 @@ window.OPE_TEMAS = [
   "programa": "Cuidados de enfermería en pacientes postquirúrgicos: vigilancia postanestésica, recuperación intensificada, drenajes quirúrgicos y torácicos, cicatrización y curas, terapia de presión negativa, cirugía mayor ambulatoria, cirugía menor y continuidad de cuidados al alta.",
   "preguntas": 54,
   "pdf": "resumenes/tema-52.pdf",
-  "paginas": 5
+  "paginas": 6
  },
  {
   "n": 53,

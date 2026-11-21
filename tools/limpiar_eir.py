@@ -20,6 +20,21 @@ FIX = {
     " Clasificación de los edulcorantes CALÓRICOS": None,  # tabla de edulcorantes (tema 23)
     " Escala visual de valoracion de flebitis": None,  # escala de flebitis (tema 25)
     " Causas Factores de riesgo Atonía uterina": None,  # tabla de hemorragia posparto (tema 26)
+    " TIPOS DE INSULINA Y SUS CARACTERÍSTICAS PRINCIPALES": None,  # tabla de insulinas (tema 47)
+    " Compensatoria Progresiva Irreversible Presión arterial": None,  # tabla de fases del shock (tema 49)
+    " Grupo terapéutico Ejemplo Color Pantone": None,  # tabla de colores de jeringas (tema 50)
+    " PREGUNTA 166": "",  # rótulo del libro (tema 47)
+    " PREGUNTA 190": "",  # rótulo del libro (tema 50)
+    # palabras pegadas o letras perdidas (temas 47, 49, 50, 51)
+    "eldormitorio": "el dormitorio",
+    "ambienteseco": "ambiente seco",
+    "hayacicatrizado": "haya cicatrizado",
+    "administraciónbdel": "administración del",
+    "una enf rmera": "una enfermera",
+    "grupo sanguíneo By que": "grupo sanguíneo B– y que",
+    "el receptor es By el": "el receptor es B– y el",
+    "del grupo By plasma": "del grupo B– y plasma",
+    "del grupo 0y plasma": "del grupo 0– y plasma",
 }
 
 

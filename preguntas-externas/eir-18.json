@@ -40,7 +40,7 @@
    "src": "EIR"
   },
   {
-   "q": "¿Qué periodo de ayuno desde la última toma debemos considerar para un lactante con lactancia materna exclusiva que va a ser sometido a una prueba diagnóstica bajo sedación?: PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 398",
+   "q": "¿Qué periodo de ayuno desde la última toma debemos considerar para un lactante con lactancia materna exclusiva que va a ser sometido a una prueba diagnóstica bajo sedación?:",
    "o": [
     "Dos horas de ayuno desde la última toma.",
     "De tres a cuatro horas de ayuno.",
@@ -73,7 +73,7 @@
    "src": "EIR"
   },
   {
-   "q": "¿Cuál es la respuesta INCORRECTA respecto al ayuno preoperatorio en cirugía electiva de adultos?: 399 PACIENTE QUIRÚRGICO",
+   "q": "¿Cuál es la respuesta INCORRECTA respecto al ayuno preoperatorio en cirugía electiva de adultos?:",
    "o": [
     "Los líquidos claros pueden ser ingeridos hasta 2 horas antes de la intervención.",
     "La ingesta de una comida ligera puede realizarse 6 horas antes, y si lleva fritos, grasa o carne, hasta un mínimo de 8 horas.",
@@ -194,12 +194,12 @@
    "src": "EIR"
   },
   {
-   "q": "Durante la preparación del campo operatorio, una enf rmera aplica clorhexidina alcohólica al 2% y, tras 30 segundos, el cirujano inicia la incisión. Posteriormente se detecta combustión superficial en la piel por ignición del electrobisturí. Según las recomendaciones del Ministerio de Sanidad y la OMS, ¿qué error contribuyó al evento?:",
+   "q": "Durante la preparación del campo operatorio, una enfermera aplica clorhexidina alcohólica al 2% y, tras 30 segundos, el cirujano inicia la incisión. Posteriormente se detecta combustión superficial en la piel por ignición del electrobisturí. Según las recomendaciones del Ministerio de Sanidad y la OMS, ¿qué error contribuyó al evento?:",
    "o": [
     "No utilizar povidona yodada.",
     "Usar un campo quirúrgico textil en vez de desechable.",
     "No respetar el tiempo mínimo de secado del antiséptico antes de la incisión.",
-    "No considerar el empleo de glutaraldehído como desinfectante de la piel. PREGUNTA 190"
+    "No considerar el empleo de glutaraldehído como desinfectante de la piel."
    ],
    "a": 2,
    "src": "EIR"
@@ -230,7 +230,7 @@
   {
    "q": "Dentro del proceso asistencial descrito en la Vía Clínica de Recuperación intensificada de Cirugía del Adulto (2020), ¿qué actividad se considera desactualizada durante el preoperatorio?:",
    "o": [
-    "Ayuno antes de la inducción anestésica: 8 horas sólido y 4 horas líquido claro. 405 PACIENTE QUIRÚRGICO",
+    "Ayuno antes de la inducción anestésica: 8 horas sólido y 4 horas líquido claro.",
     "Suplemento de bebida carbohidratada 2 horas antes de la intervención.",
     "Administración de 1 dosis de glucocorticoides.",
     "Evitar, en la medida de lo posible, la eliminación de vello."
@@ -468,7 +468,7 @@
    "o": [
     "En caso de recuento incorrecto, como primera opción se realizará una radiografía del área de la cirugía.",
     "Si se realiza un taponamiento por sangrado, se hará con compresas con contraste, anotando el número de compresas que quedan dentro del paciente para que en una posterior reintervención no existan errores.",
-    "No se deben cortar las gasas y compresas con contraste ni retirar el hilo radiológico de las mismas. 415 PACIENTE QUIRÚRGICO",
+    "No se deben cortar las gasas y compresas con contraste ni retirar el hilo radiológico de las mismas.",
     "En el recuento se incluyen: gasas, compresas, paños de tela, torundas, lentinas, instrumental, instrumentos corto-punzantes y todo aquello que pueda quedarse olvidado en una cavidad del paciente."
    ],
    "a": 0,
@@ -519,7 +519,7 @@
    "src": "EIR"
   },
   {
-   "q": "¿Cuándo se debe administrar la profilaxis antibiótica al paciente que se va someter a una cirugía?: 417 PACIENTE QUIRÚRGICO Grupo terapéutico Ejemplo Color Pantone Benzodiazepinas Diazepam, Midazolam Naranja 151 Antagonistas de las benzodiazepinas Flumazenilo Naranja 151, con barras blancas diagonales Inductores anestésicos Tiopental, Propofol, Ketamina Amarillo Relajantes neuromusculares no despolarizantes Vecuronio, Atracurio Rojo 811 Antagonistas de relajantes neuromusculares no desporalizantes Neostigmina, Sugammadex Rojo 811, con barras diagonales blancas Relajantes neuromusculares despolarizantes Succinilcolina Parte superior: nombre en rojo 811, sobre fondo negro Resto: rojo 811 Opioides Morfina, Fentanilo Azul 297 Antagonistas de opioides Naloxona Azul 297, con barras diagonales blancas Anestésicos locales Lidocaína, Bupivacaina Gris 401 Antieméticos Droperidol, Ondansetron, Dexametasona Salmón 156 Anticolinérgicos Atropina Verde 367 Neurolépticos Haloperidol, Clorpromazina Salmón 156 Vasopresores (excepto adrenalina) Efedrina Violeta 256 Adrenalina Adrenalina Parte superior: nombre violeta 256, sobre fondo negro Resto: violeta 256 Hipotensores Nitroglicerina, Urapidilo, Hidralazina Violeta 256, con barras diagonales blancas Miscelánea Oxitocina, antibióticos, heparina... Blanco PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 418",
+   "q": "¿Cuándo se debe administrar la profilaxis antibiótica al paciente que se va someter a una cirugía?:",
    "o": [
     "Entre dos y cuatro horas antes de la intervención.",
     "El día anterior a la intervención quirúrgica.",
@@ -590,7 +590,7 @@
     "Elevar los codos y sujetar las manos detrás del cuello para disminuir la tensión de los músculos y de la incisión quirúrgica.",
     "Elevar los codos y sujetar las manos delante del cuello para disminuir la tensión de los músculos y de la incisión quirúrgica.",
     "Elevar los codos y sujetar las manos a ambos lados del cuello para disminuir la tensión.",
-    "Elevar los codos y sujetar las manos enfrentadas entre sí, realizando una fuerza moderada entre ellas, para disminuir la tensión de los músculos y de la incisión quirúrgica. 421 PACIENTE QUIRÚRGICO"
+    "Elevar los codos y sujetar las manos enfrentadas entre sí, realizando una fuerza moderada entre ellas, para disminuir la tensión de los músculos y de la incisión quirúrgica."
    ],
    "a": 0,
    "src": "EIR"
@@ -689,7 +689,7 @@
     "Antes de comenzar el turno de trabajo, antes de realizar una técnica aséptica, después de exponerse a fluidos corporales, después de entrar en contacto con el paciente y después de entrar en contacto con el entorno que rodea al paciente.",
     "Antes de entrar en la habitación del paciente, antes de realizar una técnica aséptica, antes de exponerse a fluidos corporales, antes de entrar en contacto con el paciente y antes de entrar en contacto con el entorno que rodea al paciente.",
     "Antes de entrar en contacto con el paciente, antes de realizar una técnica aséptica, después de exponerse a fluidos corporales, después de entrar en contacto con el paciente y después de entrar en contacto con el entorno que rodea al paciente.",
-    "Antes de realizar una técnica aséptica, antes de exponerse a fluidos corporales, después de entrar en contacto con el paciente, después de entrar en contacto con el entorno que rodea al paciente y después de realizar el registro de los cuidados realizados al paciente. 425 PACIENTE QUIRÚRGICO"
+    "Antes de realizar una técnica aséptica, antes de exponerse a fluidos corporales, después de entrar en contacto con el paciente, después de entrar en contacto con el entorno que rodea al paciente y después de realizar el registro de los cuidados realizados al paciente."
    ],
    "a": 2,
    "src": "EIR"

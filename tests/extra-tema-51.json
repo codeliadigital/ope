@@ -92,7 +92,7 @@
   {
    "q": "Indique cuál es una medida de prevención para la Lesión Pulmonar Aguda Relacionada con la Transfusión:",
    "o": [
-    "Evitar transfundir plasma de donantes de sexo femenino. 613 HEMATOLOGÍA",
+    "Evitar transfundir plasma de donantes de sexo femenino.",
     "Evitar transfundir los concentrados de hematíes en más de 6 horas.",
     "Priorizar la transfusión de plaquetas en situaciones de shock hemorrágico frente a otros componentes.",
     "Es recomendable asociar una perfusión de suero ringer lactato a la transfusión del hemocomponente."
@@ -123,10 +123,10 @@
    "src": "EIR"
   },
   {
-   "q": "Al ir a una habitación a administrar un concentrado de plaquetas, el paciente dice que él tiene el grupo sanguíneo By que en la bolsa pone que el donante es A+. Se consulta con el banco de sangre y se comprueba que el donante es A+, el receptor es By el concentrado de plaquetas a administrar tiene un contenido de hematíes inferior a 2 ml. La actuación correcta sería:",
+   "q": "Al ir a una habitación a administrar un concentrado de plaquetas, el paciente dice que él tiene el grupo sanguíneo B– y que en la bolsa pone que el donante es A+. Se consulta con el banco de sangre y se comprueba que el donante es A+, el receptor es B– y el concentrado de plaquetas a administrar tiene un contenido de hematíes inferior a 2 ml. La actuación correcta sería:",
    "o": [
     "Descartar el uso del concentrado de plaquetas puesto que el paciente presenta incompatibilidad ABO e incompatibilidad Rh.",
-    "Informar al paciente de que la transfusión de plaquetas no precisa de compatibilidad de grupo sanguíneo, ya que posee un contenido de hematíes inferior a 2 ml. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 614",
+    "Informar al paciente de que la transfusión de plaquetas no precisa de compatibilidad de grupo sanguíneo, ya que posee un contenido de hematíes inferior a 2 ml.",
     "Consultar con el hematólogo de guardia y evaluar la posibilidad de premedicar con 40 mg de metilprednisolona intravenosa y 1 g de paracetamol intravenoso 30 minutos antes de la transfusión para evitar efectos secundarios por la incompatibilidad existente.",
     "Administrar las plaquetas a través de un filtro especial para casos de incompatibilidad ABO de 170-200 μm, de forma lenta (1-2 h) y vigilar estrechamente la posible aparición de signos adversos."
    ],
@@ -138,8 +138,8 @@
    "o": [
     "Concentrado de hematíes del grupo B+ y plasma AB.",
     "Concentrado de hematíes 0+ y plasma 0.",
-    "Concentrado de hematíes del grupo By plasma AB.",
-    "Concentrado de hematíes del grupo 0y plasma 0."
+    "Concentrado de hematíes del grupo B– y plasma AB.",
+    "Concentrado de hematíes del grupo 0– y plasma 0."
    ],
    "a": 2,
    "src": "EIR"
@@ -170,7 +170,7 @@
    "q": "¿Cuál de las siguientes personas podría ser donante de sangre?:",
    "o": [
     "Mujer, 23 años, 59 kg de peso. Hace un mes y medio tuvo una fuerte gripe con fiebre de más de 39 ºC, totalmente resuelta hace un mes.",
-    "Varón, 17 años, 89 kg de peso. Deportista de élite federado, con seguimiento estrecho por parte de los médicos de la federación, goza de un excelente estado de salud. PREGUNTAS DE EXAMEN CON RESPUESTA COMENTADAS (2018-2025) 616",
+    "Varón, 17 años, 89 kg de peso. Deportista de élite federado, con seguimiento estrecho por parte de los médicos de la federación, goza de un excelente estado de salud.",
     "Varón, 59 años, 71 kg de peso. Tuvo cáncer de tiroides hace 10 años, actualmente libre de la enfermedad.",
     "Mujer, 28 años, 65 kg de peso. Fue madre de parto natural hace 4 meses, del que está totalmente recuperada y goza actualmente de un excelente estado de salud."
    ],
@@ -227,7 +227,7 @@
     "Es un tratamiento en el cual erradicamos la hematopoyesis del receptor y se crea un espacio en la médula ósea del receptor para albergar a la nueva.",
     "Es un tratamiento en el que no se erradica la hematopoyesis del receptor, pero se crea un espacio en la médula ósea del receptor para albergar a la nueva.",
     "Es un tratamiento en el cual se crea un espacio en la médula ósea, pero sin afectar a la hematopoyesis completa del receptor, afectando únicamente a la serie blanca.",
-    "Es un tratamiento preventivo para la posible aparición de un rechazo del receptor al injerto, llamado síndrome del implante. 619 HEMATOLOGÍA"
+    "Es un tratamiento preventivo para la posible aparición de un rechazo del receptor al injerto, llamado síndrome del implante."
    ],
    "a": 0,
    "src": "EIR"
